@@ -129,8 +129,8 @@ class UserService
                $user = User::where('email' , $passwordReset->email)->first();
 
       //  check if it is not expired: the time is one hour
-                if($passwordReset['created_at'] > now()->addHour()){
-                    $passwordReset->delete();
+                if($passwordReset->created_at->addHour()->isPast()){
+                    ResetCodePassword::where('email', $passwordReset->email)->delete();
                     $message = 'code_is_expire';
                     $code = 422;
                     return ['verifyCode' => 'expire', 'message' => $message , 'code' => $code];
@@ -162,8 +162,8 @@ class UserService
                 //find the code
                 $passwordReset = ResetCodePassword::query()->firstWhere('code' , $codeR);
                 // check if it is not expired: the time is one hour
-                if($passwordReset['created_at'] > now()->addHour()){
-                   $passwordReset->delete();
+                if($passwordReset->created_at->addHour()->isPast()){
+                    ResetCodePassword::where('email', $passwordReset->email)->delete();
 
                    $message = 'code_is_expire';
                    $code = 422;
