@@ -141,23 +141,11 @@ class UserService
                 $verifyCode['code'] = $passwordReset['code'];
 
                $message = 'code_is_valid';
-              //  $verifyCode = $passwordReset['code'];
                 $code = 200;
-
-                // $_SESSION['stored_verify_code'] = $verifyCode;
-                //Session::push('stored_verify_code', $verifyCode );
-
                 return ['verifyCode' => $verifyCode , 'message' => $message , 'code' => $code];
             }
 
             public function resetPassword($request , $codeR) : array{
-
-     // $storedVerifyCode = Session::get('stored_verify_code');
-               //$storedVerifyCode = $_SESSION['stored_verify_code'];
-
-    // if (!$storedVerifyCode) {
-    //     throw new Exception("No verification code found in session", 422);
-    // }
 
                 //find the code
                 $passwordReset = ResetCodePassword::query()->firstWhere('code' , $codeR);
@@ -168,7 +156,7 @@ class UserService
                    $message = 'code_is_expire';
                    $code = 422;
 
-                   return ['', 'message' => $message , 'code' => $code];
+                   return ['role' => 'expire', 'message' => $message , 'code' => $code];
                 }
 
                 //find user's email
