@@ -5,29 +5,22 @@ namespace App\Services;
 
 use App\Models\User;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
-use Illuminate\Support\Facades\Session;
-use Exception;
+use App\Jobs\SendResetPasswordCodeJob;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\File;
+use App\Mail\SendCodeResetPassword;
 use Spatie\Permission\Models\Role;
-use Illuminate\Http\Request;
-use App\Http\Requests\Auth\UserSigninRequest;
-use App\Http\Requests\Auth\UserSignupRequest;
-use App\Http\Requests\Auth\UserForgotPasswordRequest;
-use App\Http\Responses\Response;
-use Illuminate\Contracts\Validation\Validator;
-use Illuminate\Validation\ValidationException;
 use Illuminate\Http\JsonResponse;
 use App\Models\ResetCodePassword;
-use App\Mail\SendCodeResetPassword;
-use Illuminate\Support\Facades\Mail;
+use App\Http\Responses\Response;
+use Illuminate\Http\Request;
+use Exception;
 use Throwable;
 use Storage;
-use Illuminate\Support\Facades\File;
 
-
-class UserService
-{
+class UserService {
 
     public function register($request): array{
         $clientRole = Role::query()->firstWhere('name', 'Client')->id;
@@ -35,18 +28,18 @@ class UserService
          $sourcePath = 'uploads/seeder_photos/defualtProfilePhoto.png';
          $targetPath = 'uploads/det/defualtProfilePhoto.png';
 
-    Storage::disk('public')->put($targetPath, File::get($sourcePath));
+        Storage::disk('public')->put($targetPath, File::get($sourcePath));
 
-              $user = User::query()->create([
-     'role_id' =>  $clientRole,
-     'name' => $request['name'],
-     'nick_name' => $request['nick_name'],
-     'email' => $request['email'],
-     'password' => Hash::make($request['password']),
-     'nationality_id' => $request['nationality_id'],
-     'age' => $request['age'],
-     'photo' => url(Storage::url($targetPath))
-        ]);
+        $user = User::query()->create([
+        'role_id' =>  $clientRole,
+        'name' => $request['name'],
+        'nick_name' => $request['nick_name'],
+        'email' => $request['email'],
+        'password' => Hash::make($request['password']),
+        'nationality_id' => $request['nationality_id'],
+        'age' => $request['age'],
+        'photo' => url(Storage::url($targetPath))
+            ]);
 
         $clientRole = Role::query()->where('name', 'Client')->first();
         $user->assignRole($clientRole);
@@ -62,8 +55,8 @@ class UserService
 
         $message = 'User created successfully';
 
-  return ['user' => $user , 'message' => $message];}
-
+        return ['user' => $user , 'message' => $message];
+    }
 
     public function signin($request): array{
      $user = User::query()->where('email',$request['email'])->first();
@@ -86,8 +79,6 @@ class UserService
      return ['user' => $user , 'message' => $message , 'code' => $code];
     }
 
-
-
     public function logout(): array{
         $user = Auth::user();
         if(!is_null(Auth::user())){
@@ -100,14 +91,13 @@ class UserService
             throw new Exception("invalid token.", 404);
         }
 
-        return ['user' => $user , 'message' => $message , 'code' => $code];}
-
+        return ['user' => $user , 'message' => $message , 'code' => $code];
+    }
 
      public function forgotPassword($request): array{
-
               //Delete all old code user send before
               ResetCodePassword::query()->where('email' , $request['email'])->delete();
-               $data['email'] =  $request['email'];
+                $data['email'] =  $request['email'];
               //generate random code
                 $data['code'] = mt_rand(100000, 999999);
 
@@ -116,11 +106,11 @@ class UserService
                 $codeData = ResetCodePassword::query()->create($data);
 
                 //Send email to user
-                Mail::to($request['email'])->send(new SendCodeResetPassword($codeData['code']));
-
+                SendResetPasswordCodeJob::dispatch($request['email'], $data['code']);
                 $message = 'code sent';
                 $code = 200;
-            return ['user' => $data , 'message' => $message , 'code' => $code];}
+            return ['user' => $data , 'message' => $message , 'code' => $code];
+    }
 
     public function checkCode($request): array{
         //find the code
@@ -128,7 +118,7 @@ class UserService
 
                $user = User::where('email' , $passwordReset->email)->first();
 
-      //  check if it is not expired: the time is one hour
+        //  check if it is not expired: the time is one hour
                 if($passwordReset->created_at->addHour()->isPast()){
                     ResetCodePassword::where('email', $passwordReset->email)->delete();
                     $message = 'code_is_expire';
@@ -142,19 +132,20 @@ class UserService
 
                $message = 'code_is_valid';
                 $code = 200;
-                return ['verifyCode' => $verifyCode , 'message' => $message , 'code' => $code];
-            }
+            return ['verifyCode' => $verifyCode , 'message' => $message , 'code' => $code];
+    }
 
-            public function resetPassword($request , $codeR) : array{
+    public function resetPassword($request , $codeR) : array{
 
                 //find the code
                 $passwordReset = ResetCodePassword::query()->firstWhere('code' , $codeR);
+                $passwordResetDelete =  ResetCodePassword::where('email', $passwordReset->email);
+
                 // check if it is not expired: the time is one hour
                 if($passwordReset->created_at->addHour()->isPast()){
-                    ResetCodePassword::where('email', $passwordReset->email)->delete();
-
-                   $message = 'code_is_expire';
-                   $code = 422;
+                      $passwordResetDelete->delete();
+                      $message = 'code_is_expire';
+                      $code = 422;
 
                    return ['role' => 'expire', 'message' => $message , 'code' => $code];
                 }
@@ -176,10 +167,10 @@ class UserService
                      $code = 200;
 
                 //delete current code
-                $passwordReset->delete;
+                $passwordResetDelete->delete();
 
-              return ['role' =>  $data ,'message' => $message  , 'code' => $code];
-                    }
+        return ['role' =>  $data ,'message' => $message  , 'code' => $code];
+    }
 
     private function appendRolesAndPermissions($user){
            $roles = [];
@@ -198,6 +189,7 @@ class UserService
            }
            $user['permissions']= $permission;
 
-           return $user; }
+        return $user; 
+    }
 
 }
