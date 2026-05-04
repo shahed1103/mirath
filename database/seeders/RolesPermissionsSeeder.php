@@ -5,9 +5,7 @@ use Illuminate\Database\Seeder;
 use Spatie\Permission\Models\Role;
 use Spatie\Permission\Models\Permission;
 use App\Models\User;
-
 use Illuminate\Support\Facades\Hash;
-use Illuminate\Support\Facades\File;
 use Storage;
 
 
@@ -19,12 +17,11 @@ class RolesPermissionsSeeder extends Seeder
         $clientRole = Role::create(['name' => 'Client']);
 
     // 2. Create permissions
-        // $permissions = ['register' , 'signin'];
+        $permissions = ['register' , 'signin'];
 
         // foreach ($permissions as $permissionName) {
         //     Permission::findOrCreate($permissionName, 'web');
         // }
-        $permissions = ['register', 'signin'];
 
 foreach ($permissions as $permissionName) {
     Permission::firstOrCreate([
@@ -38,11 +35,8 @@ foreach ($permissions as $permissionName) {
 
     // 3. Assign permissions
         $superAdminRole->syncPermissions($permissions);
-
-        $sourcePath = public_path('uploads/seeder_photos/defualtProfilePhoto.png');
-        $targetPath = 'uploads/det/defualtProfilePhoto.png';
-
-        Storage::disk('public')->put($targetPath, File::get($sourcePath));
+        
+        $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 
     // 4. Create users for each role
 
@@ -54,7 +48,7 @@ foreach ($permissions as $permissionName) {
             'nick_name' => 'Admin',
             'email' => 'SuperAdmin@example.com',
             'password' => bcrypt('password') ,
-            'photo' => url(Storage::url($targetPath))
+            'photo' => $defaultPhoto
         ]);
 
         $superAdmin->assignRole($superAdminRole);
@@ -71,7 +65,7 @@ foreach ($permissions as $permissionName) {
             'nick_name' => 'Admin',
             'email' => 'Donor@example.com',
             'password' => bcrypt('password') ,
-            'photo' => url(Storage::url($targetPath))
+            'photo' => $defaultPhoto
         ]);
 
         $clientUser->assignRole($clientRole);
@@ -102,7 +96,7 @@ foreach ($permissions as $permissionName) {
                 'email' => $emails[$i],
                 'nationality_id' => $nationalities[$i],
                 'password' => Hash::make($passwords[$i]),
-                'photo' => url(Storage::url($targetPath))
+                'photo' => $defaultPhoto
 
             ]);
 

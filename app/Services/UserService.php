@@ -23,25 +23,21 @@ use Storage;
 class UserService {
 
     public function register($request): array{
-        $clientRole = Role::query()->firstWhere('name', 'Client')->id;
+        $clientRole = Role::query()->where('name', 'Client')->firstOrFail();
 
-         $sourcePath = 'uploads/seeder_photos/defualtProfilePhoto.png';
-         $targetPath = 'uploads/det/defualtProfilePhoto.png';
-
-        Storage::disk('public')->put($targetPath, File::get($sourcePath));
+        $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 
         $user = User::query()->create([
-        'role_id' =>  $clientRole,
+        'role_id' =>  $clientRole->id,
         'name' => $request['name'],
         'nick_name' => $request['nick_name'],
         'email' => $request['email'],
         'password' => Hash::make($request['password']),
         'nationality_id' => $request['nationality_id'],
         'age' => $request['age'],
-        'photo' => url(Storage::url($targetPath))
-            ]);
+        'photo' => $defaultPhoto
+        ]);
 
-        $clientRole = Role::query()->where('name', 'Client')->first();
         $user->assignRole($clientRole);
 
         $permissions = $clientRole->permissions()->pluck('name')->toArray();
@@ -49,7 +45,7 @@ class UserService {
 
         $user->load('roles' , 'permissions');
 
-        $user = User::query()->find($user['id']);
+        // $user = User::query()->find($user['id']);
         $user = $this->appendRolesAndPermissions($user);
         $user['token'] = $user->createToken("token")->plainTextToken;
 

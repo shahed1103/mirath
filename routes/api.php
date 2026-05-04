@@ -36,5 +36,8 @@ Route::post('userResetPassword/{code}' , 'userResetPassword')
 ->name('user.password.reset');
 
 Route::middleware('auth:sanctum')->get('logout', [AuthController::class, 'logout'])->name('user.logout');
+Route::post('/auth/google', [AuthController::class, 'googleSignIn']);
 });
+
+
 
