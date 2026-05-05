@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('nick_name')->nullable();
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
-            $table->string('password');
+            $table->string('password')->nullable();
             $table->string('age')->nullable();
             // $table->foreignId('nationality_id')->constrained('nationalities')->onDelete('cascade');
             $table->foreignId('nationality_id')->nullable()->constrained('nationalities')->nullOnDelete();

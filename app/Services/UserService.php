@@ -16,6 +16,8 @@ use Illuminate\Http\JsonResponse;
 use App\Models\ResetCodePassword;
 use App\Http\Responses\Response;
 use Illuminate\Http\Request;
+use Laravel\Socialite\Facades\Socialite;
+use Illuminate\Support\Str;
 use Exception;
 use Throwable;
 use Storage;
@@ -45,7 +47,7 @@ class UserService {
 
         $user->load('roles' , 'permissions');
 
-        // $user = User::query()->find($user['id']);
+        $user = User::query()->find($user['id']);
         $user = $this->appendRolesAndPermissions($user);
         $user['token'] = $user->createToken("token")->plainTextToken;
 
@@ -55,24 +57,46 @@ class UserService {
     }
 
     public function signin($request): array{
-     $user = User::query()->where('email',$request['email'])->first();
-     if (!is_null($user)){
-        if(!Auth::attempt($request->only(['email' , 'password']))){
-        throw new Exception("User email & password does not with our record.", 401 );
-        }
+        $user = User::query()->where('email',$request['email'])->first();
 
-        else {
-            $user = $this->appendRolesAndPermissions($user);
-            $user['token'] = $user->createToken("token")->plainTextToken;
-            $message = 'User logged in successfully';
-            $code = 200;
-        }
-     }
-     else {
-        throw new Exception("User not found.",  404);
-     }
+            if (!$user) {
+                throw new Exception("User not found.", 404);
+            }
+
+            if (is_null($user->password)) {
+                throw new Exception(
+                    "This account was created using Google. Please login with Google or set a password first.",
+                    403
+                );
+            }
+            if(!Auth::attempt($request->only(['email' , 'password']))){
+            throw new Exception("User email & password does not with our record.", 401 );
+            }
+
+        $user = $this->appendRolesAndPermissions($user);
+        $user['token'] = $user->createToken("token")->plainTextToken;
+        $message = 'User logged in successfully';
+        $code = 200;
 
      return ['user' => $user , 'message' => $message , 'code' => $code];
+    }
+
+    public function setPassword($request , $email): array{
+        $user = User::where('email' , $email)->first();
+
+        if(!$user){
+            throw new Exception("Wrong email user not found.",  404);
+        }
+
+        if (!is_null($user->password)) {
+            throw new Exception("Password already set.",  400);
+        }
+
+        $user->password = Hash::make($request->password);
+        $user->save();
+
+        $message = 'Password set successfully.';
+        return ['user' => $user , 'message' => $message];
     }
 
     public function logout(): array{
@@ -168,6 +192,84 @@ class UserService {
         return ['role' =>  $data ,'message' => $message  , 'code' => $code];
     }
 
+    public function googleSignIn($request) : array{
+        try {
+            // Socialite automatically validates the token with Google
+            $googleUser = Socialite::driver('google')
+                ->stateless()
+                ->userFromToken($request->id_token);
+
+            // Normalize email (e.g., for Gmail aliases)
+            $email = $this->normalizeEmail($googleUser->getEmail());
+
+            // 1. Check if user with Google ID exists
+            $user = User::where('google_id', $googleUser->getId())->first();
+
+            if ($user) {
+                // If yes, return auth token and user
+                $user = $this->appendRolesAndPermissions($user);
+                $user['token'] = $user->createToken("auth_token")->plainTextToken;
+
+                $message = 'Successfully authenticated with Google';
+
+                return ['user' => $user , 'message' => $message];
+            }
+
+            // 2. Check if user with Google email exists but doesn't have Google Sign-In yet
+            $user = User::where('email', $email)->first();
+
+            if ($user) {
+                // User with email found - add Google ID
+                $user->google_id = $googleUser->getId();
+                $user->save();
+                $user['token'] = $user->createToken("auth_token")->plainTextToken;
+                $user = $this->appendRolesAndPermissions($user);
+                $message = 'Successfully authenticated with Google';
+                return ['user' => $user , 'message' => $message];
+            }
+
+            $clientRole = Role::query()->where('name', 'Client')->firstOrFail();
+            $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
+
+            // 3. Create new user
+            $user = User::create([
+                'name' => $googleUser->getName(),
+                'email' => $email,
+                'google_id' => $googleUser->getId(),
+                'role_id' =>  $clientRole->id,
+                'photo' => $defaultPhoto
+            ]);
+
+            $user->assignRole('client');
+            $permissions = $clientRole->permissions()->pluck('name')->toArray();
+            $user->givePermissionTo($permissions);
+
+            $user->load('roles' , 'permissions');
+
+            $user = User::query()->find($user['id']);
+            $user = $this->appendRolesAndPermissions($user);
+            $user['token'] = $user->createToken("auth_token")->plainTextToken;
+            $message = 'Successfully authenticated with Google';
+            return ['user' => $user , 'message' => $message];
+        } catch (\Exception $e) {
+            throw new Exception(config('app.debug') ? $e->getMessage() : 'Authentication failed',  403);
+        }
+    }
+
+    /**
+     * Normalize email (handle Gmail aliases)
+     */
+    private function normalizeEmail(string $email): string{
+         $email = Str::lower(Str::trim($email));
+
+        // Replace googlemail.com with gmail.com
+        if (Str::endsWith($email, '@googlemail.com')) {
+            $email = Str::replace('@googlemail.com', '@gmail.com', $email);
+        }
+
+        return $email;
+    }
+
     private function appendRolesAndPermissions($user){
            $roles = [];
 
@@ -189,3 +291,4 @@ class UserService {
     }
 
 }
+git
