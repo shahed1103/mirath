@@ -115,12 +115,10 @@ class AuthController extends Controller
             $data = $this->userService->resetPassword($request , $codeR);
             return Response::Success($data['role'], $data['message'] , $data['code'] );
        }
-
         catch(Throwable $th){
                 $message = $th->getMessage();
                 $errors [] = $message;
-                $code = $th->getCode();
-                return Response::Errorx($data , $message , $errors , $code);
+                return Response::Errorx($data , $message , $errors);
         }
     }
 

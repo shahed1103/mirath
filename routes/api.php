@@ -3,6 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\DropDownController;
 
 /*
 |--------------------------------------------------------------------------
@@ -38,9 +39,11 @@ Route::post('userResetPassword/{code}' , 'userResetPassword')
 Route::middleware('auth:sanctum')->get('logout', [AuthController::class, 'logout'])->name('user.logout');
 Route::post('authGoogle', [AuthController::class, 'googleSignIn']);
 Route::post('setPassword/{email}', [AuthController::class, 'setPassword']);
-
-
 });
+
+Route::get('getNationalities', [DropDownController::class, 'getNationalities']);
+
+
 
 
 
