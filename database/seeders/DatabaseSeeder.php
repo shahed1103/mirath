@@ -18,6 +18,10 @@ class DatabaseSeeder extends Seeder
         $this->call([
             NationalitySeeder::class,
             RolesPermissionsSeeder::class,
+            ClassificationSeeder::class,
+            FeaturesSeeder::class,
+            BookSeeder::class,
+            ChapterSeeder::class
         ]);
 
     }

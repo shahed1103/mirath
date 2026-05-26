@@ -57,4 +57,8 @@ class User extends Authenticatable
     public function nationality(): BelongsTo{
         return $this->belongsTo(Nationality::class);
     }
+
+    public function readingProgress(): HasMany{
+        return $this->hasMany(ReadingProgress::class);
+    }
 }

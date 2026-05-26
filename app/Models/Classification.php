@@ -4,21 +4,22 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
-class Nationality extends Model
+class Classification extends Model
 {
     use HasFactory;
 
     protected $fillable = [
-        'nationality',
+        'classification',
+        'bio'
     ];
 
         /**
-     * Get all of the comments for the Gender
      *
      * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
-    public function users(): HasMany {
-        return $this->hasMany(User::class);
+    public function books(): HasMany {
+        return $this->hasMany(Book::class);
     }
 }

@@ -30,6 +30,4 @@ class DropDownService {
             'message' => 'all nationalities are retrieved successfully',
         ];
     }
-
-
 }

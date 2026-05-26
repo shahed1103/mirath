@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DropDownController;
+use App\Http\Controllers\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -42,6 +43,15 @@ Route::post('setPassword/{email}', [AuthController::class, 'setPassword']);
 });
 
 Route::get('getNationalities', [DropDownController::class, 'getNationalities']);
+Route::get('getClassifications', [HomeController::class, 'getClassifications']);
+Route::middleware('auth:sanctum')->get('getContinueReading', [HomeController::class, 'getContinueReading']);
+Route::get('getFeatures', [HomeController::class, 'getFeatures']);
+
+Route::middleware('auth:sanctum')->get('getHome', [HomeController::class, 'getHome']);
+
+
+Route::middleware('auth:sanctum')->post('updateReadingProgress', [HomeController::class, 'updateReadingProgress']);
+
 
 
 
