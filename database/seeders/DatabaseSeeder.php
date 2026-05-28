@@ -21,7 +21,8 @@ class DatabaseSeeder extends Seeder
             ClassificationSeeder::class,
             FeaturesSeeder::class,
             BookSeeder::class,
-            ChapterSeeder::class
+            ChapterSeeder::class,
+            ChapterContentSeeder::class
         ]);
 
     }

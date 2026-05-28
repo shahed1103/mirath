@@ -49,6 +49,7 @@ Route::get('getFeatures', [HomeController::class, 'getFeatures']);
 
 Route::middleware('auth:sanctum')->get('getHome', [HomeController::class, 'getHome']);
 
+Route::middleware('auth:sanctum')->get('openContinueReading', [HomeController::class, 'openContinueReading']);
 
 Route::middleware('auth:sanctum')->post('updateReadingProgress', [HomeController::class, 'updateReadingProgress']);
 

@@ -17,10 +17,10 @@ class ChapterSeeder extends Seeder
         $book_ids = [1,2,3,4];
 
 
-        for ($i=0; $i < 4 ; $i++) {
+        for ($i=0; $i < 16 ; $i++) {
             Chapter::query()->create([
-           'title' => $titles[$i] ,
-           'book_id' => $book_ids[$i] ,
+            'title' => $titles[$i % count($titles)],
+            'book_id' => $book_ids[$i % count($book_ids)],
             ]); }
     }
 }

@@ -74,6 +74,19 @@ class HomeController extends Controller
         }
     }
     
+    public function openContinueReading(): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->homeService->openContinueReading();
+            return Response::Success($data['data'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }        
+    }    
+
     public function updateReadingProgress(ReadingProgressRequest $request): JsonResponse {
         $data = [] ;
         try{

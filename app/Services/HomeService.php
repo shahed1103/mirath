@@ -27,11 +27,6 @@ class HomeService {
                 })
                 ->toArray();
         });
-
-        // return [
-        //     'classifications' => $classifications,
-        //     'message' => 'all classifications are retrieved successfully'
-        // ];
         return $classifications;
     }
 
@@ -47,11 +42,6 @@ class HomeService {
                 })
                 ->toArray();
         });
-
-        // return [
-        //     'features' => $features,
-        //     'message' => 'all features are retrieved successfully'
-        // ];
         return $features;
     }
 
@@ -80,11 +70,40 @@ class HomeService {
             'classification' => $progress->book?->classification?->classification,
             'chapter_title' => $progress->chapter?->title,
         ];
-
-        // return ['data' => $data , 'message' => 'book to continue reading is retrived successfully'];
         return $data;
     }
 
+    public function openContinueReading(): array {
+        $progress = ReadingProgress::with([
+            'chapter:id,title' ,
+            'chapter.contents:id,chapter_id,type,url',
+        ])
+            ->where('user_id', auth()->id())
+            ->latest('last_read_at')
+            ->first();
+
+        if (!$progress) {
+            return [
+                'data' => null,
+                'message' => 'No active reading'
+            ];
+
+        }
+        $pdf = $progress->chapter?->contents
+            ->where('type', 'pdf')
+            ->first();
+
+        return [
+            'data' => [
+                'chapter_id' => $progress->chapter?->id,
+                'chapter_title' => $progress->chapter?->title,
+                'pdf_url' => $pdf?->url,
+                'current_page' => $progress->current_page,
+            ],
+            'message' => 'Continue reading data retrieved successfully'
+        ];
+    }
+    
     public function updateReadingProgress($request): array {
         $progress = ReadingProgress::updateOrCreate(
 
