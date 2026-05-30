@@ -6,6 +6,7 @@ use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use App\Models\Chapter;
 use App\Models\ChapterContent;
+use Illuminate\Support\Facades\Storage;
 
 class ChapterContentSeeder extends Seeder
 {
@@ -14,6 +15,14 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
+        $path = 'مصادر التلقي والمعرفة.pdf';
+
+        // if (!Storage::disk('public')->exists($path)) {
+        //     dd('File not found');
+        // }
+
+        $file = url('storage/uploads/det/مصادر التلقي والمعرفة.pdf');
+
         $types = ['pdf', 'video', 'audio'];
         $chapters = Chapter::all();
 
@@ -24,7 +33,8 @@ class ChapterContentSeeder extends Seeder
                 ChapterContent::create([
                     'chapter_id' => $chapter->id,
                     'type' => $type,
-                    'url' => $this->generateFakeUrl($type, $chapter->id),
+                    'url' => $file
+                    // storage_path('app/public/السيرة الذاتية.pdf'),
                 ]);
 
             }
