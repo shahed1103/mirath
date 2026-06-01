@@ -29,4 +29,8 @@ class Chapter extends Model
     public function contents(): HasMany {
         return $this->hasMany(ChapterContent::class);
     }
+
+    public function usersInReviewList(){
+        return $this->belongsToMany(User::class,'chapter_user');
+    }
 }

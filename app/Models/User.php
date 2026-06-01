@@ -62,4 +62,9 @@ class User extends Authenticatable
     public function readingProgress(): HasMany{
         return $this->hasMany(ReadingProgress::class);
     }
+
+    public function reviewChapters(){
+        return $this->belongsToMany(Chapter::class,'chapter_user');
+    }
+
 }

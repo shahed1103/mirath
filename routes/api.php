@@ -6,6 +6,8 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DropDownController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
+use App\Http\Controllers\ChapterReviewController;
+
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -56,6 +58,11 @@ Route::middleware('auth:sanctum')->post('updateReadingProgress', [HomeController
 Route::middleware('auth:sanctum')->get('getClassificationDetails/{classificationId}', [BookController::class, 'getClassificationDetails']);
 
 Route::middleware('auth:sanctum')->get('getBookDetails/{bookId}', [BookController::class, 'getBookDetails']);
+
+Route::middleware('auth:sanctum')->get('addChapterToReviewList/{chapterId}', [ChapterReviewController::class, 'addChapterToReviewList']);
+Route::middleware('auth:sanctum')->get('removeChapterFromReviewList/{chapterId}', [ChapterReviewController::class, 'removeChapterFromReviewList']);
+Route::middleware('auth:sanctum')->get('getReviewList', [ChapterReviewController::class, 'getReviewList']);
+
 
 
 
