@@ -13,9 +13,11 @@ class Book extends Model
 
     protected $fillable = [
         'title',
+        'author_name',
         'bio',
         'photo',
         'classification_id',
+        'level_id',
         'total_pages'
     ];
 
@@ -25,6 +27,10 @@ class Book extends Model
 
     public function classification(): BelongsTo{
         return $this->belongsTo(Classification::class);
+    }
+
+    public function level(): BelongsTo{
+        return $this->belongsTo(Level::class);
     }
 
     public function readingProgress(): HasMany {

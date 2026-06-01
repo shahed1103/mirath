@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DropDownController;
 use App\Http\Controllers\HomeController;
-
+use App\Http\Controllers\BookController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -53,6 +53,7 @@ Route::middleware('auth:sanctum')->get('openContinueReading', [HomeController::c
 
 Route::middleware('auth:sanctum')->post('updateReadingProgress', [HomeController::class, 'updateReadingProgress']);
 
+Route::middleware('auth:sanctum')->get('getClassificationDetails/{classificationId}', [BookController::class, 'getClassificationDetails']);
 
 
 

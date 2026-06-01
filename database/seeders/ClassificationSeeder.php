@@ -21,6 +21,7 @@ class ClassificationSeeder extends Seeder
             Classification::query()->create([
            'classification' => $classifications[$i] ,
            'bio' => $bio[$i] ,
-            ]); }
+            ]); 
+        }
     }
 }

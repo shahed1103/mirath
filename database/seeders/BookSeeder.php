@@ -16,6 +16,7 @@ class BookSeeder extends Seeder
     public function run(): void
     {
         $titles = ['التعامل مع المخالفين' , 'دلائل أصول الإسلام' , 'بوصلة المصلح' , 'مصادر التلقي والمعرفة'];
+        $authors = ['شهد'  , 'راما' , 'رانيا' , 'مروة'];
         $bio = ['سلوكي' , 'شرعي' , 'إصلاحي' , 'فكري'];
         $photos = [
             'health (1).jpg',
@@ -24,6 +25,7 @@ class BookSeeder extends Seeder
             'health (4).jpg'
         ];
         $classifications = [1,2,3,4];
+        $levels = [1,2,3,1];
         $total_pages = [90,100,150,200];
         $fullPaths = [];
 
@@ -37,8 +39,8 @@ class BookSeeder extends Seeder
             if (File::exists($sourcePath)) {
                 Storage::disk('public')->put($targetPath, File::get($sourcePath));
 
-                // $fullPath = url(Storage::url($targetPath));
-                $fullPath =  $targetPath;
+                $fullPath = url(Storage::url($targetPath));
+                // $fullPath =  $targetPath;
 
                 $fullPaths[] = $fullPath;
             } else {
@@ -49,9 +51,11 @@ class BookSeeder extends Seeder
         for ($i=0; $i < 4 ; $i++) {
             Book::query()->create([
            'title' => $titles[$i] ,
+           'author_name' => $authors[$i] ,
            'bio' => $bio[$i] ,
            'photo' => $fullPaths[$i] ,
-           'classification_id'=> $classifications[$i], 
+           'classification_id'=> $classifications[$i],
+           'level_id'=> $levels[$i], 
            'total_pages' => $total_pages[$i]
             ]); }
     }
