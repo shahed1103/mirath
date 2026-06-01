@@ -20,6 +20,7 @@ class DatabaseSeeder extends Seeder
             RolesPermissionsSeeder::class,
             ClassificationSeeder::class,
             FeaturesSeeder::class,
+            StatusSeeder::class,
             LevelSeeder::class,
             BookSeeder::class,
             ChapterSeeder::class,

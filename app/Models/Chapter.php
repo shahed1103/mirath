@@ -13,12 +13,17 @@ class Chapter extends Model
 
     protected $fillable = [
         'title',
-        'book_id'
+        'book_id',
+        'status_id'
     ];
 
     
     public function book(): BelongsTo{
         return $this->belongsTo(Book::class);
+    }
+
+    public function status(): BelongsTo{
+        return $this->belongsTo(Status::class);
     }
 
     public function contents(): HasMany {

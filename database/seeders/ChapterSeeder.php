@@ -15,12 +15,14 @@ class ChapterSeeder extends Seeder
     {    
         $titles = ['سلوكي' , 'شرعي' , 'إصلاحي' , 'فكري'];
         $book_ids = [1,2,3,4];
+        $status_ids = [1,1,1,1];
 
 
         for ($i=0; $i < 16 ; $i++) {
             Chapter::query()->create([
             'title' => $titles[$i % count($titles)],
             'book_id' => $book_ids[$i % count($book_ids)],
+            'status_id' => $status_ids[$i % count($status_ids)],
             ]); }
     }
 }

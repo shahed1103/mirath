@@ -6,35 +6,43 @@ namespace App\Services;
 use App\Models\User;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use App\Models\Classification;
+use App\Models\Book;
 use App\Http\Resources\BookResource;
+use App\Http\Resources\ChapterResource;
+use App\Http\Resources\BookDetailsResource;
 use Exception;
 use Throwable;
 
 class BookService {
 
     public function getClassificationDetails($classificationId): array{
-        $classification = Classification::with([
-            'books' => fn ($query)
-                    => $query 
-                    ->select('id','classification_id','title','author_name','photo','level_id')
-                    ->orderBy('level_id')
-        ])->find($classificationId);
+        $classification = Classification::select('id','bio')
+                            ->with(['books' => fn ($query)
+                                            => $query 
+                                            ->select('id','classification_id','title','author_name','photo','level_id')
+                                            ->orderBy('level_id')
+                            ])->findOrFail($classificationId);
 
         $data = [
-            'bio' => $classification->bio,
-            'books' => BookResource::collection($classification->books),
+                'bio' => $classification->bio,
+                'books' => BookResource::collection($classification->books),
         ];
-        $message = 'Classification Details data retrieved successfully';
+        $message = 'Classification details data retrieved successfully';
         return ['books' => $data , 'message' => $message];
     }
-}
 
-//     return [
-//         'bio' => $classification->bio,
-//         'books' => $classification->books->map(fn ($book) => [
-//             'title' => $book->title,
-//             'author_name' => $book->{'Author name'},
-//             'photo' => $book->photo,
-//         ]),
-//     ];
-// }
+    public function getBookDetails($bookId): array{
+        $book = Book::select('id','title','author_name','photo','total_pages','bio')
+                     ->withCount('chapters')
+                     ->with(['chapters:id,book_id,title,status_id',
+                             'chapters.status:id,status'
+            ])->findOrFail($bookId);
+
+        $data = [
+            'book' => new BookDetailsResource($book),
+            'chapters' => ChapterResource::collection($book->chapters),
+        ];
+        $message = 'Book details data retrieved successfully';
+        return ['chapters' => $data , 'message' => $message];
+    }
+}

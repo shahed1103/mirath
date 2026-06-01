@@ -30,4 +30,17 @@ class BookController extends Controller
             return Response::Error($data , $message , $errors);
         }
     }
+
+    public function getBookDetails($bookId): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->bookService->getBookDetails($bookId);
+            return Response::Success($data['chapters'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
 }
