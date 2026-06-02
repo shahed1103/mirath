@@ -14,7 +14,8 @@ class Chapter extends Model
     protected $fillable = [
         'title',
         'book_id',
-        'status_id'
+        'status_id',
+        'order_number'
     ];
 
     
@@ -32,5 +33,21 @@ class Chapter extends Model
 
     public function usersInReviewList(){
         return $this->belongsToMany(User::class,'chapter_user');
+    }
+
+    public function questions(): HasMany {
+        return $this->hasMany(Question::class);
+    }
+
+    public function exams(): HasMany {
+    return $this->hasMany(Exam::class);
+    }
+
+    public function progress(): HasMany {
+        return $this->hasMany(UserChapterProgress::class);
+    }
+
+    public function questionHistory(): HasMany {
+        return $this->hasMany(UserQuestionHistory::class);
     }
 }

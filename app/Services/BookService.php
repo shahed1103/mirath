@@ -52,6 +52,7 @@ class BookService {
                           ->findOrFail($chapterId)
                           ->contents
                           ->makeHidden('chapter_id');
+
         $message = 'Chapter contents data retrieved successfully';
         return ['contents' => $contents , 'message' => $message];
     }

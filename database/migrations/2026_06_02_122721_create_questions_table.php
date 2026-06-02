@@ -11,22 +11,21 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('chapters', function (Blueprint $table) {
+        Schema::create('questions', function (Blueprint $table) {
             $table->id();
-            $table->string('title');
-            $table->foreignId('book_id')->constrained('books')->onDelete('cascade');
-            $table->integer('order_number');
-            $table->unique(['book_id', 'order_number']);
-            $table->foreignId('status_id')->constrained('statuses')->onDelete('cascade');
+            $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
+            $table->text('question_text'); 
+            $table->text('explanation')->nullable(); 
+            $table->integer('difficulty_score'); 
+            $table->integer('estimated_time');
             $table->timestamps();
         });
     }
-
     /**
      * Reverse the migrations.
      */
     public function down(): void
     {
-        Schema::dropIfExists('chapters');
+        Schema::dropIfExists('questions');
     }
 };

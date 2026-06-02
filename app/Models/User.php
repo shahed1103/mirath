@@ -67,4 +67,15 @@ class User extends Authenticatable
         return $this->belongsToMany(Chapter::class,'chapter_user');
     }
 
+    public function exams(): HasMany{
+        return $this->hasMany(Exam::class);
+    }
+
+    public function chapterProgress(): HasMany {
+        return $this->hasMany(UserChapterProgress::class);
+    }
+
+    public function questionHistory(): HasMany {
+        return $this->hasMany(UserQuestionHistory::class);
+    }
 }
