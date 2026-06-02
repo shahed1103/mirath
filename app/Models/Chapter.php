@@ -14,17 +14,12 @@ class Chapter extends Model
     protected $fillable = [
         'title',
         'book_id',
-        'status_id',
         'order_number'
     ];
 
     
     public function book(): BelongsTo{
         return $this->belongsTo(Book::class);
-    }
-
-    public function status(): BelongsTo{
-        return $this->belongsTo(Status::class);
     }
 
     public function contents(): HasMany {
@@ -46,7 +41,7 @@ class Chapter extends Model
     public function progress(): HasMany {
         return $this->hasMany(UserChapterProgress::class);
     }
-
+    
     public function questionHistory(): HasMany {
         return $this->hasMany(UserQuestionHistory::class);
     }

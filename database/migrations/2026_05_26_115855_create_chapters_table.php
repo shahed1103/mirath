@@ -17,7 +17,6 @@ return new class extends Migration
             $table->foreignId('book_id')->constrained('books')->onDelete('cascade');
             $table->integer('order_number');
             $table->unique(['book_id', 'order_number']);
-            $table->foreignId('status_id')->constrained('statuses')->onDelete('cascade');
             $table->timestamps();
         });
     }

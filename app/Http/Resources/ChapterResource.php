@@ -14,10 +14,16 @@ class ChapterResource extends JsonResource
      */
     public function toArray(Request $request): array
     {
+
+        $isUnlocked = $this->order_number == 1
+        || ($this->progress?->first()->is_open ?? false);
+
+
         return [
             'id' => $this->id,
             'title' => $this->title,
-            'is_unlocked' => $this->order_number == 1 ? true : ($this->progress?->first()->is_unlocked ?? false), 
+            'is_open' => $isUnlocked ? 'مفتوح' : 'مغلق',
+            // 'is_unlocked' => $this->order_number == 1 ? true : ($this->progress?->first()->is_unlocked ?? false), 
         ];
     }
 }

@@ -1,6 +1,5 @@
 <?php
 
-
 namespace App\Services;
 
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
@@ -20,7 +19,7 @@ class ChapterReviewService {
         if($chapter->order_number != 1){
             $isUnLocked = UserChapterProgress::where('user_id' , $user->id)
                 ->where('chapter_id' , $chapterId)
-                ->where('is_unlocked' , true)
+                ->where('is_open' , true)
                 ->exists();
             
             if(!$isUnLocked){

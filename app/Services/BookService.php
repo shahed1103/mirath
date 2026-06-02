@@ -37,11 +37,11 @@ class BookService {
         $userId = auth()->id();
         $book = Book::select('id','title','author_name','photo','total_pages','bio')
                      ->withCount('chapters')
-                     ->with(['chapters:id,book_id,title,status_id,order_number',
+                     ->with(['chapters:id,book_id,title,order_number',
                      'chapters.progress' => 
                      function ($query) use ($userId) {
                          $query->where('user_id', $userId)
-                               ->select( 'id', 'chapter_id', 'is_unlocked'); 
+                               ->select( 'id', 'chapter_id', 'is_open'); 
                          }
                     ])->findOrFail($bookId);
 
@@ -54,13 +54,13 @@ class BookService {
     }
 
     public function getChapterDetails($chapterId): array{
-       
         $userId = auth()->id();
         $chapter = Chapter::findOrFail($chapterId);
-        if($chapter->order_number !=1){
+
+        if($chapter->order_number != 1){
             $isUnlocked = UserChapterProgress::where('user_id' , $userId)
                 ->where('chapter_id' , $chapterId)
-                ->where('is_unlocked' , true)
+                ->where('is_open' , true)
                 ->exists();
 
                 if(!$isUnlocked){
