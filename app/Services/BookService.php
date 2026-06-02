@@ -8,6 +8,7 @@ use App\Models\Book;
 use App\Models\User;
 use App\Models\Chapter;
 use App\Models\Classification;
+use App\Models\UserChapterProgress;
 use App\Http\Resources\BookResource;
 use App\Http\Resources\ChapterResource;
 use App\Http\Resources\BookDetailsResource;
@@ -33,11 +34,16 @@ class BookService {
     }
 
     public function getBookDetails($bookId): array{
+        $userId = auth()->id();
         $book = Book::select('id','title','author_name','photo','total_pages','bio')
                      ->withCount('chapters')
-                     ->with(['chapters:id,book_id,title,status_id',
-                             'chapters.status:id,status'
-            ])->findOrFail($bookId);
+                     ->with(['chapters:id,book_id,title,status_id,order_number',
+                     'chapters.progress' => 
+                     function ($query) use ($userId) {
+                         $query->where('user_id', $userId)
+                               ->select( 'id', 'chapter_id', 'is_unlocked'); 
+                         }
+                    ])->findOrFail($bookId);
 
         $data = [
             'book' => new BookDetailsResource($book),
@@ -48,12 +54,25 @@ class BookService {
     }
 
     public function getChapterDetails($chapterId): array{
-        $contents = Chapter::with(['contents:id,chapter_id,type,url'])
-                          ->findOrFail($chapterId)
-                          ->contents
-                          ->makeHidden('chapter_id');
+       
+        $userId = auth()->id();
+        $chapter = Chapter::findOrFail($chapterId);
+        if($chapter->order_number !=1){
+            $isUnlocked = UserChapterProgress::where('user_id' , $userId)
+                ->where('chapter_id' , $chapterId)
+                ->where('is_unlocked' , true)
+                ->exists();
 
-        $message = 'Chapter contents data retrieved successfully';
+                if(!$isUnlocked){
+                    throw new Exception('Chapter is locked' , 403);
+                }
+        }
+
+        $contents = $chapter->contents()
+            ->get(['id' , 'chapter_id' , 'type' , 'url'])
+            ->makeHidden('chapter_id');
+
+            $message = 'Chapter contents data retrieved successfully';
         return ['contents' => $contents , 'message' => $message];
     }
 }

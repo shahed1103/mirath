@@ -5,12 +5,30 @@ namespace App\Services;
 
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use App\Models\User;
+use App\Models\Chapter;
+use App\Models\UserChapterProgress;
+use Exception;
 use App\Http\Resources\ReviewListResource;
 
 class ChapterReviewService {
 
     public function addChapterToReviewList($chapterId): array{
-        $reviewList = auth()->user()->reviewChapters()->syncWithoutDetaching([$chapterId]);
+        $user = auth()->user();
+
+        $chapter = Chapter::findOrFail($chapterId);
+
+        if($chapter->order_number != 1){
+            $isUnLocked = UserChapterProgress::where('user_id' , $user->id)
+                ->where('chapter_id' , $chapterId)
+                ->where('is_unlocked' , true)
+                ->exists();
+            
+            if(!$isUnLocked){
+                throw new Exception('Chapter is locked' , 403);
+            }
+        }
+
+        $reviewList = $user->reviewChapters()->syncWithoutDetaching([$chapterId]);
         $message = 'chapter add to review list successfully';
         return ['chapter' => null , 'message' => $message];
     }

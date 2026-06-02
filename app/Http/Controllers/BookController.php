@@ -53,7 +53,8 @@ class BookController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::ErrorX($data , $message , $errors , $code);
         }
     }
     
