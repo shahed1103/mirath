@@ -3,10 +3,11 @@
 
 namespace App\Services;
 
-use App\Models\User;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
-use App\Models\Classification;
 use App\Models\Book;
+use App\Models\User;
+use App\Models\Chapter;
+use App\Models\Classification;
 use App\Http\Resources\BookResource;
 use App\Http\Resources\ChapterResource;
 use App\Http\Resources\BookDetailsResource;
@@ -44,5 +45,14 @@ class BookService {
         ];
         $message = 'Book details data retrieved successfully';
         return ['chapters' => $data , 'message' => $message];
+    }
+
+    public function getChapterDetails($chapterId): array{
+        $contents = Chapter::with(['contents:id,chapter_id,type,url'])
+                          ->findOrFail($chapterId)
+                          ->contents
+                          ->makeHidden('chapter_id');
+        $message = 'Chapter contents data retrieved successfully';
+        return ['contents' => $contents , 'message' => $message];
     }
 }

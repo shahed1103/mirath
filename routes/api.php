@@ -45,19 +45,18 @@ Route::post('setPassword/{email}', [AuthController::class, 'setPassword']);
 });
 
 Route::get('getNationalities', [DropDownController::class, 'getNationalities']);
+
 Route::get('getClassifications', [HomeController::class, 'getClassifications']);
 Route::middleware('auth:sanctum')->get('getContinueReading', [HomeController::class, 'getContinueReading']);
 Route::get('getFeatures', [HomeController::class, 'getFeatures']);
-
 Route::middleware('auth:sanctum')->get('getHome', [HomeController::class, 'getHome']);
-
 Route::middleware('auth:sanctum')->get('openContinueReading', [HomeController::class, 'openContinueReading']);
-
 Route::middleware('auth:sanctum')->post('updateReadingProgress', [HomeController::class, 'updateReadingProgress']);
 
 Route::middleware('auth:sanctum')->get('getClassificationDetails/{classificationId}', [BookController::class, 'getClassificationDetails']);
-
 Route::middleware('auth:sanctum')->get('getBookDetails/{bookId}', [BookController::class, 'getBookDetails']);
+Route::middleware('auth:sanctum')->get('getChapterDetails/{chapterId}', [BookController::class, 'getChapterDetails']);
+
 
 Route::middleware('auth:sanctum')->get('addChapterToReviewList/{chapterId}', [ChapterReviewController::class, 'addChapterToReviewList']);
 Route::middleware('auth:sanctum')->get('removeChapterFromReviewList/{chapterId}', [ChapterReviewController::class, 'removeChapterFromReviewList']);
