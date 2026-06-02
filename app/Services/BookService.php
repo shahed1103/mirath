@@ -55,7 +55,8 @@ class BookService {
 
     public function getChapterDetails($chapterId): array{
         $userId = auth()->id();
-        $chapter = Chapter::findOrFail($chapterId);
+        $chapter = Chapter::with('contents')
+            ->findOrFail($chapterId);
 
         if($chapter->order_number != 1){
             $isUnlocked = UserChapterProgress::where('user_id' , $userId)
@@ -67,12 +68,27 @@ class BookService {
                     throw new Exception('Chapter is locked' , 403);
                 }
         }
+            $contents = [
+                'pdf' => null,
+                'audio' => null,
+                'video' => null,
+            ];
 
-        $contents = $chapter->contents()
-            ->get(['id' , 'chapter_id' , 'type' , 'url'])
-            ->makeHidden('chapter_id');
+        foreach ($chapter->contents as $content) {
+            $contents[$content->type] = [
+                'id' => $content->id,
+                'url' => $content->url,
+            ];
+        }
 
-            $message = 'Chapter contents data retrieved successfully';
-        return ['contents' => $contents , 'message' => $message];
+        $data = [
+            'chapter_title' => $chapter->title ?? null,
+            'pdf'           => $contents['pdf'],
+            'audio'         => $contents['audio'],
+            'video'         => $contents['video'],
+        ];
+
+        $message = 'Chapter contents data retrieved successfully';
+        return ['contents' => $data , 'message' => $message];
     }
 }

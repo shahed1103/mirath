@@ -22,8 +22,7 @@ class ChapterResource extends JsonResource
         return [
             'id' => $this->id,
             'title' => $this->title,
-            'is_open' => $isUnlocked ? 'مفتوح' : 'مغلق',
-            // 'is_unlocked' => $this->order_number == 1 ? true : ($this->progress?->first()->is_unlocked ?? false), 
+            'status' => $isUnlocked ? 'مفتوح' : 'مغلق',
         ];
     }
 }
