@@ -4,6 +4,8 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Question extends Model
 {
@@ -14,7 +16,6 @@ class Question extends Model
         'question_text',
         'explanation',
         'difficulty_score',
-        'estimated_time'
     ];
 
     public function chapter(): BelongsTo{
@@ -27,9 +28,5 @@ class Question extends Model
 
     public function history(): HasMany {
         return $this->hasMany(UserQuestionHistory::class);
-    }
-
-    public function examQuestions(): HasMany {
-        return $this->hasMany(ExamQuestion::class);
     }
 }

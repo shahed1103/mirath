@@ -29,7 +29,8 @@ class User extends Authenticatable
         'password',
         'nationality_id',
         'age',
-        'photo'
+        'photo',
+        'points'
     ];
 
     /**

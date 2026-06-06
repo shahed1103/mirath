@@ -15,9 +15,8 @@ return new class extends Migration
             $table->id();
             $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
             $table->text('question_text'); 
-            $table->text('explanation')->nullable(); 
+            $table->text('explanation'); 
             $table->integer('difficulty_score'); 
-            $table->integer('estimated_time');
             $table->timestamps();
         });
     }

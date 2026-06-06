@@ -15,12 +15,15 @@ return new class extends Migration
             $table->id();
             $table->foreignId('user_id')->constrained('users')->onDelete('cascade');
             $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
-            $table->timestamp('started_at'); 
-            $table->timestamp('finished_at')->nullable(); 
-            $table->float('total_score')->default(0); 
-            $table->boolean('passed')->default(false); 
-            $table->integer('total_time'); 
-            $table->enum('status', [ 'in_progress', 'completed', 'expired', 'left' ])->default('in_progress');
+            $table->integer('questions_answered'); 
+            $table->integer('correct_answers');
+            $table->integer('estimated_duration'); 
+            $table->float('current_level_score'); 
+            $table->boolean('success')->default(false);;
+            $table->enum('status', [ 'active', 'finished']);
+            $table->dateTime('started_at');
+            $table->dateTime('finished_at')->nullable();
+             
             $table->timestamps();
         });
     }

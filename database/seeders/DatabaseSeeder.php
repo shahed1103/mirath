@@ -24,6 +24,10 @@ class DatabaseSeeder extends Seeder
             BookSeeder::class,
             ChapterSeeder::class,
             ChapterContentSeeder::class,
+            QuestionSeeder::class,
+            QuestionChoiceSeeder::class,     
+            QuestionHistorySeeder::class,     
+                   
         ]);
 
     }

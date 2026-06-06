@@ -16,11 +16,7 @@ return new class extends Migration
             $table->foreignId('user_id')->constrained('users')->onDelete('cascade');
             $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
             $table->boolean('is_open')->default(false);
-            // $table->boolean('is_unlocked')->default(false); 
-            // $table->boolean('is_completed')->default(false); 
-            // $table->float('current_score'); 
-            // $table->float('current_level_score')->default(500); 
-            // $table->integer('attempts_count')->default(0); 
+            $table->float('current_level_score')->default(400); 
             $table->unique([ 'user_id', 'chapter_id' ]);
             $table->timestamps();
         });

@@ -21,6 +21,7 @@ return new class extends Migration
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password')->nullable();
             $table->string('age')->nullable();
+            $table->integer('points')->default(0);
             // $table->foreignId('nationality_id')->constrained('nationalities')->onDelete('cascade');
             $table->foreignId('nationality_id')->nullable()->constrained('nationalities')->nullOnDelete();
 

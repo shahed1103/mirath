@@ -14,11 +14,11 @@ return new class extends Migration
         Schema::create('user_qusetion_histories', function (Blueprint $table) {
             $table->id();
             $table->foreignId('user_id')->constrained('users')->onDelete('cascade');
-            $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
+            // $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
             $table->foreignId('question_id')->constrained('questions')->onDelete('cascade');
-            $table->integer('appeared_count') ->default(1); 
-            $table->timestamp('last_seen_at') ->nullable(); 
-            $table->boolean('answered_correctly') ->nullable(); 
+            // $table->integer('appeared_count') ->default(1); 
+            // $table->timestamp('last_seen_at') ->nullable(); 
+            // $table->boolean('answered_correctly') ->nullable(); 
             $table->unique([ 'user_id', 'question_id' ]);
             $table->timestamps();
         });

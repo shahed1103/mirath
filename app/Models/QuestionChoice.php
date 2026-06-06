@@ -18,11 +18,4 @@ class QuestionChoice extends Model
     public function question(){
         return $this->belongsTo(Question::class);
     }
-
-    public function examQuestions(){
-        return $this->hasMany(
-            ExamQuestion::class,
-            'selected_choice_id'
-        );
-    }
 }

@@ -12,12 +12,8 @@ class UserChapterProgress extends Model
     protected $fillable = [
         'user_id',
         'chapter_id',
-        'is_open'
-        // 'is_unlocked',
-        // 'is_completed',
-        // 'current_score',
-        // 'current_level_score',
-        // 'attempts_count'
+        'is_open',
+        'current_level_score',
     ];
 
     protected $casts = [

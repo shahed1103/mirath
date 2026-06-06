@@ -42,7 +42,7 @@ class Chapter extends Model
         return $this->hasMany(UserChapterProgress::class);
     }
     
-    public function questionHistory(): HasMany {
-        return $this->hasMany(UserQuestionHistory::class);
-    }
+    // public function questionHistory(): HasMany {
+    //     return $this->hasMany(UserQuestionHistory::class);
+    // }
 }

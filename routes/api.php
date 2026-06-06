@@ -6,6 +6,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DropDownController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
+use App\Http\Controllers\QuizController;
 use App\Http\Controllers\ChapterReviewController;
 
 /*
@@ -64,5 +65,7 @@ Route::middleware('auth:sanctum')->get('getReviewList', [ChapterReviewController
 
 
 
+Route::middleware('auth:sanctum')->get('startQuiz/{chapterId}', [QuizController::class, 'startQuiz']);
+Route::middleware('auth:sanctum')->get('submitAnswer/{sessionId}/{questionId}/{choiceId}', [QuizController::class, 'submitAnswer']);
 
-
+// submitAnswer($sessionId , $questionId , $choiceId)
