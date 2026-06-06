@@ -67,5 +67,6 @@ Route::middleware('auth:sanctum')->get('getReviewList', [ChapterReviewController
 
 Route::middleware('auth:sanctum')->get('startQuiz/{chapterId}', [QuizController::class, 'startQuiz']);
 Route::middleware('auth:sanctum')->get('submitAnswer/{sessionId}/{questionId}/{choiceId}', [QuizController::class, 'submitAnswer']);
+Route::middleware('auth:sanctum')->get('endQuiz/{sessionId}', [QuizController::class, 'endQuiz']);
 
-// submitAnswer($sessionId , $questionId , $choiceId)
+

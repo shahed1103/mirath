@@ -36,7 +36,7 @@ class QuestionChoiceSeeder extends Seeder
         $choice_text = ['التعامل مع المخالفين' , 'دلائل أصول الإسلام' , 'بوصلة المصلح' , 'مصادر التلقي والمعرفة' ];
         $is_correct = [false , false , false ,true];
 
-        for ($i=0; $i < 60 ; $i++) {
+        for ($i=0; $i < 80 ; $i++) {
             QuestionChoice::query()->create([
            'question_id'=> $question_ids[$i],
            'choice_text' => $choice_text[$i % count($choice_text)],

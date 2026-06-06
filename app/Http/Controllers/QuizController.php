@@ -26,7 +26,8 @@ class QuizController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::ErrorX($data , $message , $errors , $code);
         }
     }
 
@@ -39,6 +40,23 @@ class QuizController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
         }
-    }}
+    }
+
+    public function endQuiz($sessionId): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->quizService->endQuiz($sessionId);
+            return Response::Success($data['quiz'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
+        }
+    }
+    
+}

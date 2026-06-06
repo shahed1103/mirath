@@ -28,7 +28,7 @@ class QuizService {
         ->first();
 
         if ($activeExam) {
-            throw new Exception('You already have an active quiz');
+            throw new Exception('You already have an active quiz' , 409);
         }
 
         $currentLevel = UserChapterProgress::where('user_id',$userId)
@@ -104,18 +104,8 @@ class QuizService {
         }
 
         if (!$question) {
-            throw new Exception(
-                'No questions available for this chapter'
-            );
+            throw new Exception('No questions available for this chapter' , 404);
         }
-
-            // // $choices = QuestionChoice::where('question_id' , $question->id)->get();
-            // // $question->load('choices');
-
-            // $data = [
-            //     'question' => $question,
-            //     // 'choices' =>  $question->choices
-            // ];
         return $question;
                                             
     }
@@ -148,12 +138,11 @@ class QuizService {
             $session = Exam::findOrFail($sessionId);
             
             if ($result = $this->checkQuizTime($session)) {
-                    print("time");
                     return $result;
             }
 
             if ($session->status !== 'active') {
-                throw new Exception('Quiz finished');
+                throw new Exception('Quiz finished' , 409);
             }
 
             $question = Question::findOrFail($questionId);
@@ -167,7 +156,7 @@ class QuizService {
                 ->exists();
 
             if ($alreadyAnswered) {
-                throw new Exception('Question already answered');
+                throw new Exception('Question already answered' , 409);
             }
 
             $isCorrect = $correctChoice->id == $choiceId;
@@ -208,13 +197,12 @@ class QuizService {
 
             if ($session->questions_answered >= self::QUESTIONS_PER_EXAM) {
                 $result = $this->endQuiz($sessionId);
-                    print("25");
                     return $result;
             }
 
             $nextQuestion = $this->generateQuiz($userId , $session->chapter_id , $currentLevel);
 
-                if($isCorrect){
+            if($isCorrect){
                     $data = [
                     'is_correct' => $isCorrect,
                     'choice_id' => $correctChoice->id,
@@ -241,17 +229,25 @@ class QuizService {
     public function endQuiz($sessionId): array{
         $point = 0;
         $userId = auth()->id();
+        $user = auth()->user();
         $session = Exam::findOrFail($sessionId);
         $session->status = 'finished';
         $session->finished_at = now();
+        $session->success = false;
         $session->save();
+
+        if ($session->status === 'finished') {
+            throw new Exception('Quiz already finished', 409);
+        }
+
         $tryCount = Exam::where('user_id' , $userId)->where('chapter_id' , $session->chapter_id)->count();
         
-        $user_points = auth()->user()->points;
+        $user_points = $user->points;
 
         $correct_answers_pricent = ($session->correct_answers *100)/self::QUESTIONS_PER_EXAM ;
             if($correct_answers_pricent >= 60){
                 $session->success = true;
+                $session->save();
 
                 $order_number = Chapter::where('id' , $session->chapter_id)->value('order_number');
                 $new_chapters_open = Chapter::where('order_number' , $order_number+1)->firstOrFail();
@@ -268,6 +264,8 @@ class QuizService {
                 if($tryCount == 1){
                     $point = 3;
                     $user_points = $user_points + $point;  
+                    $user->points =  $user_points;
+                    $user->save();
                 }
             }
             $data = [
