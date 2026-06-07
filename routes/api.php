@@ -69,5 +69,6 @@ Route::middleware('auth:sanctum')->get('startQuiz/{chapterId}', [QuizController:
 Route::middleware('auth:sanctum')->get('submitAnswer/{sessionId}/{questionId}/{choiceId}', [QuizController::class, 'submitAnswer']);
 Route::middleware('auth:sanctum')->get('endQuiz/{sessionId}', [QuizController::class, 'endQuiz']);
 Route::middleware('auth:sanctum')->get('quizResult/{chapterId}', [QuizController::class, 'quizResult']);
-
+Route::middleware('auth:sanctum')->post('getOpenQuestion/{chapterId}', [QuizController::class, 'getOpenQuestion']);
+Route::middleware('auth:sanctum')->get('getAnswer/{questionId}', [QuizController::class, 'getAnswer']);
 

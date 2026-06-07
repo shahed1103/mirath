@@ -42,7 +42,8 @@ class Chapter extends Model
         return $this->hasMany(UserChapterProgress::class);
     }
     
-    // public function questionHistory(): HasMany {
-    //     return $this->hasMany(UserQuestionHistory::class);
-    // }
+    public function openQuestions(): HasMany {
+        return $this->hasMany(OpenQuestion::class)
+                    ->orderBy('order_number');
+    }
 }

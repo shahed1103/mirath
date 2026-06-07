@@ -8,13 +8,12 @@ use App\Models\User;
 use App\Models\Exam;
 use App\Models\Chapter;
 use App\Models\Question;
+use App\Models\OpenQuestion;
 use App\Models\QuestionChoice;
 use App\Models\UserChapterProgress;
 use App\Models\UserQusetionHistory;
 use App\Http\Resources\QuizResultResource;
 use App\Http\Resources\QuizQuestionResource;
-// use App\Http\Resources\QuizResultResource;
-
 use Exception;
 use Throwable;
 use DB;
@@ -261,7 +260,7 @@ class QuizService {
 
                 $tryCount = Exam::where('user_id' , $user->id)->where('chapter_id' , $session->chapter_id)->count();
     
-                if($tryCount == 1){
+                if($tryCount == 1 && $correctPercentage >=90){
                     $pointsEarned = 3;
                     $user->increment('points', 3); 
                 }
@@ -296,6 +295,53 @@ class QuizService {
 
         $data =  new QuizResultResource($passedExam);
         return ['quiz' => $data , 'message' => 'quiz result'];
+    }
+
+    public function getOpenQuestion($chapterId, int $index = 0): array {
+        $questionsCount = OpenQuestion::where('chapter_id', $chapterId)->count();
+
+        if ($questionsCount === 0) {
+            throw new Exception('No questions found', 404);
+        }
+
+        if ($index < 0 || $index >= $questionsCount) {
+            throw new Exception('Question index out of range', 404);
+        }
+
+        $question = OpenQuestion::select('id', 'question_text')
+            ->where('chapter_id', $chapterId)
+            ->orderBy('order_number')
+            ->offset($index)
+            ->firstOrFail();
+
+        $data = [
+            'question' => [
+                'id' => $question->id,
+                'question_text' => $question->question_text,
+            ],
+            'navigation' => [
+                'current_index' => $index,
+                'total_questions' => $questionsCount,
+                'has_previous' => $index > 0,
+                'has_next' => $index < ($questionsCount - 1),
+            ]
+        ];
+        return ['question' => $data , 'message' => 'question retrieved successfully'];
+    }
+
+    public function getAnswer($questionId): array {
+        $question = OpenQuestion::select(
+                'id',
+                'question_text',
+                'answer'
+            )
+            ->findOrFail($questionId);
+
+        
+        return [
+            'answer' => $question->answer,
+            'message' => 'answer retrieved successfully'
+        ];
     }
 
 }

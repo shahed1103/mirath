@@ -26,8 +26,8 @@ class DatabaseSeeder extends Seeder
             ChapterContentSeeder::class,
             QuestionSeeder::class,
             QuestionChoiceSeeder::class,     
-            QuestionHistorySeeder::class,     
-                   
+            QuestionHistorySeeder::class,
+            OpenQuestionSeeder::class             
         ]);
 
     }
