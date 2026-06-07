@@ -7,6 +7,9 @@ use App\Http\Controllers\DropDownController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
 use App\Http\Controllers\QuizController;
+use App\Http\Controllers\MeetingController;
+
+
 use App\Http\Controllers\ChapterReviewController;
 
 /*
@@ -71,4 +74,7 @@ Route::middleware('auth:sanctum')->get('endQuiz/{sessionId}', [QuizController::c
 Route::middleware('auth:sanctum')->get('quizResult/{chapterId}', [QuizController::class, 'quizResult']);
 Route::middleware('auth:sanctum')->post('getOpenQuestion/{chapterId}', [QuizController::class, 'getOpenQuestion']);
 Route::middleware('auth:sanctum')->get('getAnswer/{questionId}', [QuizController::class, 'getAnswer']);
+
+
+Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 
