@@ -11,6 +11,10 @@ use App\Models\Question;
 use App\Models\QuestionChoice;
 use App\Models\UserChapterProgress;
 use App\Models\UserQusetionHistory;
+use App\Http\Resources\QuizResultResource;
+use App\Http\Resources\QuizQuestionResource;
+// use App\Http\Resources\QuizResultResource;
+
 use Exception;
 use Throwable;
 use DB;
@@ -22,16 +26,18 @@ class QuizService {
     public function startQuiz($chapterId): array{
         $userId = auth()->id();
 
-        $activeExam = Exam::where('user_id', $userId)
-        ->where('chapter_id', $chapterId)
-        ->where('status', 'active')
-        ->first();
+        $examQuery = Exam::where('user_id', $userId)
+                        ->where('chapter_id', $chapterId);
 
-        if ($activeExam) {
-            throw new Exception('You already have an active quiz' , 409);
+        if ($examQuery->clone()->where('success', true)->exists()) {
+            throw new Exception('You have already passed this chapter', 409);
         }
 
-        $currentLevel = UserChapterProgress::where('user_id',$userId)
+        if ($examQuery->clone()->where('status', 'active')->exists()) {
+            throw new Exception('You already have an active quiz', 409);
+        }
+
+        $currentLevel = UserChapterProgress::where('user_id', $userId)
         ->where('chapter_id', $chapterId)
         ->value('current_level_score') ?? 400;
 
@@ -53,7 +59,7 @@ class QuizService {
         $data = [
             'session_id' => $session->id,
             'estimated_duration' => $estimatedDuration,
-            'question' => $question ,
+            'question' => new QuizQuestionResource($question),
         ];
 
         return [
@@ -202,79 +208,69 @@ class QuizService {
 
             $nextQuestion = $this->generateQuiz($userId , $session->chapter_id , $currentLevel);
 
+            $data = [
+                'is_correct' => $isCorrect,
+                'questions_answered' => $session->questions_answered,
+                'remaining_questions' => self::QUESTIONS_PER_EXAM - $session->questions_answered,
+                'next_question' => new QuizQuestionResource($nextQuestion),
+
+            ];
             if($isCorrect){
-                    $data = [
-                    'is_correct' => $isCorrect,
-                    'choice_id' => $correctChoice->id,
-                    'next_question' => $nextQuestion,
-                    'questions_answered' => $session->questions_answered,
-                    'remaining_questions' => self::QUESTIONS_PER_EXAM - $session->questions_answered,
-                    ];
-                return ['quiz' => $data , 'message' => 'answered successfully'];
+                $data['choice_id'] = $correctChoice->id;
             } else {
-                $data = [
-                    'is_correct' => $isCorrect,
-                    'choice_id' => $choiceId,
-                    'correct_choice_id' => $correctChoice->id,
-                    'explanation' => $question->explanation,
-                    'next_question' => $nextQuestion,
-                    'questions_answered' => $session->questions_answered,
-                    'remaining_questions' => self::QUESTIONS_PER_EXAM - $session->questions_answered,
-                ];
-                return ['quiz' => $data , 'message' => 'answered successfully'];
+                    $data['choice_id'] = $choiceId;
+                    $data['correct_choice_id'] = $correctChoice->id;
+                    $data['explanation'] = $question->explanation;
             }
+            return [
+                'quiz' => $data,
+                'message' => 'answered successfully'
+            ];
         });
     }
 
     public function endQuiz($sessionId): array{
-        $point = 0;
-        $userId = auth()->id();
+
         $user = auth()->user();
         $session = Exam::findOrFail($sessionId);
-        $session->status = 'finished';
-        $session->finished_at = now();
-        $session->success = false;
-        $session->save();
+        $session->update([
+            'status' => 'finished',
+            'finished_at' => now(),
+            'success' => false,
+        ]);
 
-        if ($session->status === 'finished') {
-            throw new Exception('Quiz already finished', 409);
-        }
+        $correctPercentage  = ($session->correct_answers *100)/self::QUESTIONS_PER_EXAM ;
+        $isSuccess = $correctPercentage >= 60;
+        $session->success = $isSuccess;
 
-        $tryCount = Exam::where('user_id' , $userId)->where('chapter_id' , $session->chapter_id)->count();
-        
-        $user_points = $user->points;
+        $pointsEarned = 0;
 
-        $correct_answers_pricent = ($session->correct_answers *100)/self::QUESTIONS_PER_EXAM ;
-            if($correct_answers_pricent >= 60){
-                $session->success = true;
-                $session->save();
+        $currentChapter = Chapter::find($session->chapter_id);
+        $nextChapter = Chapter::where('order_number', $currentChapter->order_number + 1)->first();
 
-                $order_number = Chapter::where('id' , $session->chapter_id)->value('order_number');
-                $new_chapters_open = Chapter::where('order_number' , $order_number+1)->firstOrFail();
-
+            if($isSuccess && $nextChapter){
                 UserChapterProgress::updateOrCreate(
                     [
-                        'user_id' => $userId,
-                        'chapter_id' => $new_chapters_open->id
+                        'user_id' => $user->id,
+                        'chapter_id' => $nextChapter->id
                     ],
                     [
                         'is_open' => true
                     ]
                 );  
+
+                $tryCount = Exam::where('user_id' , $user->id)->where('chapter_id' , $session->chapter_id)->count();
+    
                 if($tryCount == 1){
-                    $point = 3;
-                    $user_points = $user_points + $point;  
-                    $user->points =  $user_points;
-                    $user->save();
+                    $pointsEarned = 3;
+                    $user->increment('points', 3); 
                 }
             }
-            $data = [
-                    'success' => $session->success,
-                    'correct_answers' => $session->correct_answers,
-                    'correct_answers_pricent' => $correct_answers_pricent,
-                    'new_points' => $point ,
-                    'all_user_points' => $user_points
-            ];
+            $session->points = $pointsEarned;
+            $session->save();
+
+           $data =  new QuizResultResource($session);
+
             return ['quiz' => $data , 'message' => 'quiz end'];
     }
 
@@ -286,6 +282,20 @@ class QuizService {
 
         return $result;
         }
+    }
+
+    public function quizResult($chapterId): array{
+        $exam = Chapter::with('exams')->findOrFail($chapterId);
+
+        $user = auth()->user();
+        $passedExam = $exam->exams()
+            ->where('user_id', $user->id)
+            ->where('success', true)
+            ->latest()
+            ->first();
+
+        $data =  new QuizResultResource($passedExam);
+        return ['quiz' => $data , 'message' => 'quiz result'];
     }
 
 }

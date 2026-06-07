@@ -64,9 +64,9 @@ class BookService {
                 ->where('is_open' , true)
                 ->exists();
 
-                if(!$isUnlocked){
-                    throw new Exception('Chapter is locked' , 403);
-                }
+            if(!$isUnlocked){
+                throw new Exception('Chapter is locked' , 403);
+            }
         }
             $contents = [
                 'pdf' => null,

@@ -23,6 +23,7 @@ return new class extends Migration
             $table->enum('status', [ 'active', 'finished']);
             $table->dateTime('started_at');
             $table->dateTime('finished_at')->nullable();
+            $table->integer('points')->default(0);
              
             $table->timestamps();
         });

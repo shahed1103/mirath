@@ -33,16 +33,16 @@ class QuizController extends Controller
 
     public function submitAnswer($sessionId , $questionId , $choiceId): JsonResponse {
         $data = [] ;
-        try{
+        // try{
             $data = $this->quizService->submitAnswer($sessionId , $questionId , $choiceId);
             return Response::Success($data['quiz'], $data['message']);
-        }
-        catch(Throwable $th){
-            $message = $th->getMessage();
-            $errors [] = $message;
-            $code = $th->getCode();
-            return Response::Error($data , $message , $errors , $code);
-        }
+        // }
+        // catch(Throwable $th){
+        //     $message = $th->getMessage();
+        //     $errors [] = $message;
+        //     $code = $th->getCode();
+        //     return Response::Error($data , $message , $errors , $code);
+        // }
     }
 
     public function endQuiz($sessionId): JsonResponse {
@@ -58,5 +58,18 @@ class QuizController extends Controller
             return Response::Error($data , $message , $errors , $code);
         }
     }
-    
+
+    public function quizResult($chapterId): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->quizService->quizResult($chapterId);
+            return Response::Success($data['quiz'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
+
 }

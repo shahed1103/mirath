@@ -21,7 +21,8 @@ class Exam extends Model
         'status',
         'started_at',
         'finished_at',
-        'success'
+        'success',
+        'points'
     ];
 
     public function user(): BelongsTo{

@@ -18,11 +18,17 @@ class ChapterResource extends JsonResource
         $isUnlocked = $this->order_number == 1
         || ($this->progress?->first()->is_open ?? false);
 
+        $passedExam = $this->exams()
+            ->where('user_id', auth()->id())
+            ->where('success', true)
+            ->latest()
+            ->first();
 
         return [
             'id' => $this->id,
             'title' => $this->title,
             'status' => $isUnlocked ? 'مفتوح' : 'مغلق',
+            'exam status' => (bool) $passedExam ,
         ];
     }
 }
