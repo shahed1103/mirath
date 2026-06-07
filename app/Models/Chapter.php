@@ -46,4 +46,8 @@ class Chapter extends Model
         return $this->hasMany(OpenQuestion::class)
                     ->orderBy('order_number');
     }
+
+    public function summaries(): HasMany{
+    return $this->hasMany(Summary::class);
+    }
 }

@@ -7,6 +7,7 @@ use App\Http\Controllers\DropDownController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
 use App\Http\Controllers\QuizController;
+use App\Http\Controllers\SummaryController;
 use App\Http\Controllers\MeetingController;
 
 
