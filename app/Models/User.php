@@ -79,4 +79,9 @@ class User extends Authenticatable
     public function questionHistory(): HasMany {
         return $this->hasMany(UserQuestionHistory::class);
     }
+
+    public function summaries(): HasMany{
+    return $this->hasMany(Summary::class);
+    }
+    
 }

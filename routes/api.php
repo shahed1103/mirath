@@ -7,6 +7,7 @@ use App\Http\Controllers\DropDownController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
 use App\Http\Controllers\QuizController;
+use App\Http\Controllers\SummaryController;
 use App\Http\Controllers\ChapterReviewController;
 
 /*
@@ -72,3 +73,8 @@ Route::middleware('auth:sanctum')->get('quizResult/{chapterId}', [QuizController
 Route::middleware('auth:sanctum')->post('getOpenQuestion/{chapterId}', [QuizController::class, 'getOpenQuestion']);
 Route::middleware('auth:sanctum')->get('getAnswer/{questionId}', [QuizController::class, 'getAnswer']);
 
+Route::middleware('auth:sanctum')->post('addSummary/{chapterId}', [SummaryController::class, 'addSummary']);
+Route::middleware('auth:sanctum')->post('editSummary/{summaryId}', [SummaryController::class, 'editSummary']);
+Route::middleware('auth:sanctum')->get('summaryDetails/{summaryId}', [SummaryController::class, 'summaryDetails']);
+Route::middleware('auth:sanctum')->get('deleteSummary/{summaryId}', [SummaryController::class, 'deleteSummary']);
+Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::class, 'allCreatedSummary']);
