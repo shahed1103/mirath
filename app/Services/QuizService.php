@@ -21,7 +21,7 @@ use DB;
 
 class QuizService {
     private const QUESTIONS_PER_EXAM = 5;
-    
+
     public function startQuiz($chapterId): array{
         $userId = auth()->id();
 
@@ -84,7 +84,7 @@ class QuizService {
         ];
 
         $question = null;
-        
+
         foreach ($ranges as $range) {
 
             $question = Question::with('choices')->where('chapter_id', $chapterId)
@@ -112,7 +112,7 @@ class QuizService {
             throw new Exception('No questions available for this chapter' , 404);
         }
         return $question;
-                                            
+
     }
 
     private function calculateEstimatedDuration(int $currentLevel): int {
@@ -141,7 +141,7 @@ class QuizService {
 
             $userId = auth()->id();
             $session = Exam::findOrFail($sessionId);
-            
+
             if ($result = $this->checkQuizTime($session)) {
                     return $result;
             }
@@ -182,8 +182,8 @@ class QuizService {
                 $session->correct_answers++;
             } else {
                 $currentLevel -= $change;
-            }            
-            
+            }
+
             $currentLevel = max(100,min(900, $currentLevel));
 
             $session->questions_answered++;
@@ -256,13 +256,13 @@ class QuizService {
                     [
                         'is_open' => true
                     ]
-                );  
+                );
 
                 $tryCount = Exam::where('user_id' , $user->id)->where('chapter_id' , $session->chapter_id)->count();
-    
+
                 if($tryCount == 1 && $correctPercentage >=90){
                     $pointsEarned = 3;
-                    $user->increment('points', 3); 
+                    $user->increment('points', 3);
                 }
             }
             $session->points = $pointsEarned;
@@ -297,6 +297,7 @@ class QuizService {
         return ['quiz' => $data , 'message' => 'quiz result'];
     }
 
+    
     public function getOpenQuestion($chapterId, int $index = 0): array {
         $questionsCount = OpenQuestion::where('chapter_id', $chapterId)->count();
 
@@ -337,7 +338,7 @@ class QuizService {
             )
             ->findOrFail($questionId);
 
-        
+
         return [
             'answer' => $question->answer,
             'message' => 'answer retrieved successfully'

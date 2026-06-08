@@ -16,19 +16,14 @@ return new class extends Migration
     $table->id();
 
     $table->string('title');
-
     $table->uuid('room_id')->unique();
-
     $table->text('description')->nullable();
-
     $table->foreignId('created_by')
         ->constrained('users')
         ->cascadeOnDelete();
 
     $table->timestamp('started_at')->nullable();
-
     $table->timestamp('ended_at')->nullable();
-
     $table->timestamps();
 });
     }

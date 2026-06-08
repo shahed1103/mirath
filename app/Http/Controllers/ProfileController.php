@@ -18,18 +18,40 @@ class ProfileController extends Controller
     }
 
 
-public function getSuccessfulExamsCount(): JsonResponse
+public function getStudentStatistics(): JsonResponse
 {
     $data = [];
 
     try {
-        $data = $this->profileService->getSuccessfulExamsCount();
+        $data = $this->examService->getStudentStatistics();
 
         return Response::Success(
-            ['count' => $data['count']],
+            $data['statistics'],
             $data['message']
         );
-    } catch (Throwable $th) {
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+
+        return Response::Error($data, $message, $errors);
+    }
+}
+
+
+public function getAllLibraryBooks(): JsonResponse
+{
+    $data = [];
+
+    try {
+        $data = $this->libraryBookService->getAllLibraryBooks();
+
+        return Response::Success(
+            $data['books'],
+            $data['message']
+        );
+    }
+    catch (Throwable $th) {
         $message = $th->getMessage();
         $errors[] = $message;
 
