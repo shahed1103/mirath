@@ -12,9 +12,9 @@ class ContentProgress extends Model
 
     protected $fillable = [
         'user_id',
-        'content_id', // could be book_id or chapter_id
-        'progress', // percentage or page number
-        'last_accessed_at', // timestamp of last access
+        'content_id', 
+        'progress', 
+        'last_accessed_at', 
     ];
 
     public function user() : BelongsTo {
