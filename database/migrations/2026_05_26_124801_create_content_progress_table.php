@@ -16,7 +16,7 @@ return new class extends Migration
             $table->foreignId('user_id')->constrained('users')->onDelete('cascade');
             $table->foreignId('content_id')->constrained('chapter_contents')->onDelete('cascade');
             $table->integer('progress');
-            $table->dateTime('last_accessed_at'); 
+            $table->dateTime('last_accessed_at');
             $table->timestamps();
         });
     }

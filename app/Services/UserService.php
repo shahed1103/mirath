@@ -138,7 +138,7 @@ class UserService {
                 if (!$passwordReset) {
                         return ['role' => 'invalid', 'message' => 'invalid_code' , 'code' => 404];
                 }
-                
+
                 $passwordResetDelete =  ResetCodePassword::where('email', $passwordReset->email);
 
                 // check if it is not expired: the time is one hour
@@ -249,7 +249,12 @@ class UserService {
            }
            $user['permissions']= $permission;
 
-        return $user; 
+        return $user;
     }
+
+
+    //////////////////////////////////////user profile
+
+
 
 }
