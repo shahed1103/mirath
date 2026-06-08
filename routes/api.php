@@ -8,6 +8,9 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\SummaryController;
+use App\Http\Controllers\MeetingController;
+
+
 use App\Http\Controllers\ChapterReviewController;
 
 /*
@@ -59,12 +62,9 @@ Route::middleware('auth:sanctum')->get('getClassificationDetails/{classification
 Route::middleware('auth:sanctum')->get('getBookDetails/{bookId}', [BookController::class, 'getBookDetails']);
 Route::middleware('auth:sanctum')->get('getChapterDetails/{chapterId}', [BookController::class, 'getChapterDetails']);
 
-
 Route::middleware('auth:sanctum')->get('addChapterToReviewList/{chapterId}', [ChapterReviewController::class, 'addChapterToReviewList']);
 Route::middleware('auth:sanctum')->get('removeChapterFromReviewList/{chapterId}', [ChapterReviewController::class, 'removeChapterFromReviewList']);
 Route::middleware('auth:sanctum')->get('getReviewList', [ChapterReviewController::class, 'getReviewList']);
-
-
 
 Route::middleware('auth:sanctum')->get('startQuiz/{chapterId}', [QuizController::class, 'startQuiz']);
 Route::middleware('auth:sanctum')->get('submitAnswer/{sessionId}/{questionId}/{choiceId}', [QuizController::class, 'submitAnswer']);
@@ -80,3 +80,6 @@ Route::middleware('auth:sanctum')->get('summaryDetails/{summaryId}', [SummaryCon
 Route::middleware('auth:sanctum')->get('deleteSummary/{summaryId}', [SummaryController::class, 'deleteSummary']);
 Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::class, 'allCreatedSummary']);
 Route::middleware('auth:sanctum')->get('allUploadedSummary', [SummaryController::class, 'allUploadedSummary']);
+
+Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
+
