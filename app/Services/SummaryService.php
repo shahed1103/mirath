@@ -6,8 +6,10 @@ namespace App\Services;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use App\Models\Summary;
 use App\Models\User;
+use App\Models\Chapter;
 use App\Http\Resources\SummaryResource;
-
+use App\Http\Resources\SummaryUploadedResource;
+use Illuminate\Support\Facades\Storage;
 use Exception;
 use Throwable;
 
@@ -34,18 +36,42 @@ class SummaryService {
         return ['summary' => $request->title , 'message' => 'summary created successfully'];
     }
 
-    // public function uploadSummary($request , $chapterId): array {
-    //     $userId = auth()->id();
-    //     $summary = Summary::create([
-    //     'user_id' =>  $userId,
-    //     'chapter_id' => $chapterId,
-    //     'title' => $request->title,
-    //     'content' => $request->content,
-    //     'summaryCreated' => false
-    //     ]);
+    public function uploadSummary($request , $chapterId): array {
+        $userId = auth()->id();
 
-    //     return ['summary' => $request->title , 'message' => 'summary created successfully'];
-    // }
+        $summaryChapterAlready = Summary::where('user_id' ,  $userId)
+                                    ->where('chapter_id' , $chapterId)
+                                    ->exists();
+
+        if($summaryChapterAlready){
+            throw new Exception ('you have summary for this chapter already', 422);
+        }
+        
+        $uploadedFile = $request->file('file');
+
+        $path = $uploadedFile->storeAs(
+                'uploads/summaries',
+                $uploadedFile->getClientOriginalName(), 
+                'public'
+        );
+
+        $url = asset('storage/' . $path);
+
+        // Use original filename (without extension) as the summary title
+        $originalName = $uploadedFile->getClientOriginalName();
+        $filename = pathinfo($originalName, PATHINFO_FILENAME);
+        $title = trim(preg_replace('/[_-]+/', ' ', $filename));
+
+        $summary = Summary::create([
+        'user_id' =>  $userId,
+        'chapter_id' => $chapterId,
+        'title' => $title,
+        'content' => $url,
+        'summaryCreated' => false
+        ]);
+
+        return ['summary' => $summary->title , 'message' => 'summary upload successfully'];
+    }
 
     public function editSummary($request , $summaryId): array {
         $summary = Summary::findOrFail($summaryId);
@@ -90,16 +116,15 @@ class SummaryService {
        return ['summaries' => SummaryResource::collection($summaries) , 'message' => 'all created summaries'];
     }
 
-    // public function allUploadSummary(): array {
-    //     $userId = auth()->id();
+    public function allUploadedSummary(): array {
+          $userId = auth()->id();
 
-    //     $summaries = Summary::where('user_id' , $userId)
-    //                     ->where('summaryCreated' , false)
-    //                     ->get();
+          $summaries = Summary::where('user_id' , $userId)
+                                ->where('summaryCreated' , false)
+                                ->get();
 
-    //     $data = new SummaryResource($summaries);
-    //    return ['summaries' => $data , 'message' => 'all created summaries'];
-    // }
+         return ['summaries' => SummaryUploadedResource::collection($summaries) , 'message' => 'all uploaded summaries'];
+     }
 
 
 

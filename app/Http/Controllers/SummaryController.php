@@ -8,6 +8,7 @@ use App\Services\SummaryService;
 use Illuminate\Http\JsonResponse;
 use App\Http\Requests\Summary\CreateSummaryRequest;
 use App\Http\Requests\Summary\EditSummaryRequest;
+use App\Http\Requests\Summary\UploadSummaryRequest;
 use Throwable;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 
@@ -23,6 +24,21 @@ class SummaryController extends Controller
         $data = [] ;
         try{
             $data = $this->summaryService->addSummary($request , $chapterId);
+            return Response::Success($data['summary'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
+        }
+    }
+
+
+    public function uploadSummary(UploadSummaryRequest $request , $chapterId): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->summaryService->uploadSummary($request , $chapterId);
             return Response::Success($data['summary'], $data['message']);
         }
         catch(Throwable $th){
@@ -76,6 +92,19 @@ class SummaryController extends Controller
         $data = [] ;
         try{
             $data = $this->summaryService->allCreatedSummary();
+            return Response::Success($data['summaries'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
+
+    public function allUploadedSummary(): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->summaryService->allUploadedSummary();
             return Response::Success($data['summaries'], $data['message']);
         }
         catch(Throwable $th){

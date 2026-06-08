@@ -74,7 +74,9 @@ Route::middleware('auth:sanctum')->post('getOpenQuestion/{chapterId}', [QuizCont
 Route::middleware('auth:sanctum')->get('getAnswer/{questionId}', [QuizController::class, 'getAnswer']);
 
 Route::middleware('auth:sanctum')->post('addSummary/{chapterId}', [SummaryController::class, 'addSummary']);
+Route::middleware('auth:sanctum')->post('uploadSummary/{chapterId}', [SummaryController::class, 'uploadSummary']);
 Route::middleware('auth:sanctum')->post('editSummary/{summaryId}', [SummaryController::class, 'editSummary']);
 Route::middleware('auth:sanctum')->get('summaryDetails/{summaryId}', [SummaryController::class, 'summaryDetails']);
 Route::middleware('auth:sanctum')->get('deleteSummary/{summaryId}', [SummaryController::class, 'deleteSummary']);
 Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::class, 'allCreatedSummary']);
+Route::middleware('auth:sanctum')->get('allUploadedSummary', [SummaryController::class, 'allUploadedSummary']);
