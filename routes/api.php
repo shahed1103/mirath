@@ -56,7 +56,7 @@ Route::middleware('auth:sanctum')->get('getContinueReading', [HomeController::cl
 Route::get('getFeatures', [HomeController::class, 'getFeatures']);
 Route::middleware('auth:sanctum')->get('getHome', [HomeController::class, 'getHome']);
 Route::middleware('auth:sanctum')->get('openContinueReading', [HomeController::class, 'openContinueReading']);
-Route::middleware('auth:sanctum')->post('updateReadingProgress', [HomeController::class, 'updateReadingProgress']);
+Route::middleware('auth:sanctum')->post('updateProgress/{contentId}', [HomeController::class, 'updateProgress']);
 
 Route::middleware('auth:sanctum')->get('getClassificationDetails/{classificationId}', [BookController::class, 'getClassificationDetails']);
 Route::middleware('auth:sanctum')->get('getBookDetails/{bookId}', [BookController::class, 'getBookDetails']);

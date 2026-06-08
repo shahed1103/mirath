@@ -8,7 +8,7 @@ use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use App\Models\Classification;
 use App\Models\Feature;
 use App\Models\Chapter;
-use App\Models\ReadingProgress;
+use App\Models\ContentProgress;
 use Illuminate\Support\Facades\Cache;
 use Exception;
 use Throwable;
@@ -74,12 +74,15 @@ class HomeService {
     }
 
     public function openContinueReading(): array {
-        $progress = ReadingProgress::with([
-            'chapter:id,title' ,
-            'chapter.contents:id,chapter_id,type,url',
+        $progress = ContentProgress::with([
+            'content:id,type,url,chapter_id',
+            'content.chapter:id,title'
         ])
             ->where('user_id', auth()->id())
-            ->latest('last_read_at')
+            ->whereHas('content', function ($q) {
+                $q->where('type', 'pdf');
+            })
+            ->latest('last_accessed_at')
             ->first();
 
         if (!$progress) {
@@ -89,39 +92,36 @@ class HomeService {
             ];
 
         }
-        $pdf = $progress->chapter?->contents
-            ->where('type', 'pdf')
-            ->first();
 
         return [
             'data' => [
-                'chapter_id' => $progress->chapter?->id,
-                'chapter_title' => $progress->chapter?->title,
-                'pdf_url' => $pdf?->url,
-                'current_page' => $progress->current_page,
+                'chapter_id' => $progress->content?->chapter_id,
+                'chapter_title' => $progress->content->chapter?->title,
+                'pdf_url' => $progress->content?->url,
+                'current_page' => $progress->progress,
             ],
             'message' => 'Continue reading data retrieved successfully'
         ];
     }
     
-    public function updateReadingProgress($request): array {
-        $progress = ReadingProgress::updateOrCreate(
+    public function updateProgress($request , $contentId): array {
+        $progress = ContentProgress::updateOrCreate(
 
             [
                 'user_id' => auth()->id(),
-                'book_id' => $request->book_id,
+                'content_id' => $contentId,
             ],
 
             [
-                'current_page' => $request->current_page,
-                'current_chapter' => $request->current_chapter,
-                'last_read_at' => now(),
+                'progress' => $request->progress,
+                'last_accessed_at' => now(),
             ]
         );
 
         return [
             'data' => null,
-            'message' => 'Reading progress saved successfully',
+            'message' => 'progress saved successfully',
         ];
     }
 }
+

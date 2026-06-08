@@ -10,7 +10,7 @@ use App\Http\Responses\response;
 
 
 
-class ReadingProgressRequest extends FormRequest
+class ProgressRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -28,9 +28,7 @@ class ReadingProgressRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'book_id' => 'required|exists:books,id',
-            'current_page' => 'required|integer|min:1',
-            'current_chapter' => 'required|exists:chapters,id',
+            'progress' => 'required|integer|min:1',
         ];
     }
 

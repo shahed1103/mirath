@@ -83,5 +83,9 @@ class User extends Authenticatable
     public function summaries(): HasMany{
     return $this->hasMany(Summary::class);
     }
+
+    public function progresses(){
+    return $this->hasMany(ContentProgress::class);
+    }
     
 }

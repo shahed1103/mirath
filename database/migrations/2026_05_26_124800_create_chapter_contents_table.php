@@ -14,10 +14,10 @@ return new class extends Migration
         Schema::create('chapter_contents', function (Blueprint $table) {
             $table->id();
             $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
-            $table->string('type');
+            // $table->string('type');
             $table->string('url');
             $table->unique(['chapter_id', 'type']);
-            // $table->enum('type', ['pdf', 'video', 'audio']);
+            $table->enum('type', ['pdf', 'video', 'audio']);
             // 'type' => 'required|in:pdf,video,audio'
             $table->timestamps();
         });

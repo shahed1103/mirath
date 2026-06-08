@@ -8,6 +8,7 @@ use App\Models\Book;
 use App\Models\User;
 use App\Models\Chapter;
 use App\Models\Classification;
+use App\Models\ContentProgress;
 use App\Models\UserChapterProgress;
 use App\Http\Resources\BookResource;
 use App\Http\Resources\ChapterResource;
@@ -58,7 +59,14 @@ class BookService {
         $chapter = Chapter::with('contents')
             ->findOrFail($chapterId);
 
+        $progresses = ContentProgress::where('user_id', $userId)
+            ->whereIn('content_id', $chapter->contents->pluck('id'))
+            ->get()
+            ->keyBy('content_id');
+
+        print($chapter->order_number);
         if($chapter->order_number != 1){
+            print("yewww");
             $isUnlocked = UserChapterProgress::where('user_id' , $userId)
                 ->where('chapter_id' , $chapterId)
                 ->where('is_open' , true)
@@ -75,9 +83,13 @@ class BookService {
             ];
 
         foreach ($chapter->contents as $content) {
+
+            $progress = $progresses[$content->id]->progress ?? 0;
+
             $contents[$content->type] = [
                 'id' => $content->id,
                 'url' => $content->url,
+                'progress' => $progress
             ];
         }
 

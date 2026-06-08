@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Responses\response;
 use App\Services\HomeService;
-use App\Http\Requests\Home\ReadingProgressRequest;
+use App\Http\Requests\Home\ProgressRequest;
 use Illuminate\Http\JsonResponse;
 use Throwable;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
@@ -87,10 +87,10 @@ class HomeController extends Controller
         }        
     }    
 
-    public function updateReadingProgress(ReadingProgressRequest $request): JsonResponse {
+    public function updateProgress(ProgressRequest $request , $contentId): JsonResponse {
         $data = [] ;
         try{
-            $data = $this->homeService->updateReadingProgress($request);
+            $data = $this->homeService->updateProgress($request, $contentId);
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){

@@ -11,13 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('reading_progress', function (Blueprint $table) {
+        Schema::create('content_progress', function (Blueprint $table) {
             $table->id();
             $table->foreignId('user_id')->constrained('users')->onDelete('cascade');
-            $table->foreignId('book_id')->constrained('books')->onDelete('cascade');
-            $table->integer('current_page');
-            $table->integer('current_chapter');
-            $table->date('last_read_at');
+            $table->foreignId('content_id')->constrained('chapter_contents')->onDelete('cascade');
+            $table->integer('progress');
+            $table->dateTime('last_accessed_at'); 
             $table->timestamps();
         });
     }
@@ -27,6 +26,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('reading_progress');
+        Schema::dropIfExists('content_progress');
     }
 };
