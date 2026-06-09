@@ -64,9 +64,7 @@ class BookService {
             ->get()
             ->keyBy('content_id');
 
-        print($chapter->order_number);
         if($chapter->order_number != 1){
-            print("yewww");
             $isUnlocked = UserChapterProgress::where('user_id' , $userId)
                 ->where('chapter_id' , $chapterId)
                 ->where('is_open' , true)
