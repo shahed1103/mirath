@@ -23,7 +23,7 @@ public function getStudentStatistics(): JsonResponse
     $data = [];
 
     try {
-        $data = $this->examService->getStudentStatistics();
+        $data = $this->profileService->getStudentStatistics();
 
         return Response::Success(
             $data['statistics'],
@@ -44,10 +44,91 @@ public function getAllLibraryBooks(): JsonResponse
     $data = [];
 
     try {
-        $data = $this->libraryBookService->getAllLibraryBooks();
+        $data = $this->profileService->getAllLibraryBooks();
 
         return Response::Success(
             $data['books'],
+            $data['message']
+        );
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+
+        return Response::Error($data, $message, $errors);
+    }
+}
+
+
+public function addBookToCart($bookId): JsonResponse
+{
+    $data = [];
+
+    try {
+        $data = $this->profileService->addBookToCart($bookId);
+
+        return Response::Success([], $data['message']);
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+
+        return Response::Error($data, $message, $errors);
+    }
+}
+
+
+public function getCartItems(): JsonResponse
+{
+    $data = [];
+    try {
+        $data = $this->profileService->getCartItems();
+        return Response::Success(
+            [
+                'items' => $data['cart_items'],
+                'total_points' => $data['total_points']
+            ],
+            $data['message']
+        );
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+
+        return Response::Error($data, $message, $errors);
+    }
+}
+
+
+public function removeBookFromCart($bookId): JsonResponse
+{
+    $data = [];
+
+    try {
+        $data = $this->profileService->removeBookFromCart($bookId);
+
+        return Response::Success([], $data['message']);
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+
+        return Response::Error($data, $message, $errors);
+    }
+}
+
+
+public function confirmBookRedemption(): JsonResponse
+{
+    $data = [];
+
+    try {
+        $data = $this->profileService->confirmBookRedemption();
+        return Response::Success(
+            [
+                'total_points_spent' => $data['total_points_spent'],
+                'remaining_points' => $data['remaining_points']
+            ],
             $data['message']
         );
     }

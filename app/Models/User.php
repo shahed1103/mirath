@@ -55,7 +55,7 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
-    
+
     public function nationality(): BelongsTo{
         return $this->belongsTo(Nationality::class);
     }
@@ -87,5 +87,15 @@ class User extends Authenticatable
     public function progresses(){
     return $this->hasMany(ContentProgress::class);
     }
-    
+
+    public function cartItems()
+{
+    return $this->hasMany(CartItem::class);
+}
+
+public function bookRedemptions()
+{
+    return $this->hasMany(BookRedemption::class);
+}
+
 }
