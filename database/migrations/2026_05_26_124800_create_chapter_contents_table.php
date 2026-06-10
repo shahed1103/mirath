@@ -18,6 +18,7 @@ return new class extends Migration
             $table->string('url');
             $table->unique(['chapter_id', 'type']);
             $table->enum('type', ['pdf', 'video', 'audio']);
+            $table->unsignedInteger('total_progress_value');
             // 'type' => 'required|in:pdf,video,audio'
             $table->timestamps();
         });

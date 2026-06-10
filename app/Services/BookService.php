@@ -39,12 +39,17 @@ class BookService {
         $book = Book::select('id','title','author_name','photo','total_pages','bio')
                      ->withCount('chapters')
                      ->with(['chapters:id,book_id,title,order_number',
-                     'chapters.progress' => 
-                     function ($query) use ($userId) {
-                         $query->where('user_id', $userId)
-                               ->select( 'id', 'chapter_id', 'is_open'); 
-                         }
-                    ])->findOrFail($bookId);
+                             'chapters.contents.progresses'=>
+                                    function ($query) use ($userId) {
+                                        $query->where('user_id', $userId)
+                                              ->select('id','content_id','progress');
+                                    },
+                             'chapters.progress' => 
+                                    function ($query) use ($userId) {
+                                        $query->where('user_id', $userId)
+                                            ->select( 'id', 'chapter_id', 'is_open'); 
+                                    }
+                            ])->findOrFail($bookId);
 
         $data = [
             'book' => new BookDetailsResource($book),

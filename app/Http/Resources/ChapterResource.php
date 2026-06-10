@@ -18,6 +18,29 @@ class ChapterResource extends JsonResource
         $isUnlocked = $this->order_number == 1
         || ($this->progress?->first()->is_open ?? false);
 
+        $chapterProgress = 0;
+
+        if ($this->contents->count() > 0) {
+
+            $totalProgress = 0;
+
+            foreach ($this->contents as $content) {
+
+                $userProgress = optional(
+                    $content->progresses->first()
+                )->progress ?? 0;
+
+                if ($content->total_progress_value > 0) {
+
+                    $totalProgress +=
+                        ($userProgress / $content->total_progress_value) * 100;
+                }
+            }
+
+            $chapterProgress =
+                $totalProgress / $this->contents->count();
+        }
+
         $passedExam = $this->exams()
             ->where('user_id', auth()->id())
             ->where('success', true)
@@ -29,6 +52,7 @@ class ChapterResource extends JsonResource
             'title' => $this->title,
             'status' => $isUnlocked ? 'مفتوح' : 'مغلق',
             'exam status' => (bool) $passedExam ,
+            'study_progress' => round($chapterProgress, 2),
         ];
     }
 }

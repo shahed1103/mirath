@@ -16,36 +16,32 @@ class ChapterContentSeeder extends Seeder
     public function run(): void
     {
         $path = 'مصادر التلقي والمعرفة.pdf';
-
-        // if (!Storage::disk('public')->exists($path)) {
-        //     dd('File not found');
-        // }
-
         $file = url('storage/uploads/det/مصادر التلقي والمعرفة.pdf');
 
-        $types = ['pdf', 'video', 'audio'];
         $chapters = Chapter::all();
 
         foreach ($chapters as $chapter) {
 
-            foreach ($types as $type) {
+            ChapterContent::create([
+                'chapter_id' => $chapter->id,
+                'type' => 'pdf',
+                'url' => $file,
+                'total_progress_value' => rand(50, 300),
+            ]);
 
-                ChapterContent::create([
-                    'chapter_id' => $chapter->id,
-                    'type' => $type,
-                    'url' => $file
-                    // storage_path('app/public/السيرة الذاتية.pdf'),
-                ]);
+            ChapterContent::create([
+                'chapter_id' => $chapter->id,
+                'type' => 'video',
+                'url' => $file,
+                'total_progress_value' => rand(300, 3600),
+            ]);
 
-            }
+            ChapterContent::create([
+                'chapter_id' => $chapter->id,
+                'type' => 'audio',
+                'url' => $file,
+                'total_progress_value' => rand(300, 2400),
+            ]);
         }
-    }
-
-    private function generateFakeUrl($type, $chapterId) {
-        return match ($type) {
-            'pdf' => "https://example.com/pdf/chapter_$chapterId.pdf",
-            'video' => "https://example.com/video/chapter_$chapterId.mp4",
-            'audio' => "https://example.com/audio/chapter_$chapterId.mp3",
-        };
     }
 }

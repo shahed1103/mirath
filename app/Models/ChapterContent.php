@@ -12,6 +12,7 @@ class ChapterContent extends Model
         'chapter_id',
         'type',
         'url',
+        'total_progress_value'
     ];
 
     public function chapter(): BelongsTo{
@@ -19,7 +20,7 @@ class ChapterContent extends Model
     }
 
     public function progresses(): HasMany{
-    return $this->hasMany(ContentProgress::class);
+    return $this->hasMany(ContentProgress::class , 'content_id');
     }
 
 }
