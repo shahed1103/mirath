@@ -17,7 +17,7 @@ class Chapter extends Model
         'order_number'
     ];
 
-    
+
     public function book(): BelongsTo{
         return $this->belongsTo(Book::class);
     }
@@ -41,7 +41,7 @@ class Chapter extends Model
     public function progress(): HasMany {
         return $this->hasMany(UserChapterProgress::class);
     }
-    
+
     public function openQuestions(): HasMany {
         return $this->hasMany(OpenQuestion::class)
                     ->orderBy('order_number');
@@ -50,4 +50,9 @@ class Chapter extends Model
     public function summaries(): HasMany{
     return $this->hasMany(Summary::class);
     }
+
+    public function studyTasks()
+{
+    return $this->hasMany(StudyTask::class);
+}
 }
