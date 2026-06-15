@@ -16,7 +16,7 @@ class QuizResultResource extends JsonResource
      public function toArray(Request $request): array
     {
         return [
-            'success' => $this->success ,
+            'success' => $this->success ?? false,
             'correct_answers' => $this->correct_answers,
             'correct_answers_pricent' =>
               round(($this->correct_answers * 100) / 5),
