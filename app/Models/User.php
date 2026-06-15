@@ -98,4 +98,14 @@ public function bookRedemptions()
     return $this->hasMany(BookRedemption::class);
 }
 
+
+public function studyPlans()
+{
+    return $this->hasMany(StudyPlan::class);
+}
+
+public function studyTasks()
+{
+    return $this->hasMany(StudyTask::class);
+}
 }

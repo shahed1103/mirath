@@ -36,5 +36,10 @@ class Book extends Model
     public function readingProgress(): HasMany {
     return $this->hasMany(ReadingProgress::class);
     }
+
+    public function studyTasks()
+{
+    return $this->hasMany(StudyTask::class);
+}
 }
 
