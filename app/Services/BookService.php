@@ -59,9 +59,9 @@ class BookService {
         return ['chapters' => $data , 'message' => $message];
     }
 
-    public function getChapterDetails($chapterId): array{
+    public function getChapterDetails($chapterId): array{ 
         $userId = auth()->id();
-        $chapter = Chapter::with('contents')
+        $chapter = Chapter::with('contents' , 'summaries')
             ->findOrFail($chapterId);
 
         $progresses = ContentProgress::where('user_id', $userId)
@@ -96,8 +96,14 @@ class BookService {
             ];
         }
 
+        // use the loaded relation to check if the user already has a summary for this chapter
+        $summaryChapterAlready = $chapter->summaries->contains(function ($summary) use ($userId) {
+            return $summary->user_id == $userId;
+        });
+
         $data = [
             'chapter_title' => $chapter->title ?? null,
+            'have_summary' => $summaryChapterAlready ?? false,
             'pdf'           => $contents['pdf'],
             'audio'         => $contents['audio'],
             'video'         => $contents['video'],

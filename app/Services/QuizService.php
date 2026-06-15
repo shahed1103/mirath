@@ -58,6 +58,7 @@ class QuizService {
         $data = [
             'session_id' => $session->id,
             'estimated_duration' => $estimatedDuration,
+            'total_questions' => self::QUESTIONS_PER_EXAM,
             'question' => new QuizQuestionResource($question),
         ];
 
@@ -268,7 +269,11 @@ class QuizService {
             $session->points = $pointsEarned;
             $session->save();
 
-           $data =  new QuizResultResource($session);
+            $total_questions = self::QUESTIONS_PER_EXAM;
+
+            $data = (new QuizResultResource($session))->additional([
+                'total_questions' => $total_questions
+            ]);
 
             return ['quiz' => $data , 'message' => 'quiz end'];
     }
