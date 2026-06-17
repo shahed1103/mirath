@@ -302,52 +302,75 @@ class QuizService {
         return ['quiz' => $data , 'message' => 'quiz result'];
     }
 
-    
-    public function getOpenQuestion($chapterId, int $index = 0): array {
-        $questionsCount = OpenQuestion::where('chapter_id', $chapterId)->count();
+    public function getOpenQuestion($chapterId): array {
+        $questions = OpenQuestion::select('id', 'question_text', 'answer')
+            ->where('chapter_id', $chapterId)
+            ->orderBy('order_number')
+            ->get();
 
-        if ($questionsCount === 0) {
+        if ($questions->isEmpty()) {
             throw new Exception('No questions found', 404);
         }
 
-        if ($index < 0 || $index >= $questionsCount) {
-            throw new Exception('Question index out of range', 404);
-        }
-
-        $question = OpenQuestion::select('id', 'question_text')
-            ->where('chapter_id', $chapterId)
-            ->orderBy('order_number')
-            ->offset($index)
-            ->firstOrFail();
-
         $data = [
-            'question' => [
-                'id' => $question->id,
-                'question_text' => $question->question_text,
-            ],
-            'navigation' => [
-                'current_index' => $index,
-                'total_questions' => $questionsCount,
-                'has_previous' => $index > 0,
-                'has_next' => $index < ($questionsCount - 1),
-            ]
+            'questions' => $questions->map(function($q) {
+                return [
+                    'id' => $q->id,
+                    'question_text' => $q->question_text,
+                    'answer' => $q->answer,
+                ];
+            }),
+            'total_questions' => $questions->count(),
         ];
-        return ['question' => $data , 'message' => 'question retrieved successfully'];
+        return ['questions' => $data , 'message' => 'questions retrieved successfully'];
     }
 
-    public function getAnswer($questionId): array {
-        $question = OpenQuestion::select(
-                'id',
-                'question_text',
-                'answer'
-            )
-            ->findOrFail($questionId);
+    // public function getOpenQuestion($chapterId, int $index = 0): array {
+    //     $questionsCount = OpenQuestion::where('chapter_id', $chapterId)->count();
+
+    //     if ($questionsCount === 0) {
+    //         throw new Exception('No questions found', 404);
+    //     }
+
+    //     if ($index < 0 || $index >= $questionsCount) {
+    //         throw new Exception('Question index out of range', 404);
+    //     }
+
+    //     $question = OpenQuestion::select('id', 'question_text', 'answer')
+    //         ->where('chapter_id', $chapterId)
+    //         ->orderBy('order_number')
+    //         ->offset($index)
+    //         ->firstOrFail();
+
+    //     $data = [
+    //         'question' => [
+    //             'id' => $question->id,
+    //             'question_text' => $question->question_text,
+    //             'answer' => $question->answer,
+    //         ],
+    //         'navigation' => [
+    //             'current_index' => $index,
+    //             'total_questions' => $questionsCount,
+    //             'has_previous' => $index > 0,
+    //             'has_next' => $index < ($questionsCount - 1),
+    //         ]
+    //     ];
+    //     return ['question' => $data , 'message' => 'question retrieved successfully'];
+    // }
+
+    // public function getAnswer($questionId): array {
+    //     $question = OpenQuestion::select(
+    //             'id',
+    //             'question_text',
+    //             'answer'
+    //         )
+    //         ->findOrFail($questionId);
 
 
-        return [
-            'answer' => $question->answer,
-            'message' => 'answer retrieved successfully'
-        ];
-    }
+    //     return [
+    //         'answer' => $question->answer,
+    //         'message' => 'answer retrieved successfully'
+    //     ];
+    // }
 
 }

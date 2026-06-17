@@ -72,12 +72,11 @@ class QuizController extends Controller
         }
     }
 
-    public function getOpenQuestion(Request $request , $chapterId): JsonResponse {
+    public function getOpenQuestion($chapterId): JsonResponse {
         $data = [] ;
         try{
-            $index = $request->integer('index', 0);
-            $data = $this->quizService->getOpenQuestion($chapterId , $index);
-            return Response::Success($data['question'], $data['message']);
+            $data = $this->quizService->getOpenQuestion($chapterId);
+            return Response::Success($data['questions'], $data['message']);
         }
         catch(Throwable $th){
             $message = $th->getMessage();
@@ -87,16 +86,31 @@ class QuizController extends Controller
         }
     }
 
-    public function getAnswer($questionId): JsonResponse {
-        $data = [] ;
-        try{
-            $data = $this->quizService->getAnswer($questionId);
-            return Response::Success($data['answer'], $data['message']);
-        }
-        catch(Throwable $th){
-            $message = $th->getMessage();
-            $errors [] = $message;
-            return Response::Error($data , $message , $errors);
-        }
-    }
+    // public function getOpenQuestion(Request $request , $chapterId): JsonResponse {
+    //     $data = [] ;
+    //     try{
+    //         $index = $request->integer('index', 0);
+    //         $data = $this->quizService->getOpenQuestion($chapterId , $index);
+    //         return Response::Success($data['question'], $data['message']);
+    //     }
+    //     catch(Throwable $th){
+    //         $message = $th->getMessage();
+    //         $errors [] = $message;
+    //         $code = $th->getCode();
+    //         return Response::Error($data , $message , $errors , $code);
+    //     }
+    // }
+
+    // public function getAnswer($questionId): JsonResponse {
+    //     $data = [] ;
+    //     try{
+    //         $data = $this->quizService->getAnswer($questionId);
+    //         return Response::Success($data['answer'], $data['message']);
+    //     }
+    //     catch(Throwable $th){
+    //         $message = $th->getMessage();
+    //         $errors [] = $message;
+    //         return Response::Error($data , $message , $errors);
+    //     }
+    // }
 }
