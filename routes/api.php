@@ -9,6 +9,9 @@ use App\Http\Controllers\BookController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\SummaryController;
 use App\Http\Controllers\MeetingController;
+use App\Http\Controllers\ProfileController;
+
+
 
 
 use App\Http\Controllers\ChapterReviewController;
@@ -82,4 +85,22 @@ Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::
 Route::middleware('auth:sanctum')->get('allUploadedSummary', [SummaryController::class, 'allUploadedSummary']);
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
+
+
+
+
+
+
+Route::middleware('auth:sanctum')->get('/getStudentStatistics', [ProfileController::class, 'getStudentStatistics']);
+Route::middleware('auth:sanctum')->get('/getAllLibraryBooks', [ProfileController::class, 'getAllLibraryBooks']);
+Route::middleware('auth:sanctum')->post('/addBookToCart/{id}', [ProfileController::class, 'addBookToCart']);
+Route::middleware('auth:sanctum')->get('/getMyPoints', [ProfileController::class, 'getMyPoints']);
+Route::middleware('auth:sanctum')->get('/getCartItems', [ProfileController::class, 'getCartItems']);
+Route::middleware('auth:sanctum')->post('/removeBookFromCart/{id}', [ProfileController::class, 'removeBookFromCart']);
+Route::middleware('auth:sanctum')->post('/confirmBookRedemption', [ProfileController::class, 'confirmBookRedemption']);
+
+
+
+
+
 

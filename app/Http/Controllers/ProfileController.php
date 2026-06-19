@@ -39,6 +39,28 @@ public function getStudentStatistics(): JsonResponse
 }
 
 
+public function getMyPoints(): JsonResponse
+{
+    $data = [];
+
+    try {
+        $data = $this->profileService->getMyPoints();
+
+        return Response::Success(
+            $data['points'],
+            $data['message']
+        );
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+
+        return Response::Error($data, $message, $errors);
+    }
+}
+
+
+
 public function getAllLibraryBooks(): JsonResponse
 {
     $data = [];

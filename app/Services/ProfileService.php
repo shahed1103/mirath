@@ -34,7 +34,7 @@ public function getStudentStatistics(): array
 
 public function getMyPoints(): array
 {
-    $points = User::where('user_id', auth()->id())->get('points');
+    $points = User::where('id', auth()->id())->get('points');
     return [
         'points' => $points,
         'message' => 'Student points retrieved successfully'
@@ -57,9 +57,7 @@ public function getAllLibraryBooks(): array
 public function addBookToCart($bookId): array
 {
     $userId = auth()->id();
-
     LibraryBook::findOrFail($bookId);
-
     $exists = CartItem::where('user_id', $userId)
         ->where('library_book_id', $bookId)
         ->exists();
@@ -138,7 +136,7 @@ public function confirmBookRedemption(): array
         //         'points_spent' => $item->book->price,
         //     ]);
         // }
-        
+
         $user->decrement('points', $totalPoints);
         CartItem::where('user_id', $user->id)->delete();
         return [
