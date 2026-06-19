@@ -146,5 +146,55 @@ public function confirmBookRedemption(): array
         ];
     });
 }
+
+
+public function getLastUserExams(int $limit = 3): array
+    {
+       $exams = Exam::where('user_id', auth()->id())
+            ->latest('started_at')
+            ->take($limit)
+            ->get()
+            ->map(function ($exam) {
+                $percentage = ($exam->questions_answered > 0)
+                    ? ($exam->correct_answers / $exam->questions_answered) * 100
+                    : 0;
+                return [
+                    'score_percentage' => round($percentage, 2) . '%',
+                    'date' => $exam->started_at
+                ];
+            })
+            ->toArray();
+
+        return [
+            'data' => $exams,
+            'message' => 'Last exams retrieved successfully'
+        ];
+    }
+
+
+
+
+    public function getAllUserExams(): array
+    {
+       $exams = Exam::where('user_id', auth()->id())
+            ->get()
+            ->map(function ($exam) {
+                $percentage = ($exam->questions_answered > 0)
+                    ? ($exam->correct_answers / $exam->questions_answered) * 100
+                    : 0;
+                return [
+                    'score_percentage' => round($percentage, 2) . '%',
+                    'date' => $exam->started_at
+                ];
+            })
+            ->toArray();
+
+        return [
+            'data' => $exams,
+            'message' => 'Last exams retrieved successfully'
+        ];
+    }
 }
+
+
 

@@ -98,6 +98,10 @@ Route::middleware('auth:sanctum')->get('/getMyPoints', [ProfileController::class
 Route::middleware('auth:sanctum')->get('/getCartItems', [ProfileController::class, 'getCartItems']);
 Route::middleware('auth:sanctum')->post('/removeBookFromCart/{id}', [ProfileController::class, 'removeBookFromCart']);
 Route::middleware('auth:sanctum')->post('/confirmBookRedemption', [ProfileController::class, 'confirmBookRedemption']);
+Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::class, 'getLastUserExams']);
+Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams']);
+
+
 
 
 

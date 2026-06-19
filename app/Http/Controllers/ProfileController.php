@@ -161,4 +161,39 @@ public function confirmBookRedemption(): JsonResponse
         return Response::Error($data, $message, $errors);
     }
 }
+
+
+public function getLastUserExams(): JsonResponse
+{
+    try {
+        $result = $this->profileService->getLastUserExams(3);
+
+        return Response::Success(
+            $result['data'],
+            $result['message']
+        );
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        return Response::Error([], $message, [$message]);
+    }
 }
+
+
+public function getAllUserExams(): JsonResponse
+{
+    try {
+        $result = $this->profileService->getAllUserExams();
+
+        return Response::Success(
+            $result['data'],
+            $result['message']
+        );
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        return Response::Error([], $message, [$message]);
+    }
+}
+}
+
