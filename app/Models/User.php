@@ -60,10 +60,6 @@ class User extends Authenticatable
         return $this->belongsTo(Nationality::class);
     }
 
-    public function readingProgress(): HasMany{
-        return $this->hasMany(ReadingProgress::class);
-    }
-
     public function reviewChapters(){
         return $this->belongsToMany(Chapter::class,'chapter_user');
     }

@@ -33,10 +33,6 @@ class Book extends Model
         return $this->belongsTo(Level::class);
     }
 
-    public function readingProgress(): HasMany {
-    return $this->hasMany(ReadingProgress::class);
-    }
-
     public function studyTasks()
 {
     return $this->hasMany(StudyTask::class);

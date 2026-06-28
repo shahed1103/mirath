@@ -46,16 +46,14 @@ class HomeService {
     }
 
     public function getContinueReading(): array{
-        $progress = ReadingProgress::with(['book:id,title,classification_id,total_pages', 'book.classification:id,classification','chapter:id,title'])
+        $progress = ContentProgress::with([
+            'content:id,type,url,chapter_id',
+            'content.chapter:id,title,book_id',
+            'content.chapter.book:id,title,classification_id,total_pages',
+            'content.chapter.book.classification:id,classification'
+            ])
             ->where('user_id', auth()->id())
-            ->whereHas('book', function ($query) {
-                $query->whereColumn(
-                    'current_page',
-                    '<',
-                    'books.total_pages'
-                );
-            })
-            ->latest('last_read_at')
+            ->latest('last_accessed_at')
             ->first();
 
         if (!$progress) {
@@ -66,9 +64,9 @@ class HomeService {
         }
 
         $data = [    
-            'book_name' => $progress->book?->title,
-            'classification' => $progress->book?->classification?->classification,
-            'chapter_title' => $progress->chapter?->title,
+            'book_name' => $progress->content?->chapter?->book?->title,
+            'classification' => $progress->content?->chapter?->book?->classification?->classification,
+            'chapter_title' => $progress->content?->chapter?->title,
         ];
         return $data;
     }
