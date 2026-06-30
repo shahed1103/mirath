@@ -15,7 +15,7 @@ class ProfileService {
 
 public function getStudentStatistics(): array
 {
-    $successfulExams = Exam::where('user_id', auth()->id())
+    $successfulExams = Exam::where ('user_id', auth()->id())
         ->where('success', true);
     $successfulExamsCount = (clone $successfulExams)->count();
     $averageCorrectAnswers = (clone $successfulExams)->avg('correct_answers');
@@ -26,6 +26,10 @@ public function getStudentStatistics(): array
         'statistics' => [
             'successful_exams_count' => $successfulExamsCount,
             'average_percentage' => $averagePercentage,
+            'hours_study' => 20,
+            'tasks_completed' => 2,
+            'all_tasks' =>10
+
         ],
         'message' => 'Student statistics retrieved successfully'
     ];
