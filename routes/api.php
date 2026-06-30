@@ -53,36 +53,37 @@ Route::post('setPassword/{email}', [AuthController::class, 'setPassword']);
 });
 
 Route::get('getNationalities', [DropDownController::class, 'getNationalities']);
-
 Route::get('getClassifications', [HomeController::class, 'getClassifications']);
-Route::middleware('auth:sanctum')->get('getContinueReading', [HomeController::class, 'getContinueReading']);
-Route::get('getFeatures', [HomeController::class, 'getFeatures']);
-Route::middleware('auth:sanctum')->get('getHome', [HomeController::class, 'getHome']);
-Route::middleware('auth:sanctum')->get('openContinueReading', [HomeController::class, 'openContinueReading']);
-Route::middleware('auth:sanctum')->post('updateProgress/{contentId}', [HomeController::class, 'updateProgress']);
 
-Route::middleware('auth:sanctum')->get('getClassificationDetails/{classificationId}', [BookController::class, 'getClassificationDetails']);
-Route::middleware('auth:sanctum')->get('getBookDetails/{bookId}', [BookController::class, 'getBookDetails']);
-Route::middleware('auth:sanctum')->get('getChapterDetails/{chapterId}', [BookController::class, 'getChapterDetails']);
+Route::middleware('auth:sanctum')->get('getContinueReading', [HomeController::class, 'getContinueReading'])->middleware('can:getContinueReading');
+Route::middleware('auth:sanctum')->get('getFeatures', [HomeController::class, 'getFeatures'])->middleware('can:getFeatures');
+Route::middleware('auth:sanctum')->get('getHome', [HomeController::class, 'getHome'])->middleware('can:getHome');
+Route::middleware('auth:sanctum')->get('openContinueReading', [HomeController::class, 'openContinueReading'])->middleware('can:openContinueReading');
+Route::middleware('auth:sanctum')->post('updateProgress/{contentId}', [HomeController::class, 'updateProgress'])->middleware('can:updateProgress');
 
-Route::middleware('auth:sanctum')->get('addChapterToReviewList/{chapterId}', [ChapterReviewController::class, 'addChapterToReviewList']);
-Route::middleware('auth:sanctum')->get('removeChapterFromReviewList/{chapterId}', [ChapterReviewController::class, 'removeChapterFromReviewList']);
-Route::middleware('auth:sanctum')->get('getReviewList', [ChapterReviewController::class, 'getReviewList']);
+Route::middleware('auth:sanctum')->get('getClassificationDetails/{classificationId}', [BookController::class, 'getClassificationDetails'])->middleware('can:getClassificationDetails');
+Route::middleware('auth:sanctum')->get('getBookDetails/{bookId}', [BookController::class, 'getBookDetails'])->middleware('can:getBookDetails');
+Route::middleware('auth:sanctum')->get('getChapterDetails/{chapterId}', [BookController::class, 'getChapterDetails'])->middleware('can:getChapterDetails');
 
-Route::middleware('auth:sanctum')->get('startQuiz/{chapterId}', [QuizController::class, 'startQuiz']);
-Route::middleware('auth:sanctum')->get('submitAnswer/{sessionId}/{questionId}/{choiceId}', [QuizController::class, 'submitAnswer']);
-Route::middleware('auth:sanctum')->get('endQuiz/{sessionId}', [QuizController::class, 'endQuiz']);
-Route::middleware('auth:sanctum')->get('quizResult/{chapterId}', [QuizController::class, 'quizResult']);
-Route::middleware('auth:sanctum')->post('getOpenQuestion/{chapterId}', [QuizController::class, 'getOpenQuestion']);
-// Route::middleware('auth:sanctum')->get('getAnswer/{questionId}', [QuizController::class, 'getAnswer']);
+Route::middleware('auth:sanctum')->get('addChapterToReviewList/{chapterId}', [ChapterReviewController::class, 'addChapterToReviewList'])->middleware('can:addChapterToReviewList');
+Route::middleware('auth:sanctum')->get('removeChapterFromReviewList/{chapterId}', [ChapterReviewController::class, 'removeChapterFromReviewList'])->middleware('can:removeChapterFromReviewList');
+Route::middleware('auth:sanctum')->get('getReviewList', [ChapterReviewController::class, 'getReviewList'])->middleware('can:getReviewList');
 
-Route::middleware('auth:sanctum')->post('addSummary/{chapterId}', [SummaryController::class, 'addSummary']);
-Route::middleware('auth:sanctum')->post('uploadSummary/{chapterId}', [SummaryController::class, 'uploadSummary']);
-Route::middleware('auth:sanctum')->post('editSummary/{summaryId}', [SummaryController::class, 'editSummary']);
-Route::middleware('auth:sanctum')->get('summaryDetails/{summaryId}', [SummaryController::class, 'summaryDetails']);
-Route::middleware('auth:sanctum')->get('deleteSummary/{summaryId}', [SummaryController::class, 'deleteSummary']);
-Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::class, 'allCreatedSummary']);
-Route::middleware('auth:sanctum')->get('allUploadedSummary', [SummaryController::class, 'allUploadedSummary']);
+Route::middleware('auth:sanctum')->get('startQuiz/{chapterId}', [QuizController::class, 'startQuiz'])->middleware('can:startQuiz');
+Route::middleware('auth:sanctum')->get('submitAnswer/{sessionId}/{questionId}/{choiceId}', [QuizController::class, 'submitAnswer'])->middleware('can:submitAnswer');
+Route::middleware('auth:sanctum')->get('endQuiz/{sessionId}', [QuizController::class, 'endQuiz'])->middleware('can:endQuiz');
+Route::middleware('auth:sanctum')->get('quizResult/{chapterId}', [QuizController::class, 'quizResult'])->middleware('can:quizResult');
+Route::middleware('auth:sanctum')->post('getOpenQuestion/{chapterId}', [QuizController::class, 'getOpenQuestion'])->middleware('can:getOpenQuestion');
+// Route::middleware('auth:sanctum')->get('getAnswer/{questionId}', [QuizController::class, 'getAnswer'])->middleware('can:getAnswer');
+
+Route::middleware('auth:sanctum')->post('addSummary/{chapterId}', [SummaryController::class, 'addSummary'])->middleware('can:addSummary');
+Route::middleware('auth:sanctum')->post('uploadSummary/{chapterId}', [SummaryController::class, 'uploadSummary'])->middleware('can:uploadSummary');
+Route::middleware('auth:sanctum')->post('editSummary/{summaryId}', [SummaryController::class, 'editSummary'])->middleware('can:editSummary');
+Route::middleware('auth:sanctum')->get('summaryDetails/{summaryId}', [SummaryController::class, 'summaryDetails'])->middleware('can:summaryDetails');
+Route::middleware('auth:sanctum')->get('deleteSummary/{summaryId}', [SummaryController::class, 'deleteSummary'])->middleware('can:deleteSummary');
+Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::class, 'allCreatedSummary'])->middleware('can:allCreatedSummary');
+Route::middleware('auth:sanctum')->get('allUploadedSummary', [SummaryController::class, 'allUploadedSummary'])->middleware('can:allUploadedSummary');
+
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 

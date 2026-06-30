@@ -19,10 +19,10 @@ class BookSeeder extends Seeder
         $authors = ['شهد'  , 'راما' , 'رانيا' , 'مروة'];
         $bio = ['سلوكي' , 'شرعي' , 'إصلاحي' , 'فكري'];
         $photos = [
-            'health (1).jpg',
-            'health (2).jpg',
-            'health (3).jpg',
-            'health (4).jpg'
+            'health(1).jpg',
+            'health(2).jpg',
+            'health(3).jpg',
+            'health(4).jpg'
         ];
         $classifications = [1,2,3,4];
         $levels = [1,2,3,1];

@@ -22,7 +22,7 @@ class HomeController extends Controller
         $data = [] ;
         try{
             $data = $this->homeService->getClassifications();
-            return Response::Success($data['classifications'], $data['message']);
+            return Response::Success($data, 'all classifications are retrieved successfully');
         }
         catch(Throwable $th){
             $message = $th->getMessage();
@@ -35,7 +35,7 @@ class HomeController extends Controller
         $data = [] ;
         try{
             $data = $this->homeService->getFeatures();
-            return Response::Success($data['features'], $data['message']);
+            return Response::Success($data, 'all features are retrieved successfully');
         }
         catch(Throwable $th){
             $message = $th->getMessage();
@@ -48,7 +48,7 @@ class HomeController extends Controller
         $data = [] ;
         try{
             $data = $this->homeService->getContinueReading();
-            return Response::Success($data['data'], $data['message']);
+            return Response::Success($data, 'book to continue reading is retrived successfully');
         }
         catch(Throwable $th){
             $message = $th->getMessage();

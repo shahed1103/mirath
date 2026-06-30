@@ -17,7 +17,11 @@ class RolesPermissionsSeeder extends Seeder
         $clientRole = Role::create(['name' => 'Client']);
 
     // 2. Create permissions
-        $permissions = ['register' , 'signin'];
+        $permissions = ['getContinueReading' , 'getFeatures' , 'getHome' , 'openContinueReading' , 'updateProgress' , 
+                        'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
+                        'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
+                        'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
+                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary'];
 
         // foreach ($permissions as $permissionName) {
         //     Permission::findOrCreate($permissionName, 'web');
@@ -31,7 +35,13 @@ foreach ($permissions as $permissionName) {
 }
 
     // assign permissions to roles
-        $clientRole->syncPermissions($permissions);
+        $clientRole->syncPermissions([
+                        'getContinueReading' , 'getFeatures' , 'getHome' , 'openContinueReading' , 'updateProgress' , 
+                        'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
+                        'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
+                        'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
+                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary'
+                        ]);
 
     // 3. Assign permissions
         $superAdminRole->syncPermissions($permissions);
