@@ -15,7 +15,6 @@ class StudyPlanService
     public function createStudyPlan(array $data): array
     {
         $plan = null;
-
         DB::transaction(function () use ($data, &$plan) {
 
             $plan = StudyPlan::create([
@@ -35,14 +34,12 @@ class StudyPlanService
                     'day_of_week' => $day,
                 ]);
             }
-
             $this->generateTasks(
                 $plan,
                 $data['book_ids'],
                 $data['study_days']
             );
         });
-
         return [
             'plan' => $plan,
             'message' => 'Study plan created successfully'
