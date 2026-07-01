@@ -15,35 +15,41 @@ class ProfileService {
 
 public function getStudentStatistics(): array
 {
-    $successfulExams = Exam::where ('user_id', auth()->id())
+
+    $points = User::where('id', auth()->id())->value('points') ?? 0;
+    $successfulExams = Exam::where('user_id', auth()->id())
         ->where('success', true);
+
     $successfulExamsCount = (clone $successfulExams)->count();
     $averageCorrectAnswers = (clone $successfulExams)->avg('correct_answers');
+
     $averagePercentage = $averageCorrectAnswers
         ? round(($averageCorrectAnswers / 25) * 100, 2)
         : 0;
+
     return [
         'statistics' => [
             'successful_exams_count' => $successfulExamsCount,
             'average_percentage' => $averagePercentage,
             'hours_study' => 20,
             'tasks_completed' => 2,
-            'all_tasks' =>10
-
+            'all_tasks' => 10,
+            'points' => $points 
         ],
         'message' => 'Student statistics retrieved successfully'
     ];
 }
 
 
-public function getMyPoints(): array
-{
-    $points = User::where('id', auth()->id())->get('points');
-    return [
-        'points' => $points,
-        'message' => 'Student points retrieved successfully'
-    ];
-}
+
+// public function getMyPoints(): array
+// {
+//     $points = User::where('id', auth()->id())->get('points');
+//     return [
+//         'points' => $points,
+//         'message' => 'Student points retrieved successfully'
+//     ];
+// }
 
 
 public function getAllLibraryBooks(): array
