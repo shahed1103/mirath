@@ -73,20 +73,7 @@ class HomeController extends Controller
             return Response::Error($data , $message , $errors);
         }
     }
-    
-    public function openContinueReading(): JsonResponse {
-        $data = [] ;
-        try{
-            $data = $this->homeService->openContinueReading();
-            return Response::Success($data['data'], $data['message']);
-        }
-        catch(Throwable $th){
-            $message = $th->getMessage();
-            $errors [] = $message;
-            return Response::Error($data , $message , $errors);
-        }        
-    }    
-
+      
     public function updateProgress(ProgressRequest $request , $contentId): JsonResponse {
         $data = [] ;
         try{

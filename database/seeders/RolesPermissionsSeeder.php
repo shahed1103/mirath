@@ -17,7 +17,7 @@ class RolesPermissionsSeeder extends Seeder
         $clientRole = Role::create(['name' => 'Client']);
 
     // 2. Create permissions
-        $permissions = ['getContinueReading' , 'getFeatures' , 'getHome' , 'openContinueReading' , 'updateProgress' , 
+        $permissions = ['getContinueReading' , 'getFeatures' , 'getHome' , 'updateProgress' , 
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
@@ -36,7 +36,7 @@ foreach ($permissions as $permissionName) {
 
     // assign permissions to roles
         $clientRole->syncPermissions([
-                        'getContinueReading' , 'getFeatures' , 'getHome' , 'openContinueReading' , 'updateProgress' , 
+                        'getContinueReading' , 'getFeatures' , 'getHome' , 'updateProgress' , 
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
