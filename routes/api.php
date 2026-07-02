@@ -13,7 +13,7 @@ use App\Http\Controllers\ProfileController;
 
 
 
-
+use App\Http\Controllers\ChatController;
 use App\Http\Controllers\ChapterReviewController;
 
 /*
@@ -83,6 +83,7 @@ Route::middleware('auth:sanctum')->get('deleteSummary/{summaryId}', [SummaryCont
 Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::class, 'allCreatedSummary'])->middleware('can:allCreatedSummary');
 Route::middleware('auth:sanctum')->get('allUploadedSummary', [SummaryController::class, 'allUploadedSummary'])->middleware('can:allUploadedSummary');
 
+Route::middleware('auth:sanctum')->post('chat', [ChatController::class, 'chat'])->middleware('can:chat');;
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 

@@ -21,7 +21,7 @@ class RolesPermissionsSeeder extends Seeder
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
-                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary'];
+                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'chat'];
 
         // foreach ($permissions as $permissionName) {
         //     Permission::findOrCreate($permissionName, 'web');
@@ -40,7 +40,7 @@ foreach ($permissions as $permissionName) {
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
-                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary'
+                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'chat'
                         ]);
 
     // 3. Assign permissions
