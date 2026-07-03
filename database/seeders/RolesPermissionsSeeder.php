@@ -21,7 +21,9 @@ class RolesPermissionsSeeder extends Seeder
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
-                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'chat'];
+                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat' , 
+                        'addFeedback' , 'getAllUsers' , 'getAllFeedbacks' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin'
+                        ];
 
         // foreach ($permissions as $permissionName) {
         //     Permission::findOrCreate($permissionName, 'web');
@@ -40,11 +42,12 @@ foreach ($permissions as $permissionName) {
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
-                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'chat'
+                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat',
+                        'addFeedback'
                         ]);
 
     // 3. Assign permissions
-        $superAdminRole->syncPermissions($permissions);
+        $superAdminRole->syncPermissions('getAllUsers' , 'getAllFeedbacks' , 'getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin');
         
         $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 

@@ -91,5 +91,21 @@ class HomeService {
             'message' => 'progress saved successfully',
         ];
     }
+
+    public function addFeedback($request): array {
+        $user = User::find(auth()->id());
+        if (!$user) {
+            throw new Exception('User not found');
+        }
+
+        $user->feedbacks()->create([
+            'feedback' => $request->feedback,
+        ]);
+
+        return [
+            'data' => null,
+            'message' => 'Feedback submitted successfully',
+        ];
+    }
 }
 

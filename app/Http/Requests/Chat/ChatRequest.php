@@ -19,7 +19,14 @@ class ChatRequest extends FormRequest
                 'required',
                 'string',
                 'max:255'
-            ]
+            ],
+            'chat_id' => [
+                'nullable',
+                'integer',
+                Rule::exists('chats', 'id')->where(function ($query) {
+                    $query->where('user_id', auth()->id());
+                }),
+            ],
         ];
     }
 }

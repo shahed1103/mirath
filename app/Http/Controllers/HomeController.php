@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use App\Http\Responses\response;
 use App\Services\HomeService;
 use App\Http\Requests\Home\ProgressRequest;
+use App\Http\Requests\Home\FeedbackRequest;
 use Illuminate\Http\JsonResponse;
 use Throwable;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
@@ -78,6 +79,19 @@ class HomeController extends Controller
         $data = [] ;
         try{
             $data = $this->homeService->updateProgress($request, $contentId);
+            return Response::Success($data['data'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }  
+    }
+
+    public function addFeedback(FeedbackRequest $request): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->homeService->addFeedback($request);
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
