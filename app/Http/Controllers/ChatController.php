@@ -18,6 +18,32 @@ class ChatController extends Controller
         $this->chatService = $chatService;
     }
 
+    public function getAllChats(): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->chatService->getAllChats();
+            return Response::Success($data['data'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
+
+    public function getChatMessages($chatId): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->chatService->getChatMessages($chatId);
+            return Response::Success($data['data'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
+    
     public function chat(ChatRequest $request): JsonResponse {
         $data = [] ;
         try{

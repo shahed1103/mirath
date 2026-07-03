@@ -12,7 +12,7 @@ use App\Http\Controllers\MeetingController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\StudyPlanController;
 
-
+use App\Http\Controllers\AdminController;
 use App\Http\Controllers\ChatController;
 use App\Http\Controllers\ChapterReviewController;
 
@@ -59,6 +59,7 @@ Route::middleware('auth:sanctum')->get('getContinueReading', [HomeController::cl
 Route::middleware('auth:sanctum')->get('getFeatures', [HomeController::class, 'getFeatures'])->middleware('can:getFeatures');
 Route::middleware('auth:sanctum')->get('getHome', [HomeController::class, 'getHome'])->middleware('can:getHome');
 Route::middleware('auth:sanctum')->post('updateProgress/{contentId}', [HomeController::class, 'updateProgress'])->middleware('can:updateProgress');
+Route::middleware('auth:sanctum')->post('addFeedback', [HomeController::class, 'addFeedback'])->middleware('can:addFeedback');
 
 Route::middleware('auth:sanctum')->get('getClassificationDetails/{classificationId}', [BookController::class, 'getClassificationDetails'])->middleware('can:getClassificationDetails');
 Route::middleware('auth:sanctum')->get('getBookDetails/{bookId}', [BookController::class, 'getBookDetails'])->middleware('can:getBookDetails');
@@ -83,7 +84,9 @@ Route::middleware('auth:sanctum')->get('deleteSummary/{summaryId}', [SummaryCont
 Route::middleware('auth:sanctum')->get('allCreatedSummary', [SummaryController::class, 'allCreatedSummary'])->middleware('can:allCreatedSummary');
 Route::middleware('auth:sanctum')->get('allUploadedSummary', [SummaryController::class, 'allUploadedSummary'])->middleware('can:allUploadedSummary');
 
-Route::middleware('auth:sanctum')->post('chat', [ChatController::class, 'chat'])->middleware('can:chat');;
+Route::middleware('auth:sanctum')->get('getAllChats', [ChatController::class, 'getAllChats'])->middleware('can:getAllChats');
+Route::middleware('auth:sanctum')->get('getChatMessages/{chatId}', [ChatController::class, 'getChatMessages'])->middleware('can:getChatMessages');
+Route::middleware('auth:sanctum')->post('chat', [ChatController::class, 'chat'])->middleware('can:chat');
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 

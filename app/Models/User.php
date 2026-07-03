@@ -84,22 +84,34 @@ class User extends Authenticatable
     return $this->hasMany(ContentProgress::class);
     }
 
-    public function cartItems()
-{
-    return $this->hasMany(CartItem::class);
-}
+    public function cartItems(){
+        return $this->hasMany(CartItem::class);
+    }
 
-public function bookRedemptions()
-{
-    return $this->hasMany(BookRedemption::class);
-}
+    public function bookRedemptions(){
+        return $this->hasMany(BookRedemption::class);
+    }
 
+    public function studyPlans(){
+        return $this->hasMany(StudyPlan::class);
+    }
 
 public function studyPlans(): HasMany
 {
     return $this->hasMany(StudyPlan::class);
 }
 
+    public function studyTasks(){
+        return $this->hasMany(StudyTask::class);
+    }
+
+    public function chats(): HasMany {
+        return $this->hasMany(Chat::class);
+    }
+
+    public function feedbacks(): HasMany {
+        return $this->hasMany(Feedback::class);
+    }
 public function studyTasks(): HasMany
 {
     return $this->hasMany(StudyTask::class);
