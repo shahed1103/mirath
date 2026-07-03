@@ -32,7 +32,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الثاني - رسوب
             [
-                'user_id' => 1,
+                'user_id' => 3,
                 'chapter_id' => 2,
                 'questions_answered' => 25,
                 'correct_answers' => 15,
@@ -47,7 +47,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الثاني - نجاح بالمحاولة الثانية
             [
-                'user_id' => 1,
+                'user_id' => 3,
                 'chapter_id' => 2,
                 'questions_answered' => 25,
                 'correct_answers' => 23,
@@ -62,7 +62,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الثالث - نجاح من أول مرة
             [
-                'user_id' => 1,
+                'user_id' => 3,
                 'chapter_id' => 3,
                 'questions_answered' => 25,
                 'correct_answers' => 25,
@@ -77,7 +77,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الرابع - امتحان جارٍ
             [
-                'user_id' => 1,
+                'user_id' => 3,
                 'chapter_id' => 4,
                 'questions_answered' => 8,
                 'correct_answers' => 7,
