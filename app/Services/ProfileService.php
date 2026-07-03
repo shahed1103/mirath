@@ -188,7 +188,8 @@ public function getLastUserExams(int $limit = 3): array
                     : 0;
                 return [
                     'score_percentage' => round($percentage, 2) . '%',
-                    'date' => $exam->started_at
+                    'date' => $exam->started_at,
+                    'book_name' => $exam-> chapter->book-> title,
                 ];
             })
             ->toArray();

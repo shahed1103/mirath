@@ -12,24 +12,21 @@ return new class extends Migration
     public function up(): void
     {
 Schema::create('study_plan_days', function (Blueprint $table) {
-    $table->id();
+            $table->id();
 
-    $table->foreignId('study_plan_id')
-        ->constrained()
-        ->onDelete('cascade');
+            $table->foreignId('study_plan_id')
+                ->constrained()
+                ->cascadeOnDelete();
 
-    $table->enum('day_of_week', [
-        'saturday',
-        'sunday',
-        'monday',
-        'tuesday',
-        'wednesday',
-        'thursday',
-        'friday'
-    ]);
+            // 0 = Sunday
+            // 1 = Monday
+            // ...
+            // 6 = Saturday
 
-    $table->timestamps();
-});
+            $table->tinyInteger('day_number');
+
+            $table->timestamps();
+        });
     }
 
     /**

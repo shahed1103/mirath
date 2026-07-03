@@ -3,164 +3,198 @@
 namespace App\Services;
 
 use App\Models\Book;
+use Carbon\Carbon;
 use App\Models\StudyPlan;
+use App\Models\StudyPlanBook;
 use App\Models\StudyPlanDay;
 use App\Models\StudyTask;
-use Carbon\Carbon;
-use Illuminate\Support\Facades\Auth;
-use Illuminate\Support\Facades\DB;
 
 class StudyPlanService
 {
-    public function createStudyPlan(array $data): array
-    {
-        $plan = null;
-        DB::transaction(function () use ($data, &$plan) {
 
-            $plan = StudyPlan::create([
-                'user_id' => Auth::id(),
-                'type' => $data['type'],
-                'daily_chapters' => $data['daily_chapters'] ?? null,
-                'duration_days' => $data['duration_days'] ?? null,
-                'notification_time' => $data['notification_time'],
-                'is_offline' => $data['is_offline'] ?? false,
-            ]);
-
-            $plan->books()->attach($data['book_ids']);
-
-            foreach ($data['study_days'] as $day) {
-                StudyPlanDay::create([
-                    'study_plan_id' => $plan->id,
-                    'day_of_week' => $day,
-                ]);
-            }
-            $this->generateTasks(
-                $plan,
-                $data['book_ids'],
-                $data['study_days']
-            );
-        });
-        return [
-            'plan' => $plan,
-            'message' => 'Study plan created successfully'
-        ];
+public function calculatePlan(array $data): array
+{
+    $books = Book::whereIn('id', $data['book_ids'])->get();
+    $totalPages = $books->sum('total_pages');
+    $totalBooks = $books->count();
+    if ($data['plan_type'] == 'duration') {
+        $dailyPages = (int) ceil($totalPages / $data['target_days']);
+        $targetDays = $data['target_days'];
+    } else {
+        $dailyPages = $data['daily_pages'];
+        $targetDays = (int) ceil($totalPages / $dailyPages);
     }
 
-    private function generateTasks(
-        StudyPlan $plan,
-        array $bookIds,
-        array $studyDays
-    ): void {
+    return [
+        'plan' => [
+            'total_books' => $totalBooks,
+            'total_pages' => $totalPages,
+            'daily_pages' => $dailyPages,
+            'target_days' => $targetDays,
+        ],
+        'message' => 'Plan calculated successfully.',
+    ];
+}
 
-        $books = Book::with([
-            'chapters' => fn ($q) => $q->orderBy('order_number')
-        ])
-        ->whereIn('id', $bookIds)
-        ->get();
 
-        $chaptersByBook = [];
 
-        foreach ($books as $book) {
-            $chaptersByBook[$book->id] =
-                $book->chapters->values()->all();
-        }
 
-        $totalChapters = collect($chaptersByBook)
-            ->flatten()
-            ->count();
+public function createPlan(array $data): array
+{
+    $books = Book::whereIn('id', $data['book_ids'])->get();
 
-        if ($plan->type === 'fixed_duration') {
+    $totalPages = $books->sum('total_pages');
+    $totalBooks = $books->count();
 
-            $dailyChapters = max(
-                1,
-                (int) ceil(
-                    $totalChapters / $plan->duration_days
-                )
-            );
+    $allowedDays = $data['study_days'];
+    sort($allowedDays);
 
-        } else {
+    /*
+    -----------------------------------
+    1. START DATE (first valid study day)
+    -----------------------------------
+    */
+    $startDate = Carbon::today();
 
-            $dailyChapters = $plan->daily_chapters;
-        }
+    while (!in_array($startDate->dayOfWeek, $allowedDays)) {
+        $startDate->addDay();
+    }
 
-        $currentDate = $this->getNextStudyDate(
-            Carbon::tomorrow(),
-            $studyDays
-        );
+    /*
+    -----------------------------------
+    2. TOTAL DAYS
+    -----------------------------------
+    */
+    if ($data['plan_type'] === 'duration') {
+        $totalDays = $data['target_days'];
+    } else {
+        $totalDays = (int) ceil($totalPages / $data['daily_pages']);
+    }
 
-        $bookQueue = array_keys($chaptersByBook);
+    $endDate = $startDate->copy();
 
-        while (true) {
+    /*
+    -----------------------------------
+    3. CREATE PLAN
+    -----------------------------------
+    */
+    $plan = StudyPlan::create([
+        'user_id' => auth()->id(),
+        'plan_type' => $data['plan_type'],
+        'daily_pages' => $data['daily_pages'] ?? null,
+        'target_days' => $data['target_days'] ?? null,
+        'notification_time' => $data['notification_time'],
+        'offline' => $data['offline'],
+        'start_date' => $startDate,
+        'end_date' => $startDate->copy()->addDays($totalDays),
+        'status' => 'active',
+        'total_books' => $totalBooks,
+        'total_pages' => $totalPages,
+    ]);
 
-            $tasksForDay = [];
+    /*
+    -----------------------------------
+    4. BOOK RELATION
+    -----------------------------------
+    */
+    foreach ($books as $book) {
+        StudyPlanBook::create([
+            'study_plan_id' => $plan->id,
+            'book_id' => $book->id
+        ]);
+    }
 
-            for ($i = 0; $i < $dailyChapters; $i++) {
+    /*
+    -----------------------------------
+    5. STUDY DAYS
+    -----------------------------------
+    */
+    foreach ($allowedDays as $day) {
+        StudyPlanDay::create([
+            'study_plan_id' => $plan->id,
+            'day_number' => $day
+        ]);
+    }
 
-                if (empty($bookQueue)) {
-                    break;
-                }
+    /*
+    -----------------------------------
+    6. PREP: PAGE POINTERS
+    -----------------------------------
+    */
+    $pagePointer = [];
+    $bookWeights = [];
 
-                $bookId = array_shift($bookQueue);
+    foreach ($books as $book) {
+        $pagePointer[$book->id] = 1;
 
-                if (empty($chaptersByBook[$bookId])) {
-                    $i--;
-                    continue;
-                }
+        // weight = نسبة الكتاب من إجمالي الصفحات
+        $bookWeights[$book->id] = $book->total_pages / $totalPages;
+    }
 
-                $chapter = array_shift(
-                    $chaptersByBook[$bookId]
-                );
+    /*
+    -----------------------------------
+    7. TASK GENERATION (ADVANCED)
+    -----------------------------------
+    */
+    $currentDate = $startDate->copy();
 
-                $tasksForDay[] = [
-                    'user_id' => Auth::id(),
+    $remainingPages = $totalPages;
+
+    while ($remainingPages > 0) {
+
+        if (in_array($currentDate->dayOfWeek, $allowedDays)) {
+
+            $dailyPages = $data['plan_type'] === 'duration'
+                ? (int) ceil($totalPages / $totalDays)
+                : $data['daily_pages'];
+
+            $remainingForDay = $dailyPages;
+
+            foreach ($books as $book) {
+
+                if ($remainingForDay <= 0) break;
+
+                $bookRemaining = $book->total_pages - ($pagePointer[$book->id] - 1);
+
+                if ($bookRemaining <= 0) continue;
+
+                /*
+                -----------------------------------
+                WEIGHTED DISTRIBUTION (SMART PART)
+                -----------------------------------
+                */
+                $weightShare = (int) ceil($dailyPages * $bookWeights[$book->id]);
+
+                $take = min($weightShare, $bookRemaining, $remainingForDay);
+
+                if ($take <= 0) continue;
+
+                StudyTask::create([
                     'study_plan_id' => $plan->id,
-                    'book_id' => $bookId,
-                    'chapter_id' => $chapter->id,
+                    'book_id' => $book->id,
                     'task_date' => $currentDate->toDateString(),
-                    'created_at' => now(),
-                    'updated_at' => now(),
-                ];
+                    'from_page' => $pagePointer[$book->id],
+                    'to_page' => $pagePointer[$book->id] + $take - 1,
+                    'pages' => $take,
+                ]);
 
-                if (!empty($chaptersByBook[$bookId])) {
-                    $bookQueue[] = $bookId;
-                }
+                $pagePointer[$book->id] += $take;
+                $remainingForDay -= $take;
+                $remainingPages -= $take;
             }
-
-            if (empty($tasksForDay)) {
-                break;
-            }
-
-            StudyTask::insert($tasksForDay);
-
-            $remaining = collect($chaptersByBook)
-                ->flatten()
-                ->count();
-
-            if ($remaining === 0) {
-                break;
-            }
-
-            $currentDate = $this->getNextStudyDate(
-                $currentDate->copy()->addDay(),
-                $studyDays
-            );
-        }
-    }
-
-    private function getNextStudyDate(
-        Carbon $date,
-        array $studyDays
-    ): Carbon {
-
-        while (
-            !in_array(
-                strtolower($date->englishDayOfWeek),
-                $studyDays
-            )
-        ) {
-            $date->addDay();
         }
 
-        return $date;
+        $currentDate->addDay();
     }
+
+    /*
+    -----------------------------------
+    8. RETURN
+    -----------------------------------
+    */
+    return [
+        'plan' => $plan,
+        'message' => 'Study plan created successfully'
+    ];
+}
 }

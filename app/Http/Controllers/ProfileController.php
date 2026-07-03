@@ -22,7 +22,6 @@ class ProfileController extends Controller
 public function getStudentStatistics(): JsonResponse
 {
     $data = [];
-
     try {
         $data = $this->profileService->getStudentStatistics();
 
@@ -34,7 +33,6 @@ public function getStudentStatistics(): JsonResponse
     catch (Throwable $th) {
         $message = $th->getMessage();
         $errors[] = $message;
-
         return Response::Error($data, $message, $errors);
     }
 }
@@ -181,7 +179,6 @@ public function getAllUserExams(): JsonResponse
 {
     try {
         $result = $this->profileService->getAllUserExams();
-
         return Response::Success(
             $result['data'],
             $result['message']

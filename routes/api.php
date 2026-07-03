@@ -10,7 +10,7 @@ use App\Http\Controllers\QuizController;
 use App\Http\Controllers\SummaryController;
 use App\Http\Controllers\MeetingController;
 use App\Http\Controllers\ProfileController;
-
+use App\Http\Controllers\StudyPlanController;
 
 
 use App\Http\Controllers\ChatController;
@@ -101,6 +101,17 @@ Route::middleware('auth:sanctum')->post('/removeBookFromCart/{id}', [ProfileCont
 Route::middleware('auth:sanctum')->post('/confirmBookRedemption', [ProfileController::class, 'confirmBookRedemption']);
 Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::class, 'getLastUserExams']);
 Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams']);
+
+
+
+
+
+
+
+
+Route::middleware('auth:sanctum')->post('/calculatePlan', [StudyPlanController::class, 'calculatePlan']);
+
+
 
 
 

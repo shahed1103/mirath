@@ -53,7 +53,7 @@ class Chapter extends Model
     return $this->hasMany(Summary::class);
     }
 
-    public function studyTasks()
+public function studyTasks(): HasMany
 {
     return $this->hasMany(StudyTask::class);
 }

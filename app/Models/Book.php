@@ -33,7 +33,12 @@ class Book extends Model
         return $this->belongsTo(Level::class);
     }
 
-    public function studyTasks()
+public function studyPlanBooks(): HasMany
+{
+    return $this->hasMany(StudyPlanBook::class);
+}
+
+public function studyTasks(): HasMany
 {
     return $this->hasMany(StudyTask::class);
 }
