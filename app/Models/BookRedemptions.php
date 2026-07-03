@@ -10,7 +10,7 @@ class BookRedemptions extends Model
     protected $fillable = [
     'user_id',
     'library_book_id',
-   'points_spent',
+     'points_spent',
 
     ];
 
