@@ -96,10 +96,6 @@ class User extends Authenticatable
         return $this->hasMany(StudyPlan::class);
     }
 
-public function studyPlans(): HasMany
-{
-    return $this->hasMany(StudyPlan::class);
-}
 
     public function studyTasks(){
         return $this->hasMany(StudyTask::class);
@@ -112,8 +108,5 @@ public function studyPlans(): HasMany
     public function feedbacks(): HasMany {
         return $this->hasMany(Feedback::class);
     }
-public function studyTasks(): HasMany
-{
-    return $this->hasMany(StudyTask::class);
-}
+
 }
