@@ -115,17 +115,19 @@ public function removeBookFromCart($bookId): array
 
 
 
-public function confirmBookRedemption(): array
+public function confirmBookRedemption(array $bookIds): array
 {
-    return DB::transaction(function () {
+    return DB::transaction(function () use ($bookIds) {
 
         $user = User::findOrFail(auth()->id());
-        $cartItems = CartItem::with('book')
-            ->where('user_id', $user->id)
+
+        $cartItems = CartItem::where('user_id', $user->id)
+            ->whereIn('library_book_id', $bookIds)
+            ->with('book')
             ->get();
 
         if ($cartItems->isEmpty()) {
-            throw new \Exception('Cart is empty');
+            throw new \Exception('No selected books found in your cart.');
         }
 
         $totalPoints = $cartItems->sum(function ($item) {
@@ -133,27 +135,22 @@ public function confirmBookRedemption(): array
         });
 
         if ($user->points < $totalPoints) {
-            throw new \Exception('Not enough points');
+            throw new \Exception('Not enough points.');
         }
 
-        // foreach ($cartItems as $item) {
-        //     BookRedemption::create([
-        //         'user_id' => $user->id,
-        //         'library_book_id' => $item->library_book_id,
-        //         'points_spent' => $item->book->price,
-        //     ]);
-        // }
-
         $user->decrement('points', $totalPoints);
-        CartItem::where('user_id', $user->id)->delete();
+
+        CartItem::where('user_id', $user->id)
+            ->whereIn('library_book_id', $bookIds)
+            ->delete();
+
         return [
             'total_points_spent' => $totalPoints,
             'remaining_points' => $user->fresh()->points,
-            'message' => 'Books redeemed successfully'
+            'message' => 'Books redeemed successfully.'
         ];
     });
 }
-
 
 public function getLastUserExams(int $limit = 3): array
     {

@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Responses\response;
 use App\Services\ProfileService;
+use App\Http\Requests\ConfirmBookRedemptionRequest;
 use Illuminate\Http\JsonResponse;
 use Throwable;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
@@ -140,12 +141,14 @@ public function removeBookFromCart($bookId): JsonResponse
 }
 
 
-public function confirmBookRedemption(): JsonResponse
+public function confirmBookRedemption(
+    ConfirmBookRedemptionRequest $request
+): JsonResponse
 {
     $data = [];
-
     try {
-        $data = $this->profileService->confirmBookRedemption();
+        $data = $this->profileService
+            ->confirmBookRedemption($request->validated()['book_ids']);
         return Response::Success(
             [
                 'total_points_spent' => $data['total_points_spent'],
@@ -153,15 +156,12 @@ public function confirmBookRedemption(): JsonResponse
             ],
             $data['message']
         );
-    }
-    catch (Throwable $th) {
+    } catch (Throwable $th) {
         $message = $th->getMessage();
         $errors[] = $message;
-
         return Response::Error($data, $message, $errors);
     }
 }
-
 
 public function getLastUserExams(): JsonResponse
 {
