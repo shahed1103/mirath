@@ -5,7 +5,6 @@ namespace App\Services;
 use App\Models\Exam;
 use App\Models\CartItem;
 use App\Models\LibraryBook;
-
 //use App\Models\BookRedemption;
 use App\Models\User;
 use Illuminate\Support\Facades\DB;
@@ -34,22 +33,20 @@ public function getStudentStatistics(): array
             'hours_study' => 20,
             'tasks_completed' => 2,
             'all_tasks' => 10,
-            'points' => $points 
+            'points' => $points
         ],
         'message' => 'Student statistics retrieved successfully'
     ];
 }
 
-
-
-// public function getMyPoints(): array
-// {
-//     $points = User::where('id', auth()->id())->get('points');
-//     return [
-//         'points' => $points,
-//         'message' => 'Student points retrieved successfully'
-//     ];
-// }
+public function getMyPoints(): array
+{
+    $points = User::where('id', auth()->id())->get('points');
+    return [
+        'points' => $points,
+        'message' => 'Student points retrieved successfully'
+    ];
+}
 
 
 public function getAllLibraryBooks(): array
