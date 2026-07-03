@@ -150,10 +150,7 @@ public function confirmBookRedemption(
         $data = $this->profileService
             ->confirmBookRedemption($request->validated()['book_ids']);
         return Response::Success(
-            [
-                'total_points_spent' => $data['total_points_spent'],
-                'remaining_points' => $data['remaining_points']
-            ],
+            [ ],
             $data['message']
         );
     } catch (Throwable $th) {

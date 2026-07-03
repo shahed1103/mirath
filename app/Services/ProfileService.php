@@ -139,14 +139,13 @@ public function confirmBookRedemption(array $bookIds): array
         }
 
         $user->decrement('points', $totalPoints);
-
         CartItem::where('user_id', $user->id)
             ->whereIn('library_book_id', $bookIds)
             ->delete();
 
         return [
-            'total_points_spent' => $totalPoints,
-            'remaining_points' => $user->fresh()->points,
+            // 'total_points_spent' => $totalPoints,
+            // 'remaining_points' => $user->fresh()->points,
             'message' => 'Books redeemed successfully.'
         ];
     });
