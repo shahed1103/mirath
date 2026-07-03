@@ -67,39 +67,9 @@ class HomeService {
             'book_name' => $progress->content?->chapter?->book?->title,
             'classification' => $progress->content?->chapter?->book?->classification?->classification,
             'chapter_title' => $progress->content?->chapter?->title,
+            'chapter_id' => $progress->content?->chapter?->id,
         ];
         return $data;
-    }
-
-    public function openContinueReading(): array {
-        $progress = ContentProgress::with([
-            'content:id,type,url,chapter_id',
-            'content.chapter:id,title'
-        ])
-            ->where('user_id', auth()->id())
-            ->whereHas('content', function ($q) {
-                $q->where('type', 'pdf');
-            })
-            ->latest('last_accessed_at')
-            ->first();
-
-        if (!$progress) {
-            return [
-                'data' => null,
-                'message' => 'No active reading'
-            ];
-
-        }
-
-        return [
-            'data' => [
-                'chapter_id' => $progress->content?->chapter_id,
-                'chapter_title' => $progress->content->chapter?->title,
-                'pdf_url' => $progress->content?->url,
-                'current_page' => $progress->progress,
-            ],
-            'message' => 'Continue reading data retrieved successfully'
-        ];
     }
     
     public function updateProgress($request , $contentId): array {

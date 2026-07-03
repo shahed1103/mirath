@@ -7,7 +7,7 @@ use Illuminate\Database\Seeder;
 use App\Models\Chapter;
 use App\Models\ChapterContent;
 use Illuminate\Support\Facades\Storage;
-
+use Illuminate\Support\Facades\File;
 class ChapterContentSeeder extends Seeder
 {
     /**
@@ -15,8 +15,10 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
-        $path = 'مصادر التلقي والمعرفة.pdf';
-        $file = url('storage/uploads/det/مصادر التلقي والمعرفة.pdf');
+        $file_pdf = url(Storage::url('uploads/booksphotos/التلقي.pdf'));
+        $file_youtubeUrl = 'https://youtu.be/7JsCnDKc3Sk?si=u7jSqUSmId5AMbx4';
+        $file_voiceMp3 = url(Storage::url('uploads/booksphotos/التلقي.mp3'));
+
 
         $chapters = Chapter::all();
 
@@ -25,21 +27,21 @@ class ChapterContentSeeder extends Seeder
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'pdf',
-                'url' => $file,
+                'url' => $file_pdf,
                 'total_progress_value' => rand(50, 300),
             ]);
 
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'video',
-                'url' => $file,
+                'url' => $file_youtubeUrl,
                 'total_progress_value' => rand(300, 3600),
             ]);
 
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'audio',
-                'url' => $file,
+                'url' => $file_voiceMp3,
                 'total_progress_value' => rand(300, 2400),
             ]);
         }
