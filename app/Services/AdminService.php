@@ -106,4 +106,6 @@ class AdminService {
         $message = 'Chapter contents data retrieved successfully';
         return ['contents' => $data , 'message' => $message];
     }
+
+    public function addNew
 }
