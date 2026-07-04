@@ -29,4 +29,17 @@ class DropDownController extends Controller
             return Response::Error($data , $message , $errors);
         }
     }
+
+    public function getLevels(): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->dropDownService->getLevels();
+            return Response::Success($data['levels'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
 }

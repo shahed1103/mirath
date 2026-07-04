@@ -15,8 +15,8 @@ class Chapter extends Model
         'title',
         'book_id',
         'order_number',
-            'start_page',
-    'end_page'
+        'start_page',
+        'end_page'
     ];
 
 

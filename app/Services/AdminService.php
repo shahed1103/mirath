@@ -6,12 +6,16 @@ use App\Models\User;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Illuminate\Support\Facades\DB;
 use App\Http\Resources\BookDetailsResource;
+use Illuminate\Validation\ValidationException;
 use App\Models\Book;
 use App\Models\Chapter;
 use App\Models\ChapterContent;
 use App\Models\Classification;
-
+use App\Models\Question;
+use App\Models\QuestionChoice;
+use App\Models\OpenQuestion;
 use App\Models\Feedback;
+use App\Models\Level;
 use Exception;
 use Throwable;
 
@@ -71,7 +75,6 @@ class AdminService {
                      ->withCount('chapters')
                      ->with(['chapters:id,book_id,title,order_number' , 'level:id,level'])
                      ->findOrFail($bookId);
-        // 'level_id',
         $chapters = $book->chapters->map(function ($chapter) {
             return [
                 'id' => $chapter->id,
@@ -300,31 +303,57 @@ class AdminService {
         ];
     }
     
-    public function deleteClassification($classificationId): array{
-            $classification = Classification::findOrFail($classificationId);
-            $classification->delete();
+    public function deleteClassification($classificationId): array {
+        $classification = Classification::findOrFail($classificationId);
 
-            return [
-                'message' => 'Classification deleted successfully.',
-            ];
+        $classificationsCount = Classification::count();
+
+        if ($classificationsCount <= 1) {
+            throw new Exception ('At least one classification must remain in the system.' , 422);
+        }
+
+        $classification->delete();
+
+        return [
+            'data' => $classification,
+            'message' => 'Classification deleted successfully.',
+        ];
     }
 
-    public function deleteBook($bookId): array{
-            $book = Book::findOrFail($bookId);
-            $book->delete();
+    public function deleteBook($bookId): array {
+        $book = Book::findOrFail($bookId);
 
-            return [
-                'message' => 'Book deleted successfully.',
-            ];
+        $booksCount = Book::where('classification_id', $book->classification_id)
+            ->count();
+
+        if ($booksCount <= 1) {
+            throw new Exception('At least one book must remain in this classification.', 422);
+        }
+
+        $book->delete();
+
+        return [
+            'data' => $book,
+            'message' => 'Book deleted successfully.',
+        ];
     }
 
-    public function deleteChapter($chapterId): array{
-            $chapter = Chapter::findOrFail($chapterId);
-            $chapter->delete();
+    public function deleteChapter($chapterId): array {
+        $chapter = Chapter::findOrFail($chapterId);
 
-            return [
-                'message' => 'Chapter deleted successfully.',
-            ];
+        $chaptersCount = Chapter::where('book_id', $chapter->book_id)
+            ->count();
+
+        if ($chaptersCount <= 1) {
+            throw new Exception('At least one chapter must remain in this book.', 422);
+        }
+
+        $chapter->delete();
+
+        return [
+            'data' => $chapter,
+            'message' => 'Chapter deleted successfully.',
+        ];
     }
 
     public function allChapterQuestionsWithAnswers($chapterId): array{
@@ -374,6 +403,8 @@ class AdminService {
             $question = Question::create([
                 'chapter_id' => $chapter->id,
                 'question_text' => $request->question_text,
+                'explanation' => $request->explanation,
+                'difficulty_score' => $request->difficulty_score,
             ]);
 
             foreach ($request->answers as $answer) {
@@ -399,10 +430,16 @@ class AdminService {
     public function addOpenQuestionToChapter($request , $chapterId): array{
         $chapter = Chapter::findOrFail($chapterId);
 
+        $nextOrderNumber = OpenQuestion::where('chapter_id', $chapter->id)
+            ->max('order_number');
+
+        $nextOrderNumber = $nextOrderNumber ? $nextOrderNumber + 1 : 1;
+
         $openQuestion = OpenQuestion::create([
             'chapter_id' => $chapter->id,
             'question_text' => $request->question_text,
             'answer' => $request->answer,
+            'order_number' => $nextOrderNumber,
         ]);
 
         return [
@@ -416,6 +453,8 @@ class AdminService {
 
         $question->update([
                 'question_text' => $request->question_text ?? $question->question_text,
+                'explanation' => $request->explanation ?? $question->explanation,
+                'difficulty_score' => $request->difficulty_score ?? $question->difficulty_score,
             ]);
 
         $question->refresh();
@@ -428,13 +467,32 @@ class AdminService {
         ];
     }
 
-    public function editChoice($request , $choiceId): array{
+    public function editChoice($request, $choiceId): array{
         $choice = QuestionChoice::findOrFail($choiceId);
 
-        $choice->update([
-            'choice_text' => $request->choice_text ?? $choice->choice_text,
-            'is_correct' => $request->is_correct ?? $choice->is_correct,
-        ]);
+        if ($request->has('is_correct') && $request->is_correct) {
+
+            QuestionChoice::where('question_id', $choice->question_id)
+                ->update([
+                    'is_correct' => false
+                ]);
+
+            $choice->is_correct = true;
+        }
+
+        if (
+            $choice->is_correct &&
+            $request->has('is_correct') &&
+            !$request->is_correct
+        ) {
+            throw new Exception('You cannot remove the correct answer. Select another choice as correct instead.', 422);
+        }
+
+        if ($request->filled('choice_text')) {
+            $choice->choice_text = $request->choice_text;
+        }
+
+        $choice->save();
 
         return [
             'message' => 'Choice updated successfully.',
@@ -461,24 +519,38 @@ class AdminService {
             $question->delete();
 
         return [
+            'data' => $question,
             'message' => 'Question and its choices deleted successfully.',
         ];
     }
 
-    public function deleteChoice($choiceId): array{
+    public function deleteChoice($choiceId): array {
         $choice = QuestionChoice::findOrFail($choiceId);
+
+        $choicesCount = QuestionChoice::where('question_id', $choice->question_id)->count();
+
+        if ($choicesCount <= 2) {
+            throw new Exception('A question must have at least two choices.', 422);
+        }
+
+        if ($choice->is_correct) {
+            throw new \Exception('The correct choice cannot be deleted. Assign another correct choice first.' , 422);
+        }
+
         $choice->delete();
 
         return [
             'message' => 'Choice deleted successfully.',
+            'data' => $choice,
         ];
-    }   
+    }  
 
     public function deleteOpenQuestion($openQuestionId): array{
         $openQuestion = OpenQuestion::findOrFail($openQuestionId);
         $openQuestion->delete();
 
         return [
+            'data' => $openQuestion,
             'message' => 'Open question deleted successfully.',
         ];
     }

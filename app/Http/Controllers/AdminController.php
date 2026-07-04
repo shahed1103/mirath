@@ -8,6 +8,10 @@ use App\Services\AdminService;
 use App\Http\Requests\Admin\AddNewClassificationRequest;
 use App\Http\Requests\Admin\AddNewBookRequest;
 use App\Http\Requests\Admin\AddNewChapterRequest;
+use App\Http\Requests\Admin\EditQuestionRequest;
+use App\Http\Requests\Admin\EditOpenQuestionRequest;
+use App\Http\Requests\Admin\AddQuestionRequest;
+use App\Http\Requests\Admin\AddOpenQuestionToChapterRequest;
 use Illuminate\Http\JsonResponse;
 use Throwable;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
@@ -172,7 +176,8 @@ class AdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
         }    
     }
 
@@ -185,7 +190,8 @@ class AdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
         }    
     }
 
@@ -198,7 +204,8 @@ class AdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
         }    
     }
 
@@ -228,7 +235,7 @@ class AdminController extends Controller
         }    
     }
 
-    public function addQuestionToChapter(Request $request, $chapterId): JsonResponse {
+    public function addQuestionToChapter(AddQuestionRequest $request, $chapterId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->addQuestionToChapter($request, $chapterId);
@@ -241,7 +248,7 @@ class AdminController extends Controller
         }    
     }
 
-    public function addOpenQuestionToChapter(Request $request, $chapterId): JsonResponse {
+    public function addOpenQuestionToChapter(AddOpenQuestionToChapterRequest $request, $chapterId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->addOpenQuestionToChapter($request, $chapterId);
@@ -254,7 +261,7 @@ class AdminController extends Controller
         }    
     }
 
-    public function editQuestion(Request $request, $questionId): JsonResponse {
+    public function editQuestion(EditQuestionRequest $request, $questionId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->editQuestion($request, $questionId);
@@ -276,11 +283,12 @@ class AdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
         }    
     }
 
-    public function editOpenQuestion(Request $request, $openQuestionId): JsonResponse {
+    public function editOpenQuestion(EditOpenQuestionRequest $request, $openQuestionId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->editOpenQuestion($request, $openQuestionId);
@@ -315,7 +323,8 @@ class AdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-            return Response::Error($data , $message , $errors);
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors , $code);
         }    
     }
 
