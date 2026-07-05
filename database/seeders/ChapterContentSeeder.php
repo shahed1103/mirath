@@ -15,9 +15,9 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
-        $file_pdf = url(Storage::url('uploads/booksphotos/التلقي.pdf'));
+        $file_pdf = 'uploads/booksphotos/التلقي.pdf';
         $file_youtubeUrl = 'https://youtu.be/7JsCnDKc3Sk?si=u7jSqUSmId5AMbx4';
-        $file_voiceMp3 = url(Storage::url('uploads/booksphotos/التلقي.mp3'));
+        $file_voiceMp3 = 'uploads/booksphotos/التلقي.mp3';
 
 
         $chapters = Chapter::all();

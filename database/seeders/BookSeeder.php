@@ -39,8 +39,8 @@ class BookSeeder extends Seeder
             if (File::exists($sourcePath)) {
                 Storage::disk('public')->put($targetPath, File::get($sourcePath));
 
-                $fullPath = url(Storage::url($targetPath));
-                // $fullPath =  $targetPath;
+                $fullPath = $targetPath;
+                // $fullPath = url(Storage::url($targetPath));
 
                 $fullPaths[] = $fullPath;
             } else {

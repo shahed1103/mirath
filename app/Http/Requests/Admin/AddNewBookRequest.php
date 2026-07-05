@@ -38,7 +38,9 @@ class AddNewBookRequest extends FormRequest
 
             //Chapter validation rules
             'chapter_title' => 'required|string|max:255|unique:chapters,title',
-            
+            'start_page' => 'required|integer|min:1',
+            'end_page' => 'required|integer|min:1', 
+                        
             //Chapter content validation rules
             'audio_url' => 'required|file|mimes:mp3,wav,m4a,mp4',
             'pdf_url' => 'required|file|mimes:pdf',

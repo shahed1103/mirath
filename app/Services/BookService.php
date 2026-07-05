@@ -15,6 +15,7 @@ use App\Http\Resources\ChapterResource;
 use App\Http\Resources\BookDetailsResource;
 use Exception;
 use Throwable;
+use Illuminate\Support\Facades\Storage;
 
 class BookService {
 
@@ -91,7 +92,7 @@ class BookService {
 
             $contents[$content->type] = [
                 'id' => $content->id,
-                'url' => $content->url,
+                'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
                 'progress' => $progress
             ];
         }

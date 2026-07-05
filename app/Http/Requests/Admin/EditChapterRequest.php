@@ -10,7 +10,7 @@ use App\Http\Responses\response;
 
 
 
-class AddNewChapterRequest extends FormRequest
+class EditChapterRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -28,17 +28,9 @@ class AddNewChapterRequest extends FormRequest
     public function rules(): array
     {
         return [
-            //Chapter validation rules
-            'chapter_title' => 'required|string|max:255|unique:chapters,title',
-            'start_page' => 'required|integer|min:1',
-            'end_page' => 'required|integer|min:1',     
-                   
-            //Chapter content validation rules
-            'audio_url' => 'required|file|mimes:mp3,wav,m4a,mp4',
-            'pdf_url' => 'required|file|mimes:pdf',
-            'video_url' => ['required', 'url', 'regex:/^(https?:\/\/)?(www\.youtube\.com|youtu\.?be)\/.+$/'],
-
-            'total_progress_value' => 'required|integer|min:1',
+            'chapter_title' => 'nullable|string|max:255|unique:chapters,title',
+            'start_page' => 'nullable|integer|min:1',
+            'end_page' => 'nullable|integer|min:1',    
         ];
     }
 

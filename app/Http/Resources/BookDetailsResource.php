@@ -4,7 +4,7 @@ namespace App\Http\Resources;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
-
+use Storage;
 class BookDetailsResource extends JsonResource
 {
     /**
@@ -15,7 +15,7 @@ class BookDetailsResource extends JsonResource
     public function toArray(Request $request): array
     {
         return [
-            'photo' => $this->photo,
+            'photo' => url(Storage::url($this->photo)),
             'title' => $this->title,
             'author_name' => $this->author_name,
             'total_pages' => $this->total_pages,

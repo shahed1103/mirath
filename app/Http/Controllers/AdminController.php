@@ -12,6 +12,13 @@ use App\Http\Requests\Admin\EditQuestionRequest;
 use App\Http\Requests\Admin\EditOpenQuestionRequest;
 use App\Http\Requests\Admin\AddQuestionRequest;
 use App\Http\Requests\Admin\AddOpenQuestionToChapterRequest;
+use App\Http\Requests\Admin\EditClassificationRequest;
+use App\Http\Requests\Admin\EditBookRequest;
+use App\Http\Requests\Admin\EditChapterRequest;
+use App\Http\Requests\Admin\EditChapterContentRequest;
+
+
+
 use Illuminate\Http\JsonResponse;
 use Throwable;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
@@ -115,7 +122,7 @@ class AdminController extends Controller
         }    
     }
 
-    public function editClassification(Request $request, $classificationId): JsonResponse {
+    public function editClassification(EditClassificationRequest $request, $classificationId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->editClassification($request, $classificationId);
@@ -128,7 +135,7 @@ class AdminController extends Controller
         }    
     }
 
-    public function editBook(Request $request, $bookId): JsonResponse {
+    public function editBook(EditBookRequest $request, $bookId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->editBook($request, $bookId);
@@ -141,7 +148,7 @@ class AdminController extends Controller
         }    
     }
 
-    public function editChapter(Request $request, $chapterId): JsonResponse {
+    public function editChapter(EditChapterRequest $request, $chapterId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->editChapter($request, $chapterId);
@@ -154,7 +161,7 @@ class AdminController extends Controller
         }    
     }
 
-    public function editChapterContent(Request $request, $contentId): JsonResponse {
+    public function editChapterContent(EditChapterContentRequest $request, $contentId): JsonResponse {
         $data = [];
         try{
             $data = $this->adminService->editChapterContent($request, $contentId);

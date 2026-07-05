@@ -16,8 +16,8 @@ return new class extends Migration
             $table->string('title');
             $table->foreignId('book_id')->constrained('books')->onDelete('cascade');
             $table->integer('order_number');
-            $table->integer('start_page')->nullable();
-            $table->integer('end_page')->nullable();
+            $table->integer('start_page');
+            $table->integer('end_page');
             $table->unique(['book_id', 'order_number']);
             $table->timestamps();
         });

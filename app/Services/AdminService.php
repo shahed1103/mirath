@@ -136,7 +136,7 @@ class AdminService {
                 $classification->id
             );
 
-            $chapter = $this->createChapter($book->id,$request->chapter_title,1);
+            $chapter = $this->createChapter($book->id,$request->chapter_title,1,$request->start_page,$request->end_page);
 
             $chapterContents = $this->createChapterContents($chapter->id, $request);
 
@@ -161,7 +161,7 @@ class AdminService {
                 $classification->id
             );
 
-            $chapter = $this->createChapter($book->id,$request->chapter_title,1);
+            $chapter = $this->createChapter($book->id,$request->chapter_title,1,$request->start_page,$request->end_page);
 
             $chapterContents = $this->createChapterContents($chapter->id, $request);
 
@@ -180,7 +180,12 @@ class AdminService {
         return DB::transaction(function () use ($request, $bookId) {
             $book = Book::findOrFail($bookId);
 
-            $chapter = $this->createChapter($book->id,$request->chapter_title,$request->order_number);
+            $nextOrderNumber = Chapter::where('book_id', $book->id)
+            ->max('order_number');
+
+            $nextOrderNumber = $nextOrderNumber ? $nextOrderNumber + 1 : 1;
+
+            $chapter = $this->createChapter($book->id,$request->chapter_title,$nextOrderNumber,$request->start_page,$request->end_page);
 
             $chapterContents = $this->createChapterContents($chapter->id, $request);
 
@@ -235,10 +240,12 @@ class AdminService {
         ]);
     }
 
-    private function createChapter($bookId,$title,$orderNumber): Chapter{
+    private function createChapter($bookId,$title,$orderNumber,$startPage,$endPage): Chapter{
         return Chapter::create([
             'book_id' => $bookId,
             'title' => $title,
+            'start_page' => $startPage,
+            'end_page' => $endPage,
             'order_number' => $orderNumber,
         ]);
     }
@@ -280,7 +287,8 @@ class AdminService {
 
         $chapter->update([
             'title' => $request->chapter_title ?? $chapter->title,
-            'order_number' => $request->order_number ?? $chapter->order_number,
+            'start_page' => $request->start_page ?? $chapter->start_page,
+            'end_page' => $request->end_page ?? $chapter->end_page
         ]);
 
         return [
@@ -292,9 +300,13 @@ class AdminService {
     public function editChapterContent($request , $contentId): array{
         $content = ChapterContent::findOrFail($contentId);
 
+            if ($request->hasFile('url')) {
+                $file = $request->file('url');
+                $path = $file->store('uploads/chapter_contents', 'public');
+            }
         $content->update([
             'type' => $request->type ?? $content->type,
-            'url' => $request->url ?? $content->url,
+            'url' => $path ?? $content->url,
         ]);
 
         return [
