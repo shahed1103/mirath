@@ -104,6 +104,7 @@ class BookService {
 
         $data = [
             'chapter_title' => $chapter->title ?? null,
+            'chapter_number' => $chapter->order_number ?? null,
             'have_summary' => $summaryChapterAlready ?? false,
             'pdf'           => $contents['pdf'],
             'audio'         => $contents['audio'],
