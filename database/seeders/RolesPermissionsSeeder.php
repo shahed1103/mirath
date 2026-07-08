@@ -22,7 +22,11 @@ class RolesPermissionsSeeder extends Seeder
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
                         'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat' , 
-                        'addFeedback' , 'getAllUsers' , 'getAllFeedbacks' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin'
+                        'addFeedback' , 'getAllUsers' , 'getAllFeedbacks' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
+                        'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
+                        'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
+                        'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
+                        'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' ,
                         ];
 
         // foreach ($permissions as $permissionName) {
@@ -47,7 +51,12 @@ foreach ($permissions as $permissionName) {
                         ]);
 
     // 3. Assign permissions
-        $superAdminRole->syncPermissions('getAllUsers' , 'getAllFeedbacks' , 'getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin');
+        $superAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
+                                         'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
+                                         'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
+                                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
+                                         'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion'
+                                         ]);
         
         $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 

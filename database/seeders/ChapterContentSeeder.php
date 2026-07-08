@@ -15,9 +15,28 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
-        $file_pdf = url(Storage::url('uploads/booksphotos/التلقي.pdf'));
+        $file_pdf = 'uploads/booksphotos/التلقي.pdf';
         $file_youtubeUrl = 'https://youtu.be/7JsCnDKc3Sk?si=u7jSqUSmId5AMbx4';
-        $file_voiceMp3 = url(Storage::url('uploads/booksphotos/التلقي.mp3'));
+        $file_voiceMp3 = 'uploads/booksphotos/التلقي.mp3';
+
+        $files = [
+            'التلقي.pdf',
+            'التلقي.mp3',
+        ];
+
+        $sourceDir = public_path('uploads/seeder_contents/');
+        $targetDir = 'uploads/chapter_contents/';
+
+        foreach ($files as $file) {
+            $sourcePath = $sourceDir . $file;
+            $targetPath = $targetDir . $file;
+                Storage::disk('public')->put($targetPath, File::get($sourcePath));
+
+                $fullPath = $targetPath;
+                // $fullPath = url(Storage::url($targetPath));
+
+                $fullPaths[] = $fullPath;
+        }
 
 
         $chapters = Chapter::all();
@@ -27,7 +46,7 @@ class ChapterContentSeeder extends Seeder
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'pdf',
-                'url' => $file_pdf,
+                'url' => $fullPaths[0],
                 'total_progress_value' => rand(50, 300),
             ]);
 
@@ -41,7 +60,7 @@ class ChapterContentSeeder extends Seeder
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'audio',
-                'url' => $file_voiceMp3,
+                'url' => $fullPaths[1],
                 'total_progress_value' => rand(300, 2400),
             ]);
         }

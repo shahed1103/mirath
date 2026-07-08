@@ -1,0 +1,45 @@
+<?php
+
+namespace App\Http\Requests\Admin;
+
+use Illuminate\Foundation\Http\FormRequest;
+use Illuminate\Contracts\Validation\Validator;
+use Illuminate\Validation\ValidationException;
+use Illuminate\Support\Facades\Auth;
+use App\Http\Responses\response;
+
+
+
+class EditClassificationRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array<mixed>|string>
+     */
+    public function rules(): array
+    {
+        return [
+            'classification' => 'string|max:255|unique:classifications,classification',
+            'bio' => 'nullable|string|max:255',
+        ];
+    }
+
+
+
+    protected function failedValidation(Validator $validator){
+
+        //Throw a validationexception eith the translated error messages
+        $message = "you have sent invalid data";
+
+        throw new ValidationException($validator, Response::Validation([], $message ,$validator->errors()));
+    }
+}

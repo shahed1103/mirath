@@ -15,6 +15,7 @@ use App\Http\Resources\ChapterResource;
 use App\Http\Resources\BookDetailsResource;
 use Exception;
 use Throwable;
+use Illuminate\Support\Facades\Storage;
 
 class BookService {
 
@@ -91,7 +92,7 @@ class BookService {
 
             $contents[$content->type] = [
                 'id' => $content->id,
-                'url' => $content->url,
+                'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
                 'progress' => $progress
             ];
         }
@@ -103,6 +104,7 @@ class BookService {
 
         $data = [
             'chapter_title' => $chapter->title ?? null,
+            'chapter_number' => $chapter->order_number ?? null,
             'have_summary' => $summaryChapterAlready ?? false,
             'pdf'           => $contents['pdf'],
             'audio'         => $contents['audio'],
