@@ -113,8 +113,7 @@ Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::c
 
 
 Route::middleware('auth:sanctum')->post('/calculatePlan', [StudyPlanController::class, 'calculatePlan']);
-
-
+Route::middleware('auth:sanctum')->post('/createPlan', [StudyPlanController::class, 'createPlan']);
 
 
 
