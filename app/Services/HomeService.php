@@ -12,6 +12,7 @@ use App\Models\ContentProgress;
 use Illuminate\Support\Facades\Cache;
 use Exception;
 use Throwable;
+use Storage;
 
 class HomeService {
 
@@ -49,7 +50,7 @@ class HomeService {
         $progress = ContentProgress::with([
             'content:id,type,url,chapter_id',
             'content.chapter:id,title,book_id',
-            'content.chapter.book:id,title,classification_id,total_pages',
+            'content.chapter.book:id,title,classification_id,total_pages,photo',
             'content.chapter.book.classification:id,classification'
             ])
             ->where('user_id', auth()->id())
@@ -65,6 +66,7 @@ class HomeService {
 
         $data = [    
             'book_name' => $progress->content?->chapter?->book?->title,
+            'book_photo' => url(Storage::url($progress->content?->chapter?->book?->photo)),
             'classification' => $progress->content?->chapter?->book?->classification?->classification,
             'chapter_title' => $progress->content?->chapter?->title,
             'chapter_id' => $progress->content?->chapter?->id,

@@ -42,7 +42,7 @@ class ChapterReviewService {
         $user = User::withCount('reviewChapters')
             ->with([
                 'reviewChapters:id,book_id,title',
-                'reviewChapters.book:id,title,classification_id',
+                'reviewChapters.book:id,title,classification_id,photo',
                 'reviewChapters.book.classification:id,classification'
             ])
             ->findOrFail(auth()->id());
