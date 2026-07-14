@@ -18,6 +18,8 @@ use App\Models\Feedback;
 use App\Models\Level;
 use Exception;
 use Throwable;
+use Illuminate\Support\Facades\Cache;
+use Storage;
 
 class AdminService {
 
@@ -109,7 +111,7 @@ class AdminService {
         foreach ($chapter->contents as $content) {
             $contents[$content->type] = [
                 'id' => $content->id,
-                'url' => $content->url,
+                'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
             ];
         }
 
@@ -139,6 +141,8 @@ class AdminService {
             $chapter = $this->createChapter($book->id,$request->chapter_title,1,$request->start_page,$request->end_page);
 
             $chapterContents = $this->createChapterContents($chapter->id, $request);
+
+            Cache::forget('view_classifications');
 
             return [
                 'message' => 'New classification, book, chapter, and contents added successfully.',
@@ -258,6 +262,8 @@ class AdminService {
             'bio' => $request->bio ?? $classification->bio,
         ]);
 
+        Cache::forget('view_classifications');
+
         return [
             'message' => 'Classification updated successfully.',
             'data' => $classification,
@@ -325,6 +331,8 @@ class AdminService {
         }
 
         $classification->delete();
+
+        Cache::forget('view_classifications');
 
         return [
             'data' => $classification,
