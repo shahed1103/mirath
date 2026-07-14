@@ -10,6 +10,7 @@ class LibraryBook extends Model
         'name',
         'author',
         'price',
+        'count'
 
     ];
 

@@ -66,11 +66,6 @@ class StoreStudyPlanRequest extends FormRequest
                 'boolean'
             ],
 
-            'start_date' => [
-                'required',
-                'date'
-            ]
-
         ];
     }
 }

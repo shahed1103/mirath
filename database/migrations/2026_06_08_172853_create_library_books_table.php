@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('name');
             $table->string('author');
             $table->integer('price');
+            $table->integer('count');
 
         });
     }

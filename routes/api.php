@@ -11,6 +11,7 @@ use App\Http\Controllers\SummaryController;
 use App\Http\Controllers\MeetingController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\StudyPlanController;
+use App\Http\Controllers\LibraryAdminController;
 
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\ChatController;
@@ -126,10 +127,18 @@ Route::middleware('auth:sanctum')->post('/confirmBookRedemption', [ProfileContro
 Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::class, 'getLastUserExams']);
 Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams']);
 
+
+
 Route::middleware('auth:sanctum')->post('/calculatePlan', [StudyPlanController::class, 'calculatePlan']);
+Route::middleware('auth:sanctum')->post('/createPlan', [StudyPlanController::class, 'createPlan']);
 
 
 
+Route::middleware('auth:sanctum')->post('/storeLibraryBook', [LibraryAdminController::class, 'storeLibraryBook']);
+Route::middleware('auth:sanctum')->get('/getAllBookRedemptions', [LibraryAdminController::class, 'getAllBookRedemptions']);
+Route::middleware('auth:sanctum')->get('/getMostRedeemedBooks', [LibraryAdminController::class, 'getMostRedeemedBooks']);
+Route::middleware('auth:sanctum')->get('/getMonthlyRedeemedPoints', [LibraryAdminController::class, 'getMonthlyRedeemedPoints']);
+Route::middleware('auth:sanctum')->get('/getBookRedemptionStatistics', [LibraryAdminController::class, 'getBookRedemptionStatistics']);
 
 
 

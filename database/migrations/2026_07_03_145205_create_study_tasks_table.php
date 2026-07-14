@@ -36,6 +36,9 @@ return new class extends Migration
 
             $table->unsignedInteger('from_page');
 
+            $table->unsignedInteger('reading_order');
+
+
             $table->unsignedInteger('to_page');
 
             $table->unsignedInteger('pages');

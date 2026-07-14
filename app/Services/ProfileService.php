@@ -5,8 +5,8 @@ namespace App\Services;
 use App\Models\Exam;
 use App\Models\CartItem;
 use App\Models\LibraryBook;
-//use App\Models\BookRedemption;
 use App\Models\User;
+use App\Models\BookRedemption;
 use Illuminate\Support\Facades\DB;
 use App\Http\Resources\LibraryBookResource;
 
@@ -48,17 +48,15 @@ public function getMyPoints(): array
     ];
 }
 
-
 public function getAllLibraryBooks(): array
 {
-    $books = LibraryBook::all();
-
     return [
-        'books' => LibraryBookResource::collection($books),
+        'books' => LibraryBookResource::collection(
+            LibraryBook::where('count', '>', 0)->get()
+        ),
         'message' => 'Library books retrieved successfully'
     ];
 }
-
 
 
 public function addBookToCart($bookId): array
@@ -123,29 +121,59 @@ public function confirmBookRedemption(array $bookIds): array
 
         $cartItems = CartItem::where('user_id', $user->id)
             ->whereIn('library_book_id', $bookIds)
-            ->with('book')
             ->get();
 
         if ($cartItems->isEmpty()) {
             throw new \Exception('No selected books found in your cart.');
         }
 
-        $totalPoints = $cartItems->sum(function ($item) {
-            return $item->book->price;
-        });
+        // قفل جميع الكتب المطلوبة دفعة واحدة
+        $books = LibraryBook::whereIn('id', $cartItems->pluck('library_book_id'))
+            ->lockForUpdate()
+            ->get()
+            ->keyBy('id');
+
+        $totalPoints = 0;
+
+        foreach ($cartItems as $item) {
+
+            $book = $books->get($item->library_book_id);
+
+            if (!$book) {
+                throw new \Exception('Book not found.');
+            }
+
+            if ($book->count <= 0) {
+                throw new \Exception("Book '{$book->name}' is out of stock.");
+            }
+
+            $totalPoints += $book->price;
+        }
 
         if ($user->points < $totalPoints) {
             throw new \Exception('Not enough points.');
         }
 
+        foreach ($cartItems as $item) {
+
+            $book = $books->get($item->library_book_id);
+
+            BookRedemption::create([
+                'user_id' => $user->id,
+                'library_book_id' => $book->id,
+                'points_spent' => $book->price,
+            ]);
+
+            $book->decrement('count');
+        }
+
         $user->decrement('points', $totalPoints);
+
         CartItem::where('user_id', $user->id)
             ->whereIn('library_book_id', $bookIds)
             ->delete();
 
         return [
-            // 'total_points_spent' => $totalPoints,
-            // 'remaining_points' => $user->fresh()->points,
             'message' => 'Books redeemed successfully.'
         ];
     });

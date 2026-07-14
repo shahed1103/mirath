@@ -19,7 +19,8 @@ class StudyTask extends Model
         'to_page',
         'pages',
         'completed',
-        'completed_at'
+        'completed_at',
+        'reading_order'
     ];
 
     protected $casts = [
