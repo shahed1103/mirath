@@ -25,7 +25,7 @@ class BookRedemptionResource extends JsonResource
             ],
 
             'points_spent' => $this->points_spent,
-
+            'status' => $this->status,
             'redeemed_at' => $this->created_at,
         ];
     }

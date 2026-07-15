@@ -11,6 +11,7 @@ class BookRedemption extends Model
     'user_id',
     'library_book_id',
      'points_spent',
+     'status'
 
     ];
 

@@ -14,6 +14,7 @@ class LibraryBookResource extends JsonResource
             'name' => $this->name,
             'author' => $this->author,
             'price' => $this->price,
+            'book_photo' => url(Storage::url($this->book->photo)),
         ];
     }
 }

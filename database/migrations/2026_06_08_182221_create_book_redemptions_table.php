@@ -17,6 +17,7 @@ Schema::create('book_redemptions', function (Blueprint $table) {
     $table->foreignId('user_id')->constrained()->onDelete('cascade');
     $table->foreignId('library_book_id')->constrained()->onDelete('cascade');
     $table->integer('points_spent');
+    $table->enum('status', ['pending', 'done'])->default('pending');
     $table->timestamps();
 });
     }

@@ -139,18 +139,22 @@ public function removeBookFromCart($bookId): JsonResponse
 }
 
 
-public function confirmBookRedemption(
+public function requestBookRedemption(
     ConfirmBookRedemptionRequest $request
 ): JsonResponse
 {
     $data = [];
     try {
         $data = $this->profileService
-            ->confirmBookRedemption($request->validated()['book_ids']);
-        return Response::Success(
-            [ ],
-            $data['message']
-        );
+            ->requestBookRedemption($request->validated()['book_ids']);
+return Response::Success(
+    [
+        'library_location' => $data['library_location'],
+        'working_hours' => $data['working_hours'],
+    ],
+    $data['message']
+);
+
     } catch (Throwable $th) {
         $message = $th->getMessage();
         $errors[] = $message;

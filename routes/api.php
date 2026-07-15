@@ -123,7 +123,7 @@ Route::middleware('auth:sanctum')->post('/addBookToCart/{id}', [ProfileControlle
 Route::middleware('auth:sanctum')->get('/getMyPoints', [ProfileController::class, 'getMyPoints']);
 Route::middleware('auth:sanctum')->get('/getCartItems', [ProfileController::class, 'getCartItems']);
 Route::middleware('auth:sanctum')->post('/removeBookFromCart/{id}', [ProfileController::class, 'removeBookFromCart']);
-Route::middleware('auth:sanctum')->post('/confirmBookRedemption', [ProfileController::class, 'confirmBookRedemption']);
+Route::middleware('auth:sanctum')->post('/requestBookRedemption', [ProfileController::class, 'requestBookRedemption']);
 Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::class, 'getLastUserExams']);
 Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams']);
 
@@ -139,7 +139,7 @@ Route::middleware('auth:sanctum')->get('/getAllBookRedemptions', [LibraryAdminCo
 Route::middleware('auth:sanctum')->get('/getMostRedeemedBooks', [LibraryAdminController::class, 'getMostRedeemedBooks']);
 Route::middleware('auth:sanctum')->get('/getMonthlyRedeemedPoints', [LibraryAdminController::class, 'getMonthlyRedeemedPoints']);
 Route::middleware('auth:sanctum')->get('/getBookRedemptionStatistics', [LibraryAdminController::class, 'getBookRedemptionStatistics']);
-
+Route::middleware('auth:sanctum')->post('/confirmBookRedemption/{redemptionId}', [LibraryAdminController::class, 'confirmBookRedemption']);
 
 
 

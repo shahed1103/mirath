@@ -113,70 +113,73 @@ public function removeBookFromCart($bookId): array
 
 
 
-public function confirmBookRedemption(array $bookIds): array
+public function requestBookRedemption(array $bookIds): array
 {
-    return DB::transaction(function () use ($bookIds) {
+    $user = User::findOrFail(auth()->id());
 
-        $user = User::findOrFail(auth()->id());
+    $cartItems = CartItem::where('user_id', $user->id)
+        ->whereIn('library_book_id', $bookIds)
+        ->get();
 
-        $cartItems = CartItem::where('user_id', $user->id)
-            ->whereIn('library_book_id', $bookIds)
-            ->get();
+    if ($cartItems->isEmpty()) {
+        throw new \Exception('No selected books found in your cart.');
+    }
 
-        if ($cartItems->isEmpty()) {
-            throw new \Exception('No selected books found in your cart.');
+    $books = LibraryBook::whereIn('id', $cartItems->pluck('library_book_id'))
+        ->get()
+        ->keyBy('id');
+
+    $totalPoints = 0;
+
+    foreach ($cartItems as $item) {
+
+        $book = $books->get($item->library_book_id);
+
+        if (!$book) {
+            throw new \Exception('Book not found.');
         }
 
-        // قفل جميع الكتب المطلوبة دفعة واحدة
-        $books = LibraryBook::whereIn('id', $cartItems->pluck('library_book_id'))
-            ->lockForUpdate()
-            ->get()
-            ->keyBy('id');
-
-        $totalPoints = 0;
-
-        foreach ($cartItems as $item) {
-
-            $book = $books->get($item->library_book_id);
-
-            if (!$book) {
-                throw new \Exception('Book not found.');
-            }
-
-            if ($book->count <= 0) {
-                throw new \Exception("Book '{$book->name}' is out of stock.");
-            }
-
-            $totalPoints += $book->price;
+        if ($book->count <= 0) {
+            throw new \Exception("Book '{$book->name}' is out of stock.");
         }
 
-        if ($user->points < $totalPoints) {
-            throw new \Exception('Not enough points.');
+        $totalPoints += $book->price;
+    }
+
+    if ($user->points < $totalPoints) {
+        throw new \Exception('Not enough points.');
+    }
+
+    foreach ($cartItems as $item) {
+
+        $book = $books->get($item->library_book_id);
+
+        $alreadyRequested = BookRedemption::where('user_id', $user->id)
+            ->where('library_book_id', $book->id)
+            ->where('status', 'pending')
+            ->exists();
+
+        if ($alreadyRequested) {
+            throw new \Exception("You already have a pending request for '{$book->name}'.");
         }
 
-        foreach ($cartItems as $item) {
+        BookRedemption::create([
+            'user_id' => $user->id,
+            'library_book_id' => $book->id,
+            'points_spent' => $book->price,
+            'status' => 'pending',
+        ]);
+    }
 
-            $book = $books->get($item->library_book_id);
+    CartItem::where('user_id', $user->id)
+        ->whereIn('library_book_id', $bookIds)
+        ->delete();
 
-            BookRedemption::create([
-                'user_id' => $user->id,
-                'library_book_id' => $book->id,
-                'points_spent' => $book->price,
-            ]);
-
-            $book->decrement('count');
-        }
-
-        $user->decrement('points', $totalPoints);
-
-        CartItem::where('user_id', $user->id)
-            ->whereIn('library_book_id', $bookIds)
-            ->delete();
-
-        return [
-            'message' => 'Books redeemed successfully.'
-        ];
-    });
+return [
+    'library_location' => 'البرامكة، بجانب مشفى التوليد',
+    'working_hours' => 'من الساعة 10:00 صباحًا حتى 5:00 مساءً',
+    'message' => 'تم إرسال طلب تبديل الكتب بنجاح. يرجى مراجعة المكتبة في البرامكة، بجانب مشفى التوليد، خلال أوقات الدوام لإتمام عملية استلام الكتب.'
+];
 }
 
 public function getLastUserExams(int $limit = 3): array

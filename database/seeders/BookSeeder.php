@@ -55,7 +55,7 @@ class BookSeeder extends Seeder
            'bio' => $bio[$i] ,
            'photo' => $fullPaths[$i] ,
            'classification_id'=> $classifications[$i],
-           'level_id'=> $levels[$i], 
+           'level_id'=> $levels[$i],
            'total_pages' => $total_pages[$i]
             ]); }
     }

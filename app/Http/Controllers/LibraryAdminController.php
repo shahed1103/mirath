@@ -131,4 +131,20 @@ public function getBookRedemptionStatistics(): JsonResponse
     }
 }
 
+public function confirmBookRedemption(int $redemptionId): JsonResponse
+{
+    $data = [];
+
+    try {
+        $data = $this->libraryService->confirmBookRedemption($redemptionId);
+        return Response::Success(
+            $data,
+            $data['message']
+        );
+    } catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+        return Response::Error($data, $message, $errors);
+    }
+}
 }

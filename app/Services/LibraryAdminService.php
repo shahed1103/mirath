@@ -95,4 +95,57 @@ public function getBookRedemptionStatistics(): array
         'message' => 'Statistics retrieved successfully.'
     ];
 }
+
+
+
+
+public function confirmBookRedemption(int $redemptionId): array
+{
+    return DB::transaction(function () use ($redemptionId) {
+
+        $redemption = BookRedemption::where('id', $redemptionId)
+            ->lockForUpdate()
+            ->first();
+
+        if (!$redemption) {
+            throw new \Exception('Redemption request not found.');
+        }
+
+        if ($redemption->status === 'done') {
+            throw new \Exception('This redemption request has already been confirmed.');
+        }
+
+        $user = User::where('id', $redemption->user_id)
+            ->lockForUpdate()
+            ->first();
+
+        $book = LibraryBook::where('id', $redemption->library_book_id)
+            ->lockForUpdate()
+            ->first();
+
+        if (!$book) {
+            throw new \Exception('Book not found.');
+        }
+
+        if ($book->count <= 0) {
+            throw new \Exception("Book '{$book->name}' is out of stock.");
+        }
+
+        if ($user->points < $redemption->points_spent) {
+            throw new \Exception('The user no longer has enough points.');
+        }
+
+        $user->decrement('points', $redemption->points_spent);
+
+        $book->decrement('count');
+
+        $redemption->update([
+            'status' => 'done',
+        ]);
+
+        return [
+            'message' => 'Book redemption confirmed successfully.'
+        ];
+    });
+}
 }
