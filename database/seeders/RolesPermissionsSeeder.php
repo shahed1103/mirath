@@ -14,6 +14,8 @@ class RolesPermissionsSeeder extends Seeder
     public function run(): void {
     // 1. Create roles
         $superAdminRole = Role::create(['name' => 'superAdmin']);
+        $dataEntryAdminRole = Role::create(['name' => 'dataEntryAdmin']);
+        $followStudentAdminRole = Role::create(['name' => 'followStudentAdminRole']);
         $clientRole = Role::create(['name' => 'Client']);
 
     // 2. Create permissions
@@ -26,7 +28,8 @@ class RolesPermissionsSeeder extends Seeder
                         'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
                         'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
-                        'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' ,
+                        'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview' , 'contentStatisticsOverview' ,
+                        'examStatisticsOverview' , 'progressStatisticsOverview'
                         ];
 
         // foreach ($permissions as $permissionName) {
@@ -51,12 +54,17 @@ foreach ($permissions as $permissionName) {
                         ]);
 
     // 3. Assign permissions
-        $superAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
+        $superAdminRole->syncPermissions([]);
+
+        $dataEntryAdminRole->syncPermissions(['getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
                                          'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
                                          'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
                                          'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
                                          'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion'
                                          ]);
+
+        $followStudentAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'userStatisticsOverview' , 'contentStatisticsOverview' ,
+                                                  'examStatisticsOverview' , 'progressStatisticsOverview']);
         
         $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 

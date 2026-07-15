@@ -14,6 +14,12 @@ use App\Http\Controllers\StudyPlanController;
 use App\Http\Controllers\LibraryAdminController;
 
 use App\Http\Controllers\AdminController;
+
+use App\Http\Controllers\Admin\UserStatisticsController;
+use App\Http\Controllers\Admin\ExamStatisticsController;
+use App\Http\Controllers\Admin\ContentStatisticsController;
+use App\Http\Controllers\Admin\ProgressStatisticsController;
+
 use App\Http\Controllers\ChatController;
 use App\Http\Controllers\ChapterReviewController;
 
@@ -115,6 +121,12 @@ Route::middleware('auth:sanctum')->get('deleteQuestion/{questionId}', [AdminCont
 Route::middleware('auth:sanctum')->get('deleteChoice/{choiceId}', [AdminController::class, 'deleteChoice'])->middleware('can:deleteChoice');
 Route::middleware('auth:sanctum')->get('deleteOpenQuestion/{openQuestionId}', [AdminController::class, 'deleteOpenQuestion'])->middleware('can:deleteOpenQuestion');
 
+Route::middleware('auth:sanctum')->get('userStatisticsOverview', [UserStatisticsController::class, 'userStatisticsOverview']);//->middleware('can:userStatisticsOverview');
+Route::middleware('auth:sanctum')->get('contentStatisticsOverview', [ContentStatisticsController::class, 'contentStatisticsOverview']);//->middleware('can:contentStatisticsOverview');
+Route::middleware('auth:sanctum')->get('examStatisticsOverview', [ExamStatisticsController::class, 'examStatisticsOverview']);//->middleware('can:examStatisticsOverview');
+Route::middleware('auth:sanctum')->get('progressStatisticsOverview', [ProgressStatisticsController::class, 'progressStatisticsOverview']);//->middleware('can:progressStatisticsOverview');
+
+
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 
 Route::middleware('auth:sanctum')->get('/getStudentStatistics', [ProfileController::class, 'getStudentStatistics']);
@@ -127,12 +139,8 @@ Route::middleware('auth:sanctum')->post('/requestBookRedemption', [ProfileContro
 Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::class, 'getLastUserExams']);
 Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams']);
 
-
-
 Route::middleware('auth:sanctum')->post('/calculatePlan', [StudyPlanController::class, 'calculatePlan']);
 Route::middleware('auth:sanctum')->post('/createPlan', [StudyPlanController::class, 'createPlan']);
-
-
 
 Route::middleware('auth:sanctum')->post('/storeLibraryBook', [LibraryAdminController::class, 'storeLibraryBook']);
 Route::middleware('auth:sanctum')->get('/getAllBookRedemptions', [LibraryAdminController::class, 'getAllBookRedemptions']);
