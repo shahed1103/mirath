@@ -109,4 +109,9 @@ class User extends Authenticatable
         return $this->hasMany(Feedback::class);
     }
 
+    public function latestExam(){
+    return $this->hasOne(Exam::class)
+        ->where('status', 'finished')
+        ->latestOfMany();
+    }
 }

@@ -1,11 +1,66 @@
 <?php
 
-namespace App\Services\AdminServices;
+namespace App\Services;
 use App\Models\User;
+use App\Models\Feedback;
 use Carbon\Carbon;
 use Illuminate\Support\Facades\DB;
 
-class UserStatisticsService {
+class UserAdminService {
+
+    public function getAllUsers(): array {
+        $users = User::select('id', 'name', 'nick_name', 'email', 'age')
+            ->with('latestExam:id,exams.user_id,correct_answers')
+            ->role('Client')
+            ->orderBy('created_at', 'desc')
+            ->get()
+                    ->map(function ($user) {
+
+            return [
+                'id' => $user->id,
+                'name' => $user->name,
+                'nick_name' => $user->nick_name,
+                'email' => $user->email,
+                'age' => $user->age,
+
+                'last_exam_result' => $user->latestExam
+                    ? ($user->latestExam->correct_answers*100)/25
+                    : 0,
+            ];
+        })
+        ->toArray();
+
+        return [
+            'data' => $users,
+            'message' => 'All users retrieved successfully.'
+        ];
+    }
+
+    public function getAllFeedbacks(): array {
+        $feedbacks = Feedback::with(['user:id,name,nick_name,email'])
+            ->select('id', 'feedback', 'created_at', 'user_id')
+            ->orderBy('created_at', 'desc')
+            ->get()
+            ->map(function ($feedback) {
+                return [
+                    'id' => $feedback->id,
+                    'feedback' => $feedback->feedback,
+                    'created_at' => $feedback->created_at->format('Y-m-d'),
+                    'user' => $feedback->user ? [
+                        'user_id' => $feedback->user->id,
+                        'name' => $feedback->user->name,
+                        'nick_name' => $feedback->user->nick_name,
+                        'email' => $feedback->user->email,
+                    ] : null,
+                ];
+            })
+            ->toArray();
+
+        return [
+            'data' => $feedbacks,
+            'message' => 'All feedbacks retrieved successfully.'
+        ];
+    }
 
     private function studentsQuery(){
         return User::role('client');

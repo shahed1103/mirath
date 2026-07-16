@@ -13,12 +13,9 @@ use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\StudyPlanController;
 use App\Http\Controllers\LibraryAdminController;
 
-use App\Http\Controllers\AdminController;
-
-use App\Http\Controllers\Admin\UserStatisticsController;
-use App\Http\Controllers\Admin\ExamStatisticsController;
-use App\Http\Controllers\Admin\ContentStatisticsController;
-use App\Http\Controllers\Admin\ProgressStatisticsController;
+use App\Http\Controllers\ContentAdminController;
+use App\Http\Controllers\QuestionAdminController;
+use App\Http\Controllers\UserAdminController;
 
 use App\Http\Controllers\ChatController;
 use App\Http\Controllers\ChapterReviewController;
@@ -96,35 +93,33 @@ Route::middleware('auth:sanctum')->get('getAllChats', [ChatController::class, 'g
 Route::middleware('auth:sanctum')->get('getChatMessages/{chatId}', [ChatController::class, 'getChatMessages'])->middleware('can:getChatMessages');
 Route::middleware('auth:sanctum')->post('chat', [ChatController::class, 'chat'])->middleware('can:chat');
 
-Route::middleware('auth:sanctum')->get('getAllUsers', [AdminController::class, 'getAllUsers'])->middleware('can:getAllUsers');
-Route::middleware('auth:sanctum')->get('getAllFeedbacks', [AdminController::class, 'getAllFeedbacks'])->middleware('can:getAllFeedbacks');
-Route::middleware('auth:sanctum')->get('getBookDetailsAdmin/{bookId}', [AdminController::class, 'getBookDetailsAdmin'])->middleware('can:getBookDetailsAdmin');
-Route::middleware('auth:sanctum')->get('getChapterDetailsAdmin/{chapterId}', [AdminController::class, 'getChapterDetailsAdmin'])->middleware('can:getChapterDetailsAdmin');
-Route::middleware('auth:sanctum')->post('addNewClassification', [AdminController::class, 'addNewClassification'])->middleware('can:addNewClassification');
-Route::middleware('auth:sanctum')->post('addNewBook/{classificationId}', [AdminController::class, 'addNewBook'])->middleware('can:addNewBook');
-Route::middleware('auth:sanctum')->post('addNewChapter/{bookId}', [AdminController::class, 'addNewChapter'])->middleware('can:addNewChapter');
-Route::middleware('auth:sanctum')->post('editClassification/{classificationId}', [AdminController::class, 'editClassification'])->middleware('can:editClassification');
-Route::middleware('auth:sanctum')->post('editBook/{bookId}', [AdminController::class, 'editBook'])->middleware('can:editBook');
-Route::middleware('auth:sanctum')->post('editChapter/{chapterId}', [AdminController::class, 'editChapter'])->middleware('can:editChapter');
-Route::middleware('auth:sanctum')->post('editChapterContent/{contentId}', [AdminController::class, 'editChapterContent'])->middleware('can:editChapterContent');
-Route::middleware('auth:sanctum')->get('deleteClassification/{classificationId}', [AdminController::class, 'deleteClassification'])->middleware('can:deleteClassification');
-Route::middleware('auth:sanctum')->get('deleteBook/{bookId}', [AdminController::class, 'deleteBook'])->middleware('can:deleteBook');
-Route::middleware('auth:sanctum')->get('deleteChapter/{chapterId}', [AdminController::class, 'deleteChapter'])->middleware('can:deleteChapter');
-Route::middleware('auth:sanctum')->get('allChapterQuestionsWithAnswers/{chapterId}', [AdminController::class, 'allChapterQuestionsWithAnswers'])->middleware('can:allChapterQuestionsWithAnswers');
-Route::middleware('auth:sanctum')->get('allChapterOpenQuestionsWithAnswers/{chapterId}', [AdminController::class, 'allChapterOpenQuestionsWithAnswers'])->middleware('can:allChapterOpenQuestionsWithAnswers');
-Route::middleware('auth:sanctum')->post('addQuestionToChapter/{chapterId}', [AdminController::class, 'addQuestionToChapter'])->middleware('can:addQuestionToChapter');
-Route::middleware('auth:sanctum')->post('addOpenQuestionToChapter/{chapterId}', [AdminController::class, 'addOpenQuestionToChapter'])->middleware('can:addOpenQuestionToChapter');
-Route::middleware('auth:sanctum')->post('editQuestion/{questionId}', [AdminController::class, 'editQuestion'])->middleware('can:editQuestion');
-Route::middleware('auth:sanctum')->post('editChoice/{choiceId}', [AdminController::class, 'editChoice'])->middleware('can:editChoice');
-Route::middleware('auth:sanctum')->post('editOpenQuestion/{openQuestionId}', [AdminController::class, 'editOpenQuestion'])->middleware('can:editOpenQuestion');
-Route::middleware('auth:sanctum')->get('deleteQuestion/{questionId}', [AdminController::class, 'deleteQuestion'])->middleware('can:deleteQuestion');
-Route::middleware('auth:sanctum')->get('deleteChoice/{choiceId}', [AdminController::class, 'deleteChoice'])->middleware('can:deleteChoice');
-Route::middleware('auth:sanctum')->get('deleteOpenQuestion/{openQuestionId}', [AdminController::class, 'deleteOpenQuestion'])->middleware('can:deleteOpenQuestion');
+Route::middleware('auth:sanctum')->get('getAllUsers', [UserAdminController::class, 'getAllUsers'])->middleware('can:getAllUsers');
+Route::middleware('auth:sanctum')->get('getAllFeedbacks', [UserAdminController::class, 'getAllFeedbacks'])->middleware('can:getAllFeedbacks');
+Route::middleware('auth:sanctum')->get('userStatisticsOverview', [UserAdminController::class, 'userStatisticsOverview'])->middleware('can:userStatisticsOverview');
 
-Route::middleware('auth:sanctum')->get('userStatisticsOverview', [UserStatisticsController::class, 'userStatisticsOverview']);//->middleware('can:userStatisticsOverview');
-Route::middleware('auth:sanctum')->get('contentStatisticsOverview', [ContentStatisticsController::class, 'contentStatisticsOverview']);//->middleware('can:contentStatisticsOverview');
-Route::middleware('auth:sanctum')->get('examStatisticsOverview', [ExamStatisticsController::class, 'examStatisticsOverview']);//->middleware('can:examStatisticsOverview');
-Route::middleware('auth:sanctum')->get('progressStatisticsOverview', [ProgressStatisticsController::class, 'progressStatisticsOverview']);//->middleware('can:progressStatisticsOverview');
+Route::middleware('auth:sanctum')->get('getBookDetailsAdmin/{bookId}', [ContentAdminController::class, 'getBookDetailsAdmin'])->middleware('can:getBookDetailsAdmin');
+Route::middleware('auth:sanctum')->get('getChapterDetailsAdmin/{chapterId}', [ContentAdminController::class, 'getChapterDetailsAdmin'])->middleware('can:getChapterDetailsAdmin');
+Route::middleware('auth:sanctum')->post('addNewClassification', [ContentAdminController::class, 'addNewClassification'])->middleware('can:addNewClassification');
+Route::middleware('auth:sanctum')->post('addNewBook/{classificationId}', [ContentAdminController::class, 'addNewBook'])->middleware('can:addNewBook');
+Route::middleware('auth:sanctum')->post('addNewChapter/{bookId}', [ContentAdminController::class, 'addNewChapter'])->middleware('can:addNewChapter');
+Route::middleware('auth:sanctum')->post('editClassification/{classificationId}', [ContentAdminController::class, 'editClassification'])->middleware('can:editClassification');
+Route::middleware('auth:sanctum')->post('editBook/{bookId}', [ContentAdminController::class, 'editBook'])->middleware('can:editBook');
+Route::middleware('auth:sanctum')->post('editChapter/{chapterId}', [ContentAdminController::class, 'editChapter'])->middleware('can:editChapter');
+Route::middleware('auth:sanctum')->post('editChapterContent/{contentId}', [ContentAdminController::class, 'editChapterContent'])->middleware('can:editChapterContent');
+Route::middleware('auth:sanctum')->get('deleteClassification/{classificationId}', [ContentAdminController::class, 'deleteClassification'])->middleware('can:deleteClassification');
+Route::middleware('auth:sanctum')->get('deleteBook/{bookId}', [ContentAdminController::class, 'deleteBook'])->middleware('can:deleteBook');
+Route::middleware('auth:sanctum')->get('deleteChapter/{chapterId}', [ContentAdminController::class, 'deleteChapter'])->middleware('can:deleteChapter');
+
+Route::middleware('auth:sanctum')->get('allChapterQuestionsWithAnswers/{chapterId}', [QuestionAdminController::class, 'allChapterQuestionsWithAnswers'])->middleware('can:allChapterQuestionsWithAnswers');
+Route::middleware('auth:sanctum')->get('allChapterOpenQuestionsWithAnswers/{chapterId}', [QuestionAdminController::class, 'allChapterOpenQuestionsWithAnswers'])->middleware('can:allChapterOpenQuestionsWithAnswers');
+Route::middleware('auth:sanctum')->post('addQuestionToChapter/{chapterId}', [QuestionAdminController::class, 'addQuestionToChapter'])->middleware('can:addQuestionToChapter');
+Route::middleware('auth:sanctum')->post('addOpenQuestionToChapter/{chapterId}', [QuestionAdminController::class, 'addOpenQuestionToChapter'])->middleware('can:addOpenQuestionToChapter');
+Route::middleware('auth:sanctum')->post('editQuestion/{questionId}', [QuestionAdminController::class, 'editQuestion'])->middleware('can:editQuestion');
+Route::middleware('auth:sanctum')->post('editChoice/{choiceId}', [QuestionAdminController::class, 'editChoice'])->middleware('can:editChoice');
+Route::middleware('auth:sanctum')->post('editOpenQuestion/{openQuestionId}', [QuestionAdminController::class, 'editOpenQuestion'])->middleware('can:editOpenQuestion');
+Route::middleware('auth:sanctum')->get('deleteQuestion/{questionId}', [QuestionAdminController::class, 'deleteQuestion'])->middleware('can:deleteQuestion');
+Route::middleware('auth:sanctum')->get('deleteChoice/{choiceId}', [QuestionAdminController::class, 'deleteChoice'])->middleware('can:deleteChoice');
+Route::middleware('auth:sanctum')->get('deleteOpenQuestion/{openQuestionId}', [QuestionAdminController::class, 'deleteOpenQuestion'])->middleware('can:deleteOpenQuestion');
 
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);

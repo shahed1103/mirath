@@ -33,7 +33,6 @@ class EditChapterContentRequest extends FormRequest
             ? $this->input('type')
             : $content->type;
 
-        print("hhhh $type");
         $urlRules = match ($type) {
             'pdf' => 'nullable|file|mimes:pdf',
 
