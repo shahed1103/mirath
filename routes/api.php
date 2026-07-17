@@ -139,6 +139,8 @@ Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::c
 
 Route::middleware('auth:sanctum')->post('/calculatePlan', [StudyPlanController::class, 'calculatePlan']);
 Route::middleware('auth:sanctum')->post('/createPlan', [StudyPlanController::class, 'createPlan']);
+Route::middleware('auth:sanctum')->post('/calculate', [StudyPlanController::class, 'calculate']);
+
 
 Route::middleware('auth:sanctum')->post('/storeLibraryBook', [LibraryAdminController::class, 'storeLibraryBook']);
 Route::middleware('auth:sanctum')->get('/getAllBookRedemptions', [LibraryAdminController::class, 'getAllBookRedemptions']);

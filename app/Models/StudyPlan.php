@@ -51,4 +51,12 @@ class StudyPlan extends Model
     {
         return $this->hasMany(StudyTask::class);
     }
+
+    public function selectedBooks()
+{
+    return $this->belongsToMany(
+        Book::class,
+        'study_plan_books'
+    );
+}
 }
