@@ -7,6 +7,9 @@ use App\Models\User;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use App\Models\Nationality;
 use App\Models\Level;
+use App\Models\Book;
+use App\Models\Chapter;
+
 use Illuminate\Support\Facades\Cache;
 use Exception;
 use Throwable;
@@ -49,6 +52,44 @@ class DropDownService {
         return [
             'levels' => $levels,
             'message' => 'all levels are retrieved successfully',
+        ];
+    }
+
+    public function getBooks($classificationId): array {
+        
+        $books = Book::where('classification_id' , $classificationId)
+                ->select('id', 'title')
+                ->get()
+                ->map(function ($book) {
+                    return [
+                        'id' => $book->id,
+                        'title' => $book->title,
+                    ];
+                })
+                ->toArray();
+
+        return [
+            'books' => $books,
+            'message' => 'all books are retrieved successfully',
+        ];
+    }
+
+    public function getChapters($bookId): array {
+        
+        $chapters = Chapter::where('book_id' , $bookId)
+                ->select('id', 'title')
+                ->get()
+                ->map(function ($chapter) {
+                    return [
+                        'id' => $chapter->id,
+                        'title' => $chapter->title,
+                    ];
+                })
+                ->toArray();
+
+        return [
+            'chapters' => $chapters,
+            'message' => 'all chapters are retrieved successfully',
         ];
     }
     

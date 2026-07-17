@@ -42,4 +42,30 @@ class DropDownController extends Controller
             return Response::Error($data , $message , $errors);
         }
     }
+
+    public function getBooks($classificationID): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->dropDownService->getBooks($classificationID);
+            return Response::Success($data['books'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
+
+    public function getChapters($bookID): JsonResponse {
+        $data = [] ;
+        try{
+            $data = $this->dropDownService->getChapters($bookID);
+            return Response::Success($data['chapters'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            return Response::Error($data , $message , $errors);
+        }
+    }
 }

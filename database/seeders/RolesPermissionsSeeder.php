@@ -27,7 +27,8 @@ class RolesPermissionsSeeder extends Seeder
                         'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
                         'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
-                        'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview'
+                        'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview',
+                        'getBooks' , 'getChapters'
                         ];
 
         // foreach ($permissions as $permissionName) {
@@ -48,7 +49,7 @@ foreach ($permissions as $permissionName) {
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
                         'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat',
-                        'addFeedback'
+                        'addFeedback' , 'getBooks' , 'getChapters'
                         ]);
 
     // 3. Assign permissions

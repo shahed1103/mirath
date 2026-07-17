@@ -58,6 +58,9 @@ Route::post('setPassword/{email}', [AuthController::class, 'setPassword']);
 
 Route::get('getNationalities', [DropDownController::class, 'getNationalities']);
 Route::get('getLevels', [DropDownController::class, 'getLevels']);
+Route::middleware('auth:sanctum')->get('getBooks/{classificationId}', [DropDownController::class, 'getBooks'])->middleware('can:getBooks');
+Route::middleware('auth:sanctum')->get('getChapters/{bookId}', [DropDownController::class, 'getChapters'])->middleware('can:getChapters');
+
 
 Route::get('getClassifications', [HomeController::class, 'getClassifications']);
 Route::middleware('auth:sanctum')->get('getContinueReading', [HomeController::class, 'getContinueReading'])->middleware('can:getContinueReading');
