@@ -11,7 +11,7 @@ use App\Models\Question;
 use App\Models\OpenQuestion;
 use App\Models\QuestionChoice;
 use App\Models\UserChapterProgress;
-use App\Models\UserQusetionHistory;
+use App\Models\UserQuestionHistory ;
 use App\Http\Resources\QuizResultResource;
 use App\Http\Resources\QuizQuestionResource;
 use Exception;
@@ -69,7 +69,7 @@ class QuizService {
     }
 
     private function generateQuiz($userId , $chapterId , $currentLevel) {
-        $userQuestionsHistory = UserQusetionHistory::where('user_id', $userId)
+        $userQuestionsHistory = UserQuestionHistory ::where('user_id', $userId)
                                         ->whereHas('question', function ($query) use ($chapterId) {
                                             $query->where('chapter_id', $chapterId);
                                         })
@@ -157,7 +157,7 @@ class QuizService {
                                         ->where('is_correct', true)
                                         ->first();
 
-            $alreadyAnswered = UserQusetionHistory::where('user_id', $userId)
+            $alreadyAnswered = UserQuestionHistory::where('user_id', $userId)
                 ->where('question_id', $questionId)
                 ->exists();
 
@@ -167,7 +167,7 @@ class QuizService {
 
             $isCorrect = $correctChoice->id == $choiceId;
 
-            UserQusetionHistory::create([
+            UserQuestionHistory::create([
                 'user_id' => $userId,
                 'question_id' => $questionId,
             ]);

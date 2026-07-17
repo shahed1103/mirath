@@ -13,7 +13,8 @@ class RolesPermissionsSeeder extends Seeder
 {
     public function run(): void {
     // 1. Create roles
-        $superAdminRole = Role::create(['name' => 'superAdmin']);
+        $dataEntryAdminRole = Role::create(['name' => 'dataEntryAdmin']);
+        $followStudentAdminRole = Role::create(['name' => 'followStudentAdminRole']);
         $clientRole = Role::create(['name' => 'Client']);
 
     // 2. Create permissions
@@ -26,7 +27,7 @@ class RolesPermissionsSeeder extends Seeder
                         'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
                         'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
-                        'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' ,
+                        'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview'
                         ];
 
         // foreach ($permissions as $permissionName) {
@@ -51,33 +52,52 @@ foreach ($permissions as $permissionName) {
                         ]);
 
     // 3. Assign permissions
-        $superAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
+        $dataEntryAdminRole->syncPermissions(['getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
                                          'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
                                          'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
                                          'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
                                          'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion'
                                          ]);
+
+        $followStudentAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'userStatisticsOverview']);
         
         $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 
     // 4. Create users for each role
 
-        $superAdmin = User::factory()->create([
-            'role_id' => $superAdminRole->id,
+        $dataEntryAdmin = User::factory()->create([
+            'role_id' => $dataEntryAdminRole->id,
             'nationality_id' => 1,
             'age' => '20',
-            'name' => 'Super',
+            'name' => 'dataEntry',
             'nick_name' => 'Admin',
-            'email' => 'SuperAdmin@example.com',
+            'email' => 'DataEntryAdmin@example.com',
             'password' => bcrypt('password') ,
             'photo' => $defaultPhoto
         ]);
 
-        $superAdmin->assignRole($superAdminRole);
+        $dataEntryAdmin->assignRole($dataEntryAdminRole);
 
     //assign permissions with the role to the user
-        $permissions = $superAdminRole->permissions()->pluck('name')->toArray();
-        $superAdmin->givePermissionTo($permissions);
+        $permissions = $dataEntryAdminRole->permissions()->pluck('name')->toArray();
+        $dataEntryAdmin->givePermissionTo($permissions);
+
+        $followStudentAdmin = User::factory()->create([
+            'role_id' => $followStudentAdminRole->id,
+            'nationality_id' => 1,
+            'age' => '20',
+            'name' => 'followStudent',
+            'nick_name' => 'Admin',
+            'email' => 'FollowStudentAdmin@example.com',
+            'password' => bcrypt('password') ,
+            'photo' => $defaultPhoto
+        ]);
+
+        $followStudentAdmin->assignRole($followStudentAdminRole);
+
+    //assign permissions with the role to the user
+        $permissions = $followStudentAdminRole->permissions()->pluck('name')->toArray();
+        $followStudentAdmin->givePermissionTo($permissions);
         
         $clientUser = User::factory()->create([
             'role_id' => $clientRole->id,

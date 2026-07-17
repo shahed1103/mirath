@@ -17,7 +17,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الأول - نجاح من أول مرة (24/25 = 96%)
             [
-                'user_id' => 1,
+                'user_id' => 4,
                 'chapter_id' => 1,
                 'questions_answered' => 25,
                 'correct_answers' => 24,
@@ -32,7 +32,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الثاني - رسوب
             [
-                'user_id' => 3,
+                'user_id' => 5,
                 'chapter_id' => 2,
                 'questions_answered' => 25,
                 'correct_answers' => 15,
@@ -47,7 +47,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الثاني - نجاح بالمحاولة الثانية
             [
-                'user_id' => 3,
+                'user_id' => 6,
                 'chapter_id' => 2,
                 'questions_answered' => 25,
                 'correct_answers' => 23,
@@ -62,7 +62,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الثالث - نجاح من أول مرة
             [
-                'user_id' => 3,
+                'user_id' => 7,
                 'chapter_id' => 3,
                 'questions_answered' => 25,
                 'correct_answers' => 25,
@@ -77,7 +77,7 @@ class ExamSeeder extends Seeder
 
             // الفصل الرابع - امتحان جارٍ
             [
-                'user_id' => 3,
+                'user_id' => 8,
                 'chapter_id' => 4,
                 'questions_answered' => 8,
                 'correct_answers' => 7,

@@ -4,7 +4,7 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
-use App\Models\UserQusetionHistory;
+use App\Models\UserQuestionHistory;
 
 class QuestionHistorySeeder extends Seeder
 {
@@ -17,7 +17,7 @@ class QuestionHistorySeeder extends Seeder
         $question_ids = [10,2,3,7,15,13,19,5,1,17];
 
         for ($i=0; $i < 10 ; $i++) {
-            UserQusetionHistory::query()->create([
+            UserQuestionHistory::query()->create([
            'user_id' => 4 ,
            'question_id' => $question_ids[$i] ,
             ]); }
