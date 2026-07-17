@@ -3,7 +3,6 @@
 namespace App\Http\Requests\Plan;
 
 use Illuminate\Foundation\Http\FormRequest;
-use Illuminate\Validation\Rule;
 
 class CalculateStudyPlanRequest extends FormRequest
 {
@@ -16,11 +15,6 @@ class CalculateStudyPlanRequest extends FormRequest
     {
         return [
 
-            'plan_type' => [
-                'required',
-                Rule::in(['duration', 'daily_pages'])
-            ],
-
             'book_ids' => [
                 'required',
                 'array',
@@ -29,6 +23,11 @@ class CalculateStudyPlanRequest extends FormRequest
 
             'book_ids.*' => [
                 'exists:books,id'
+            ],
+
+            'plan_type' => [
+                'required',
+                'in:duration,daily_pages'
             ],
 
             'target_days' => [
@@ -43,7 +42,7 @@ class CalculateStudyPlanRequest extends FormRequest
                 'nullable',
                 'integer',
                 'min:1'
-            ],
+            ]
 
         ];
     }

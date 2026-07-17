@@ -11,6 +11,7 @@ class StudyTask extends Model
     use HasFactory;
 
     protected $fillable = [
+        'user_id',
         'study_plan_id',
         'book_id',
         'chapter_id',
@@ -20,7 +21,8 @@ class StudyTask extends Model
         'pages',
         'completed',
         'completed_at',
-        'reading_order'
+        // 'reading_order',
+        'sequence'
     ];
 
     protected $casts = [

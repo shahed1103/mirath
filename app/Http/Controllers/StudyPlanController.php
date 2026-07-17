@@ -2,65 +2,46 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\Plan\CalculateStudyPlanRequest;
-use App\Http\Requests\Plan\StoreStudyPlanRequest;
-use App\Services\StudyPlanService;
-use Illuminate\Http\JsonResponse;
+use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Http\Responses\response;
+use App\Http\Requests\Plan\CalculateStudyPlanRequest;
+use App\Services\PlanCalculatorService;
+
 
 class StudyPlanController extends Controller
 {
-    protected StudyPlanService $studyPlanService;
+private PlanCalculatorService $planCalculatorService;
 
-    public function __construct(StudyPlanService $studyPlanService)
-    {
-        $this->studyPlanService = $studyPlanService;
-    }
-
-
-   public function calculatePlan(CalculateStudyPlanRequest $request): JsonResponse
+public function __construct(PlanCalculatorService $planCalculatorService)
 {
-    $data = [];
+    $this->planCalculatorService = $planCalculatorService;
+}
+
+public function calculate(
+    CalculateStudyPlanRequest $request
+): JsonResponse
+{
     try {
-        $data = $this->studyPlanService->calculatePlan(
+
+        $result = $this->planCalculatorService->calculate(
             $request->validated()
         );
 
         return Response::Success(
-            $data['plan'],
-            $data['message']
+            $result['data'],
+            $result['message']
         );
 
     } catch (Throwable $th) {
+
         $message = $th->getMessage();
-        $errors[] = $message;
 
-        return Response::Error(   $data, $message,   $errors );
-    }
-}
-
-
-
-public function createPlan(StoreStudyPlanRequest $request): JsonResponse
-{
-    $data = [];
-    try {
-        $data = $this->studyPlanService->createPlan(
-            $request->validated()
+        return Response::Error(
+            [],
+            $message,
+            [$message]
         );
-        return Response::Success(
-            $data['plan'],
-            $data['message']
-        );
-    } catch (Throwable $th) {
-        $message = $th->getMessage();
-        $errors[] = $message;
-        return Response::Error( $data, $message, $errors );
     }
 }
 }
-
-
-
-
