@@ -298,8 +298,13 @@ class QuizService {
             ->latest()
             ->first();
 
-        $data =  new QuizResultResource($passedExam);
-        return ['quiz' => $data , 'message' => 'quiz result'];
+        $total_questions = self::QUESTIONS_PER_EXAM;
+
+        $data =  (new QuizResultResource($passedExam))->additional([
+                'total_questions' => $total_questions
+            ]);
+
+        return ['quiz' => $passedExam ? $data : null , 'message' => 'quiz result'];
     }
 
     public function getOpenQuestion($chapterId): array {
