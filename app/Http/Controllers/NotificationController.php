@@ -18,7 +18,6 @@ class NotificationController extends Controller
         $this->notificationService = $notificationService ?? new NotificationService();
     }
 
-    
     public function deviceFcmToken(DeviceFcmRequest $request): JsonResponse {
       $data = [] ;
         try{
@@ -58,7 +57,6 @@ class NotificationController extends Controller
             return Response::Error($data , $message , $errors);
         }
     }
-
 
     public function sendFcmNotification(Request $request) {
         $request->validate([
