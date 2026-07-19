@@ -8,18 +8,17 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\SummaryController;
+use App\Http\Controllers\ContentAdminController;
+use App\Http\Controllers\QuestionAdminController;
+use App\Http\Controllers\UserAdminController;
+use App\Http\Controllers\NotificationController;
+use App\Http\Controllers\ChatController;
+use App\Http\Controllers\ChapterReviewController;
+
 use App\Http\Controllers\MeetingController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\StudyPlanController;
 use App\Http\Controllers\LibraryAdminController;
-
-use App\Http\Controllers\ContentAdminController;
-use App\Http\Controllers\QuestionAdminController;
-use App\Http\Controllers\UserAdminController;
-
-use App\Http\Controllers\ChatController;
-use App\Http\Controllers\ChapterReviewController;
-
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -124,6 +123,7 @@ Route::middleware('auth:sanctum')->get('deleteQuestion/{questionId}', [QuestionA
 Route::middleware('auth:sanctum')->get('deleteChoice/{choiceId}', [QuestionAdminController::class, 'deleteChoice'])->middleware('can:deleteChoice');
 Route::middleware('auth:sanctum')->get('deleteOpenQuestion/{openQuestionId}', [QuestionAdminController::class, 'deleteOpenQuestion'])->middleware('can:deleteOpenQuestion');
 
+Route::middleware('auth:sanctum')->post('deviceFcmToken', [NotificationController::class, 'deviceFcmToken']);//->middleware('can:deviceFcmToken');
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 

@@ -114,4 +114,12 @@ class User extends Authenticatable
         ->where('status', 'finished')
         ->latestOfMany();
     }
+
+    public function notifications() {
+        return $this->hasMany(Notification::class);
+    }
+
+    public function devices() {
+        return $this->hasMany(UserDevice::class);
+    }
 }

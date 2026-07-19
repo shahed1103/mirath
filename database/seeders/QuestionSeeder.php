@@ -13,7 +13,7 @@ class QuestionSeeder extends Seeder
      */
     public function run(): void
     {
-        // $chapter_ids = [1,1,1,4];
+        $chapter_ids = [1,2,3,4];
         $question_text = ['التعامل مع المخالفين' , 'دلائل أصول الإسلام' , 'بوصلة المصلح' , 'مصادر التلقي والمعرفة' , 
                           'كيف تخرج من المنزل' , 'كيف تتعامل مع غروبك' , 'كيف تتعامل مع الللابتوب' , 'كيف تختفي' ,
                           'كيف تتعيش' , 'كيف تحكي' , 'كيف تتعامل مع البشر' , 'كيف تطير' , 'كيف تقرأ' , 'شو اطيب فاكهة' ,
@@ -25,13 +25,16 @@ class QuestionSeeder extends Seeder
                           'كيف تتعيش' , 'كيف تحكي' , 'كيف تتعامل مع البشر' , 'كيف تطير' , 'كيف تقرأ' , 'شو اطيب فاكهة' ,
                           'شو عم تعمل اليوم' , 'شو عملت مبارح' , 'شو بدك تعمل بكرا' , 'شو بدك تعمل بعد شهر' , 'شو مخططاتك للصيف' ,
                           'وين ملاقي حالك بعد خمس سنين'];
-                          
+                       
+    for ($j=0; $j < count($chapter_ids) ; $j++) {
         for ($i=0; $i < 20 ; $i++) {
             Question::query()->create([
-           'chapter_id'=> 1,
+           'chapter_id'=> $chapter_ids[$j],
            'question_text' => $question_text[$i],
            'explanation' => $explanation[$i],
            'difficulty_score' => $difficulty_score[$i]
-            ]); }
+            ]);
+            }
+        }
     }
 }
