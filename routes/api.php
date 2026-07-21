@@ -127,13 +127,7 @@ Route::middleware('auth:sanctum')->post('saveDeviceToken', [NotificationControll
 Route::middleware('auth:sanctum')->get('getNotifications/{userId}', [NotificationController::class, 'getNotifications']);//->middleware('can:getNotifications');
 Route::middleware('auth:sanctum')->get('getUnreadCount/{userId}', [NotificationController::class, 'getUnreadCount']);//->middleware('can:getUnreadCount');
 Route::middleware('auth:sanctum')->get('markAllAsRead/{userId}', [NotificationController::class, 'markAllAsRead']);//->middleware('can:markAllAsRead');
-Route::middleware('auth:sanctum')->post('sendNotification', [NotificationController::class, 'sendNotification']);//->middleware('can:sendNotification');
-
-Route::post('/test-notification',
-[
-    NotificationController::class,
-    'test'
-]);
+Route::post('sendNotification', [NotificationController::class, 'sendNotification']);
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 
