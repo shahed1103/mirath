@@ -246,7 +246,7 @@ class QuizService {
         $pointsEarned = 0;
 
         $currentChapter = Chapter::find($session->chapter_id);
-        $nextChapter = Chapter::where('order_number', $currentChapter->order_number + 1)->first();
+        $nextChapter = Chapter::where('book_id' , $currentChapter->book_id)->where('order_number', $currentChapter->order_number + 1)->first();
 
             if($isSuccess && $nextChapter){
                 UserChapterProgress::updateOrCreate(
