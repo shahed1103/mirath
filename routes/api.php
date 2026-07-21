@@ -123,7 +123,17 @@ Route::middleware('auth:sanctum')->get('deleteQuestion/{questionId}', [QuestionA
 Route::middleware('auth:sanctum')->get('deleteChoice/{choiceId}', [QuestionAdminController::class, 'deleteChoice'])->middleware('can:deleteChoice');
 Route::middleware('auth:sanctum')->get('deleteOpenQuestion/{openQuestionId}', [QuestionAdminController::class, 'deleteOpenQuestion'])->middleware('can:deleteOpenQuestion');
 
-Route::middleware('auth:sanctum')->post('deviceFcmToken', [NotificationController::class, 'deviceFcmToken']);//->middleware('can:deviceFcmToken');
+Route::middleware('auth:sanctum')->post('saveDeviceToken', [NotificationController::class, 'saveDeviceToken']);//->middleware('can:saveDeviceToken');
+Route::middleware('auth:sanctum')->get('getNotifications/{userId}', [NotificationController::class, 'getNotifications']);//->middleware('can:getNotifications');
+Route::middleware('auth:sanctum')->get('getUnreadCount/{userId}', [NotificationController::class, 'getUnreadCount']);//->middleware('can:getUnreadCount');
+Route::middleware('auth:sanctum')->get('markAllAsRead/{userId}', [NotificationController::class, 'markAllAsRead']);//->middleware('can:markAllAsRead');
+Route::middleware('auth:sanctum')->post('sendNotification', [NotificationController::class, 'sendNotification']);//->middleware('can:sendNotification');
+
+Route::post('/test-notification',
+[
+    NotificationController::class,
+    'test'
+]);
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 

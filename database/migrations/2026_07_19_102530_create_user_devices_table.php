@@ -17,7 +17,8 @@ return new class extends Migration
             $table->string('fcm_token')->unique()->nullable();
             $table->enum('device_type', [
                 'android',
-                'ios'
+                'ios',
+                'web'
             ]);
 
             $table->timestamps();
