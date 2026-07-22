@@ -22,7 +22,9 @@ class Exam extends Model
         'started_at',
         'finished_at',
         'success',
-        'points'
+        'points',
+        'last_question_id',
+        'last_choice_id'
     ];
 
     public function user(): BelongsTo{

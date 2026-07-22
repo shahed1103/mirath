@@ -128,6 +128,7 @@ Route::middleware('auth:sanctum')->get('getNotifications/{userId}', [Notificatio
 Route::middleware('auth:sanctum')->get('getUnreadCount/{userId}', [NotificationController::class, 'getUnreadCount']);//->middleware('can:getUnreadCount');
 Route::middleware('auth:sanctum')->get('markAllAsRead/{userId}', [NotificationController::class, 'markAllAsRead']);//->middleware('can:markAllAsRead');
 Route::post('sendNotification', [NotificationController::class, 'sendNotification']);
+Route::post('sendBroadcastNotification', [NotificationController::class, 'sendBroadcastNotification']);
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 

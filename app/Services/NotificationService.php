@@ -3,6 +3,8 @@
 namespace App\Services;
 
 use App\Models\Notification;
+use App\Models\BroadcastNotification;
+use App\Models\User;
 use Carbon\Carbon;
 
 class NotificationService
@@ -18,9 +20,22 @@ class NotificationService
     }
 
     public function getNotifications(int $userId): array{
-        $notifications = Notification::where('user_id', $userId)
-            ->latest()
+        $user = User::findOrFail($userId);
+
+        $personalNotifications = Notification::where('user_id', $userId)
             ->get();
+
+        $broadcastNotifications = BroadcastNotification::where(
+                'created_at',
+                '>=',
+                $user->created_at
+            )
+            ->get();
+
+        $notifications = $personalNotifications
+            ->concat($broadcastNotifications)
+            ->sortByDesc('created_at')
+            ->values();
 
         return [
             'notifications' => $notifications,

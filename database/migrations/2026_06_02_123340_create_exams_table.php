@@ -24,7 +24,10 @@ return new class extends Migration
             $table->dateTime('started_at');
             $table->dateTime('finished_at')->nullable();
             $table->integer('points')->default(0);
-             
+
+            $table->foreignId('last_question_id')->nullable()->constrained('questions')->nullOnDelete();
+            $table->foreignId('last_choice_id')->nullable()->constrained('question_choices')->nullOnDelete();
+
             $table->timestamps();
         });
     }

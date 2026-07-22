@@ -6,8 +6,10 @@ use Illuminate\Http\Request;
 use Google\Client as GoogleClient;
 use App\Http\Requests\Notification\DeviceFcmRequest;
 use App\Http\Requests\Notification\SendNotificationRequest;
+use App\Http\Requests\Notification\SendBroadcastNotificationRequest;
 use App\Services\NotificationService;
 use App\Services\NotificationManager;
+use App\Services\BroadcastNotificationService;
 use App\Services\DeviceService;
 use App\Http\Responses\response;
 use Illuminate\Http\JsonResponse;
@@ -18,7 +20,8 @@ class NotificationController extends Controller
     public function __construct(
         private NotificationService $notificationService,
         private NotificationManager $notificationManager,
-        private DeviceService $deviceService
+        private DeviceService $deviceService,
+        private BroadcastNotificationService $broadcastNotificationService
     ) {}
     
     public function saveDeviceToken(DeviceFcmRequest $request): JsonResponse{
@@ -91,35 +94,17 @@ class NotificationController extends Controller
         }
     }
 
-
-// public function test()
-// {
-
-//     $this->notificationManager->send(
-
-//         3,
-
-//         'Test Title',
-
-//         'Hello from Laravel',
-
-//         'test',
-
-//         [
-//             'screen'=>'home',
-//             'id'=>10
-//         ]
-
-//     );
-
-
-//     return response()->json([
-
-//         'message'=>'sent'
-
-//     ]);
-
-// }
-
-
+    public function sendBroadcastNotification(SendBroadcastNotificationRequest $request): JsonResponse{
+        $data = [] ;
+        try{
+            $data = $this->broadcastNotificationService->sendBroadcastNotification($request);
+            return Response::Success($data['notification'], $data['message']);
+        }
+        catch(Throwable $th){
+            $message = $th->getMessage();
+            $errors [] = $message;
+            $code = $th->getCode();
+            return Response::Error($data , $message , $errors);
+        }
+    }
 }

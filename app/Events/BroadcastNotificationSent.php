@@ -2,7 +2,6 @@
 
 namespace App\Events;
 
-use App\Models\Notification;
 use Illuminate\Broadcasting\Channel;
 use Illuminate\Broadcasting\InteractsWithSockets;
 use Illuminate\Broadcasting\PresenceChannel;
@@ -11,40 +10,31 @@ use Illuminate\Contracts\Broadcasting\ShouldBroadcast;
 use Illuminate\Foundation\Events\Dispatchable;
 use Illuminate\Queue\SerializesModels;
 
-class NotificationSent implements ShouldBroadcast
+class BroadcastNotificationSent implements ShouldBroadcast
 {
     use Dispatchable, InteractsWithSockets, SerializesModels;
 
-    /**
-     * Create a new event instance.
-     */
+
     public function __construct(
-        public Notification $notification
-    )
-    {}
+        public $notification
+    ) {}
 
-    /**
-     * Get the channels the event should broadcast on.
-     *
-     * @return array<int, Channel>
-     */
-    public function broadcastOn(): array
+
+    public function broadcastOn()
     {
-        return [
-            new PrivateChannel(
-                'users.' . $this->notification->user_id
-            )
-        ];
+        return new Channel('notifications');
     }
 
-    public function broadcastAs(){
-        return 'NotificationSent';
+
+    public function broadcastAs()
+    {
+        return 'BroadcastNotificationSent';
     }
+
 
     public function broadcastWith()
     {
         return [
-            'id'=>$this->notification->id,
             'title'=>$this->notification->title,
             'body'=>$this->notification->body,
             'type'=>$this->notification->type,

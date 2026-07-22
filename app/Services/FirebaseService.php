@@ -48,14 +48,58 @@ class FirebaseService
                 $this->buildPayload($token, $title , $body , $type , $data)
                 );
 
-            if (!$response->successful()) {
-                dd(
-                    $response->status(),
-                    $response->body(),
-                    $this->buildPayload($token, $title, $body, $type, $data)
-                );
+            if(!$response->successful()){
+                throw new \Exception( $response->body() );
             }
 
+        return $response->json();
+    }
+
+    public function sendToTopic(string $topic , string $title , string $body , string $type , array $data = []): array {
+        $response = Http::timeout(10)
+            ->withToken($this->getAccessToken())
+            ->post(
+                "https://fcm.googleapis.com/v1/projects/"
+                . env('FIREBASE_PROJECT_ID')
+                . "/messages:send",
+
+                [
+
+                    "message" => [
+
+                        "topic" => $topic,
+
+
+                        "notification" => [
+
+                            "title" => $title,
+
+                            "body" => $body,
+
+                        ],
+
+
+                        "data" => array_merge(
+
+                            [
+                                "type" => $type
+                            ],
+
+                            collect($data)
+                                ->map(fn($value)=>(string)$value)
+                                ->toArray()
+
+                        )
+
+                    ]
+
+                ]
+
+            );
+
+        if(!$response->successful()){
+            throw new \Exception( $response->body() );
+        }
         return $response->json();
     }
 
@@ -132,5 +176,4 @@ class FirebaseService
 
             || str_contains($message, 'Requested entity was not found');
     }
-
 }
