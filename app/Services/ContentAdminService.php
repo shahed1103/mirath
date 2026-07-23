@@ -373,7 +373,7 @@ class ContentAdminService {
             'type' => 'new_book',
             'data' => [
                 'screen'=>'classification_details',
-                'book_id'=>$book->id
+                'classification_id'=>$book->classification_id
             ]
 
         ]);
@@ -390,7 +390,7 @@ class ContentAdminService {
             'type'=>'new_chapter',
             'data'=>[
                 'screen'=>'book_details',
-                'chapter_id'=>$chapter->id
+                'book_id'=>$chapter->book_id
             ]
 
         ]);
