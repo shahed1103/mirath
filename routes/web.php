@@ -1,12 +1,16 @@
 <?php
-
 use Illuminate\Support\Facades\Route;
-use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Storage;
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/test-r2', function () {
+
+    Storage::disk('r2')->put(
+        'books/test.txt',
+        'Hello from Laravel 12'
+    );
+
+    return 'Uploaded Successfully';
 });
-
 
 
 

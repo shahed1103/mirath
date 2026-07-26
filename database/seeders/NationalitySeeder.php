@@ -21,4 +21,5 @@ class NationalitySeeder extends Seeder
            'nationality' => $nationalities[$i] ,
             ]); }
     }
+    
 }

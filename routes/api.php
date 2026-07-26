@@ -6,6 +6,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DropDownController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\BookController;
+use App\Http\Controllers\ITAdminController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\SummaryController;
 use App\Http\Controllers\ContentAdminController;
@@ -127,6 +128,8 @@ Route::middleware('auth:sanctum')->post('deviceFcmToken', [NotificationControlle
 
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 
+
+///////////////profile and study plan
 Route::middleware('auth:sanctum')->get('/getStudentStatistics', [ProfileController::class, 'getStudentStatistics']);
 Route::middleware('auth:sanctum')->get('/getAllLibraryBooks', [ProfileController::class, 'getAllLibraryBooks']);
 Route::middleware('auth:sanctum')->post('/addBookToCart/{id}', [ProfileController::class, 'addBookToCart']);
@@ -142,6 +145,8 @@ Route::middleware('auth:sanctum')->post('/createPlan', [StudyPlanController::cla
 Route::middleware('auth:sanctum')->post('/calculate', [StudyPlanController::class, 'calculate']);
 
 
+
+//////////////library admin
 Route::middleware('auth:sanctum')->post('/storeLibraryBook', [LibraryAdminController::class, 'storeLibraryBook']);
 Route::middleware('auth:sanctum')->get('/getAllBookRedemptions', [LibraryAdminController::class, 'getAllBookRedemptions']);
 Route::middleware('auth:sanctum')->get('/getMostRedeemedBooks', [LibraryAdminController::class, 'getMostRedeemedBooks']);
@@ -151,6 +156,12 @@ Route::middleware('auth:sanctum')->post('/confirmBookRedemption/{redemptionId}',
 
 
 
+////////////it
+
+Route::get('/openTelescope', function () {
+    return redirect('/telescope');
+});
 
 
+    Route::get('getSystemHealth', [ITAdminController::class, 'getSystemHealth']);
 

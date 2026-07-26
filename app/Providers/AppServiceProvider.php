@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\Cache;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -17,8 +18,13 @@ class AppServiceProvider extends ServiceProvider
     /**
      * Bootstrap any application services.
      */
-    public function boot(): void
-    {
-        //
+public function boot(): void
+{
+    if (!Cache::has('application_started_at')) {
+        Cache::forever(
+            'application_started_at',
+            now()
+        );
     }
+}
 }

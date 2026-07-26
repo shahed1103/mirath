@@ -21,4 +21,5 @@ class FeaturesSeeder extends Seeder
             ]);
         }
     }
+    
 }

@@ -39,4 +39,5 @@ class CartItemSeeder extends Seeder
             CartItem::create($item);
         }
     }
+    
 }
