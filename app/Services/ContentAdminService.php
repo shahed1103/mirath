@@ -20,8 +20,14 @@ use Exception;
 use Throwable;
 use Illuminate\Support\Facades\Cache;
 use Storage;
+use App\Services\BroadcastNotificationService;
+use Illuminate\Http\Request;
 
 class ContentAdminService {
+
+    public function __construct(BroadcastNotificationService  $notificationService){
+        $this->notificationService = $notificationService;
+    }
 
     private const CONTENT_TYPE_PDF = 'pdf';
     private const CONTENT_TYPE_AUDIO = 'audio';
@@ -104,6 +110,21 @@ class ContentAdminService {
             $chapterContents = $this->createChapterContents($chapter->id, $request);
 
             Cache::forget('view_classifications');
+
+        ////Notification
+            $notificationRequest = new Request([
+                'title' => 'تصنيف جديد',
+                'body' => "تمت إضافة تصنيف جديد اسمه {$classification->classification}",
+                'type' => 'new_classification',
+                'data' => [
+                    'screen'=>'classifications'
+                ]
+
+            ]);
+
+            $this->broadcastNotificationService
+                ->sendBroadcastNotification($notificationRequest);   
+        ////
 
             return [
                 'message' => 'New classification, book, chapter, and contents added successfully.',
@@ -194,7 +215,7 @@ class ContentAdminService {
              $path = $photo->store('uploads/booksphotos', 'public');
         }
 
-        return Book::create([
+        $book = Book::create([
             'title' => $request->title,
             'author_name' => $request->author_name,
             'photo' => $path ?? null,
@@ -203,16 +224,24 @@ class ContentAdminService {
             'level_id' => $request->level_id,
             'classification_id' => $classificationId,
         ]);
+        ////Notification
+        $this->sendBookNotification($book);
+        ////
+        return $book;
     }
 
     private function createChapter($bookId,$title,$orderNumber,$startPage,$endPage): Chapter{
-        return Chapter::create([
+        $chapter = Chapter::create([
             'book_id' => $bookId,
             'title' => $title,
             'start_page' => $startPage,
             'end_page' => $endPage,
             'order_number' => $orderNumber,
         ]);
+        ////Notification
+        $this->sendChapterNotification($chapter);
+        ////
+        return $chapter;
     }
 
     public function editClassification($request , $classificationId): array{
@@ -335,5 +364,38 @@ class ContentAdminService {
             'data' => $chapter,
             'message' => 'Chapter deleted successfully.',
         ];
+    }
+
+    private function sendBookNotification(Book $book){
+        $notificationRequest = new Request([
+            'title' => 'كتاب جديد',
+            'body' => "تمت إضافة كتاب جديد اسمه {$book->title}",
+            'type' => 'new_book',
+            'data' => [
+                'screen'=>'classification_details',
+                'classification_id'=>$book->classification_id
+            ]
+
+        ]);
+
+
+        $this->broadcastNotificationService
+            ->sendBroadcastNotification($notificationRequest);
+    }
+
+    private function sendChapterNotification(Chapter $chapter){
+        $notificationRequest = new Request([
+            'title'=>'باب جديد',
+            'body'=>"تمت إضافة باب جديد اسمه {$chapter->title}",
+            'type'=>'new_chapter',
+            'data'=>[
+                'screen'=>'book_details',
+                'book_id'=>$chapter->book_id
+            ]
+
+        ]);
+
+        $this->broadcastNotificationService
+            ->sendBroadcastNotification($notificationRequest);
     }
 }

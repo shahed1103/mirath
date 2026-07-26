@@ -47,16 +47,16 @@ class QuizController extends Controller
 
     public function endQuiz($sessionId): JsonResponse {
         $data = [] ;
-        try{
+        // try{
             $data = $this->quizService->endQuiz($sessionId);
             return Response::Success($data['quiz'], $data['message']);
-        }
-        catch(Throwable $th){
-            $message = $th->getMessage();
-            $errors [] = $message;
-            $code = $th->getCode();
-            return Response::Error($data , $message , $errors , $code);
-        }
+        // }
+        // catch(Throwable $th){
+        //     $message = $th->getMessage();
+        //     $errors [] = $message;
+        //     $code = $th->getCode();
+        //     return Response::Error($data , $message , $errors , $code);
+        // }
     }
 
     public function quizResult($chapterId): JsonResponse {

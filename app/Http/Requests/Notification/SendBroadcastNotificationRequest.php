@@ -5,7 +5,7 @@ namespace App\Http\Requests\Notification;
 use Illuminate\Contracts\Validation\ValidationRule;
 use Illuminate\Foundation\Http\FormRequest;
 
-class DeviceFcmRequest extends FormRequest
+class SendBroadcastNotificationRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -22,17 +22,14 @@ class DeviceFcmRequest extends FormRequest
      */
     public function rules(): array
     {
-        return [
-            'fcm_token' => [
-                'required',
-                'string',
-                'max:2048',
-            ],
+        return [ 
+            'title'=>'required|string',
 
-            'device_type' => [
-                'required',
-                'in:android,ios,web',
-            ],
+            'body'=>'required|string',
+
+            'type'=>'required|string',
+
+            'data'=>'nullable|array'
         ];
     }
 }

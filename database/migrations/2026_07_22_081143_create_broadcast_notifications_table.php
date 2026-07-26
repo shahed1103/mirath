@@ -11,17 +11,20 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('user_devices', function (Blueprint $table) {
+        Schema::create('broadcast_notifications', function (Blueprint $table) {
+
             $table->id();
-            $table->foreignId('user_id')->constrained()->onDelete('cascade');
-            $table->string('fcm_token')->unique()->nullable();
-            $table->enum('device_type', [
-                'android',
-                'ios',
-                'web'
-            ]);
+
+            $table->string('title');
+
+            $table->text('body');
+
+            $table->string('type');
+
+            $table->json('data')->nullable();
 
             $table->timestamps();
+
         });
     }
 
@@ -30,6 +33,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('user_devices');
+        Schema::dropIfExists('broadcast_notifications');
     }
 };

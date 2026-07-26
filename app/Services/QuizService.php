@@ -17,9 +17,15 @@ use App\Http\Resources\QuizQuestionResource;
 use Exception;
 use Throwable;
 use DB;
-
+use App\Services\NotificationManager;
+use Illuminate\Http\Request;
 
 class QuizService {
+
+    public function __construct(NotificationManager  $notificationManager){
+        $this->notificationManager = $notificationManager;
+    }
+
     private const QUESTIONS_PER_EXAM = 5;
 
     public function startQuiz($chapterId): array{
@@ -189,6 +195,8 @@ class QuizService {
 
             $session->questions_answered++;
             $session->current_level_score = $currentLevel;
+            $session->last_question_id = $questionId;
+            $session->last_choice_id = $choiceId;
             $session->save();
 
             UserChapterProgress::updateOrCreate(
@@ -230,52 +238,113 @@ class QuizService {
     }
 
     public function endQuiz($sessionId): array{
-
         $user = auth()->user();
         $session = Exam::findOrFail($sessionId);
+
+        $correctPercentage = ($session->correct_answers * 100) / self::QUESTIONS_PER_EXAM;
+        $isSuccess = $correctPercentage >= 60;
+
         $session->update([
             'status' => 'finished',
             'finished_at' => now(),
-            'success' => false,
+            'success' => $isSuccess
         ]);
-
-        $correctPercentage  = ($session->correct_answers *100)/self::QUESTIONS_PER_EXAM ;
-        $isSuccess = $correctPercentage >= 60;
-        $session->success = $isSuccess;
 
         $pointsEarned = 0;
 
-        $currentChapter = Chapter::find($session->chapter_id);
-        $nextChapter = Chapter::where('order_number', $currentChapter->order_number + 1)->first();
+        $currentChapter = Chapter::with('book')->findOrFail($session->chapter_id);
 
-            if($isSuccess && $nextChapter){
-                UserChapterProgress::updateOrCreate(
-                    [
-                        'user_id' => $user->id,
-                        'chapter_id' => $nextChapter->id
-                    ],
-                    [
-                        'is_open' => true
-                    ]
-                );
+        $lastQuestion = null;
+        $correctChoice = null;
+        $isCorrect = null;
 
-                $tryCount = Exam::where('user_id' , $user->id)->where('chapter_id' , $session->chapter_id)->count();
+        if ($session->last_question_id && $session->last_choice_id) {
 
-                if($tryCount == 1 && $correctPercentage >=90){
-                    $pointsEarned = 3;
-                    $user->increment('points', 3);
-                }
+            $lastQuestion = Question::find($session->last_question_id);
+
+            $correctChoice = QuestionChoice::where(
+                'question_id',
+                $session->last_question_id
+            )
+            ->where('is_correct', true)
+            ->first();
+
+            if ($lastQuestion && $correctChoice) {
+                $isCorrect = $correctChoice->id == $session->last_choice_id;
             }
-            $session->points = $pointsEarned;
-            $session->save();
+        }
 
-            $total_questions = self::QUESTIONS_PER_EXAM;
+        $nextChapter = Chapter::where('book_id', $currentChapter->book_id)
+            ->where('order_number', $currentChapter->order_number + 1)
+            ->first();
 
-            $data = (new QuizResultResource($session))->additional([
-                'total_questions' => $total_questions
+        if ($isSuccess && $nextChapter) {
+
+            UserChapterProgress::updateOrCreate(
+                [
+                    'user_id' => $user->id,
+                    'chapter_id' => $nextChapter->id
+                ],
+                [
+                    'is_open' => true
+                ]
+            );
+        }
+
+        if ($isSuccess) {
+
+            $tryCount = Exam::where('user_id', $user->id)
+                ->where('chapter_id', $session->chapter_id)
+                ->count();
+
+            if ($tryCount == 1 && $correctPercentage >= 90) {
+                $pointsEarned = 3;
+                $user->increment('points', 3);
+            }
+        }
+
+        if ($isSuccess && !$nextChapter) {
+
+            $notificationRequest = new Request([
+                'userId' => $user->id,
+                'title' => "مبروك {$user->name}",
+                'body' => "لقد أتممت دراسة كتاب {$currentChapter->book->title}",
+                'type' => 'completed_book',
+                'data' => []
             ]);
 
-            return ['quiz' => $data , 'message' => 'quiz end'];
+            $this->notificationManager->sendNotification($notificationRequest);
+        }
+
+        $session->points = $pointsEarned;
+        $session->save();
+
+        $quizResult = (new QuizResultResource($session))->additional([
+            'total_questions' => self::QUESTIONS_PER_EXAM
+        ]);
+
+        $data = [
+            'questions_answered' => $session->questions_answered,
+            'remaining_questions' => 0,
+            'next_question' => null,
+            'quiz_result' => $quizResult,
+        ];
+
+        if ($lastQuestion) {
+
+            $data['is_correct'] = $isCorrect;
+            $data['choice_id'] = $session->last_choice_id;
+
+            if (!$isCorrect) {
+                $data['correct_choice_id'] = $correctChoice->id;
+                $data['explanation'] = $lastQuestion->explanation;
+            }
+        }
+
+        return [
+            'quiz' => $data,
+            'message' => 'quiz end'
+        ];
     }
 
     private function checkQuizTime(Exam $session) {

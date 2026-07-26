@@ -2,60 +2,68 @@
 
 namespace App\Services;
 
-use App\Models\UserDevice;
 use App\Models\Notification;
-use Illuminate\Contracts\Validation\Validator;
-use Illuminate\Validation\ValidationException;
-use Throwable;
-use Exception;
+use App\Models\BroadcastNotification;
+use App\Models\User;
+use Carbon\Carbon;
 
 class NotificationService
 {
-
-    public function deviceFcmToken($request): array {
-        $user = auth()->user();
-
-        if (!$user) {
-            throw new Exception("User not found", 404);
-        }
-        
-        UserDevice::updateOrCreate(
-            [
-                'user_id' => $user->id,
-                'fcm_token' => $request->fcm_token,
-            ],
-            [
-                'device_type' => $request->device_type,
-            ]
-        );
-
-        return ['data' => null , 'message' => 'Device token updated successfully'];
-
+    public function createNotification(array $data): Notification {
+        return Notification::create([
+            'user_id' => $data['user_id'],
+            'title'   => $data['title'],
+            'body'    => $data['body'],
+            'type'    => $data['type'],
+            'data'    => $data['data'] ?? null,
+        ]);
     }
 
-    public function getUserNotifications($userId): array {
-   Notification::where('user_id', $userId)
-        ->where('read_at', false)
-        ->update(['read_at' => true]);
+    public function getNotifications(int $userId): array{
+        $user = User::findOrFail($userId);
 
-    $notifications = Notification::where('user_id', $userId)
-        ->orderBy('created_at', 'desc')
-        ->get();
+        $personalNotifications = Notification::where('user_id', $userId)
+            ->get();
 
-        $message = "all notifications retrived successfully";
+        $broadcastNotifications = BroadcastNotification::where(
+                'created_at',
+                '>=',
+                $user->created_at
+            )
+            ->get();
 
-    return ['notifications' => $notifications  , 'message' => $message];
+        $notifications = $personalNotifications
+            ->concat($broadcastNotifications)
+            ->sortByDesc('created_at')
+            ->values();
+
+        return [
+            'notifications' => $notifications,
+            'message' => 'Notifications retrieved successfully.'
+        ];
     }
 
-    public function getUnreadCount($userId): array {
-        $count = Notification::where('user_id', $userId)
-            ->where('read_at', false)
-            ->count();
+    public function getUnreadCount(int $userId): array{
+        return [
+            'unread_notifications_count' =>
+                Notification::where('user_id', $userId)
+                    ->where('is_read', false)
+                    ->count(),
 
-            $message = "count of unread notifications retrived successfully";
-
-            return ['unread_notifications_count' => $count  , 'message' => $message];
-
+            'message' => 'Unread notifications count retrieved successfully.'
+        ];
     }
 
+    public function markAllAsRead(int $userId): array{
+        Notification::where('user_id', $userId)
+            ->where('is_read' , false)
+            ->update([
+                'is_read' => true
+            ]);
+
+        return [
+            'data' => null,
+            'message' => 'Notifications marked as read.'
+        ];
+    }
 }
