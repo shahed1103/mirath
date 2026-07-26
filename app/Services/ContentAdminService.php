@@ -25,8 +25,8 @@ use Illuminate\Http\Request;
 
 class ContentAdminService {
 
-    public function __construct(BroadcastNotificationService  $notificationService){
-        $this->notificationService = $notificationService;
+    public function __construct(BroadcastNotificationService  $broadcastNotificationService){
+        $this->broadcastNotificationService = $broadcastNotificationService;
     }
 
     private const CONTENT_TYPE_PDF = 'pdf';
@@ -191,10 +191,19 @@ class ContentAdminService {
         foreach (self::CONTENT_TYPES as $type) {
 
             $urlField = $type . '_url';
+            $path = null;
 
             if ($request->hasFile($urlField)) {
                 $file = $request->file($urlField);
-                $path = $file->store('uploads/chapter_contents', 'public');
+                $folder = match ($type) {
+                    'audio' => 'audios',
+                    'pdf'   => 'chapters',
+                    default => 'chapters',
+                };
+                $path = Storage::disk('r2')->putFile(
+                    $folder,
+                    $file
+                );
             }
             
             $chapterContents[$type] = ChapterContent::create([
@@ -210,9 +219,14 @@ class ContentAdminService {
     }
 
     private function createBook($request, int $classificationId): Book {
+        $path = null;
+
         if ($request->hasFile('photo')) {
              $photo = $request->file('photo');
-             $path = $photo->store('uploads/booksphotos', 'public');
+            $path = Storage::disk('r2')->putFile(
+                'covers',
+                $photo
+            );
         }
 
         $book = Book::create([
@@ -262,11 +276,23 @@ class ContentAdminService {
 
     public function editBook($request , $bookId): array{
         $book = Book::findOrFail($bookId);
+        $photoPath = $book->photo;
+
+        if ($request->hasFile('photo')) {
+            if ($book->photo && Storage::disk('r2')->exists($book->photo)) {
+                Storage::disk('r2')->delete($book->photo);
+            }
+
+            $photoPath = Storage::disk('r2')->putFile(
+                'covers',
+                $request->file('photo')
+            );
+        }
 
         $book->update([
             'title' => $request->title ?? $book->title,
             'author_name' => $request->author_name ?? $book->author_name,
-            'photo' => $request->photo ?? $book->photo,
+            'photo' => $photoPath,
             'total_pages' => $request->total_pages ?? $book->total_pages,
             'bio' => $request->bio ?? $book->bio,
             'level_id' => $request->level_id ?? $book->level_id,
@@ -295,10 +321,22 @@ class ContentAdminService {
 
     public function editChapterContent($request , $contentId): array{
         $content = ChapterContent::findOrFail($contentId);
+            $path = $content->url;
 
             if ($request->hasFile('url')) {
+                if ($content->url && Storage::disk('r2')->exists($content->url)) {
+                    Storage::disk('r2')->delete($content->url);
+                }
+
                 $file = $request->file('url');
-                $path = $file->store('uploads/chapter_contents', 'public');
+
+                $folder = match ($request->type ?? $content->type) {
+                    'audio' => 'audios',
+                    'pdf'   => 'chapters',
+                    default => 'chapters',
+                };
+
+                $path = Storage::disk('r2')->putFile($folder, $file);
             }
         $content->update([
             'type' => $request->type ?? $content->type,
@@ -338,6 +376,10 @@ class ContentAdminService {
 
         if ($booksCount <= 1) {
             throw new Exception('At least one book must remain in this classification.', 422);
+        }
+
+        if ($book->photo && Storage::disk('r2')->exists($book->photo)) {
+            Storage::disk('r2')->delete($book->photo);
         }
 
         $book->delete();

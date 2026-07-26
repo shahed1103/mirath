@@ -8,7 +8,7 @@ use App\Jobs\SendBroadcastNotificationJob;
 
 class BroadcastNotificationService
 {
-    public function sendBroadcastNotification($request): BroadcastNotification {
+    public function sendBroadcastNotification($request): array {
         $notification = BroadcastNotification::create([
             'title'=>$request->title,
             'body'=>$request->body,

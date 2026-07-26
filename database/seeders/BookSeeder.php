@@ -55,7 +55,7 @@ class BookSeeder extends Seeder
         ];
 
         $classifications = [2,1,4,2,2,4,3,2];
-        $levels = [1,2,3,2,3,1,1,4 ];
+        $levels = [1,2,3,2,3,1,1,2];
 
         $total_pages = [183,127,105,30 ,74 ,196 ,675 , 51];
         $fullPaths = [];

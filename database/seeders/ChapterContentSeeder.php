@@ -15,29 +15,9 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
-        $file_pdf = 'uploads/booksphotos/التلقي.pdf';
-        $file_youtubeUrl = 'https://youtu.be/7JsCnDKc3Sk?si=u7jSqUSmId5AMbx4';
-        $file_voiceMp3 = 'uploads/booksphotos/التلقي.mp3';
-
-        $files = [
-            'التلقي.pdf',
-            'التلقي.mp3',
-        ];
-
-        $sourceDir = public_path('uploads/seeder_contents/');
-        $targetDir = 'uploads/chapter_contents/';
-
-        foreach ($files as $file) {
-            $sourcePath = $sourceDir . $file;
-            $targetPath = $targetDir . $file;
-                Storage::disk('public')->put($targetPath, File::get($sourcePath));
-
-                $fullPath = $targetPath;
-                // $fullPath = url(Storage::url($targetPath));
-
-                $fullPaths[] = $fullPath;
-        }
-
+        $pdfPath = 'chapters/0MGHB3kH2eEwWAmVaDzom8448iJrDkDLQ6WYJ17V.pdf';
+        $audioPath = 'audios/1Cfs3GcBBUSn2KKXEk5KtShZeBgvLxSTn5Epi6vJ.mp3';
+        $youtubeUrl = 'https://youtu.be/7JsCnDKc3Sk?si=u7jSqUSmId5AMbx4';
 
         $chapters = Chapter::all();
 
@@ -46,21 +26,21 @@ class ChapterContentSeeder extends Seeder
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'pdf',
-                'url' => $fullPaths[0],
+                'url' =>  $pdfPath,
                 'total_progress_value' => rand(50, 300),
             ]);
 
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'video',
-                'url' => $file_youtubeUrl,
+                'url' => $youtubeUrl,
                 'total_progress_value' => rand(300, 3600),
             ]);
 
             ChapterContent::create([
                 'chapter_id' => $chapter->id,
                 'type' => 'audio',
-                'url' => $fullPaths[1],
+                'url' => $audioPath,
                 'total_progress_value' => rand(300, 2400),
             ]);
         }
