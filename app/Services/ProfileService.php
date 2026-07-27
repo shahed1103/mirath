@@ -9,8 +9,14 @@ use App\Models\User;
 use App\Models\BookRedemption;
 use Illuminate\Support\Facades\DB;
 use App\Http\Resources\LibraryBookResource;
+use App\Services\NotificationManager;
+use Illuminate\Http\Request;
 
 class ProfileService {
+
+    public function __construct(NotificationManager  $notificationManager){
+        $this->notificationManager = $notificationManager;
+    }
 
 public function getStudentStatistics(): array
 {
@@ -175,6 +181,19 @@ public function requestBookRedemption(array $bookIds): array
         ->whereIn('library_book_id', $bookIds)
         ->delete();
 
+        $book = Book::find($bookIds);
+        $notificationRequest = new Request([
+            'userId' => 4, //لازم تعدل لادمن المكتبة
+            'title' => "طلب تبديل كتاب",
+            'body' => "هنالك طلب تبديل من المستخدم {$user->name} من اجل  مجموعة كتب",
+            'type' => 'request_for_book_redemption',
+            'data' => [
+                'screen' => 'redemption_request_page'
+            ]
+        ]);
+        //
+
+        $this->notificationManager->sendNotification($notificationRequest);
 return [
     'library_location' => 'البرامكة، بجانب مشفى التوليد',
     'working_hours' => 'من الساعة 10:00 صباحًا حتى 5:00 مساءً',

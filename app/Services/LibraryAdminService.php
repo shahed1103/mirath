@@ -12,9 +12,14 @@ use Illuminate\Support\Facades\DB;
 
 use App\Http\Resources\LibraryBookResource;
 use App\Http\Resources\BookRedemptionResource;
+use Illuminate\Http\Request;
+use App\Services\NotificationManager;
 
 class LibraryAdminService {
 
+    public function __construct(NotificationManager  $notificationManager){
+        $this->notificationManager = $notificationManager;
+    }
 
 public function storeLibraryBook( $request): array
 {
@@ -142,6 +147,17 @@ public function confirmBookRedemption(int $redemptionId): array
         $redemption->update([
             'status' => 'done',
         ]);
+
+
+        $notificationRequest = new Request([
+            'userId' => $redemption->user_id,
+            'title' => "موافقة على طلب التبديل الكتاب",
+            'body' => "تمت الموافقة على طلبك من أجل تبديل الكتاب {$book->name}",
+            'type' => 'confirm_book_redemption',
+            'data' => []
+        ]);
+
+        $this->notificationManager->sendNotification($notificationRequest);
 
         return [
             'message' => 'Book redemption confirmed successfully.'

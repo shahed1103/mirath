@@ -20,13 +20,13 @@ use Exception;
 use Throwable;
 use Illuminate\Support\Facades\Cache;
 use Storage;
+use App\Services\StorageCleanupService;
 use App\Services\BroadcastNotificationService;
 use Illuminate\Http\Request;
 
 class ContentAdminService {
 
-    public function __construct(BroadcastNotificationService  $broadcastNotificationService){
-        $this->broadcastNotificationService = $broadcastNotificationService;
+    public function __construct(private BroadcastNotificationService  $broadcastNotificationService , private StorageCleanupService $storageCleanupService){
     }
 
     private const CONTENT_TYPE_PDF = 'pdf';
@@ -357,7 +357,7 @@ class ContentAdminService {
         if ($classificationsCount <= 1) {
             throw new Exception ('At least one classification must remain in the system.' , 422);
         }
-
+        $this->storageCleanupService->deleteClassificationFiles($classification);
         $classification->delete();
 
         Cache::forget('view_classifications');
@@ -381,7 +381,7 @@ class ContentAdminService {
         if ($book->photo && Storage::disk('r2')->exists($book->photo)) {
             Storage::disk('r2')->delete($book->photo);
         }
-
+        $this->storageCleanupService->deleteBookFiles($book);
         $book->delete();
 
         return [
@@ -399,7 +399,7 @@ class ContentAdminService {
         if ($chaptersCount <= 1) {
             throw new Exception('At least one chapter must remain in this book.', 422);
         }
-
+        $this->storageCleanupService->deleteChapterFiles($chapter);
         $chapter->delete();
 
         return [
