@@ -4,7 +4,7 @@ namespace Database\Seeders;
 
 use App\Models\Chapter;
 use Illuminate\Database\Seeder;
-use Maatwebsite\Excel\Facades\Excel;
+//use Maatwebsite\Excel\Facades\Excel;
 
 class ChapterSeeder extends Seeder
 {
@@ -13,9 +13,7 @@ class ChapterSeeder extends Seeder
      */
     public function run(): void
     {
-        $rows = Excel::toArray([], storage_path('app/import/chapter_contents.xlsx'));
-        // أول Sheet
-        $rows = $rows[0];
+$rows = array_map('str_getcsv', file(storage_path('app/import/chapter_contents.csv')));
 
         // حذف العناوين
         unset($rows[0]);

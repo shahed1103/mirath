@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use App\Models\Chapter;
 use App\Models\ChapterContent;
 use Illuminate\Database\Seeder;
-use Maatwebsite\Excel\Facades\Excel;
+//use Maatwebsite\Excel\Facades\Excel;
 
 class ChapterContentSeeder extends Seeder
 {
@@ -14,10 +14,7 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
-        $rows = Excel::toArray([], storage_path('app/import/chapter_contents.xlsx'));
-
-        // أول Sheet
-        $rows = $rows[0];
+$rows = array_map('str_getcsv', file(storage_path('app/import/chapter_contents.csv')));
 
         // حذف أول سطر (العناوين)
         unset($rows[0]);
