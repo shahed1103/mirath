@@ -2,12 +2,11 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
-use Illuminate\Database\Seeder;
 use App\Models\Chapter;
 use App\Models\ChapterContent;
-use Illuminate\Support\Facades\Storage;
-use Illuminate\Support\Facades\File;
+use Illuminate\Database\Seeder;
+use Maatwebsite\Excel\Facades\Excel;
+
 class ChapterContentSeeder extends Seeder
 {
     /**
@@ -15,34 +14,75 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
-        $pdfPath = 'chapters/0MGHB3kH2eEwWAmVaDzom8448iJrDkDLQ6WYJ17V.pdf';
-        $audioPath = 'audios/1Cfs3GcBBUSn2KKXEk5KtShZeBgvLxSTn5Epi6vJ.mp3';
-        $youtubeUrl = 'https://youtu.be/7JsCnDKc3Sk?si=u7jSqUSmId5AMbx4';
+        $rows = Excel::toArray([], storage_path('app/import/chapter_contents.xlsx'));
 
-        $chapters = Chapter::all();
+        // أول Sheet
+        $rows = $rows[0];
 
-        foreach ($chapters as $chapter) {
+        // حذف أول سطر (العناوين)
+        unset($rows[0]);
 
-            ChapterContent::create([
+        foreach ($rows as $row) {
+
+           if (empty($row[0])) {
+        continue;
+    }
+    $chapterName = trim($row[0]);
+
+$pdf = trim($row[1] ?? '');
+$audio = trim($row[2] ?? '');
+$video = trim($row[3] ?? '');
+
+$pdfProgress = (int) ($row[4] ?? 0);
+$audioProgress = (int) ($row[5] ?? 0);
+$videoProgress = (int) ($row[6] ?? 0);
+
+    $chapter = Chapter::where('title', $chapterName)->first();
+
+    if (!$chapter) {
+        $this->command?->warn("Chapter not found: {$chapterName}");
+        continue;
+    }
+
+    $contents = [
+
+        [
+            'type' => 'pdf',
+            'url' => $pdf,
+            'progress' => $pdfProgress,
+        ],
+
+        [
+            'type' => 'audio',
+            'url' => $audio,
+            'progress' => $audioProgress,
+        ],
+
+        [
+            'type' => 'video',
+            'url' => $video,
+            'progress' => $videoProgress,
+        ],
+    ];
+
+    foreach ($contents as $content) {
+
+        ChapterContent::updateOrCreate(
+            [
                 'chapter_id' => $chapter->id,
-                'type' => 'pdf',
-                'url' =>  $pdfPath,
-                'total_progress_value' => rand(50, 300),
-            ]);
+                'type' => $content['type'],
+            ],
+            [
+                'url' => $content['url'],
+                'total_progress_value' => $content['progress'],
+            ]
+        );
+    }
 
-            ChapterContent::create([
-                'chapter_id' => $chapter->id,
-                'type' => 'video',
-                'url' => $youtubeUrl,
-                'total_progress_value' => rand(300, 3600),
-            ]);
+    $this->command?->info("Imported {$chapterName}");
+}
 
-            ChapterContent::create([
-                'chapter_id' => $chapter->id,
-                'type' => 'audio',
-                'url' => $audioPath,
-                'total_progress_value' => rand(300, 2400),
-            ]);
-        }
     }
 }
+
+

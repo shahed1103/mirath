@@ -15,6 +15,7 @@
         "laravel/telescope": "^5.20",
         "laravel/tinker": "^2.10.1",
         "league/flysystem-aws-s3-v3": "3.29",
+        "maatwebsite/excel": "*",
         "smalot/pdfparser": "^2.12",
         "spatie/laravel-permission": "^6.25"
     },

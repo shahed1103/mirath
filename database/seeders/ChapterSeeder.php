@@ -2,9 +2,9 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
-use Illuminate\Database\Seeder;
 use App\Models\Chapter;
+use Illuminate\Database\Seeder;
+use Maatwebsite\Excel\Facades\Excel;
 
 class ChapterSeeder extends Seeder
 {
@@ -13,20 +13,36 @@ class ChapterSeeder extends Seeder
      */
     public function run(): void
     {
-        $titles = ['سلوكي' , 'شرعي' , 'إصلاحي' , 'فكري'];
-        $book_ids = [1,2,3,4];
-        $order_number = [1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,4];
-        $start_page = [1,3,5,8,10,15,19,20,49,50,59,67,80,90,100,102];
-        $end_page = [1,3,5,8,10,15,19,20,49,50,59,67,80,90,100,102];
+        $rows = Excel::toArray([], storage_path('app/import/chapter_contents.xlsx'));
+        // أول Sheet
+        $rows = $rows[0];
 
+        // حذف العناوين
+        unset($rows[0]);
 
-        for ($i=0; $i < 16 ; $i++) {
-            Chapter::query()->create([
-            'title' => $titles[$i % count($titles)],
-            'book_id' => $book_ids[$i % count($book_ids)],
-            'order_number' => $order_number[$i],
-            'start_page'=> $start_page[$i],
-            'end_page' => $end_page[$i]+1,
-            ]); }
+        foreach ($rows as $row) {
+
+            if (empty($row[0])) {
+                continue;
+            }
+
+            Chapter::updateOrCreate(
+
+                [
+                    'book_id' => (int) ($row[7] ?? 0),
+                    'order_number' => (int) ($row[8] ?? 0),
+                ],
+
+                [
+                    'title' => trim($row[0]),
+                    'start_page' => (int) ($row[9] ?? 0),
+                    'end_page' => (int) ($row[10] ?? 0),
+                ]
+            );
+
+            $this->command?->info('Imported: '.trim($row[0]));
+        }
+
+        $this->command?->info('Chapter Seeder Finished Successfully.');
     }
 }
