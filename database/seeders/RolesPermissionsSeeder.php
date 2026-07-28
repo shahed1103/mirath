@@ -15,20 +15,22 @@ class RolesPermissionsSeeder extends Seeder
     // 1. Create roles
         $dataEntryAdminRole = Role::create(['name' => 'dataEntryAdmin']);
         $followStudentAdminRole = Role::create(['name' => 'followStudentAdminRole']);
+        $libraryAdminRole = Role::create(['name' => 'libraryAdminRole']);
         $clientRole = Role::create(['name' => 'Client']);
 
     // 2. Create permissions
-        $permissions = ['getContinueReading' , 'getFeatures' , 'getHome' , 'updateProgress' , 
+        $permissions = ['getContinueReading' , 'getFeatures' , 'getHome' , 'updateProgress' ,
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
-                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat' , 
+                        'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat' ,
                         'addFeedback' , 'getAllUsers' , 'getAllFeedbacks' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
                         'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
                         'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
-                        'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
+                        'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' ,
                         'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview',
-                        'getBooks' , 'getChapters'
+                        'getBooks' , 'getChapters' , 'storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
+          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption'
                         ];
 
         // foreach ($permissions as $permissionName) {
@@ -44,7 +46,7 @@ foreach ($permissions as $permissionName) {
 
     // assign permissions to roles
         $clientRole->syncPermissions([
-                        'getContinueReading' , 'getFeatures' , 'getHome' , 'updateProgress' , 
+                        'getContinueReading' , 'getFeatures' , 'getHome' , 'updateProgress' ,
                         'getClassificationDetails' , 'getBookDetails' , 'getChapterDetails' , 'addChapterToReviewList' ,
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
@@ -56,12 +58,15 @@ foreach ($permissions as $permissionName) {
         $dataEntryAdminRole->syncPermissions(['getClassificationDetails' , 'getBookDetailsAdmin' , 'getChapterDetailsAdmin' ,
                                          'addNewClassification' , 'addNewBook' , 'addNewChapter' , 'editClassification' , 'editBook' , 'editChapter' ,
                                          'editChapterContent' , 'deleteClassification' , 'deleteBook' , 'deleteChapter' , 'allChapterQuestionsWithAnswers' ,
-                                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' , 
+                                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' ,
                                          'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion'
                                          ]);
 
         $followStudentAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'userStatisticsOverview']);
-        
+
+        $libraryAdminRole -> syncPermissions(['storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
+          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption']);
+
         $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 
     // 4. Create users for each role
@@ -99,7 +104,29 @@ foreach ($permissions as $permissionName) {
     //assign permissions with the role to the user
         $permissions = $followStudentAdminRole->permissions()->pluck('name')->toArray();
         $followStudentAdmin->givePermissionTo($permissions);
-        
+
+
+
+        $libraryAdmin = User::factory()->create([
+            'role_id' => $libraryAdminRole->id,
+            'nationality_id' => 1,
+            'age' => '20',
+            'name' => 'dataEntry',
+            'nick_name' => 'Admin',
+            'email' => 'LibraryAdmin@example.com',
+            'password' => bcrypt('password') ,
+            'photo' => $defaultPhoto
+        ]);
+
+        $libraryAdmin->assignRole($libraryAdminRole);
+
+    //assign permissions with the role to the user
+        $permissions = $libraryAdminRole->permissions()->pluck('name')->toArray();
+        $libraryAdmin->givePermissionTo($permissions);
+
+
+
+
         $clientUser = User::factory()->create([
             'role_id' => $clientRole->id,
             'nationality_id' => 1,
@@ -116,7 +143,7 @@ foreach ($permissions as $permissionName) {
     //assign permissions with the role to the user
         $permissions = $clientRole->permissions()->pluck('name')->toArray();
         $clientUser->givePermissionTo($permissions);
-  
+
     // 5. Create additional client users
         $names = ['shahed', 'dana', 'rama', 'yumna', 'rania', 'lana', 'rayan', 'mohammed', 'marwa', 'sawsan'];
         $nationalities = [1, 2, 3, 4, 5, 6, 7, 8, 3, 1];

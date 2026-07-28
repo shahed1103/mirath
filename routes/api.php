@@ -131,6 +131,9 @@ Route::middleware('auth:sanctum')->get('markAllAsRead/{userId}', [NotificationCo
 Route::post('sendNotification', [NotificationController::class, 'sendNotification']);
 Route::post('sendBroadcastNotification', [NotificationController::class, 'sendBroadcastNotification']);
 
+
+
+
 Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
 
 
@@ -152,12 +155,12 @@ Route::middleware('auth:sanctum')->post('/calculate', [StudyPlanController::clas
 
 
 //////////////library admin
-Route::middleware('auth:sanctum')->post('/storeLibraryBook', [LibraryAdminController::class, 'storeLibraryBook']);
-Route::middleware('auth:sanctum')->get('/getAllBookRedemptions', [LibraryAdminController::class, 'getAllBookRedemptions']);
-Route::middleware('auth:sanctum')->get('/getMostRedeemedBooks', [LibraryAdminController::class, 'getMostRedeemedBooks']);
-Route::middleware('auth:sanctum')->get('/getMonthlyRedeemedPoints', [LibraryAdminController::class, 'getMonthlyRedeemedPoints']);
-Route::middleware('auth:sanctum')->get('/getBookRedemptionStatistics', [LibraryAdminController::class, 'getBookRedemptionStatistics']);
-Route::middleware('auth:sanctum')->post('/confirmBookRedemption/{redemptionId}', [LibraryAdminController::class, 'confirmBookRedemption']);
+Route::middleware('auth:sanctum')->post('/storeLibraryBook', [LibraryAdminController::class, 'storeLibraryBook'])->middleware('can:storeLibraryBook');
+Route::middleware('auth:sanctum')->get('/getAllBookRedemptions', [LibraryAdminController::class, 'getAllBookRedemptions'])->middleware('can:getAllBookRedemptions');
+Route::middleware('auth:sanctum')->get('/getMostRedeemedBooks', [LibraryAdminController::class, 'getMostRedeemedBooks'])->middleware('can:getMostRedeemedBooks');
+Route::middleware('auth:sanctum')->get('/getMonthlyRedeemedPoints', [LibraryAdminController::class, 'getMonthlyRedeemedPoints'])->middleware('can:getMonthlyRedeemedPoints');
+Route::middleware('auth:sanctum')->get('/getBookRedemptionStatistics', [LibraryAdminController::class, 'getBookRedemptionStatistics'])->middleware('can:getBookRedemptionStatistics');
+Route::middleware('auth:sanctum')->post('/confirmBookRedemption/{redemptionId}', [LibraryAdminController::class, 'confirmBookRedemption'])->middleware('can:confirmBookRedemption');
 
 
 
