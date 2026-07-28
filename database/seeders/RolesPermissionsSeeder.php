@@ -111,7 +111,7 @@ foreach ($permissions as $permissionName) {
             'role_id' => $libraryAdminRole->id,
             'nationality_id' => 1,
             'age' => '20',
-            'name' => 'dataEntry',
+            'name' => 'libraryAdmin',
             'nick_name' => 'Admin',
             'email' => 'LibraryAdmin@example.com',
             'password' => bcrypt('password') ,

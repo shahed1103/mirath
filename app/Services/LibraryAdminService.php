@@ -152,7 +152,7 @@ public function confirmBookRedemption(int $redemptionId): array
         $notificationRequest = new Request([
             'userId' => $redemption->user_id,
             'title' => "موافقة على طلب التبديل الكتاب",
-            'body' => "تمت الموافقة على طلبك من أجل تبديل الكتاب {$book->name}",
+            'body' => "يرجى مراجعة المكتبة في البرامكة، بجانب مشفى التوليد، خلال أوقات الدوام لإتمام عملية استلام الكتب من الساعة 10:00 صباحًا حتى 5:00 مساءً{$book->name}",
             'type' => 'confirm_book_redemption',
             'data' => []
         ]);
