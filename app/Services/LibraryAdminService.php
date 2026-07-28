@@ -9,7 +9,7 @@ use App\Models\User;
 use Carbon\Carbon;
 use App\Models\BookRedemption;
 use Illuminate\Support\Facades\DB;
-
+use Illuminate\Support\Facades\Storage;
 use App\Http\Resources\LibraryBookResource;
 use App\Http\Resources\BookRedemptionResource;
 use Illuminate\Http\Request;
@@ -21,18 +21,41 @@ class LibraryAdminService {
         $this->notificationManager = $notificationManager;
     }
 
-public function storeLibraryBook( $request): array
+
+public function getAllLibraryBooks(): array
 {
+    return [
+        'books' => LibraryBookResource::collection(
+            LibraryBook::where('count', '>', 0)->get()
+        ),
+        'message' => 'Library books retrieved successfully',
+    ];
+}
+
+
+
+public function storeLibraryBook($request): array
+{
+    $photo = null;
+
+    if ($request->hasFile('photo')) {
+        $photo = Storage::disk('r2')->putFile(
+            'covers',
+            $request->file('photo')
+        );
+    }
+
     $book = LibraryBook::create([
-        'name' => $request->name,
+        'name'   => $request->name,
         'author' => $request->author,
-        'price' => $request->price,
-        'count' => $request->count
+        'price'  => $request->price,
+        'count'  => $request->count,
+        'photo'  => $photo,
     ]);
 
     return [
         'book' => $book,
-        'message' => 'Book added successfully'
+        'message' => 'Book added successfully',
     ];
 }
 

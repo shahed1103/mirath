@@ -30,7 +30,7 @@ class RolesPermissionsSeeder extends Seeder
                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' ,
                         'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview',
                         'getBooks' , 'getChapters' , 'storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
-          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption'
+          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks'
                         ];
 
         // foreach ($permissions as $permissionName) {
@@ -65,7 +65,7 @@ foreach ($permissions as $permissionName) {
         $followStudentAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'userStatisticsOverview']);
 
         $libraryAdminRole -> syncPermissions(['storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
-          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption']);
+          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks']);
 
         $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 

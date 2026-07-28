@@ -44,6 +44,27 @@ public function storeLibraryBook(StoreLibraryBookRequest $request): JsonResponse
     }
 }
 
+public function getAllLibraryBooks(): JsonResponse
+{
+    $data = [];
+
+    try {
+        $data = $this->libraryService->getAllLibraryBooks();
+
+        return Response::Success(
+            $data['books'],
+            $data['message']
+        );
+    }
+    catch (Throwable $th) {
+        $message = $th->getMessage();
+        $errors[] = $message;
+
+        return Response::Error($data, $message, $errors);
+    }
+}
+
+
 public function getAllBookRedemptions(): JsonResponse
 {
     $data = [];

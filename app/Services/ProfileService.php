@@ -63,7 +63,7 @@ public function getAllLibraryBooks(): array
         'books' => LibraryBookResource::collection(
             LibraryBook::where('count', '>', 0)->get()
         ),
-        'message' => 'Library books retrieved successfully'
+        'message' => 'Library books retrieved successfully',
     ];
 }
 
