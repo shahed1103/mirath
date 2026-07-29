@@ -19,7 +19,7 @@ class QuizResultResource extends JsonResource
             'success' => $this->success ?? false,
             'correct_answers' => $this->correct_answers,
             'correct_answers_pricent' =>
-              round(($this->correct_answers * 100) / 5),
+              round(($this->correct_answers * 100) / 20),
             'new_points' =>
                 $this->points,
             'all_user_points' =>
