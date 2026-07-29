@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 66,
+    "questions": [
+         {
+        "question_text": "من هو بطل غزوة ذي قرد الذي استعاد إبل النبي ﷺ؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر صراحة أن سلمة بن الأكوع هو البطل الذي طارد المشركين واستنقذ الإبل [1].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "سلمة بن الأكوع", "is_correct": true },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت فيها إشارات واضحة لغنائم خيبر؟",
+        "difficulty_score": 200,
+        "explanation": "أوضح المصدر أن سورة الفتح أشارت إلى خيبر في مواضع كقوله تعالى 'وأثابهم فتحاً قريباً' [2].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة الحشر", "is_correct": false },
+            { "choice_text": "سورة الفتح", "is_correct": true },
+            { "choice_text": "سورة يوسف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بين الحديبية وخيبر، كم كانت المدة الزمنية تقريباً؟",
+        "difficulty_score": 300,
+        "explanation": "تشير النصوص التاريخية في المصدر إلى أن المدة كانت قرابة شهرين أو ثلاثة [4].",
+        "choices": [
+            { "choice_text": "سنة كاملة", "is_correct": false },
+            { "choice_text": "شهرين تقريباً", "is_correct": true },
+            { "choice_text": "أسبوع واحد", "is_correct": false },
+            { "choice_text": "خمسة أشهر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي نهى النبي ﷺ عن أكله في خيبر؟",
+        "difficulty_score": 200,
+        "explanation": "ورد في الأحكام الفقهية لخيبر النهي عن لحوم الحمر الأهلية [3].",
+        "choices": [
+            { "choice_text": "لحوم الإبل", "is_correct": false },
+            { "choice_text": "لحوم الغنم", "is_correct": false },
+            { "choice_text": "لحوم الحمر الأهلية", "is_correct": true },
+            { "choice_text": "لحوم البقر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو ملك اليهود الذي بارزه علي بن أبي طالب وقتله؟",
+        "difficulty_score": 100,
+        "explanation": "مرحب كان بطل اليهود وملكهم، وقتله علي بن أبي طالب في المبارزة [10، 30].",
+        "choices": [
+            { "choice_text": "حيي بن أخطب", "is_correct": false },
+            { "choice_text": "سلام بن أبي الحقيق", "is_correct": false },
+            { "choice_text": "مرحب", "is_correct": true },
+            { "choice_text": "كعب بن الأشرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ لعلي بن أبي طالب لعلاج رمده؟",
+        "difficulty_score": 200,
+        "explanation": "بصق النبي ﷺ في عيني علي فبرأ كأن لم يكن به وجع [11].",
+        "choices": [
+            { "choice_text": "أعطاه دواءً عشبياً", "is_correct": false },
+            { "choice_text": "بصق في عينيه", "is_correct": true },
+            { "choice_text": "أمره بالاستراحة", "is_correct": false },
+            { "choice_text": "كواه بالنار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه علي بن أبي طالب على نفسه في أرجوزته أمام مرحب؟",
+        "difficulty_score": 400,
+        "explanation": "قال علي في أرجوزته: 'أنا الذي سمتني أمي حيدره' [12].",
+        "choices": [
+            { "choice_text": "سيف الله", "is_correct": false },
+            { "choice_text": "حيدره", "is_correct": true },
+            { "choice_text": "الفاروق", "is_correct": false },
+            { "choice_text": "ذو النورين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي نوع من الزواج نُهي عنه في خيبر؟",
+        "difficulty_score": 300,
+        "explanation": "تذكر المصادر الفقهية في غزوة خيبر النهي عن زواج المتعة [3].",
+        "choices": [
+            { "choice_text": "زواج المسيار", "is_correct": false },
+            { "choice_text": "زواج المتعة", "is_correct": true },
+            { "choice_text": "النكاح الدائم", "is_correct": false },
+            { "choice_text": "زواج الشغار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان موقف النبي ﷺ الأولي من اليهودية التي سممت الشاة؟",
+        "difficulty_score": 500,
+        "explanation": "في البداية عفا عنها النبي ﷺ ولم يقتلها لحلمه وعفوه في حقه الشخصي [13].",
+        "choices": [
+            { "choice_text": "قتلها فوراً", "is_correct": false },
+            { "choice_text": "عفا عنها ولم يقتلها (في البداية)", "is_correct": true },
+            { "choice_text": "سجنها مؤبداً", "is_correct": false },
+            { "choice_text": "نفاها من الجزيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'المخلفون' الذين أرادوا الخروج إلى خيبر طمعاً في المغانم؟",
+        "difficulty_score": 400,
+        "explanation": "هم الأعراب الذين تخلفوا عن الحديبية، فأرادوا اتباع المسلمين لخيبر لأخذ المغانم فمنعهم الله [9].",
+        "choices": [
+            { "choice_text": "أهل مكة", "is_correct": false },
+            { "choice_text": "الأنصار", "is_correct": false },
+            { "choice_text": "الأعراب المخلفون عن الحديبية", "is_correct": true },
+            { "choice_text": "بنو قريظة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة التربوية المستخلصة من قصة سلمة بن الأكوع؟",
+        "difficulty_score": 300,
+        "explanation": "أكد المصدر على أهمية المبادرة الفردية وتحمل المسؤولية الذاتية [5].",
+        "choices": [
+            { "choice_text": "انتظار الأوامر دائماً", "is_correct": false },
+            { "choice_text": "المبادرة الفردية والمسؤولية", "is_correct": true },
+            { "choice_text": "الهروب من المواجهة", "is_correct": false },
+            { "choice_text": "الاعتماد الكلي على الجماعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال اليهود عندما رأوا جيش النبي ﷺ صباحاً في خيبر؟",
+        "difficulty_score": 400,
+        "explanation": "قالوا: 'محمد والخميس'، والخميس يعني الجيش [14].",
+        "choices": [
+            { "choice_text": "الصلح خير", "is_correct": false },
+            { "choice_text": "محمد والخميس", "is_correct": true },
+            { "choice_text": "نحن الغالبون", "is_correct": false },
+            { "choice_text": "أين المفر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف النبي ﷺ الرجل الذي سيعطيه الراية في خيبر؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'يحب الله ورسوله ويحبه الله ورسوله' [15].",
+        "choices": [
+            { "choice_text": "أشجع الناس", "is_correct": false },
+            { "choice_text": "أغنى الصحابة", "is_correct": false },
+            { "choice_text": "يحب الله ورسوله ويحبه الله ورسوله", "is_correct": true },
+            { "choice_text": "أقدمهم إسلاماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استشهد بسبب 'رحى' ألقاها عليه مرحب؟",
+        "difficulty_score": 600,
+        "explanation": "استشهد محمود بن سلمة رضي الله عنه بعد أن ألقى عليه مرحب رحى من فوق الحصن [16].",
+        "choices": [
+            { "choice_text": "عامر بن الأكوع", "is_correct": false },
+            { "choice_text": "محمود بن سلمة", "is_correct": true },
+            { "choice_text": "بشر بن البراء", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو سبب وفاة عامر بن الأكوع رضي الله عنه؟",
+        "difficulty_score": 700,
+        "explanation": "رجع عليه سيفه وهو يبارز مرحب فأصاب أكحله [17].",
+        "choices": [
+            { "choice_text": "قتله مرحب مباشرة", "is_correct": false },
+            { "choice_text": "رجع عليه سيفه خطأً", "is_correct": true },
+            { "choice_text": "أصابه سهم طائش", "is_correct": false },
+            { "choice_text": "مات مسموماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الرد النبوي على من قال 'بطل عمل عامر' لأنه قتل نفسه؟",
+        "difficulty_score": 600,
+        "explanation": "قال النبي ﷺ: 'كذب من قال ذلك، بل له أجره مرتين' [18].",
+        "choices": [
+            { "choice_text": "سكت النبي", "is_correct": false },
+            { "choice_text": "أمرهم بالاستغفار له", "is_correct": false },
+            { "choice_text": "قال: كذب من قال ذلك، له أجره مرتين", "is_correct": true },
+            { "choice_text": "قال: هو في النار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى ماذا دعا النبي ﷺ علي بن أبي طالب أن يبدأ به عند حصون خيبر؟",
+        "difficulty_score": 400,
+        "explanation": "أمره أن يدعوهم إلى الإسلام أولاً [19].",
+        "choices": [
+            { "choice_text": "الهجوم المباغت", "is_correct": false },
+            { "choice_text": "الدعوة إلى الإسلام", "is_correct": true },
+            { "choice_text": "حرق النخيل", "is_correct": false },
+            { "choice_text": "طلب الجزية فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى قوله تعالى: 'فعجّل لكم هذه' في سورة الفتح؟",
+        "difficulty_score": 600,
+        "explanation": "فسرها العلماء بأن المقصود بها غنائم خيبر التي عجلها الله للمؤمنين [11، 18].",
+        "choices": [
+            { "choice_text": "فتح مكة", "is_correct": false },
+            { "choice_text": "غنائم خيبر", "is_correct": true },
+            { "choice_text": "النصر في حنين", "is_correct": false },
+            { "choice_text": "نزول المطر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا اشتهرت حصون خيبر كما وصفها المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "وصفها بأنها بناء عجيب ومحكم وقائم على تلال وجبال [15، 16].",
+        "choices": [
+            { "choice_text": "كانت ضعيفة من الطين", "is_correct": false },
+            { "choice_text": "بناء عجيب ومحكم وشديد الحصانة", "is_correct": true },
+            { "choice_text": "كانت في الوديان فقط", "is_correct": false },
+            { "choice_text": "لم تكن هناك حصون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قاد علي بن أبي طالب إلى النبي ﷺ لشدة رمده؟",
+        "difficulty_score": 700,
+        "explanation": "سلمة بن الأكوع هو من ذهب يقوده لعدم قدرته على الإبصار بوضوح [11].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "سلمة بن الأكوع", "is_correct": true },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي رددها عامر بن الأكوع وهو يرتجز في طريقه لخيبر؟",
+        "difficulty_score": 800,
+        "explanation": "كان يقول: 'تالله لولا الله ما اهتدينا.. ولا تصدقنا ولا صلينا' [20].",
+        "choices": [
+            { "choice_text": "نحن الذين بايعوا محمداً", "is_correct": false },
+            { "choice_text": "تالله لولا الله ما اهتدينا", "is_correct": true },
+            { "choice_text": "خيبر خيبر يا يهود", "is_correct": false },
+            { "choice_text": "الله أكبر خربت خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المنائح' التي ردها المهاجرون للأنصار بعد خيبر؟",
+        "difficulty_score": 500,
+        "explanation": "هي الهبات أو النخيل التي كان الأنصار يعطونها للمهاجرين ليستفيدوا من ثمارها [6].",
+        "choices": [
+            { "choice_text": "الأسلحة", "is_correct": false },
+            { "choice_text": "الدواب", "is_correct": false },
+            { "choice_text": "الهبات (خاصة النخيل ثمرها)", "is_correct": true },
+            { "choice_text": "البيوت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي الجيش بـ 'الخميس'؟",
+        "difficulty_score": 800,
+        "explanation": "لأنه ينقسم إلى خمسة أقسام (مقدمة، قلب، ميمنة، ميسرة، ساقة) [14].",
+        "choices": [
+            { "choice_text": "لأنه خرج يوم الخميس", "is_correct": false },
+            { "choice_text": "لأنه مكون من 5 آلاف جندي", "is_correct": false },
+            { "choice_text": "لتقسيماته الخمسة المشهورة", "is_correct": true },
+            { "choice_text": "لأن الغزوة دامت 5 أيام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء لم يقتل في خيبر؟",
+        "difficulty_score": 900,
+        "explanation": "حيي بن أخطب قتل في بني قريظة قبل خيبر، أما مرحب ومحمود وبشر فمرتبطون بأحداثها [7].",
+        "choices": [
+            { "choice_text": "مرحب", "is_correct": false },
+            { "choice_text": "محمود بن سلمة", "is_correct": false },
+            { "choice_text": "بشر بن البراء", "is_correct": false },
+            { "choice_text": "حيي بن أخطب", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ماذا كان هدف مدرسة النبي ﷺ التربوية تجاه الصفات الشخصية؟",
+        "difficulty_score": 600,
+        "explanation": "كان هدفها توجيه الطاقات والقدرات الفطرية لخدمة الخير والميزان الإسلامي [21].",
+        "choices": [
+            { "choice_text": "محو الشخصية تماماً", "is_correct": false },
+            { "choice_text": "توجيه القدرات والمواهب للخير", "is_correct": true },
+            { "choice_text": "جعل الجميع مقاتلين فقط", "is_correct": false },
+            { "choice_text": "الاهتمام بالشكل الخارجي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من استمرار دعوة الأعداء للإسلام حتى وقت القتال؟",
+        "difficulty_score": 700,
+        "explanation": "لإقامة الحجة وقطع العذر ولأن الهداية هي الغرض الأسمى [22].",
+        "choices": [
+            { "choice_text": "خداع العدو", "is_correct": false },
+            { "choice_text": "كسب الوقت", "is_correct": false },
+            { "choice_text": "إقامة الحجة وتمام الإعذار", "is_correct": true },
+            { "choice_text": "تقليل عدد القتلى فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يمت النبي ﷺ فوراً من سم الشاة؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الله عصمه حتى يبلغ الرسالة، ولأنه تنبه للسم بعد أول مضغة [23].",
+        "choices": [
+            { "choice_text": "لأنه لم يأكل منها مطلقاً", "is_correct": false },
+            { "choice_text": "لأن السم كان ضعيفاً", "is_correct": false },
+            { "choice_text": "عصمة من الله حتى يبلغ أجله", "is_correct": true },
+            { "choice_text": "لأن الصحابة أكلوا بدلاً عنه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي صحابي مات متأثراً بسم الشاة في خيبر؟",
+        "difficulty_score": 600,
+        "explanation": "بشر بن البراء بن معرور هو الذي مات من أثر السم [24].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "بشر بن البراء", "is_correct": true },
+            { "choice_text": "سلمة بن الأكوع", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كانت ليلة بات فيها الناس 'يدوكون' أيهم يعطى الراية؟",
+        "difficulty_score": 400,
+        "explanation": "كانت ليلة واحدة قبل يوم الفتح العظيم في خيبر [11].",
+        "choices": [
+            { "choice_text": "ثلاث ليالٍ", "is_correct": false },
+            { "choice_text": "ليلة واحدة", "is_correct": true },
+            { "choice_text": "أسبوع كامل", "is_correct": false },
+            { "choice_text": "عشر ليالٍ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي استشهد بها المصدر للدلالة على وجوب الدعوة في كل حال؟",
+        "difficulty_score": 700,
+        "explanation": "استشهد بقول يوسف عليه السلام في السجن: 'أأرباب متفرقون خير أم الله الواحد القهار' [28، 29].",
+        "choices": [
+            { "choice_text": "آية الكرسي", "is_correct": false },
+            { "choice_text": "آية يوسف في السجن", "is_correct": true },
+            { "choice_text": "آية المداينة", "is_correct": false },
+            { "choice_text": "آية جلاء النضير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر بناء حصون اليهود في خيبر؟",
+        "difficulty_score": 500,
+        "explanation": "وصفه بالبناء المحكم والقائم حتى بعد 1400 سنة [25].",
+        "choices": [
+            { "choice_text": "بناء هش", "is_correct": false },
+            { "choice_text": "بناء عجيب ومحكم وقوي", "is_correct": true },
+            { "choice_text": "بناء تحت الأرض", "is_correct": false },
+            { "choice_text": "بناء خشبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل اليهود في خيبر قبل الهجوم المفاجئ للمسلمين؟",
+        "difficulty_score": 400,
+        "explanation": "خرجوا بمساحيهم ومكاتلهم للعمل في زراعتهم ونخيلهم [14].",
+        "choices": [
+            { "choice_text": "كانوا نائمين", "is_correct": false },
+            { "choice_text": "كانوا يستعدون للقتال", "is_correct": false },
+            { "choice_text": "خرجوا لمزارعهم بمساحيهم", "is_correct": true },
+            { "choice_text": "كانوا في اجتماع طارئ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي أسلم على يديه عثمان بن عفان وطلحة والزبير؟",
+        "difficulty_score": 300,
+        "explanation": "أبو بكر الصديق هو من بادر بدعوتهم فور إسلامه [2، 3].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السكينة التي أشار إليها المصدر في سورة الفتح؟",
+        "difficulty_score": 500,
+        "explanation": "هي الطمأنينة التي أنزلها الله على قلوب المؤمنين في الحديبية كتمهيد لفتح خيبر [2].",
+        "choices": [
+            { "choice_text": "المطر", "is_correct": false },
+            { "choice_text": "النوم", "is_correct": false },
+            { "choice_text": "الطمأنينة القلبية", "is_correct": true },
+            { "choice_text": "الملائكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي تدل على سيادة مرحب؟",
+        "difficulty_score": 600,
+        "explanation": "وصفه المصدر بـ 'ملكهم' و 'سيد اليهود' [7، 30].",
+        "choices": [
+            { "choice_text": "مرحب ملكهم", "is_correct": true },
+            { "choice_text": "مرحب الحكيم", "is_correct": false },
+            { "choice_text": "مرحب التاجر", "is_correct": false },
+            { "choice_text": "مرحب الصامت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استنكر النبي ﷺ قول الصحابة عن عامر 'بطل عمله'؟",
+        "difficulty_score": 700,
+        "explanation": "قال 'كذب من قال ذلك' لأن التضحية كانت صادقة والقتل كان خطأً [18].",
+        "choices": [
+            { "choice_text": "قال: صدقتم", "is_correct": false },
+            { "choice_text": "قال: كذب من قال ذلك", "is_correct": true },
+            { "choice_text": "قال: لا أدري", "is_correct": false },
+            { "choice_text": "قال: استغفروا لصاحبكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الرابط بين خيبر و 'التمر' في قول عائشة؟",
+        "difficulty_score": 400,
+        "explanation": "قالت: 'ما شبعنا من التمر إلا حين فتحت خيبر' للدلالة على وفرة الغنائم [26].",
+        "choices": [
+            { "choice_text": "خيبر لم يكن فيها تمر", "is_correct": false },
+            { "choice_text": "تمر خيبر كان مراً", "is_correct": false },
+            { "choice_text": "الشبع والوفرة بدأ بفتح خيبر", "is_correct": true },
+            { "choice_text": "التمر كان سبباً في الهزيمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'يرتجز' في سياق الحديث عن عامر بن الأكوع؟",
+        "difficulty_score": 800,
+        "explanation": "الارتجاز هو إنشاد الشعر بحماسة في الحرب أو العمل [20].",
+        "choices": [
+            { "choice_text": "يصرخ بصوت عالٍ", "is_correct": false },
+            { "choice_text": "ينشد شعراً حماسياً", "is_correct": true },
+            { "choice_text": "يركض بسرعة", "is_correct": false },
+            { "choice_text": "يبكي من الخوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف تعامل النبي ﷺ مع أهل خيبر بعد الفتح؟",
+        "difficulty_score": 500,
+        "explanation": "أبقاهم في ديارهم ليعملوا في النخل مقابل نصف الثمر (الخراج) [27].",
+        "choices": [
+            { "choice_text": "قتلهم جميعاً", "is_correct": false },
+            { "choice_text": "أبقاهم ليعملوا في الأرض", "is_correct": true },
+            { "choice_text": "نفاهم فوراً", "is_correct": false },
+            { "choice_text": "أعطاهم الأرض هبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الخليفة الذي أجلى اليهود نهائياً من جزيرة العرب؟",
+        "difficulty_score": 300,
+        "explanation": "هو عمر بن الخطاب رضي الله عنه [27].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف الذي أطلقه المصدر على 'مدرسة النبي ﷺ' في التعامل مع مواهب الصحابة؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أنها مدرسة تجمع القدرات والطاقات وتوجهها للخير، بدلاً من جعل الجميع في قالب واحد [3، 4].",
+        "choices": [
+            { "choice_text": "مدرسة عسكرية بحتة", "is_correct": false },
+            { "choice_text": "مدرسة توجيه القدرات والمواهب للخير", "is_correct": true },
+            { "choice_text": "مدرسة تهمش الفروق الفردية", "is_correct": false },
+            { "choice_text": "مدرسة تعتمد على الحفظ فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، من هم الصحابة الذين أسلموا على يد أبي بكر الصديق نتيجة مبادرته؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر عثمان، والزبير، وطلحة، وعبد الرحمن بن عوف كأمثلة على ثمار مبادرة أبي بكر [2، 3].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب وحمزة", "is_correct": false },
+            { "choice_text": "عثمان والزبير وطلحة وعبد الرحمن بن عوف", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب وجعفر", "is_correct": false },
+            { "choice_text": "خالد بن الوليد وعمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم ليلة لبث المسلمون في المدينة بعد غزوة ذي قرد قبل الخروج لخيبر؟",
+        "difficulty_score": 200,
+        "explanation": "يقول سلمة بن الأكوع: 'ما لبثنا إلا ثلاث ليال حتى خرجنا إلى خيبر' [1].",
+        "choices": [
+            { "choice_text": "ليلة واحدة", "is_correct": false },
+            { "choice_text": "ثلاث ليال", "is_correct": true },
+            { "choice_text": "عشر ليال", "is_correct": false },
+            { "choice_text": "شهر كامل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'السكينة' التي سأل عامر بن الأكوع ربه أن ينزلها في أرجوزته؟",
+        "difficulty_score": 500,
+        "explanation": "المقصود بها الثبات والطمأنينة القلبية عند لقاء العدو [1].",
+        "choices": [
+            { "choice_text": "المطر", "is_correct": false },
+            { "choice_text": "الهدوء قبل العاصفة", "is_correct": false },
+            { "choice_text": "الطمأنينة والثبات القلبي", "is_correct": true },
+            { "choice_text": "النوم العميق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال عمر بن الخطاب لعامر بن الأكوع عندما سمعه يرتجز؟",
+        "difficulty_score": 600,
+        "explanation": "قال له: 'وجبت'، وفي رواية أخرى تمنى لو استمتع المسلمون بوجوده أكثر، مشيراً إلى قرب استشهاده [2].",
+        "choices": [
+            { "choice_text": "اسكت يا عامر", "is_correct": false },
+            { "choice_text": "أعد ما قلت", "is_correct": false },
+            { "choice_text": "هنيئاً لك الشهادة", "is_correct": false },
+            { "choice_text": "متعتنا بعامر (تمنى بقاءه)", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف مرحب نفسه في مبارزته الأولى مع عامر؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'قد علمت خيبر أني مرحب.. شاكي السلاح بطل مجرب' [2].",
+        "choices": [
+            { "choice_text": "أني الأسد الهصور", "is_correct": false },
+            { "choice_text": "شاكي السلاح بطل مجرب", "is_correct": true },
+            { "choice_text": "ملك الحصون المنيعة", "is_correct": false },
+            { "choice_text": "أنا الذي لا يُقهر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين وقع سيف مرحب في مبارزته لعامر بن الأكوع؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر أن سيف مرحب وقع في ترس (درع) عامر [3].",
+        "choices": [
+            { "choice_text": "في رأس عامر", "is_correct": false },
+            { "choice_text": "في ترس عامر", "is_correct": true },
+            { "choice_text": "في الأرض", "is_correct": false },
+            { "choice_text": "في سيف عامر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العرق الذي قُطع من عامر بن الأكوع وتسبب في وفاته؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر المصدر أن سيفه رجع عليه فقطع 'أكحله' [3].",
+        "choices": [
+            { "choice_text": "الوتين", "is_correct": false },
+            { "choice_text": "الأكحل", "is_correct": true },
+            { "choice_text": "الأبهر", "is_correct": false },
+            { "choice_text": "الوريد العضدي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا بكى سلمة بن الأكوع عندما جاء للنبي ﷺ بعد وفاة عمه عامر؟",
+        "difficulty_score": 400,
+        "explanation": "بكى لأن بعض الناس قالوا إن عمل عامر بطل لأنه قتل نفسه خطأً [4].",
+        "choices": [
+            { "choice_text": "حزناً على فراقه فقط", "is_correct": false },
+            { "choice_text": "خوفاً من الهزيمة", "is_correct": false },
+            { "choice_text": "بسبب قول الناس 'بطل عمل عامر'", "is_correct": true },
+            { "choice_text": "لأنه لم يُرزق الشهادة مثله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي تشير إلى 'وعد الله' للمؤمنين بمغانم خيبر في سورة الفتح؟",
+        "difficulty_score": 600,
+        "explanation": "هي قوله تعالى: 'وعدكم الله مغانم كثيرة تأخذونها فعجل لكم هذه' [11، 18].",
+        "choices": [
+            { "choice_text": "إنا فتحنا لك فتحاً مبيناً", "is_correct": false },
+            { "choice_text": "وعدكم الله مغانم كثيرة.. فعجل لكم هذه", "is_correct": true },
+            { "choice_text": "لقد رضي الله عن المؤمنين", "is_correct": false },
+            { "choice_text": "محمد رسول الله والذين معه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الذين حُرموا شرعاً من دخول خيبر لأخذ الغنائم؟",
+        "difficulty_score": 500,
+        "explanation": "هم الذين تخلفوا عن صلح الحديبية (المخلفون) كما ورد في سورة الفتح [5].",
+        "choices": [
+            { "choice_text": "أهل مكة", "is_correct": false },
+            { "choice_text": "بنو قريظة", "is_correct": false },
+            { "choice_text": "المخلفون عن الحديبية", "is_correct": true },
+            { "choice_text": "يهود فدك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدور الأساسي ليهود خيبر في 'غزوة الأحزاب'؟",
+        "difficulty_score": 700,
+        "explanation": "كان لهم الدور الأساسي في تجييش المشركين والأحزاب ضد المدينة [6].",
+        "choices": [
+            { "choice_text": "المشاركة بالقتال المباشر فقط", "is_correct": false },
+            { "choice_text": "تجييش المشركين والأحزاب", "is_correct": true },
+            { "choice_text": "تزويد المسلمين بالسلاح", "is_correct": false },
+            { "choice_text": "الوقوف على الحياد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي قبيلة يهودية أُجليت من المدينة واستوطنت خيبر وبدأت تحيك المؤامرات؟",
+        "difficulty_score": 400,
+        "explanation": "بنو النضير هم الذين استوطنوا خيبر بعد جلائهم من المدينة [14، 15].",
+        "choices": [
+            { "choice_text": "بنو قينقاع", "is_correct": false },
+            { "choice_text": "بنو قريظة", "is_correct": false },
+            { "choice_text": "بنو النضير", "is_correct": true },
+            { "choice_text": "بنو سليم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت جلاء بني النضير؟",
+        "difficulty_score": 300,
+        "explanation": "سورة الحشر هي التي ذكرت إخراجهم 'لأول الحشر' [6].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة الفتح", "is_correct": false },
+            { "choice_text": "سورة الحشر", "is_correct": true },
+            { "choice_text": "سورة الأنفال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم تكن حصون خيبر قلعة واحدة؟",
+        "difficulty_score": 500,
+        "explanation": "لأنها كانت مجموعة كبيرة من القلاع والحصون المنفصلة والمحكمة [7].",
+        "choices": [
+            { "choice_text": "بسبب ضيق المساحة", "is_correct": false },
+            { "choice_text": "كانت قلاعاً وحصوناً كثيرة ومنتشرة", "is_correct": true },
+            { "choice_text": "لأن اليهود كانوا مختلفين", "is_correct": false },
+            { "choice_text": "بسبب طبيعة الأرض الرملية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي قاله ابن عمر رضي الله عنهما عن الشبع بعد خيبر؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'ما شبعنا إلا حين فتحت خيبر' [17، 18].",
+        "choices": [
+            { "choice_text": "شبعنا منذ هاجرنا", "is_correct": false },
+            { "choice_text": "ما شبعنا إلا حين فتحت خيبر", "is_correct": true },
+            { "choice_text": "كنا نشبع من غنائم مكة", "is_correct": false },
+            { "choice_text": "لم نشبع أبداً في حياة النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'أكفأوا القدور' التي أمر بها النبي ﷺ في خيبر؟",
+        "difficulty_score": 600,
+        "explanation": "أي اقلبوها وأفرغوا ما فيها من لحم الحمر الأهلية المحرم [8].",
+        "choices": [
+            { "choice_text": "اشعلوها", "is_correct": false },
+            { "choice_text": "اقلبوها وأفرغوها", "is_correct": true },
+            { "choice_text": "غطوها جيداً", "is_correct": false },
+            { "choice_text": "اغسلوها بالتراب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان تأمين المياه في حصون خيبر؟",
+        "difficulty_score": 800,
+        "explanation": "كانت لديهم مجاري مياه معينة تأتي تحت الحصن لضمان الاكتفاء أثناء الحصار [9].",
+        "choices": [
+            { "choice_text": "يعتمدون على المطر فقط", "is_correct": false },
+            { "choice_text": "لديهم مجاري مياه تحت الحصن", "is_correct": true },
+            { "choice_text": "يخرجون للبئر يومياً", "is_correct": false },
+            { "choice_text": "كانوا يخزنون الماء في جرار فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الخميس' في قول اليهود 'محمد والخميس'؟",
+        "difficulty_score": 600,
+        "explanation": "الخميس هو الجيش المنقسم إلى خمسة أقسام [10].",
+        "choices": [
+            { "choice_text": "يوم الخميس", "is_correct": false },
+            { "choice_text": "الجيش المكون من 5 فرق", "is_correct": true },
+            { "choice_text": "خمسة آلاف مقاتل", "is_correct": false },
+            { "choice_text": "السلاح الثقيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أهدى النبي ﷺ الشاة المسمومة؟",
+        "difficulty_score": 900,
+        "explanation": "لم يهدها صحابي، بل امرأة يهودية من أهل خيبر [11].",
+        "choices": [
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "امرأة يهودية", "is_correct": true },
+            { "choice_text": "سلمة بن الأكوع", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل النبي ﷺ عندما سأل اليهود: 'هل جعلتم في هذه الشاة سماً؟'؟",
+        "difficulty_score": 500,
+        "explanation": "اعترفوا بذلك وقالوا: 'نعم' [12].",
+        "choices": [
+            { "choice_text": "أنكروا بشدة", "is_correct": false },
+            { "choice_text": "قالوا نعم", "is_correct": true },
+            { "choice_text": "هربوا من المجلس", "is_correct": false },
+            { "choice_text": "اتهموا المسلمين بوضع السم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا برر اليهود وضعهم للسم في الشاة؟",
+        "difficulty_score": 700,
+        "explanation": "قالوا: 'إن كنت كاذباً استرحنا منك، وإن كنت نبياً لم يضرك' [12].",
+        "choices": [
+            { "choice_text": "قالوا فعلنا ذلك خطأً", "is_correct": false },
+            { "choice_text": "اختبار للنبوة أو تخلص من كاذب", "is_correct": true },
+            { "choice_text": "قالوا كنا نمزح", "is_correct": false },
+            { "choice_text": "انتقاماً لمرحب فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'لهوات' النبي ﷺ التي ذُكرت في سياق أثر السم؟",
+        "difficulty_score": 800,
+        "explanation": "هي سقف الفم (اللحمة التي في أقصى سقف الفم)، حيث بقي أثر السم يُرى فيها [13].",
+        "choices": [
+            { "choice_text": "أسنانه", "is_correct": false },
+            { "choice_text": "لهواته (سقف الفم)", "is_correct": true },
+            { "choice_text": "كفيه", "is_correct": false },
+            { "choice_text": "عينيه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف القرآني الذي أكده المصدر عن علاقة اليهود بالأنبياء؟",
+        "difficulty_score": 600,
+        "explanation": "وصفهم بأنهم 'قتلة الأنبياء' بناءً على قوله 'فلم تقتلون أنبياء الله من قبل' [35، 36].",
+        "choices": [
+            { "choice_text": "أعداء المصلحين", "is_correct": false },
+            { "choice_text": "قتلة الأنبياء", "is_correct": true },
+            { "choice_text": "مكذبو الرسل فقط", "is_correct": false },
+            { "choice_text": "خونة العهود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي 'أم المؤمنين' التي تزوجها النبي ﷺ في خيبر؟",
+        "difficulty_score": 400,
+        "explanation": "هي صفية بنت حيي بن أخطب رضي الله عنها [8].",
+        "choices": [
+            { "choice_text": "عائشة بنت أبي بكر", "is_correct": false },
+            { "choice_text": "صفية بنت حيي", "is_correct": true },
+            { "choice_text": "حفصة بنت عمر", "is_correct": false },
+            { "choice_text": "جويرية بنت الحارث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المبزرة' أو 'المساحي' التي كان يحملها اليهود؟",
+        "difficulty_score": 800,
+        "explanation": "هي أدوات الزراعة والحرث والجني [10].",
+        "choices": [
+            { "choice_text": "أدوات زراعية", "is_correct": true },
+            { "choice_text": "أسلحة ثقيلة", "is_correct": false },
+            { "choice_text": "معدات بناء الحصون", "is_correct": false },
+            { "choice_text": "أدوات طبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال علي بن أبي طالب عندما سأل النبي ﷺ: 'على ماذا أقاتلهم؟'؟",
+        "difficulty_score": 600,
+        "explanation": "قال له النبي ﷺ: 'قاتلهم حتى يشهدوا أن لا إله إلا الله'، مع البدء بالدعوة أولاً [25، 26].",
+        "choices": [
+            { "choice_text": "على أموالهم ونخيلهم", "is_correct": false },
+            { "choice_text": "على أن يشهدوا أن لا إله إلا الله", "is_correct": true },
+            { "choice_text": "انتقاماً للشهداء", "is_correct": false },
+            { "choice_text": "على الجزية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان حال المهاجرين قبل فتح خيبر تجاه الأنصار؟",
+        "difficulty_score": 500,
+        "explanation": "كانوا يعيشون على منائح (هبات) الأنصار من التمر والثمر [17، 18].",
+        "choices": [
+            { "choice_text": "كانوا أغنى منهم", "is_correct": false },
+            { "choice_text": "كانوا يعيشون على منائح الأنصار", "is_correct": true },
+            { "choice_text": "كانوا يعملون في التجارة الخارجية", "is_correct": false },
+            { "choice_text": "كانوا يرفضون المساعدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي دلالة قول النبي ﷺ 'الله أكبر خربت خيبر'؟",
+        "difficulty_score": 700,
+        "explanation": "دلالة على اهتزاز حصونها نفسياً ومعنوياً بمجرد وصول جيش المسلمين [10].",
+        "choices": [
+            { "choice_text": "بسبب وقوع زلزال", "is_correct": false },
+            { "choice_text": "بسبب الهيبة والنصر المعنوي", "is_correct": true },
+            { "choice_text": "لأن الحصون كانت مهدمة أصلاً", "is_correct": false },
+            { "choice_text": "بسبب استخدام المنجنيق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الكيل' الذي ذكره علي بن أبي طالب في أرجوزته؟",
+        "difficulty_score": 900,
+        "explanation": "قال: 'أوفيهم بالصاع كيل السندره'، والمقصود القتل الواسع أو الجزاء الوافي [14].",
+        "choices": [
+            { "choice_text": "كيل الطعام", "is_correct": false },
+            { "choice_text": "كيل السندره (القتل والجزاء الوافي)", "is_correct": true },
+            { "choice_text": "كيل الذهب", "is_correct": false },
+            { "choice_text": "كيل المسافات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة ذكره المصدر كمثال للرجل 'الخجول الحيي'؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر عثمان بن عفان كنموذج لهذا الخلق في مدرسة النبوة [15].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'سيد اليهود وملكهم' الذي قتله علي؟",
+        "difficulty_score": 200,
+        "explanation": "هو مرحب [7، 30].",
+        "choices": [
+            { "choice_text": "حيي بن أخطب", "is_correct": false },
+            { "choice_text": "مرحب", "is_correct": true },
+            { "choice_text": "سلام بن مشكم", "is_correct": false },
+            { "choice_text": "أبو رافع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من 'شفاء عين علي' بالريق النبوي؟",
+        "difficulty_score": 600,
+        "explanation": "تأييد الله لنبيه بالمعجزات لزيادة يقين المؤمنين وإعداد القائد للمهمة [16].",
+        "choices": [
+            { "choice_text": "أهمية الطب الشعبي", "is_correct": false },
+            { "choice_text": "تأييد الله لنبيه بالمعجزات والكرامات", "is_correct": true },
+            { "choice_text": "وجوب اعتزال القتال للمريض", "is_correct": false },
+            { "choice_text": "أن علي كان يدعي المرض", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي كان عليها الناس ليلة خيبر؟",
+        "difficulty_score": 500,
+        "explanation": "كانوا 'يدوكون' (يخوضون ويتحدثون) طمعاً في شرف حمل الراية [22، 23].",
+        "choices": [
+            { "choice_text": "نائمين من التعب", "is_correct": false },
+            { "choice_text": "يخططون للهرب", "is_correct": false },
+            { "choice_text": "يدوكون ويتحدثون أيهم يعطاها", "is_correct": true },
+            { "choice_text": "يأكلون من غنائم ذي قرد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفارق بين قتال النبي ﷺ وقتال 'الهيمنة' في العصر الحديث؟",
+        "difficulty_score": 700,
+        "explanation": "قتال النبي ﷺ دعوي وهداية، بينما قتال الهيمنة غرضه التدمير والسيطرة الاقتصادية [17].",
+        "choices": [
+            { "choice_text": "لا يوجد فارق", "is_correct": false },
+            { "choice_text": "قتال النبي ﷺ غرضه الهداية والدعوة", "is_correct": true },
+            { "choice_text": "قتال الهيمنة أرحم", "is_correct": false },
+            { "choice_text": "قتال النبي ﷺ كان للسيطرة على آبار النفط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الصاع' الذي ذكره علي في أرجوزته؟",
+        "difficulty_score": 800,
+        "explanation": "أراد به المكيال الذي يعبر عن رد الصاع صاعين في القتال والجزاء [14].",
+        "choices": [
+            { "choice_text": "صاع الطعام", "is_correct": false },
+            { "choice_text": "مكيال الجزاء الوافي (رد الصاع)", "is_correct": true },
+            { "choice_text": "صاع الفطر", "is_correct": false },
+            { "choice_text": "صاع الماء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يقتل النبي ﷺ المرأة اليهودية في 'حق نفسه'؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه كان أكمل الناس حلماً وعفواً عن حقه الشخصي [13].",
+        "choices": [
+            { "choice_text": "لأنه لم يعرف أنها هي", "is_correct": false },
+            { "choice_text": "لكمال حلمه وعفوه الشخصي", "is_correct": true },
+            { "choice_text": "خوفاً من أهلها", "is_correct": false },
+            { "choice_text": "لأنها أسلمت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'المصلح' الذي يجب أن يكون داعياً في كل أحواله حسب المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "المسلم المصلح هو الذي يكون داعياً في الشدة والرخاء والسجن والوظيفة [18].",
+        "choices": [
+            { "choice_text": "العالم المتفرغ فقط", "is_correct": false },
+            { "choice_text": "كل مسلم مصلح", "is_correct": true },
+            { "choice_text": "الجندي في المعركة فقط", "is_correct": false },
+            { "choice_text": "الإمام في المسجد فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من بقاء حصون خيبر 'قائمة' حتى اليوم؟",
+        "difficulty_score": 700,
+        "explanation": "نستنتج إحكام البناء اليهودي وعظمة الفتح الإسلامي الذي اقتحمها [15، 16].",
+        "choices": [
+            { "choice_text": "أنها لم تُفتح أبداً", "is_correct": false },
+            { "choice_text": "إحكام البناء وعظمة النصر المسلم", "is_correct": true },
+            { "choice_text": "أنها بُنيت حديثاً للسياحة", "is_correct": false },
+            { "choice_text": "أن المسلمين لم يهدموها خوفاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه النبي ﷺ على علي بن أبي طالب في يوم خيبر؟",
+        "difficulty_score": 300,
+        "explanation": "لقبه بالرجل الذي 'يحبه الله ورسوله ويحب الله ورسوله' [9، 22].",
+        "choices": [
+            { "choice_text": "الصديق", "is_correct": false },
+            { "choice_text": "الفاروق", "is_correct": false },
+            { "choice_text": "الرجل الذي يحبه الله ورسوله", "is_correct": true },
+            { "choice_text": "ذو النورين", "is_correct": false }
+        ]
+    }
+]
+    }

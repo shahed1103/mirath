@@ -1,0 +1,884 @@
+    {
+    "chapter_id": 54,
+    "questions": [
+        {
+        "question_text": "ما هو المكان الذي نزل فيه المسلمون بالمدينة وكانوا يخرجون إليه كل غداة بانتظار الرسول ﷺ؟",
+        "difficulty_score": 100,
+        "explanation": "ذكرت المصادر أن المسلمين بالمدينة كانوا يخرجون كل غداة إلى 'الحرة' ينتظرون رسول الله ﷺ حتى يطردهم حر الظهيرة [7].",
+        "choices": [
+            { "choice_text": "قباء", "is_correct": false },
+            { "choice_text": "الحرة", "is_correct": true },
+            { "choice_text": "بقيع الغرقد", "is_correct": false },
+            { "choice_text": "جبل أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول من بصر برسول الله ﷺ وأصحابه عند وصولهم للمدينة؟",
+        "difficulty_score": 200,
+        "explanation": "بصر به رجل من اليهود كان على أطم (حصن) من آطامهم، فنادى بأعلى صوته يخبر العرب بوصول جَدّهم [8].",
+        "choices": [
+            { "choice_text": "أبو أيوب الأنصاري", "is_correct": false },
+            { "choice_text": "عبد الله بن سلام", "is_correct": false },
+            { "choice_text": "رجل من اليهود", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي يوم من أيام الأسبوع وصل النبي ﷺ إلى قباء؟",
+        "difficulty_score": 300,
+        "explanation": "نزل النبي ﷺ في بني عمرو بن عوف بقباء يوم الاثنين من شهر ربيع الأول [9].",
+        "choices": [
+            { "choice_text": "يوم الجمعة", "is_correct": false },
+            { "choice_text": "يوم الاثنين", "is_correct": true },
+            { "choice_text": "يوم الخميس", "is_correct": false },
+            { "choice_text": "يوم الأحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل أبو بكر الصديق رضي الله عنه عندما أصابت الشمس رسول الله ﷺ عند وصوله؟",
+        "difficulty_score": 200,
+        "explanation": "عندما أصابت الشمس رسول الله ﷺ، أقبل أبو بكر حتى ظلل عليه بردائه، فعرف الناس رسول الله ﷺ بذلك [10].",
+        "choices": [
+            { "choice_text": "قدم له الماء", "is_correct": false },
+            { "choice_text": "ظلل عليه بردائه", "is_correct": true },
+            { "choice_text": "أعطاه ناقته", "is_correct": false },
+            { "choice_text": "بنى له مظلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "قال أنس بن مالك: 'لما كان اليوم الذي دخل فيه رسول الله ﷺ المدينة ... '، فبماذا وصف ذلك اليوم؟",
+        "difficulty_score": 400,
+        "explanation": "وصف أنس بن مالك ذلك اليوم بقوله: 'أضاء منها كل شيء' [11].",
+        "choices": [
+            { "choice_text": "كان يوماً حاراً", "is_correct": false },
+            { "choice_text": "أضاء منها كل شيء", "is_correct": true },
+            { "choice_text": "كان يوماً هادئاً", "is_correct": false },
+            { "choice_text": "ازدحمت فيه الطرق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان يقطن بنو عمرو بن عوف في المدينة؟",
+        "difficulty_score": 200,
+        "explanation": "كان بنو عمرو بن عوف يسكنون في منطقة قباء [11، 14].",
+        "choices": [
+            { "choice_text": "وسط المدينة", "is_correct": false },
+            { "choice_text": "قباء", "is_correct": true },
+            { "choice_text": "العوالي", "is_correct": false },
+            { "choice_text": "بني النجار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا نزل النبي ﷺ في قباء أولاً عند قدومه من مكة؟",
+        "difficulty_score": 400,
+        "explanation": "لأن قباء هي أول ما يستقبل الآتي من المنطقة الجنوبية (مكة) إلى المدينة [14، 15].",
+        "choices": [
+            { "choice_text": "لأن أصحابه كانوا هناك", "is_correct": false },
+            { "choice_text": "لأنها كانت المركز التجاري", "is_correct": false },
+            { "choice_text": "لأنها أول ما يستقبل القادم من مكة", "is_correct": true },
+            { "choice_text": "بناءً على رؤيا رآها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم تستغرق المسافة مشياً تقريباً بين المسجد النبوي ومسجد قباء كما ذكر المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن المسافة بينهما تستغرق مشياً حدود ساعة [15، 16].",
+        "choices": [
+            { "choice_text": "نصف ساعة", "is_correct": false },
+            { "choice_text": "ساعة واحدة", "is_correct": true },
+            { "choice_text": "ساعتين", "is_correct": false },
+            { "choice_text": "عشر دقائق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اسم المسجد الذي صلى فيه النبي ﷺ الجمعة وهو في طريقه من قباء إلى المدينة؟",
+        "difficulty_score": 300,
+        "explanation": "الموضع الذي صلى فيه النبي ﷺ الجمعة مشهور اليوم باسم 'مسجد الجمعة' [12].",
+        "choices": [
+            { "choice_text": "مسجد القبلتين", "is_correct": false },
+            { "choice_text": "مسجد الغمامة", "is_correct": false },
+            { "choice_text": "مسجد الجمعة", "is_correct": true },
+            { "choice_text": "مسجد الفتح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أجاب النبي ﷺ الأنصار الذين كانوا يعترضون ناقته طلباً لنزوله عندهم؟",
+        "difficulty_score": 200,
+        "explanation": "كان يقول لهم: 'دعوا الناقة فإنها مأمورة' [13].",
+        "choices": [
+            { "choice_text": "سأنزل عند أبي أيوب", "is_correct": false },
+            { "choice_text": "دعوا الناقة فإنها مأمورة", "is_correct": true },
+            { "choice_text": "سأبني مسجدي أولاً", "is_correct": false },
+            { "choice_text": "اختاروا لي مكاناً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عند من بركت ناقة النبي ﷺ في دار بني النجار؟",
+        "difficulty_score": 100,
+        "explanation": "بركت الناقة بفناء بيت أبي أيوب الأنصاري رضي الله عنه [1].",
+        "choices": [
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "أبي أيوب الأنصاري", "is_correct": true },
+            { "choice_text": "أسعد بن زرارة", "is_correct": false },
+            { "choice_text": "أنس بن مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي رُويت عن النبي ﷺ عندما أخذ أبو أيوب متاعه إلى داره؟",
+        "difficulty_score": 400,
+        "explanation": "يُروى أن النبي ﷺ قال: 'المرء مع متاعه' [14].",
+        "choices": [
+            { "choice_text": "البيت بيتك", "is_correct": false },
+            { "choice_text": "المرء مع متاعه", "is_correct": true },
+            { "choice_text": "جزاك الله خيراً", "is_correct": false },
+            { "choice_text": "أين وضعت المتاع؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لمن كان 'المربد' (مكان تجفيف التمر) الذي اختاره النبي ﷺ لبناء مسجده؟",
+        "difficulty_score": 500,
+        "explanation": "كان لغلامين يتيمين هما سهل وسهيل، كانا في حجر أسعد بن زرارة [15].",
+        "choices": [
+            { "choice_text": "لأبي أيوب الأنصاري", "is_correct": false },
+            { "choice_text": "لغلامين يتيمين (سهل وسهيل)", "is_correct": true },
+            { "choice_text": "لبني النجار كافة", "is_correct": false },
+            { "choice_text": "لعبد الله بن أبي سلول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا وجد النبي ﷺ في مكان بناء المسجد قبل تسويته؟",
+        "difficulty_score": 600,
+        "explanation": "كان في المكان قبور للمشركين، وخرب (أبنية مهدومة)، ونخل [16].",
+        "choices": [
+            { "choice_text": "بئر ماء", "is_correct": false },
+            { "choice_text": "قبور للمشركين وخرب ونخل", "is_correct": true },
+            { "choice_text": "سوق قديم", "is_correct": false },
+            { "choice_text": "أرض فضاء تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان النبي ﷺ يقول وهو ينقل اللبن مع الصحابة في بناء المسجد؟",
+        "difficulty_score": 500,
+        "explanation": "كان يرتجز ويقول: 'اللهم لا خير إلا خير الآخرة، فاغفر للأنصار والمهاجرة' (وفي رواية أخرى 'فارحم') [21، 24].",
+        "choices": [
+            { "choice_text": "حي على الصلاة", "is_correct": false },
+            { "choice_text": "اللهم لا خير إلا خير الآخرة", "is_correct": true },
+            { "choice_text": "هذا البناء لله", "is_correct": false },
+            { "choice_text": "بارك الله في عملكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في عهد أي خليفة تم تغيير أعمدة المسجد النبوي إلى حجارة منقوشة وسقفه بالساج؟",
+        "difficulty_score": 700,
+        "explanation": "زاد فيه عثمان بن عفان زيادة كثيرة وبنى جداره بالحجارة المنقوشة والقصة، وجعل عمده من حجارة منقوشة وسقفه بالساج [25، 26].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت أرضية المسجد النبوي في عهد النبي ﷺ؟",
+        "difficulty_score": 400,
+        "explanation": "كان المسجد تراباً، ولم يكن مفروشاً، ويظهر ذلك من حديث السجود في الماء والطين [26، 27].",
+        "choices": [
+            { "choice_text": "مفروشة بالخمرة", "is_correct": false },
+            { "choice_text": "تراب", "is_correct": true },
+            { "choice_text": "مرصوفة بالحجارة", "is_correct": false },
+            { "choice_text": "مغطاة بالجلد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من بناء المسجد كأول عمل في المدينة؟",
+        "difficulty_score": 500,
+        "explanation": "الدرس هو إبراز قيمة ومركزية الصلاة كمنطلق وأساس لأعمال الأمة [28، 30].",
+        "choices": [
+            { "choice_text": "توفير مكان للنوم", "is_correct": false },
+            { "choice_text": "مركزية الصلاة كمنطلق للأمة", "is_correct": true },
+            { "choice_text": "إظهار القوة المعمارية", "is_correct": false },
+            { "choice_text": "منافسة كنائس النصارى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه المقترحات قُدمت لجمع الناس للصلاة قبل تشريع الأذان؟",
+        "difficulty_score": 600,
+        "explanation": "رُوي أنهم فكروا في اتخاذ ناقوس مثل النصارى، أو بوق مثل قرن اليهود، أو رفع علم [17].",
+        "choices": [
+            { "choice_text": "المنادي في الأسواق", "is_correct": false },
+            { "choice_text": "الناقوس أو البوق", "is_correct": true },
+            { "choice_text": "إشعال نار كبيرة", "is_correct": false },
+            { "choice_text": "الضرب على الطبول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أمر النبي ﷺ بلالاً أن يؤذن بالرؤيا التي رآها عبد الله بن زيد؟",
+        "difficulty_score": 400,
+        "explanation": "قال له النبي ﷺ: 'قم مع بلال فألقِ عليه ما رأيت فليؤذن به، فإنه أندى صوتاً منك' [4].",
+        "choices": [
+            { "choice_text": "لأن بلالاً كان أعلم", "is_correct": false },
+            { "choice_text": "لأن بلالاً كان أندى صوتاً", "is_correct": true },
+            { "choice_text": "لأن عبد الله كان مشغولاً", "is_correct": false },
+            { "choice_text": "لأن بلالاً طلب ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كانت تُعرف المدينة من الناحية الصحية قبل وصول النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "كانت المدينة معروفة بأنها موبوءة بـ 'حمى يثرب' [18].",
+        "choices": [
+            { "choice_text": "بكثرة مياهها العذبة", "is_correct": false },
+            { "choice_text": "بأنها موبوءة بالحمى", "is_correct": true },
+            { "choice_text": "باعتدال جوها صيفاً", "is_correct": false },
+            { "choice_text": "بندرة الأمراض فيها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرؤية التي رآها النبي ﷺ وعبرها بخروج الوباء من المدينة؟",
+        "difficulty_score": 700,
+        "explanation": "رأى امرأة سوداء ثائرة الرأس تخرج من المدينة، فعبرها بخروج الوباء إلى الجحفة [19].",
+        "choices": [
+            { "choice_text": "نهر يجري خارجاً", "is_correct": false },
+            { "choice_text": "امرأة سوداء ثائرة الرأس تخرج", "is_correct": true },
+            { "choice_text": "سحابة سوداء تنقشع", "is_correct": false },
+            { "choice_text": "غراب يطير بعيداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين حصلت 'المؤاخاة' بين المهاجرين والأنصار؟",
+        "difficulty_score": 600,
+        "explanation": "ثبت في صحيح البخاري أن المؤاخاة كانت في دار أنس بن مالك رضي الله عنه [20].",
+        "choices": [
+            { "choice_text": "في المسجد النبوي", "is_correct": false },
+            { "choice_text": "في دار أنس بن مالك", "is_correct": true },
+            { "choice_text": "في دار أبي بكر", "is_correct": false },
+            { "choice_text": "عند بئر روحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي آخى النبي ﷺ بينه وبين عبد الرحمن بن عوف؟",
+        "difficulty_score": 500,
+        "explanation": "آخى النبي ﷺ بين عبد الرحمن بن عوف وسعد بن الربيع الأنصاري [21].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "سعد بن الربيع", "is_correct": true },
+            { "choice_text": "أسعد بن زرارة", "is_correct": false },
+            { "choice_text": "عثمان بن مظعون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما العرض الذي قدمه سعد بن الربيع لعبد الرحمن بن عوف عند المؤاخاة؟",
+        "difficulty_score": 600,
+        "explanation": "عرض عليه أن يقسم ماله نصفين، وأن يطلق إحدى زوجتيه ليختارها عبد الرحمن [21].",
+        "choices": [
+            { "choice_text": "أن يسكن معه فقط", "is_correct": false },
+            { "choice_text": "أن يشاطره ماله وزوجاته", "is_correct": true },
+            { "choice_text": "أن يعطيه نصف تجارته", "is_correct": false },
+            { "choice_text": "أن يزوجه ابنته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى أي حد كان يصل نظام 'المؤاخاة' في بدايته قبل أن يُنسخ؟",
+        "difficulty_score": 700,
+        "explanation": "كانت المؤاخاة تصل في البداية إلى حد 'الإرث' بين المتآخيين دون نسب [50، 52].",
+        "choices": [
+            { "choice_text": "السكن المشترك فقط", "is_correct": false },
+            { "choice_text": "الإرث", "is_correct": true },
+            { "choice_text": "حمل السلاح معاً فقط", "is_correct": false },
+            { "choice_text": "الاشتراك في الطعام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي نسخت التوارث بالمؤاخاة؟",
+        "difficulty_score": 800,
+        "explanation": "نسخ ذلك قوله تعالى في أواخر سورة الأنفال: 'وأولو الأرحام بعضهم أولى ببعض' [50، 52].",
+        "choices": [
+            { "choice_text": "إنما المؤمنون إخوة", "is_correct": false },
+            { "choice_text": "وأولو الأرحام بعضهم أولى ببعض", "is_correct": true },
+            { "choice_text": "آمنوا وهاجروا وجاهدوا", "is_correct": false },
+            { "choice_text": "يا أيها الذين آمنوا اتقوا الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو حبر اليهود الذي أسلم بمجرد رؤيته للنبي ﷺ وسؤاله عن أشياء؟",
+        "difficulty_score": 400,
+        "explanation": "هو عبد الله بن سلام رضي الله عنه [22].",
+        "choices": [
+            { "choice_text": "كعب الأحبار", "is_correct": false },
+            { "choice_text": "عبد الله بن سلام", "is_correct": true },
+            { "choice_text": "حيي بن أخطب", "is_correct": false },
+            { "choice_text": "مخيريق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال اليهود عن عبد الله بن سلام قبل أن يعلموا بإسلامه؟",
+        "difficulty_score": 500,
+        "explanation": "قالوا عنه: 'خيرنا وابن خيرنا، وأفضلنا وابن أفضلنا' [22].",
+        "choices": [
+            { "choice_text": "رجل عادي", "is_correct": false },
+            { "choice_text": "خيرنا وابن خيرنا", "is_correct": true },
+            { "choice_text": "لا نعرفه", "is_correct": false },
+            { "choice_text": "هو ساحرنا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف اليهود عبد الله بن سلام فور إعلانه إسلامه؟",
+        "difficulty_score": 500,
+        "explanation": "قالوا عنه فوراً: 'شرنا وابن شرنا'، وتنقصوه [23].",
+        "choices": [
+            { "choice_text": "ضل ضلالاً بعيداً", "is_correct": false },
+            { "choice_text": "شرنا وابن شرنا", "is_correct": true },
+            { "choice_text": "هو منافق", "is_correct": false },
+            { "choice_text": "لا نصدقه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى حصل حادث تحويل القبلة تقريباً بعد قدوم النبي ﷺ للمدينة؟",
+        "difficulty_score": 800,
+        "explanation": "حصل بعد سبعة عشر أو ثمانية عشر شهراً من قدومه ﷺ للمدينة [24].",
+        "choices": [
+            { "choice_text": "بعد شهرين", "is_correct": false },
+            { "choice_text": "بعد سنة ونصف (17-18 شهراً)", "is_correct": true },
+            { "choice_text": "بعد ثلاث سنوات", "is_correct": false },
+            { "choice_text": "مباشرة عند الوصول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي فصلت في الرد على شبهات اليهود والمنافقين حول تحويل القبلة؟",
+        "difficulty_score": 600,
+        "explanation": "سورة البقرة هي التي عرضت أحداث تحويل القبلة والرد على المعترضين [63، 65].",
+        "choices": [
+            { "choice_text": "سورة آل عمران", "is_correct": false },
+            { "choice_text": "سورة البقرة", "is_correct": true },
+            { "choice_text": "سورة المائدة", "is_correct": false },
+            { "choice_text": "سورة الأنفال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه القرآن على من اعترض على تحويل القبلة؟",
+        "difficulty_score": 700,
+        "explanation": "سماهم القرآن 'السفهاء' في قوله تعالى: 'سيقول السفهاء من الناس ما ولاهم عن قبلتهم' [25].",
+        "choices": [
+            { "choice_text": "الكافرون", "is_correct": false },
+            { "choice_text": "السفهاء", "is_correct": true },
+            { "choice_text": "المشركون", "is_correct": false },
+            { "choice_text": "الظالمون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان المشركون يأملون من تحويل القبلة نحو مكة؟",
+        "difficulty_score": 800,
+        "explanation": "تكلموا وقالوا إن هذه الخطوة الأولى وسيرجع النبي ﷺ لدينهم بعد أن رجع لقبلتهم [26].",
+        "choices": [
+            { "choice_text": "أن يسلموا جميعاً", "is_correct": false },
+            { "choice_text": "أن يترك مكة للأبد", "is_correct": false },
+            { "choice_text": "أنها خطوة لرجوعه لدينهم", "is_correct": true },
+            { "choice_text": "أن يهاجمهم فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر المصدر تسمية 'سورة البقرة' بهذا الاسم في سياق حادثة القبلة؟",
+        "difficulty_score": 900,
+        "explanation": "لأن قصة البقرة تدور حول 'الاعتراض' على أوامر الله وكثرة الأسئلة، وهو نفس روح اعتراض السفهاء على تحويل القبلة [27].",
+        "choices": [
+            { "choice_text": "لأنها أطول سورة", "is_correct": false },
+            { "choice_text": "ارتباطها بمفهوم الاعتراض على الوحي", "is_correct": true },
+            { "choice_text": "لأنها نزلت في عيد الأضحى", "is_correct": false },
+            { "choice_text": "لذكرها أحكام الذبح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يُقصد بكلمة 'إيمانكم' في قوله تعالى: 'وما كان الله ليضيع إيمانكم'؟",
+        "difficulty_score": 800,
+        "explanation": "المقصود بها صلاتكم التي صليتموها إلى القبلة الأولى (بيت المقدس) [70، 71].",
+        "choices": [
+            { "choice_text": "توحيدكم لله", "is_correct": false },
+            { "choice_text": "صلاتكم نحو القبلة الأولى", "is_correct": true },
+            { "choice_text": "صدقاتكم", "is_correct": false },
+            { "choice_text": "هجرتكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'شياطين' المنافقين الذين ذكروا في سورة البقرة: 'وإذا خلوا إلى شياطينهم'؟",
+        "difficulty_score": 800,
+        "explanation": "المقصود بهم 'اليهود' الذين كانوا يفتنون المنافقين ويشككونهم [27].",
+        "choices": [
+            { "choice_text": "إبليس وأعوانه", "is_correct": false },
+            { "choice_text": "اليهود", "is_correct": true },
+            { "choice_text": "كبار المشركين في مكة", "is_correct": false },
+            { "choice_text": "أهواؤهم الشخصية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وصف القرآن لمعرفة أهل الكتاب بصدق النبي ﷺ؟",
+        "difficulty_score": 700,
+        "explanation": "وصفهم بأنهم: 'يعرفونه كما يعرفون أبناءهم' [28].",
+        "choices": [
+            { "choice_text": "يعرفونه من كتبهم فقط", "is_correct": false },
+            { "choice_text": "يعرفونه كما يعرفون أبناءهم", "is_correct": true },
+            { "choice_text": "يجهلونه تماماً", "is_correct": false },
+            { "choice_text": "يشكون في أمره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحكمة من جعل 'الرمل' سنة في العمرة باقية حتى اليوم؟",
+        "difficulty_score": 900,
+        "explanation": "بقي كدرس للأمة في إظهار القوة والجلد وعدم العجز، ولأنه فعل النبي ﷺ وأصحابه [42، 43].",
+        "choices": [
+            { "choice_text": "لسرعة إنهاء الطواف", "is_correct": false },
+            { "choice_text": "إظهار القوة والجلد", "is_correct": true },
+            { "choice_text": "لتخفيف الزحام", "is_correct": false },
+            { "choice_text": "لأنه رياضة مفيدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى قوله ﷺ: 'أرادكم يا بني حارثة قد خرجتم من الحرم'؟",
+        "difficulty_score": 900,
+        "explanation": "يدل على أن بيوت بني حارثة كانت في طرف المدينة خارج حدود الحرم القديمة [13، 14].",
+        "choices": [
+            { "choice_text": "أنهم طُردوا من المدينة", "is_correct": false },
+            { "choice_text": "أن بيوتهم كانت على طرف المدينة", "is_correct": true },
+            { "choice_text": "أنهم ذهبوا للصيد", "is_correct": false },
+            { "choice_text": "أنهم غير مؤمنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا رد عبد الرحمن بن عوف على سعد بن الربيع عندما عرض عليه مشاطرته ماله وزوجاته؟",
+        "difficulty_score": 300,
+        "explanation": "رد عبد الرحمن بن عوف بشكره والدعاء له بالبركة، وطلب منه أن يدله على السوق ليبدأ العمل بنفسه [1].",
+        "choices": [
+            { "choice_text": "قبل العرض فوراً", "is_correct": false },
+            { "choice_text": "بارك الله لك في أهلك ومالك، دلني على السوق", "is_correct": true },
+            { "choice_text": "طلب مهلة للتفكير", "is_correct": false },
+            { "choice_text": "وافق على المال ورفض الزوجات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المهر الذي قدمه عبد الرحمن بن عوف لزوجته عندما رآه النبي ﷺ وعليه أثر صفرة؟",
+        "difficulty_score": 600,
+        "explanation": "أخبر عبد الرحمن بن عوف النبي ﷺ أنه تزوج امرأة على وزن 'نواة من ذهب' [1].",
+        "choices": [
+            { "choice_text": "عشرة دراهم", "is_correct": false },
+            { "choice_text": "نواة من ذهب", "is_correct": true },
+            { "choice_text": "ناقة", "is_correct": false },
+            { "choice_text": "بستان نخل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ لعبد الرحمن بن عوف عندما علم بزواجه؟",
+        "difficulty_score": 400,
+        "explanation": "دعا له بالبركة وأمره بعمل وليمة قائلاً: 'أولم ولو بشاة' [1].",
+        "choices": [
+            { "choice_text": "أولم ولو بشاة", "is_correct": true },
+            { "choice_text": "أتم الله عليك النعمة", "is_correct": false },
+            { "choice_text": "لماذا لم تخبرني؟", "is_correct": false },
+            { "choice_text": "بارك الله لك في ذريتك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر بيوت النبي ﷺ (حجراته) التي بنيت بجوار المسجد؟",
+        "difficulty_score": 500,
+        "explanation": "وصفها المصدر بأنها كانت 'صغيرة جداً' وبسيطة، وليست قصوراً أو بيوتاً واسعة [2].",
+        "choices": [
+            { "choice_text": "كانت واسعة ومريحة", "is_correct": false },
+            { "choice_text": "كانت صغيرة جداً", "is_correct": true },
+            { "choice_text": "بنيت من الرخام", "is_correct": false },
+            { "choice_text": "كانت مكونة من عدة طوابق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المبدأ الذي أسسه النبي ﷺ من خلال جعل المسجد أول عمل في المدينة؟",
+        "difficulty_score": 400,
+        "explanation": "تأسيس مبدأ 'مركزية الصلاة' كمنطلق لجميع أعمال الأمة وتوجهاتها [28، 30].",
+        "choices": [
+            { "choice_text": "التوسع العمراني المادي", "is_correct": false },
+            { "choice_text": "مركزية الصلاة كمنطلق للأعمال", "is_correct": true },
+            { "choice_text": "إبعاد الناس عن السوق", "is_correct": false },
+            { "choice_text": "منافسة حضارات الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما العلاقة بين انتظام صفوف الصلاة واجتماع القلوب؟",
+        "explanation": "استشهد المصدر بقول النبي ﷺ: 'استووا ولا تختلفوا فتختلف قلوبكم'، مبيناً أن انتظام الظاهر يؤثر في باطن الأمة [3].",
+        "difficulty_score": 700,
+        "choices": [
+            { "choice_text": "لا توجد علاقة بينهما", "is_correct": false },
+            { "choice_text": "انتظام الصفوف يؤدي لاجتماع القلوب", "is_correct": true },
+            { "choice_text": "القلوب تجتمع بالقوة فقط", "is_correct": false },
+            { "choice_text": "انتظام الصفوف مجرد زينة", "is_correct": false }
+        ]
+    },
+    { "question_text": "ما هي دلالة قول 'السلام علينا وعلى عباد الله الصالحين' في التشهد كما حلله المصدر؟",
+        "difficulty_score": 800,
+        "explanation": "تحمل معاني الرحمة والألفة والترابط بين المؤمنين في السماء والأرض [4].",
+        "choices": [
+            { "choice_text": "مجرد عبارة لختم الصلاة", "is_correct": false },
+            { "choice_text": "تأسيس لمعاني الرحمة والألفة والترابط", "is_correct": true },
+            { "choice_text": "دعاء خاص للملائكة فقط", "is_correct": false },
+            { "choice_text": "إشارة لانتهاء وقت العبادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الأولوية التي اتبعها النبي ﷺ في بناء المجتمع المدني؟",
+        "difficulty_score": 600,
+        "explanation": "الأولوية كانت للعمران 'العقدي والإيماني والقيمي' قبل العمران المادي العمراني [34، 35].",
+        "choices": [
+            { "choice_text": "بناء الأسوار والقلاع", "is_correct": false },
+            { "choice_text": "بناء القلوب والعقيدة والقيم", "is_correct": true },
+            { "choice_text": "تجميع الأموال والتجارة", "is_correct": false },
+            { "choice_text": "زخرفة المساجد وتوسيعها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر حالة الذين يظنون أن نهضة الأمة تبدأ بالعمران المادي وحده؟",
+        "difficulty_score": 900,
+        "explanation": "وصفها بأنها 'حالة وهم'، مؤكداً أن النهضة الحقيقية تبدأ ببناء الإنسان ومرجعية الوحي [5].",
+        "choices": [
+            { "choice_text": "بالتفكير الواقعي", "is_correct": false },
+            { "choice_text": "بحالة الوهم", "is_correct": true },
+            { "choice_text": "بالطريق المختصر", "is_correct": false },
+            { "choice_text": "بالتطور الضروري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو صاحب المقترح (خارج الصحيح) الذي اقترح رفع 'علم' لجمع الناس للصلاة؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر أنه رُوي خارج الصحيح مقترح باتخاذ 'علم' يُرفع وقت الصلاة [6].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "رجل لم يذكر اسمه (كمقترح عام)", "is_correct": true },
+            { "choice_text": "عبد الله بن زيد", "is_correct": false },
+            { "choice_text": "بلال بن رباح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف عبد الله بن زيد الرجل الذي رآه في المنام وعلمه الأذان؟",
+        "difficulty_score": 500,
+        "explanation": "رأى 'طائفاً طاف عليه في المنام وعليه ثوبان أخضران' [7].",
+        "choices": [
+            { "choice_text": "رجل يرتدي ثياباً بيضاء", "is_correct": false },
+            { "choice_text": "رجل عليه ثوبان أخضران", "is_correct": true },
+            { "choice_text": "شيخاً كبيراً بلحية طويلة", "is_correct": false },
+            { "choice_text": "فارساً يحمل سيفاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر أن 'الأذان' حجة على منكري السنة النبوية؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الأذان شعار عظيم تفاصيله (الله أكبر، حي على الصلاة..) لم تذكر في القرآن بل في السنة فقط [39، 40].",
+        "choices": [
+            { "choice_text": "لأنه نزل بوحي مباشر في القرآن", "is_correct": false },
+            { "choice_text": "لأنه تشريع استقلت به السنة دون القرآن", "is_correct": true },
+            { "choice_text": "لأن الكل اتفق عليه دون استثناء", "is_correct": false },
+            { "choice_text": "لأنه يعتمد على الرؤى فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الثلاثة الذين ذكرت عائشة رضي الله عنها أنهم أصيبوا بحمى المدينة فور وصولهم؟",
+        "difficulty_score": 600,
+        "explanation": "هم: أبو بكر الصديق، وبلال بن رباح، وعامر بن فهيرة [8].",
+        "choices": [
+            { "choice_text": "أبو بكر، وعمر، وعثمان", "is_correct": false },
+            { "choice_text": "أبو بكر، وبلال، وعامر بن فهيرة", "is_correct": true },
+            { "choice_text": "علي، وزيد، وجعفر", "is_correct": false },
+            { "choice_text": "طلحة، والزبير، وسعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يقول أبو بكر الصديق رضي الله عنه وهو يعاني من شدة الحمى؟",
+        "difficulty_score": 500,
+        "explanation": "كان يقول: 'كل امرئ مصبح في أهله، والموت أدنى من شراك نعله' [8].",
+        "choices": [
+            { "choice_text": "اللهم أنقل حمى يثرب", "is_correct": false },
+            { "choice_text": "الموت أدنى من شراك نعله", "is_correct": true },
+            { "choice_text": "واشوقاه إلى مكة", "is_correct": false },
+            { "choice_text": "صبر جميل والله المستعان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الجبال التي ذكرها بلال رضي الله عنه في شعره متمنياً رؤيتها مرة أخرى؟",
+        "difficulty_score": 400,
+        "explanation": "تمنى رؤية جبال 'شامة وطفيل' وهي جبال جنوب مكة [44، 45].",
+        "choices": [
+            { "choice_text": "الصفا والمروة", "is_correct": false },
+            { "choice_text": "شامة وطفيل", "is_correct": true },
+            { "choice_text": "أحد والرماة", "is_correct": false },
+            { "choice_text": "ثور وحراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى أي منطقة دعا النبي ﷺ أن يُنقل وباء المدينة إليها؟",
+        "difficulty_score": 500,
+        "explanation": "دعا النبي ﷺ أن ينقل الله حماها إلى 'الجحفة' [9].",
+        "choices": [
+            { "choice_text": "خيبر", "is_correct": false },
+            { "choice_text": "الجحفة", "is_correct": true },
+            { "choice_text": "تبوك", "is_correct": false },
+            { "choice_text": "الطائف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا رأى النبي ﷺ في منامه وعبره بخروج الوباء من المدينة؟",
+        "difficulty_score": 700,
+        "explanation": "رأى 'امرأة سوداء ثائرة الرأس' تخرج من المدينة [9].",
+        "choices": [
+            { "choice_text": "ريحاً شديدة تكنس الطرق", "is_correct": false },
+            { "choice_text": "امرأة سوداء ثائرة الرأس", "is_correct": true },
+            { "choice_text": "سحابة تمطر بماء غسيل", "is_correct": false },
+            { "choice_text": "طيوراً تهاجر بعيداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المشروع الأساسي الذي قامت عليه 'المؤاخاة' كما وصفها المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "المشروع الأساسي هو 'نصرة النبي ﷺ وهذا الدين' [10].",
+        "choices": [
+            { "choice_text": "تنمية التجارة والزراعة", "is_correct": false },
+            { "choice_text": "نصرة النبي ﷺ والدين", "is_correct": true },
+            { "choice_text": "الدفاع عن قبائل الأوس", "is_correct": false },
+            { "choice_text": "بناء بيوت للمهاجرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر أن 'الأخوة' ليست موضوعاً هامشياً أو فرعياً؟",
+        "difficulty_score": 800,
+        "explanation": "لأنها من المُنطلقات الكبرى التي جعلت قاعدة المجتمع النبوي صلبة، وهي من الأولويات الكبرى [53، 55].",
+        "choices": [
+            { "choice_text": "لأنها توفر المال فقط", "is_correct": false },
+            { "choice_text": "لأنها قاعدة صلبة للمجتمع ومن الأولويات", "is_correct": true },
+            { "choice_text": "لأنها تمنع العمل الشاق", "is_correct": false },
+            { "choice_text": "لأنها كانت عادة عربية قديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر علاقة 'المنافقين' باليهود في المدينة؟",
+        "difficulty_score": 700,
+        "explanation": "كانت علاقة وطيدة، حيث كان اليهود هم المراجع العلمية والمثقفين الذين يحللون المعلومات للمنافقين ويشككونهم في الرسالة [11].",
+        "choices": [
+            { "choice_text": "علاقة عداء مستمر", "is_correct": false },
+            { "choice_text": "علاقة مراجع علمية ومحللي معلومات", "is_correct": true },
+            { "choice_text": "علاقة تجارية بحتة", "is_correct": false },
+            { "choice_text": "لا توجد علاقة بينهما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة السياسية للنبي ﷺ في السنتين الأوليين كما ذكر المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "تمثلت في عقد معاهدات لتحييد البعض وجلب ولاءات قبائل أخرى بدلاً من قتال الجميع [56، 57].",
+        "choices": [
+            { "choice_text": "بدء الحرب الشاملة فوراً", "is_correct": false },
+            { "choice_text": "الحكمة في التحييد وجلب الولاءات", "is_correct": true },
+            { "choice_text": "الاعتزال وترك السياسة", "is_correct": false },
+            { "choice_text": "الاعتماد على المعجزات فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما السبب المباشر لغزوة بني النضير كما أشار المصدر؟",
+        "difficulty_score": 800,
+        "explanation": "السبب هو 'نقض العهد' الذي كان بينهم وبين النبي ﷺ [12].",
+        "choices": [
+            { "choice_text": "خلاف على التجارة", "is_correct": false },
+            { "choice_text": "نقض العهد", "is_correct": true },
+            { "choice_text": "رفضهم دفع الزكاة", "is_correct": false },
+            { "choice_text": "تحالفهم مع أهل الطائف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'السفهاء' الذين ذكرهم القرآن بخصوص الاعتراض على القبلة؟",
+        "difficulty_score": 400,
+        "explanation": "هم اليهود والمنافقون والمشركون الذين اعترضوا على تحويل القبلة [13].",
+        "choices": [
+            { "choice_text": "فقراء المسلمين", "is_correct": false },
+            { "choice_text": "اليهود والمنافقون والمشركون المعترضون", "is_correct": true },
+            { "choice_text": "الأطفال الصغار", "is_correct": false },
+            { "choice_text": "من لا يعرف القراءة والكتابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر حادث تحويل القبلة 'اختباراً' للمؤمنين؟",
+        "difficulty_score": 700,
+        "explanation": "ليعلم الله من يتبع الرسول ممن ينقلب على عقبيه في مسألة التسليم للوحي [13].",
+        "choices": [
+            { "choice_text": "لاختبار قدرتهم على السفر", "is_correct": false },
+            { "choice_text": "لاختبار التسليم واتباع الرسول", "is_correct": true },
+            { "choice_text": "لاختبار دقة تحديد الاتجاهات", "is_correct": false },
+            { "choice_text": "لمعرفة الأغنياء من الفقراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو الرابط المنهجي بين سيرة النبي ﷺ والقرآن؟",
+        "difficulty_score": 900,
+        "explanation": "أكد المصدر على 'أهمية التكامل' في القراءة بين القرآن والسنة والسيرة لفهم الأحداث والعبر والدروس [61، 63، 73].",
+        "choices": [
+            { "choice_text": "لا رابط بينهما، فكل منهما علم مستقل", "is_correct": false },
+            { "choice_text": "أهمية التكامل بين المصادر الثلاثة", "is_correct": true },
+            { "choice_text": "القرآن يغني تماماً عن السيرة", "is_correct": false },
+            { "choice_text": "السيرة قصص للتسلية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي تدل على أن أهل الكتاب يعرفون صدق النبي ﷺ يقيناً؟",
+        "difficulty_score": 500,
+        "explanation": "قوله تعالى: 'الذين آتيناهم الكتاب يعرفونه كما يعرفون أبناءهم' [14].",
+        "choices": [
+            { "choice_text": "إنما المؤمنون إخوة", "is_correct": false },
+            { "choice_text": "يعرفونه كما يعرفون أبناءهم", "is_correct": true },
+            { "choice_text": "فاسألوا أهل الذكر", "is_correct": false },
+            { "choice_text": "ما كذب الفؤاد ما رأى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استوصى النبي ﷺ بالأنصار في خطبته قبيل وفاته؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'أوصيكم بالأنصار.. فاقبلوا من محسنهم، وتجاوزوا عن مسيئهم' [15].",
+        "choices": [
+            { "choice_text": "بأن يعطوهم كل الأموال", "is_correct": false },
+            { "choice_text": "القبول من محسنهم والتجاوز عن مسيئهم", "is_correct": true },
+            { "choice_text": "بأن يولونهم الخلافة بعده", "is_correct": false },
+            { "choice_text": "بأن يسكنوا المهاجرين عندهم دوماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان النبي ﷺ يضع على رأسه في مرضه الأخير عندما خرج للصحابة؟",
+        "difficulty_score": 700,
+        "explanation": "خرج النبي ﷺ وقد 'عصب على رأسه حاشية برد' من شدة الألم والصداع [16].",
+        "choices": [
+            { "choice_text": "عمامة خضراء", "is_correct": false },
+            { "choice_text": "حاشية برد (عصابة)", "is_correct": true },
+            { "choice_text": "قلنسوة بيضاء", "is_correct": false },
+            { "choice_text": "خماراً أسود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وصف أنس بن مالك لليوم الذي مات فيه رسول الله ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'فلما كان اليوم الذي مات فيه أظلم منها كل شيء' [17].",
+        "choices": [
+            { "choice_text": "كان يوماً بارداً", "is_correct": false },
+            { "choice_text": "أظلم منها كل شيء", "is_correct": true },
+            { "choice_text": "بكى فيه الحجر والشجر", "is_correct": false },
+            { "choice_text": "لم يتغير فيه شيء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت 'عضادتا' باب المسجد النبوي في البناء الأول؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر المصدر أنهم جعلوا 'عضادتيه الحجارة' [20، 26].",
+        "choices": [
+            { "choice_text": "من خشب الساج", "is_correct": false },
+            { "choice_text": "من الحجارة", "is_correct": true },
+            { "choice_text": "من الفضة", "is_correct": false },
+            { "choice_text": "من الطين اليابس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى قوله ﷺ 'المرء مع متاعه' عند نزوله في المدينة؟",
+        "difficulty_score": 600,
+        "explanation": "قالها عندما أخذ أبو أيوب متاع النبي ﷺ إلى داره، مبيناً أنه سينزل حيث وُضع متاعه [18، 19].",
+        "choices": [
+            { "choice_text": "أنه يجب حماية المتاع", "is_correct": false },
+            { "choice_text": "أنه سينزل ضيفاً حيث وضع متاعه", "is_correct": true },
+            { "choice_text": "أن المتاع أهم من السكن", "is_correct": false },
+            { "choice_text": "أن الصحابة يجب أن يحملوا المتاع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'بنو حارثة' في سياق الحديث عن حدود الحرم؟",
+        "difficulty_score": 900,
+        "explanation": "هم قبيلة كانت بيوتهم في طرف المدينة، وأخبرهم النبي ﷺ أنهم خرجوا من حدود الحرم القديمة [13، 14].",
+        "choices": [
+            { "choice_text": "فرع من قريش", "is_correct": false },
+            { "choice_text": "قبيلة سكنت أطراف المدينة", "is_correct": true },
+            { "choice_text": "حلفاء لليهود في خيبر", "is_correct": false },
+            { "choice_text": "هم خدم المسجد النبوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكر فيها 'للمسجد أسس على التقوى من أول يوم'؟",
+        "difficulty_score": 500,
+        "explanation": "وردت هذه الآية في سورة التوبة [21، 24].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة التوبة", "is_correct": true },
+            { "choice_text": "سورة الأنفال", "is_correct": false },
+            { "choice_text": "سورة الحج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'القصة' التي استخدمت في بناء المسجد في عهد عثمان بن عفان؟",
+        "difficulty_score": 800,
+        "explanation": "القصة هي 'الجص' أو المادة التي يُليّط بها البناء [25، 26].",
+        "choices": [
+            { "choice_text": "رمل ناعم", "is_correct": false },
+            { "choice_text": "الجص", "is_correct": true },
+            { "choice_text": "طين البحر", "is_correct": false },
+            { "choice_text": "خشب الزان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس العظيم الذي لخصه المصدر من بناء المسجد وتشريع الأذان والقبلة؟",
+        "difficulty_score": 700,
+        "explanation": "الدرس هو بناء 'الهوية المستقلة' للأمة وتأسيس شعائرها الخاصة [38، 64، 71].",
+        "choices": [
+            { "choice_text": "التشبه بالأمم الأخرى", "is_correct": false },
+            { "choice_text": "بناء الهوية الإسلامية المستقلة", "is_correct": true },
+            { "choice_text": "تسهيل حياة الناس المادية", "is_correct": false },
+            { "choice_text": "إلغاء التقاليد العربية القديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يعني 'أندى صوتاً' في قول النبي ﷺ عن بلال؟",
+        "difficulty_score": 300,
+        "explanation": "تعني 'أرفع صوتاً وأحسنه وأجمله' [18].",
+        "choices": [
+            { "choice_text": "أكثر حفظاً", "is_correct": false },
+            { "choice_text": "أحسن وأجمل وأرفع صوتاً", "is_correct": true },
+            { "choice_text": "أسرع كلاماً", "is_correct": false },
+            { "choice_text": "أكثر صبراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال بلال رضي الله عنه معبراً عن شوقه لمياه مكة؟",
+        "difficulty_score": 500,
+        "explanation": "قال في شعره: 'وهل أرِدن يوماً مياه مجنة' [8].",
+        "choices": [
+            { "choice_text": "مياه زمزم", "is_correct": false },
+            { "choice_text": "مياه مجنة", "is_correct": true },
+            { "choice_text": "بئر حاء", "is_correct": false },
+            { "choice_text": "ماء النيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر حالة المجتمع المدني عند حدوث تحويل القبلة؟",
+        "difficulty_score": 800,
+        "explanation": "وصفه بأنه كان حدثاً 'مزلزلاً وضخماً وكبيراً' أظهر تباين المواقف بين المؤمنين والمنافقين واليهود [62، 63].",
+        "choices": [
+            { "choice_text": "حدثاً عادياً مر بصمت", "is_correct": false },
+            { "choice_text": "حدثاً مزلزلاً وضخماً", "is_correct": true },
+            { "choice_text": "مجرد تغيير فني بسيط", "is_correct": false },
+            { "choice_text": "حدثاً تسبب في هجرة جماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم الربط بين 'سورة البقرة' وحادثة القبلة وفقاً للتحليل القرآني في المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "لأن السورة تؤسس لمبدأ 'التسليم واجتناب الاعتراض' الذي فشل فيه بنو إسرائيل في قصة البقرة ونجح فيه المؤمنون في القبلة [65، 70].",
+        "choices": [
+            { "choice_text": "لأن السورة نزلت في نفس اليوم", "is_correct": false },
+            { "choice_text": "لأنها تؤسس لمبدأ التسليم للوحي", "is_correct": true },
+            { "choice_text": "لأن البقرة كانت تُذبح نحو الكعبة", "is_correct": false },
+            { "choice_text": "بسبب تشابه الأسماء فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة الختامية التي لخصت أثر قراءة السيرة مع القرآن؟",
+        "difficulty_score": 700,
+        "explanation": "تزيد المسلم فهماً وعلماً بكتاب الله واستحضاراً لسيرة ورسالة النبي ﷺ [19].",
+        "choices": [
+            { "choice_text": "تجعل الإنسان يحفظ التواريخ فقط", "is_correct": false },
+            { "choice_text": "تزيد الفهم والعلم بالقرآن والسيرة معاً", "is_correct": true },
+            { "choice_text": "تغني عن قراءة كتب الفقه", "is_correct": false },
+            { "choice_text": "تساعد في تعلم اللغة العربية فقط", "is_correct": false }
+        ]
+    }
+]
+    }

@@ -1,0 +1,896 @@
+{
+    "chapter_id": 4,
+    "questions": [
+  {
+    "question_text": "في أي سنة ولد الإمام أبو حنيفة النعمان؟",
+    "difficulty_score": 100,
+    "explanation": "ولد الإمام أبو حنيفة في سنة 80 للهجرة [1].",
+    "choices": [
+      {"choice_text": "70 هـ", "is_correct": false},
+      {"choice_text": "80 هـ", "is_correct": true},
+      {"choice_text": "90 هـ", "is_correct": false},
+      {"choice_text": "100 هـ", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الاسم الكامل للإمام أبي حنيفة؟",
+    "difficulty_score": 100,
+    "explanation": "اسمه النعمان بن ثابت بن زوطة [7، 8].",
+    "choices": [
+      {"choice_text": "النعمان بن ثابت", "is_correct": true},
+      {"choice_text": "محمد بن الحسن", "is_correct": false},
+      {"choice_text": "يعقوب بن إبراهيم", "is_correct": false},
+      {"choice_text": "مالك بن أنس", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بأي لقب كان يُعرف أبو حنيفة لكثرة صلاته؟",
+    "difficulty_score": 200,
+    "explanation": "كان يُسمى 'الوتد' لكثرة صلاته وقيامه [2].",
+    "choices": [
+      {"choice_text": "العالم", "is_correct": false},
+      {"choice_text": "الوتد", "is_correct": true},
+      {"choice_text": "البحر", "is_correct": false},
+      {"choice_text": "المحدث", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي ولد في السنة التي توفي فيها أبو حنيفة؟",
+    "difficulty_score": 250,
+    "explanation": "توفي أبو حنيفة سنة 150 هـ، وهي السنة التي ولد فيها الإمام الشافعي [3].",
+    "choices": [
+      {"choice_text": "الإمام مالك", "is_correct": false},
+      {"choice_text": "الإمام أحمد", "is_correct": false},
+      {"choice_text": "الإمام الشافعي", "is_correct": true},
+      {"choice_text": "الإمام الليث بن سعد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا يُعد الإمام أبو حنيفة من 'التابعين'؟",
+    "difficulty_score": 300,
+    "explanation": "لأنه ثبت أنه رأى الصحابي أنس بن مالك رضي الله عنه [8، 9].",
+    "choices": [
+      {"choice_text": "لأنه ولد في مكة", "is_correct": false},
+      {"choice_text": "لأنه رأى أنس بن مالك", "is_correct": true},
+      {"choice_text": "لأنه عاصر الخلفاء الراشدين", "is_correct": false},
+      {"choice_text": "لأنه روى عن جميع الصحابة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو اللقب الذي يُطلق على (أبي يوسف ومحمد بن الحسن) في المذهب الحنفي؟",
+    "difficulty_score": 300,
+    "explanation": "يُطلق عليهما لقب 'الصاحبان' [4].",
+    "choices": [
+      {"choice_text": "الشيخان", "is_correct": false},
+      {"choice_text": "الصاحبان", "is_correct": true},
+      {"choice_text": "الإمامان", "is_correct": false},
+      {"choice_text": "المجتهدان", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو تلميذ أبي حنيفة الذي تولى منصب 'قاضي القضاة' في الدولة العباسية؟",
+    "difficulty_score": 350,
+    "explanation": "هو القاضي أبو يوسف، وكان له دور كبير في نشر المذهب [5].",
+    "choices": [
+      {"choice_text": "محمد بن الحسن", "is_correct": false},
+      {"choice_text": "زفر بن الهذيل", "is_correct": false},
+      {"choice_text": "أبو يوسف", "is_correct": true},
+      {"choice_text": "الحسن بن زياد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كم عدد كتب 'ظاهر الرواية' الأساسية في المذهب الحنفي؟",
+    "difficulty_score": 400,
+    "explanation": "هي ستة كتب صنفها محمد بن الحسن الشيباني [15، 16].",
+    "choices": [
+      {"choice_text": "أربعة كتب", "is_correct": false},
+      {"choice_text": "خمسة كتب", "is_correct": false},
+      {"choice_text": "ستة كتب", "is_correct": true},
+      {"choice_text": "سبعة كتب", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من الكتب التالية يُسمى أيضاً 'الأصل' في المذهب الحنفي؟",
+    "difficulty_score": 450,
+    "explanation": "كتاب 'المبسوط' لمحمد بن الحسن يسمى 'الأصل' [6].",
+    "choices": [
+      {"choice_text": "الجامع الصغير", "is_correct": false},
+      {"choice_text": "المبسوط", "is_correct": true},
+      {"choice_text": "الزيادات", "is_correct": false},
+      {"choice_text": "السير الكبير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف كتاب 'بدائع الصنائع'؟",
+    "difficulty_score": 500,
+    "explanation": "مؤلفه هو الإمام الكاساني [7].",
+    "choices": [
+      {"choice_text": "الطحاوي", "is_correct": false},
+      {"choice_text": "القدوري", "is_correct": false},
+      {"choice_text": "الكاساني", "is_correct": true},
+      {"choice_text": "المرغيناني", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "إذا أطلق فقهاء الحنفية المتأخرون كلمة 'الكتاب'، فماذا يقصدون؟",
+    "difficulty_score": 550,
+    "explanation": "يقصدون به 'مختصر القدوري' لمكانته في المذهب [8].",
+    "choices": [
+      {"choice_text": "القرآن الكريم", "is_correct": false},
+      {"choice_text": "مختصر القدوري", "is_correct": true},
+      {"choice_text": "بداية المبتدي", "is_correct": false},
+      {"choice_text": "كنز الدقائق", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو العالم الذي وصفه المصدر بأنه 'ختام التصنيف' في مذهب الحنفية؟",
+    "difficulty_score": 600,
+    "explanation": "هو ابن عابدين في كتابه 'رد المحتار' [9].",
+    "choices": [
+      {"choice_text": "ابن نجيم", "is_correct": false},
+      {"choice_text": "ابن عابدين", "is_correct": true},
+      {"choice_text": "النسفي", "is_correct": false},
+      {"choice_text": "السرخسي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي المرحلة التي ركزت على 'شرح المتون' المعتمدة في المذهب؟",
+    "difficulty_score": 650,
+    "explanation": "هي المرحلة الثالثة (دور الاستقرار) [25، 27].",
+    "choices": [
+      {"choice_text": "مرحلة النشوء", "is_correct": false},
+      {"choice_text": "مرحلة التوسع", "is_correct": false},
+      {"choice_text": "مرحلة الاستقرار", "is_correct": true},
+      {"choice_text": "مرحلة التدوين", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام صاحب المذهب الذي انقطع أتباعه بعد سنة 400 هـ وتنازعته المالكية والشافعية؟",
+    "difficulty_score": 700,
+    "explanation": "هو ابن جرير الطبري صاحب التفسير والتاريخ [3، 4].",
+    "choices": [
+      {"choice_text": "الليث بن سعد", "is_correct": false},
+      {"choice_text": "ابن جرير الطبري", "is_correct": true},
+      {"choice_text": "أبو ثور", "is_correct": false},
+      {"choice_text": "سفيان الثوري", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي شرحه المرغيناني في كتابه الشهير 'الهداية'؟",
+    "difficulty_score": 750,
+    "explanation": "شرح فيه كتابه 'بداية المبتدي' [8].",
+    "choices": [
+      {"choice_text": "مختصر القدوري", "is_correct": false},
+      {"choice_text": "بداية المبتدي", "is_correct": true},
+      {"choice_text": "كنز الدقائق", "is_correct": false},
+      {"choice_text": "الأصل", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي قال عنه الشافعي: 'الناس في الفقه عيال على...'؟",
+    "difficulty_score": 400,
+    "explanation": "قال الشافعي: 'الناس في الفقه عيال على أبي حنيفة' [10].",
+    "choices": [
+      {"choice_text": "مالك", "is_correct": false},
+      {"choice_text": "أبو حنيفة", "is_correct": true},
+      {"choice_text": "أبو يوسف", "is_correct": false},
+      {"choice_text": "الأوزاعي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من المذاهب التالية لم يُذكر في المصدر كمذهب 'مندرس'؟",
+    "difficulty_score": 500,
+    "explanation": "المذهب الحنبلي من المذاهب الأربعة الباقية، بينما البقية مندرست [1، 2، 4].",
+    "choices": [
+      {"choice_text": "مذهب سفيان الثوري", "is_correct": false},
+      {"choice_text": "مذهب الأوزاعي", "is_correct": false},
+      {"choice_text": "مذهب الليث بن سعد", "is_correct": false},
+      {"choice_text": "مذهب أحمد بن حنبل", "is_correct": true}
+    ]
+  },
+  {
+    "question_text": "من هو العالم الذي كتب 'البحر الرائق شرح كنز الدقائق'؟",
+    "difficulty_score": 800,
+    "explanation": "هو ابن نجيم المصري [9].",
+    "choices": [
+      {"choice_text": "ابن عابدين", "is_correct": false},
+      {"choice_text": "ابن نجيم", "is_correct": true},
+      {"choice_text": "النسفي", "is_correct": false},
+      {"choice_text": "الزيلعي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كتاب 'فتح القدير' هو شرح لأي متن حنفي؟",
+    "difficulty_score": 850,
+    "explanation": "هو شرح لكتاب 'الهداية' للمرغيناني [11].",
+    "choices": [
+      {"choice_text": "مختصر الطحاوي", "is_correct": false},
+      {"choice_text": "كنز الدقائق", "is_correct": false},
+      {"choice_text": "الهداية", "is_correct": true},
+      {"choice_text": "الجامع الكبير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الاسم الحقيقي لكتاب 'حاشية ابن عابدين'؟",
+    "difficulty_score": 900,
+    "explanation": "اسمه 'رد المحتار على الدر المختار' [9].",
+    "choices": [
+      {"choice_text": "البحر الرائق", "is_correct": false},
+      {"choice_text": "رد المحتار", "is_correct": true},
+      {"choice_text": "تبيين الحقائق", "is_correct": false},
+      {"choice_text": "فتح القدير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو صاحب كتاب 'تبيين الحقائق' الذي شرح فيه 'كنز الدقائق'؟",
+    "difficulty_score": 800,
+    "explanation": "هو الإمام الزيلعي [11].",
+    "choices": [
+      {"choice_text": "السرخسي", "is_correct": false},
+      {"choice_text": "النسفي", "is_correct": false},
+      {"choice_text": "الزيلعي", "is_correct": true},
+      {"choice_text": "الحصكفي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا تميز مذهب أبي حنيفة بكونه 'نشأة جماعية'؟",
+    "difficulty_score": 600,
+    "explanation": "لأن المسألة كانت تُطرح في حلقة تضم فقهاء ومحدثين وقضاة وتناقش طويلاً [12، 26].",
+    "choices": [
+      {"choice_text": "لأنه أخذ عن ألف شيخ", "is_correct": false},
+      {"choice_text": "لأنه اعتمد على شورى تلاميذه", "is_correct": true},
+      {"choice_text": "لأن الدولة فرضته فرضاً", "is_correct": false},
+      {"choice_text": "لأنه جمع فقه الصحابة وحده", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي وصفه المصدر بأنه 'عمدة المذهب'؟",
+    "difficulty_score": 450,
+    "explanation": "هو كتاب 'المبسوط' (الأصل) لمحمد بن الحسن [6].",
+    "choices": [
+      {"choice_text": "السير الصغير", "is_correct": false},
+      {"choice_text": "المبسوط", "is_correct": true},
+      {"choice_text": "الزيادات", "is_correct": false},
+      {"choice_text": "العقيدة الطحاوية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "في أي مرحلة من مراحل المذهب صُنفت 'المختصرات والمتون'؟",
+    "difficulty_score": 500,
+    "explanation": "في المرحلة الثانية (مرحلة التوسع والنمو) [12].",
+    "choices": [
+      {"choice_text": "المرحلة الأولى", "is_correct": false},
+      {"choice_text": "المرحلة الثانية", "is_correct": true},
+      {"choice_text": "المرحلة الثالثة", "is_correct": false},
+      {"choice_text": "مرحلة المعاصرين", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي قال عنه مالك: 'رأيت رجلاً لو كلمك في هذه السارية أن يجعلها ذهباً لقام بحجته'؟",
+    "difficulty_score": 300,
+    "explanation": "يقصد بذلك قوة حجة الإمام أبي حنيفة وذكاءه [13].",
+    "choices": [
+      {"choice_text": "الشافعي", "is_correct": false},
+      {"choice_text": "أبو حنيفة", "is_correct": true},
+      {"choice_text": "أبو يوسف", "is_correct": false},
+      {"choice_text": "ابن حنبل", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "توفي الإمام محمد بن الحسن الشيباني في سنة:",
+    "difficulty_score": 250,
+    "explanation": "توفي في سنة 189 هـ [14].",
+    "choices": [
+      {"choice_text": "150 هـ", "is_correct": false},
+      {"choice_text": "182 هـ", "is_correct": false},
+      {"choice_text": "189 هـ", "is_correct": true},
+      {"choice_text": "204 هـ", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو آخر أصحاب أبي حنيفة (ممن اعتمد قولهم في المذهب) وفاةً؟",
+    "difficulty_score": 700,
+    "explanation": "هو الحسن بن زياد اللؤلؤي المتوفى سنة 204 هـ [4].",
+    "choices": [
+      {"choice_text": "أبو يوسف", "is_correct": false},
+      {"choice_text": "زفر بن الهذيل", "is_correct": false},
+      {"choice_text": "محمد بن الحسن", "is_correct": false},
+      {"choice_text": "الحسن بن زياد اللؤلؤي", "is_correct": true}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي ألفه الإمام مالك ورواه عنه محمد بن الحسن الشيباني؟",
+    "difficulty_score": 400,
+    "explanation": "هو كتاب 'الموطأ'، وهناك نسخة مطبوعة برواية محمد بن الحسن [15].",
+    "choices": [
+      {"choice_text": "المدونة", "is_correct": false},
+      {"choice_text": "الموطأ", "is_correct": true},
+      {"choice_text": "الرسالة", "is_correct": false},
+      {"choice_text": "الأم", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف متن 'كنز الدقائق'؟",
+    "difficulty_score": 600,
+    "explanation": "مؤلفه هو الإمام النسفي [11].",
+    "choices": [
+      {"choice_text": "القدوري", "is_correct": false},
+      {"choice_text": "النسفي", "is_correct": true},
+      {"choice_text": "المرغيناني", "is_correct": false},
+      {"choice_text": "الطحاوي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ماذا كان موقف أبي حنيفة من رحلات تلميذه محمد بن الحسن لمالك؟",
+    "difficulty_score": 750,
+    "explanation": "أثرت هذه الرحلات في مزج مدرسة العراق بمدرسة الحجاز وتطوير المذهب [18، 19].",
+    "choices": [
+      {"choice_text": "منعه من السفر", "is_correct": false},
+      {"choice_text": "كانت سبباً في تطوير المذهب ومخالفة الإمام أحياناً", "is_correct": true},
+      {"choice_text": "لم يكن يعلم بسفره", "is_correct": false},
+      {"choice_text": "أدت لانتقاله للمذهب المالكي تماماً", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كتاب 'رد المحتار' هو حاشية على أي كتاب؟",
+    "difficulty_score": 850,
+    "explanation": "هو حاشية على 'الدر المختار' للحصكفي [9].",
+    "choices": [
+      {"choice_text": "تنوير الأبصار", "is_correct": false},
+      {"choice_text": "الدر المختار", "is_correct": true},
+      {"choice_text": "كنز الدقائق", "is_correct": false},
+      {"choice_text": "فتح القدير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف 'تنوير الأبصار'؟",
+    "difficulty_score": 900,
+    "explanation": "هو الإمام التمرتاشي [9].",
+    "choices": [
+      {"choice_text": "ابن عابدين", "is_correct": false},
+      {"choice_text": "الحصكفي", "is_correct": false},
+      {"choice_text": "التمرتاشي", "is_correct": true},
+      {"choice_text": "المرغيناني", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كم كان عمر أبي حنيفة عندما توفي؟",
+    "difficulty_score": 200,
+    "explanation": "ولد سنة 80 وتوفي سنة 150، أي عاش 70 سنة [3].",
+    "choices": [
+      {"choice_text": "60 سنة", "is_correct": false},
+      {"choice_text": "70 سنة", "is_correct": true},
+      {"choice_text": "80 سنة", "is_correct": false},
+      {"choice_text": "90 سنة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الصحابي الذي ذُكر أن أبا حنيفة قد رآه؟",
+    "difficulty_score": 150,
+    "explanation": "هو أنس بن مالك رضي الله عنه [3].",
+    "choices": [
+      {"choice_text": "عبد الله بن عمر", "is_correct": false},
+      {"choice_text": "أنس بن مالك", "is_correct": true},
+      {"choice_text": "جابر بن عبد الله", "is_correct": false},
+      {"choice_text": "أبو هريرة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي المهنة العلمية التي كان يشغلها أبو يوسف وسهلت انتشار المذهب؟",
+    "difficulty_score": 300,
+    "explanation": "كان مسؤول القضاة (وزير العدل) في الدولة العباسية [5].",
+    "choices": [
+      {"choice_text": "محدث السلطان", "is_correct": false},
+      {"choice_text": "وزير المالية", "is_correct": false},
+      {"choice_text": "قاضي القضاة", "is_correct": true},
+      {"choice_text": "مفسر القصر", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من الأئمة التاليين يُعد من 'أئمة المذاهب المندرجة'؟",
+    "difficulty_score": 200,
+    "explanation": "ذكر المصدر سفيان الثوري كأحد الأئمة الذين انقطع أتباعهم [16].",
+    "choices": [
+      {"choice_text": "أبو حنيفة", "is_correct": false},
+      {"choice_text": "سفيان الثوري", "is_correct": true},
+      {"choice_text": "الشافعي", "is_correct": false},
+      {"choice_text": "أحمد بن حنبل", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا استدل المصدر على تواضع أبي حنيفة؟",
+    "difficulty_score": 400,
+    "explanation": "بانتفاضه واصفرار وجهه عندما قال له رجل 'اتق الله' [2].",
+    "choices": [
+      {"choice_text": "بتوزيع أمواله على الفقراء", "is_correct": false},
+      {"choice_text": "بجلوسه مع عامة الناس", "is_correct": false},
+      {"choice_text": "بردة فعله تجاه نصيحة 'اتق الله'", "is_correct": true},
+      {"choice_text": "برفضه تولي القضاء", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي قال عنه الإمام أحمد: 'وليس له كتب مستقلة في بيان مذهبه'؟",
+    "difficulty_score": 650,
+    "explanation": "يقصد الإمام إسحاق بن راهويه، وإن وجد فقهه في مسائل الكوسج [17].",
+    "choices": [
+      {"choice_text": "الأوزاعي", "is_correct": false},
+      {"choice_text": "إسحاق بن راهويه", "is_correct": true},
+      {"choice_text": "الليث بن سعد", "is_correct": false},
+      {"choice_text": "أبو ثور", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي الكتب التالية يعتبر 'شرحاً' لـ 'تحفة الفقهاء' للسمرقندي؟",
+    "difficulty_score": 750,
+    "explanation": "هو كتاب 'بدائع الصنائع' للكاساني [7].",
+    "choices": [
+      {"choice_text": "المبسوط", "is_correct": false},
+      {"choice_text": "بدائع الصنائع", "is_correct": true},
+      {"choice_text": "الهداية", "is_correct": false},
+      {"choice_text": "فتح القدير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي الجائزة التي نالها الكاساني مقابل شرحه لـ 'تحفة الفقهاء'؟",
+    "difficulty_score": 800,
+    "explanation": "تزوج ابنة شيخه السمرقندي [7].",
+    "choices": [
+      {"choice_text": "منصب القضاء", "is_correct": false},
+      {"choice_text": "مبلغ من المال", "is_correct": false},
+      {"choice_text": "تزوج ابنة السمرقندي", "is_correct": true},
+      {"choice_text": "بيت في الكوفة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف كتاب 'المبسوط' الذي يقع في أكثر من ثلاثين مجلداً؟",
+    "difficulty_score": 600,
+    "explanation": "هو الإمام السرخسي [7].",
+    "choices": [
+      {"choice_text": "محمد بن الحسن", "is_correct": false},
+      {"choice_text": "السرخسي", "is_correct": true},
+      {"choice_text": "ابن عابدين", "is_correct": false},
+      {"choice_text": "الكاساني", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "متى توفي الإمام أبو يوسف القاضي؟",
+    "difficulty_score": 250,
+    "explanation": "توفي سنة 182 هـ [5].",
+    "choices": [
+      {"choice_text": "150 هـ", "is_correct": false},
+      {"choice_text": "182 هـ", "is_correct": true},
+      {"choice_text": "189 هـ", "is_correct": false},
+      {"choice_text": "204 هـ", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من هذه الكتب يعد من كتب 'السير' في ظاهر الرواية؟",
+    "difficulty_score": 400,
+    "explanation": "السير الصغير والسير الكبير [14].",
+    "choices": [
+      {"choice_text": "الجامع الصغير", "is_correct": false},
+      {"choice_text": "السير الكبير", "is_correct": true},
+      {"choice_text": "المبسوط", "is_correct": false},
+      {"choice_text": "الزيادات", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو اللقب الذي أطلقه ابن رجب على المذاهب الأربعة؟",
+    "difficulty_score": 550,
+    "explanation": "وصفها بأنها مدارس لحفظ العلم وجمع الأمة [5، 6].",
+    "choices": [
+      {"choice_text": "طرق للفرقة", "is_correct": false},
+      {"choice_text": "مدارس فقهية جامعة", "is_correct": true},
+      {"choice_text": "أحزاب دينية", "is_correct": false},
+      {"choice_text": "مناهج حديثية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو العالم الزاهد الذي كان في حلقة أبي حنيفة ويصحح له الجانب التربوي؟",
+    "difficulty_score": 700,
+    "explanation": "هو الفضيل بن عياض [18].",
+    "choices": [
+      {"choice_text": "حفص بن غياث", "is_correct": false},
+      {"choice_text": "الفضيل بن عياض", "is_correct": true},
+      {"choice_text": "سفيان الثوري", "is_correct": false},
+      {"choice_text": "داود الطائي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ماذا يسمى كتاب 'المبسوط' لمحمد بن الحسن عند الحنفية؟",
+    "difficulty_score": 450,
+    "explanation": "يسمى 'الأصل' [6].",
+    "choices": [
+      {"choice_text": "الأساس", "is_correct": false},
+      {"choice_text": "الأصل", "is_correct": true},
+      {"choice_text": "المقدمة", "is_correct": false},
+      {"choice_text": "الخاتمة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "في أي مرحلة عاش الإمام الطحاوي صاحب 'المختصر'؟",
+    "difficulty_score": 600,
+    "explanation": "في المرحلة الثانية (مرحلة التوسع والنمو) [12].",
+    "choices": [
+      {"choice_text": "المرحلة الأولى", "is_correct": false},
+      {"choice_text": "المرحلة الثانية", "is_correct": true},
+      {"choice_text": "المرحلة الثالثة", "is_correct": false},
+      {"choice_text": "المرحلة الأخيرة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من الأئمة التاليين يُنسب إليه مذهب 'الجريرية'؟",
+    "difficulty_score": 350,
+    "explanation": "هو ابن جرير الطبري [19].",
+    "choices": [
+      {"choice_text": "ابن عيينة", "is_correct": false},
+      {"choice_text": "ابن جرير الطبري", "is_correct": true},
+      {"choice_text": "ابن جرير الضبي", "is_correct": false},
+      {"choice_text": "ابن راهويه", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ماذا قال الذهبي عن عبادة أبي حنيفة؟",
+    "difficulty_score": 500,
+    "explanation": "روي أنه قرأ القرآن كله في ركعة واحدة [2].",
+    "choices": [
+      {"choice_text": "أنه حج خمسين مرة", "is_correct": false},
+      {"choice_text": "أنه قرأ القرآن في ركعة", "is_correct": true},
+      {"choice_text": "أنه صام الدهر", "is_correct": false},
+      {"choice_text": "أنه لم ينم الليل أبداً", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو إمام مذهب 'أهل الشام' الذي اندرس مذهبه؟",
+    "difficulty_score": 400,
+    "explanation": "هو الإمام الأوزاعي [16].",
+    "choices": [
+      {"choice_text": "سفيان الثوري", "is_correct": false},
+      {"choice_text": "الأوزاعي", "is_correct": true},
+      {"choice_text": "الليث بن سعد", "is_correct": false},
+      {"choice_text": "مكحول", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو دور 'أبو ثور' الفقهي كما ذكر المصدر؟",
+    "difficulty_score": 650,
+    "explanation": "قيل إنه من الشافعية وقيل إنه مجتهد مستقل، وكان له مذهب مدون انقطع أتباعه [17].",
+    "choices": [
+      {"choice_text": "كان حنفياً صرفاً", "is_correct": false},
+      {"choice_text": "مجتهد مستقل أو من الشافعية", "is_correct": true},
+      {"choice_text": "مؤسس مذهب أهل المدينة", "is_correct": false},
+      {"choice_text": "راوية الإمام أحمد الوحيد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو العالم الذي كان في حلقة أبي حنيفة متخصصاً في الحديث؟",
+    "difficulty_score": 700,
+    "explanation": "هو حفص بن غياث [18].",
+    "choices": [
+      {"choice_text": "يحيى بن معين", "is_correct": false},
+      {"choice_text": "حفص بن غياث", "is_correct": true},
+      {"choice_text": "البخاري", "is_correct": false},
+      {"choice_text": "علي بن المديني", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا شبه ابن رجب المذاهب الأربعة بجمع عثمان للمصحف؟",
+    "difficulty_score": 800,
+    "explanation": "لأنها وسيلة حفظ بها الله الفقه كما حفظ القرآن بجمع المصحف [4، 5].",
+    "choices": [
+      {"choice_text": "لأنها كتبت في عهد عثمان", "is_correct": false},
+      {"choice_text": "لأنها توحد الأمة على طريق واحد للفهم", "is_correct": true},
+      {"choice_text": "لأن الأئمة الأربعة من قريش", "is_correct": false},
+      {"choice_text": "لأنها تعتمد على القراءات السبع فقط", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو أصل الإمام أبي حنيفة؟",
+    "difficulty_score": 200,
+    "explanation": "اختلف فيه، قيل فارسي وقيل عربي [7، 8].",
+    "choices": [
+      {"choice_text": "عربي خالص", "is_correct": false},
+      {"choice_text": "فارسي خالص", "is_correct": false},
+      {"choice_text": "قيل فارسي وقيل عربي", "is_correct": true},
+      {"choice_text": "تركي الأصل", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من الكتب التالية يعد شرحاً لـ 'مختصر القدوري'؟",
+    "difficulty_score": 750,
+    "explanation": "هو كتاب 'اللباب' [8].",
+    "choices": [
+      {"choice_text": "فتح القدير", "is_correct": false},
+      {"choice_text": "اللباب", "is_correct": true},
+      {"choice_text": "بداية المبتدي", "is_correct": false},
+      {"choice_text": "كنز الدقائق", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف 'بداية المبتدي'؟",
+    "difficulty_score": 600,
+    "explanation": "هو الإمام المرغيناني [8].",
+    "choices": [
+      {"choice_text": "السرخسي", "is_correct": false},
+      {"choice_text": "المرغيناني", "is_correct": true},
+      {"choice_text": "القدوري", "is_correct": false},
+      {"choice_text": "النسفي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو وصف ابن رجب لمن يحارب المذاهب الفقهية؟",
+    "difficulty_score": 850,
+    "explanation": "اعتبره غلطاً كبيراً يؤدي لتفرق الناس بدلاً من جمعهم [5، 6].",
+    "choices": [
+      {"choice_text": "أنه مجدد", "is_correct": false},
+      {"choice_text": "أنه غلط كبير يؤدي للفرقة", "is_correct": true},
+      {"choice_text": "أنه على صواب", "is_correct": false},
+      {"choice_text": "أنه يتبع السلف", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كم استغرقت مناقشة بعض المسائل في حلقة أبي حنيفة حتى استقرت؟",
+    "difficulty_score": 700,
+    "explanation": "ربما استمروا في المسألة الواحدة لمدة شهر [20].",
+    "choices": [
+      {"choice_text": "ساعة واحدة", "is_correct": false},
+      {"choice_text": "يوم كامل", "is_correct": false},
+      {"choice_text": "لمدة شهر", "is_correct": true},
+      {"choice_text": "سنة كاملة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي مدينة كانت المركز الرئيسي لحلقة الإمام أبي حنيفة؟",
+    "difficulty_score": 300,
+    "explanation": "مدينة الكوفة [18].",
+    "choices": [
+      {"choice_text": "البصرة", "is_correct": false},
+      {"choice_text": "الكوفة", "is_correct": true},
+      {"choice_text": "بغداد", "is_correct": false},
+      {"choice_text": "المدينة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي كان يقال عنه 'ما أعلم أحداً على أديم الأرض أعلم منه'؟",
+    "difficulty_score": 500,
+    "explanation": "قاله ابن خزيمة في حق ابن جرير الطبري [19].",
+    "choices": [
+      {"choice_text": "أبو حنيفة", "is_correct": false},
+      {"choice_text": "ابن جرير الطبري", "is_correct": true},
+      {"choice_text": "الإمام مالك", "is_correct": false},
+      {"choice_text": "الإمام أحمد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي يُعرف بـ 'الأصل' عند الحنفية؟",
+    "difficulty_score": 450,
+    "explanation": "كتاب المبسوط لمحمد بن الحسن [6].",
+    "choices": [
+      {"choice_text": "الأصل", "is_correct": true},
+      {"choice_text": "الفرع", "is_correct": false},
+      {"choice_text": "المنار", "is_correct": false},
+      {"choice_text": "الهداية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو موقف الصاحبين من آراء شيخهما أبي حنيفة؟",
+    "difficulty_score": 600,
+    "explanation": "كانا مجتهدين وخالفاه في بعض المسائل بناءً على أدلة أخرى [17، 18].",
+    "choices": [
+      {"choice_text": "مقلدين له تماماً", "is_correct": false},
+      {"choice_text": "خالفاه في بعض المسائل لكونهما مجتهدين", "is_correct": true},
+      {"choice_text": "لم يخالفاه أبداً", "is_correct": false},
+      {"choice_text": "تركا مذهبه وأسسا مذهباً جديداً", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو العالم الحنفي الذي كتب 'العقيدة الطحاوية'؟",
+    "difficulty_score": 200,
+    "explanation": "هو الإمام أبو جعفر الطحاوي [12].",
+    "choices": [
+      {"choice_text": "القدوري", "is_correct": false},
+      {"choice_text": "السرخسي", "is_correct": false},
+      {"choice_text": "الطحاوي", "is_correct": true},
+      {"choice_text": "النسفي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي مدرسة فقهية تأثر بها محمد بن الحسن بعد رحلته للمدينة؟",
+    "difficulty_score": 500,
+    "explanation": "مدرسة الإمام مالك (مدرسة الحديث/الحجاز) [15].",
+    "choices": [
+      {"choice_text": "مدرسة الشافعي", "is_correct": false},
+      {"choice_text": "مدرسة مالك", "is_correct": true},
+      {"choice_text": "مدرسة أحمد", "is_correct": false},
+      {"choice_text": "مدرسة الأوزاعي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي الميزة التي جعلت المذهب الحنفي ينتشر في الدولة العباسية؟",
+    "difficulty_score": 400,
+    "explanation": "تولي القاضي أبي يوسف منصب القضاء وتعيينه لقضاة المذهب [5].",
+    "choices": [
+      {"choice_text": "كثرة مؤلفاته", "is_correct": false},
+      {"choice_text": "دعم الدولة القضائي عبر أبي يوسف", "is_correct": true},
+      {"choice_text": "سهولة أحكامه", "is_correct": false},
+      {"choice_text": "كراهية الناس للمذاهب الأخرى", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما معنى 'كتب ظاهر الرواية'؟",
+    "difficulty_score": 750,
+    "explanation": "هي الكتب التي رويت عن محمد بن الحسن برواية الثقات عنه فهي معتمدة المذهب [15، 16].",
+    "choices": [
+      {"choice_text": "الكتب التي ألفت في العلن", "is_correct": false},
+      {"choice_text": "الكتب المعتمدة والمروية بالثقات عن محمد بن الحسن", "is_correct": true},
+      {"choice_text": "الكتب التي تشرح الظواهر الكونية", "is_correct": false},
+      {"choice_text": "الكتب التي ألفها أبو حنيفة بنفسه", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي قال عنه ابن المبارك: 'أبو حنيفة أفقه الناس'؟",
+    "difficulty_score": 300,
+    "explanation": "قالها عبد الله بن المبارك في حق شيخه [10].",
+    "choices": [
+      {"choice_text": "أبو يوسف", "is_correct": false},
+      {"choice_text": "أبو حنيفة", "is_correct": true},
+      {"choice_text": "محمد بن الحسن", "is_correct": false},
+      {"choice_text": "زفر", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "في أي سنة توفي الحسن بن زياد اللؤلؤي؟",
+    "difficulty_score": 800,
+    "explanation": "توفي سنة 204 هـ [4].",
+    "choices": [
+      {"choice_text": "189 هـ", "is_correct": false},
+      {"choice_text": "190 هـ", "is_correct": false},
+      {"choice_text": "204 هـ", "is_correct": true},
+      {"choice_text": "210 هـ", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي التخصصات التي كانت موجودة في حلقة أبي حنيفة؟",
+    "difficulty_score": 600,
+    "explanation": "قضاة، لغويون، محدثون، وزهاد [18].",
+    "choices": [
+      {"choice_text": "أطباء ومهندسون", "is_correct": false},
+      {"choice_text": "فلاسفة ومنطقيون فقط", "is_correct": false},
+      {"choice_text": "قضاة ولغويون ومحدثون وزهاد", "is_correct": true},
+      {"choice_text": "عسكريون وسياسيون", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من هؤلاء هو مؤلف 'رد المحتار'؟",
+    "difficulty_score": 500,
+    "explanation": "هو ابن عابدين [9].",
+    "choices": [
+      {"choice_text": "ابن نجيم", "is_correct": false},
+      {"choice_text": "ابن عابدين", "is_correct": true},
+      {"choice_text": "النسفي", "is_correct": false},
+      {"choice_text": "المرغيناني", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي ألفه السرخسي وهو في السجن؟",
+    "difficulty_score": 750,
+    "explanation": "هو كتاب 'المبسوط' [7].",
+    "choices": [
+      {"choice_text": "الهداية", "is_correct": false},
+      {"choice_text": "المبسوط", "is_correct": true},
+      {"choice_text": "السر الكبير", "is_correct": false},
+      {"choice_text": "فتح القدير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كم عدد الأئمة الذين ذكر المصدر أنهم 'أئمة مذاهب مندرسة'؟",
+    "difficulty_score": 850,
+    "explanation": "ذكر ثمانية: الحسن البصري، الثوري، الأوزاعي، الليث، ابن عيينة، ابن راهويه، أبو ثور، الطبري [1، 2، 3].",
+    "choices": [
+      {"choice_text": "أربعة", "is_correct": false},
+      {"choice_text": "ستة", "is_correct": false},
+      {"choice_text": "ثمانية", "is_correct": true},
+      {"choice_text": "عشرة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي قال عنه المصدر أنه 'إمام أهل مصر'؟",
+    "difficulty_score": 400,
+    "explanation": "هو الإمام الليث بن سعد [16].",
+    "choices": [
+      {"choice_text": "الشافعي", "is_correct": false},
+      {"choice_text": "الليث بن سعد", "is_correct": true},
+      {"choice_text": "الأوزاعي", "is_correct": false},
+      {"choice_text": "ابن جرير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو المتن الذي إذا أطلق 'الكتاب' عند الحنفية انصرف إليه؟",
+    "difficulty_score": 300,
+    "explanation": "مختصر القدوري [8].",
+    "choices": [
+      {"choice_text": "مختصر الطحاوي", "is_correct": false},
+      {"choice_text": "مختصر القدوري", "is_correct": true},
+      {"choice_text": "بداية المبتدي", "is_correct": false},
+      {"choice_text": "الجامع الصغير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هم 'الجريرية'؟",
+    "difficulty_score": 400,
+    "explanation": "أتباع مذهب الإمام ابن جرير الطبري [19].",
+    "choices": [
+      {"choice_text": "أتباع مذهب ابن جرير", "is_correct": true},
+      {"choice_text": "أتباع مذهب الليث", "is_correct": false},
+      {"choice_text": "فرقة كلامية", "is_correct": false},
+      {"choice_text": "تلاميذ أبي حنيفة الجدد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "متى انقطع أتباع مذهب أبي ثور؟",
+    "difficulty_score": 700,
+    "explanation": "بعد الثلاثمائة للهجرة [17].",
+    "choices": [
+      {"choice_text": "بعد المائة", "is_correct": false},
+      {"choice_text": "بعد المائتين", "is_correct": false},
+      {"choice_text": "بعد الثلاثمائة", "is_correct": true},
+      {"choice_text": "بعد الأربعمائة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو كتاب 'الزيادات'؟",
+    "difficulty_score": 500,
+    "explanation": "أحد كتب ظاهر الرواية الستة لمحمد بن الحسن [14].",
+    "choices": [
+      {"choice_text": "كتاب في العقيدة", "is_correct": false},
+      {"choice_text": "أحد كتب ظاهر الرواية", "is_correct": true},
+      {"choice_text": "شرح للهداية", "is_correct": false},
+      {"choice_text": "كتاب في التاريخ", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف 'حاشية رد المحتار'؟",
+    "difficulty_score": 200,
+    "explanation": "ابن عابدين [9].",
+    "choices": [
+      {"choice_text": "ابن نجيم", "is_correct": false},
+      {"choice_text": "ابن عابدين", "is_correct": true},
+      {"choice_text": "ابن الهمام", "is_correct": false},
+      {"choice_text": "ابن رشد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من هذه الكتب يعد 'ختام التصنيف' في المذهب؟",
+    "difficulty_score": 900,
+    "explanation": "كتاب رد المحتار لابن عابدين [9].",
+    "choices": [
+      {"choice_text": "الهداية", "is_correct": false},
+      {"choice_text": "المبسوط", "is_correct": false},
+      {"choice_text": "رد المحتار", "is_correct": true},
+      {"choice_text": "كنز الدقائق", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي لقب بـ 'إمام الحرمين'؟ (سؤال خارجي للمقارنة غير موجود بالمصدر لكن الجواب الصحيح بالمصدر لغيره)",
+    "difficulty_score": 900,
+    "explanation": "المصدر لم يذكر إمام الحرمين بل ركز على أئمة الحنفية والمندرسة، لذا الخيار الصحيح هو عدم ذكره [غير موجود بالمصدر].",
+    "choices": [
+      {"choice_text": "أبو حنيفة", "is_correct": false},
+      {"choice_text": "مالك", "is_correct": false},
+      {"choice_text": "الجويني (غير مذكور)", "is_correct": true},
+      {"choice_text": "ابن جرير", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي الخلاصة في أهمية المذاهب الأربعة حسب ابن رجب؟",
+    "difficulty_score": 850,
+    "explanation": "أنها حفظت الفقه وميزت الحلال من الحرام بضبط المدارس الفقهية [4، 5].",
+    "choices": [
+      {"choice_text": "أنها مجرد آراء تاريخية", "is_correct": false},
+      {"choice_text": "أنها وسيلة حفظ الله بها الدين والفقه", "is_correct": true},
+      {"choice_text": "أنها تفرق المسلمين", "is_correct": false},
+      {"choice_text": "أنها انتهت بانتهاء أصحابها", "is_correct": false}
+    ]
+  }
+]
+}

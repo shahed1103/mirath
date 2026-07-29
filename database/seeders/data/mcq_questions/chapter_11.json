@@ -1,0 +1,886 @@
+{
+    "chapter_id": 11,
+    "questions": [
+      {
+        "question_text": "ما هو الأثر الجوهري لظهور الطباعة على التراث الفقهي في العصر الحاضر كما ورد في النص؟",
+        "difficulty_score": 200,
+        "explanation": "أوضح النص أن الطباعة كانت المعلم الأبرز الذي ساهم في إخراج الكتب الفقهية من حيز المخطوطات النادرة إلى الانتشار الواسع بين طلاب العلم.",
+        "choices": [
+          {"choice_text": "نشر وتيسير الوصول لعدد كبير من الكتب الفقهية", "is_correct": true},
+          {"choice_text": "إلغاء الحاجة لتعلم المذاهب الفقهية الأربعة", "is_correct": false},
+          {"choice_text": "تحويل الفقه إلى مجرد دراسات نظرية قانونية", "is_correct": false},
+          {"choice_text": "اقتصار العلم على الفقهاء دون عامة المتعلمين", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "لماذا يعد إدراك (هدف الكتاب) شرطاً أساسياً قبل شروع طالب العلم في البحث فيه؟",
+        "difficulty_score": 500,
+        "explanation": "لكل مؤلف مقصده الخاص؛ فالبحث عن معلومة في كتاب لم يوضع لها يضيع الوقت ويؤدي لنتائج مغلوطة، كالبحث عن الأدلة في كتاب مخصص للروايات.",
+        "choices": [
+          {"choice_text": "لضمان صحة توظيف الكتاب في غرضه الذي صنف له", "is_correct": true},
+          {"choice_text": "للتأكد من مطابقة الكتاب لمنهج المتقدمين في التأليف", "is_correct": false},
+          {"choice_text": "للمفاضلة بين جودة الطباعة الورقية والإلكترونية", "is_correct": false},
+          {"choice_text": "لتحديد عدد المجلدات الكلي قبل البدء بالقراءة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الغرض الأساسي الذي صنف من أجله المرداوي كتابه (الإنصاف)؟",
+        "difficulty_score": 400,
+        "explanation": "نص الشارح على أن الإنصاف صنف لتحرير الروايات والأوجه داخل المذهب الحنبلي، ولم يصنف لاستيعاب الأدلة ومناقشتها.",
+        "choices": [
+          {"choice_text": "بيان الروايات والأوجه في المذهب", "is_correct": true},
+          {"choice_text": "استقصاء أدلة المسائل الفقهية ومناقشتها", "is_correct": false},
+          {"choice_text": "ذكر الإجماع القطعي عند المذاهب الأربعة", "is_correct": false},
+          {"choice_text": "شرح أحاديث الأحكام وتخريجها من السنن", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "وفقاً للنص، إذا أراد الطالب استخراج (دليل) مسألة فقهية، فما هو التقييم الصحيح لاستخدامه كتاب (الإنصاف)؟",
+        "difficulty_score": 600,
+        "explanation": "استخدامه غير دقيق منهجياً لأن الكتاب يستهدف تحرير المذهب حنبلياً وليس الاستدلال، مما قد يجعله لا يجد طلبته فيه.",
+        "choices": [
+          {"choice_text": "غير مناسب لأن الكتاب لم يستهدف بيان الأدلة ابتداءً", "is_correct": true},
+          {"choice_text": "مناسب جداً لشموله على أقوال المذاهب الأربعة بأدلتها", "is_correct": false},
+          {"choice_text": "مناسب لأنه أوسع مرجع فقهي في الفقه المقارن", "is_correct": false},
+          {"choice_text": "غير مناسب لكونه مخصصاً للنوازل الطبية المعاصرة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أي نوع من الكتب التالية أشار النص إلى أهمية الرجوع إليها لمعرفة المسائل الخلافية وأدلة الأقوال؟",
+        "difficulty_score": 300,
+        "explanation": "كتب الفقه المقارن هي المراجع النوعية التي تعنى بذكر الخلاف العالي والأدلة والمناقشة.",
+        "choices": [
+          {"choice_text": "كتب الفقه المقارن", "is_correct": true},
+          {"choice_text": "كتب المتون المختصرة للمبتدئين", "is_correct": false},
+          {"choice_text": "كتب الفتاوى الفردية المعاصرة", "is_correct": false},
+          {"choice_text": "كتب القواعد الأصولية المجردة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما المعلم الفقهي الذي أبرزته الطباعة بخصوص كتب (الإجماع)؟",
+        "difficulty_score": 200,
+        "explanation": "جعلتها متاحة ومنتشرة بعد أن كانت مفقودة أو نادرة، مما مكن الطلاب من ضبط مواضع الاتفاق.",
+        "choices": [
+          {"choice_text": "إتاحتها ونشرها كمعلم فقهي في العصر الحاضر", "is_correct": true},
+          {"choice_text": "تسهيل تعديل نصوص الإجماع لتناسب العصر", "is_correct": false},
+          {"choice_text": "دمج كتب الإجماع في موسوعة إلكترونية واحدة", "is_correct": false},
+          {"choice_text": "قصر الاطلاع عليها على المجامع الفقهية فقط", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "تهدف معرفة المنهجية الصحيحة للتعامل مع المكتبة الفقهية إلى:",
+        "difficulty_score": 400,
+        "explanation": "تمكين الباحث من اختيار الكتاب المتوافق مع غرضه العلمي (دليل، رواية، إجماع، نازلة).",
+        "choices": [
+          {"choice_text": "وضع اليد على الكتاب المناسب للغرض البحثي", "is_correct": true},
+          {"choice_text": "الاستغناء عن حضور دروس المشايخ والعلماء", "is_correct": false},
+          {"choice_text": "القدرة على نقد المتقدمين في مناهج تأليفهم", "is_correct": false},
+          {"choice_text": "حصر الكتب المطبوعة حسب تاريخ صدورها", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "فائدة كتب الفقه المقارن المطبوعة لطالب العلم تتركز في:",
+        "difficulty_score": 300,
+        "explanation": "معرفة تباين وجهات نظر الفقهاء وتوجيه أدلتهم في مسائل الخلاف.",
+        "choices": [
+          {"choice_text": "معرفة الأقوال وتوجيه أدلة مسائل الخلاف", "is_correct": true},
+          {"choice_text": "ضبط عبارات المتون الفقهية المعتمدة", "is_correct": false},
+          {"choice_text": "معرفة التواريخ الدقيقة لوفيات أصحاب المذاهب", "is_correct": false},
+          {"choice_text": "تحديد الكتب التي لم تُطبع بعد في العصر الحاضر", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "الخطأ المنهجي الذي قد يقع فيه الباحث في كتاب (الإنصاف) هو:",
+        "difficulty_score": 500,
+        "explanation": "توقع استيعاب الأدلة، لأن مقصد المؤلف المرداوي كان تحرير الرواية في المذهب الحنبلي.",
+        "choices": [
+          {"choice_text": "توقع وجود تفصيل مستفيض لأدلة المسائل", "is_correct": true},
+          {"choice_text": "توقع وجود ترتيب أبجدي للمسائل الفقهية", "is_correct": false},
+          {"choice_text": "توقع وجود مسائل تتعلق بالنوازل الاقتصادية", "is_correct": false},
+          {"choice_text": "توقع وجود نقد لأصول المذهب الحنبلي", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ركز المحاضر في محور الطباعة على كتب الإجماع والمذاهب الأربعة لكونها:",
+        "difficulty_score": 200,
+        "explanation": "تمثل الأساس المتين الذي نُشر في العصر الحاضر لتأسيس طالب العلم فقهياً.",
+        "choices": [
+          {"choice_text": "نماذج فقهية مطبوعة تمثل معالم العصر الحاضر", "is_correct": true},
+          {"choice_text": "بدائل عصرية عن دراسة كتب المتقدمين المخطوطة", "is_correct": false},
+          {"choice_text": "كتباً مخصصة لغير المتخصصين في الشريعة", "is_correct": false},
+          {"choice_text": "المصادر الوحيدة التي اعتمدتها المجامع الفقهية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المحاضر كتاب (الأوسط) لابن المنذر؟",
+        "difficulty_score": 100,
+        "explanation": "وصفه بالجلالة والعظمة لكونه مرجعاً أصيلاً في ذكر اختلاف العلماء.",
+        "choices": [
+          {"choice_text": "كتاب جليل وعظيم في معرفة الاختلاف", "is_correct": true},
+          {"choice_text": "كتاب مختصر ومبسط لطلاب المرحلة الأولى", "is_correct": false},
+          {"choice_text": "كتاب متخصص في أصول الفقه الحنفي", "is_correct": false},
+          {"choice_text": "كتاب يقتصر على ذكر إجماعات الصحابة فقط", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "هل يصح للمبتدئ في طلب العلم البدء بدراسة كتاب (الأوسط) لابن المنذر؟",
+        "difficulty_score": 600,
+        "explanation": "لا يصح؛ لأن جلالة الكتاب وعظمته لا تعني ملاءمته لجميع الطبقات، فالمبتدئ يحتاج للتدرج.",
+        "choices": [
+          {"choice_text": "لا، لأنه ليس بالضرورة مناسباً لجميع طبقات المتعلمين", "is_correct": true},
+          {"choice_text": "نعم، لأن عظمة الكتاب تضمن تحصيل العلم سريعاً", "is_correct": false},
+          {"choice_text": "نعم، لكونه يجمع كل الأقوال في مكان واحد", "is_correct": false},
+          {"choice_text": "لا، لأن الكتاب لا يزال مخطوطاً ولم يطبع بعد", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما وجه الاستدلال بذكر (تفسير ابن جرير الطبري) في سياق الحديث عن (الأوسط)؟",
+        "difficulty_score": 700,
+        "explanation": "التمثيل بأن الكتب الأمات العظيمة قد لا تصلح كمقررات دراسية للمبتدئين رغم قيمتها العلمية الفائقة.",
+        "choices": [
+          {"choice_text": "أن عظمة الكتاب لا تقتضي صلاحيته للبدء به في الطلب", "is_correct": true},
+          {"choice_text": "أن كلا الكتابين يعتمدان الترتيب الأبجدي المعاصر", "is_correct": false},
+          {"choice_text": "أن كلا الكتابين مفقودان في العصر الحاضر", "is_correct": false},
+          {"choice_text": "أن ابن المنذر اعتمد في كتابه على تفسير ابن جرير", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الميزة المنهجية لكتاب (اختلاف العلماء) للوزير ابن هبيرة؟",
+        "difficulty_score": 400,
+        "explanation": "يتميز بوضوح منهجي في فرز المسائل إلى مواضع اتفاق (إجماع) ومواضع خلاف في كل باب.",
+        "choices": [
+          {"choice_text": "يوضح مواضع الاتفاق ومواضع الخلاف في كل باب", "is_correct": true},
+          {"choice_text": "يرتب المسائل بناءً على قوة الدليل العقلي", "is_correct": false},
+          {"choice_text": "يقتصر على ذكر أقوال التابعين دون الصحابة", "is_correct": false},
+          {"choice_text": "يركز على تخريج الأحاديث الضعيفة في المذهب", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كتاب (بداية المجتهد ونهاية المقتصد) لابن رشد الحفيد يدرس كمقرر في:",
+        "difficulty_score": 300,
+        "explanation": "أشار النص إلى أنه مقرر دراسي في الجامعة الإسلامية بالمدينة المنورة.",
+        "choices": [
+          {"choice_text": "الجامعة الإسلامية بالمدينة المنورة", "is_correct": true},
+          {"choice_text": "جامعة الإمام بالرياض", "is_correct": false},
+          {"choice_text": "جامعة أم القرى بمكة المكرمة", "is_correct": false},
+          {"choice_text": "جامعة الأزهر بالقاهرة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "مؤلف (بداية المجتهد) هو الفقيه ابن رشد:",
+        "difficulty_score": 200,
+        "explanation": "أكد النص على ضرورة التمييز بين ابن رشد الجد والحفيد، والمؤلف هو الحفيد.",
+        "choices": [
+          {"choice_text": "الحفيد", "is_correct": true},
+          {"choice_text": "الجد", "is_correct": false},
+          {"choice_text": "المعاصر", "is_correct": false},
+          {"choice_text": "البغدادي", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الخصيصة العلمية التي امتاز بها كتاب (بداية المجتهد) في عرضه للخلاف؟",
+        "difficulty_score": 600,
+        "explanation": "يمتاز بإيجاز العبارة، وحصر رؤوس المسائل، وبيان (أسباب اختلاف) العلماء.",
+        "choices": [
+          {"choice_text": "بيان سبب اختلاف الفقهاء في كل مسألة", "is_correct": true},
+          {"choice_text": "التوسع في ذكر الأدلة النقلية من المسانيد", "is_correct": false},
+          {"choice_text": "استقصاء جميع الروايات داخل المذاهب الأربعة", "is_correct": false},
+          {"choice_text": "التركيز على نقد أصول المذهب المالكي", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "من هو محقق كتاب (المغني) لابن قدامة الذي نوه النص بجودة تحقيقه؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر النص أن طبعة المغني بتحقيق الدكتور عبد الله التركي هي المعتبرة.",
+        "choices": [
+          {"choice_text": "الدكتور عبد الله التركي", "is_correct": true},
+          {"choice_text": "الشيخ دبيان الدبيان", "is_correct": false},
+          {"choice_text": "الشيخ خالد المشيقح", "is_correct": false},
+          {"choice_text": "الدكتور محمد الجيزاني", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كتاب (الشرح الكبير) المذكور في سياق كتب الخلاف العالي هو لـ:",
+        "difficulty_score": 300,
+        "explanation": "نص الشارح على كتاب الشرح الكبير لابن أبي عمر.",
+        "choices": [
+          {"choice_text": "ابن أبي عمر", "is_correct": true},
+          {"choice_text": "ابن قدامة المقدسي", "is_correct": false},
+          {"choice_text": "شمس الدين الزركشي", "is_correct": false},
+          {"choice_text": "ابن رشد الحفيد", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما القيمة التربوية لبيان (سبب الخلاف) في كتاب بداية المجتهد؟",
+        "difficulty_score": 800,
+        "explanation": "تساعد في تنمية الملكة الفقهية وفهم الأصول التي ينبني عليها تباين الفتاوى والأحكام.",
+        "choices": [
+          {"choice_text": "فهم الأصول العلمية التي تفرعت عنها الأقوال", "is_correct": true},
+          {"choice_text": "حفظ أقوال العلماء مجردة عن أصولها", "is_correct": false},
+          {"choice_text": "تحديد القول الراجح بناءً على الهوى الشخصي", "is_correct": false},
+          {"choice_text": "الاستغناء عن دراسة أصول الفقه والقواعد", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "يصنف كتاب (الأوسط) لابن المنذر ضمن كتب:",
+        "difficulty_score": 400,
+        "explanation": "هو من أعظم وأجمل ما صنف في معرفة اختلاف العلماء (الخلاف العالي).",
+        "choices": [
+          {"choice_text": "معرفة اختلاف العلماء", "is_correct": true},
+          {"choice_text": "القواعد الفقهية الكلية", "is_correct": false},
+          {"choice_text": "تخريج أحاديث الأحكام", "is_correct": false},
+          {"choice_text": "تاريخ التشريع الإسلامي", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "لماذا شدد النص على أن عظمة الكتاب لا تعني كونه (مقرراً دراسياً)؟",
+        "difficulty_score": 500,
+        "explanation": "لأن الكتب الكبيرة صُنفت كبنوك للمعلومات ومراجع للمتخصصين لا للتأسيس الأولي للمبتدئين.",
+        "choices": [
+          {"choice_text": "لأن لكل مرحلة طلب ما يناسبها من الكتب", "is_correct": true},
+          {"choice_text": "لأن الكتب القديمة لا تحتوي على أدلة شرعية", "is_correct": false},
+          {"choice_text": "لأن المبتدئ يجب أن يقرأ في كتب المعاصرين فقط", "is_correct": false},
+          {"choice_text": "لأن الكتب العظيمة مخصصة للمجتهد المطلق فقط", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "الأسلوب المتبع في (بداية المجتهد) يعتمد على ذكر:",
+        "difficulty_score": 400,
+        "explanation": "يعتمد على حصر المسائل الكبرى (رؤوس المسائل) وتوضيح جوهر الخلاف فيها.",
+        "choices": [
+          {"choice_text": "رؤوس المسائل التي وقع فيها الخلاف", "is_correct": true},
+          {"choice_text": "جميع التفريعات الدقيقة في كل مذهب", "is_correct": false},
+          {"choice_text": "قصص وسير الفقهاء أصحاب الأقوال", "is_correct": false},
+          {"choice_text": "الأحاديث الضعيفة والموضوعة للتحذير منها", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أي من الكتب التالية ينتمي لمؤلف (حفيد) اشتهر بكتاب في الخلاف العالي؟",
+        "difficulty_score": 200,
+        "explanation": "ابن رشد الحفيد هو مؤلف بداية المجتهد، ويجب تمييزه عن جده.",
+        "choices": [
+          {"choice_text": "بداية المجتهد ونهاية المقتصد", "is_correct": true},
+          {"choice_text": "المغني في فقه الإمام أحمد", "is_correct": false},
+          {"choice_text": "الأوسط في السنن والإجماع", "is_correct": false},
+          {"choice_text": "الإنصاف في معرفة الراجح من الخلاف", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ميزة كتاب الوزير ابن هبيرة (اختلاف العلماء) تتجلى في:",
+        "difficulty_score": 500,
+        "explanation": "تحديد ما اتفق عليه الأئمة وما اختلفوا فيه في مدخل كل باب فقهي.",
+        "choices": [
+          {"choice_text": "تبيين مواضع الإجماع والنزاع بوضوح", "is_correct": true},
+          {"choice_text": "التركيز على الأدلة العقلية الفلسفية", "is_correct": false},
+          {"choice_text": "ترتيب المسائل حسب قوة المذهب الحنبلي", "is_correct": false},
+          {"choice_text": "شرح الأحاديث الواردة في الكتب الستة", "is_correct": false}
+        ]
+
+      },
+      {
+        "question_text": "ما السمة البارزة في ترتيب (الموسوعة الفقهية الكويتية)؟",
+        "difficulty_score": 300,
+        "explanation": "تعتمد الترتيب الأبجدي حسب حروف المعجم لتسهيل الوصول للمسائل.",
+        "choices": [
+          {"choice_text": "الترتيب حسب حروف المعجم (أبجدياً)", "is_correct": true},
+          {"choice_text": "الترتيب حسب أبواب الفقه التقليدية", "is_correct": false},
+          {"choice_text": "الترتيب حسب القرون الزمنية للفقهاء", "is_correct": false},
+          {"choice_text": "الترتيب حسب قوة الدليل الشرعي", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "إذا أراد باحث استخراج حكم (إقامة الحد) من الموسوعة الكويتية، فأين يبحث؟",
+        "difficulty_score": 400,
+        "explanation": "بما أنها مرتبة أبجدياً، فمسألة (إقامة الحد) تطلب في حرف الألف.",
+        "choices": [
+          {"choice_text": "في حرف الألف", "is_correct": true},
+          {"choice_text": "في كتاب الجنايات", "is_correct": false},
+          {"choice_text": "في حرف الحاء", "is_correct": false},
+          {"choice_text": "في الملحق الخاص بالعقوبات", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "هل يصح الاعتماد التام على الموسوعات الفقهية المعاصرة في (تحرير المذهب)؟",
+        "difficulty_score": 600,
+        "explanation": "لا، المنهجية العلمية تقتضي توثيق المذهب من كتبه الأصلية المعتمدة لا من الموسوعات العامة.",
+        "choices": [
+          {"choice_text": "لا، بل يجب التوثيق من الكتب المعتمدة داخل المذهب", "is_correct": true},
+          {"choice_text": "نعم، لأن الموسوعات جمعت زبدة المذاهب الأربعة", "is_correct": false},
+          {"choice_text": "نعم، لكونها خضعت للتحكيم من لجان علمية كبرى", "is_correct": false},
+          {"choice_text": "لا، لأنها لا تذكر أقوال المذاهب بدقة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما هو منهج الموسوعة الفقهية الكويتية في التعامل مع (الأدلة)؟",
+        "difficulty_score": 500,
+        "explanation": "تذكر المعتمد عند المذاهب وتورد الأدلة بإيجاز دون استيعاب أو توسع.",
+        "choices": [
+          {"choice_text": "تذكر الأدلة بشكل موجز ولا تستهدف الاستيعاب", "is_correct": true},
+          {"choice_text": "تستوعب جميع الأدلة النقلية والعقلية والمناقشات", "is_correct": false},
+          {"choice_text": "تقتصر على ذكر الأقوال الفقهية دون أي دليل", "is_correct": false},
+          {"choice_text": "تذكر أدلة المذهب الحنفي والمالكي فقط", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "موسوعة (أحكام الطهارة) للشيخ دبيان الدبيان مرتبة حسب:",
+        "difficulty_score": 400,
+        "explanation": "نص الشارح على أنها مرتبة على أبواب الفقه وليس على الحروف.",
+        "choices": [
+          {"choice_text": "أبواب الفقه التقليدية", "is_correct": true},
+          {"choice_text": "حروف المعجم الأبجدية", "is_correct": false},
+          {"choice_text": "أسماء الرواة من الصحابة", "is_correct": false},
+          {"choice_text": "التسلسل الزمني للمسائل", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "من هو صاحب كتاب (مشكلات المفطرات) الذي ذكره النص في نوازل الصيام؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر النص أن كتاب 'مشكلات المفطرات' هو للدكتور فؤاد الهامشي.",
+        "choices": [
+          {"choice_text": "الدكتور فؤاد الهامشي", "is_correct": true},
+          {"choice_text": "الشيخ أسامة خالوي", "is_correct": false},
+          {"choice_text": "الدكتور عبد الله الغفيلي", "is_correct": false},
+          {"choice_text": "الشيخ دبيان الدبيان", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "من هو مؤلف كتاب (النوازل في الصيام) الذي أشار إليه النص كمرجع متخصص؟",
+        "difficulty_score": 400,
+        "explanation": "نص الشارح على أن 'النوازل في الصيام' هو للشيخ أسامة خالوي.",
+        "choices": [
+          {"choice_text": "الشيخ أسامة خالوي", "is_correct": true},
+          {"choice_text": "الدكتور فؤاد الهامشي", "is_correct": false},
+          {"choice_text": "الشيخ خالد المشيقح", "is_correct": false},
+          {"choice_text": "ابن جاسر", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "موسوعة (الجامع في الوصايا والأوقاف والهبات) هي من نتاج الشيخ:",
+        "difficulty_score": 300,
+        "explanation": "هذه الموسوعة المتخصصة في أبواب التبرعات هي للشيخ خالد المشيقح.",
+        "choices": [
+          {"choice_text": "خالد المشيقح", "is_correct": true},
+          {"choice_text": "دبيان الدبيان", "is_correct": false},
+          {"choice_text": "عبد الله الغفيلي", "is_correct": false},
+          {"choice_text": "محمد حسين الجيزاني", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كتاب (النوازل في الزكاة) للدكتور عبد الله الغفيلي يتميز بأنه:",
+        "difficulty_score": 300,
+        "explanation": "كتاب متخصص يخدم جانباً محدداً وهو المستجدات في باب الزكاة فقط.",
+        "choices": [
+          {"choice_text": "يخدم باب الزكاة ونوازله فقط", "is_correct": true},
+          {"choice_text": "يجمع كل أبواب المعاملات المالية", "is_correct": false},
+          {"choice_text": "مرتب حسب حروف المعجم الأبجدية", "is_correct": false},
+          {"choice_text": "يقتصر على ذكر فقه المتقدمين دون المعاصرين", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما السمة الفارقة لـ (موسوعة القضايا الفقهية المعاصرة) الصادرة عن مركز التميز البحثي؟",
+        "difficulty_score": 600,
+        "explanation": "تقتصر كلياً على (النوازل) والمستجدات دون التطرق للمسائل الفقهية التقليدية القديمة.",
+        "choices": [
+          {"choice_text": "تقتصر على النوازل ولا تتعرض للمسائل التقليدية", "is_correct": true},
+          {"choice_text": "تجمع بين أمهات المسائل القديمة ونوازل العصر", "is_correct": false},
+          {"choice_text": "مخصصة لذكر إجماعات الصحابة في العبادات", "is_correct": false},
+          {"choice_text": "مرتبة حسب الوفيات من فقهاء القرن الرابع عشر", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "إذا بحثت عن حكم (صفة الوضوء) في موسوعة القضايا الفقهية المعاصرة، فما النتيجة المتوقعة؟",
+        "difficulty_score": 700,
+        "explanation": "لن تجدها، لأن الموسوعة لا تذكر المسائل التقليدية مثل صفة الوضوء بل تركز على النوازل.",
+        "choices": [
+          {"choice_text": "لن أجدها لأنها تقتصر على المسائل المستجدة", "is_correct": true},
+          {"choice_text": "سأجدها مفصلة في حرف الواو", "is_correct": false},
+          {"choice_text": "سأجدها في كتاب الطهارة من المجلد الأول", "is_correct": false},
+          {"choice_text": "سأجدها في ملحق خاص بالعبادات التقليدية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أي المسائل التالية يمكن العثور عليها في موسوعة القضايا الفقهية المعاصرة؟",
+        "difficulty_score": 500,
+        "explanation": "الموسوعة تورد مسائل مثل (حكم الغسيل الكلوي) و(التورق المصرفي) و(الصلاة في الطائرة).",
+        "choices": [
+          {"choice_text": "حكم الغسيل الكلوي وأثره على الصيام", "is_correct": true},
+          {"choice_text": "شروط وجوب الزكاة في بهيمة الأنعام", "is_correct": false},
+          {"choice_text": "أركان عقد النكاح في المذهب الشافعي", "is_correct": false},
+          {"choice_text": "أحكام الحيض والنفاس التقليدية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كتاب (منسك ابن جاسر) يوصف بأنه:",
+        "difficulty_score": 400,
+        "explanation": "كتاب دسم وضخم يركز بشكل أساسي على فقه المذهب الحنبلي في المناسك.",
+        "choices": [
+          {"choice_text": "كتاب دسم وضخم يركز على المذهب الحنبلي", "is_correct": true},
+          {"choice_text": "مختصر بسيط للمعتمرين في المطار", "is_correct": false},
+          {"choice_text": "موسوعة إلكترونية شاملة لأحكام الحج", "is_correct": false},
+          {"choice_text": "كتاب يقتصر على ذكر الأحاديث الضعيفة في الحج", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "بماذا امتاز (منسك ابن جماعة الكناني) في عرضه لأحكام الحج؟",
+        "difficulty_score": 500,
+        "explanation": "يتميز بذكر مذاهب الأئمة الأربعة في مسائل المناسك.",
+        "choices": [
+          {"choice_text": "يتميز بذكر المذاهب الفقهية الأربعة", "is_correct": true},
+          {"choice_text": "يتميز بالاختصار الشديد المناسب للمبتدئين", "is_correct": false},
+          {"choice_text": "يتميز بالترتيب حسب حروف المعجم", "is_correct": false},
+          {"choice_text": "يتميز بالتركيز على فقه أهل المدينة وحدهم", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "يصنف النص الموسوعات الفقهية المعاصرة (مثل الكويتية ودبيان) على أنها:",
+        "difficulty_score": 600,
+        "explanation": "مراجع علمية يرجع إليها عند الحاجة، وليست كتباً للتفقه والتدرج الدراسي.",
+        "choices": [
+          {"choice_text": "مراجع وليست كتباً دراسية للتفقه", "is_correct": true},
+          {"choice_text": "أفضل الكتب لبدء طلب العلم للمبتدئ", "is_correct": false},
+          {"choice_text": "بدائل شرعية تغني عن كتب المتقدمين", "is_correct": false},
+          {"choice_text": "مخصصة فقط للرد على المستشرقين", "is_correct": false}
+        ]
+  },
+  {
+        "question_text": "ما الدافع الأساسي لنشوء (الاجتهاد الجماعي) متمثلاً في المجامع الفقهية؟",
+        "difficulty_score": 300,
+        "explanation": "كثرة المستجدات وتوقد النوازل التي قد يعجز الاجتهاد الفردي عن الإحاطة بها.",
+        "choices": [
+          {"choice_text": "كثرة المستجدات وتعقد النوازل الفقهية", "is_correct": true},
+          {"choice_text": "الرغبة في توحيد المذاهب الأربعة في مذهب واحد", "is_correct": false},
+          {"choice_text": "وضع قواعد للغة العربية وتوحيدها عالمياً", "is_correct": false},
+          {"choice_text": "استبدال الكتاتيب التقليدية بجامعات حديثة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "لماذا تستعين المجامع الفقهية بخبراء في الطب والاقتصاد؟",
+        "difficulty_score": 500,
+        "explanation": "لأن الحكم على الشيء فرع عن تصوره، وبعض النوازل تتطلب فهماً دقيقاً من أهل التخصص غير الشرعي.",
+        "choices": [
+          {"choice_text": "للمساعدة في تصور المسألة بشكل دقيق قبل الحكم عليها", "is_correct": true},
+          {"choice_text": "لأن الفقهاء في العصر الحاضر لا يحفظون القرآن", "is_correct": false},
+          {"choice_text": "لأن المجامع الفقهية تابعة لمنظمات تجارية دولية", "is_correct": false},
+          {"choice_text": "لإصدار قوانين مدنية بديلة عن الأحكام الشرعية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما هي الآلية المتبعة غالباً في إصدار قرارات المجامع الفقهية؟",
+        "difficulty_score": 400,
+        "explanation": "تصدر القرارات بناءً على رأي الأغلبية من الأعضاء المشاركين.",
+        "choices": [
+          {"choice_text": "تصدر القرارات بالأغلبية", "is_correct": true},
+          {"choice_text": "تستلزم الإجماع الكلي لجميع علماء الأرض", "is_correct": false},
+          {"choice_text": "تعتمد على رأي رئيس المجمع بصفة منفردة", "is_correct": false},
+          {"choice_text": "تتبع مذهب الدولة التي تستضيف الاجتماع دائماً", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أين يقع المقر الرئيس للمجمع الفقهي الدولي التابع لمنظمة التعاون الإسلامي؟",
+        "difficulty_score": 200,
+        "explanation": "مقر مجمع منظمة التعاون الإسلامي هو مدينة جدة.",
+        "choices": [
+          {"choice_text": "جدة", "is_correct": true},
+          {"choice_text": "مكة المكرمة", "is_correct": false},
+          {"choice_text": "المدينة المنورة", "is_correct": false},
+          {"choice_text": "القاهرة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "المجمع الفقهي التابع لرابطة العالم الإسلامي يتخذ من ....... مقراً له:",
+        "difficulty_score": 200,
+        "explanation": "مجمع الرابطة مقره الرئيس في مكة المكرمة.",
+        "choices": [
+          {"choice_text": "مكة المكرمة", "is_correct": true},
+          {"choice_text": "جدة", "is_correct": false},
+          {"choice_text": "الرياض", "is_correct": false},
+          {"choice_text": "الخرطوم", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أي من الهيئات التالية تعد مثالاً للمجامع الفقهية (الإقليمية) المذكورة في النص؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر النص مجمع البحوث الإسلامية بالقاهرة، ومجمع الهند، ومجمع السودان كأمثلة إقليمية.",
+        "choices": [
+          {"choice_text": "مجمع البحوث الإسلامية بالقاهرة", "is_correct": true},
+          {"choice_text": "المجمع الفقهي الدولي بجدة", "is_correct": false},
+          {"choice_text": "مجمع رابطة العالم الإسلامي بمكة", "is_correct": false},
+          {"choice_text": "مركز التميز البحثي بجامعة الإمام", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما القيمة النوعية لمجلة (المجمع الفقهي الدولي بجدة) بالنسبة لطلاب العلم؟",
+        "difficulty_score": 600,
+        "explanation": "توفر تفريغاً كاملاً للمناقشات والاعتراضات والأجوبة، مما ينمي الملكة الفقهية العميقة.",
+        "choices": [
+          {"choice_text": "تحتوي على تفريغ للمناقشات التي تنمي الملكة", "is_correct": true},
+          {"choice_text": "تقتصر على ذكر أسماء الفائزين بجوائز المجمع", "is_correct": false},
+          {"choice_text": "توزع فتاوى مختصرة جداً لعامة الناس فقط", "is_correct": false},
+          {"choice_text": "تقدم دروساً في النحو والصرف لغير المتخصصين", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كتاب (فقه النوازل) للدكتور محمد حسين الجيزاني يفيد الباحث في:",
+        "difficulty_score": 500,
+        "explanation": "جمع وترتيب قرارات المجامع الفقهية الكبرى حسب الأبواب لتسهيل الوصول إليها.",
+        "choices": [
+          {"choice_text": "الوقوف على قرارات المجامع الفقهية مرتبة", "is_correct": true},
+          {"choice_text": "معرفة أصول الفقه عند المذهب المالكي", "is_correct": false},
+          {"choice_text": "شرح المتون الفقهية الحنبلية المخطوطة", "is_correct": false},
+          {"choice_text": "تتبع سير أعضاء هيئة كبار العلماء", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كم عدد مجلدات كتاب (فقه النوازل) للجيزاني كما ورد في النص؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر النص أن هذا الكتاب يقع في أربع مجلدات.",
+        "choices": [
+          {"choice_text": "أربع مجلدات", "is_correct": true},
+          {"choice_text": "مجلدان فقط", "is_correct": false},
+          {"choice_text": "عشر مجلدات", "is_correct": false},
+          {"choice_text": "مجلد واحد ضخم", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "لماذا يعد الاطلاع على (أبحاث المجامع) أكثر فائدة من الاقتصار على (القرار)؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الأبحاث تورد الأدلة النقلية والعقلية والمناقشات المستفيضة التي تظهر وجهات النظر المختلفة.",
+        "choices": [
+          {"choice_text": "لأن الأبحاث تظهر طرق الاستدلال والمناقشات العلمية", "is_correct": true},
+          {"choice_text": "لأن القرار النهائي قد لا يكون معتمداً من الدولة", "is_correct": false},
+          {"choice_text": "لأن الأبحاث تحتوي على صور نادرة للمشاركين", "is_correct": false},
+          {"choice_text": "لأن القرارات الفقهية تصدر بلغات غير العربية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "المجمع الفقهي الدولي التابع لمنظمة التعاون الإسلامي كان يعرف سابقاً بمجمع:",
+        "difficulty_score": 300,
+        "explanation": "كانت المنظمة تسمى 'منظمة المؤتمر الإسلامي'.",
+        "choices": [
+          {"choice_text": "منظمة المؤتمر الإسلامي", "is_correct": true},
+          {"choice_text": "رابطة الشعوب الإسلامية", "is_correct": false},
+          {"choice_text": "علماء المسلمين العالمي", "is_correct": false},
+          {"choice_text": "الاتحاد الفقهي المشترك", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "قد يصدر العدد الواحد من مجلة المجمع الفقهي بجدة في:",
+        "difficulty_score": 400,
+        "explanation": "أشار النص لضخامة المجلة حيث قد يصل العدد الواحد لثلاث مجلدات كبار أو أكثر.",
+        "choices": [
+          {"choice_text": "ثلاث مجلدات كبار أو أكثر", "is_correct": true},
+          {"choice_text": "نشرة بريدية من عشر صفحات", "is_correct": false},
+          {"choice_text": "قرص ليزر غير مطبوع ورقياً", "is_correct": false},
+          {"choice_text": "مجلد صغير الحجم جداً", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أي من المجامع الإقليمية التالية ذكرها النص صراحة؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر النص مجمع علماء الهند ومجمع السودان.",
+        "choices": [
+          {"choice_text": "مجمع علماء الهند", "is_correct": true},
+          {"choice_text": "مجمع علماء المغرب العربي", "is_correct": false},
+          {"choice_text": "مجمع فقهاء الشام", "is_correct": false},
+          {"choice_text": "مجمع علماء إندونيسيا", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الطبيعة القانونية/الشرعية لقرارات المجامع الفقهية حسب النص؟",
+        "difficulty_score": 800,
+        "explanation": "هي اجتهادات جماعية تصدر بالأغلبية، ولا تمثل إجماعاً قطعياً كإجماع الصحابة.",
+        "choices": [
+          {"choice_text": "اجتهادات جماعية تصدر بالأغلبية غالباً", "is_correct": true},
+          {"choice_text": "إجماعات قطعية لا يجوز مخالفتها أبداً", "is_correct": false},
+          {"choice_text": "نصوص تشريعية مساوية للقرآن والسنة", "is_correct": false},
+          {"choice_text": "آراء شخصية لرؤساء الدول الإسلامية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "الأبحاث المقدمة للمجامع الفقهية توصف بأنها:",
+        "difficulty_score": 600,
+        "explanation": "دراسات معمقة ومحكمة تخضع لنقاش علمي رصين قبل إقرارها.",
+        "choices": [
+          {"choice_text": "دراسات معمقة ومحكمة في النازلة", "is_correct": true},
+          {"choice_text": "مقالات صحفية مختصرة لعامة القراء", "is_correct": false},
+          {"choice_text": "مجرد ملخصات لكتب المتقدمين دون إضافة", "is_correct": false},
+          {"choice_text": "أوراق عمل سرية لا تخرج للعلن", "is_correct": false}
+        ]
+  },
+      {
+        "question_text": "ما الوظيفة الأساسية للمجلات الفقهية (المُحكّمة)؟",
+        "difficulty_score": 400,
+        "explanation": "تعتني بنشر الأبحاث العلمية التي خضعت للتقييم والتحكيم من قبل متخصصين.",
+        "choices": [
+          {"choice_text": "نشر الأبحاث الفقهية المحكمة", "is_correct": true},
+          {"choice_text": "نشر أخبار العلماء ورحلاتهم", "is_correct": false},
+          {"choice_text": "إصدار فتاوى يومية سريعة عبر الهاتف", "is_correct": false},
+          {"choice_text": "شرح الأحاديث الضعيفة في الرقائق", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أي المجلات التالية وصفها النص بالنفاسة وذكر وصولها لنحو 20 عدداً؟",
+        "difficulty_score": 300,
+        "explanation": "هي مجلة الجمعية الفقهية السعودية ومقرها جامعة الإمام.",
+        "choices": [
+          {"choice_text": "مجلة الجمعية الفقهية السعودية", "is_correct": true},
+          {"choice_text": "مجلة البحوث الفقهية المعاصرة", "is_correct": false},
+          {"choice_text": "مجلة مجمع الرابطة بمكة", "is_correct": false},
+          {"choice_text": "مجلة المنار العلمية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كيف ساهمت المواقع الشبكية في خدمة الفقه كما ورد في النص؟",
+        "difficulty_score": 400,
+        "explanation": "أزالت الحواجز الجغرافية وسهلت التواصل المباشر والسريع بين العلماء.",
+        "choices": [
+          {"choice_text": "تسهيل التواصل بين أهل العلم في الأقطار", "is_correct": true},
+          {"choice_text": "منح درجات الماجستير عن بعد بلا اختبارات", "is_correct": false},
+          {"choice_text": "إلغاء دور الكتب الورقية بشكل نهائي", "is_correct": false},
+          {"choice_text": "توحيد العملة في الدول الإسلامية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "من أمثلة المواقع الشبكية المتخصصة التي ذكرها النص:",
+        "difficulty_score": 200,
+        "explanation": "ذكر النص 'الشبكة الفقهية' و 'ملتقى المذاهب الفقهية'.",
+        "choices": [
+          {"choice_text": "ملتقى المذاهب الفقهية", "is_correct": true},
+          {"choice_text": "موقع أخبار العالم الإسلامي", "is_correct": false},
+          {"choice_text": "شبكة التواصل الاجتماعي الشاملة", "is_correct": false},
+          {"choice_text": "منتدى المحدثين والأثريين", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الأثر الإيجابي لوسائل الاتصال الحديثة (مثل واتساب) على مسألة (الإجماع)؟",
+        "difficulty_score": 700,
+        "explanation": "جعلت التحقق من مواقف العلماء في جميع أقطار الأرض ميسراً، مما يسهل رصد الاتفاق أو الخلاف.",
+        "choices": [
+          {"choice_text": "تيسير الوقوف على أقوال علماء الأقطار للتحقق من الإجماع", "is_correct": true},
+          {"choice_text": "جعل الإجماع مستحيلاً بسبب كثرة الرسائل والآراء", "is_correct": false},
+          {"choice_text": "منع الفقهاء من السفر والرحلة في طلب العلم", "is_correct": false},
+          {"choice_text": "تحويل العلم إلى مجرد مراسلات لا قيمة لها", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "عبارة ابن المنذر (أجمع من نحفظ عنه من أهل العلم) كانت تشير قديماً إلى:",
+        "difficulty_score": 500,
+        "explanation": "تشير لتعذر الإحاطة بكل العلماء قديماً بسبب تفرقهم في البلاد وصعوبة التواصل.",
+        "choices": [
+          {"choice_text": "تحريه للأقوال المتاحة له في ظل صعوبة التواصل قديماً", "is_correct": true},
+          {"choice_text": "رفضه لقبول إجماع غير الصحابة", "is_correct": false},
+          {"choice_text": "اقتصاره على علماء مكة والمدينة فقط", "is_correct": false},
+          {"choice_text": "رغبته في مخالفة إجماع علماء الأمصار", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "لماذا كان تحصيل الإجماع قديماً يحتاج لرحلة وتنقل؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب تباعد المسافات وتوزع العلماء في الأمصار الإسلامية الشاسعة.",
+        "choices": [
+          {"choice_text": "بسبب تفرق العلماء في الأقطار وبعد المسافات", "is_correct": true},
+          {"choice_text": "لأن الورق كان غير مسموح بنقله عبر الحدود", "is_correct": false},
+          {"choice_text": "بسبب رغبة العلماء في كتمان العلم قديماً", "is_correct": false},
+          {"choice_text": "لأن الإجماع لا يصح إلا بالمشافهة وجهاً لوجه", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "مجلة (البحوث الفقهية المعاصرة) تعتبر مثالاً لـ:",
+        "difficulty_score": 200,
+        "explanation": "هي من المجلات المتخصصة التي تعنى بنشر النوازل والأبحاث المحكمة.",
+        "choices": [
+          {"choice_text": "المجلات الفقهية المحكمة", "is_correct": true},
+          {"choice_text": "المواقع التفاعلية غير الرسمية", "is_correct": false},
+          {"choice_text": "الكتب المخطوطة التي لم تطبع", "is_correct": false},
+          {"choice_text": "الرسائل الجامعية المرفوضة علمياً", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "بماذا نصح المحاضر طلاب العلم بخصوص المجلات والجمعيات الفقهية؟",
+        "difficulty_score": 400,
+        "explanation": "نصح بالحرص على مطالعتها ومتابعتها لكونها تطلع الطالب على جديد الفقه وتنمي ملكته.",
+        "choices": [
+          {"choice_text": "الحرص على مطالعتها ومتابعتها لتنمية الملكة", "is_correct": true},
+          {"choice_text": "تجنب قراءتها لأنها تشوش على المتون القديمة", "is_correct": false},
+          {"choice_text": "قراءتها فقط عند الحاجة القصوى للفتوى", "is_correct": false},
+          {"choice_text": "العمل على اختصارها في كتيبات صغيرة جداً", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "العدد الواحد من مجلة الجمعية الفقهية السعودية يقع غالباً في:",
+        "difficulty_score": 300,
+        "explanation": "نص الشارح على أن كل عدد يقع في نحو 300 إلى 400 صفحة.",
+        "choices": [
+          {"choice_text": "نحو 300 إلى 400 صفحة", "is_correct": true},
+          {"choice_text": "نحو 10 صفحات فقط", "is_correct": false},
+          {"choice_text": "أكثر من 2000 صفحة للمجلد الواحد", "is_correct": false},
+          {"choice_text": "صفحة واحدة مركزة جداً", "is_correct": false}
+        ]
+  },
+  {
+        "question_text": "ما مكمن الخطر في الاعتماد الكلي على الموسوعات الإلكترونية دون ملكة فقهية؟",
+        "difficulty_score": 600,
+        "explanation": "خطر التضليل الفهمي، حيث قد ينقل الباحث قولاً لغير قائل أو يسيء فهم السياق العلمي.",
+        "choices": [
+          {"choice_text": "خطر التضليل وسوء الفهم ونسبة الأقوال لغير قائلها", "is_correct": true},
+          {"choice_text": "خطر استهلاك طاقة الأجهزة وضياع الوقت التقني", "is_correct": false},
+          {"choice_text": "خطر ارتفاع اشتراكات هذه المواقع والبرامج", "is_correct": false},
+          {"choice_text": "خطر الوصول للمعلومات بسرعة كبيرة تنسي الطالب الحفظ", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما المثال التحذيري الذي ذكره النص بخصوص النقل الإلكتروني عن ابن تيمية؟",
+        "difficulty_score": 700,
+        "explanation": "نسبة كلام لابن تيمية يكون هو قد نقله عن خصومه للرد عليهم، بسبب عدم قراءة السياق.",
+        "choices": [
+          {"choice_text": "نسبة كلام ينقله ابن تيمية عن غيره إليه شخصياً", "is_correct": true},
+          {"choice_text": "تحريف تاريخ وفاة شيخ الإسلام في محركات البحث", "is_correct": false},
+          {"choice_text": "نسبة كتب ابن القيم الجوزية لابن تيمية خطأً", "is_correct": false},
+          {"choice_text": "تغيير أسماء شيوخ ابن تيمية في الموسوعات", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الإجراء العلمي الصحيح عند العثور على معلومة فقهية إلكترونياً؟",
+        "difficulty_score": 500,
+        "explanation": "الرجوع للصفحات السابقة واللاحقة للوقوف على سياق الكلام والقائل الحقيقي.",
+        "choices": [
+          {"choice_text": "الرجوع للسياق قبل وبعد المعلومة للتأكد من القائل", "is_correct": true},
+          {"choice_text": "نسخ المعلومة فوراً وتوثيقها في البحث دون تأخير", "is_correct": false},
+          {"choice_text": "الاكتفاء بما يظهر في شاشة البحث السريع", "is_correct": false},
+          {"choice_text": "مقارنة المعلومة بمعلومات من مواقع إخبارية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "البيت الشعري (إذا رمت العلوم بغير شيخ... ضللت عن الصراط المستقيم) يؤكد على:",
+        "difficulty_score": 400,
+        "explanation": "مركزية التلقي عن العلماء لبناء الملكة وحماية الطالب من الزلل الفهمي.",
+        "choices": [
+          {"choice_text": "ضرورة التلقي عن المشايخ لبناء الملكة الفقهية", "is_correct": true},
+          {"choice_text": "أن الكتب الورقية لا قيمة لها بوجود الشيوخ", "is_correct": false},
+          {"choice_text": "أن الشيخ يجب أن يحفظ كل الموسوعات الإلكترونية", "is_correct": false},
+          {"choice_text": "أن العلم لا يؤخذ إلا بالسفر الطويل لآلاف الكيلومترات", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "أشار النص لقصة (توما الحكيم) كتحذير لمن يأخذ العلم عن الصحف، فما العبرة منها؟",
+        "difficulty_score": 900,
+        "explanation": "التحذير من 'التصحيف' والضلال الذي يقع فيه من يستنبط الأحكام من الكتب والتقنية دون أساس منهجي من الشيوخ، مما قد يؤدي لإهلاك النفس أو الدين.",
+        "choices": [
+          {"choice_text": "التحذير من التصحيف والضلال بسبب ترك التلقي عن الشيوخ", "is_correct": true},
+          {"choice_text": "الاستدلال بذكاء الأطباء القدامى في التعامل مع الكتب", "is_correct": false},
+          {"choice_text": "الحث على القراءة الواسعة في كل الفنون دون قيد", "is_correct": false},
+          {"choice_text": "الإشادة بالموسوعات الإلكترونية التي تمنع الخطأ", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "موسوعة (جامع الفقه الإسلامي) تعتبر في العصر الحاضر من:",
+        "difficulty_score": 200,
+        "explanation": "هي من أبرز الموسوعات الإلكترونية التي تخدم الباحثين.",
+        "choices": [
+          {"choice_text": "أبرز الموسوعات الفقهية الإلكترونية", "is_correct": true},
+          {"choice_text": "المجامع الفقهية الإقليمية في الهند", "is_correct": false},
+          {"choice_text": "الكتب المفقودة لابن المنذر", "is_correct": false},
+          {"choice_text": "المجلات الفقهية المحكمة الشهرية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما التوصيف الصحيح للعلاقة بين (التقنية) و(البحث العلمي الفقهي)؟",
+        "difficulty_score": 300,
+        "explanation": "التقنية خادمة للبحث في سرعة الوصول للمعلومة، ولكنها ليست مصدراً للملكة والفهم.",
+        "choices": [
+          {"choice_text": "خادمة في الوصول للمعلومة ولا تغني عن الملكة", "is_correct": true},
+          {"choice_text": "تغني الطالب تماماً عن القراءة في أمهات الكتب", "is_correct": false},
+          {"choice_text": "تعوض النقص في حفظ القرآن والسنة لدى الباحث", "is_correct": false},
+          {"choice_text": "تعتبر المصدر الوحيد المعتد به في الاجتهاد الجماعي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما المقصود الفقهي بـ (النوازل) كما يستفاد من النص؟",
+        "difficulty_score": 300,
+        "explanation": "هي الوقائع والمسائل الجديدة التي استجدت في حياة الناس وتتطلب حكماً شرعياً.",
+        "choices": [
+          {"choice_text": "المسائل والوقائع الجديدة والمستجدة", "is_correct": true},
+          {"choice_text": "المسائل التي اتفق عليها الفقهاء قديماً", "is_correct": false},
+          {"choice_text": "الأحاديث التي نزلت في وقت الشدة فقط", "is_correct": false},
+          {"choice_text": "المسائل المهجورة التي لا يعمل بها الناس", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ذكر النص مثالاً لنازلة في باب (الطهارة) تتعلق بالصرف الصحي، وهي:",
+        "difficulty_score": 400,
+        "explanation": "حكم استعمال مياه الصرف الصحي بعد معالجتها وتنقيتها.",
+        "choices": [
+          {"choice_text": "استعمال مياه الصرف الصحي المعالجة", "is_correct": true},
+          {"choice_text": "الوضوء بمياه البحار المالحة", "is_correct": false},
+          {"choice_text": "المسح على الجوارب الرقيقة", "is_correct": false},
+          {"choice_text": "التيمم بالغبار العالق على الجدران", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "حكم (مس الجوال للقراءة منه بغير طهارة) يندرج تحت:",
+        "difficulty_score": 300,
+        "explanation": "يعتبر من النوازل المعاصرة الناتجة عن تطور التقنية واستخدام الجوال.",
+        "choices": [
+          {"choice_text": "نوازل الطهارة والقرآن", "is_correct": true},
+          {"choice_text": "أصول الفقه التقليدية", "is_correct": false},
+          {"choice_text": "فقه المواريث والوصايا", "is_correct": false},
+          {"choice_text": "تاريخ المذاهب الفقهية القديم", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الأثر الأبرز لكليات الشريعة (كجامعة الإمام وأم القرى) في الحراك الفقهي؟",
+        "difficulty_score": 400,
+        "explanation": "ساهمت في تحريك البحث العلمي ونشر العلم خاصة عبر برامج الدراسات العليا.",
+        "choices": [
+          {"choice_text": "تحريك البحث العلمي ونشره عبر الدراسات العليا", "is_correct": true},
+          {"choice_text": "منع الطلاب من الاجتهاد والاكتفاء بالتقليد", "is_correct": false},
+          {"choice_text": "إلغاء المناهج الفقهية القديمة واستبدالها بالقوانين", "is_correct": false},
+          {"choice_text": "حصر التعليم الشرعي في طبقة الأغنياء فقط", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "كيف وصف النص جودة (الرسائل العلمية) للماجستير والدكتوراه؟",
+        "difficulty_score": 500,
+        "explanation": "تعتبر مراجع مهمة، ولكنها تتفاوت في جودتها العلمية، فمنها ما هو نفيس ومنها ما هو دون ذلك.",
+        "choices": [
+          {"choice_text": "تعتبر مراجع مهمة في بابها مع تفاوت جودتها", "is_correct": true},
+          {"choice_text": "هي دائماً تمثل القمة العلمية ولا يعلوها شيء", "is_correct": false},
+          {"choice_text": "لا قيمة علمية لها لأنها مجرد متطلبات تخرج", "is_correct": false},
+          {"choice_text": "تعد المصدر الوحيد المعتمد للإجماع المعاصر", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "تفسير البيت (وكم كتاب حقه أن يتلفه... كم خدع الناس بريق الأغلفة) في السياق العلمي هو:",
+        "difficulty_score": 900,
+        "explanation": "تحذير نقدي عالي المستوى من الانخداع بالمظاهر المطبوعة والعناوين البراقة والرسائل الجامعية التي قد تفتقر للمحتوى العلمي الرصين والفقاهة الحقيقية.",
+        "choices": [
+          {"choice_text": "التحذير من الانخداع بجودة طباعة الكتب التي تفتقر للمحتوى الرصين", "is_correct": true},
+          {"choice_text": "الحث على شراء الكتب ذات الأغلفة الجميلة لجذب الطلاب", "is_correct": false},
+          {"choice_text": "الإشارة إلى أن جميع الكتب المطبوعة تستحق الإتلاف", "is_correct": false},
+          {"choice_text": "التأكيد على أن العلم لا يوجد إلا في المخطوطات القديمة", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "ما الموقف الصحيح من حمل شهادة (الدكتوراه) كدليل على العلم حسب النص؟",
+        "difficulty_score": 700,
+        "explanation": "الشهادة لا تعني الفقاهة بالضرورة؛ فالعلم خشية الله، والشهادة قد تمنح لمن لم يبلغ رتبة الفقيه الحقيقي.",
+        "choices": [
+          {"choice_text": "العلم ليس بحمل الشهادات وزخرفتها بل بخشية الله", "is_correct": true},
+          {"choice_text": "الدكتوراه هي البرهان القطعي على بلوغ رتبة الاجتهاد", "is_correct": false},
+          {"choice_text": "الحصول على الشهادة يغني عن مراجعة الشيوخ والعلماء", "is_correct": false},
+          {"choice_text": "الشهادات الأكاديمية مخصصة فقط للأغراض الوظيفية", "is_correct": false}
+        ]
+      },
+      {
+        "question_text": "في ختام النص، ما هو (كُلُّ العلم) كما وصفه الشيخ حافظ الحكمي في منظومته؟",
+        "difficulty_score": 900,
+        "explanation": "العلم الحقيقي ليس في نثر القول ولا زخرفة الشهادات، بل هو خشية الله في السر والعلن؛ وهذا هو المقصد الأسمى من التفقه.",
+        "choices": [
+          {"choice_text": "خشية الله في السر وفي العلن", "is_correct": true},
+          {"choice_text": "حفظ أكبر عدد من المجلدات والموسوعات", "is_correct": false},
+          {"choice_text": "الحصول على الألقاب العلمية من كبار الجامعات", "is_correct": false},
+          {"choice_text": "إتقان الجدل والمناظرة في مسائل الخلاف", "is_correct": false}
+        ]
+      }
+    ]
+  }

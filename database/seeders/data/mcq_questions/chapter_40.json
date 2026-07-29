@@ -1,0 +1,886 @@
+    {
+    "chapter_id": 40,
+    "questions": [
+        {
+        "question_text": "في أي سياق تندرج أحداث 'شق الصدر' و'الرؤيا الصالحة' حسب تقسيم المصدر؟",
+        "difficulty_score": 150,
+        "explanation": "المصدر يقسم الأحداث قبل البعثة إلى إرهاصات وتهيئة، وهذه الأحداث مرتبطة بالنبي مباشرة لإعداده [21].",
+        "choices": [
+            { "choice_text": "إرهاصات وتهيئة متعلقة بالنبي", "is_correct": true },
+            { "choice_text": "إرهاصات موجهة للناس فقط", "is_correct": false },
+            { "choice_text": "أحداث وقعت بعد الهجرة", "is_correct": false },
+            { "choice_text": "معجزات إثبات النبوة للمشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة التي ذكرها الماوردي وراء حماية الله للكعبة من أصحاب الفيل؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر الماوردي أن الحماية لم تكن لمصلحة قريش بل تأسيساً للنبوة وتعظيماً للكعبة [8].",
+        "choices": [
+            { "choice_text": "لأن قريشاً كانوا أهل كتاب", "is_correct": false },
+            { "choice_text": "تأسيساً للنبوة القادمة وتعظيماً للكعبة", "is_correct": true },
+            { "choice_text": "مكافأة لقريش على عبادة الأصنام", "is_correct": false },
+            { "choice_text": "بسبب قوة جيش مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين وقعت حادثة شق الصدر للنبي صلى الله عليه وسلم لأول مرة؟",
+        "difficulty_score": 200,
+        "explanation": "وقعت الحادثة وهو يلعب مع الغلمان عند مرضعته (حليمة السعدية) خارج مكة [11].",
+        "choices": [
+            { "choice_text": "في غار حراء", "is_correct": false },
+            { "choice_text": "عند الكعبة", "is_correct": false },
+            { "choice_text": "خارج مكة وهو عند مرضعته", "is_correct": true },
+            { "choice_text": "في رحلة الشام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي صلى الله عليه وسلم القطعة التي أخرجها جبريل من قلبه؟",
+        "difficulty_score": 400,
+        "explanation": "جاء في صحيح مسلم أن جبريل قال عنها: 'هذا حظ الشيطان منك' [11].",
+        "choices": [
+            { "choice_text": "حظ الشيطان", "is_correct": true },
+            { "choice_text": "علقة الإيمان", "is_correct": false },
+            { "choice_text": "نور النبوة", "is_correct": false },
+            { "choice_text": "بقايا الجاهلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان لون النبي صلى الله عليه وسلم حين استقبله الغلمان بعد حادثة شق الصدر؟",
+        "difficulty_score": 500,
+        "explanation": "يروي أنس بن مالك أنه رآه وهو 'منتقع اللون' (أي متغيراً من الفزع) [3].",
+        "choices": [
+            { "choice_text": "أبيض مشرب بحمرة", "is_correct": false },
+            { "choice_text": "منتقع اللون", "is_correct": true },
+            { "choice_text": "مستبشراً ضاحكاً", "is_correct": false },
+            { "choice_text": "شاحباً جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان النبي صلى الله عليه وسلم يصوم يوم الاثنين كما ذكر في صحيح مسلم؟",
+        "difficulty_score": 300,
+        "explanation": "قال النبي صلى الله عليه وسلم: 'ذاك يوم ولدت فيه، أو أنزل علي فيه' [2].",
+        "choices": [
+            { "choice_text": "لأنه يوم رحلته للشام", "is_correct": false },
+            { "choice_text": "لأنه يوم مولده ونزول الوحي عليه", "is_correct": true },
+            { "choice_text": "لأنه يوم انتصاره في غزوة بدر", "is_correct": false },
+            { "choice_text": "تيمناً بصيام الأنبياء قبله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التفسير الذي ذكره بعض العلماء لكون الرؤيا الصالحة جزءاً من 'ستة وأربعين' جزءاً من النبوة؟",
+        "difficulty_score": 650,
+        "explanation": "فسرها البعض بأن مدة الرؤى كانت 6 أشهر، ومدة النبوة 23 سنة، فإذا قسمت 23 سنة على 6 أشهر تكون النتيجة 46 [20].",
+        "choices": [
+            { "choice_text": "أن الرؤى استمرت 46 يوماً", "is_correct": false },
+            { "choice_text": "بناءً على نسبة مدة الرؤى (6 أشهر) إلى مدة النبوة (23 سنة)", "is_correct": true },
+            { "choice_text": "بسبب عدد الأنبياء الذين رأوا رؤى", "is_correct": false },
+            { "choice_text": "لأن الوحي نزل في 46 مكاناً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الروايات اعتبرها المصدر 'ضعيفة' أو 'لا تثبت' رغم شهرتها؟",
+        "difficulty_score": 450,
+        "explanation": "أشار المصنف إلى أن قصة سقوط شرفات قصر كسرى لا تثبت بالأسانيد الصحيحة [28].",
+        "choices": [
+            { "choice_text": "رؤيا آمنة للنور", "is_correct": false },
+            { "choice_text": "سقوط شرفات قصر كسرى", "is_correct": true },
+            { "choice_text": "رعي النبي للغنم", "is_correct": false },
+            { "choice_text": "تسليم الحجر عليه بمكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي كان النبي صلى الله عليه وسلم يعرفه في مكة وكان يسلم عليه قبل البعثة؟",
+        "difficulty_score": 250,
+        "explanation": "قال النبي صلى الله عليه وسلم: 'إني لأعرف حجراً بمكة كان يسلم علي قبل أن أبعث' [22].",
+        "choices": [
+            { "choice_text": "شجرة في نخلة", "is_correct": false },
+            { "choice_text": "بئر زمزم", "is_correct": false },
+            { "choice_text": "حجراً بمكة", "is_correct": true },
+            { "choice_text": "جبل أبي قبيس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل ابن تيمية على أن حادثة الفيل كانت لأجل النبي والبيت معاً؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر ابن تيمية أن جيران البيت كانوا مشركين وملك الفيل نصرانياً، فكانت الآية إما للبيت أو للنبي المولود في ذلك العام أو لهما معاً [8].",
+        "choices": [
+            { "choice_text": "لأن أبرهة كان يعبد الأصناف", "is_correct": false },
+            { "choice_text": "لأن قريشاً كانت أفضل من النصارى ديناً", "is_correct": false },
+            { "choice_text": "لأن الآية لم تكن لأجل عباد الأوثان بل للبيت والنبي", "is_correct": true },
+            { "choice_text": "لأن الكعبة بنيت في ذلك العام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو الغرض الأساسي من 'الإرهاصات' الموجهة للناس؟",
+        "difficulty_score": 300,
+        "explanation": "الغرض هو لفت انتباه الناس إلى أن حدثاً عظيماً سيحصل وتهيئة الواقع للدعوة [1]، [21].",
+        "choices": [
+            { "choice_text": "تخويف الكفار", "is_correct": false },
+            { "choice_text": "لفت انتباههم وتهيئتهم للحدث العظيم", "is_correct": true },
+            { "choice_text": "إثبات قوة قريش", "is_correct": false },
+            { "choice_text": "تدمير أعداء الإسلام قبل ظهوره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال هرقل لأبي سفيان عندما علم أن النبي لم يكن يكذب قبل ادعاء النبوة؟",
+        "difficulty_score": 550,
+        "explanation": "استنتج هرقل أنه 'لم يكن ليذر الكذب على الناس، ثم يذهب فيكذب على الله' [19].",
+        "choices": [
+            { "choice_text": "إنه ساحر عليم", "is_correct": false },
+            { "choice_text": "إنه صادق في كل أحواله", "is_correct": false },
+            { "choice_text": "ما كان ليترك الكذب على الناس ويكذب على الله", "is_correct": true },
+            { "choice_text": "إنه سينتصر بجيش عظيم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة قرآنية ذكرت استفتح اليهود بظهور النبي على الذين كفروا؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر الله ذلك في سورة البقرة: 'وكانوا من قبل يستفتحون على الذين كفروا' [15]، [16].",
+        "choices": [
+            { "choice_text": "سورة آل عمران", "is_correct": false },
+            { "choice_text": "سورة البقرة", "is_correct": true },
+            { "choice_text": "سورة المائدة", "is_correct": false },
+            { "choice_text": "سورة العنكبوت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النقد الموجه لقصة 'بحيرا الراهب' كما ذكر في المصدر؟",
+        "difficulty_score": 800,
+        "explanation": "أشار المصدر إلى نقاش عميق حول ثبوتها، خاصة وأن بعض الروايات تذكر وجود أبي بكر وبلال وهما أصغر سناً من النبي بكثير [29]، [30].",
+        "choices": [
+            { "choice_text": "أنها لم تذكر في أي كتاب سيرة", "is_correct": false },
+            { "choice_text": "إشكالات في المتن مثل مرافقة بلال وأبي بكر للنبي", "is_correct": true },
+            { "choice_text": "لأن بحيرا كان يهودياً وليس راهباً", "is_correct": false },
+            { "choice_text": "لأنها وقعت بعد البعثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم عندما أراد زيد بن حارثة أن يمسح صنماً؟",
+        "difficulty_score": 350,
+        "explanation": "جاء في السيرة أن النبي صلى الله عليه وسلم نهاه عن ذلك، وهو من دلائل عصمته من الشرك [19].",
+        "choices": [
+            { "choice_text": "أقره على ذلك", "is_correct": false },
+            { "choice_text": "نهاه عن مسحه", "is_correct": true },
+            { "choice_text": "مسحه معه", "is_correct": false },
+            { "choice_text": "لم يبالِ بالأمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أكمل الحديث: 'ما من نبي إلا وقد رعى....'",
+        "difficulty_score": 100,
+        "explanation": "الحديث الصحيح هو 'رعى الغنم' [6].",
+        "choices": [
+            { "choice_text": "الإبل", "is_correct": false },
+            { "choice_text": "الخيل", "is_correct": false },
+            { "choice_text": "الغنم", "is_correct": true },
+            { "choice_text": "الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر ابن حجر رعي الغنم تمريناً للأنبياء؟",
+        "difficulty_score": 600,
+        "explanation": "ليحصل لهم الحلم والشفقة بصبرهم على رعيها وتجمعها بعد تفرقها، فيسهل عليهم قيادة أممهم [18].",
+        "choices": [
+            { "choice_text": "ليتعلموا فنون الحرب", "is_correct": false },
+            { "choice_text": "ليعتادوا على العيش في الصحراء فقط", "is_correct": false },
+            { "choice_text": "ليحصل لهم الحلم والشفقة والتدرب على السياسة", "is_correct": true },
+            { "choice_text": "لأنها كانت المهنة الوحيدة المتاحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكلمة 'التنفس' أو 'التحنث' التي كانت تفعلها السيدة عائشة في وصف حال النبي بغار حراء؟",
+        "difficulty_score": 450,
+        "explanation": "فسرها العلماء بـ 'التعبد' الليالي ذوات العدد [5].",
+        "choices": [
+            { "choice_text": "النوم الطويل", "is_correct": false },
+            { "choice_text": "التعبد", "is_correct": true },
+            { "choice_text": "التجارة", "is_correct": false },
+            { "choice_text": "كتابة الشعر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأنبياء بدأت قصته الطويلة 'برؤيا' وانتهت 'بتأويلها' كما ورد في المصدر؟",
+        "difficulty_score": 200,
+        "explanation": "نبي الله يوسف عليه السلام، كما في قوله: 'إني رأيت أحد عشر كوكباً' وقوله 'هذا تأويل رؤياي' [10].",
+        "choices": [
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "يوسف عليه السلام", "is_correct": true },
+            { "choice_text": "موسى عليه السلام", "is_correct": false },
+            { "choice_text": "عيسى عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي كان يلقب به النبي صلى الله عليه وسلم في مكة قبل البعثة؟",
+        "difficulty_score": 150,
+        "explanation": "كان يلقب بـ 'الأمين' لصدقه وأمانته [13]، [14].",
+        "choices": [
+            { "choice_text": "الصادق فقط", "is_correct": false },
+            { "choice_text": "أبو القاسم", "is_correct": false },
+            { "choice_text": "الأمين", "is_correct": true },
+            { "choice_text": "سيد قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما الذي أضاءته رؤيا آمنة عند ولادة النبي؟",
+        "difficulty_score": 300,
+        "explanation": "أضاءت له قصور بصرى بأرض الشام [2]، [3].",
+        "choices": [
+            { "choice_text": "مكة كلها", "is_correct": false },
+            { "choice_text": "قصور بصرى", "is_correct": true },
+            { "choice_text": "المدينة المنورة", "is_correct": false },
+            { "choice_text": "بيت المقدس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو العالم الذي ذكر أن حادثة الفيل كانت 'إرهاصاً وتوطئة لمبعث رسول الله'؟",
+        "difficulty_score": 500,
+        "explanation": "هذا قول ابن كثير رحمه الله [9].",
+        "choices": [
+            { "choice_text": "ابن القيم", "is_correct": false },
+            { "choice_text": "ابن كثير", "is_correct": true },
+            { "choice_text": "الإمام مالك", "is_correct": false },
+            { "choice_text": "البخاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حبب الله 'الخلوة' إلى النبي صلى الله عليه وسلم قبل الوحي؟",
+        "difficulty_score": 600,
+        "explanation": "لتهيئته لتلقي الحقائق الكبرى والاتصال بالكون والتفكر بعيداً عن شواغل الناس [27].",
+        "choices": [
+            { "choice_text": "للهرب من ظلم قريش", "is_correct": false },
+            { "choice_text": "للبحث عن ماء زمزم", "is_correct": false },
+            { "choice_text": "لتهيئته لتلقي الوحي والحقائق العظيمة", "is_correct": true },
+            { "choice_text": "لتعليم أصحابه سراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية الكونية التي أشار المصدر إلى أننا 'محجوبون عنها بالأضواء' اليوم؟",
+        "difficulty_score": 400,
+        "explanation": "أشار إلى رؤية النجوم الكثيرة في السماء الصافية ليلاً [31].",
+        "choices": [
+            { "choice_text": "خسوف القمر", "is_correct": false },
+            { "choice_text": "النجوم الكثيرة في الليل", "is_correct": true },
+            { "choice_text": "شروق الشمس", "is_correct": false },
+            { "choice_text": "الجبال الراسيات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث ابن عباس، كم سنة مكث النبي بمكة يرى الضوء ويسمع الصوت دون أن يوحى إليه؟",
+        "difficulty_score": 750,
+        "explanation": "ذكرت بعض الروايات سبع سنين، وفي رواية أخرى خمس عشرة سنة (بأقوال مختلفة) [22].",
+        "choices": [
+            { "choice_text": "سنة واحدة", "is_correct": false },
+            { "choice_text": "ثلاث سنين", "is_correct": false },
+            { "choice_text": "سبع سنين (حسب بعض الروايات)", "is_correct": true },
+            { "choice_text": "عشر سنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل النبي صلى الله عليه وسلم فور نزول الوحي عليه في الغار ولقائه جبريل؟",
+        "difficulty_score": 200,
+        "explanation": "ذهب إلى خديجة وقال: 'زملوني زملوني' و 'لقد خشيت على نفسي' [17].",
+        "choices": [
+            { "choice_text": "فرح فرحاً شديداً وأخبر الناس", "is_correct": false },
+            { "choice_text": "قال: 'زملوني زملوني' من شدة الهيبة", "is_correct": true },
+            { "choice_text": "بقي في الغار شهراً", "is_correct": false },
+            { "choice_text": "بدأ بالصلاة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة العملية التي يستفيدها المصلح من 'الرؤيا الصالحة' كما ورد في المصدر؟",
+        "difficulty_score": 550,
+        "explanation": "أن الله يهيئ المصلح للأمور العظيمة بالتدرج وليس فجأة [32].",
+        "choices": [
+            { "choice_text": "توقع المستقبل بدقة", "is_correct": false },
+            { "choice_text": "أنها وسيلة للتشريع الجديد", "is_correct": false },
+            { "choice_text": "أن الله يهيئ عباده للأعباء الكبرى بالتدرج", "is_correct": true },
+            { "choice_text": "ليست لها فائدة للمصلحين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما الذي يدل على أن رعاية الغنم مهنة شاقة وليست سهلة؟",
+        "difficulty_score": 450,
+        "explanation": "لأنها تتطلب سياسة كائنات ضعيفة ومختلفة الطباع وتحتاج رعاية مستمرة [7].",
+        "choices": [
+            { "choice_text": "لأنها تتطلب قوة بدنية هائلة", "is_correct": false },
+            { "choice_text": "بسبب اختلاف طباع الغنم وحاجتها للمتابعة والصبر", "is_correct": true },
+            { "choice_text": "لأنها تمنع من النوم نهائياً", "is_correct": false },
+            { "choice_text": "لأنها مهنة منبوذة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب المعاصر الذي ذكره الشيخ كمرجع بشارات الأنبياء في كتب اليهود والنصارى؟",
+        "difficulty_score": 900,
+        "explanation": "ذكر كتاب 'البشارة بنبي الإسلام' للشيخ سامي عامري [25].",
+        "choices": [
+            { "choice_text": "الرحيق المختوم", "is_correct": false },
+            { "choice_text": "البشارة بنبي الإسلام (سامي عامري)", "is_correct": true },
+            { "choice_text": "زاد المعاد", "is_correct": false },
+            { "choice_text": "فتح الباري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية استدل بها القرآن على أن النبي صلى الله عليه وسلم لم يكن يقرأ أو يكتب قبل البعثة؟",
+        "difficulty_score": 700,
+        "explanation": "قوله تعالى: 'وما كنت تتلو من قبله من كتاب ولا تخطه بيمينك' [33].",
+        "choices": [
+            { "choice_text": "سورة العلق: اقرأ", "is_correct": false },
+            { "choice_text": "سورة العنكبوت آية 48", "is_correct": true },
+            { "choice_text": "سورة القلم آية 1", "is_correct": false },
+            { "choice_text": "سورة يس آية 69", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان موقف قريش عندما دخل عليهم النبي صلى الله عليه وسلم ليحكم بينهم في وضع الحجر الأسود؟",
+        "difficulty_score": 300,
+        "explanation": "قالوا: 'هذا الأمين رضينا به' [14].",
+        "choices": [
+            { "choice_text": "رفضوا حكمه", "is_correct": false },
+            { "choice_text": "قالوا: 'هذا الأمين رضينا به'", "is_correct": true },
+            { "choice_text": "سخروا منه", "is_correct": false },
+            { "choice_text": "طردوه من الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأمور تعتبر من 'الإرهاصات الموجهة للناس' في الدائرة البعيدة؟",
+        "difficulty_score": 500,
+        "explanation": "بشارات أهل الكتاب في كتبهم تعتبر إرهاصاً للدوائر البعيدة خارج مكة [15].",
+        "choices": [
+            { "choice_text": "شق الصدر", "is_correct": false },
+            { "choice_text": "بشارات الكتب السابقة", "is_correct": true },
+            { "choice_text": "رؤيا النبي للضوء", "is_correct": false },
+            { "choice_text": "تسليم الحجر عليه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا غُسل قلب النبي صلى الله عليه وسلم في حادثة شق الصدر؟",
+        "difficulty_score": 250,
+        "explanation": "غسل في طست من ذهب بماء زمزم [3].",
+        "choices": [
+            { "choice_text": "بماء الورد", "is_correct": false },
+            { "choice_text": "بماء زمزم", "is_correct": true },
+            { "choice_text": "بالثلج والبرد", "is_correct": false },
+            { "choice_text": "بنور من السماء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الغلام الذي كان مع النبي حين نهاه عن مس الأصنام؟",
+        "difficulty_score": 850,
+        "explanation": "هو زيد بن حارثة رضي الله عنه [19].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "أنس بن مالك", "is_correct": false },
+            { "choice_text": "عبد الله بن عباس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يجب 'الاستكثار' من الروايات الضعيفة في السيرة حسب المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "لأن العبرة بالثابت، والضعيف قد يشوه الحقائق أو يضيف ما ليس منها [28].",
+        "choices": [
+            { "choice_text": "لأنها صعبة الحفظ", "is_correct": false },
+            { "choice_text": "لأنها تخالف العقل دائماً", "is_correct": false },
+            { "choice_text": "لأنه يجب الاعتماد على الأمور الثابتة فقط", "is_correct": true },
+            { "choice_text": "لأنها تجعل السيرة طويلة جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من تكرار الرؤى في أحوال الأنبياء (مثل يوسف ومحمد عليهما السلام)؟",
+        "difficulty_score": 650,
+        "explanation": "للتدليل على أهمية الرؤيا كجزء من التوطئة والتمهيد الإلهي للوحي [10].",
+        "choices": [
+            { "choice_text": "للتسلية فقط", "is_correct": false },
+            { "choice_text": "لأنها نوع من السحر", "is_correct": false },
+            { "choice_text": "كتمهيد وتوطئة إلهية للأحداث العظيمة", "is_correct": true },
+            { "choice_text": "ليعرفوا الغيب كله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء نقل الإجماع على مولد النبي في عام الفيل؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر أن 'بعض العلماء' نقلوا هذا الإجماع [1].",
+        "choices": [
+            { "choice_text": "كل المؤرخين بلا استثناء", "is_correct": false },
+            { "choice_text": "بعض العلماء", "is_correct": true },
+            { "choice_text": "ابن اسحاق وحده", "is_correct": false },
+            { "choice_text": "قريش فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة العملية من دراسة أحوال العرب قبل البعثة؟",
+        "difficulty_score": 450,
+        "explanation": "تساعد في فهم القرآن والسنة وسيرة النبي صلى الله عليه وسلم بشكل أعمق [24].",
+        "choices": [
+            { "choice_text": "لمعرفة الأنساب فقط", "is_correct": false },
+            { "choice_text": "لفهم القرآن والسنة والسيرة", "is_correct": true },
+            { "choice_text": "لإثبات فضل العرب على غيرهم", "is_correct": false },
+            { "choice_text": "للتجارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب المعاصر الذي استخدمه المصدر لوصف حادثة الفيل وعلاقتها بالكعبة؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'سُلطت الأضواء كلها على الكعبة' [9].",
+        "choices": [
+            { "choice_text": "الغزو الخارجي", "is_correct": false },
+            { "choice_text": "تسليط الأضواء على الكعبة", "is_correct": true },
+            { "choice_text": "النصر التاريخي", "is_correct": false },
+            { "choice_text": "العولمة القديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان النبي صلى الله عليه وسلم عندما نزل عليه جبريل لأول مرة؟",
+        "difficulty_score": 100,
+        "explanation": "كان في غار حراء [5]، [27].",
+        "choices": [
+            { "choice_text": "في منزله بمكة", "is_correct": false },
+            { "choice_text": "في غار حراء", "is_correct": true },
+            { "choice_text": "بجوار الكعبة", "is_correct": false },
+            { "choice_text": "في طريق الشام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة التربوية من سياسة الغنم قبل سياسة الناس كما حللها ابن حجر؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر ابن حجر أن رعي الغنم يكسب الراعي الحلم والشفقة من خلال الصبر على تفرقها واختلاف طباعها، مما يهيئه لقيادة البشر لاحقاً، [1].",
+        "choices": [
+            { "choice_text": "تعلم القسوة والشدة", "is_correct": false },
+            { "choice_text": "التدريب على الحلم والشفقة والتعامل مع اختلاف الطباع", "is_correct": true },
+            { "choice_text": "معرفة طرق التجارة في البادية", "is_correct": false },
+            { "choice_text": "الهروب من صخب مكة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأحداث يصفه المصدر بأنه 'حدث مهول وعجيب وخميف في مسيرة الكون'؟",
+        "difficulty_score": 300,
+        "explanation": "يصف المصدر نزول الوحي وبعثة النبي بأنها حدث مهول لم تشهد البشرية مثله منذ خلقها الله، [2].",
+        "choices": [
+            { "choice_text": "بناء الكعبة", "is_correct": false },
+            { "choice_text": "نزول الوحي وبعثة خاتم المرسلين", "is_correct": true },
+            { "choice_text": "رحلة الشام للتجارة", "is_correct": false },
+            { "choice_text": "حادثة الفيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان قول هرقل لأبي سفيان بخصوص علم أهل الكتاب بخروج نبي؟",
+        "difficulty_score": 500,
+        "explanation": "أكد هرقل أنه كان يعلم بخروج نبي ولكنه لم يظن أنه سيكون من العرب (منكم)، [3].",
+        "choices": [
+            { "choice_text": "كنت أظن أنه سيخرج من الروم", "is_correct": false },
+            { "choice_text": "قد كنت أعلم أنه خارج، ولم أكن أظنه منكم", "is_correct": true },
+            { "choice_text": "لم أسمع بنبي يخرج في هذا الزمان", "is_correct": false },
+            { "choice_text": "اليهود هم من أخبروني بكذبه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما الذي يميز كتاب 'البشارة بنبي الإسلام' للشيخ سامي عامري؟",
+        "difficulty_score": 850,
+        "explanation": "أثنى المصدر على الكتاب لمناقشته اعتراضات النصارى وإثباته أن النصوص في كتبهم تقصد النبي محمداً صلى الله عليه وسلم، [4, 5].",
+        "choices": [
+            { "choice_text": "أنه كتاب في الفقه المقارن", "is_correct": false },
+            { "choice_text": "مناقشته لاعتراضات أهل الكتاب حول بشارات النبوة", "is_correct": true },
+            { "choice_text": "أنه يجمع الأحاديث الضعيفة في السيرة", "is_correct": false },
+            { "choice_text": "أنه يتحدث عن غزوات النبي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التأثير المباشر' الذي أحدثته حادثة شق الصدر على النبي وهو صبي؟",
+        "difficulty_score": 400,
+        "explanation": "استنتج المصدر أن الحادثة كانت تطهيراً لقلبه وتهيئه للنبوة، وقد عاد للنفس لونه شاحباً (منتقع اللون) من هول الموقف، [6, 7].",
+        "choices": [
+            { "choice_text": "أصبح يحب الأصنام", "is_correct": false },
+            { "choice_text": "تطهير قلبه وتهيئته لعصمته من الشيطان", "is_correct": true },
+            { "choice_text": "تعلم القراءة والكتابة فوراً", "is_correct": false },
+            { "choice_text": "قرر السفر إلى الشام وحيداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة العملية من 'الخلوة' في غار حراء كما وضحها المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "الخلوة تعطي انشراحاً للنفس وتسمح بالتأمل في الآيات الكونية بعيداً عن 'لخبطة' الحياة واختلاط موازين الناس، [8, 9].",
+        "choices": [
+            { "choice_text": "كسب المال من التجارة", "is_correct": false },
+            { "choice_text": "التأمل في ملكوت الله وتهيئة النفس للحقائق الكبرى", "is_correct": true },
+            { "choice_text": "تعلم فنون القتال سراً", "is_correct": false },
+            { "choice_text": "لقاء زعماء قريش بعيداً عن الأعين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر قوله تعالى 'وإن كنتم من قبله لمن الغافلين' في سياق السيرة؟",
+        "difficulty_score": 750,
+        "explanation": "أشار المصدر إلى أن الرؤى والأحداث السابقة للبعثة كانت تنبيهاً من حالة الغفلة الكونية التي كان يعيشها الناس قبل الإسلام، [10].",
+        "choices": [
+            { "choice_text": "أن الناس كانوا يعرفون كل شيء", "is_correct": false },
+            { "choice_text": "توصيف لحال البشرية والبيئة قبل الوحي والرسالة", "is_correct": true },
+            { "choice_text": "أن النبي كان غافلاً عن قومه", "is_correct": false },
+            { "choice_text": "أن قريشاً كانت أمة متعلمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة روى حديث 'رعي الأنبياء للغنم' في الصحيحين؟",
+        "difficulty_score": 200,
+        "explanation": "الحديث مشهور في البخاري ومسلم من حديث أبي هريرة رضي الله عنه، [11].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "أبو هريرة", "is_correct": true },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللفظ الذي استخدمه النبي لوصف سماعه ورؤيته لأمور غيبية قبل البعثة بسنين؟",
+        "difficulty_score": 550,
+        "explanation": "جاء في رواية ابن عباس أنه كان 'يسمع الصوت ويرى الضوء' لعدة سنين قبل أن يوحى إليه، [12].",
+        "choices": [
+            { "choice_text": "رأيت الملائكة تقاتل", "is_correct": false },
+            { "choice_text": "كنت أسمع الصوت وأرى الضوء", "is_correct": true },
+            { "choice_text": "كنت أقرأ الكتب القديمة", "is_correct": false },
+            { "choice_text": "كنت أعرف الغيب كله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر الماوردي أن صرف أصحاب الفيل ليس 'رفعاً لقريش'؟",
+        "difficulty_score": 650,
+        "explanation": "لأن قريشاً لم يكونوا أهل كتاب بل عبدة أوثان، فالحماية كانت لأجل الكعبة والنبوة القادمة، [13].",
+        "choices": [
+            { "choice_text": "لأن قريشاً لم تطلب المساعدة", "is_correct": false },
+            { "choice_text": "لأنهم كانوا مشركين ولا يستحقون النصر لذاتهم", "is_correct": true },
+            { "choice_text": "لأن أبرهة كان أعدل منهم", "is_correct": false },
+            { "choice_text": "لأن الفيلة ماتت من العطش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل المصدر على عصمة النبي من 'أوضار الجاهلية' في صباه؟",
+        "difficulty_score": 450,
+        "explanation": "بقصة نهيه لزيد بن حارثة عن مس الأصنام، وابتعاده عن مجالس لهو شباب مكة، [14].",
+        "choices": [
+            { "choice_text": "بأنه كان يقرأ الإنجيل", "is_correct": false },
+            { "choice_text": "بنهيه عن مس الأصنام وحماية الله له من اللهو", "is_correct": true },
+            { "choice_text": "بأنه كان يعيش في الشام", "is_correct": false },
+            { "choice_text": "بأنه كان يلبس ملابس الملوك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكر فيها القرآن أن الله لم يعلم نبيه 'الشعر'؟",
+        "difficulty_score": 350,
+        "explanation": "ورد ذلك في سورة يس: 'وما علمناه الشعر وما ينبغي له'، [15].",
+        "choices": [
+            { "choice_text": "سورة الشعراء", "is_correct": false },
+            { "choice_text": "سورة يس", "is_correct": true },
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة القلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كانت مدة مرحلة 'الرؤيا الصالحة' التي سبقت الوحي اليقظ؟",
+        "difficulty_score": 800,
+        "explanation": "فسرها بعض العلماء بأنها كانت 6 أشهر، بناءً على حساب نسبة 46 جزءاً من النبوة، [16].",
+        "choices": [
+            { "choice_text": "سنة كاملة", "is_correct": false },
+            { "choice_text": "ستة أشهر", "is_correct": true },
+            { "choice_text": "ثلاث سنوات", "is_correct": false },
+            { "choice_text": "أربعين يوماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'الظئر' الذي قصده الغلمان في حديث شق الصدر عندما هرعوا إليه؟",
+        "difficulty_score": 900,
+        "explanation": "الظئر هي المرضعة، والمقصود في الحديث السيدة حليمة السعدية، [7].",
+        "choices": [
+            { "choice_text": "أمه آمنة", "is_correct": false },
+            { "choice_text": "مرضعته (حليمة السعدية)", "is_correct": true },
+            { "choice_text": "جده عبد المطلب", "is_correct": false },
+            { "choice_text": "عمه أبو طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما الذي 'يحجبنا' اليوم عن عظمة الآيات الكونية ليلاً؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن كثرة الأضواء الصناعية حجبت عن الناس رؤية جمال وكثرة النجوم كما كان يراها النبي في خلوته، [17].",
+        "choices": [
+            { "choice_text": "السحب الكثيفة", "is_correct": false },
+            { "choice_text": "كثرة الأضواء الصناعية (التلوث الضوئي)", "is_correct": true },
+            { "choice_text": "ضعف النظر عند المعاصرين", "is_correct": false },
+            { "choice_text": "تغير مكان النجوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكلمة 'إرهاصات' في اصطلاح علماء السيرة؟",
+        "difficulty_score": 400,
+        "explanation": "هي المعجزات أو العلامات التي تسبق بعثة النبي لتمهد له وللناس، [18].",
+        "choices": [
+            { "choice_text": "أحاديث النبي بعد الهجرة", "is_correct": false },
+            { "choice_text": "العلامات التمهيدية التي تسبق النبوة", "is_correct": true },
+            { "choice_text": "قوانين الحرب في الإسلام", "is_correct": false },
+            { "choice_text": "أسماء أصنام مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الأنبياء ذكر المصدر أنه 'أوذي وكُذّب' كدليل على سنن الله في الرسل؟",
+        "difficulty_score": 500,
+        "explanation": "استشهد المصدر بقوله تعالى: 'ولقد كُذبت رسل من قبلك فصبروا على ما كُذّبوا وأوذوا'، [19].",
+        "choices": [
+            { "choice_text": "سليمان عليه السلام", "is_correct": false },
+            { "choice_text": "الرسل من أولي العزم وغيرهم", "is_correct": true },
+            { "choice_text": "يوسف عليه السلام وحده", "is_correct": false },
+            { "choice_text": "لم يذكر أحداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل آمنة (أم النبي) تجاه نور ولادته كما وصفها المصدر؟",
+        "difficulty_score": 450,
+        "explanation": "ذكرت الروايات أنها رأت نوراً أضاء قصور الشام ولم تستغرب أو تفزع لأنها كانت ترى ذلك في منامها قبل الولادة، [7, 20].",
+        "choices": [
+            { "choice_text": "خافت منه وذهبت للكهان", "is_correct": false },
+            { "choice_text": "رأته كحدث واقعي وسبقته رؤيا مهيئة لها", "is_correct": true },
+            { "choice_text": "لم ترَ شيئاً غير عادي", "is_correct": false },
+            { "choice_text": "ظنت أنه حريق في البيت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من 'طست الذهب' و 'ماء زمزم' في حادثة شق الصدر؟",
+        "difficulty_score": 600,
+        "explanation": "تشير إلى التكريم الإلهي (الذهب) والتطهير بأطهر ماء على الأرض (زمزم) كرمزية للقداسة، [7].",
+        "choices": [
+            { "choice_text": "لم تكن هناك مياه أخرى", "is_correct": false },
+            { "choice_text": "التكريم الإلهي والتطهير القدسي للنبي", "is_correct": true },
+            { "choice_text": "لأن حليمة كانت غنية", "is_correct": false },
+            { "choice_text": "لأجل معالجة مرض جسدي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر رعي الغنم 'تدريجاً' لسياسة الأمم؟",
+        "difficulty_score": 700,
+        "explanation": "لأن سياسة الكائنات الأضعف والأقل عقلاً تمرن الإنسان على الصبر قبل أن يُكلف بسياسة البشر ذوي العقول والطباع المعقدة، [21].",
+        "choices": [
+            { "choice_text": "لأن الغنم تشبه البشر في الشكل", "is_correct": false },
+            { "choice_text": "لأنها تمرن الراعي على الصبر والتعامل مع الضعف", "is_correct": true },
+            { "choice_text": "لأنها مهنة سهلة جداً", "is_correct": false },
+            { "choice_text": "لأنه لا يوجد تدريج بل هي صدفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأقوال التالية ينسب لابن كثير في وصف حادثة الفيل؟",
+        "difficulty_score": 500,
+        "explanation": "قال إنها كانت من باب 'الإرهاص والتوطئة لمبعث رسول الله'، [22].",
+        "choices": [
+            { "choice_text": "إنها عقوبة لقريش", "is_correct": false },
+            { "choice_text": "إنها إرهاص وتوطئة للمبعث النبوي", "is_correct": true },
+            { "choice_text": "إنها صدفة تاريخية", "is_correct": false },
+            { "choice_text": "إنها نهاية لعهد الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي شبه المصدر بداية قصته (بالرؤيا) ببداية قصة النبي محمد؟",
+        "difficulty_score": 250,
+        "explanation": "نبي الله يوسف عليه السلام، الذي بدأت قصته برؤية الكواكب والشمس والقمر، [10].",
+        "choices": [
+            { "choice_text": "نوح عليه السلام", "is_correct": false },
+            { "choice_text": "يوسف عليه السلام", "is_correct": true },
+            { "choice_text": "موسى عليه السلام", "is_correct": false },
+            { "choice_text": "آدم عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الدائرة البعيدة' التي تأثرت بإرهاصات النبوة قبل وقوعها؟",
+        "difficulty_score": 600,
+        "explanation": "هم أهل الكتاب (اليهود والنصارى) الذين كانوا يجدون صفاته في كتبهم وينتظرون خروجه، [3, 23].",
+        "choices": [
+            { "choice_text": "أهل مكة وحدهم", "is_correct": false },
+            { "choice_text": "أهل الكتاب من اليهود والنصارى", "is_correct": true },
+            { "choice_text": "قبائل الجن في البادية", "is_correct": false },
+            { "choice_text": "ملوك الفرس فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أهل مكة عن النبي عندما وضع الحجر الأسود في مكانه؟",
+        "difficulty_score": 150,
+        "explanation": "أجمعوا على القول: 'هذا الأمين رضينا به'، [15, 24].",
+        "choices": [
+            { "choice_text": "هذا الملك رضينا به", "is_correct": false },
+            { "choice_text": "هذا الأمين رضينا به", "is_correct": true },
+            { "choice_text": "هذا الكاهن رضينا به", "is_correct": false },
+            { "choice_text": "هذا الغريب رضينا به", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من ذكر 'عدم علم النبي بالشعر' في القرآن؟",
+        "difficulty_score": 750,
+        "explanation": "لإبعاد شبهة أن القرآن شعر أو من تأليف النبي، ولإثبات أن مصدره إلهي صرف، [15].",
+        "choices": [
+            { "choice_text": "لأن النبي كان يكره الشعراء", "is_correct": false },
+            { "choice_text": "لإثبات أن الوحي ليس شعراً ولا من عند البشر", "is_correct": true },
+            { "choice_text": "لأن العرب لم يكونوا يحبون الشعر", "is_correct": false },
+            { "choice_text": "لأن الشعر كان ممنوعاً في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر العلماء 'يسمع الصوت ويرى الضوء' دون أن يرى جبريل؟",
+        "difficulty_score": 800,
+        "explanation": "اعتبروها مرحلة تهيئة 'حسية' ليعتاد النبي على خوارق العادات قبل مواجهة ملك الوحي، [25].",
+        "choices": [
+            { "choice_text": "أنها كانت تخييلات فقط", "is_correct": false },
+            { "choice_text": "أنها تهيئة حسية لتعويده على عالم الغيب", "is_correct": true },
+            { "choice_text": "أنها كانت بسبب المرض", "is_correct": false },
+            { "choice_text": "أنها لم تحدث أصلاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف الذي أطلقه المصدر على 'لخبطة' موازين الإنسان في الحياة المعاصرة؟",
+        "difficulty_score": 400,
+        "explanation": "أشار إلى أن الانشغال بزخرف الحياة وكثرة الاختلاط بالناس يفسد استحضار الحقائق الإيمانية، [8].",
+        "choices": [
+            { "choice_text": "التطور التكنولوجي", "is_correct": false },
+            { "choice_text": "اختلاط موازين الأشياء عند الإنسان بسبب الزخرف والخلطة", "is_correct": true },
+            { "choice_text": "الذكاء الاصطناعي", "is_correct": false },
+            { "choice_text": "الفقر العالمي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الكتب يعد مرجعاً قديماً في بشارات النبوة أشار إليه المصدر؟",
+        "difficulty_score": 650,
+        "explanation": "أشار إلى أن هذا الباب اعتنى به العلماء قديماً، ومنهم من فسر نصوص العهد القديم والجديد، [5].",
+        "choices": [
+            { "choice_text": "كتاب 'دلائل النبوة' للبيهقي (بالمعنى العام)", "is_correct": true },
+            { "choice_text": "كتاب الأغاني", "is_correct": false },
+            { "choice_text": "كتاب كليلة ودمنة", "is_correct": false },
+            { "choice_text": "ديوان المتنبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من جعل كل الأنبياء يرعون الغنم؟",
+        "difficulty_score": 350,
+        "explanation": "لتحقيق معاني التواضع والسياسة والرفق والتدريب العملي على الرعاية، [26].",
+        "choices": [
+            { "choice_text": "لأنها تدر أموالاً كثيرة", "is_correct": false },
+            { "choice_text": "لتحقيق معاني التواضع والتدرب على الرعاية", "is_correct": true },
+            { "choice_text": "لأن الأنبياء لم يحبوا التجارة", "is_correct": false },
+            { "choice_text": "ليكونوا بعيدين عن المدن فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال ابن تيمية عن حال جيران البيت (قريش) وقت حادثة الفيل؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر أنهم كانوا مشركين يعبدون الأوثان، بينما كان أبرهة وجيشه نصرانيين (أهل كتاب)، [13].",
+        "choices": [
+            { "choice_text": "أنهم كانوا حنفاء على دين إبراهيم", "is_correct": false },
+            { "choice_text": "أنهم كانوا مشركين يعبدون الأوثان", "is_correct": true },
+            { "choice_text": "أنهم كانوا يهوداً", "is_correct": false },
+            { "choice_text": "أنهم كانوا ملحدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما هو 'أصل' الرؤيا الصالحة في حياة الأنبياء؟",
+        "difficulty_score": 450,
+        "explanation": "هي جزء من النبوة وأداة إلهية للتمهيد للوحي العظيم، [16].",
+        "choices": [
+            { "choice_text": "أنها مجرد أحلام عادية", "is_correct": false },
+            { "choice_text": "أنها جزء من النبوة وأداة للتمهيد الإلهي", "is_correct": true },
+            { "choice_text": "أنها وسيلة للتنبؤ بالطقس", "is_correct": false },
+            { "choice_text": "أنها وحي كامل ومستقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من قول اليهود للأوس والخزرج 'سنقتلكم معه (النبي) قتل عاد وإرم'؟",
+        "difficulty_score": 850,
+        "explanation": "نستنتج يقين اليهود بخروج النبي واستخدامهم لذلك في تهديد العرب وتمني النصر به، [27].",
+        "choices": [
+            { "choice_text": "أن اليهود كانوا يكرهون الأنبياء دائماً", "is_correct": false },
+            { "choice_text": "يقينهم بقرب خروج النبي ورغبتهم في اتباعه أولاً", "is_correct": true },
+            { "choice_text": "أنهم لم يكونوا يعرفون صفاته", "is_correct": false },
+            { "choice_text": "أن عاداً وإرم كانوا من اليهود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الصفات 'ليست' من فوائد رعي الغنم التي ذكرها ابن حجر؟",
+        "difficulty_score": 550,
+        "explanation": "ذكر ابن حجر: الحلم، الشفقة، الصبر، المعاهدة، وحماية الضعيف. 'البحث عن الكنوز' لم يذكر، [1].",
+        "choices": [
+            { "choice_text": "الحلم والشفقة", "is_correct": false },
+            { "choice_text": "البحث عن الكنوز والآثار", "is_correct": true },
+            { "choice_text": "الصبر على اختلاف الطباع", "is_correct": false },
+            { "choice_text": "الدفاع عن الرعية من العدو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي كان يطلقه قريش على النبي تقديراً له قبل البعثة؟",
+        "difficulty_score": 100,
+        "explanation": "كانوا يلقبونه بـ 'الأمين' لشدة صدقه وأمانته، [15].",
+        "choices": [
+            { "choice_text": "سيد تهامة", "is_correct": false },
+            { "choice_text": "الأمين", "is_correct": true },
+            { "choice_text": "خطيب مكة", "is_correct": false },
+            { "choice_text": "الفاروق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي تدل على أن الرؤيا الصالحة هي 'وحي'؟",
+        "difficulty_score": 600,
+        "explanation": "قول السيدة عائشة: 'أول ما بدئ به رسول الله من الوحي الرؤيا الصالحة'، [28].",
+        "choices": [
+            { "choice_text": "آية الكرسي", "is_correct": false },
+            { "choice_text": "حديث عائشة في بدء الوحي", "is_correct": true },
+            { "choice_text": "سورة الفاتحة", "is_correct": false },
+            { "choice_text": "حديث المعراج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سميت حادثة شق الصدر بـ 'الإرهاص'؟",
+        "difficulty_score": 400,
+        "explanation": "لأنها وقعت في طفولته لتأسيس نبوته ولفت الأنظار إليه، [18].",
+        "choices": [
+            { "choice_text": "لأنها وقعت في مكة", "is_correct": false },
+            { "choice_text": "لأنها معجزة سبقت البعثة لتمهيد النبوة", "is_correct": true },
+            { "choice_text": "لأنها كانت حلماً فقط", "is_correct": false },
+            { "choice_text": "لأنها منعت النبي من السفر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من دراسة السيرة 'للمصلحين' كما ورد في عنوان المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "ليقتدي المصلحون بمنهج النبي في الإعداد والتربية والتدريج في الإصلاح، [26].",
+        "choices": [
+            { "choice_text": "لمعرفة التواريخ فقط", "is_correct": false },
+            { "choice_text": "للاقتداء بمنهج النبي في التربية والإصلاح", "is_correct": true },
+            { "choice_text": "لزيادة المعلومات العامة", "is_correct": false },
+            { "choice_text": "لحفظ أسماء الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المصدر بـ 'الاستنارة بالآيات الكونية'؟",
+        "difficulty_score": 700,
+        "explanation": "يقصد بها التفكر في عظمة الخلق (السماء والنجوم) الذي يورث الإيمان ويزيده، [9, 17].",
+        "choices": [
+            { "choice_text": "دراسة الكيمياء", "is_correct": false },
+            { "choice_text": "التفكر في عظمة الخالق من خلال آياته في الكون", "is_correct": true },
+            { "choice_text": "صناعة المصابيح", "is_correct": false },
+            { "choice_text": "التنبؤ بالأبراج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأمور تم تطهير قلب النبي منها في حادثة شق الصدر؟",
+        "difficulty_score": 200,
+        "explanation": "أخرج جبريل منه علقة وقال: 'هذا حظ الشيطان منك'، [6].",
+        "choices": [
+            { "choice_text": "الخوف من الموت", "is_correct": false },
+            { "choice_text": "حظ الشيطان", "is_correct": true },
+            { "choice_text": "نسيان القرآن", "is_correct": false },
+            { "choice_text": "حب المال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو هدف المصنف من كتاب 'السيرة النبوية للمصلحين'؟",
+        "difficulty_score": 450,
+        "explanation": "استخراج المعاني والالتقاطات التي تفيد العاملين في مجال الإصلاح والتربية، [1, 29].",
+        "choices": [
+            { "choice_text": "مجرد سرد القصص", "is_correct": false },
+            { "choice_text": "استخراج الدروس التربوية والإصلاحية من السيرة", "is_correct": true },
+            { "choice_text": "كتابة تاريخ مكة الجغرافي", "is_correct": false },
+            { "choice_text": "نقد الأحاديث الصحيحة", "is_correct": false }
+        ]
+    }
+]
+
+    }

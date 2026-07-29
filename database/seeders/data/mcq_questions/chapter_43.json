@@ -1,0 +1,884 @@
+    {
+    "chapter_id": 43,
+    "questions": [
+        {
+        "question_text": "متى توفي ابن إسحاق صاحب المغازي والسير؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن ابن إسحاق توفي في منتصف القرن الثاني للهجرة [1].",
+        "choices": [
+            { "choice_text": "بداية القرن الأول للهجرة", "is_correct": false },
+            { "choice_text": "منتصف القرن الثاني للهجرة", "is_correct": true },
+            { "choice_text": "نهاية القرن الثالث للهجرة", "is_correct": false },
+            { "choice_text": "منتصف القرن الأول للهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحدث الذي بسببه قالت الجن 'ما حجز بيننا وبين خبر السماء إلا هذا القرآن'؟",
+        "difficulty_score": 300,
+        "explanation": "رؤيتهم للنبي صلى الله عليه وسلم يصلي بأصحابه الفجر في وادي نخلة جعلتهم يدركون أن هذا القرآن هو سبب منعهم من استراق السمع [9].",
+        "choices": [
+            { "choice_text": "هجرة النبي للمدينة", "is_correct": false },
+            { "choice_text": "وقعة بدر الكبرى", "is_correct": false },
+            { "choice_text": "صلاة النبي في وادي نخلة", "is_correct": true },
+            { "choice_text": "بناء المسجد النبوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التفسير الذي ذكره المفسرون لقوله تعالى {وَرَفَعْنَا لَكَ ذِكْرَكَ} وعلاقته بالأذان؟",
+        "difficulty_score": 200,
+        "explanation": "فسرها المفسرون بأن ذكر النبي صلى الله عليه وسلم رُفع في الأذان والشهادتين، حيث لا يُذكر الله إلا ويُذكر معه رسوله [4، 5].",
+        "choices": [
+            { "choice_text": "رفع اسمه في كتب التاريخ فقط", "is_correct": false },
+            { "choice_text": "دخول اسمه في الأذان والشهادتين", "is_correct": true },
+            { "choice_text": "انتصار المسلمين في الفتوحات", "is_correct": false },
+            { "choice_text": "تسمية المسلمين لأبنائهم باسمه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اختار الله صفة 'الخالق' في افتتاح الوحي {اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ}؟",
+        "difficulty_score": 500,
+        "explanation": "إشارة إلى أن الوحي يخرج الناس من الموت إلى الحياة، تماماً كما ينتقل المخلوق من الموت (العدم) إلى الحياة بالخلق [5].",
+        "choices": [
+            { "choice_text": "لإظهار القوة العسكرية للمسلمين", "is_correct": false },
+            { "choice_text": "لإثبات أن الله خلق الكون في ستة أيام", "is_correct": false },
+            { "choice_text": "إشارة لإخراج الناس من الموت إلى الحياة بالوحي", "is_correct": true },
+            { "choice_text": "لأن قريش كانت تنكر وجود خالق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'العلق' الذي خُلق منه الإنسان كما ورد في الدرس؟",
+        "difficulty_score": 200,
+        "explanation": "العلق هو قطعة من الدم لا معنى لها ولا صورة ولا حياة فيها [10].",
+        "choices": [
+            { "choice_text": "التراب اليابس", "is_correct": false },
+            { "choice_text": "قطعة من الدم", "is_correct": true },
+            { "choice_text": "النور الساطع", "is_correct": false },
+            { "choice_text": "الماء الصافي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى كمال خلق الله وعلمه للإنسان الضعيف الجاهل؟",
+        "difficulty_score": 400,
+        "explanation": "مقتضى ذلك هو الذل والخضوع والانقياد لله الذي خلق وعلم [8، 9].",
+        "choices": [
+            { "choice_text": "الاستغناء عن الخالق", "is_correct": false },
+            { "choice_text": "الذل والخضوع والانقياد لله", "is_correct": true },
+            { "choice_text": "التفاخر بالأصل والنسب", "is_correct": false },
+            { "choice_text": "البحث عن إله آخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على الآيات، ما هو سبب طغيان الإنسان؟",
+        "difficulty_score": 300,
+        "explanation": "ينص القرآن {كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ أَن رَّآهُ اسْتَغْنَىٰ}، أي عندما يرى نفسه مستغنياً [7].",
+        "choices": [
+            { "choice_text": "فقره وعوزه الشديد", "is_correct": false },
+            { "choice_text": "رؤيته لنفسه مستغنياً", "is_correct": true },
+            { "choice_text": "كثرة علمه بالدين", "is_correct": false },
+            { "choice_text": "خوفه من الموت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النظرة التي يجب أن يغيرها المسلم تجاه القرآن كما ورد في المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "يجب ألا ينظر إليه فقط كمصدر للحسنات بالتلاوة، بل كمصدر أساسي وأشرف للعلوم [11، 12].",
+        "choices": [
+            { "choice_text": "أنه كتاب للتبرك فقط", "is_correct": false },
+            { "choice_text": "أنه مصدر لاكتساب الحسنات فقط بالتلاوة", "is_correct": false },
+            { "choice_text": "أنه مصدر أساسي للعلم وأشرف العلوم", "is_correct": true },
+            { "choice_text": "أنه كتاب تاريخي للقصص الغابرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي ذكر ورقة بن نوفل أن 'الناموس' الذي نزل على محمد هو نفسه الذي نزل عليه؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر ورقة بن نوفل أن هذا هو الناموس الذي أُنزل على موسى عليه السلام [11].",
+        "choices": [
+            { "choice_text": "عيسى عليه السلام", "is_correct": false },
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "موسى عليه السلام", "is_correct": true },
+            { "choice_text": "نوح عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المعيار' الذي يجب أن يجعله طالب العلم بوصلة بيانية لتفسير القرآن؟",
+        "difficulty_score": 700,
+        "explanation": "يجب أن يجعل هدي النبي صلى الله عليه وسلم وسيرته معياراً لفهم البوصلة البيانية القرآنية [12].",
+        "choices": [
+            { "choice_text": "الأقوال الفلسفية المعاصرة", "is_correct": false },
+            { "choice_text": "هدي النبي صلى الله عليه وسلم وسيرته", "is_correct": true },
+            { "choice_text": "آراء المستشرقين", "is_correct": false },
+            { "choice_text": "الترجمات الأجنبية للقرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يقصد بكلمة 'الجمع' في قوله تعالى {إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ}؟",
+        "difficulty_score": 400,
+        "explanation": "المقصود بالجمع هنا هو الجمع في الصدر كما ورد في البخاري [13].",
+        "choices": [
+            { "choice_text": "جمعه في الكتب الورقية", "is_correct": false },
+            { "choice_text": "الجمع في الصدر (الحفظ)", "is_correct": true },
+            { "choice_text": "جمع الناس حول النبي", "is_correct": false },
+            { "choice_text": "جمع الأموال للفقراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تحرى النبي صلى الله عليه وسلم الكتمان في بداية الدعوة؟",
+        "difficulty_score": 500,
+        "explanation": "ذلك من باب اتخاذ الأسباب وضمان عدم وصول الخبر للمشركين مبكراً قبل تأسيس الدعوة [13].",
+        "choices": [
+            { "choice_text": "لأنه كان خائفاً على نفسه من الموت", "is_correct": false },
+            { "choice_text": "لأنه لم يكن متأكداً من الوحي", "is_correct": false },
+            { "choice_text": "تأسيساً لقضية اتخاذ الأسباب في الدعوة", "is_correct": true },
+            { "choice_text": "بسبب قلة عدد آيات القرآن حينها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي حفظت للسابقين إلى الإسلام مكانتهم الرفيعة؟",
+        "difficulty_score": 600,
+        "explanation": "ميزتهم أنهم أقبلوا في وقت لم يكن فيه أحد مقبلاً، وهو أمر في غاية الصعوبة [14].",
+        "choices": [
+            { "choice_text": "أنهم كانوا أغنى أهل مكة", "is_correct": false },
+            { "choice_text": "أنهم أقبلوا وقت عدم وجود مقبلين", "is_correct": true },
+            { "choice_text": "أنهم قاتلوا في جميع الغزوات", "is_correct": false },
+            { "choice_text": "أنهم كانوا أقرباء النبي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الأربعة الأوائل' الذين ذكرهم المصدر كأول من أسلم؟",
+        "difficulty_score": 200,
+        "explanation": "هم خديجة، أبو بكر، زيد بن حارثة، وعلي بن أبي طالب [2].",
+        "choices": [
+            { "choice_text": "عمر، عثمان، علي، وحمزة", "is_correct": false },
+            { "choice_text": "خديجة، أبو بكر، زيد، وعلي", "is_correct": true },
+            { "choice_text": "بلال، عمار، صهيب، وخباب", "is_correct": false },
+            { "choice_text": "طلحة، الزبير، سعد، وعبد الرحمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أسلم على يديه طلحة والزبير وعثمان وعبد الرحمن بن عوف؟",
+        "difficulty_score": 300,
+        "explanation": "هؤلاء النفر أسلموا على يدي أبي بكر الصديق رضي الله عنه [18، 49].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "زيد بن حارثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عمر الزبير بن العوام تقريباً حين أسلم وفق بعض الروايات المشهورة؟",
+        "difficulty_score": 300,
+        "explanation": "تشير الروايات المشهورة إلى أنه كان في الثالثة عشرة من عمره [20، 22].",
+        "choices": [
+            { "choice_text": "خمس وعشرون سنة", "is_correct": false },
+            { "choice_text": "ثلاث عشرة سنة", "is_correct": true },
+            { "choice_text": "أربعون سنة", "is_correct": false },
+            { "choice_text": "ثماني سنوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا رد النبي صلى الله عليه وسلم وابن عمر في وقعة بدر؟",
+        "difficulty_score": 400,
+        "explanation": "رُدا لأنهما استُصغرا، أي لم يبلغا السن الذي يشاركان فيه في القتال (15 سنة) [23، 24].",
+        "choices": [
+            { "choice_text": "لأنهما لم يرغبا في القتال", "is_correct": false },
+            { "choice_text": "لأنهما كانا مريضين", "is_correct": false },
+            { "choice_text": "لأنهما استُصغرا (لم يبلغا السن)", "is_correct": true },
+            { "choice_text": "بسبب نقص السلاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عمر أسامة بن زيد حين توفي النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "كان في الخامسة عشرة أو السادسة عشرة من عمره تقريباً [4].",
+        "choices": [
+            { "choice_text": "ثلاثون سنة", "is_correct": false },
+            { "choice_text": "خمس عشرة أو ست عشرة سنة", "is_correct": true },
+            { "choice_text": "عشر سنوات", "is_correct": false },
+            { "choice_text": "عشرون سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول مولود في الإسلام مع بداية الهجرة؟",
+        "difficulty_score": 300,
+        "explanation": "أول مولود كان عبد الله بن الزبير رضي الله عنهما [15].",
+        "choices": [
+            { "choice_text": "الحسن بن علي", "is_correct": false },
+            { "choice_text": "عبد الله بن الزبير", "is_correct": true },
+            { "choice_text": "إبراهيم بن محمد", "is_correct": false },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال هرقل عن أتباع الرسل عندما سأل أبا سفيان عنهم؟",
+        "difficulty_score": 400,
+        "explanation": "قال هرقل: 'بل ضعفاؤهم'، ثم عقب قائلاً: 'وأولئك أتباع الرسل' [16].",
+        "choices": [
+            { "choice_text": "أنهم أشراف الناس", "is_correct": false },
+            { "choice_text": "أنهم التجار الأغنياء", "is_correct": false },
+            { "choice_text": "أنهم ضعفاء الناس", "is_correct": true },
+            { "choice_text": "أنهم الملوك والقادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو سيد بلال بن رباح الذي كان يعذبه في مكة؟",
+        "difficulty_score": 200,
+        "explanation": "سيده هو أمية بن خلف [17].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": true },
+            { "choice_text": "أبو لهب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفئة التي توصف في القرآن بـ 'الملأ'؟",
+        "difficulty_score": 500,
+        "explanation": "الملأ هم علية القوم وسادتهم الجاحدون الذين يضطهدون الضعفاء [30، 35].",
+        "choices": [
+            { "choice_text": "الفقراء والمساكين", "is_correct": false },
+            { "choice_text": "علية القوم والسادة المستكبرون", "is_correct": true },
+            { "choice_text": "الشباب المتحمس للدين", "is_correct": false },
+            { "choice_text": "المهاجرون الأوائل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف الله الفتية في سورة الكهف؟",
+        "difficulty_score": 200,
+        "explanation": "وصفهم بأنهم {فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى} [18].",
+        "choices": [
+            { "choice_text": "شيوخ حكماء", "is_correct": false },
+            { "choice_text": "فتية آمنوا بربهم", "is_correct": true },
+            { "choice_text": "أنبياء مرسلون", "is_correct": false },
+            { "choice_text": "تجار من مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى المقصود بكلمة 'ذرية' في قوله تعالى {فَمَا آمَنَ لِمُوسَىٰ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِ}؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المفسرون أن المقصود بالذرية هنا هم الشباب [19].",
+        "choices": [
+            { "choice_text": "الأطفال الرضع", "is_correct": false },
+            { "choice_text": "النساء فقط", "is_correct": false },
+            { "choice_text": "الشباب", "is_correct": true },
+            { "choice_text": "كبار السن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الصحابية التي قُتلت شهيدة في سبيل الله في بداية الإسلام؟",
+        "difficulty_score": 200,
+        "explanation": "هي سمية رضي الله عنها، والدة عمار بن ياسر [6].",
+        "choices": [
+            { "choice_text": "أسماء بنت أبي بكر", "is_correct": false },
+            { "choice_text": "فاطمة الزهراء", "is_correct": false },
+            { "choice_text": "سمية رضي الله عنها", "is_correct": true },
+            { "choice_text": "عائشة رضي الله عنها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الصحابة الأوائل لم يتعرض للاضطهاد الطويل بفضل مكانته وشرفه؟",
+        "difficulty_score": 400,
+        "explanation": "أبو بكر الصديق وعثمان بن عفان لم يواجهوا اضطهاداً طويلاً كبلال وصهيب بفضل مكانتهما [20].",
+        "choices": [
+            { "choice_text": "بلال بن رباح", "is_correct": false },
+            { "choice_text": "خباب بن الأرت", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "ياسر والد عمار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس الهام للمصلحين من قصة 'أم حرام' ورؤيا النبي لها؟",
+        "difficulty_score": 800,
+        "explanation": "الدرس هو أهمية دور المرأة وعدم تعطيله في نصرة الدين والمشاركة في المهام العظيمة كالغزو [41، 42].",
+        "choices": [
+            { "choice_text": "أن المرأة لا تسافر أبداً", "is_correct": false },
+            { "choice_text": "أهمية دور المرأة وعدم تعطيله", "is_correct": true },
+            { "choice_text": "أن الرؤيا لا تتحقق", "is_correct": false },
+            { "choice_text": "أن الغزو في البحر ممنوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النقاط الثلاث المركزية التي لخصها المحاضر في هذا اللقاء؟",
+        "difficulty_score": 600,
+        "explanation": "لخصها في: العلم بالله، اتخاذ الأسباب، وتنوع شرائح المؤمنين [21].",
+        "choices": [
+            { "choice_text": "التجارة، الزواج، والسياسة", "is_correct": false },
+            { "choice_text": "العلم بالله، اتخاذ الأسباب، وتنوع الشرائح", "is_correct": true },
+            { "choice_text": "الشعر، الأنساب، والحروب", "is_correct": false },
+            { "choice_text": "بناء المساجد، جمع المال، والقوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النموذج الأهم في 'المسارعة والمبادرة في حمل المسؤولية'؟",
+        "difficulty_score": 300,
+        "explanation": "النموذج الأهم هو أبو بكر الصديق رضي الله عنه [22].",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عبد الله بن أبي سلول", "is_correct": false },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان أبو بكر الصديق يلقب قريشاً، وبماذا كان معروفاً بينهم؟",
+        "difficulty_score": 400,
+        "explanation": "كان أنسب قريش لقريش، وأعلمهم بشرها وخيرها، وكان رجلاً تاجراً ذا خلق ومعروف [8].",
+        "choices": [
+            { "choice_text": "كان شديداً غليظاً", "is_correct": false },
+            { "choice_text": "كان منعزلاً عن الناس", "is_correct": false },
+            { "choice_text": "كان أنسب قريش لقريش وذا خلق ومعروف", "is_correct": true },
+            { "choice_text": "كان يجهل أنساب العرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يقل أبو بكر 'بما أن النبي موجود فهو الذي يدعو الناس'؟",
+        "difficulty_score": 900,
+        "explanation": "لأنه أدرك مسؤوليته الفردية في خدمة الدين، وهذا درس للمصلحين بألا يلغي وجود 'الأعلم' دورهم [45، 46].",
+        "choices": [
+            { "choice_text": "لأنه كان يظن نفسه أعلم من النبي", "is_correct": false },
+            { "choice_text": "لأن النبي أمره بذلك صراحة في أول يوم", "is_correct": false },
+            { "choice_text": "لإدراكه لمسؤوليته الفردية في خدمة الدين", "is_correct": true },
+            { "choice_text": "لأنه كان يريد منافسة النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد النفر الذين سبقوا بالإسلام وأسلموا على يدي أبي بكر؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر ابن إسحاق أنهم كانوا ثمانية نفر سبقوا في الإسلام [23].",
+        "choices": [
+            { "choice_text": "ثلاثة فقط", "is_correct": false },
+            { "choice_text": "عشرون نفراً", "is_correct": false },
+            { "choice_text": "ثمانية نفر", "is_correct": true },
+            { "choice_text": "مائة رجل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة الرابعة التي أضافها المحاضر في ختام اللقاء للمصلحين؟",
+        "difficulty_score": 700,
+        "explanation": "الفائدة الرابعة هي أهمية تحمل مسؤولية الدعوة حتى بوجود من هو أفضل وأعلم [8].",
+        "choices": [
+            { "choice_text": "وجوب الهجرة فوراً", "is_correct": false },
+            { "choice_text": "أهمية تحمل المسؤولية بوجود الأفضل", "is_correct": true },
+            { "choice_text": "جمع التبرعات المالية", "is_correct": false },
+            { "choice_text": "اعتزال الناس في الكهوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى 'العلم بالله' في بداية التأسيس للدعوة؟",
+        "difficulty_score": 800,
+        "explanation": "أن يكون العلم بالله هو الموضوع الأول الذي يُؤسس عليه الشاب أو المصلح بوصلته [43، 47].",
+        "choices": [
+            { "choice_text": "تعلم فنون القتال أولاً", "is_correct": false },
+            { "choice_text": "أن يكون العلم بالله هو أساس التأسيس", "is_correct": true },
+            { "choice_text": "دراسة تاريخ الأمم السابقة فقط", "is_correct": false },
+            { "choice_text": "تعلم اللغات الأجنبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف ابن إسحاق حال قريش مع أبي بكر الصديق؟",
+        "difficulty_score": 300,
+        "explanation": "قال إن قومه كانوا يأتونه ويألفونه لعلمه وتجارته وحسن مجالسته [8].",
+        "choices": [
+            { "choice_text": "كانوا يكرهون الجلوس معه", "is_correct": false },
+            { "choice_text": "كانوا يأتونه ويألفونه لحسن مجالسته", "is_correct": true },
+            { "choice_text": "كانوا يخافون من بأسه", "is_correct": false },
+            { "choice_text": "كانوا يسخرون من مهنته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي ختم بها المحاضر وصف أهمية أبي بكر الصديق؟",
+        "difficulty_score": 200,
+        "explanation": "ختم بقوله: 'وهذا فيه شرف لأبي بكر الصديق، وأي شرف وأي مكانة' [23].",
+        "choices": [
+            { "choice_text": "كان رجلاً عادياً", "is_correct": false },
+            { "choice_text": "أي شرف وأي مكانة", "is_correct": true },
+            { "choice_text": "انتهى دوره بموته", "is_correct": false },
+            { "choice_text": "لم يكن له أثر يذكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي البقاع التي ذكر المحاضر أن السجود النبوي وصل إليها اليوم؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر أنه وصل إلى أصقاع الأرض وأطراف الدنيا وأواسطها [4، 5].",
+        "choices": [
+            { "choice_text": "مكة والمدينة فقط", "is_correct": false },
+            { "choice_text": "أصقاع الأرض وأطراف الدنيا", "is_correct": true },
+            { "choice_text": "جزيرة العرب فقط", "is_correct": false },
+            { "choice_text": "قارة آسيا وحدها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة لم يكن من ضمن 'الأربعة الأوائل'؟",
+        "difficulty_score": 200,
+        "explanation": "عثمان بن عفان لم يكن من الأربعة الأوائل بل جاء في الدائرة التالية [2].",
+        "choices": [
+            { "choice_text": "خديجة بنت خويلد", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "زيد بن حارثة", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه المصلحون على 'المراحل الأولى' من النبوة؟",
+        "difficulty_score": 200,
+        "explanation": "اصطلح العلماء على تسميتها بـ 'الدعوة السرية' [11].",
+        "choices": [
+            { "choice_text": "المرحلة العسكرية", "is_correct": false },
+            { "choice_text": "الدعوة السرية", "is_correct": true },
+            { "choice_text": "مرحلة الفتوحات", "is_correct": false },
+            { "choice_text": "مرحلة الدولة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي ينبغي على المصلح ألا يستهين به تجاه الشباب الصاعد؟",
+        "difficulty_score": 700,
+        "explanation": "يجب ألا يستهين بهم أو يعتبرهم 'مجرد أطفال' بل عليهم تحمل المسؤولية [24].",
+        "choices": [
+            { "choice_text": "اعتبارهم للعب فقط", "is_correct": false },
+            { "choice_text": "عدم الاستهانة بهم كمجرد أطفال", "is_correct": true },
+            { "choice_text": "منعهم من تعلم السيرة", "is_correct": false },
+            { "choice_text": "تركهم دون توجيه", "is_correct": false }
+        ]
+    },{
+        "question_text": "من هي أول امرأة استشهدت في الإسلام كما ورد في المصدر؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن سمية رضي الله عنها هي أول من استشهد في الإسلام [29، 36].",
+        "choices": [
+            { "choice_text": "خديجة بنت خويلد", "is_correct": false },
+            { "choice_text": "أسماء بنت أبي بكر", "is_correct": false },
+            { "choice_text": "سمية رضي الله عنها", "is_correct": true },
+            { "choice_text": "أم حرام بنت ملحان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف الذي أطلقه ابن إسحاق على أبي بكر الصديق في علاقته بقومه؟",
+        "difficulty_score": 400,
+        "explanation": "وصفه بأنه كان 'رجلاً مؤلفاً لقومه، محبباً سهلاً' [1].",
+        "choices": [
+            { "choice_text": "كان شديداً ومنعزلاً", "is_correct": false },
+            { "choice_text": "كان رجلاً مؤلفاً لقومه محبباً سهلاً", "is_correct": true },
+            { "choice_text": "كان يجهل أحوال قومه", "is_correct": false },
+            { "choice_text": "كان يرفض مجالسة أهل مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة أسلم على يدي أبي بكر الصديق؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر ابن إسحاق أن عثمان بن عفان والزبير وطلحة وسعد وعبد الرحمن بن عوف أسلموا على يديه [2].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الذرية' في قوله تعالى {فَمَا آمَنَ لِمُوسَىٰ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِ} وفق أحد تفاسير المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "أشار المصدر إلى أن بعض المفسرين فسر 'الذرية' هنا بأنهم الشباب [3].",
+        "choices": [
+            { "choice_text": "الشيوخ وكبار السن", "is_correct": false },
+            { "choice_text": "الشباب", "is_correct": true },
+            { "choice_text": "النساء فقط", "is_correct": false },
+            { "choice_text": "الأطفال الرضع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يواجه أبو بكر وعثمان اضطهاداً طويلاً كبقية المستضعفين في مكة؟",
+        "difficulty_score": 600,
+        "explanation": "بسبب مكانتهم وشرفهم في قومهم، وهو ما يثبت أن المكانة الاجتماعية لم تكن مانعاً من الإيمان بل كانت وسيلة حماية [4].",
+        "choices": [
+            { "choice_text": "لأنهما كانا يخفيان إسلامهما تماماً", "is_correct": false },
+            { "choice_text": "بسبب مكانتهما وشرفهما في قريش", "is_correct": true },
+            { "choice_text": "لأنهما هاجرا فور إسلامهما", "is_correct": false },
+            { "choice_text": "لأنهما لم يدعوا أحداً للإسلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي ناله أسامة بن زيد في السيرة؟",
+        "difficulty_score": 200,
+        "explanation": "نال أسامة بن زيد لقب 'حِبُّ رسول الله' [5].",
+        "choices": [
+            { "choice_text": "سيف الله المسلول", "is_correct": false },
+            { "choice_text": "حِبُّ رسول الله", "is_correct": true },
+            { "choice_text": "أمين الأمة", "is_correct": false },
+            { "choice_text": "فاروق الأمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة التربوية من 'صغر سن' أغلب السابقين للإسلام؟",
+        "difficulty_score": 700,
+        "explanation": "أن الشباب هم وقود النهضة وحملة الأعباء الحقيقيين، وأن صغر السن لا يعفي من المسؤولية [20، 22].",
+        "choices": [
+            { "choice_text": "أن الإسلام دين مخصص للأطفال", "is_correct": false },
+            { "choice_text": "أن الشباب هم وقود النهضة وحملة الأعباء", "is_correct": true },
+            { "choice_text": "أن كبار السن لم يسلم منهم أحد", "is_correct": false },
+            { "choice_text": "أن العلم لا يطلب إلا في الصغر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'سيد' بلال بن رباح الذي رآه في بدر وقال 'لا نجوت إن نجا'؟",
+        "difficulty_score": 300,
+        "explanation": "هو أمية بن خلف، الذي كان يعذبه في مكة وقتله المسلمون في بدر [6].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "عقبة بن أبي معيط", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": true },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل المصلحون على دور المرأة الفاعل في نصرة الدين عسكرياً؟",
+        "difficulty_score": 800,
+        "explanation": "بقصة أم حرام بنت ملحان ورؤيا النبي لها وهي تغزو في البحر [7].",
+        "choices": [
+            { "choice_text": "بمنع النساء من الخروج من البيوت", "is_correct": false },
+            { "choice_text": "بقصة أم حرام بنت ملحان وغزو البحر", "is_correct": true },
+            { "choice_text": "بأن خديجة كانت تاجرة فقط", "is_correct": false },
+            { "choice_text": "بعدم وجود نساء في السيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل النبي صلى الله عليه وسلم عندما استيقظ ورأى قوماً من أمته يركبون البحر غزاة؟",
+        "difficulty_score": 400,
+        "explanation": "استيقظ وهو يضحك فرحاً بما رأى من كرامة أمته وعلو شأنهم [7].",
+        "choices": [
+            { "choice_text": "استيقظ وهو يبكي خوفاً عليهم", "is_correct": false },
+            { "choice_text": "استيقظ وهو يضحك", "is_correct": true },
+            { "choice_text": "استيقظ غاضباً من ركوب البحر", "is_correct": false },
+            { "choice_text": "أمرهم بترك الغزو فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'الناموس' الذي أُنزل على موسى وذكره ورقة بن نوفل؟",
+        "difficulty_score": 200,
+        "explanation": "الناموس هو جبريل عليه السلام (صاحب السر والوحي) [8].",
+        "choices": [
+            { "choice_text": "ميكائيل", "is_correct": false },
+            { "choice_text": "جبريل عليه السلام", "is_correct": true },
+            { "choice_text": "إسرافيل", "is_correct": false },
+            { "choice_text": "ملك الموت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من دعوة أبي بكر للناس رغم وجود النبي؟",
+        "difficulty_score": 900,
+        "explanation": "أن وجود الأكابر والأعلم لا يلغي دور الفرد ومسؤوليته المباشرة في خدمة الدين [45، 46].",
+        "choices": [
+            { "choice_text": "أن الداعية يجب أن ينتظر الأوامر دائماً", "is_correct": false },
+            { "choice_text": "أن وجود الأكابر لا يلغي دور المصلح الفردي", "is_correct": true },
+            { "choice_text": "أن أبا بكر كان يخالف أوامر النبي", "is_correct": false },
+            { "choice_text": "أن النبي لم يكن مهتماً بالدعوة في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اختار الفتية في سورة الكهف الاعتزال في الكهف؟",
+        "difficulty_score": 500,
+        "explanation": "للمحافظة على توحيدهم ودينهم من بطش قومهم المشركين الذين كانوا أكثر عدداً ونفوذاً [9].",
+        "choices": [
+            { "choice_text": "للبحث عن الكنوز", "is_correct": false },
+            { "choice_text": "للمحافظة على التوحيد والفرار بالدين", "is_correct": true },
+            { "choice_text": "لأنهم لم يحبوا حياة المدن", "is_correct": false },
+            { "choice_text": "بسبب الفقر الشديد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي وُلِد مع بداية الهجرة وكان أول مولود في الإسلام؟",
+        "difficulty_score": 400,
+        "explanation": "هو عبد الله بن الزبير رضي الله عنهما [10].",
+        "choices": [
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "الحسن بن علي", "is_correct": false },
+            { "choice_text": "عبد الله بن الزبير", "is_correct": true },
+            { "choice_text": "أسامة بن زيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال هرقل عن 'أتباع الرسل' بعد محاورته لأبي سفيان؟",
+        "difficulty_score": 600,
+        "explanation": "قال إن أتباع الرسل هم ضعفاء الناس [11].",
+        "choices": [
+            { "choice_text": "أنهم أقوى الناس وأغناهم", "is_correct": false },
+            { "choice_text": "أنهم ضعفاء الناس", "is_correct": true },
+            { "choice_text": "أنهم الملوك والحكام", "is_correct": false },
+            { "choice_text": "أنهم علماء الفلسفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الخلفاء الراشدين تأخر إسلامه قليلاً عن الثلاثة الآخرين؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن أبا بكر وعثمان وعلي من أوائل من أسلم، بينما تأخر عمر بن الخطاب قليلاً [12].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى قوله تعالى {خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ} كما شرحه المحاضر؟",
+        "difficulty_score": 700,
+        "explanation": "تذكير الإنسان بضعفه الشديد وأصله الحقير ليخضع لخالقه [7، 8].",
+        "choices": [
+            { "choice_text": "إظهار فخر الإنسان بأصله", "is_correct": false },
+            { "difficulty_score": 700, "choice_text": "تذكير الإنسان بضعفه ليخضع لخالقه", "is_correct": true },
+            { "choice_text": "إثبات قدرة الإنسان على الخلق", "is_correct": false },
+            { "choice_text": "أن الإنسان خلق من نور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وُصف 'الملأ' في القرآن وفي سياق السيرة؟",
+        "difficulty_score": 400,
+        "explanation": "وُصفوا بأنهم الطبقة الجاحدة الكافرة المترفة التي تضطهد الضعفاء [30، 35].",
+        "choices": [
+            { "choice_text": "المؤمنون الصادقون", "is_correct": false },
+            { "choice_text": "الطبقة الجاحدة المترفة المفسدة", "is_correct": true },
+            { "choice_text": "الشباب الفقير", "is_correct": false },
+            { "choice_text": "الأنصار في المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان من كتاب الوحي في المدينة رغم صغر سنه؟",
+        "difficulty_score": 500,
+        "explanation": "هو زيد بن ثابت رضي الله عنه [13].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "زيد بن ثابت", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "أبو موسى الأشعري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا رُدَّ عبد الله بن عمر يوم بدر؟",
+        "difficulty_score": 500,
+        "explanation": "رُدَّ لأنه استُصغر، حيث لم يبلغ الخامسة عشرة وهو السن المحدد للقتال حينها [23، 24].",
+        "choices": [
+            { "choice_text": "لأنه كان مريضاً", "is_correct": false },
+            { "choice_text": "لأنه لم يبلغ سن القتال (15 سنة)", "is_correct": true },
+            { "choice_text": "بسبب اعتراض والده", "is_correct": false },
+            { "choice_text": "لأنه لم يكن يحسن الرمي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'النقطة المركزية الأولى' التي يجب أن يؤسس عليها المصلح الشاب بوصلته؟",
+        "difficulty_score": 800,
+        "explanation": "هي العلم بالله سبحانه وتعالى وعظمته [43، 47].",
+        "choices": [
+            { "choice_text": "العلم بالسياسة الدولية", "is_correct": false },
+            { "choice_text": "العلم بالله وعظمته", "is_correct": true },
+            { "choice_text": "تعلم فنون الخطابة فقط", "is_correct": false },
+            { "choice_text": "جمع الأموال للدعوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يمثله 'الكتمان' في المرحلة السرية للدعوة؟",
+        "difficulty_score": 700,
+        "explanation": "يمثل مبدأ اتخاذ الأسباب الشرعية والواقعية لحماية الدعوة في مهدها [16، 47].",
+        "choices": [
+            { "choice_text": "الخوف والجبن من المشركين", "is_correct": false },
+            { "choice_text": "مبدأ اتخاذ الأسباب لحماية الدعوة", "is_correct": true },
+            { "choice_text": "عدم الرغبة في نشر الدين", "is_correct": false },
+            { "choice_text": "التردد في صحة الوحي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم سنة خدم أنس بن مالك النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 200,
+        "explanation": "خدمه عشر سنوات، بدأها وهو غلام صغير [14].",
+        "choices": [
+            { "choice_text": "خمس سنوات", "is_correct": false },
+            { "choice_text": "عشر سنوات", "is_correct": true },
+            { "choice_text": "سنتين فقط", "is_correct": false },
+            { "choice_text": "عشرين سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الصحابية التي قتلت شهيدة بعد تعذيب سيدها لها؟",
+        "difficulty_score": 300,
+        "explanation": "هي سمية رضي الله عنها، قتلها أبو جهل لعنه الله [6].",
+        "choices": [
+            { "choice_text": "نسيبة بنت كعب", "is_correct": false },
+            { "choice_text": "سمية رضي الله عنها", "is_correct": true },
+            { "choice_text": "هند بنت عتبة", "is_correct": false },
+            { "choice_text": "أم سليم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة الرابعة المركزية للمصلحين في هذا الدرس؟",
+        "difficulty_score": 900,
+        "explanation": "أهمية تحمل مسؤولية الدعوة وحمل الدين حتى بوجود من هو أفضل وأعلم [1].",
+        "choices": [
+            { "choice_text": "وجوب اعتزال الناس", "is_correct": false },
+            { "choice_text": "أهمية تحمل المسؤولية بوجود الأفضل", "is_correct": true },
+            { "choice_text": "ترك الدعوة للعلماء فقط", "is_correct": false },
+            { "choice_text": "التفرغ للعبادة وترك الإصلاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الصفات لم يذكرها ابن إسحاق في وصف أبي بكر؟",
+        "difficulty_score": 600,
+        "explanation": "لم يذكر أنه كان يجهل أحوال العرب، بل قال إنه كان أعلم قريش بما فيها من خير وشر [1].",
+        "choices": [
+            { "choice_text": "كان تاجراً ذا خلق", "is_correct": false },
+            { "choice_text": "كان يجهل أحوال قريش", "is_correct": true },
+            { "choice_text": "كان أنسب قريش لقريش", "is_correct": false },
+            { "choice_text": "كان مألفاً لقومه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الغرض من ذكر قصة 'امرأة فرعون' في سياق الحديث عن الصحابيات؟",
+        "difficulty_score": 800,
+        "explanation": "للتدليل على قدرة المرأة على تحمل الأعباء ومخالفة الباطل السائد مهما كان قوياً [15].",
+        "choices": [
+            { "choice_text": "لإثبات أن النساء يحببن المال", "is_correct": false },
+            { "choice_text": "للتدليل على قدرة المرأة على تحمل الأعباء", "is_correct": true },
+            { "choice_text": "لأن فرعون كان من قريش", "is_correct": false },
+            { "choice_text": "لبيان كره النساء للرجال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السن التقريبي لعلي بن أبي طالب حين أسلم؟",
+        "difficulty_score": 100,
+        "explanation": "أسلم وهو في العاشرة من عمره [16].",
+        "choices": [
+            { "choice_text": "عشر سنوات", "is_correct": true },
+            { "choice_text": "عشرون سنة", "is_correct": false },
+            { "choice_text": "خمس عشرة سنة", "is_correct": false },
+            { "choice_text": "أربعون سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي جعلت 'السابقين الأولين' في مكانة لا تُستدرك؟",
+        "difficulty_score": 700,
+        "explanation": "إقبالهم على الحق في وقت لم يكن فيه أحد مقبلاً وتحملهم الوحشة في ذلك [16، 17].",
+        "choices": [
+            { "choice_text": "كثرة أموالهم التي أنفقوها", "is_correct": false },
+            { "choice_text": "إقبالهم وقت عدم وجود مقبلين", "is_correct": true },
+            { "choice_text": "قوتهم العسكرية الكبيرة", "is_correct": false },
+            { "choice_text": "كتابتهم لكل آيات القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذُكر أنه كان في الثالثة عشرة حين أسلم؟",
+        "difficulty_score": 300,
+        "explanation": "هو الزبير بن العوام رضي الله عنه [20، 22].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": true },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "أبو عبيدة بن الجراح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من منع الجن من استراق السمع بالشهب؟",
+        "difficulty_score": 500,
+        "explanation": "أن نزول القرآن حدث عظيم غير ملامح الكون وحمى السماء من استراق السمع [3، 4].",
+        "choices": [
+            { "choice_text": "أن الشهب هي كواكب سيارة", "is_correct": false },
+            { "choice_text": "أن نزول القرآن حدث كوني عظيم", "is_correct": true },
+            { "choice_text": "أن الجن كانت تحب القرآن", "is_correct": false },
+            { "choice_text": "أن المشركين هم من كانوا يرمون الشهب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العلم الذي وُصف بأنه 'أشرف العلم على الإطلاق'؟",
+        "difficulty_score": 600,
+        "explanation": "هو العلم بالله سبحانه وتعالى [17].",
+        "choices": [
+            { "choice_text": "علم التاريخ", "is_correct": false },
+            { "choice_text": "العلم بالله سبحانه وتعالى", "is_correct": true },
+            { "choice_text": "علم الطب", "is_correct": false },
+            { "choice_text": "علم الفلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا ردَّ المصلحون على من يحصر دور المرأة في 'البيت والمطبخ' فقط؟",
+        "difficulty_score": 800,
+        "explanation": "بأن الإسلام خاطب المرأة كإنسان مكلف له دور في نصرة الدين وتحمل أعبائه بجانب واجباتها [39، 40].",
+        "choices": [
+            { "choice_text": "بأن المرأة لا دور لها في الإسلام", "is_correct": false },
+            { "choice_text": "بأن دورها في نصرة الدين أساسي ولا يقتصر على الخدمة", "is_correct": true },
+            { "choice_text": "بأن السيرة لم تذكر النساء أبداً", "is_correct": false },
+            { "choice_text": "بأن المرأة معفية من كل التكاليف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى {إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ} وفق ما ورد في البخاري؟",
+        "difficulty_score": 400,
+        "explanation": "أي جمعه في صدر النبي صلى الله عليه وسلم ليحفظه [18].",
+        "choices": [
+            { "choice_text": "جمعه في المصاحف المكتوبة", "is_correct": false },
+            { "choice_text": "جمعه في صدر النبي (حفظه)", "is_correct": true },
+            { "choice_text": "جمع الناس للإيمان به", "is_correct": false },
+            { "choice_text": "جمع آراء المفسرين حوله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هما الصحابيان اللذان ذُكر في المصدر أنهما لم يُعذبا لمدد طويلة بفضل شرفهما؟",
+        "difficulty_score": 500,
+        "explanation": "هما أبو بكر الصديق وعثمان بن عفان رضي الله عنهما [4].",
+        "choices": [
+            { "choice_text": "بلال وصهيب", "is_correct": false },
+            { "choice_text": "أبو بكر وعثمان", "is_correct": true },
+            { "choice_text": "عمار وياسر", "is_correct": false },
+            { "choice_text": "خباب والمقداد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفئة التي وصفها الله بـ {فِتْيَةٌ آمَنُوا بِرَبِّهِمْ}؟",
+        "difficulty_score": 200,
+        "explanation": "هم أصحاب الكهف [19].",
+        "choices": [
+            { "choice_text": "قوم نوح", "is_correct": false },
+            { "choice_text": "أصحاب الكهف", "is_correct": true },
+            { "choice_text": "مشركو قريش", "is_correct": false },
+            { "choice_text": "أهل المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأمور يُعتبر من 'أثقال النبوة ومؤنتها' كما وصفها ابن إسحاق؟",
+        "difficulty_score": 700,
+        "explanation": "تحمل خلاف الناس وردِّهم ما جاء به الرسل، وهو لا يقوى عليه إلا أولو العزم [20].",
+        "choices": [
+            { "choice_text": "جمع الذهب والفضة", "is_correct": false },
+            { "choice_text": "تحمل خلاف الناس وأذاهم وردِّهم للحق", "is_correct": true },
+            { "choice_text": "التمتع بملاذ الدنيا", "is_correct": false },
+            { "choice_text": "البحث عن رضا كل الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ركب البحر غازياً في زمن معاوية وتحققت فيه رؤيا النبي؟",
+        "difficulty_score": 600,
+        "explanation": "المصدر ذكر أم حرام وزوجها عبادة بن الصامت في سياق هذا الحدث [7].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عبادة بن الصامت", "is_correct": true },
+            { "choice_text": "أبو عبيدة بن الجراح", "is_correct": false },
+            { "choice_text": "عمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من 'تنويع الشرائح' (فقراء، أغنياء، نساء، شباب) في بداية الإسلام؟",
+        "difficulty_score": 800,
+        "explanation": "لإثبات شمولية الإسلام وكسر احتكار فئة معينة للدين، ولتكامل الأدوار في الدعوة [38، 47].",
+        "choices": [
+            { "choice_text": "لإثارة الفتن بين الناس", "is_correct": false },
+            { "choice_text": "لإثبات شمولية الإسلام وتكامل الأدوار", "is_correct": true },
+            { "choice_text": "لصعوبة دعوة الأغنياء وحدهم", "is_correct": false },
+            { "choice_text": "بسبب قلة عدد الرجال حينها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المحاضر 'الذين حملوا الإسلام واستمروا في حماية الدين' بعد النبي؟",
+        "difficulty_score": 600,
+        "explanation": "قال إنهم أوائل من أسلم، فهم الذين قاموا برعاية الدين وحمايته [12].",
+        "choices": [
+            { "choice_text": "أنهم تركوا الدين بعد موت النبي", "is_correct": false },
+            { "choice_text": "أنهم أوائل من أسلم واستمروا في حماية الدين", "is_correct": true },
+            { "choice_text": "أنهم كانوا يبحثون عن المناصب", "is_correct": false },
+            { "choice_text": "أنهم لم يشاركوا في الغزوات", "is_correct": false }
+        ]
+    }]
+
+    }

@@ -1,0 +1,896 @@
+    {
+    "chapter_id": 27,
+    "questions": [
+        {
+        "question_text": "ما هو الوزن الصرفي للرباعي المجرد؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصنف أن الرباعي المجرد له وزن واحد فقط وهو فعلل [1].",
+        "choices": [
+            {"choice_text": "فَعْلَلَ", "is_correct": true},
+            {"choice_text": "تَفَعْلَلَ", "is_correct": false},
+            {"choice_text": "فَاعَلَ", "is_correct": false},
+            {"choice_text": "افْعَنْلَلَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدداً أبواب التصريف الإجمالية التي بدأ بها المصنف كتابه؟",
+        "difficulty_score": 150,
+        "explanation": "أورد المصنف في البداية أن أبواب التصريف خمسة وثلاثون باباً [1].",
+        "choices": [
+            {"choice_text": "30 باباً", "is_correct": false},
+            {"choice_text": "35 باباً", "is_correct": true},
+            {"choice_text": "40 باباً", "is_correct": false},
+            {"choice_text": "25 باباً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعد مثالاً (موزوناً) للرباعي المجرد؟",
+        "difficulty_score": 200,
+        "explanation": "دحرج هو المثال المشهور للرباعي المجرد على وزن فعلل [27].",
+        "choices": [
+            {"choice_text": "دحرج", "is_correct": true},
+            {"choice_text": "حوقل", "is_correct": false},
+            {"choice_text": "تجلبب", "is_correct": false},
+            {"choice_text": "استخرج", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مصدر الفعل 'دحرج'؟",
+        "difficulty_score": 250,
+        "explanation": "للفعل دحرج مصدران هما دحرجةً ودحراجاً [27].",
+        "choices": [
+            {"choice_text": "دحرجة فقط", "is_correct": false},
+            {"choice_text": "دحراجاً فقط", "is_correct": false},
+            {"choice_text": "دحرجةً ودحراجاً", "is_correct": true},
+            {"choice_text": "تدحرجاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'المجرد' في اصطلاح الصرفيين؟",
+        "difficulty_score": 300,
+        "explanation": "المجرد هو ما كانت كل حروفه أصلية ليس فيه حرف زائد [1].",
+        "choices": [
+            {"choice_text": "ما حذف منه حرف", "is_correct": false},
+            {"choice_text": "ما كانت حروفه أصلية دون زيادة", "is_correct": true},
+            {"choice_text": "ما زاد عن أربعة أحرف", "is_correct": false},
+            {"choice_text": "ما كان على وزن فَعَلَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء الرباعي المجرد يكون غالباً لـ:",
+        "difficulty_score": 350,
+        "explanation": "بناء الرباعي المجرد (دحرج) يكون للتعدية غالباً وقد يكون لازماً [3].",
+        "choices": [
+            {"choice_text": "اللزوم دائماً", "is_correct": false},
+            {"choice_text": "التعدية غالباً", "is_correct": true},
+            {"choice_text": "المبالغة فقط", "is_correct": false},
+            {"choice_text": "المطاوعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى الفعل 'دربخ' الوارد في الأمثلة؟",
+        "difficulty_score": 400,
+        "explanation": "دربخ هو مثال للفعل الرباعي اللازم ومعناه طأطأ رأسه [3].",
+        "choices": [
+            {"choice_text": "أسرع في المشي", "is_correct": false},
+            {"choice_text": "طأطأ رأسه", "is_correct": true},
+            {"choice_text": "تكلم ببطء", "is_correct": false},
+            {"choice_text": "غسل وجهه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدداً أبواب الملحق بـ 'دحرج'؟",
+        "difficulty_score": 300,
+        "explanation": "الأبواب الملحقة بالرباعي المجرد (دحرج) هي ستة أبواب [3].",
+        "choices": [
+            {"choice_text": "أربعة", "is_correct": false},
+            {"choice_text": "خمسة", "is_correct": false},
+            {"choice_text": "ستة", "is_correct": true},
+            {"choice_text": "سبعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'الإلحاق' عند الصرفيين كما فسره المصنف؟",
+        "difficulty_score": 500,
+        "explanation": "الإلحاق هو اتحاد المصدرين بين الملحق والملحق به [8].",
+        "choices": [
+            {"choice_text": "زيادة حرف في أول الكلمة", "is_correct": false},
+            {"choice_text": "اتحاد المصدرين بين الملحق والملحق به", "is_correct": true},
+            {"choice_text": "تغيير حركة العين", "is_correct": false},
+            {"choice_text": "حذف الحرف الأخير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'حوقل' ملحق بباب دحرج، ما وزنه؟",
+        "difficulty_score": 450,
+        "explanation": "حوقل على وزن فوعل بزيادة الواو بين الفاء والعين [19].",
+        "choices": [
+            {"choice_text": "فوعل", "is_correct": true},
+            {"choice_text": "فيعل", "is_correct": false},
+            {"choice_text": "فعول", "is_correct": false},
+            {"choice_text": "فعلى", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما أصل مادة الفعل 'حوقل' قبل الزيادة؟",
+        "difficulty_score": 550,
+        "explanation": "أصل حوقل هو حقل (ثلاثي) وزيدت فيه الواو للإلحاق [19].",
+        "choices": [
+            {"choice_text": "حقل", "is_correct": true},
+            {"choice_text": "حوق", "is_correct": false},
+            {"choice_text": "حلا", "is_correct": false},
+            {"choice_text": "وقل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'فوعل' (حوقل) يكون لـ:",
+        "difficulty_score": 400,
+        "explanation": "بناء هذا الباب يكون للازم فقط مثل 'حوقل زيد' [14].",
+        "choices": [
+            {"choice_text": "التعدية فقط", "is_correct": false},
+            {"choice_text": "اللزوم فقط", "is_correct": true},
+            {"choice_text": "المطاوعة", "is_correct": false},
+            {"choice_text": "المبالغة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'حوقل زيد' في السياق الصرفي المذكور؟",
+        "difficulty_score": 600,
+        "explanation": "قيل معناها إذا عجز عن الجماع، وهي تختلف عن قول 'لا حول ولا قوة إلا بالله' [14].",
+        "choices": [
+            {"choice_text": "قال لا حول ولا قوة إلا بالله", "is_correct": false},
+            {"choice_text": "عجز عن الجماع", "is_correct": true},
+            {"choice_text": "مشى ببطء", "is_correct": false},
+            {"choice_text": "كبر في السن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'بيطر' يتبع أي باب من أبواب الملحق؟",
+        "difficulty_score": 450,
+        "explanation": "بيطر على وزن فيعل بزيادة الياء بين الفاء والعين [14].",
+        "choices": [
+            {"choice_text": "فوعل", "is_correct": false},
+            {"choice_text": "فيعل", "is_correct": true},
+            {"choice_text": "فعول", "is_correct": false},
+            {"choice_text": "فعيل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما أصل الفعل 'بيطر'؟",
+        "difficulty_score": 500,
+        "explanation": "أصله بطر (ثلاثي) وزيدت فيه الياء للإلحاق [14].",
+        "choices": [
+            {"choice_text": "بيطر (أصلي)", "is_correct": false},
+            {"choice_text": "بطر", "is_correct": true},
+            {"choice_text": "بيا", "is_correct": false},
+            {"choice_text": "طار", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'فيعل' (بيطر) يكون لـ:",
+        "difficulty_score": 400,
+        "explanation": "بناء هذا الباب للتعدية فقط، مثل 'بيطر زيد الفرس' [15].",
+        "choices": [
+            {"choice_text": "اللزوم فقط", "is_correct": false},
+            {"choice_text": "التعدية فقط", "is_correct": true},
+            {"choice_text": "المبالغة", "is_correct": false},
+            {"choice_text": "المطاوعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'بيطر زيد الفرس'؟",
+        "difficulty_score": 600,
+        "explanation": "معناها شق رجله للعلاج [15].",
+        "choices": [
+            {"choice_text": "أركبه بسرعة", "is_correct": false},
+            {"choice_text": "شق رجله لعلاجه", "is_correct": true},
+            {"choice_text": "باعه في السوق", "is_correct": false},
+            {"choice_text": "أطعمه جيداً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'جهور' على وزن 'فعول'، أين تقع الزيادة فيه؟",
+        "difficulty_score": 500,
+        "explanation": "الزيادة هي الواو بين العين واللام [28].",
+        "choices": [
+            {"choice_text": "بين الفاء والعين", "is_correct": false},
+            {"choice_text": "بين العين واللام", "is_correct": true},
+            {"choice_text": "في آخر الفعل", "is_correct": false},
+            {"choice_text": "في أول الفعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما أصل الفعل 'جهور'؟",
+        "difficulty_score": 450,
+        "explanation": "أصله جهر (ثلاثي) بمعنى رفع صوته [28].",
+        "choices": [
+            {"choice_text": "جهر", "is_correct": true},
+            {"choice_text": "جور", "is_correct": false},
+            {"choice_text": "هجر", "is_correct": false},
+            {"choice_text": "وجه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'فعول' (جهور) يكون لـ:",
+        "difficulty_score": 400,
+        "explanation": "بناء هذا الباب للتعدية فقط مثل 'جهور زيد القرآن' [29].",
+        "choices": [
+            {"choice_text": "اللزوم فقط", "is_correct": false},
+            {"choice_text": "التعدية فقط", "is_correct": true},
+            {"choice_text": "المشاركة", "is_correct": false},
+            {"choice_text": "المطاوعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'بلورت الفكرة' في الاستعمال اللغوي؟",
+        "difficulty_score": 650,
+        "explanation": "معناها هذبتها وطورتها وجعلتها أحسن وأجمل [28].",
+        "choices": [
+            {"choice_text": "نسيتها", "is_correct": false},
+            {"choice_text": "طورتها وهذبتها", "is_correct": true},
+            {"choice_text": "أخفيتها", "is_correct": false},
+            {"choice_text": "قسمتها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'عثير' يتبع أي وزن ملحق؟",
+        "difficulty_score": 500,
+        "explanation": "عثير على وزن فعيل بزيادة الياء بين العين واللام [30].",
+        "choices": [
+            {"choice_text": "فيعل", "is_correct": false},
+            {"choice_text": "فعيل", "is_correct": true},
+            {"choice_text": "فعول", "is_correct": false},
+            {"choice_text": "فعلل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'فعيل' (عثير) يكون لـ:",
+        "difficulty_score": 450,
+        "explanation": "بناء هذا الباب للازم فقط مثل 'عثير زيد' [30].",
+        "choices": [
+            {"choice_text": "التعدية", "is_correct": false},
+            {"choice_text": "اللزوم", "is_correct": true},
+            {"choice_text": "المبالغة", "is_correct": false},
+            {"choice_text": "المطاوعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'عثير زيد'؟",
+        "difficulty_score": 700,
+        "explanation": "معناها زلّت قدمه [21].",
+        "choices": [
+            {"choice_text": "أسرع", "is_correct": false},
+            {"choice_text": "زلّت قدمه", "is_correct": true},
+            {"choice_text": "تكلم بصدق", "is_correct": false},
+            {"choice_text": "نام بعمق", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'جلبب' ملحق بأي باب؟",
+        "difficulty_score": 400,
+        "explanation": "جلبب ملحق بباب دحرج بزيادة حرف من جنس اللام في آخره [21].",
+        "choices": [
+            {"choice_text": "دحرج", "is_correct": true},
+            {"choice_text": "تدحرج", "is_correct": false},
+            {"choice_text": "احرجنم", "is_correct": false},
+            {"choice_text": "استخرج", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الزيادة في فعل 'جلبب'؟",
+        "difficulty_score": 500,
+        "explanation": "الزيادة هي حرف واحد من جنس اللام (الباء) في آخره [21].",
+        "choices": [
+            {"choice_text": "الواو", "is_correct": false},
+            {"choice_text": "الياء", "is_correct": false},
+            {"choice_text": "حرف من جنس اللام", "is_correct": true},
+            {"choice_text": "الهمزة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'فعلل' (جلبب) يكون لـ:",
+        "difficulty_score": 450,
+        "explanation": "بناء هذا الباب للتعدية فقط مثل 'جلبب زيد الجلباب' [31].",
+        "choices": [
+            {"choice_text": "اللزوم فقط", "is_correct": false},
+            {"choice_text": "التعدية فقط", "is_correct": true},
+            {"choice_text": "المبالغة", "is_correct": false},
+            {"choice_text": "المطاوعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'سلقى' يتبع أي وزن من الملحقات؟",
+        "difficulty_score": 550,
+        "explanation": "سلقى على وزن فعلى بزيادة الياء (التي تنقلب ألفاً مقصورة) في آخره [12].",
+        "choices": [
+            {"choice_text": "فعول", "is_correct": false},
+            {"choice_text": "فعلى", "is_correct": true},
+            {"choice_text": "فيعل", "is_correct": false},
+            {"choice_text": "فعيل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مضارع الفعل 'سلقى'؟",
+        "difficulty_score": 450,
+        "explanation": "مضارعه يسلقي، ورجوع الياء دليل على أنها أصل في الزيادة [12].",
+        "choices": [
+            {"choice_text": "يسلقي", "is_correct": true},
+            {"choice_text": "يسلقى", "is_correct": false},
+            {"choice_text": "يتسلقى", "is_correct": false},
+            {"choice_text": "يسلق", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أفعال 'خنظى' و'عنظى' و'خنزى' كلها بمعنى:",
+        "difficulty_score": 750,
+        "explanation": "ذكر الشارح أنها كلها بمعنى بذيء اللسان وسليط اللسان [13].",
+        "choices": [
+            {"choice_text": "كريم النفس", "is_correct": false},
+            {"choice_text": "بذيء اللسان", "is_correct": true},
+            {"choice_text": "سريع الجري", "is_correct": false},
+            {"choice_text": "كثير المال", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'فعلى' (سلقى) يكون لـ:",
+        "difficulty_score": 450,
+        "explanation": "بناء هذا الباب للازم فقط مثل 'سلقى الرجل' [13].",
+        "choices": [
+            {"choice_text": "التعدية", "is_correct": false},
+            {"choice_text": "اللزوم", "is_correct": true},
+            {"choice_text": "المبالغة", "is_correct": false},
+            {"choice_text": "المشاركة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'سلقى الرجل'؟",
+        "difficulty_score": 600,
+        "explanation": "معناها نام على قفاه [13].",
+        "choices": [
+            {"choice_text": "نام على بطنه", "is_correct": false},
+            {"choice_text": "نام على قفاه", "is_correct": true},
+            {"choice_text": "سقط من الدابة", "is_correct": false},
+            {"choice_text": "مشى متكبراً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدداً أبواب المزيد على الرباعي المجرد؟",
+        "difficulty_score": 400,
+        "explanation": "المزيد على الرباعي ثلاثة أبواب: واحد خماسي واثنان سداسيان [9].",
+        "choices": [
+            {"choice_text": "باب واحد", "is_correct": false},
+            {"choice_text": "بابان", "is_correct": false},
+            {"choice_text": "ثلاثة أبواب", "is_correct": true},
+            {"choice_text": "أربعة أبواب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن الرباعي المزيد بحرف واحد؟",
+        "difficulty_score": 350,
+        "explanation": "وزنه تفعلل مثل تدحرج [5].",
+        "choices": [
+            {"choice_text": "تفعلل", "is_correct": true},
+            {"choice_text": "افعنلل", "is_correct": false},
+            {"choice_text": "افعلل", "is_correct": false},
+            {"choice_text": "مفعلل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الزيادة في الفعل 'تدحرج'؟",
+        "difficulty_score": 300,
+        "explanation": "الزيادة هي التاء في أوله فقط [11].",
+        "choices": [
+            {"choice_text": "الهمزة في أوله", "is_correct": false},
+            {"choice_text": "التاء في أوله", "is_correct": true},
+            {"choice_text": "النون في وسطه", "is_correct": false},
+            {"choice_text": "تكرار اللام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'تفعلل' (تدحرج) يفيد:",
+        "difficulty_score": 450,
+        "explanation": "بناء هذا الباب يفيد المطاوعة [11].",
+        "choices": [
+            {"choice_text": "التعدية", "is_correct": false},
+            {"choice_text": "المبالغة", "is_correct": false},
+            {"choice_text": "المطاوعة", "is_correct": true},
+            {"choice_text": "الاستعطاف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'المطاوعة' لغة؟",
+        "difficulty_score": 500,
+        "explanation": "المطاوعة في اللغة هي الموافقة [11].",
+        "choices": [
+            {"choice_text": "الموافقة", "is_correct": true},
+            {"choice_text": "الاعتراض", "is_correct": false},
+            {"choice_text": "المبالغة", "is_correct": false},
+            {"choice_text": "التكرار", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'تدحرج' مقارنة بـ 'دحرج' هو فعل:",
+        "difficulty_score": 450,
+        "explanation": "دحرج متعدٍ، وتدحرج لازم (مطاوع) [11].",
+        "choices": [
+            {"choice_text": "متعدٍ", "is_correct": false},
+            {"choice_text": "لازم", "is_correct": true},
+            {"choice_text": "جامد", "is_correct": false},
+            {"choice_text": "ناقص", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هما وزنا الرباعي المزيد بحرفين (السداسي)؟",
+        "difficulty_score": 400,
+        "explanation": "الوزنان هما افعنلل (احرجنم) وافعلل (اقشعر) [6, 7].",
+        "choices": [
+            {"choice_text": "استفعل وافعلّ", "is_correct": false},
+            {"choice_text": "افعنلل وافعلل", "is_correct": true},
+            {"choice_text": "انفعل وافتعل", "is_correct": false},
+            {"choice_text": "تفاعل وتفعلل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في فعل 'احرجنم'؟",
+        "difficulty_score": 550,
+        "explanation": "الزيادة هي الهمزة في أوله والنون بين العين واللام [20].",
+        "choices": [
+            {"choice_text": "الألف والسين", "is_correct": false},
+            {"choice_text": "الهمزة والنون", "is_correct": true},
+            {"choice_text": "التاء والواو", "is_correct": false},
+            {"choice_text": "الياء والنون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'احرجنم' في اللغة؟",
+        "difficulty_score": 600,
+        "explanation": "احرجنم الإبل أي اجتمعت [6].",
+        "choices": [
+            {"choice_text": "تفرقت", "is_correct": false},
+            {"choice_text": "اجتمعت", "is_correct": true},
+            {"choice_text": "هربت", "is_correct": false},
+            {"choice_text": "مرضت", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'افعنلل' (احرجنم) يفيد:",
+        "difficulty_score": 500,
+        "explanation": "بناء هذا الباب يفيد المطاوعة أيضاً [7].",
+        "choices": [
+            {"choice_text": "المبالغة", "is_correct": false},
+            {"choice_text": "المطاوعة", "is_correct": true},
+            {"choice_text": "المشاركة", "is_correct": false},
+            {"choice_text": "الطلب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في فعل 'اقشعر'؟",
+        "difficulty_score": 600,
+        "explanation": "الزيادة هي الهمزة في أوله وحرف من جنس اللام في آخره [22].",
+        "choices": [
+            {"choice_text": "الهمزة والنون", "is_correct": false},
+            {"choice_text": "الهمزة وحرف من جنس اللام", "is_correct": true},
+            {"choice_text": "التاء والسين", "is_correct": false},
+            {"choice_text": "الألف والواو", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'افعلل' (اقشعر) يفيد:",
+        "difficulty_score": 550,
+        "explanation": "بناء هذا الباب يفيد مبالغة اللازم [17].",
+        "choices": [
+            {"choice_text": "التعدية", "is_correct": false},
+            {"choice_text": "مبالغة اللازم", "is_correct": true},
+            {"choice_text": "المطاوعة فقط", "is_correct": false},
+            {"choice_text": "المشاركة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين 'قشعر' و'اقشعر' من حيث المعنى؟",
+        "difficulty_score": 700,
+        "explanation": "قشعر هو أصل الفعل، أما اقشعر فهو للمبالغة والانتشار الشديد للشعر [18].",
+        "choices": [
+            {"choice_text": "لا فرق بينهما", "is_correct": false},
+            {"choice_text": "اقشعر تدل على مبالغة أكثر", "is_correct": true},
+            {"choice_text": "قشعر متعدٍ واقشعر لازم", "is_correct": false},
+            {"choice_text": "اقشعر أقدم في اللغة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدداً أبواب الملحق بباب 'تدحرج'؟",
+        "difficulty_score": 450,
+        "explanation": "الملحق بباب تدحرج (الخماسي) خمسة أبواب [18].",
+        "choices": [
+            {"choice_text": "ثلاثة", "is_correct": false},
+            {"choice_text": "أربعة", "is_correct": false},
+            {"choice_text": "خمسة", "is_correct": true},
+            {"choice_text": "ستة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'تجلبب' ملحق بباب:",
+        "difficulty_score": 400,
+        "explanation": "تجلبب ملحق بباب تدحرج بزيادة التاء في أوله والباء في آخره [32].",
+        "choices": [
+            {"choice_text": "دحرج", "is_correct": false},
+            {"choice_text": "تدحرج", "is_correct": true},
+            {"choice_text": "احرجنم", "is_correct": false},
+            {"choice_text": "اقشعر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في 'تجلبب'؟",
+        "difficulty_score": 500,
+        "explanation": "الزيادة هي التاء في أوله وحرف من جنس اللام في آخره [32].",
+        "choices": [
+            {"choice_text": "التاء فقط", "is_correct": false},
+            {"choice_text": "التاء وحرف من جنس اللام", "is_correct": true},
+            {"choice_text": "الهمزة والنون", "is_correct": false},
+            {"choice_text": "الواو والياء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'تجلبب زيد'؟",
+        "difficulty_score": 600,
+        "explanation": "معناها لبس الجلباب، وهو الثوب الواسع [33].",
+        "choices": [
+            {"choice_text": "صنع جلباباً", "is_correct": false},
+            {"choice_text": "لبس الجلباب", "is_correct": true},
+            {"choice_text": "اشترى جلباباً", "is_correct": false},
+            {"choice_text": "غسل الجلباب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'تجورب' ملحق بأي باب؟",
+        "difficulty_score": 500,
+        "explanation": "تجورب ملحق بباب تدحرج على وزن تفوعل [33].",
+        "choices": [
+            {"choice_text": "دحرج", "is_correct": false},
+            {"choice_text": "تدحرج", "is_correct": true},
+            {"choice_text": "احرجنم", "is_correct": false},
+            {"choice_text": "اقشعر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في 'تجورب'؟",
+        "difficulty_score": 550,
+        "explanation": "الزيادة هي التاء في أوله والواو بين الفاء والعين [34].",
+        "choices": [
+            {"choice_text": "التاء فقط", "is_correct": false},
+            {"choice_text": "الواو فقط", "is_correct": false},
+            {"choice_text": "التاء والواو", "is_correct": true},
+            {"choice_text": "التاء والياء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يقال 'الكوثر' أبلغ من كلمة 'كثير'؟",
+        "difficulty_score": 750,
+        "explanation": "لأن وزن فوعل هنا يفيد المبالغة الشديدة في الكثرة [34].",
+        "choices": [
+            {"choice_text": "لأنها اسم نهر فقط", "is_correct": false},
+            {"choice_text": "لأن الوزن يفيد المبالغة والكثرة", "is_correct": true},
+            {"choice_text": "لأن حروفها أكثر", "is_correct": false},
+            {"choice_text": "لأنها كلمة قرآنية فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'تفوعل' (تجورب) يكون لـ:",
+        "difficulty_score": 450,
+        "explanation": "بناء هذا الباب للازم فقط مثل 'تجورب زيد' [35].",
+        "choices": [
+            {"choice_text": "التعدية", "is_correct": false},
+            {"choice_text": "اللزوم", "is_correct": true},
+            {"choice_text": "المشاركة", "is_correct": false},
+            {"choice_text": "الاستفهام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'تشيطن' على وزن:",
+        "difficulty_score": 500,
+        "explanation": "تشيطن على وزن تفيعل بزيادة التاء والياء [35].",
+        "choices": [
+            {"choice_text": "تفوعل", "is_correct": false},
+            {"choice_text": "تفيعل", "is_correct": true},
+            {"choice_text": "تفعول", "is_correct": false},
+            {"choice_text": "تفعلل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما أصل مادة 'تشيطن'؟",
+        "difficulty_score": 650,
+        "explanation": "أصلها شطن، وقيل سمي شيطاناً لبعده عن رحمة الله [36].",
+        "choices": [
+            {"choice_text": "شيط", "is_correct": false},
+            {"choice_text": "شطن", "is_correct": true},
+            {"choice_text": "شاط", "is_correct": false},
+            {"choice_text": "طنّ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'هتلوس الرجل' في السياق الصرفي المذكور؟",
+        "difficulty_score": 800,
+        "explanation": "معناها أتى في كلامه بما هو خارج العادة (يخبط في كلامه) [23].",
+        "choices": [
+            {"choice_text": "أكل كثيراً", "is_correct": false},
+            {"choice_text": "يخبط في كلامه", "is_correct": true},
+            {"choice_text": "مشى بسرعة", "is_correct": false},
+            {"choice_text": "نام واقفاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'ترهوك' على وزن:",
+        "difficulty_score": 550,
+        "explanation": "ترهوك على وزن تفعول بزيادة التاء والواو [23].",
+        "choices": [
+            {"choice_text": "تفوعل", "is_correct": false},
+            {"choice_text": "تفعول", "is_correct": true},
+            {"choice_text": "تفيعل", "is_correct": false},
+            {"choice_text": "تفعلل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'ترهوك زيد'؟",
+        "difficulty_score": 750,
+        "explanation": "معناها إذا تكبّر في المشي [24].",
+        "choices": [
+            {"choice_text": "إذا تكبر في المشي", "is_correct": true},
+            {"choice_text": "إذا سقط على وجهه", "is_correct": false},
+            {"choice_text": "إذا ضحك بصوت عالٍ", "is_correct": false},
+            {"choice_text": "إذا غضب بشدة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'تسلقى' في الملحق بباب تدحرج، ما حروف زيادته؟",
+        "difficulty_score": 600,
+        "explanation": "الزيادة هي التاء في أوله والياء في آخره [37].",
+        "choices": [
+            {"choice_text": "التاء والألف", "is_correct": false},
+            {"choice_text": "التاء والياء", "is_correct": true},
+            {"choice_text": "الهمزة والواو", "is_correct": false},
+            {"choice_text": "النون والسين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حقيقة الإلحاق في باب 'تجلبب' حسب الفائدة المذكورة؟",
+        "difficulty_score": 850,
+        "explanation": "حقيقة الإلحاق هي بتكرار الباء، أما التاء فهي للمطاوعة [16, 38].",
+        "choices": [
+            {"choice_text": "الإلحاق حصل بزيادة التاء", "is_correct": false},
+            {"choice_text": "الإلحاق حصل بتكرار الباء", "is_correct": true},
+            {"choice_text": "الإلحاق حصل بزيادة التاء والباء معاً", "is_correct": false},
+            {"choice_text": "لا يوجد إلحاق حقيقي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو العالم الذي صرح بأن الإلحاق لا يكون في أول الكلمة؟",
+        "difficulty_score": 900,
+        "explanation": "صرح بذلك العلامة ابن يعيش في شرح المفصل [16].",
+        "choices": [
+            {"choice_text": "ابن مالك", "is_correct": false},
+            {"choice_text": "ابن يعيش", "is_correct": true},
+            {"choice_text": "سيبويه", "is_correct": false},
+            {"choice_text": "الزمخشري", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدداً أبواب الملحق بباب 'احرجنم'؟",
+        "difficulty_score": 500,
+        "explanation": "الملحق بباب احرجنم بابان فقط [39].",
+        "choices": [
+            {"choice_text": "باب واحد", "is_correct": false},
+            {"choice_text": "بابان", "is_correct": true},
+            {"choice_text": "ثلاثة أبواب", "is_correct": false},
+            {"choice_text": "أربعة أبواب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'اقعنسس' ملحق بباب:",
+        "difficulty_score": 550,
+        "explanation": "اقعنسس ملحق بباب احرجنم على وزن افعنلل [39].",
+        "choices": [
+            {"choice_text": "دحرج", "is_correct": false},
+            {"choice_text": "احرجنم", "is_correct": true},
+            {"choice_text": "تدحرج", "is_correct": false},
+            {"choice_text": "اقشعر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في 'اقعنسس'؟",
+        "difficulty_score": 650,
+        "explanation": "الزيادة هي الهمزة في أوله، والنون بين العين واللام، وحرف من جنس اللام في آخره [25, 40].",
+        "choices": [
+            {"choice_text": "الهمزة والنون فقط", "is_correct": false},
+            {"choice_text": "الهمزة والنون وحرف من جنس اللام", "is_correct": true},
+            {"choice_text": "التاء والواو والياء", "is_correct": false},
+            {"choice_text": "الألف والسين فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'قعس الرجل'؟",
+        "difficulty_score": 750,
+        "explanation": "معناها إذا خرج صدره ودخل ظهره [25].",
+        "choices": [
+            {"choice_text": "انحنى ظهره للأمام", "is_correct": false},
+            {"choice_text": "خرج صدره ودخل ظهره", "is_correct": true},
+            {"choice_text": "طال عنقه", "is_correct": false},
+            {"choice_text": "عرضت منكباه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'افعنلل' (اقعنسس) يكون لـ:",
+        "difficulty_score": 550,
+        "explanation": "بناء هذا الباب للازم ويفيد المبالغة [25].",
+        "choices": [
+            {"choice_text": "التعدية", "is_correct": false},
+            {"choice_text": "مبالغة اللازم", "is_correct": true},
+            {"choice_text": "المطاوعة فقط", "is_correct": false},
+            {"choice_text": "الطلب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'اسلنقى' ملحق بأي باب؟",
+        "difficulty_score": 500,
+        "explanation": "اسلنقى ملحق بباب احرجنم على وزن افعنلى [26].",
+        "choices": [
+            {"choice_text": "دحرج", "is_correct": false},
+            {"choice_text": "تدحرج", "is_correct": false},
+            {"choice_text": "احرجنم", "is_correct": true},
+            {"choice_text": "اقشعر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في 'اسلنقى'؟",
+        "difficulty_score": 650,
+        "explanation": "الزيادة هي الهمزة في أوله، والنون بين العين واللام، والياء في آخره [41].",
+        "choices": [
+            {"choice_text": "الهمزة والنون والياء", "is_correct": true},
+            {"choice_text": "التاء والواو والألف", "is_correct": false},
+            {"choice_text": "الهمزة والسين والتاء", "is_correct": false},
+            {"choice_text": "النون والياء فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'احبنطى زيد'؟",
+        "difficulty_score": 800,
+        "explanation": "معناها انتفخ بطنه [41].",
+        "choices": [
+            {"choice_text": "أصابه الهزال", "is_correct": false},
+            {"choice_text": "انتفخ بطنه", "is_correct": true},
+            {"choice_text": "طال شعره", "is_correct": false},
+            {"choice_text": "قصرت قامته", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'اغرندى'؟",
+        "difficulty_score": 850,
+        "explanation": "معناها غلبه النعاس [41].",
+        "choices": [
+            {"choice_text": "غلبه النعاس", "is_correct": true},
+            {"choice_text": "اشتد غضبه", "is_correct": false},
+            {"choice_text": "سافر بعيداً", "is_correct": false},
+            {"choice_text": "تكلم بطلاقة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بناء باب 'افعنلى' (اسلنقى) يكون لـ:",
+        "difficulty_score": 500,
+        "explanation": "بناء هذا الباب للازم فقط مثل 'اسلنقى زيد' [41].",
+        "choices": [
+            {"choice_text": "التعدية", "is_correct": false},
+            {"choice_text": "اللزوم", "is_correct": true},
+            {"choice_text": "المشاركة", "is_correct": false},
+            {"choice_text": "المبالغة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'اسلنقى زيد'؟",
+        "difficulty_score": 600,
+        "explanation": "معناها إذا نام على قفاه [42].",
+        "choices": [
+            {"choice_text": "إذا سجد طويلاً", "is_correct": false},
+            {"choice_text": "إذا نام على قفاه", "is_correct": true},
+            {"choice_text": "إذا ركض سريعاً", "is_correct": false},
+            {"choice_text": "إذا جلس القرفصاء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "إلى ماذا تعود الضمائر في قول المصنف 'وثلاثة منها' عند الحديث عن المزيد؟",
+        "difficulty_score": 750,
+        "explanation": "تعود على الخمسة والثلاثين باباً الإجمالية [9].",
+        "choices": [
+            {"choice_text": "أبواب الثلاثي", "is_correct": false},
+            {"choice_text": "الخمسة والثلاثين باباً", "is_correct": true},
+            {"choice_text": "أبواب الملحقات", "is_correct": false},
+            {"choice_text": "أبواب المجرد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الباب الأول من أبواب الملحق بباب 'دحرج'؟",
+        "difficulty_score": 500,
+        "explanation": "الباب الأول هو فوعل وموزونه حوقل [19].",
+        "choices": [
+            {"choice_text": "فيعل", "is_correct": false},
+            {"choice_text": "فوعل", "is_correct": true},
+            {"choice_text": "فعول", "is_correct": false},
+            {"choice_text": "فعيل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الباب الأول من أبواب الملحق بباب 'تدحرج'؟",
+        "difficulty_score": 500,
+        "explanation": "الباب الأول هو تفعلل وموزونه تجلبب [32].",
+        "choices": [
+            {"choice_text": "تفوعل", "is_correct": false},
+            {"choice_text": "تفعلل", "is_correct": true},
+            {"choice_text": "تفيعل", "is_correct": false},
+            {"choice_text": "تفعول", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى الحرف الرابع في 'دحرج' عند وزنه؟",
+        "difficulty_score": 400,
+        "explanation": "يسمى لاماً ثانية (فعلل) [2].",
+        "choices": [
+            {"choice_text": "عيناً ثانية", "is_correct": false},
+            {"choice_text": "لاماً", "is_correct": true},
+            {"choice_text": "ألفاً", "is_correct": false},
+            {"choice_text": "فائاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'هيكل' يتبع أي وزن؟",
+        "difficulty_score": 550,
+        "explanation": "هيكل على وزن فيعل بزيادة الياء مثل بيطر [43].",
+        "choices": [
+            {"choice_text": "فوعل", "is_correct": false},
+            {"choice_text": "فيعل", "is_correct": true},
+            {"choice_text": "فعيل", "is_correct": false},
+            {"choice_text": "فعلى", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن 'يطمئن' الوارد في الأمثلة؟",
+        "difficulty_score": 500,
+        "explanation": "يطمئن هو مضارع اطمئن على وزن افعلل [44].",
+        "choices": [
+            {"choice_text": "يفعنلل", "is_correct": false},
+            {"choice_text": "يفعلل", "is_correct": true},
+            {"choice_text": "يتفعلل", "is_correct": false},
+            {"choice_text": "يفوعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأفعال يفيد 'المبالغة'؟",
+        "difficulty_score": 600,
+        "explanation": "اقشعر واطمئن واضمحل كلها أبواب تفيد المبالغة [17, 44].",
+        "choices": [
+            {"choice_text": "دحرج", "is_correct": false},
+            {"choice_text": "تدحرج", "is_correct": false},
+            {"choice_text": "اقشعر", "is_correct": true},
+            {"choice_text": "حوقل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الذي يميز 'الملحق' عن 'المزيد' في الرباعي؟",
+        "difficulty_score": 850,
+        "explanation": "الملحق يعامل معاملة الرباعي المجرد في المصدر والتصريف، أما المزيد فله أحكام خاصة [9, 31].",
+        "choices": [
+            {"choice_text": "لا فرق بينهما", "is_correct": false},
+            {"choice_text": "الملحق يأخذ حكم الملحق به في التصريف والمصدر", "is_correct": true},
+            {"choice_text": "المزيد دائماً أطول حروفاً", "is_correct": false},
+            {"choice_text": "الملحق دائماً يبدأ بزة وصل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ختم المصنف الدرس بذكر كم باباً إجمالياً؟",
+        "difficulty_score": 500,
+        "explanation": "ختم بذكر أن الأبواب خمسة وثلاثون باباً كاملة [42].",
+        "choices": [
+            {"choice_text": "30 باباً", "is_correct": false},
+            {"choice_text": "35 باباً", "is_correct": true},
+            {"choice_text": "40 باباً", "is_correct": false},
+            {"choice_text": "50 باباً", "is_correct": false}
+        ]
+    }
+]
+    }

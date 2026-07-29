@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 44,
+    "questions": [
+        {
+        "question_text": "ما هو التقسيم الأساسي للسيرة النبوية الذي ذكره المحاضر في البداية؟",
+        "difficulty_score": 100,
+        "explanation": "المحاضر أشار إلى أن السيرة تنقسم إلى قسمن أساسيين: مكية ومدنية [30].",
+        "choices": [
+            { "choice_text": "مكية ومدنية", "is_correct": true },
+            { "choice_text": "سرية وجهرية", "is_correct": false },
+            { "choice_text": "سلمية وحربية", "is_correct": false },
+            { "choice_text": "قبل الهجرة وبعد الفتح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدور الأساسي للصحابة في المرحلة المكية؟",
+        "difficulty_score": 200,
+        "explanation": "الدور الأساسي في مكة كان يتمحور حول الصبر، الثبات، والتمسك بالدين، وليس المواجهة العسكرية [8, 30].",
+        "choices": [
+            { "choice_text": "المقاومة المسلحة", "is_correct": false },
+            { "choice_text": "الصبر والثبات والتمسك بالدين", "is_correct": true },
+            { "choice_text": "بناء المؤسسات الإدارية", "is_correct": false },
+            { "choice_text": "مراسلة الملوك والقياصرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول من أسلم من الموالي؟",
+        "difficulty_score": 150,
+        "explanation": "المصدر يذكر بوضوح أن زيد بن حارثة هو أول من أسلم من الموالي [3, 31].",
+        "choices": [
+            { "choice_text": "بلال بن رباح", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "صهيب الرومي", "is_correct": false },
+            { "choice_text": "عمار بن ياسر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الغزوات التي خرج فيها النبي ﷺ بنفسه كما ورد في النص؟",
+        "difficulty_score": 250,
+        "explanation": "المحاضر ذكر أن النبي ﷺ خرج في تسع عشرة غزوة [4].",
+        "choices": [
+            { "choice_text": "13 غزوة", "is_correct": false },
+            { "choice_text": "19 غزوة", "is_correct": true },
+            { "choice_text": "27 غزوة", "is_correct": false },
+            { "choice_text": "50 غزوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان الهدف من الهجرة إلى الحبشة؟",
+        "difficulty_score": 300,
+        "explanation": "كان الهدف الأساسي هو الحفاظ على الدين والفرار به من الفتنة حين ضاقت بهم مكة [9].",
+        "choices": [
+            { "choice_text": "تأسيس جيش للعودة لمكة", "is_correct": false },
+            { "choice_text": "الحفاظ على الدين", "is_correct": true },
+            { "choice_text": "العمل بالتجارة", "is_correct": false },
+            { "choice_text": "التحالف مع النجاشي عسكرياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استشهد يوم أحد وعُرف بـ 'المجدّع في الله'؟",
+        "difficulty_score": 450,
+        "explanation": "هو عبد الله بن جحش، وقد تمنى أن يُقتل وتُجدع أذنه وأنفه في سبيل الله فاستجاب الله له [29, 32].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": true },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السمة البارزة في مدرسة النبي ﷺ التي ظهرت فور الانتقال للمدينة؟",
+        "difficulty_score": 400,
+        "explanation": "أول شيء ظهر هو سمة 'الجدية والعمل'، حيث بدأت السرايا تنطلق فوراً لنشر الدين والدفاع عنه [33].",
+        "choices": [
+            { "choice_text": "الرخاء المادي", "is_correct": false },
+            { "choice_text": "الجدية والعمل", "is_correct": true },
+            { "choice_text": "الانقطاع للعبادة فقط", "is_correct": false },
+            { "choice_text": "بناء القصور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أمره النبي ﷺ على أكثر السرايا؟",
+        "difficulty_score": 350,
+        "explanation": "زيد بن حارثة هو أكثر صحابي أمره النبي ﷺ على سرايا، حيث تولى قيادة حوالي سبع أو تسع سرايا [31, 34].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا بكى عبد الرحمن بن عوف عند تقديم الطعام له؟",
+        "difficulty_score": 550,
+        "explanation": "بكى لأنه تذكر أصحابه (مثل مصعب بن عمير) الذين ماتوا ولم ينالوا من ثمرة الدنيا شيئاً، وخشي أن تكون طيباته قد عُجلت له [28].",
+        "choices": [
+            { "choice_text": "لشدة جوعه", "is_correct": false },
+            { "choice_text": "لخشيته أن تُعجل له طيباته في الدنيا", "is_correct": true },
+            { "choice_text": "لأنه لم يجد ما يكفيه", "is_correct": false },
+            { "choice_text": "لفقدانه ماله في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تشخيص النبي ﷺ لسبب تداعي الأمم على المسلمين رغم كثرتهم؟",
+        "difficulty_score": 500,
+        "explanation": "شخّص النبي ﷺ ذلك بـ 'الوهن'، وهو حب الدنيا وكراهية الموت [6, 26].",
+        "choices": [
+            { "choice_text": "قلة العدد", "is_correct": false },
+            { "choice_text": "الوهن (حب الدنيا وكراهية الموت)", "is_correct": true },
+            { "choice_text": "نقص السلاح", "is_correct": false },
+            { "choice_text": "عدم وجود قادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي أُرسل ليعلم أهل المدينة ويهيئهم قبل الهجرة؟",
+        "difficulty_score": 200,
+        "explanation": "أرسل النبي ﷺ مصعب بن عمير لتعليم الناس وتهيئتهم في المدينة [5].",
+        "choices": [
+            { "choice_text": "معاذ بن جبل", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "أبو موسى الأشعري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى شبع الصحابة من التمر لأول مرة كما قالت عائشة رضي الله عنها؟",
+        "difficulty_score": 300,
+        "explanation": "قالت عائشة: 'لما فُتحت خيبر قلنا الآن نشبع من التمر'، وكان ذلك في العام السابع للهجرة [35, 36].",
+        "choices": [
+            { "choice_text": "بعد الهجرة مباشرة", "is_correct": false },
+            { "choice_text": "بعد فتح مكة", "is_correct": false },
+            { "choice_text": "لما فُتحت خيبر", "is_correct": true },
+            { "choice_text": "بعد معركة بدر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي دلالة قول النبي ﷺ لأسماء بنت عميس: 'لكم هجرتان'؟",
+        "difficulty_score": 400,
+        "explanation": "دلالته تكريم أهل السفينة الذين هاجروا للحبشة ثم للمدينة، مما رفع من شأنهم المعنوي [20, 23].",
+        "choices": [
+            { "choice_text": "أنهم سيعودون للحبشة مرة أخرى", "is_correct": false },
+            { "choice_text": "تفضيلهم بمزية الهجرتين (للحبشة وللمدينة)", "is_correct": true },
+            { "choice_text": "أن عليهم القتال في جبهتين", "is_correct": false },
+            { "choice_text": "أنهم سيحصلون على ضعف الغنيمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الداء الذي وصفه النبي ﷺ بأنه يجعل المسلمين كـ 'غثاء السيل'؟",
+        "difficulty_score": 450,
+        "explanation": "الداء هو 'الوهن'، الذي بسببه تُنزع المهابة من قلوب الأعداء ويصبح المسلمون بلا وزن [6].",
+        "choices": [
+            { "choice_text": "الفقر", "is_correct": false },
+            { "choice_text": "الوهن", "is_correct": true },
+            { "choice_text": "الجهل", "is_correct": false },
+            { "choice_text": "الاختلاف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استشهد في أجنادين سنة 13 هـ وكان من أوائل من أسلم؟",
+        "difficulty_score": 600,
+        "explanation": "هو خالد بن سعيد بن العاص، الذي كان رابع أو خامس من أسلم وهاجر للحبشة [28, 37].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "خالد بن سعيد بن العاص", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ أجاب المغيرة بن شعبة قائد الفرس حين سأله 'ما أنتم؟'؟",
+        "difficulty_score": 700,
+        "explanation": "أجابه بأنهم كانوا قوماً يعبدون الحجر والشجر، فأرسل الله إليهم نبياً أمرهم بعبادته وحده، وأخبرهم أن من مات دخل الجنة ومن عاش ملك رقاب الفرس [19].",
+        "choices": [
+            { "choice_text": "نحن تجار عرب نطلب المال", "is_correct": false },
+            { "choice_text": "نحن قوم بعثنا الله لنخرج العباد من عبادة العباد", "is_correct": false },
+            { "choice_text": "نحن رسل نبي يخبرنا أن من مات منا فإلى الجنة", "is_correct": true },
+            { "choice_text": "نحن جئنا لنعلمكم الحضارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'سرية الخبط' التي ذُكرت كمثال على معاناة الصحابة؟",
+        "difficulty_score": 650,
+        "explanation": "سميت بذلك لأن الصحابة اضطروا فيها لأكل ورق الشجر (الخبط) من شدة الجوع [38].",
+        "choices": [
+            { "choice_text": "سرية فُقد فيها الطريق", "is_correct": false },
+            { "choice_text": "سرية أكلوا فيها ورق الشجر", "is_correct": true },
+            { "choice_text": "سرية حدث فيها خطأ عسكري", "is_correct": false },
+            { "choice_text": "سرية كانت في وقت المطر الشديد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة استشهد في معركة مؤتة؟",
+        "difficulty_score": 300,
+        "explanation": "جعفر بن أبي طالب هو أحد القادة الذين استشهدوا في معركة مؤتة [15].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": true },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخطر الذي كان النبي ﷺ يخشاه على أصحابه أكثر من الشرك؟",
+        "difficulty_score": 500,
+        "explanation": "قال النبي ﷺ: 'ما أخاف عليكم أن تشركوا بعدي، ولكن أخاف أن تنافسوا فيها (الدنيا)' [11].",
+        "choices": [
+            { "choice_text": "العودة لعبادة الأصنام", "is_correct": false },
+            { "choice_text": "التنافس في الدنيا", "is_correct": true },
+            { "choice_text": "هجوم الروم المفاجئ", "is_correct": false },
+            { "choice_text": "ظهور الأنبياء الكذبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المادة الأساسية التي قامت عليها نتائج العهد المدني والفتوحات؟",
+        "difficulty_score": 800,
+        "explanation": "المصدر يؤكد أنها لم تكن صناعات أو منتجات حضارية، بل 'مادة عقدية إيمانية تزكوية' تغلغلت في النفوس [20, 21].",
+        "choices": [
+            { "choice_text": "القوة العسكرية المتفوقة", "is_correct": false },
+            { "choice_text": "المادة العقدية الإيمانية التزكوية", "is_correct": true },
+            { "choice_text": "التنظيم الإداري المحكم", "is_correct": false },
+            { "choice_text": "التحالفات القبلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان النبي ﷺ يضحك له عندما رأى حرص الصحابة على المال؟",
+        "difficulty_score": 400,
+        "explanation": "هو أبو عبيدة بن الجراح عندما أتى بمال البحرين ووافق ذلك صلاة الفجر فاجتمع الناس [10].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "أبو عبيدة بن الجراح", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي وظيفة المصلح في ضوء 'المدرسة النبوية' كما لخصها النص؟",
+        "difficulty_score": 850,
+        "explanation": "وظيفة المصلح هي بناء الإنسان المؤمن الجاد الذي يحمل مشروع الإسلام ويضحي من أجله، اقتداءً بالبناء النبوي [2, 22, 24].",
+        "choices": [
+            { "choice_text": "بناء المباني والطرقات فقط", "is_correct": false },
+            { "choice_text": "بناء النفوس التي تصنع الحضارة", "is_correct": true },
+            { "choice_text": "التركيز على الجوانب المادية فقط", "is_correct": false },
+            { "choice_text": "اعتزال الناس للعبادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي هاجر هو وزوجته للحبشة ومات هناك ولم يرَ شيئاً من الفتوحات؟",
+        "difficulty_score": 750,
+        "explanation": "المحاضر ذكر حاطب بن الحارث كمثال لمن هاجر ومات غريباً قبل أن يرى أي ثمرة دنيوية [29].",
+        "choices": [
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "حاطب بن الحارث", "is_correct": true },
+            { "choice_text": "عثمان بن مظعون", "is_correct": false },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ حال المسلمين عند تداعي الأمم عليهم؟",
+        "difficulty_score": 350,
+        "explanation": "وصفهم بأنهم 'غثاء كغثاء السيل' [6].",
+        "choices": [
+            { "choice_text": "كالبنيان المرصوص", "is_correct": false },
+            { "choice_text": "غثاء كغثاء السيل", "is_correct": true },
+            { "choice_text": "كالجسد الواحد", "is_correct": false },
+            { "choice_text": "كالأنعام بل هم أضل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرسالة التي كان الصحابة يحملونها متمثلة في كلام المغيرة بن شعبة؟",
+        "difficulty_score": 900,
+        "explanation": "الرسالة هي أن الآخرة هي المبتغى، وأن الموت في سبيل الرسالة نصر والموت في سبيل الدنيا خسران [19].",
+        "choices": [
+            { "choice_text": "رسالة عرقية للعرب", "is_correct": false },
+            { "choice_text": "رسالة دينية مفادها أن الجنة للمؤمنين", "is_correct": true },
+            { "choice_text": "رسالة سياسية لتقسيم الثروات", "is_correct": false },
+            { "choice_text": "رسالة ثقافية لنشر اللغة العربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي رُدّ عليه 'التبتل' من قبل النبي ﷺ؟",
+        "difficulty_score": 450,
+        "explanation": "هو عثمان بن مظعون، حيث أراد الانقطاع للعبادة وترك النساء فرفض النبي ﷺ ذلك [18].",
+        "choices": [
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "عثمان بن مظعون", "is_correct": true },
+            { "choice_text": "أبو ذر الغفاري", "is_correct": false },
+            { "choice_text": "سلمان الفارسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي نزلت في سرية عبد الله بن جحش؟",
+        "difficulty_score": 500,
+        "explanation": "نزلت فيه وفي أصحابه آية: {يسألونك عن الشهر الحرام قتال فيه قل قتال فيه كبير..} [31].",
+        "choices": [
+            { "choice_text": "{يا أيها الذين آمنوا كتب عليكم الصيام}", "is_correct": false },
+            { "choice_text": "{يسألونك عن الشهر الحرام قتال فيه}", "is_correct": true },
+            { "choice_text": "{إن تنصروا الله ينصركم}", "is_correct": false },
+            { "choice_text": "{يا أيها النبي جاهد الكفار والمنافقين}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الصحابة كان يضع كما 'تضع الشاة' من أكل ورق الشجر؟",
+        "difficulty_score": 600,
+        "explanation": "هو سعد بن أبي وقاص، ذكر ذلك ليبيّن شدة ما كانوا عليه من الجوع في بداية الإسلام [38].",
+        "choices": [
+            { "choice_text": "بلال بن رباح", "is_correct": false },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": true },
+            { "choice_text": "عمار بن ياسر", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي تغير في نفوس الصحابة فجعلهم يصنعون حضارة؟",
+        "difficulty_score": 850,
+        "explanation": "التغيير كان في النفوس التي صنعها النبي ﷺ، وليس في المباني أو الطرقات [22].",
+        "choices": [
+            { "choice_text": "تعلم فنون العمارة الرومانية", "is_correct": false },
+            { "choice_text": "النفوس التي صقلها الوحي والتربية النبوية", "is_correct": true },
+            { "choice_text": "اكتساب ثروات طائلة", "is_correct": false },
+            { "choice_text": "تغير المناخ في الجزيرة العربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان نصيب الفرد من التمر في إحدى السرايا التي ذكرها المصدر؟",
+        "difficulty_score": 550,
+        "explanation": "ذكر المصدر أن نصيب كل واحد كان تمرة واحدة في اليوم يمصّها [17].",
+        "choices": [
+            { "choice_text": "حفنة من تمر", "is_correct": false },
+            { "choice_text": "تمرة واحدة في اليوم", "is_correct": true },
+            { "choice_text": "صاع من تمر", "is_correct": false },
+            { "choice_text": "خمس تمرات في اليوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه الصحابة على زيد بن حارثة؟",
+        "difficulty_score": 250,
+        "explanation": "كان يُلقب بـ 'حِبّ رسول الله' [14, 15].",
+        "choices": [
+            { "choice_text": "أمين الأمة", "is_correct": false },
+            { "choice_text": "حِبّ رسول الله", "is_correct": true },
+            { "choice_text": "سيف الله المسلول", "is_correct": false },
+            { "choice_text": "فاروق الأمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حذر النبي ﷺ من 'التنافس والتحاسد والتدابر'؟",
+        "difficulty_score": 600,
+        "explanation": "لأن هذه الأمور هي التي تفتك بالأمة بعد الفتوحات والتمكين المادي [16, 17].",
+        "choices": [
+            { "choice_text": "لأنها تمنع زيادة الإنتاج", "is_correct": false },
+            { "choice_text": "لأنها تؤدي لضياع الدين والفرقة", "is_correct": true },
+            { "choice_text": "لأنها تعيق التجارة", "is_correct": false },
+            { "choice_text": "لأنها تسبب الفقر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أُصيب في أحد ثم أمره النبي ﷺ على سرية ومات من جرحه بعدها؟",
+        "difficulty_score": 700,
+        "explanation": "هو أبو سلمة بن عبد الأسد [5, 34].",
+        "choices": [
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false },
+            { "choice_text": "أبو سلمة بن عبد الأسد", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال خباب بن الأرت للنبي ﷺ في مكة؟",
+        "difficulty_score": 400,
+        "explanation": "جاء يشتكي شدة البلاء ويقول: 'ألا تدعو الله لنا؟ ألا تستنصر لنا؟' [27].",
+        "choices": [
+            { "choice_text": "متى نهاجر للمدينة؟", "is_correct": false },
+            { "choice_text": "ألا تدعو الله لنا؟ ألا تستنصر لنا؟", "is_correct": true },
+            { "choice_text": "لماذا لا نقاتل قريشاً؟", "is_correct": false },
+            { "choice_text": "هل نذهب للحبشة؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بأي شيء شبه النبي ﷺ كثرة المسلمين بلا أثر؟",
+        "difficulty_score": 300,
+        "explanation": "شبهها بـ 'غثاء السيل'، وهو الزبد الذي لا ينفع [6].",
+        "choices": [
+            { "choice_text": "كالرمال الكثيرة", "is_correct": false },
+            { "choice_text": "كغثاء السيل", "is_correct": true },
+            { "choice_text": "كأوراق الشجر المتساقطة", "is_correct": false },
+            { "choice_text": "كالسحاب بلا مطر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المهمة التي تولاها الصحابة في 'الولايات' بالمدنية؟",
+        "difficulty_score": 500,
+        "explanation": "تولوا مهام إرسال معلمين، ولاة على البلدان، وجمع الصدقات [7].",
+        "choices": [
+            { "choice_text": "التجارة الخارجية فقط", "is_correct": false },
+            { "choice_text": "تعليم الناس وجمع الصدقات والولاية", "is_correct": true },
+            { "choice_text": "بناء الأسوار حول مكة", "is_correct": false },
+            { "choice_text": "ترجمة الكتب اليونانية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أشار المحاضر إلى أن هناك 'مسافة هائلة' بين بناء النبي ﷺ وبناء المصلحين اليوم؟",
+        "difficulty_score": 800,
+        "explanation": "بسبب فقدان معالم الجدية والتضحية الحقيقية في البناء المعاصر مقارنة بالمدرسة النبوية [24].",
+        "choices": [
+            { "choice_text": "بسبب اختلاف الزمن فقط", "is_correct": false },
+            { "choice_text": "بسبب ضعف معالم الجدية والتضحية اليوم", "is_correct": true },
+            { "choice_text": "لأن النبي ﷺ كان يوحى إليه", "is_correct": false },
+            { "choice_text": "بسبب نقص الإمكانيات المادية اليوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المقصود بـ 'زهرة الدنيا' في أحاديث النبي ﷺ؟",
+        "difficulty_score": 450,
+        "explanation": "المقصود بها متاع الدنيا وزينتها التي تفتن الناس وتنسيهم رسالتهم [11].",
+        "choices": [
+            { "choice_text": "نوع من أنواع النباتات في الجنة", "is_correct": false },
+            { "choice_text": "متاع الدنيا وزينتها الفاتنة", "is_correct": true },
+            { "choice_text": "لقب لمدينة مكة", "is_correct": false },
+            { "choice_text": "لقب لابنة النبي ﷺ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي استخلفه النبي ﷺ لإمامة الناس في مرضه؟",
+        "difficulty_score": 200,
+        "explanation": "هو أبو بكر الصديق رضي الله عنه [39].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة التي انتهى إليها المجلس بخصوص نهضة الإسلام؟",
+        "difficulty_score": 900,
+        "explanation": "أن أساس أي نهضة هو بناء 'النفوس' التي صنعها النبي ﷺ، وهي القاعدة لأي حضارة تنتج [22].",
+        "choices": [
+            { "choice_text": "أنها تحتاج لمال كثير أولاً", "is_correct": false },
+            { "choice_text": "أن أساسها بناء النفوس الصادقة", "is_correct": true },
+            { "choice_text": "أنها مرتبطة بظهور التكنولوجيا", "is_correct": false },
+            { "choice_text": "أنها مستحيلة في الوقت الحالي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذكره المصدر كنموذج لمن هاجر إلى الحبشة ومات هناك دون أن يرى تمكين الإسلام؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر حاطب بن الحارث كمثال للصحابة الذين ضحوا وهاجروا وماتوا في الغربة قبل جني الثمار الدنيوية للفتح [1].",
+        "choices": [
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "حاطب بن الحارث", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي استخدمها النبي ﷺ لوصف حال المسلمين عندما تتداعى عليهم الأمم وهم كثر؟",
+        "difficulty_score": 300,
+        "explanation": "وصفهم النبي ﷺ بـ 'غثاء كغثاء السيل' للدلالة على الكثرة بلا وزن أو تأثير [2].",
+        "choices": [
+            { "choice_text": "كالبنيان المرصوص", "is_correct": false },
+            { "choice_text": "كقطع الليل المظلم", "is_correct": true },
+            { "choice_text": "غثاء كغثاء السيل", "is_correct": true },
+            { "choice_text": "خير أمة أخرجت للناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سنة استشهد الصحابي خالد بن سعيد بن العاص (أحد أوائل المسلمين)؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أنه استشهد في معركة أجنادين سنة ثلاث عشرة للهجرة [3].",
+        "choices": [
+            { "choice_text": "سنة 8 هـ", "is_correct": false },
+            { "choice_text": "سنة 11 هـ", "is_correct": false },
+            { "choice_text": "سنة 13 هـ", "is_correct": true },
+            { "choice_text": "سنة 15 هـ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الوهن' كما عرفه النبي ﷺ في حديث تداعي الأمم؟",
+        "difficulty_score": 400,
+        "explanation": "الوهن هو 'حب الدنيا وكراهية الموت' كما ورد في الحديث الذي استشهد به المحاضر [2].",
+        "choices": [
+            { "choice_text": "ضعف القوة البدنية", "is_correct": false },
+            { "choice_text": "قلة السلاح والعتاد", "is_correct": false },
+            { "choice_text": "حب الدنيا وكراهية الموت", "is_correct": true },
+            { "choice_text": "الخلافات السياسية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان النبي ﷺ إذا بعثه في جيش إلا أمّره عليهم؟",
+        "difficulty_score": 500,
+        "explanation": "قالت عائشة رضي الله عنها: 'ما بعث رسول الله ﷺ زيد بن حارثة في جيش قط إلا أمّره عليهم' [4].",
+        "choices": [
+            { "choice_text": "أسامة بن زيد", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان نصيب الصحابي الواحد من التمر في بعض السرايا من شدة الفقر؟",
+        "difficulty_score": 550,
+        "explanation": "ذكر المصدر أن نصيب الصحابي كان تمرة واحدة في اليوم يمصها ويشرب عليها الماء [5].",
+        "choices": [
+            { "choice_text": "صاع من التمر", "is_correct": false },
+            { "choice_text": "تمرة واحدة فقط", "is_correct": true },
+            { "choice_text": "حفنة تمر", "is_correct": false },
+            { "choice_text": "عشر تمرات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي دعا الله أن يُقتل وتُجدع أذنه وأنفه في سبيله؟",
+        "difficulty_score": 650,
+        "explanation": "هو عبد الله بن جحش، وقد استجاب الله دعاءه في معركة أحد [6].",
+        "choices": [
+            { "choice_text": "مصعب بن عمير", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ لأسماء بنت عميس وأهل السفينة عندما عادوا من الحبشة؟",
+        "difficulty_score": 400,
+        "explanation": "قال لهم: 'لكم هجرتان'، تطييباً لقلوبهم ورفعاً لمكانتهم [7].",
+        "choices": [
+            { "choice_text": "أنتم أفضل الصحابة", "is_correct": false },
+            { "choice_text": "لكم هجرتان", "is_correct": true },
+            { "choice_text": "لا فضل لكم على أهل المدينة", "is_correct": false },
+            { "choice_text": "اذهبوا إلى خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المحاضر 'النتائج الحضارية' التي تحققت في العهد المدني؟",
+        "difficulty_score": 850,
+        "explanation": "وصفها بأنها 'آثار وانعكاسات' لمادة عقدية إيمانية تغلغلت في النفوس أولاً [8].",
+        "choices": [
+            { "choice_text": "أنها الهدف الأساسي للرسالة", "is_correct": false },
+            { "choice_text": "أنها آثار وانعكاسات للبناء الإيماني", "is_correct": true },
+            { "choice_text": "أنها نتاج صدفة تاريخية", "is_correct": false },
+            { "choice_text": "أنها بدأت بالبنيان قبل الإنسان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول قائد عُقدت له سرية في الإسلام؟",
+        "difficulty_score": 350,
+        "explanation": "أول سرية عُقدت في الإسلام كانت لعبيدة بن الحارث بن المطلب [9].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "عبيدة بن الحارث", "is_correct": true },
+            { "choice_text": "زيد بن حارثة", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان موقف النبي ﷺ من عثمان بن مظعون عندما أراد 'التبتل'؟",
+        "difficulty_score": 500,
+        "explanation": "رد النبي ﷺ عليه التبتل، ولو أذن له لاختصوا، تأكيداً على التوازن بين الدين والدنيا [10].",
+        "choices": [
+            { "choice_text": "شجعه على ذلك", "is_correct": false },
+            { "choice_text": "ردّ عليه التبتل", "is_correct": true },
+            { "choice_text": "أمره بالهجرة ثانية", "is_correct": false },
+            { "choice_text": "سكت عنه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم بلغ عدد الغزوات التي قادها النبي ﷺ بنفسه؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن النبي ﷺ خرج في 19 غزوة [11].",
+        "choices": [
+            { "choice_text": "13 غزوة", "is_correct": false },
+            { "choice_text": "19 غزوة", "is_correct": true },
+            { "choice_text": "27 غزوة", "is_correct": false },
+            { "choice_text": "9 غزوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الحقيقي الذي جعل المسلمين الأوائل يفتحون فارس والروم رغم قلة إمكانياتهم؟",
+        "difficulty_score": 900,
+        "explanation": "السبب هو النفوس التي صاغها النبي ﷺ بمادة عقدية وتزكوية صلبة لا تهاب الموت [12].",
+        "choices": [
+            { "choice_text": "التفوق في صناعة السفن", "is_correct": false },
+            { "choice_text": "النفوس المصاغة بالوحي والتربية", "is_correct": true },
+            { "choice_text": "ضعف جيوش الأعداء فجأة", "is_correct": false },
+            { "choice_text": "استخدام سلاح سري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يُلقب بـ 'المجدّع في الله'؟",
+        "difficulty_score": 700,
+        "explanation": "هو عبد الله بن جحش رضي الله عنه [1].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": true },
+            { "choice_text": "أبو عبيدة بن الجراح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل عبد الرحمن بن عوف عندما قُدم له الطعام وتذكر مصعب بن عمير؟",
+        "difficulty_score": 600,
+        "explanation": "بكى وترك الطعام خشية أن تكون طيباته قد عُجلت له في الحياة الدنيا [13].",
+        "choices": [
+            { "choice_text": "أكل وحمد الله", "is_correct": false },
+            { "choice_text": "بكى وترك الطعام", "is_correct": true },
+            { "choice_text": "وزعه على الفقراء", "is_correct": false },
+            { "choice_text": "دعا لمصعب بطول العمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التحذير الذي وجهه النبي ﷺ للصحابة بخصوص فتح فارس والروم؟",
+        "difficulty_score": 750,
+        "explanation": "حذرهم من التنافس ثم التحاسد ثم التدابر نتيجة الانشغال بالدنيا [14].",
+        "choices": [
+            { "choice_text": "حذرهم من الهزيمة العسكرية", "is_correct": false },
+            { "choice_text": "حذرهم من التنافس والتحاسد", "is_correct": true },
+            { "choice_text": "حذرهم من البرد الشديد هناك", "is_correct": false },
+            { "choice_text": "حذرهم من تعلم لغاتهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أرسله النبي ﷺ والياً على صنعاء في اليمن؟",
+        "difficulty_score": 650,
+        "explanation": "هو خالد بن سعيد بن العاص رضي الله عنه [3].",
+        "choices": [
+            { "choice_text": "معاذ بن جبل", "is_correct": false },
+            { "choice_text": "أبو موسى الأشعري", "is_correct": false },
+            { "choice_text": "خالد بن سعيد بن العاص", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما السمة التي وصف بها المحاضر مدرسة النبي ﷺ عند انتقالها للمدينة؟",
+        "difficulty_score": 450,
+        "explanation": "وصفها بـ 'سمة الجدية والعمل' حيث بدأت السرايا تنطلق فوراً [15].",
+        "choices": [
+            { "choice_text": "الرخاء والراحة", "is_correct": false },
+            { "choice_text": "الجدية والعمل", "is_correct": true },
+            { "choice_text": "الانتظار والترقب", "is_correct": false },
+            { "choice_text": "البحث عن التحالفات فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'سرية نخلة' وبماذا اشتهرت؟",
+        "difficulty_score": 550,
+        "explanation": "هي سرية عبد الله بن جحش التي حدث فيها قتل في الشهر الحرام ونزل فيها قرآن [4].",
+        "choices": [
+            { "choice_text": "أول نصر عسكري كبير", "is_correct": false },
+            { "choice_text": "سرية نزل فيها قوله تعالى {يسألونك عن الشهر الحرام}", "is_correct": true },
+            { "choice_text": "سرية فُقد فيها القائد", "is_correct": false },
+            { "choice_text": "سرية كانت في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال عمر بن الخطاب لأسماء بنت عميس مما أثار غضبها (على سبيل المداعبة)؟",
+        "difficulty_score": 600,
+        "explanation": "قال لها: 'سبقناكم بالهجرة'، يقصد هجرة المدينة [16].",
+        "choices": [
+            { "choice_text": "أنتم لستم من الصحابة", "is_correct": false },
+            { "choice_text": "سبقناكم بالهجرة", "is_correct": true },
+            { "choice_text": "لماذا بقيتم في الحبشة؟", "is_correct": false },
+            { "choice_text": "النساء لا يهاجرن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبه النبي ﷺ الدنيا عندما حذر من فتنتها؟",
+        "difficulty_score": 350,
+        "explanation": "شبهها بـ 'الزهرة' (زهرة الدنيا) لجمالها وسرعة زوالها [17].",
+        "choices": [
+            { "choice_text": "بالجبل العظيم", "is_correct": false },
+            { "choice_text": "بزهرة الدنيا", "is_correct": true },
+            { "choice_text": "بالبحر العميق", "is_correct": false },
+            { "choice_text": "بالسجن للمؤمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استشهد في معركة مؤتة وكان من أحب الناس للنبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "هو جعفر بن أبي طالب رضي الله عنه [18].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي كان يفعله الصحابة بورق الشجر في 'سرية الخبط'؟",
+        "difficulty_score": 400,
+        "explanation": "كانوا يخبطونه (يضربونه) ليتساقط ثم يأكلونه من شدة الجوع [19].",
+        "choices": [
+            { "choice_text": "يصنعون منه خياماً", "is_correct": false },
+            { "choice_text": "يأكلونه من الجوع", "is_correct": true },
+            { "choice_text": "يصنعون منه دواءً", "is_correct": false },
+            { "choice_text": "يحرقونه للتدفئة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الواجب الأول للمصلحين اليوم وفق رؤية المحاضر؟",
+        "difficulty_score": 800,
+        "explanation": "العودة للمدرسة النبوية وبناء النفوس على الجدية والتضحية والصدق [20].",
+        "choices": [
+            { "choice_text": "جمع التبرعات المالية", "is_correct": false },
+            { "choice_text": "بناء النفوس الصادقة الجادة", "is_correct": true },
+            { "choice_text": "تأليف الكتب التاريخية", "is_correct": false },
+            { "choice_text": "الاعتزال عن المجتمع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تشخيص 'الداء' الذي يمنع الأمة من النهوض حالياً؟",
+        "difficulty_score": 500,
+        "explanation": "هو داء 'الوهن' (حب الدنيا وكراهية الموت) [2].",
+        "choices": [
+            { "choice_text": "الفقر المادي", "is_correct": false },
+            { "choice_text": "الوهن", "is_correct": true },
+            { "choice_text": "نقص التكنولوجيا", "is_correct": false },
+            { "choice_text": "كثرة الأعداء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أرسله النبي ﷺ لليمن مع معاذ بن جبل؟",
+        "difficulty_score": 450,
+        "explanation": "أرسل النبي ﷺ معاذ بن جبل وأبا موسى الأشعري [21].",
+        "choices": [
+            { "choice_text": "أبو عبيدة بن الجراح", "is_correct": false },
+            { "choice_text": "أبو موسى الأشعري", "is_correct": true },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان هدف هجرة الصحابة للحبشة حسب المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "الهدف كان الحفاظ على الدين والفرار به من الفتن [22].",
+        "choices": [
+            { "choice_text": "البحث عن عمل", "is_correct": false },
+            { "choice_text": "الحفاظ على الدين", "is_correct": true },
+            { "choice_text": "طلب العلم", "is_correct": false },
+            { "choice_text": "التجسس على الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي وصف نفسه بأنه كان 'يضع كما تضع الشاة' من أكل ورق الشجر؟",
+        "difficulty_score": 700,
+        "explanation": "هو سعد بن أبي وقاص رضي الله عنه [19].",
+        "choices": [
+            { "choice_text": "بلال بن رباح", "is_correct": false },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": true },
+            { "choice_text": "عمار بن ياسر", "is_correct": false },
+            { "choice_text": "صهيب الرومي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي دلالة ضحك النبي ﷺ عند مجيء مال البحرين؟",
+        "difficulty_score": 600,
+        "explanation": "دلالة على علمه بأن الفقر ليس هو الخطر الحقيقي، بل الغنى الذي يؤدي للتنافس [23].",
+        "choices": [
+            { "choice_text": "فرحه بالثراء", "is_correct": false },
+            { "choice_text": "علمه بيقين مجيء الدنيا وخوفه من فتنتها", "is_correct": true },
+            { "choice_text": "سخريته من قلة المال", "is_correct": false },
+            { "choice_text": "رغبته في توزيع المال سريعاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القاعدة التي انطلق منها الصحابة لفتح أسوار الصين؟",
+        "difficulty_score": 900,
+        "explanation": "هي مادة عقدية إيمانية تزكوية صلبة، وليست منتجات حضارية مادية [8].",
+        "choices": [
+            { "choice_text": "القوة المادية البحتة", "is_correct": false },
+            { "choice_text": "المادة العقدية الإيمانية", "is_correct": true },
+            { "choice_text": "العدد الهائل للمقاتلين", "is_correct": false },
+            { "choice_text": "استخدام الحيلة والمكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يستخلفه النبي ﷺ كثيراً على المدينة؟",
+        "difficulty_score": 350,
+        "explanation": "هو الصحابي عبد الله بن أم مكتوم [24].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عبد الله بن أم مكتوم", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'غثاء السيل' في سياق الحديث النبوي؟",
+        "difficulty_score": 400,
+        "explanation": "الشيء الذي يطفو فوق السيل بلا قيمة ولا نفع، إشارة لضعف المسلمين رغم كثرتهم [2].",
+        "choices": [
+            { "choice_text": "القوة العظيمة", "is_correct": false },
+            { "choice_text": "الكثرة التي لا قيمة لها", "is_correct": true },
+            { "choice_text": "السرعة في الفتح", "is_correct": false },
+            { "choice_text": "شدة البأس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة استشهد في معركة أحد؟",
+        "difficulty_score": 250,
+        "explanation": "عبد الله بن جحش ومصعب بن عمير وحمزة استشهدوا في أحد [6].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": true },
+            { "choice_text": "خالد بن سعيد", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد الذي كان يقدمه النبي ﷺ لمن يريد صوم الدهر كله؟",
+        "difficulty_score": 500,
+        "explanation": "كان يقول: 'أما والله إني لأخشاكم لله وأتقاكم له، لكني أصوم وأفطر...' [25].",
+        "choices": [
+            { "choice_text": "أنت مؤمن قوي", "is_correct": false },
+            { "choice_text": "من رغب عن سنتي فليس مني", "is_correct": true },
+            { "choice_text": "صوم الدهر أفضل العبادات", "is_correct": false },
+            { "choice_text": "لا تخبر أحداً بصومك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أرسله النبي ﷺ ليعلم الناس في مكة قبل الهجرة؟ (سؤال دقيق)",
+        "difficulty_score": 750,
+        "explanation": "المحاضر ذكر أن مصعب بن عمير وابن أم مكتوم أرسلا للمدينة لتعليم الناس [24].",
+        "choices": [
+            { "choice_text": "مصعب بن عمير", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "خالد بن سعيد", "is_correct": false },
+            { "choice_text": "عمار بن ياسر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان العرب يطوفون قبل الإسلام عند الكعبة؟",
+        "difficulty_score": 200,
+        "explanation": "كانوا يطوفون بـ 360 صنماً ويعبدون الحجر والشجر [12].",
+        "choices": [
+            { "choice_text": "بالأصنام (مثل هبل وعزى)", "is_correct": true },
+            { "choice_text": "بالكتب القديمة", "is_correct": false },
+            { "choice_text": "بالذهب والفضة", "is_correct": false },
+            { "choice_text": "بمبانٍ شاهقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة التربوية التي قدمها المجلس السادس للمصلحين؟",
+        "difficulty_score": 850,
+        "explanation": "أن النهضة تبدأ بصناعة النفوس أولاً، وهي حجر الزاوية لكل بناء مادي لاحق [12].",
+        "choices": [
+            { "choice_text": "التركيز على القضايا السياسية أولاً", "is_correct": false },
+            { "choice_text": "بناء النفوس هو أساس أي نهضة", "is_correct": true },
+            { "choice_text": "الاستفادة من تجارب الروم المادية", "is_correct": false },
+            { "choice_text": "ترك السيرة والاهتمام بالفقه فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه المحاضر على البناء الذي بني به الصحابة؟",
+        "difficulty_score": 400,
+        "explanation": "سماه 'المدرسة النبوية' [20].",
+        "choices": [
+            { "choice_text": "المدرسة الحديثة", "is_correct": false },
+            { "choice_text": "المدرسة النبوية", "is_correct": true },
+            { "choice_text": "المدرسة الفلسفية", "is_correct": false },
+            { "choice_text": "المدرسة المكية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذُكر أنه انتقض جرحه بعد إحدى السرايا ومات؟",
+        "difficulty_score": 650,
+        "explanation": "هو أبو سلمة بن عبد الأسد رضي الله عنه [24].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "أبو سلمة بن عبد الأسد", "is_correct": true },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة النهائية لرسالة المصلح وفق المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "أن يكون الإسلام هو المشروع الحقيقي الذي يعيش لأجله الإنسان بجدية وصدق [26].",
+        "choices": [
+            { "choice_text": "تحقيق الثراء الشخصي", "is_correct": false },
+            { "choice_text": "أن يكون الإسلام هو المشروع الحقيقي للحياة", "is_correct": true },
+            { "choice_text": "الحصول على منصب سياسي", "is_correct": false },
+            { "choice_text": "الوصول لباريس فقط", "is_correct": false }
+        ]
+    }
+]
+    }

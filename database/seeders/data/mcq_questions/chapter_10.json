@@ -1,0 +1,907 @@
+{
+    "chapter_id": 10,
+    "questions": [
+  {
+    "question_text": "ما المقصود بالتمذهب في سياق الاتفاق والاختلاف بين العلماء كما ورد في النص؟",
+    "difficulty_score": 100,
+    "explanation": "يُعرف التمذهب في النص بأنه لزوم مذهب معين من المذاهب الأربعة، بحيث يأخذ الفقيه أو المتمسك به برخصه وعزائمه دون الانتقال إلى غيره.",
+    "choices": [
+      {"choice_text": "لزوم مذهب معين برخصه وعزائمه وعدم الانتقال عنه", "is_correct": true},
+      {"choice_text": "التنقل بين المذاهب الأربعة طلباً للأيسر مطلقاً", "is_correct": false},
+      {"choice_text": "دراسة المذاهب الفقهية للمقارنة التاريخية فقط", "is_correct": false},
+      {"choice_text": "الالتزام بالمذهب في العبادات والاجتهاد في المعاملات", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو القول الذي يمثل اتجاه 'أكثر العلماء' في حكم التمذهب بمذهب معين؟",
+    "difficulty_score": 200,
+    "explanation": "بين النص أن الاتجاه السائد لدى أكثرية أهل العلم هو أن التمذهب جائز، وليس بواجب شرعي يأثم تاركه، ولا محرماً يُذم فاعله.",
+    "choices": [
+      {"choice_text": "التمذهب واجب عيني لا يصح التقليد بدونه", "is_correct": false},
+      {"choice_text": "التمذهب محرم لأنه يغلق باب الاجتهاد", "is_correct": false},
+      {"choice_text": "التمذهب جائز وليس بواجب ولا محرم", "is_correct": true},
+      {"choice_text": "التمذهب مستحب لغير العرب ومحرم على العرب", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "استشهد النص بعبارة للقاضي عياض للتدليل على إجماع المسلمين، فما مضمونها؟",
+    "difficulty_score": 300,
+    "explanation": "نقل القاضي عياض وقوع إجماع المسلمين على اتباع الأئمة الأربعة ودرس مذاهبهم، مما يعزز شرعية التمذهب.",
+    "choices": [
+      {"choice_text": "وقع إجماع المسلمين على اتباعهم ودرس مذاهبهم", "is_correct": true},
+      {"choice_text": "وقع إجماع المسلمين على وجوب الاجتهاد المطلق", "is_correct": false},
+      {"choice_text": "اتفق المسلمون على ترك التقليد في عصر التدوين", "is_correct": false},
+      {"choice_text": "أجمع العلماء على أن المذاهب وسيلة لا غاية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "وصف الوزير ابن هبيرة الحنبلي المذاهب الأربعة بصفة مجمع عليها، ما هي؟",
+    "difficulty_score": 300,
+    "explanation": "ذكر ابن هبيرة أن الأمة اجتمعت على أن كلاً من المذاهب الأربعة يجوز العمل به شرعاً.",
+    "choices": [
+      {"choice_text": "أنها مذاهب نسخت ما قبلها من أقوال الصحابة", "is_correct": false},
+      {"choice_text": "أنها اجتمعت الأمة على أن كلاً منها يجوز العمل به", "is_correct": true},
+      {"choice_text": "أنها مذاهب يجب توحيدها في قانون واحد", "is_correct": false},
+      {"choice_text": "أنها اجتهادات لا تصلح لغير عصورها", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الشرط الجوهري الذي ذكره النص لجواز التمذهب بمذهب معين؟",
+    "difficulty_score": 400,
+    "explanation": "اشترط النص لجواز التمذهب ألا يقع المتمذهب في التعصب للمذهب، وهو محل اتفاق بين العلماء.",
+    "choices": [
+      {"choice_text": "ألا يكون في ذلك تعصب للمذهب", "is_correct": true},
+      {"choice_text": "أن يحفظ المتمذهب متن المذهب كاملاً بسنده", "is_correct": false},
+      {"choice_text": "أن يكون المتمذهب عالماً بلسان العرب ونحوهم", "is_correct": false},
+      {"choice_text": "أن يلتزم بالمذهب في القضاء دون الفتوى", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي أفرد باباً بعنوان 'إبطال التقليد' وشدد في منع التمذهب؟",
+    "difficulty_score": 300,
+    "explanation": "الإمام ابن حزم الأندلسي في كتابه 'الإحكام في أصول الأحكام' اتخذ موقفاً متشدداً من التقليد والتمذهب.",
+    "choices": [
+      {"choice_text": "الإمام الشافعي", "is_correct": false},
+      {"choice_text": "ابن حزم الأندلسي", "is_correct": true},
+      {"choice_text": "ابن عبد البر", "is_correct": false},
+      {"choice_text": "الإمام أحمد بن حنبل", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "في قول ابن حزم: 'أنه قد خالف إجماع الأمة'، من هو الشخص المقصود بهذا الحكم؟",
+    "difficulty_score": 500,
+    "explanation": "حكى ابن حزم مخالفة الإجماع في حق من أخذ بجميع قول إمام معين وهو (ممن يتمكن من النظر)، أي من ملك أهلية الاجتهاد.",
+    "choices": [
+      {"choice_text": "العامي الذي لا يعرف لغة العرب", "is_correct": false},
+      {"choice_text": "من يتمكن من النظر (أهل الاجتهاد)", "is_correct": true},
+      {"choice_text": "طالب العلم المبتدي في دراسة المتون", "is_correct": false},
+      {"choice_text": "الفقيه المقلد في مذهب إمامه", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "استدل النص على ضرورة التقليد لبعض الفئات بمثال واقعي، فما هو؟",
+    "difficulty_score": 400,
+    "explanation": "ضرب النص مثالاً بالمسلمين الجدد من غير العرب الذين لا يتقنون اللغة العربية، حيث يستحيل عليهم الاستقلال بالنظر والاستنباط.",
+    "choices": [
+      {"choice_text": "المسلمون الجدد من غير العرب الذين لا يعرفون اللغة", "is_correct": true},
+      {"choice_text": "طلاب العلم الذين حفظوا القرآن ولم يحفظوا السنة", "is_correct": false},
+      {"choice_text": "القضاة في العصور المتأخرة بسبب كثرة القضايا", "is_correct": false},
+      {"choice_text": "أهل المدينة في عصر الإمام مالك", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي المراتب الثلاث لنقل الإجماع على جواز التمذهب والتمسك بالمذاهب الأربعة؟",
+    "difficulty_score": 400,
+    "explanation": "العلماء الثلاثة الذين نقلوا الإجماع في النص هم: القاضي عياض، ابن هبيرة الوزير، وابن فرحون.",
+    "choices": [
+      {"choice_text": "ابن المنذر، ابن حزم، ابن تيمية", "is_correct": false},
+      {"choice_text": "القاضي عياض، ابن هبيرة، ابن فرحون", "is_correct": true},
+      {"choice_text": "النووي، الرافعي، ابن حجر", "is_correct": false},
+      {"choice_text": "الكاساني، الحطاب، البهوتي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا اعتبر النص أن التمذهب ضرورة لاستقامة التعبد؟",
+    "difficulty_score": 400,
+    "explanation": "أشار النص إلى أن التقليد هو المرتبة التي لا يستقيم للناس التعبد إلا بها، لعدم قدرة الجميع على رتبة الاجتهاد.",
+    "choices": [
+      {"choice_text": "لأنه يوحد الأمة تحت حاكم واحد", "is_correct": false},
+      {"choice_text": "لأن التعبد لا يستقيم للناس إلا بالتقليد لغير المجتهد", "is_correct": true},
+      {"choice_text": "لأن النصوص الشرعية انقطعت بوفاة الصحابة", "is_correct": false},
+      {"choice_text": "لأن المذاهب معصومة من الخطأ بخلاف الأفراد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما الموقف الذي عده ابن حزم 'مُسلَّماً' فيه ولا يجوز فيه التقليد؟",
+    "difficulty_score": 500,
+    "explanation": "أقر النص بأن من بلغ رتبة الاجتهاد (التمكن من النظر) لا يجوز له التقليد فضلاً عن لزوم مذهب بعينه.",
+    "choices": [
+      {"choice_text": "من بلغ رتبة الاجتهاد", "is_correct": true},
+      {"choice_text": "من حفظ الموطأ للإمام مالك", "is_correct": false},
+      {"choice_text": "من تخصص في علم الحديث دون الفقه", "is_correct": false},
+      {"choice_text": "من كان يعمل في سلك القضاء الشرعي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كيف فسر النص العلاقة بين المذهب والنص عند وجود مصادمة ظاهرة؟",
+    "difficulty_score": 600,
+    "explanation": "يرى النص أن 'المصادمة' غالباً ما تكون وهماً؛ فقد يكون النص ضعيفاً عند أصحاب المذهب، أو لا يلزمهم تصحيح غيرهم له.",
+    "choices": [
+      {"choice_text": "أن المذهب يقدم القياس دائماً على النص الصحيح", "is_correct": false},
+      {"choice_text": "أن النص المظنون مصادماً قد يكون ضعيفاً عند أهل المذهب", "is_correct": true},
+      {"choice_text": "أن المذاهب نسخت النصوص التي تعارض أصولها", "is_correct": false},
+      {"choice_text": "أن الفقهاء يتعمدون مخالفة النص تمسكاً برأي الإمام", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو التعريف الفقهي الذي ذكره ابن فرحون لموقف العلماء من المذاهب؟",
+    "difficulty_score": 400,
+    "explanation": "ذكر ابن فرحون اتفاق العلماء على اتباع المذاهب، والاقتداء بها، ودرس كتبها، والتفقه على مآخذها.",
+    "choices": [
+      {"choice_text": "وجوب ترك المذاهب عند ظهور الحديث الصحيح", "is_correct": false},
+      {"choice_text": "اتفاق العلماء على اتباعها ودرس كتبها والتفقه على مآخذها", "is_correct": true},
+      {"choice_text": "جواز التقليد في العصور الأولى ومنعه في المتأخرة", "is_correct": false},
+      {"choice_text": "تحريم التفقه على غير مآخذ الصحابة والتابعين", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا وصف النص الاتجاه الذي يمنع التمذهب (الاتجاه الثالث)؟",
+    "difficulty_score": 300,
+    "explanation": "الاتجاه الثالث هو منع لزوم مذهب بعينه، مع إجازة التقليد لغير المؤهل ولكن دون ملازمة مذهب واحد.",
+    "choices": [
+      {"choice_text": "منع ملازمة مذهب بعينه مع إجازة التقليد لغير المؤهل", "is_correct": true},
+      {"choice_text": "إيجاب الاجتهاد على كل مسلم مهما كانت مرتبته", "is_correct": false},
+      {"choice_text": "تحريم التقليد والاجتهاد معاً والرجوع للظاهر", "is_correct": false},
+      {"choice_text": "وجوب اتباع مذهب أهل المدينة حصراً", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي المراتب التي أشار إليها النص عند الحديث عن التقليد والاجتهاد؟",
+    "difficulty_score": 300,
+    "explanation": "أكد النص أن كلاً من التقليد والاجتهاد ليس مرتبة واحدة، بل يتنوعان إلى درجات ومراتب.",
+    "choices": [
+      {"choice_text": "مراتب متساوية في الحكم والأثر", "is_correct": false},
+      {"choice_text": "مرتبة واحدة لكل منهما لا تتجزأ", "is_correct": false},
+      {"choice_text": "التقليد مراتب والاجتهاد أيضاً مراتب", "is_correct": true},
+      {"choice_text": "الاجتهاد مرتبة واحدة والتقليد متعدد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي المراحل الأربع التي مر بها الفقه الإسلامي وفقاً لتقسيم النص؟",
+    "difficulty_score": 200,
+    "explanation": "قسم النص تاريخ الفقه إلى: زمن التشريع، ما قبل المذاهب، مرحلة المذاهب، والعصر الحاضر.",
+    "choices": [
+      {"choice_text": "عصر النبوة، عصر الخلفاء، عصر التدوين، عصر التقليد", "is_correct": false},
+      {"choice_text": "زمن التشريع، ما قبل المذاهب، مرحلة المذاهب، العصر الحاضر", "is_correct": true},
+      {"choice_text": "عصر النص، عصر الرأي، عصر التقليد، عصر التجديد", "is_correct": false},
+      {"choice_text": "زمن الوحي، زمن الصحابة، زمن التابعين، زمن الأئمة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "متى انتهت 'مرحلة التشريع' بدقة متناهية كما نص المؤلف؟",
+    "difficulty_score": 200,
+    "explanation": "صرح النص بأن مرحلة التشريع انتهت في اللحظة التي توفي فيها رسول الله صلى الله عليه وسلم.",
+    "choices": [
+      {"choice_text": "بوفاة آخر الصحابة رضوان الله عليهم", "is_correct": false},
+      {"choice_text": "بوفاة النبي صلى الله عليه وسلم", "is_correct": true},
+      {"choice_text": "بفتح مكة واكتمال الدين", "is_correct": false},
+      {"choice_text": "بنزول قوله تعالى: (اليوم أكملت لكم دينكم)", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو التاريخ التقريبي الذي وضعه النص لبداية 'العصر الحاضر'؟",
+    "difficulty_score": 300,
+    "explanation": "قرب النص بداية العصر الحاضر لتبدأ تقريباً من عام 1300 للهجرة.",
+    "choices": [
+      {"choice_text": "1000 هـ", "is_correct": false},
+      {"choice_text": "1200 هـ", "is_correct": false},
+      {"choice_text": "1300 هـ", "is_correct": true},
+      {"choice_text": "1400 هـ", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا يصعب تحديد تاريخ دقيق لبداية العصر الحاضر مقارنة بمرحلة التشريع؟",
+    "difficulty_score": 400,
+    "explanation": "لأن بدايات العصور الفقهية توضع كتواريخ تقريبية، بينما مرحلة التشريع مرتبطة بحدث محدد وهو الوفاة النبوية.",
+    "choices": [
+      {"choice_text": "بسبب ضياع الوثائق التاريخية في تلك الفترة", "is_correct": false},
+      {"choice_text": "لأن تاريخ الوفاة محدد بينما تحول العصور تدريجي وتقريبي", "is_correct": true},
+      {"choice_text": "بسبب اختلاف العلماء في تقويم الهجرة", "is_correct": false},
+      {"choice_text": "لأن العصر الحاضر بدأ في دول مختلفة في أوقات متباينة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي الميزة التي اختصت بها مرحلة 'ما قبل المذاهب' عن غيرها؟",
+    "difficulty_score": 300,
+    "explanation": "هي المرحلة الثانية التي تلت زمن التشريع وقبل استقرار المذاهب الفقهية الأربعة المتبوعة.",
+    "choices": [
+      {"choice_text": "أنها مرحلة تدوين الصحاح الستة", "is_correct": false},
+      {"choice_text": "أنها المرحلة التي تلت التشريع وقبل ظهور المذاهب المستقرة", "is_correct": true},
+      {"choice_text": "أنها شهدت إغلاق باب الاجتهاد بالكلية", "is_correct": false},
+      {"choice_text": "أنها بدأت بظهور مذهب الإمام أبي حنيفة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ربط النص بين بداية العصر الحاضر وبين ظاهرة سياسية في العالم الإسلامي، ما هي؟",
+    "difficulty_score": 400,
+    "explanation": "أشار النص إلى أن بدايات العصر الحاضر تزامنت مع بدايات الاستعمار في العالم الإسلامي.",
+    "choices": [
+      {"choice_text": "سقوط الدولة العباسية", "is_correct": false},
+      {"choice_text": "بدايات الاستعمار في العالم الإسلامي", "is_correct": true},
+      {"choice_text": "ظهور الثورة العربية الكبرى", "is_correct": false},
+      {"choice_text": "نشأة الأمم المتحدة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا وصف النص الفترة الممتدة لعدة قرون قبل عام 1300 هـ في نظر 'البعض'؟",
+    "difficulty_score": 300,
+    "explanation": "ذكر النص أن بعضهم يطلق على القرون الطويلة السابقة لعصرنا اسم 'عصر الجمود والتقليد'.",
+    "choices": [
+      {"choice_text": "عصر النهضة العلمية الأولى", "is_correct": false},
+      {"choice_text": "عصر الجمود والتقليد", "is_correct": true},
+      {"choice_text": "عصر الاجتهاد المطلق", "is_correct": false},
+      {"choice_text": "عصر التأسيس المذهبي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كيف رد النص على دعوى 'الجمود الفقهي' في القرون السابقة؟",
+    "difficulty_score": 500,
+    "explanation": "رد النص بأن التراث كان مكتملًا ويخدم احتياجات الناس، والنوازل كانت قليلة فخدمها الفقهاء في حينها.",
+    "choices": [
+      {"choice_text": "بأن الجمود كان متعمداً لحفظ الدين من التحريف", "is_correct": false},
+      {"choice_text": "بأن التراث كان ملبياً للاحتياجات والنوازل خُدمت في وقتها", "is_correct": true},
+      {"choice_text": "بأن الاجتهاد لم يتوقف يوماً واحداً في أي مذهب", "is_correct": false},
+      {"choice_text": "بأن الجمود وصف مدح وليس وصف ذم عند الفقهاء", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الفارق الجوهري بين التغيرات في الـ 50 سنة الأخيرة وما قبلها بـ 500 سنة؟",
+    "difficulty_score": 500,
+    "explanation": "أوضح النص أن الثورة الصناعية جعلت الفروق في نمط الحياة في العقود الأخيرة تفوق بمراحل ما حدث في 5 قرون سابقة.",
+    "choices": [
+      {"choice_text": "أن الناس قديماً كانوا أكثر ذكاءً وقدرة على الاستنباط", "is_correct": false},
+      {"choice_text": "أن الثورة الصناعية أحدثت فروقاً أضعاف ما حدث في 500 سنة", "is_correct": true},
+      {"choice_text": "أن التغيرات قديماً كانت فكرية والآن مادية محضة", "is_correct": false},
+      {"choice_text": "لا يوجد فارق جوهري في طبيعة النوازل الفقهية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "وفقاً للنص، متى بدأت الدعوات المنادية بترك المذهبية؟",
+    "difficulty_score": 300,
+    "explanation": "بدأت هذه الدعوات تظهر وتنتشر في 'العصر الحاضر'.",
+    "choices": [
+      {"choice_text": "في القرن الرابع الهجري", "is_correct": false},
+      {"choice_text": "في العصر الحاضر", "is_correct": true},
+      {"choice_text": "في عصر تدوين المذاهب", "is_correct": false},
+      {"choice_text": "بعد سقوط غرناطة مباشرة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي درجات المجتهدين التي نص عليها العلماء في شروحاتهم؟",
+    "difficulty_score": 300,
+    "explanation": "ذكر النص أن المجتهد قد يكون مجتهداً مطلقاً، أو مجتهداً في مذهب معين.",
+    "choices": [
+      {"choice_text": "مجتهد مطلق ومجتهد في مذهب", "is_correct": true},
+      {"choice_text": "مجتهد بالنص ومجتهد بالرأي", "is_correct": false},
+      {"choice_text": "مجتهد دائم ومجتهد مؤقت", "is_correct": false},
+      {"choice_text": "مجتهد صحابي ومجتهد تابعي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما المقصود بمفهوم 'تجزؤ الاجتهاد' الوارد في النص؟",
+    "difficulty_score": 400,
+    "explanation": "يعني أن الاجتهاد ليس رتبة واحدة صماء، بل تتعدد مراتبه بتعدد علم المجتهدين وقدراتهم.",
+    "choices": [
+      {"choice_text": "أن ينقسم الاجتهاد بين عدة أشخاص في مسألة واحدة", "is_correct": false},
+      {"choice_text": "أن تتعدد مراتب الاجتهاد وتتجزأ حسب رتبة الشخص في العلم", "is_correct": true},
+      {"choice_text": "أن يكون الاجتهاد في العبادات دون المعاملات", "is_correct": false},
+      {"choice_text": "أن يجتهد الشخص في نصف المسألة ويقلد في نصفها", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "سُئل الإمام أحمد: أيفتي الرجل وهو يحفظ مئة ألف حديث؟ فماذا كان جوابه؟",
+    "difficulty_score": 700,
+    "explanation": "أجاب الإمام أحمد بـ 'لا' قاطعة عندما سئل عن حفظ مئة ألف حديث كشرط للفتيا.",
+    "choices": [
+      {"choice_text": "قال: نعم", "is_correct": false},
+      {"choice_text": "قال: لا", "is_correct": true},
+      {"choice_text": "قال: أرجو", "is_correct": false},
+      {"choice_text": "قال: إن كان فقيهاً فنعم", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الحد العددي للأحاديث الذي قال عنده الإمام أحمد 'أرجو' في حق المفتي؟",
+    "difficulty_score": 800,
+    "explanation": "توقف الإمام أحمد عن قول 'لا' وبدأ بقول 'أرجو' عندما وصل العدد إلى أربع مئة ألف حديث.",
+    "choices": [
+      {"choice_text": "مئتا ألف حديث", "is_correct": false},
+      {"choice_text": "ثلاث مئة ألف حديث", "is_correct": false},
+      {"choice_text": "أربع مئة ألف حديث", "is_correct": true},
+      {"choice_text": "خمس مئة ألف حديث", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الفرق في مفهوم 'الحديث' بين المتقدمين والمتأخرين كما بين النص؟",
+    "difficulty_score": 700,
+    "explanation": "أوضح النص أن الحديث عند المتقدمين (كالإمام أحمد) هو 'الإسناد'، وليس مجرد نص المتن كما يُفهم حالياً.",
+    "choices": [
+      {"choice_text": "المتقدمون اعتبروا الحديث هو المتن فقط", "is_correct": false},
+      {"choice_text": "الحديث عندهم هو الإسناد (حدثنا فلان عن فلان)", "is_correct": true},
+      {"choice_text": "المتقدمون لم يشترطوا السند في مسمى الحديث", "is_correct": false},
+      {"choice_text": "الحديث عند المتأخرين أشمل من الإسناد والمتن معاً", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كيف قيم النص شروط الاجتهاد عند 'الأصوليين المتأخرين' مقارنة بنقل الإمام أحمد؟",
+    "difficulty_score": 600,
+    "explanation": "يرى المؤلف أن الأصوليين المتأخرين سهلوا في شروط الاجتهاد، بدليل أن أحمد اشترط 400 ألف إسناد.",
+    "choices": [
+      {"choice_text": "المتأخرون وضعوا شروطاً تعجيزية لم يعرفها السلف", "is_correct": false},
+      {"choice_text": "الأصوليون سهلوا في الاجتهاد مقارنة بتشدد النقل عن أحمد", "is_correct": true},
+      {"choice_text": "الشروط متطابقة تماماً ولا فرق بينهما", "is_correct": false},
+      {"choice_text": "الإمام أحمد كان أسهل شروطاً من الأصوليين", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو السبب الذي دفع بعض أهل العلم للدعوة إلى 'إغلاق باب الاجتهاد'؟",
+    "difficulty_score": 500,
+    "explanation": "ذكر النص أن الدافع كان 'سداً للذريعة' خوفاً من دخول من ليس من أهل الاجتهاد فيه وكسره.",
+    "choices": [
+      {"choice_text": "بسبب ضياع أغلب أحاديث الأحكام", "is_correct": false},
+      {"choice_text": "سداً للذريعة لمنع غير المؤهلين من ادعائه", "is_correct": true},
+      {"choice_text": "لأن الشريعة اكتملت ولا حاجة لأحكام جديدة", "is_correct": false},
+      {"choice_text": "بسبب اتفاق المذاهب الأربعة على كل المسائل", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي التجربة التي وضعها أحد المشايخ للطالب الذي ادعى الاجتهاد والترجيح؟",
+    "difficulty_score": 600,
+    "explanation": "أعطاه صفحة من كتاب 'الأم' أو 'الرسالة' للشافعي ليقرأها، فتبين أنه يخطئ لغوياً في كل سطر.",
+    "choices": [
+      {"choice_text": "طلب منه حفظ ألفية ابن مالك في ليلة", "is_correct": false},
+      {"choice_text": "طلب منه قراءة صفحة من كلام الشافعي دون أخطاء لغوية", "is_correct": true},
+      {"choice_text": "امتحنه في حفظ 400 ألف حديث بإسنادها", "is_correct": false},
+      {"choice_text": "طلب منه كتابة بحث في تجزؤ الاجتهاد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي المذاهب ينتمي إليها أغلب أهل العلم الذين جاؤوا بعد الأئمة الأربعة؟",
+    "difficulty_score": 200,
+    "explanation": "أكد النص أن أكثر أهل العلم الذين جاؤوا بعد عصر الأئمة كانوا منتسبين إلى المذاهب الأربعة.",
+    "choices": [
+      {"choice_text": "المذهب الظاهري", "is_correct": false},
+      {"choice_text": "المذاهب الأربعة", "is_correct": true},
+      {"choice_text": "الاجتهاد المطلق المستقل", "is_correct": false},
+      {"choice_text": "مذهب أهل الحديث فقط", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي 'الأهلية' التي اعتبرها النص شرطاً لقول المرء: 'هم رجال ونحن رجال'؟",
+    "difficulty_score": 500,
+    "explanation": "انتقد النص من يقول هذه العبارة وهو لا يستطيع قراءة كلام الشافعي فضلاً عن فهمه واستنباط الأحكام منه.",
+    "choices": [
+      {"choice_text": "القدرة على الحفظ السريع للمتون", "is_correct": false},
+      {"choice_text": "القدرة على فهم وقراءة كلام الأئمة بلسان عربي صحيح", "is_correct": true},
+      {"choice_text": "أن يكون معاصراً للأئمة في زمنهم", "is_correct": false},
+      {"choice_text": "أن يمتلك مكتبة فقهية ضخمة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "في أي قرن ذكر بعض العلماء أن 'الاجتهاد انقطع' فيه كذريعة لإغلاق الباب؟",
+    "difficulty_score": 400,
+    "explanation": "ذكر النص أن بعض أهل العلم قالوا بانقطاع الاجتهاد منذ القرن الرابع الهجري.",
+    "choices": [
+      {"choice_text": "القرن الثاني الهجري", "is_correct": false},
+      {"choice_text": "القرن الرابع الهجري", "is_correct": true},
+      {"choice_text": "القرن السابع الهجري", "is_correct": false},
+      {"choice_text": "القرن العاشر الهجري", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الرد على من يزعم أن شروط الاجتهاد عند المتأخرين 'تعجيزية'؟",
+    "difficulty_score": 700,
+    "explanation": "الرد هو المقارنة بنقل الإمام أحمد الذي اشترط 400 ألف حديث، مما يعني أن المتأخرين كانوا أكثر تساهلاً.",
+    "choices": [
+      {"choice_text": "أن المتأخرين كانوا يجهلون صعوبة العلم قديماً", "is_correct": false},
+      {"choice_text": "بالمقارنة مع شروط السلف كأحمد التي كانت أشد بمراحل", "is_correct": true},
+      {"choice_text": "بأن الاجتهاد في العصر الحاضر أصبح أسهل بسبب التقنية", "is_correct": false},
+      {"choice_text": "بأن المتأخرين لم يشترطوا حفظ شيء من السنة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما الذي استنكره العلماء في أسلوب ابن حزم في كتابه 'المحلى'؟",
+    "difficulty_score": 600,
+    "explanation": "شنع العلماء على ابن حزم استخدامه لكلام عنيف أو غير لائق في مناقشة المسائل الفقهية، وهو ما لا يرتضونه.",
+    "choices": [
+      {"choice_text": "كثرة الأحاديث الضعيفة التي أوردها", "is_correct": false},
+      {"choice_text": "أسلوبه غير المرتضى والكلام العنيف في المناقشة", "is_correct": true},
+      {"choice_text": "إهماله لذكر أقوال الصحابة والتابعين", "is_correct": false},
+      {"choice_text": "تطويله الممل في ذكر المسائل الإجماعية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي سُئل عن عدد الأحاديث اللازمة للفتيا وتدرج من 100 ألف إلى 400 ألف؟",
+    "difficulty_score": 300,
+    "explanation": "هذا الأثر مروي عن الإمام أحمد بن حنبل رضي الله عنه.",
+    "choices": [
+      {"choice_text": "الإمام مالك بن أنس", "is_correct": false},
+      {"choice_text": "الإمام أحمد بن حنبل", "is_correct": true},
+      {"choice_text": "الإمام محمد بن الحسن", "is_correct": false},
+      {"choice_text": "الإمام الأوزاعي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو التوصيف الذي أطلقه النص على من يريد 'كسر' باب الاجتهاد دون أهلية؟",
+    "difficulty_score": 500,
+    "explanation": "وصفهم النص بالعاجزين الذين يريدون فتح الباب على مصراعيه ليدخل فيه من ليس منه.",
+    "choices": [
+      {"choice_text": "المجددون الصادقون", "is_correct": false},
+      {"choice_text": "العاجزون الذين يريدون دخول من ليس من أهل العلم", "is_correct": true},
+      {"choice_text": "أهل الظاهر والمتمسكين بالنصوص", "is_correct": false},
+      {"choice_text": "الفقهاء المتنورون في العصر الحاضر", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الاختراع الذي اكتُشف في زمن العباسيين وكان له أثر يشبه أثر الطباعة حديثاً؟",
+    "difficulty_score": 300,
+    "explanation": "مادة 'الكاغد' (الورق) كان لاكتشافها أثر كبير في التصنيف والتأليف في العصر العباسي.",
+    "choices": [
+      {"choice_text": "البردي", "is_correct": false},
+      {"choice_text": "الكاغد", "is_correct": true},
+      {"choice_text": "الرق", "is_correct": false},
+      {"choice_text": "المحبرة المعدنية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا اعتبر النص أن هدم البناء الفقهي القديم لإعادة بنائه هو 'عبث'؟",
+    "difficulty_score": 400,
+    "explanation": "لأن البناء الفقهي قديم وشامخ ومكتمل يلبي الاحتياجات، وهدمه لمجرد التجديد لا مبرر له.",
+    "choices": [
+      {"choice_text": "لأن البناء القديم معصوم من الخطأ", "is_correct": false},
+      {"choice_text": "لأن التراث شامخ ومكتمل وهدمه لمجرد التجديد عبث", "is_correct": true},
+      {"choice_text": "بسبب عدم توفر المواد العلمية للبناء الجديد", "is_correct": false},
+      {"choice_text": "لأن الفقهاء المعاصرين لا يملكون أدوات البناء", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي الفائدة العلمية التي كان يجنيها طالب العلم قديماً من 'نسخ الكتب' يدوياً؟",
+    "difficulty_score": 400,
+    "explanation": "أكد النص أن نسخ الكتب كان يعد تحصيلاً عظيماً للعلم وضبطاً له، وهو أعظم من مجرد القراءة.",
+    "choices": [
+      {"choice_text": "الحصول على المال من بيع النسخ", "is_correct": false},
+      {"choice_text": "تحصيل العلم وضبطه بشكل أعمق من القراءة", "is_correct": true},
+      {"choice_text": "تحسين الخط العربي وتجميله فقط", "is_correct": false},
+      {"choice_text": "إضاعة الوقت في انتظار نضوج العلم", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو العالم الذي نسخ 'صحيح مسلم' سبع مرات في سنة واحدة؟",
+    "difficulty_score": 600,
+    "explanation": "هو ابن الخياط، وقد ذكر النص قصته للتدليل على جلد العلماء في نسخ الكتب.",
+    "choices": [
+      {"choice_text": "ابن قدامة", "is_correct": false},
+      {"choice_text": "ابن الخياط", "is_correct": true},
+      {"choice_text": "ابن حجر العسقلاني", "is_correct": false},
+      {"choice_text": "النووي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي الرؤيا التي رآها ابن الخياط في منامه بعد تعب النسخ؟",
+    "difficulty_score": 500,
+    "explanation": "رأى أنه دخل الجنة واستلقى على ظهره وبدأ يلعب برجله قائلاً: 'الحمد لله استرحنا من النسخ'.",
+    "choices": [
+      {"choice_text": "رأى النبي صلى الله عليه وسلم يصحح له نسخه", "is_correct": false},
+      {"choice_text": "رأى أنه دخل الجنة واستراح من تعب النسخ", "is_correct": true},
+      {"choice_text": "رأى أن كتبه أصبحت مطبوعة ومنتشرة", "is_correct": false},
+      {"choice_text": "رأى الإمام مسلم يشكره على جهده", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الفرق الزمني في الحصول على نسخة من 'المغني' بين الماضي والحاضر؟",
+    "difficulty_score": 200,
+    "explanation": "قديماً كان يحتاج لأشهر لنسخ نسخة واحدة، بينما اليوم تُطبع آلاف النسخ في أيام معدودة.",
+    "choices": [
+      {"choice_text": "لا يوجد فرق بفضل وجود الوراقين قديماً", "is_correct": false},
+      {"choice_text": "من أشهر في النسخ قديماً إلى أيام في الطباعة حديثاً", "is_correct": true},
+      {"choice_text": "من سنوات قديماً إلى ساعات حديثاً", "is_correct": false},
+      {"choice_text": "الحصول عليه قديماً كان أسرع لتوفر المخطوطات", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا وصف النص الدعوات التي تطالب بـ 'تصفية الكتب الفقهية' أو 'تنقية التراث'؟",
+    "difficulty_score": 500,
+    "explanation": "وصفها بأنها تصدر غالباً عمن لا يعرف المذاهب الفقهية ولم يدرسها دراسة حقيقية.",
+    "choices": [
+      {"choice_text": "دعوات تجديدية مباركة يجب دعمها", "is_correct": false},
+      {"choice_text": "تصدر غالباً عمن يجهل حقيقة المذاهب الفقهية", "is_correct": true},
+      {"choice_text": "ضرورة ملحة بسبب كثرة الأخطاء في التراث", "is_correct": false},
+      {"choice_text": "مطلب وافق عليه كبار علماء العصر الحاضر", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هما النوعان الأساسيان لطباعة الكتب الفقهية في العصر الحاضر؟",
+    "difficulty_score": 400,
+    "explanation": "الأول: طباعة كتب العلماء القديمة وتحويلها من خطية إلى مطبوعة. والثاني: تحقيق هذه الكتب وإعادة نشرها.",
+    "choices": [
+      {"choice_text": "طباعة المتون فقط وطباعة الشروح الصوتية", "is_correct": false},
+      {"choice_text": "تحويل المخطوطات لمطبوعات وإعادة تحقيق القديم", "is_correct": true},
+      {"choice_text": "الطباعة الورقية والطباعة الرقمية المشفرة", "is_correct": false},
+      {"choice_text": "طباعة كتب المعاصرين حصراً وترجمة الفتاوى", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أورد النص بيتاً من الشعر يصف حال من يجمع الكتب دون دراية، فما هو؟",
+    "difficulty_score": 300,
+    "explanation": "البيت يقول: 'ببيت الشيخ كتب قد اشتراها.. ومجمعها، ولكن ما دراها'.",
+    "choices": [
+      {"choice_text": "ولكن ما قراها", "is_correct": false},
+      {"choice_text": "ولكن ما دراها", "is_correct": true},
+      {"choice_text": "ولكن ما رآها", "is_correct": false},
+      {"choice_text": "ولكن ما حواها", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الأثر الذي أحدثته الثورة الصناعية على 'النوازل الفقهية'؟",
+    "difficulty_score": 400,
+    "explanation": "أدت الثورة الصناعية لظهور نوازل فقهية كثيرة جداً تستلزم كتابات ونظراً مستقلاً.",
+    "choices": [
+      {"choice_text": "قللت من النوازل بسبب وضوح العلم", "is_correct": false},
+      {"choice_text": "أحدثت نوازل كثيرة تستوجب نظراً مستقلاً", "is_correct": true},
+      {"choice_text": "أدت لإلغاء المذاهب القديمة كلياً", "is_correct": false},
+      {"choice_text": "لم تؤثر الثورة الصناعية على طبيعة الفقه", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "كيف وصف النص الردود العلمية بين الأئمة (مثل الشافعي ومحمد بن الحسن)؟",
+    "difficulty_score": 400,
+    "explanation": "وصفها بأنها ردود 'بأدب العلم'، تحيي الحركة العلمية، بعيدة عن المهاترات أو السب.",
+    "choices": [
+      {"choice_text": "كانت ردوداً شخصية هدفها الإسقاط", "is_correct": false},
+      {"choice_text": "كانت ردوداً بأدب العلم تحيي الحركة العلمية", "is_correct": true},
+      {"choice_text": "كانت ردوداً سرية لا يعلمها إلا تلامذتهم", "is_correct": false},
+      {"choice_text": "كانت ردوداً تهدف لتوحيد المذاهب بالقوة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا يتميز العصر الحاضر في امتلاك الكتب مقارنة بالعصور السابقة؟",
+    "difficulty_score": 200,
+    "explanation": "أصبح طالب العلم العادي اليوم يمتلك مكتبة ضخمة ربما لم تكن متوفرة لكبار العلماء سابقاً.",
+    "choices": [
+      {"choice_text": "بأن الكتب اليوم أكثر دقة وصحة من القديم", "is_correct": false},
+      {"choice_text": "بتوفر مكتبات ضخمة لطلاب العلم لم تتوفر للسابقين", "is_correct": true},
+      {"choice_text": "باختفاء المخطوطات تماماً وحلول الكتب الرقمية", "is_correct": false},
+      {"choice_text": "بأن الكتب اليوم تغني عن الحاجة للمعلم", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي النصيحة التي وجهها المؤلف بخصوص كتاب 'المحلى' لابن حزم؟",
+    "difficulty_score": 500,
+    "explanation": "نصح بألا يقرأه المبتدئ لأنه قد يفسده، بل يقرأه العلماء بعد تحصيل الأدب والعلم.",
+    "choices": [
+      {"choice_text": "أن يبدأ به المبتدئ لقوة أدلته الظاهرة", "is_correct": false},
+      {"choice_text": "ألا يقرأه المبتدئ بل يقرأه العلماء بعد التأسيس", "is_correct": true},
+      {"choice_text": "أن يُترك الكتاب كلياً ولا يُنظر فيه أبداً", "is_correct": false},
+      {"choice_text": "أن يُحفظ الكتاب قبل دراسة المذاهب الأربعة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا ختم المؤلف درسه الأخير المذكور في النص؟",
+    "difficulty_score": 100,
+    "explanation": "ختم بالدعاء، ووعد باستكمال الحديث عن الطباعة، والصلاة على النبي صلى الله عليه وسلم.",
+    "choices": [
+      {"choice_text": "بفتح باب المناظرة مع الحضور", "is_correct": false},
+      {"choice_text": "بالدعاء واستكمال الموضوع في الدرس القادم", "is_correct": true},
+      {"choice_text": "بإعلان انتهاء دورة مدخل الفقه", "is_correct": false},
+      {"choice_text": "بتوزيع كتب المذاهب الأربعة على الطلاب", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا اعتبر النص أن نسخ الكتاب 'أعظم تحصيلاً' من قراءته؟",
+    "difficulty_score": 500,
+    "explanation": "لأن النسخ يتطلب تركيزاً ووقتاً وجهداً يرسخ المعلومة في ذهن الطالب أكثر من القراءة العابرة.",
+    "choices": [
+      {"choice_text": "لأنه يوفر قيمة الكتاب المالية", "is_correct": false},
+      {"choice_text": "لأنه يرسخ المعلومة بالجهد والوقت المبذول فيه", "is_correct": true},
+      {"choice_text": "لأن القراءة قديماً كانت محرمة لغير العلماء", "is_correct": false},
+      {"choice_text": "لأن النسخ يغني عن مراجعة الكتاب لاحقاً", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من حقق كتاب 'الإجماع' لابن المنذر كما ورد في النص؟",
+    "difficulty_score": 500,
+    "explanation": "طُبع كتاب الإجماع لابن المنذر بتحقيق الدكتور صغير شاغف الباكستاني.",
+    "choices": [
+      {"choice_text": "رفعت فوزي عبد المطلب", "is_correct": false},
+      {"choice_text": "صغير شاغف الباكستاني", "is_correct": true},
+      {"choice_text": "فاروق حمادة", "is_correct": false},
+      {"choice_text": "عبد الله التركي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي ألفه شيخ الإسلام ابن تيمية في نقد مسائل الإجماع؟",
+    "difficulty_score": 500,
+    "explanation": "ألف ابن تيمية كتاب 'نقد مراتب الإجماع' رداً وتعقيباً على كتاب ابن حزم 'مراتب الإجماع'.",
+    "choices": [
+      {"choice_text": "مجموع الفتاوى", "is_correct": false},
+      {"choice_text": "نقد مراتب الإجماع", "is_correct": true},
+      {"choice_text": "الصارم المسلول", "is_correct": false},
+      {"choice_text": "رفع الملام عن الأئمة الأعلام", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا امتاز كتاب 'الإقناع في مسائل الإجماع' لابن القطان الفاسي؟",
+    "difficulty_score": 600,
+    "explanation": "ميزته أنه كتاب جامع، نظر في نقد كتب الإجماع السابقة كابن المنذر وابن حزم وجمعها.",
+    "choices": [
+      {"choice_text": "أنه أول كتاب أُلف في تاريخ الإسلام", "is_correct": false},
+      {"choice_text": "أنه جامع ونقدي لمؤلفات الإجماع السابقة له", "is_correct": true},
+      {"choice_text": "أنه يختص بإجماعات أهل المدينة فقط", "is_correct": false},
+      {"choice_text": "أنه كتب بلغة معاصرة سهلة جداً", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو محقق كتاب 'الإقناع في مسائل الإجماع' لابن القطان؟",
+    "difficulty_score": 500,
+    "explanation": "طُبع الكتاب محققاً بتحقيق الدكتور فاروق حمادة.",
+    "choices": [
+      {"choice_text": "أحمد شاكر", "is_correct": false},
+      {"choice_text": "فاروق حمادة", "is_correct": true},
+      {"choice_text": "بشار عواد معروف", "is_correct": false},
+      {"choice_text": "صالح الفوزان", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب المعاصر السهل الذي أوصى به النص في باب 'إجماعات العبادات'؟",
+    "difficulty_score": 300,
+    "explanation": "أوصى النص بكتاب 'إجماعات العبادات' الصادر عن مؤسسة الدرر السنية.",
+    "choices": [
+      {"choice_text": "فقه السنة لسيد سابق", "is_correct": false},
+      {"choice_text": "إجماعات العبادات (الدرر السنية)", "is_correct": true},
+      {"choice_text": "الموسوعة الفقهية الكويتية", "is_correct": false},
+      {"choice_text": "منار السبيل", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هم أصحاب الكتب المقترحة في النص لمعرفة مذهب الإمام أبي حنيفة؟",
+    "difficulty_score": 400,
+    "explanation": "اقترح النص كتاب 'بدائع الصنائع' للكاساني، و'حاشية ابن عابدين'.",
+    "choices": [
+      {"choice_text": "الكاساني وابن عابدين", "is_correct": true},
+      {"choice_text": "أبو يوسف ومحمد بن الحسن", "is_correct": false},
+      {"choice_text": "السرخسي والمرغيناني", "is_correct": false},
+      {"choice_text": "الطحاوي وابن نجيم", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي وصف بأنه من 'أجلّ شروح خليل' في المذهب المالكي؟",
+    "difficulty_score": 500,
+    "explanation": "ذكر النص أن كتاب 'مواهب الجليل' للحطاب هو من أجلّ شروح مختصر خليل.",
+    "choices": [
+      {"choice_text": "الذخيرة للقرافي", "is_correct": false},
+      {"choice_text": "مواهب الجليل للحطاب", "is_correct": true},
+      {"choice_text": "بداية المجتهد لابن رشد", "is_correct": false},
+      {"choice_text": "المدونة لسحنون", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو محقق طبعة كتاب 'الأم' للشافعي المذكورة في النص؟",
+    "difficulty_score": 500,
+    "explanation": "ذكر النص أن كتاب 'الأم' طُبع بتحقيق الشيخ رفعت فوزي عبد المطلب.",
+    "choices": [
+      {"choice_text": "أحمد شاكر", "is_correct": false},
+      {"choice_text": "رفعت فوزي عبد المطلب", "is_correct": true},
+      {"choice_text": "محمد فؤاد عبد الباقي", "is_correct": false},
+      {"choice_text": "عبد السلام هارون", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي المراجع التالية يمثل المذهب الشافعي حسب النص؟",
+    "difficulty_score": 400,
+    "explanation": "ذكر النص: تحفة المحتاج (ابن حجر الهيتمي)، روضة الطالبين (النووي)، والحاوي (الماوردي).",
+    "choices": [
+      {"choice_text": "بدائع الصنائع", "is_correct": false},
+      {"choice_text": "روضة الطالبين للنووي", "is_correct": true},
+      {"choice_text": "المغني لابن قدامة", "is_correct": false},
+      {"choice_text": "التمهيد لابن عبد البر", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف كتاب 'الحاوي' المطبوع في مذهب الشافعية؟",
+    "difficulty_score": 500,
+    "explanation": "كتاب 'الحاوي الكبير' هو من تأليف الإمام الماوردي.",
+    "choices": [
+      {"choice_text": "الرافعي", "is_correct": false},
+      {"choice_text": "الماوردي", "is_correct": true},
+      {"choice_text": "الغزالي", "is_correct": false},
+      {"choice_text": "الجويني", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هي الطبعة المفضلة لكتاب 'كشاف القناع' للبهوتي كما ورد في النص؟",
+    "difficulty_score": 600,
+    "explanation": "ذكر النص أن طبعة 'وزارة العدل' هي أفضل طبعة لكتاب كشاف القناع.",
+    "choices": [
+      {"choice_text": "طبعة دار الفكر", "is_correct": false},
+      {"choice_text": "طبعة وزارة العدل", "is_correct": true},
+      {"choice_text": "طبعة دار الكتب العلمية", "is_correct": false},
+      {"choice_text": "طبعة المكتب الإسلامي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو المحقق الذي اعتنى بطباعة 'الشرح الكبير' و'الفروع' و'المغني' للحنابلة؟",
+    "difficulty_score": 500,
+    "explanation": "الدكتور عبد الله بن عبد المحسن التركي له جهود كبيرة في تحقيق وطباعة أمهات كتب الحنابلة.",
+    "choices": [
+      {"choice_text": "بكر أبو زيد", "is_correct": false},
+      {"choice_text": "عبد الله بن عبد المحسن التركي", "is_correct": true},
+      {"choice_text": "عبد الملك ابن دهيش", "is_correct": false},
+      {"choice_text": "عبد العزيز الراجحي", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "بماذا اشتهرت طبعة الشيخ عبد الله التركي لكتاب 'الشرح الكبير'؟",
+    "difficulty_score": 600,
+    "explanation": "اشتهرت بأنها طبعت 'الشرح الكبير' مع 'الإنصاف' و'المقنع' في مجموعة واحدة.",
+    "choices": [
+      {"choice_text": "بأنها طبعة مقتصرة على المتن دون الشرح", "is_correct": false},
+      {"choice_text": "بأنها طُبعت مع الإنصاف والمقنع بتحقيقه", "is_correct": true},
+      {"choice_text": "بأنها أول طبعة تستخدم الحاسب الآلي", "is_correct": false},
+      {"choice_text": "بأنها طبعة مترجمة للغات الأجنبية", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو العالم الحنبلي (رحمه الله) الذي ذكره النص لمساهمته الكبيرة في طباعة كتب المذهب؟",
+    "difficulty_score": 400,
+    "explanation": "ذكر النص الشيخ عبد الملك ابن دهيش رحمه الله وجهوده في طباعة كتب الحنابلة.",
+    "choices": [
+      {"choice_text": "ابن باز", "is_correct": false},
+      {"choice_text": "عبد الملك ابن دهيش", "is_correct": true},
+      {"choice_text": "ابن عثيمين", "is_correct": false},
+      {"choice_text": "بكر أبو زيد", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي الكتب التالية يعد مرجعاً لمعرفة 'الصحيح من المذهب الحنبلي' مع الأدلة؟",
+    "difficulty_score": 500,
+    "explanation": "أشار النص إلى كتاب 'كشاف القناع' للبهوتي كمرجع لمعرفة صحيح المذهب الحنبلي بأدلته.",
+    "choices": [
+      {"choice_text": "كشاف القناع للبهوتي", "is_correct": true},
+      {"choice_text": "المقنع لابن قدامة", "is_correct": false},
+      {"choice_text": "زاد المستقنع", "is_correct": false},
+      {"choice_text": "عمدة الفقه", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو رأي الخطيب البغدادي في قضية المناظرة في الفقه؟",
+    "difficulty_score": 400,
+    "explanation": "ذكر الخطيب البغدادي أن الأمة مجمعة على الجدال والمناظرة في مسائل الفقه.",
+    "choices": [
+      {"choice_text": "أنها بدعة يجب تجنبها", "is_correct": false},
+      {"choice_text": "أن الأمة مجمعة على الجدال والمناظرة فيها", "is_correct": true},
+      {"choice_text": "أنها جائزة في الأصول دون الفروع", "is_correct": false},
+      {"choice_text": "أنها كانت خاصة بزمن الصحابة فقط", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا لا يصلح كتاب 'المحلى' للمبتدئ حسب وجهة نظر النص؟",
+    "difficulty_score": 600,
+    "explanation": "لأنه قد يفسد الطالب في بداياته بسبب قوة حدة الأسلوب وطريقة الطرح الفقهي لابن حزم.",
+    "choices": [
+      {"choice_text": "لصعوبة اللغة العربية المستخدمة فيه", "is_correct": false},
+      {"choice_text": "لأنه قد يفسد الطالب المبتدئ تربوياً وفقهياً", "is_correct": true},
+      {"choice_text": "لعدم وجود أدلة شرعية كافية فيه", "is_correct": false},
+      {"choice_text": "لكبر حجم الكتاب وتعدد مجلداته", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي طبعته 'وزارة العدل' وأثنى عليه النص كأفضل طبعة؟",
+    "difficulty_score": 300,
+    "explanation": "أثنى النص على طبعة وزارة العدل لكتاب 'كشاف القناع' للبهوتي.",
+    "choices": [
+      {"choice_text": "المغني لابن قدامة", "is_correct": false},
+      {"choice_text": "كشاف القناع", "is_correct": true},
+      {"choice_text": "الإنصاف للمرداوي", "is_correct": false},
+      {"choice_text": "بدائع الصنائع", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "أي من هذه الكتب الحنبلية ذُكر أن الشيخ التركي قام بطباعتها؟",
+    "difficulty_score": 500,
+    "explanation": "ذكر النص أن الشيخ التركي طبع: الفروع، المغني، الشرح الكبير، الكافي، والإقناع.",
+    "choices": [
+      {"choice_text": "كتاب 'الفروع'", "is_correct": true},
+      {"choice_text": "كتاب 'منار السبيل'", "is_correct": false},
+      {"choice_text": "كتاب 'الروض المربع'", "is_correct": false},
+      {"choice_text": "كتاب 'زاد المستقنع'", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما المقصود بأن التمهيد لابن عبد البر 'لا يتكلم عن مسألة الإجماع فقط'؟",
+    "difficulty_score": 500,
+    "explanation": "أراد النص التمييز بين الكتب المتخصصة في الإجماع حصراً وبين الكتب الشاملة كالتمهيد التي تذكره ضمن سياقات أخرى.",
+    "choices": [
+      {"choice_text": "أنه كتاب في التاريخ والسير فقط", "is_correct": false},
+      {"choice_text": "أنه لا يقتصر على الإجماع بل هو أشمل من ذلك", "is_correct": true},
+      {"choice_text": "أنه كتاب يرفض الإجماع ولا يعترف به", "is_correct": false},
+      {"choice_text": "أنه كتاب متخصص في اللغة والنحو", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي تناظر معه الإمامان 'محمد بن الحسن' و 'أبو يوسف'؟",
+    "difficulty_score": 400,
+    "explanation": "ذكر النص أن كلاً من محمد بن الحسن وأبو يوسف (صاحبي أبي حنيفة) قد تناظرا مع الإمام مالك.",
+    "choices": [
+      {"choice_text": "الإمام الشافعي", "is_correct": false},
+      {"choice_text": "الإمام مالك بن أنس", "is_correct": true},
+      {"choice_text": "الإمام الأوزاعي", "is_correct": false},
+      {"choice_text": "الإمام ابن حزم", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "لماذا شنع العلماء على ابن حزم رغم اعترافهم بعلمه الواسع في المحلى؟",
+    "difficulty_score": 600,
+    "explanation": "بسبب الأسلوب الذي وصفه النص بأنه 'غير مرتضى' عند العلماء في مناقشة المسائل الفقهية.",
+    "choices": [
+      {"choice_text": "لأنه أنكر المذاهب الأربعة كلياً", "is_correct": false},
+      {"choice_text": "بسبب أسلوبه الحاد وغير المرتضى في المناقشة", "is_correct": true},
+      {"choice_text": "لأنه لم يكن يثق بأحاديث الصحيحين", "is_correct": false},
+      {"choice_text": "بسبب تأليفه للكتاب في وقت متأخر من عمره", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو التوصيف الذي أطلقه النص على كتاب 'إجماعات العبادات'؟",
+    "difficulty_score": 300,
+    "explanation": "وصفه النص بأنه كتاب معاصر، جميل جداً، سهل، ومفيد وطيب لطالب العلم.",
+    "choices": [
+      {"choice_text": "كتاب صعب مخصص للمجتهدين", "is_correct": false},
+      {"choice_text": "كتاب معاصر، جميل وسهل ومفيد", "is_correct": true},
+      {"choice_text": "كتاب تراثي قديم أُعيد اكتشافه", "is_correct": false},
+      {"choice_text": "كتاب يتناول المسائل الخلافية فقط", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "من هو مؤلف كتاب 'تحفة المحتاج' في المذهب الشافعي؟",
+    "difficulty_score": 400,
+    "explanation": "كتاب 'تحفة المحتاج' هو للإمام ابن حجر الهيتمي.",
+    "choices": [
+      {"choice_text": "ابن حجر العسقلاني", "is_correct": false},
+      {"choice_text": "ابن حجر الهيتمي", "is_correct": true},
+      {"choice_text": "ابن القيم", "is_correct": false},
+      {"choice_text": "ابن قدامة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ماذا قال ابن عبد البر في شأن المناظرة الفقهية كما نقل النص؟",
+    "difficulty_score": 500,
+    "explanation": "نقل النص عن ابن عبد البر قولاً يشبه قول الخطيب البغدادي في إجماع الأمة على المناظرة والجدال الفقهي.",
+    "choices": [
+      {"choice_text": "أنها تفسد الود وتورث الضغينة", "is_correct": false},
+      {"choice_text": "أن الأمة مجمعة على الجدال والمناظرة في الفقه", "is_correct": true},
+      {"choice_text": "أنها خاصة بالعلماء في المجالس السرية", "is_correct": false},
+      {"choice_text": "أن زمن المناظرات انتهى بوفاة الأئمة", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "وفقاً للنص، أي الكتب التالية طبعها الشيخ عبد الملك ابن دهيش؟",
+    "difficulty_score": 500,
+    "explanation": "ذكر النص أن الشيخ ابن دهيش (رحمه الله) طبع عدداً من الكتب الفقهية في مذهب الحنابلة.",
+    "choices": [
+      {"choice_text": "كتب في المذهب الحنبلي", "is_correct": true},
+      {"choice_text": "كتب في المذهب المالكي", "is_correct": false},
+      {"choice_text": "دواوين الشعر العربي القديم", "is_correct": false},
+      {"choice_text": "كتب التفسير وعلوم القرآن", "is_correct": false}
+    ]
+  },
+  {
+    "question_text": "ما هو الشرط الذي وضعه النص لمن يريد الاجتهاد في العصر الحاضر؟",
+    "difficulty_score": 400,
+    "explanation": "أكد النص على ضرورة دراسة المذاهب دراسة وافية، والحصول على الملكة العلمية واللغوية قبل ادعاء الاجتهاد.",
+    "choices": [
+      {"choice_text": "الاكتفاء بحفظ متن واحد في الحديث", "is_correct": false},
+      {"choice_text": "الحصول على الملكة والقدرة على فهم كلام الأئمة", "is_correct": true},
+      {"choice_text": "الحصول على شهادة أكاديمية عليا فقط", "is_correct": false},
+      {"choice_text": "القدرة على جمع أكبر عدد من المخطوطات", "is_correct": false}
+    ]
+  }
+]
+}

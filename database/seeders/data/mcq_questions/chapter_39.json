@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 39,
+    "questions": [
+        {
+        "question_text": "ما هو العنوان الرئيسي الذي اختاره المحاضر لهذه السلسلة؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المحاضر في المقدمة أن السلسلة بعنوان 'السيرة النبوية للمصلحين'.",
+        "choices": [
+            { "choice_text": "السيرة النبوية للأطفال", "is_correct": false },
+            { "choice_text": "قصص الأنبياء والمرسلين", "is_correct": false },
+            { "choice_text": "السيرة النبوية للمصلحين", "is_correct": true },
+            { "choice_text": "تاريخ الخلفاء الراشدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أقسم الله سبحانه وتعالى في سورة الحجر إظهاراً لعظمة قدر النبي ﷺ؟",
+        "difficulty_score": 200,
+        "explanation": "أقسم الله بعُمر النبي ﷺ (حياته) في قوله تعالى: {لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ}.",
+        "choices": [
+            { "choice_text": "بمكة المكرمة", "is_correct": false },
+            { "choice_text": "بحياة النبي ﷺ", "is_correct": true },
+            { "choice_text": "بالقرآن الكريم", "is_correct": false },
+            { "choice_text": "بالقلم وما يسطرون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الوظيفة التي قرنها الله بتلاوة الآيات وتعليم الكتاب في سورة البقرة؟",
+        "difficulty_score": 150,
+        "explanation": "الوظائف الثلاث هي: يتلو عليهم آياتنا، ويزكيهم، ويعلمهم الكتاب والحكمة.",
+        "choices": [
+            { "choice_text": "تأديبهم", "is_correct": false },
+            { "choice_text": "تزكيتهم", "is_correct": true },
+            { "choice_text": "تحذيرهم", "is_correct": false },
+            { "choice_text": "قتال أعدائهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم مرة ورد وصف (صبّار شكور) في القرآن الكريم؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن وصف (صبّار شكور) ورد أربع مرات في كتاب الله.",
+        "choices": [
+            { "choice_text": "مرتان", "is_correct": false },
+            { "choice_text": "ثلاث مرات", "is_correct": false },
+            { "choice_text": "أربع مرات", "is_correct": true },
+            { "choice_text": "خمس مرات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو 'نصف الدين' الآخر الذي قرن بالصبر؟",
+        "difficulty_score": 250,
+        "explanation": "ورد عن أئمة المسلمين أن الدين نصفان: نصف صبر ونصف شكر.",
+        "choices": [
+            { "choice_text": "الجهاد", "is_correct": false },
+            { "choice_text": "الشكر", "is_correct": true },
+            { "choice_text": "الصلاة", "is_correct": false },
+            { "choice_text": "الصدق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أعظم وسيلة للوصول إلى 'تقدير نعمة البعثة النبوية'؟",
+        "difficulty_score": 350,
+        "explanation": "اعتبر المصدر أن تدارس سيرة النبي ﷺ هو من أعظم الوسائل الموصلة لتقدير النعمة.",
+        "choices": [
+            { "choice_text": "قراءة كتب الفلسفة", "is_correct": false },
+            { "choice_text": "تدارس السيرة النبوية", "is_correct": true },
+            { "choice_text": "دراسة علم المواريث", "is_correct": false },
+            { "choice_text": "تعلم اللغات الأجنبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي استند إليه جندب بن عبد الله رضي الله عنه في تعلمهم قبل القرآن؟",
+        "difficulty_score": 400,
+        "explanation": "قال جندب: 'تعلمنا الإيمان قبل أن نتعلم القرآن'.",
+        "choices": [
+            { "choice_text": "اللغة العربية", "is_correct": false },
+            { "choice_text": "الإيمان", "is_correct": true },
+            { "choice_text": "الفقه", "is_correct": false },
+            { "choice_text": "أسباب النزول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يمثل 'الهيكل' في تشبيه المصدر لبناء الهدي النبوي؟",
+        "difficulty_score": 450,
+        "explanation": "شبه المصدر 'كتب السيرة' بالهيكل الذي يبني عظم البنيان.",
+        "choices": [
+            { "choice_text": "كتب السنن", "is_correct": false },
+            { "choice_text": "كتب السيرة", "is_correct": true },
+            { "choice_text": "كتب التفسير", "is_correct": false },
+            { "choice_text": "كتب اللغة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة المباشرة لـ 'انزياح مركزية السيرة النبوية' وفقاً للتحليل التاريخي في المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "انزياح مركزية السيرة أدى إلى نشوء الاختلافات المتناقضة والمتضادة والضلال.",
+        "choices": [
+            { "choice_text": "قوة الدولة الإسلامية", "is_correct": false },
+            { "choice_text": "نشوء الاختلافات المتضادة", "is_correct": true },
+            { "choice_text": "سهولة فهم القرآن", "is_correct": false },
+            { "choice_text": "انتشار العدل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو البديل الثقافي الذي حل محل مركزية السيرة في الواقع المعاصر كما ذكر المصدر؟",
+        "difficulty_score": 550,
+        "explanation": "أشار المصدر إلى أن البديل في الواقع الآن هو 'الثقافة الغربية الإنسانوية'.",
+        "choices": [
+            { "choice_text": "الفلسفة اليونانية", "is_correct": false },
+            { "choice_text": "الثقافة الفارسية", "is_correct": false },
+            { "choice_text": "الثقافة الغربية الإنسانوية", "is_correct": true },
+            { "choice_text": "العلوم الطبيعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا بكى أبو بكر الصديق عند سماع حديث 'عبد خيره الله'؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه أدرك بـ'دلالة الحال' أن العبد المخير هو النبي ﷺ وأن أجله قد اقترب.",
+        "choices": [
+            { "choice_text": "خوفاً من النار", "is_correct": false },
+            { "choice_text": "شوقاً للجنة", "is_correct": false },
+            { "choice_text": "لفهمه أن أجل النبي ﷺ قد اقترب", "is_correct": true },
+            { "choice_text": "لأنه لم يفهم معنى الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الموقف الذي استحضره المصدر لإثبات أن أحوال الصادقين دليل على النبوة؟",
+        "difficulty_score": 650,
+        "explanation": "استحضر سؤال هرقل لأبي سفيان عن أحوال النبي ﷺ وليس عن معجزاته الحسية.",
+        "choices": [
+            { "choice_text": "قصة الإسراء والمعراج", "is_correct": false },
+            { "choice_text": "سؤال هرقل لأبي سفيان", "is_correct": true },
+            { "choice_text": "معجزة انشقاق القمر", "is_correct": false },
+            { "choice_text": "فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الثمرة الأولى' التي ينبغي أن يخرج بها دارس السيرة للمصلحين؟",
+        "difficulty_score": 300,
+        "explanation": "الثمرة الأولى هي 'الهداية'، وتحديداً الهداية الإصلاحية.",
+        "choices": [
+            { "choice_text": "حفظ التواريخ", "is_correct": false },
+            { "choice_text": "الهداية الإصلاحية", "is_correct": true },
+            { "choice_text": "معرفة الأنساب", "is_correct": false },
+            { "choice_text": "تعداد الغزوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر التعامل مع العلوم الإسلامية كأدوات آلية مجردة؟",
+        "difficulty_score": 700,
+        "explanation": "وصفه بأنه 'خلل منهجي' يجعل العلوم صامتة وقد تستخدم لتأييد عقائد باطلة.",
+        "choices": [
+            { "choice_text": "أمر مستحسن", "is_correct": false },
+            { "choice_text": "خلل منهجي", "is_correct": true },
+            { "choice_text": "طريقة المتقدمين", "is_correct": false },
+            { "choice_text": "غاية العلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى 'شهادة أن محمداً رسول الله' الذي يغذيه العلم بالسيرة؟",
+        "difficulty_score": 450,
+        "explanation": "مقتضاها هو زيادة الإيمان واليقين بصدق نبوته ﷺ.",
+        "choices": [
+            { "choice_text": "مجرد النطق باللسان", "is_correct": false },
+            { "choice_text": "زيادة الإيمان واليقين", "is_correct": true },
+            { "choice_text": "معرفة تاريخ قريش", "is_correct": false },
+            { "choice_text": "دراسة الجغرافيا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما الذي يكشف 'عبقرية المعلم ﷺ'؟",
+        "difficulty_score": 750,
+        "explanation": "دراسة أحوال المتعلمين (الصحابة) وكيف تغيروا في مدرسته يكشف عبقرية المعلم ﷺ.",
+        "choices": [
+            { "choice_text": "وصفه الجسدي", "is_correct": false },
+            { "choice_text": "دراسة أحوال الصحابة (ثمرته)", "is_correct": true },
+            { "choice_text": "عدد زوجاته", "is_correct": false },
+            { "choice_text": "نوع سلاحه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي أقسم الله فيها بحياة النبي ﷺ؟",
+        "difficulty_score": 200,
+        "explanation": "قوله تعالى في سورة الحجر: {لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ}.",
+        "choices": [
+            { "choice_text": "سورة يس الآية 1", "is_correct": false },
+            { "choice_text": "سورة الحجر الآية 72", "is_correct": true },
+            { "choice_text": "سورة الفتح الآية 1", "is_correct": false },
+            { "choice_text": "سورة العلق الآية 1", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'نور المدرسة النبوية' الذي يستند إليه المصلح في خطواته؟",
+        "difficulty_score": 800,
+        "explanation": "هو ميراث النبوة والمنهج الإصلاحي المستمد من سيرته ﷺ.",
+        "choices": [
+            { "choice_text": "الاجتهاد الشخصي المحض", "is_correct": false },
+            { "choice_text": "ميراث النبوة", "is_correct": true },
+            { "choice_text": "الفلسفة المادية", "is_correct": false },
+            { "choice_text": "العادات والتقاليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ورد عنه قوله 'تعلمنا الإيمان قبل أن نتعلم القرآن'؟",
+        "difficulty_score": 300,
+        "explanation": "هو جندب بن عبد الله رضي الله عنه.",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "جندب بن عبد الله", "is_correct": true },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قصدت عائشة رضي الله عنها بقولها 'كان خلقه القرآن'؟",
+        "difficulty_score": 850,
+        "explanation": "قصدت أن السيرة هي التطبيق العملي والبيان الشامل لمعاني القرآن.",
+        "choices": [
+            { "choice_text": "أنه كان يحفظ القرآن فقط", "is_correct": false },
+            { "choice_text": "أن السيرة تجسيد لمعاني القرآن", "is_correct": true },
+            { "choice_text": "أنه كان يكتب القرآن", "is_correct": false },
+            { "choice_text": "أنه لم يكن يخالف القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفارق الجوهري بين قراءة القرآن للأجر وقراءته بـ 'عين البصيرة'؟",
+        "difficulty_score": 900,
+        "explanation": "البصيرة تقتضي استحضار أن هذا كالم خالق السماوات وهو منهج حياة للدار الآخرة.",
+        "choices": [
+            { "choice_text": "عدد الختمات", "is_correct": false },
+            { "choice_text": "الاستحضار اليقيني لمنهج الهداية", "is_correct": true },
+            { "choice_text": "سرعة القراءة", "is_correct": false },
+            { "choice_text": "مكان القراءة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أرسل النبي ﷺ معاذ بن جبل وأبا موسى الأشعري تحديداً إلى اليمن؟",
+        "difficulty_score": 550,
+        "explanation": "أرسلهما بصفتهما 'معلمين'، مما يدل على معايير الاختيار في المدرسة النبوية.",
+        "choices": [
+            { "choice_text": "كقادة عسكريين فقط", "is_correct": false },
+            { "choice_text": "كجامعي زكاة فقط", "is_correct": false },
+            { "choice_text": "كمعلمين", "is_correct": true },
+            { "choice_text": "لأنهما من أهل اليمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي إحدى أهم خصائص الصحابة في مواجهة البدع رغم اختلافهم في الفروع؟",
+        "difficulty_score": 600,
+        "explanation": "اتفاقهم الكامل على مجانبة البدع والاتجاهات المنحرفة.",
+        "choices": [
+            { "choice_text": "الصمت تجاهها", "is_correct": false },
+            { "choice_text": "الاتفاق على مجانبتها", "is_correct": true },
+            { "choice_text": "تبني بعضها", "is_correct": false },
+            { "choice_text": "تجاهلها تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'البيان النبوي' الذي ركزت عليه السلسلة لآية {وَيُزَكِّيهِمْ}؟",
+        "difficulty_score": 700,
+        "explanation": "ليس البيان اللفظي، بل تتبع كيفية تربية النبي ﷺ للصحابة إيمانياً.",
+        "choices": [
+            { "choice_text": "تعريف الكلمة لغوياً", "is_correct": false },
+            { "choice_text": "تتبع الممارسة التربوية النبوية", "is_correct": true },
+            { "choice_text": "ذكر أسباب نزول الآية", "is_correct": false },
+            { "choice_text": "عد حروف الكلمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة ذكرت دعاء إبراهيم عليه السلام ببعثة النبي ﷺ بالوظائف الثلاث؟",
+        "difficulty_score": 250,
+        "explanation": "ورد ذلك في سورة البقرة: {رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ تَتْلُو عَلَيْهِمْ آيَاتِكَ...}.",
+        "choices": [
+            { "choice_text": "سورة آل عمران", "is_correct": false },
+            { "choice_text": "سورة البقرة", "is_correct": true },
+            { "choice_text": "سورة الجمعة", "is_correct": false },
+            { "choice_text": "سورة إبراهيم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يمثل 'الفقه في الدين' كثمرة ثانية للسيرة وفق المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "تحقيق فهم عميق للمنهج الإصلاحي لا يقتصر على الأدوات النظرية.",
+        "choices": [
+            { "choice_text": "حفظ المتون الفقهية", "is_correct": false },
+            { "choice_text": "فهم المنهج الإصلاحي بعمق", "is_correct": true },
+            { "choice_text": "معرفة خلافات المذاهب", "is_correct": false },
+            { "choice_text": "دراسة التاريخ المعاصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى الآية {لا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ} بعد وفاة النبي ﷺ؟",
+        "difficulty_score": 650,
+        "explanation": "مقتضاها عدم تقديم أي شيء على سنة النبي ﷺ وهديه.",
+        "choices": [
+            { "choice_text": "خاصة بوقت حياته ﷺ فقط", "is_correct": false },
+            { "choice_text": "عدم تقديم شيء على سنته ﷺ", "is_correct": true },
+            { "choice_text": "عدم المشي أمامه", "is_correct": false },
+            { "choice_text": "عدم الكلام بحضرته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المادة التي 'تزين البناء' وتملأ داخله في تشبيه الهدي النبوي؟",
+        "difficulty_score": 450,
+        "explanation": "تمثل 'كتب السنن' المادة الداخلية التي تزين البناء (الهيكل).",
+        "choices": [
+            { "choice_text": "كتب التاريخ", "is_correct": false },
+            { "choice_text": "كتب السنن", "is_correct": true },
+            { "choice_text": "كتب اللغة", "is_correct": false },
+            { "choice_text": "كتب الفلسفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي مما يلي يعتبره المصدر 'عبادة شريفة'؟",
+        "difficulty_score": 150,
+        "explanation": "تتبع أحوال النبي ﷺ للخروج بالعبر والفوائد هو من العبادات الشريفة.",
+        "choices": [
+            { "choice_text": "تتبع أحوال النبي ﷺ للعبرة", "is_correct": true },
+            { "choice_text": "قراءة القصص الخيالية", "is_correct": false },
+            { "choice_text": "دراسة الكيمياء", "is_correct": false },
+            { "choice_text": "تأليف الدواوين الشعرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو 'أحسن الهدي'؟",
+        "difficulty_score": 100,
+        "explanation": "كما في الحديث: 'وإن خير الهدي هدي محمد ﷺ'.",
+        "choices": [
+            { "choice_text": "هدي الفلاسفة", "is_correct": false },
+            { "choice_text": "هدي محمد ﷺ", "is_correct": true },
+            { "choice_text": "هدي المصلحين المعاصرين", "is_correct": false },
+            { "choice_text": "هدي الآباء والأجداد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'حضور القلب وحياته' في الشهادة لله ولرسوله؟",
+        "difficulty_score": 500,
+        "explanation": "هو الأمر الثاني (بجانب العلم) الذي يجعل الشهادة حقيقية ونافعة.",
+        "choices": [
+            { "choice_text": "أمر ثانوي غير ضروري", "is_correct": false },
+            { "choice_text": "شرط لجعل الشهادة حقيقية", "is_correct": true },
+            { "choice_text": "خاص بالأولياء فقط", "is_correct": false },
+            { "choice_text": "يغني عن العلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي قرنت المنة بالبعثة مع الأمر بذكر الله وشكره؟",
+        "difficulty_score": 200,
+        "explanation": "سورة البقرة آية 152: {فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلا تَكْفُرُونِ}.",
+        "choices": [
+            { "choice_text": "البقرة 152", "is_correct": true },
+            { "choice_text": "آل عمران 190", "is_correct": false },
+            { "choice_text": "النساء 1", "is_correct": false },
+            { "choice_text": "الفتح 29", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفارق الذي يصنعه تدارس السيرة في قلب 'المصلح'؟",
+        "difficulty_score": 700,
+        "explanation": "يزداد إدراكاً لعظم النعمة ويستند في خطواته الإصلاحية لنور النبوة.",
+        "choices": [
+            { "choice_text": "يصبح أكثر شهرة", "is_correct": false },
+            { "choice_text": "يستند لنور النبوة في إصلاحه", "is_correct": true },
+            { "choice_text": "ينسى الواقع المعاصر", "is_correct": false },
+            { "choice_text": "يكتفي بالمعلومات التاريخية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر أن 'الدين نصفان' (صبر وشكر)؟",
+        "difficulty_score": 300,
+        "explanation": "بناءً على أقوال أئمة المسلمين والآيات التي جمعت بين الصبار والشكور.",
+        "choices": [
+            { "choice_text": "لأنهما أسهل العبادات", "is_correct": false },
+            { "choice_text": "لشمولهما لكل أحوال المؤمن", "is_correct": true },
+            { "choice_text": "لأنهما لا يحتاجان لجهد", "is_correct": false },
+            { "choice_text": "لأن النبي ﷺ قال ذلك نصاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو نوع البيان الذي يكشف 'أبعاد المعنى' القرآني ولا يتوقف عليه فهمه؟",
+        "difficulty_score": 800,
+        "explanation": "هو تتبع أحوال النبي ﷺ (كالصبر) لبيان عمق المفهوم القرآني.",
+        "choices": [
+            { "choice_text": "البيان اللغوي", "is_correct": false },
+            { "choice_text": "البيان العملي المستمر", "is_correct": true },
+            { "choice_text": "التفسير بالرأي", "is_correct": false },
+            { "choice_text": "الترجمة الحرفية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال هرقل عن 'ادعاء الكذب' بعد سؤاله لأبي سفيان؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'ما كان ليدع الكذب على الناس ثم يذهب فيكذب على الله'.",
+        "choices": [
+            { "choice_text": "أنه كاذب بلا شك", "is_correct": false },
+            { "choice_text": "استحالة كذبه على الله", "is_correct": true },
+            { "choice_text": "أنه يريد الملك", "is_correct": false },
+            { "choice_text": "أنه يتبع الهوى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي مما يلي يعتبره المصدر 'أعظم ما يستوجب الشكر'؟",
+        "difficulty_score": 400,
+        "explanation": "النعمة الدينية (الهداية والبعثة) أعظم من النعمة الدنيوية.",
+        "choices": [
+            { "choice_text": "الصحة والعافية", "is_correct": false },
+            { "choice_text": "النعمة الدينية (الهداية)", "is_correct": true },
+            { "choice_text": "الرزق والمال", "is_correct": false },
+            { "choice_text": "الأمن والأمان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر 'المدرسة النبوية' مقارنة بالمشاريع الدعوية المعاصرة؟",
+        "difficulty_score": 750,
+        "explanation": "المدرسة النبوية تُدرس من جهة ما قدمت (المعلم) ومن جهة المستفيدين (الصحابة).",
+        "choices": [
+            { "choice_text": "أنها أقل تنظيماً", "is_correct": false },
+            { "choice_text": "أنها نموذج شمولي للمعلم والمتعلم", "is_correct": true },
+            { "choice_text": "أنها تاريخية فقط", "is_correct": false },
+            { "choice_text": "أنها لا تصلح لواقعنا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي غاية تتبع 'أحوال النبي ﷺ في بيته'؟",
+        "difficulty_score": 550,
+        "explanation": "زيادة الإيمان بصدقه ﷺ من خلال رؤية تعبده وأخلاقه الخاصة.",
+        "choices": [
+            { "choice_text": "حب الاستطلاع فقط", "is_correct": false },
+            { "choice_text": "زيادة الإيمان بصدقه", "is_correct": true },
+            { "choice_text": "معرفة أنواع الطعام", "is_correct": false },
+            { "choice_text": "دراسة العمارة الإسلامية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المعيار' الذي يجب أن نقيس عليه الأمور وفق المصدر؟",
+        "difficulty_score": 200,
+        "explanation": "واجب أن يكون هدي النبي ﷺ هو المعيار الذي نقيس الأمور عليه.",
+        "choices": [
+            { "choice_text": "العقل المجرد", "is_correct": false },
+            { "choice_text": "هدي النبي ﷺ", "is_correct": true },
+            { "choice_text": "رأي الأغلبية", "is_correct": false },
+            { "choice_text": "كلام الفلاسفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الوظائف الثلاث التي بعث الله بها النبي ﷺ كما وردت في سورتي البقرة وآل عمران؟",
+        "difficulty_score": 150,
+        "explanation": "ذكر المصدر أن وظائف البعثة هي: تلاوة الآيات، التزكية، وتعليم الكتاب والحكمة [22، 23].",
+        "choices": [
+            { "choice_text": "التلاوة، والجهاد، والحكم", "is_correct": false },
+            { "choice_text": "التلاوة، والتزكية، وتعليم الكتاب والحكمة", "is_correct": true },
+            { "choice_text": "الصلاة، والزكاة، والحج", "is_correct": false },
+            { "choice_text": "العدل، والمساواة، والحرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ نفسه في الحديث الذي يشير إلى دعاء أبيه إبراهيم عليه السلام؟",
+        "difficulty_score": 250,
+        "explanation": "روي عن النبي ﷺ قوله عن نبوته: 'دعوة أبي إبراهيم' [1].",
+        "choices": [
+            { "choice_text": "أنا خاتم الأنبياء", "is_correct": false },
+            { "choice_text": "أنا دعوة أبي إبراهيم", "is_correct": true },
+            { "choice_text": "أنا رسول السلام", "is_correct": false },
+            { "choice_text": "أنا نبي الملحمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المصطلح الذي يفضله المحاضر لوصف العلاقة بين المعلم (النبي ﷺ) والمتعلمين (الصحابة)؟",
+        "difficulty_score": 300,
+        "explanation": "يفضل المحاضر استعمال كلمة 'المدرسة النبوية' ليشمل المعلم والمتعلمين معاً [2].",
+        "choices": [
+            { "choice_text": "الكتّاب النبوي", "is_correct": false },
+            { "choice_text": "المجلس النبوي", "is_correct": false },
+            { "choice_text": "المدرسة النبوية", "is_correct": true },
+            { "choice_text": "الحلقة النبوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر المصدر أن دراسة 'أحوال الصحابة' جزء لا يتجزأ من دراسة السيرة؟",
+        "difficulty_score": 450,
+        "explanation": "لأن دراسة الثمار (المستفيدين) تكشف عن طبيعة الهدي النبوي وعبقرية المعلم ﷺ [3].",
+        "choices": [
+            { "choice_text": "للتسلية بقصصهم", "is_correct": false },
+            { "choice_text": "لأنها تكشف عن عبقرية المعلم ﷺ", "is_correct": true },
+            { "choice_text": "لمعرفة أنساب العرب", "is_correct": false },
+            { "choice_text": "لأنهم عاشوا في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي إحدى أهم الوسائل الموصلة إلى 'التزكية' في المدرسة النبوية؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر المصدر أن 'التربية' هي من أهم وسائل الوصول إلى التزكية [4].",
+        "choices": [
+            { "choice_text": "التربية", "is_correct": true },
+            { "choice_text": "الاعتزال", "is_correct": false },
+            { "choice_text": "الفلسفة", "is_correct": false },
+            { "choice_text": "الشعر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يمكن استنباطه من 'إرسال السرايا' التي لم يشارك فيها النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "كشف ذلك عن وجود معايير اختيار معينة للرشيح وتكليف القادة في المدرسة النبوية [28، 29].",
+        "choices": [
+            { "choice_text": "أن النبي ﷺ كان يتعب من السفر", "is_correct": false },
+            { "choice_text": "وجود معايير لاختيار وتكليف القادة", "is_correct": true },
+            { "choice_text": "قلة عدد المقاتلين", "is_correct": false },
+            { "choice_text": "عدم أهمية تلك المعارك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بأي صفة أرسل النبي ﷺ معاذ بن جبل وأبا موسى الأشعري إلى اليمن؟",
+        "difficulty_score": 400,
+        "explanation": "أرسلهما النبي ﷺ بصفتهما 'معلمين' [5].",
+        "choices": [
+            { "choice_text": "جباة ضرائب", "is_correct": false },
+            { "choice_text": "معلمين", "is_correct": true },
+            { "choice_text": "تجاراً", "is_correct": false },
+            { "choice_text": "سفراء سياسيين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الظاهرة التي برزت بعد وفاة النبي ﷺ وواجهها الصحابة باتفاق؟",
+        "difficulty_score": 550,
+        "explanation": "ظهرت البدع (كالقدر والتشيع والخوارج)، واتفق الصحابة على مجانبتها [30، 31].",
+        "choices": [
+            { "choice_text": "ترك الصلاة", "is_correct": false },
+            { "choice_text": "ظهور البدع", "is_correct": true },
+            { "choice_text": "الهجرة إلى خارج الجزيرة", "is_correct": false },
+            { "choice_text": "الاشتغال بالفلسفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر المصدر ثبات الصحابة ضد البدع رغم اختلافهم في بعض القضايا؟",
+        "difficulty_score": 650,
+        "explanation": "أعاد ذلك إلى 'ما قُدم لهم في المدرسة النبوية' من حصانة ويقين [6].",
+        "choices": [
+            { "choice_text": "لقوتهم العسكرية", "is_correct": false },
+            { "choice_text": "لأثر تربية المدرسة النبوية فيهم", "is_correct": true },
+            { "choice_text": "بسبب عاداتهم القبلية", "is_correct": false },
+            { "choice_text": "لأنهم لم يعرفوا الفلسفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الثمرة الأولى التي يجب أن يخرج بها دارس السيرة للمصلحين؟",
+        "difficulty_score": 200,
+        "explanation": "الثمرة الأولى هي 'الهداية' [7].",
+        "choices": [
+            { "choice_text": "الثقافة العامة", "is_correct": false },
+            { "choice_text": "الهداية", "is_correct": true },
+            { "choice_text": "التاريخ العسكري", "is_correct": false },
+            { "choice_text": "الأدب العربي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد بـ 'الهداية الإصلاحية' في سياق دراسة السيرة؟",
+        "difficulty_score": 600,
+        "explanation": "هي الهداية التي تعنى باستنباط مراكز التأثير والمنهج الإصلاحي في حياة النبي ﷺ [34، 35].",
+        "choices": [
+            { "choice_text": "حفظ أسماء الغزوات", "is_correct": false },
+            { "choice_text": "استنباط المنهج الإصلاحي النبوي", "is_correct": true },
+            { "choice_text": "معرفة تواريخ الوفاة", "is_correct": false },
+            { "choice_text": "دراسة الجغرافيا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، هل تكفي 'الأدوات المعرفية النظرية' (كأصول الفقه) لتحقيق الفقه في الدين؟",
+        "difficulty_score": 750,
+        "explanation": "لا تكفي وحدها، بل هي أدوات مساعدة تحتاج إلى مكملات كصدق النية وإدامة النظر في الهدي النبوي [8].",
+        "choices": [
+            { "choice_text": "نعم، هي كافية تماماً", "is_correct": false },
+            { "choice_text": "لا، بل هي أدوات مساعدة تحتاج لمكملات", "is_correct": true },
+            { "choice_text": "لا حاجة لها أصلاً", "is_correct": false },
+            { "choice_text": "هي كافية للأذكياء فقط", "is_correct": false }
+        ]
+    },
+    { "question_text": "ما هو المكمل الأساسي للأدوات النظرية للوصول للفقه الصحيح في الدين؟",
+        "difficulty_score": 700,
+        "explanation": "إدامة النظر في هدي النبي ﷺ بشقيه التفصيلي والشمولي [8].",
+        "choices": [
+            { "choice_text": "قراءة كتب التاريخ الحديث", "is_correct": false },
+            { "choice_text": "إدامة النظر في هدي النبي ﷺ", "is_correct": true },
+            { "choice_text": "تعلم المنطق اليوناني", "is_correct": false },
+            { "choice_text": "الاكتفاء بدراسة اللغة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف استطاع المحدثون الثقات نقد بعض الأحاديث التي قد يشتبه لفظها بلفظ النبي ﷺ؟",
+        "difficulty_score": 800,
+        "explanation": "من خلال خيرة اكتسبوها من 'شدة ملازمتهم لألفاظ الحديث النبوي' [9].",
+        "choices": [
+            { "choice_text": "عن طريق الحدس فقط", "is_correct": false },
+            { "choice_text": "بسبب شدة ملازمة الألفاظ النبوية", "is_correct": true },
+            { "choice_text": "باستخدام أجهزة الكمبيوتر", "is_correct": false },
+            { "choice_text": "بناءً على رأي الحكام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة بكاء أبي بكر، ما هو المعنى الذي فهمه ولم يفهمه الصحابة في حينها؟",
+        "difficulty_score": 850,
+        "explanation": "فهم أن 'العبد المخير' هو النبي ﷺ وأن أجله قد اقترب [40، 41].",
+        "choices": [
+            { "choice_text": "أن هناك كنزاً مدفوناً", "is_correct": false },
+            { "choice_text": "أن النبي ﷺ سيعيش طويلاً", "is_correct": false },
+            { "choice_text": "أن أجل النبي ﷺ قد اقترب", "is_correct": true },
+            { "choice_text": "أن المسلمين سيفتحون روما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الدلالة التي اعتمد عليها أبو بكر الصديق لفهم حديث العبد المخير؟",
+        "difficulty_score": 900,
+        "explanation": "اعتمد على 'دلالة الحال' لشدة ملازمته للنبي ﷺ [10].",
+        "choices": [
+            { "choice_text": "الدلالة اللفظية اللغوية فقط", "is_correct": false },
+            { "choice_text": "دلالة الحال والمعرفة بالأحوال النبوية", "is_correct": true },
+            { "choice_text": "أخبار من صحابة آخرين", "is_correct": false },
+            { "choice_text": "رؤيا رآها في المنام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر المشتغلين بأصول الفقه الذين استعملوه لتأييد العقيدة الاعتزالية؟",
+        "difficulty_score": 750,
+        "explanation": "ذكرهم كمثال على الخلل في التعامل مع العلوم كأدوات 'آلية صامتة' بعيداً عن أبعاد الوحي [11].",
+        "choices": [
+            { "choice_text": "أنهم قدوة في العلم", "is_correct": false },
+            { "choice_text": "مثال على تجريد العلم عن أبعاد الوحي", "is_correct": true },
+            { "choice_text": "أنهم أفضل من فهم السيرة", "is_correct": false },
+            { "choice_text": "أنهم لم يدرسوا اللغة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الثمرة الثالثة والأخيرة التي ذكرها المصدر لدراسة السيرة؟",
+        "difficulty_score": 300,
+        "explanation": "زيادة الإيمان واليقين بشهادة أن محمداً رسول الله [12].",
+        "choices": [
+            { "choice_text": "تعلم فن القتال", "is_correct": false },
+            { "choice_text": "زيادة الإيمان واليقين بالرسالة", "is_correct": true },
+            { "choice_text": "معرفة قصص الأنبياء السابقين", "is_correct": false },
+            { "choice_text": "إتقان اللغة العربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي تستلزمه كلمة 'أشهد' في الشهادة لله ولرسوله وفقاً للمصدر؟",
+        "difficulty_score": 450,
+        "explanation": "تستلزم العلم بحقيقة ما يشهد به [13].",
+        "choices": [
+            { "choice_text": "الحفظ فقط", "is_correct": false },
+            { "choice_text": "العلم", "is_correct": true },
+            { "choice_text": "السرعة في النطق", "is_correct": false },
+            { "choice_text": "رفع الصوت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بأي آية استشهد المصدر على قيمة شهادة 'أولو العلم'؟",
+        "difficulty_score": 400,
+        "explanation": "قوله تعالى في آل عمران: {شَهِدَ اللَّهُ أَنَّهُ لا إِلَهَ إِلا هُوَ وَالْمَلائِكَةُ وَأُولُو الْعِلْمِ} [14].",
+        "choices": [
+            { "choice_text": "آية الكرسي", "is_correct": false },
+            { "choice_text": "آل عمران الآية 18", "is_correct": true },
+            { "choice_text": "سورة الإخلاص", "is_correct": false },
+            { "choice_text": "سورة النصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هما الأمران اللذان يجعلان الإنسان 'يشهد الشهادة' بحق؟",
+        "difficulty_score": 600,
+        "explanation": "1- العلم بمقتضاها، 2- حضور القلب وحياته والبعد عن الغفلة [15].",
+        "choices": [
+            { "choice_text": "الصوت الحسن والقراءة السريعة", "is_correct": false },
+            { "choice_text": "العلم وحضور القلب وحياته", "is_correct": true },
+            { "choice_text": "كثرة الكلام والجدل", "is_correct": false },
+            { "choice_text": "حفظ التواريخ والأماكن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر الذي يتركه 'حجاب الغفلة' على العلم؟",
+        "difficulty_score": 500,
+        "explanation": "قد يجعل العلم يغيب أو يستر رغم وجوده نظرياً [16].",
+        "choices": [
+            { "choice_text": "يزيد العلم قوة", "is_correct": false },
+            { "choice_text": "يستر العلم ويغيبه", "is_correct": true },
+            { "choice_text": "لا أثر له", "is_correct": false },
+            { "choice_text": "يساعد على الحفظ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي قاله النبي ﷺ بعد معجزة تكثير الطعام في إحدى الغزوات؟",
+        "difficulty_score": 650,
+        "explanation": "قال: 'أشهد أن لا إله إلا الله وأني رسول الله' [17].",
+        "choices": [
+            { "choice_text": "الحمد لله على الشبع", "is_correct": false },
+            { "choice_text": "أشهد أن لا إله إلا الله وأني رسول الله", "is_correct": true },
+            { "choice_text": "لا تأكلوا كثيراً", "is_correct": false },
+            { "choice_text": "أين بقية الطعام؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفارق الجوهري في قراءة القرآن بـ 'البصيرة'؟",
+        "difficulty_score": 800,
+        "explanation": "هو استحضار يقيني بأن هذا كلام الخالق الموجه لهداية البشر للآخرة [50، 51].",
+        "choices": [
+            { "choice_text": "التجويد المتقن فقط", "is_correct": false },
+            { "choice_text": "الاستحضار اليقيني لكلام الخالق للهداية", "is_correct": true },
+            { "choice_text": "ختم القرآن في يوم واحد", "is_correct": false },
+            { "choice_text": "حفظ أرقام الآيات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين يكمن الخطأ في حصر 'دلائل النبوة' وفقاً للمصدر؟",
+        "difficulty_score": 700,
+        "explanation": "يكمن في حصرها فقط في المعجزات الحسية وإغفال معرفة أحواله ﷺ [52، 53].",
+        "choices": [
+            { "choice_text": "في دراسة اللغة", "is_correct": false },
+            { "choice_text": "في حصرها في المعجزات الحسية فقط", "is_correct": true },
+            { "choice_text": "في قراءة السيرة", "is_correct": false },
+            { "choice_text": "في حفظ القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي كان يبحث عنه هرقل في أسئلته لأبي سفيان؟",
+        "difficulty_score": 600,
+        "explanation": "كان يبحث عن 'أحوال النبي ﷺ' ليتثبت من صدق نبوته [53، 54].",
+        "choices": [
+            { "choice_text": "عن كنوز مكة", "is_correct": false },
+            { "choice_text": "عن أحوال النبي ﷺ وتفاصيل حياته", "is_correct": true },
+            { "choice_text": "عن عدد خيول المسلمين", "is_correct": false },
+            { "choice_text": "عن جمال نساء العرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل هرقل على استحالة كذب النبي ﷺ على الله؟",
+        "difficulty_score": 750,
+        "explanation": "استدل بأنه 'ما كان ليدع الكذب على الناس ثم يذهب فيكذب على الله' [18].",
+        "choices": [
+            { "choice_text": "لأنه رآه يصلي", "is_correct": false },
+            { "choice_text": "لأنه لم يكذب على الناس أبداً", "is_correct": true },
+            { "choice_text": "لأن أبا سفيان كان يحبه", "is_correct": false },
+            { "choice_text": "لأنه قرأ الإنجيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي خاطب الله بها المشركين منكراً عليهم جحدهم للرسول رغم معرفتهم به؟",
+        "difficulty_score": 400,
+        "explanation": "قوله تعالى: {أَمْ لَمْ يَعْرِفُوا رَسُولَهُمْ فَهُمْ لَهُ مُنكِرُونَ} [18].",
+        "choices": [
+            { "choice_text": "سورة المؤمنون 69", "is_correct": true },
+            { "choice_text": "سورة البقرة 1", "is_correct": false },
+            { "choice_text": "سورة الفاتحة", "is_correct": false },
+            { "choice_text": "سورة الكوثر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدليل الذي ذكره النبي ﷺ لقومه في سورة يونس لإثبات صدقه؟",
+        "difficulty_score": 500,
+        "explanation": "قوله تعالى: {فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِّن قَبْلِهِ ۚ أَفَلَا تَعْقِلُونَ} [18].",
+        "choices": [
+            { "choice_text": "انشقاق القمر", "is_correct": false },
+            { "choice_text": "ملازمته لهم عمراً طويلاً قبل الوحي", "is_correct": true },
+            { "choice_text": "قوته الجسدية", "is_correct": false },
+            { "choice_text": "نسبه الشريف فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف ابن أبي العز الحنفي قضية التباس الصادق بالكاذب في ادعاء النبوة؟",
+        "difficulty_score": 850,
+        "explanation": "قال: 'لا يلتبس هذا بهذا إلا على أجهل الجاهلين' [19].",
+        "choices": [
+            { "choice_text": "أنها قضية معقدة جداً", "is_correct": false },
+            { "choice_text": "لا يلتبس إلا على أجهل الجاهلين", "is_correct": true },
+            { "choice_text": "أنها تحتاج لفلسفة عميقة", "is_correct": false },
+            { "choice_text": "أن الناس كلهم يفهمونها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هي المواقف التي تزيد الإيمان بصدقه ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "معرفة أحواله ﷺ عند الشدائد والأزمات الكبرى وفي بيته [56، 57].",
+        "choices": [
+            { "choice_text": "رؤية صوره التخيلية", "is_correct": false },
+            { "choice_text": "معرفة أحواله عند الأزمات وفي بيته", "is_correct": true },
+            { "choice_text": "دراسة تاريخ قريش قبل الإسلام", "is_correct": false },
+            { "choice_text": "معرفة أسماء أعدائه فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'البيان العام' الذي تقدمه السيرة للقرآن الكريم؟",
+        "difficulty_score": 900,
+        "explanation": "هو الكشف عن 'أبعاد المعاني' القرآنية (كالصبر) من خلال الواقع العملي [20].",
+        "choices": [
+            { "choice_text": "مجرد ترجمة الكلمات", "is_correct": false },
+            { "choice_text": "كشف أبعاد المعاني من خلال الواقع العملي", "is_correct": true },
+            { "choice_text": "إعراب الآيات", "is_correct": false },
+            { "choice_text": "ذكر أسباب النزول اللفظية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يمكن فهم بيان آية {وَيُزَكِّيهِمْ} وفقاً لمنهج السلسلة؟",
+        "difficulty_score": 800,
+        "explanation": "بتتبع طبيعة تعامله مع الصحابة إيمانياً وكيف رباهم فعلياً [21].",
+        "choices": [
+            { "choice_text": "بالبحث عن معنى الكلمة في القاموس", "is_correct": false },
+            { "choice_text": "بتتبع ممارسته التربوية مع الصحابة", "is_correct": true },
+            { "choice_text": "بحفظ الأحاديث التي فيها كلمة تزكية", "is_correct": false },
+            { "choice_text": "بدراسة علم النفس المعاصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي مما يلي يعد مثالاً لبيان السيرة العملي لآيات الصبر؟",
+        "difficulty_score": 700,
+        "explanation": "تتبع أحوال المصطفى ﷺ وقصصه في الصبر وربطها بالآيات [62، 63].",
+        "choices": [
+            { "choice_text": "عد مرات ورود كلمة صبر", "is_correct": false },
+            { "choice_text": "تتبع قصص صبره ﷺ وربطها بالآيات", "is_correct": true },
+            { "choice_text": "قراءة قصص الصابرين في التاريخ", "is_correct": false },
+            { "choice_text": "الصمت التام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الطلب الذي اختتم به المحاضر في دعائه بخصوص 'السنة'؟",
+        "difficulty_score": 150,
+        "explanation": "سأل الله أن يرزقهم 'تعظيم سنته ﷺ وتقديمها على غيرها' [22].",
+        "choices": [
+            { "choice_text": "حفظ السنة فقط", "is_correct": false },
+            { "choice_text": "تعظيم السنة وتقديمها على غيرها", "is_correct": true },
+            { "choice_text": "نسيان السنة", "is_correct": false },
+            { "choice_text": "كتابة السنة بالذهب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الغاية النهائية التي يرجوها المسلم من رفقته للنبي ﷺ؟",
+        "difficulty_score": 100,
+        "explanation": "مرافقته وصحبته في الجنة [23].",
+        "choices": [
+            { "choice_text": "الشهرة في الدنيا", "is_correct": false },
+            { "choice_text": "مرافقته وصحبته في الجنة", "is_correct": true },
+            { "choice_text": "رؤية الملائكة", "is_correct": false },
+            { "choice_text": "تعلم اللغة العبرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، لماذا يعد 'تدارس السيرة' عبادة؟",
+        "difficulty_score": 250,
+        "explanation": "لأنه وسيلة لمعرفة أحوال النبي ﷺ وشكر الله على نعمة البعثة [2، 10].",
+        "choices": [
+            { "choice_text": "لأنه واجب وطني", "is_correct": false },
+            { "choice_text": "لأنه وسيلة لشكر الله على نعمة البعثة", "is_correct": true },
+            { "choice_text": "لأنه مادة دراسية فقط", "is_correct": false },
+            { "choice_text": "لأنه يقوي الذاكرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال جندب بن عبد الله عن حالهم في طلب العلم عند النبي ﷺ؟",
+        "difficulty_score": 350,
+        "explanation": "قال: 'كنا غلمان حزاورة عند رسول الله ﷺ' [24].",
+        "choices": [
+            { "choice_text": "كنا شيوخاً كباراً", "is_correct": false },
+            { "choice_text": "كنا غلمان حزاورة (مقاربي البلوغ)", "is_correct": true },
+            { "choice_text": "كنا غرباء", "is_correct": false },
+            { "choice_text": "كنا تجاراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي لإدراك 'نور المدرسة النبوية' لدى المصلح؟",
+        "difficulty_score": 550,
+        "explanation": "يدرك بوضوح مصدر خطواته الإصلاحية ويزداد شكره لله [10، 11].",
+        "choices": [
+            { "choice_text": "الغرور بالنفس", "is_correct": false },
+            { "choice_text": "إدراك مصدر الخطوات الإصلاحية واليقين", "is_correct": true },
+            { "choice_text": "الخوف من المستقبل", "is_correct": false },
+            { "choice_text": "الرغبة في الاعتزال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي استعيذ به في ختام مجلس المقدمة؟",
+        "difficulty_score": 200,
+        "explanation": "استعيذ بالله من 'شرور أنفسنا' [23].",
+        "choices": [
+            { "choice_text": "من الفقر", "is_correct": false },
+            { "choice_text": "من شرور الأنفس", "is_correct": true },
+            { "choice_text": "من الأعداء الخارجيين فقط", "is_correct": false },
+            { "choice_text": "من كثرة العلم", "is_correct": false }
+        ]
+    }
+]
+
+    }

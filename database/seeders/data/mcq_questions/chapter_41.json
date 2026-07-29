@@ -1,0 +1,920 @@
+    {
+    "chapter_id": 41,
+    "questions": [
+        {
+        "question_text": "ما هي الزاوية التقليدية التي يتناول من خلالها مؤلفو السيرة مرحلة ما قبل النبوة عادة؟",
+        "difficulty_score": 100,
+        "explanation": "أشار المصدر إلى أن الكتاب عادة يتناولون هذه المرحلة لإثبات عظمة النبي ﷺ أو ذكر الإرهاصات كقصر كسرى [5].",
+        "choices": [
+            { "choice_text": "إدراك جمال التشريعات الإسلامية", "is_correct": false },
+            { "choice_text": "إثبات الإرهاصات وعظمة النبي ﷺ", "is_correct": true },
+            { "choice_text": "فهم آيات القرآن الكريم", "is_correct": false },
+            { "choice_text": "دراسة عقائد أهل الكتاب بالتفصيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي صنم كان الأنصار يهلون له في الجاهلية وكان سبباً في تحرجهم من السعي؟",
+        "difficulty_score": 200,
+        "explanation": "ذكرت عائشة رضي الله عنها أنهم كانوا يهلون لـ 'مناة' التي كانت حذو قُديد [6].",
+        "choices": [
+            { "choice_text": "هبل", "is_correct": false },
+            { "choice_text": "اللات", "is_correct": false },
+            { "choice_text": "العزى", "is_correct": false },
+            { "choice_text": "مناة", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما هو التفسير الذي قدمه ابن عباس لقوله تعالى: 'ليس عليكم جناح أن تبتغوا فضلاً من ربكم'؟",
+        "difficulty_score": 300,
+        "explanation": "أوضح ابن عباس في صحيح البخاري أن 'ابتغاء الفضل' هو التجارة في مواسم الحج [7].",
+        "choices": [
+            { "choice_text": "الزيادة في العبادة", "is_correct": false },
+            { "choice_text": "التجارة في الحج", "is_correct": true },
+            { "choice_text": "طلب العلم", "is_correct": false },
+            { "choice_text": "صيد البحر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان 'الحُمس' يرفضون الوقوف بعرفات في الجاهلية؟",
+        "difficulty_score": 400,
+        "explanation": "كانوا يترفعون عن الناس ويقولون نحن أهل الله في حرمه فلا نخرج منه، فيقفون بمزدلفة [8، 9].",
+        "choices": [
+            { "choice_text": "لأنهم لا يعرفون الطريق", "is_correct": false },
+            { "choice_text": "بسبب كثرة الأصنام هناك", "is_correct": false },
+            { "choice_text": "تعظيماً لأنفسهم كأهل للحرم", "is_correct": true },
+            { "choice_text": "بسبب ضيق المكان في عرفات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو التابعي الذي استشكل ظاهر آية السعي بين الصفا والمروة وسأل عائشة عنها؟",
+        "difficulty_score": 300,
+        "explanation": "هو عروة بن الزبير حين جاء لخالته عائشة رضي الله عنها [6].",
+        "choices": [
+            { "choice_text": "سعيد بن المسيب", "is_correct": false },
+            { "choice_text": "عروة بن الزبير", "is_correct": true },
+            { "choice_text": "نافع مولى ابن عمر", "is_correct": false },
+            { "choice_text": "مجاهد بن جبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي تدل على 'النياحة وندب الميت' في الأحاديث النبوية؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر الشراح أن 'دعوى الجاهلية' تشمل النياحة وقول 'يا ويلي' عند المصيبة [8].",
+        "choices": [
+            { "choice_text": "دعوى الجاهلية", "is_correct": true },
+            { "choice_text": "الإرهاصات النبوية", "is_correct": false },
+            { "choice_text": "شرف النبي", "is_correct": false },
+            { "choice_text": "أمر الجاهلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث صحيح مسلم، ماذا كان يفعل الصحابة في المسجد بعد صلاة الغداة حتى تطلع الشمس؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يتحدثون في أمر الجاهلية ويضحكون، والنبي ﷺ يبتسم [16، 17].",
+        "choices": [
+            { "choice_text": "ينامون حتى الضحى", "is_correct": false },
+            { "choice_text": "يتحدثون في أمر الجاهلية", "is_correct": true },
+            { "choice_text": "يقرؤون الكتب السابقة", "is_correct": false },
+            { "choice_text": "يخرجون للتجارة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المنهجية التي اعتمدها المؤلف لإثبات أهمية مرحلة ما قبل النبوة؟",
+        "difficulty_score": 500,
+        "explanation": "المؤلف اعتمد منهجية 'عملية تطبيقية' من خلال ربط أحداث الجاهلية بفهم القرآن والسنة [5].",
+        "choices": [
+            { "choice_text": "المنهجية الفلسفية البحتة", "is_correct": false },
+            { "choice_text": "المنهجية التطبيقية العملية", "is_correct": true },
+            { "choice_text": "سرد القصص الخيالية", "is_correct": false },
+            { "choice_text": "الاكتفاء بذكر شرف النسب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى ماذا كانت ترمز 'رمي البعرة' في طقوس الأرامل في الجاهلية؟",
+        "difficulty_score": 600,
+        "explanation": "كانت إشارة لانقضاء سنة العدة الطويلة والشاقة التي كانت تقضيها المرأة في شر حال [1].",
+        "choices": [
+            { "choice_text": "إشارة لطلب الزواج مجدداً", "is_correct": false },
+            { "choice_text": "نهاية فترة الحداد (الحول)", "is_correct": true },
+            { "choice_text": "بدء موسم الحج", "is_correct": false },
+            { "choice_text": "طرد الأرواح الشريرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استشهد المؤلف بقوله تعالى: 'ما كنت تعلمها أنت ولا قومك من قبل هذا'؟",
+        "difficulty_score": 400,
+        "explanation": "ليثبت أن العلم بالغيبيات والقصص السابق في القرآن هو دليل على ربانيته لاستحالة معرفة العرب به [9].",
+        "choices": [
+            { "choice_text": "للدعوة إلى طلب العلم", "is_correct": false },
+            { "choice_text": "لإثبات ربانية القرآن", "is_correct": true },
+            { "choice_text": "لبيان فضل الصحابة", "is_correct": false },
+            { "choice_text": "للتشجيع على دراسة التاريخ العربي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي وصفه المؤلف بأنه 'أهم ما يدخل في سنة رسول الله ﷺ'؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المؤلف أن ما جمعه الإمام البخاري هو الأهم على الإطلاق [10].",
+        "choices": [
+            { "choice_text": "سنن الترمذي", "is_correct": false },
+            { "choice_text": "موطأ مالك", "is_correct": false },
+            { "choice_text": "صحيح البخاري", "is_correct": true },
+            { "choice_text": "فتح الباري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي خاطب أمير الفرس ووصف حال العرب بالعبادة للشجر والحجر؟",
+        "difficulty_score": 400,
+        "explanation": "هو المغيرة بن شعبة في القصة المذكورة بصحيح البخاري [13، 14].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "المغيرة بن شعبة", "is_correct": true },
+            { "choice_text": "النعمان بن مقرن", "is_correct": false },
+            { "choice_text": "عمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بآية 'ثم أفيضوا من حيث أفاض الناس'؟",
+        "difficulty_score": 500,
+        "explanation": "هي أمر للحُمس (قريش) بأن يفيضوا من عرفات مثل سائر الناس، بدلاً من مزدلفة [7، 8].",
+        "choices": [
+            { "choice_text": "الأمر بالخروج من مكة", "is_correct": false },
+            { "choice_text": "الإفاضة من عرفات للجميع", "is_correct": true },
+            { "choice_text": "تغيير موعد الحج", "is_correct": false },
+            { "choice_text": "الأمر بالطواف حول الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر ابن عباس سورة الأنعام فيما يخص حال العرب؟",
+        "difficulty_score": 700,
+        "explanation": "قال: 'إذا سرك أن تعلم جهل العرب فاقرأ ما فوق الثلاثين ومئة في سورة الأنعام' [33، 34].",
+        "choices": [
+            { "choice_text": "أنها نزلت في فضل قريش", "is_correct": false },
+            { "choice_text": "أنها دليل على توحيد العرب", "is_correct": false },
+            { "choice_text": "أنها تبين جهل العرب في الجاهلية", "is_correct": true },
+            { "choice_text": "أنها تتحدث عن رحلة الشتاء والصيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية نزلت رداً على طواف العرب عراة بالبيت؟",
+        "difficulty_score": 400,
+        "explanation": "هي قوله تعالى: 'يا بني آدم خذوا زينتكم عند كل مسجد' [2].",
+        "choices": [
+            { "choice_text": "إن الصفا والمروة", "is_correct": false },
+            { "choice_text": "يا بني آدم خذوا زينتكم", "is_correct": true },
+            { "choice_text": "وأتموا الحج والعمرة لله", "is_correct": false },
+            { "choice_text": "اليوم أكملت لكم دينكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النص الموجود في 'أسفار المزامير' ويتفق تماماً مع آية سورة الأنبياء؟",
+        "difficulty_score": 800,
+        "explanation": "النص هو: 'الصديقون يرثون الأرض ويسكنونها إلى الأبد' [11].",
+        "choices": [
+            { "choice_text": "الظالمون يذهبون للهاوية", "is_correct": false },
+            { "choice_text": "الصديقون يرثون الأرض", "is_correct": true },
+            { "choice_text": "العلم نور والجهل ظلام", "is_correct": false },
+            { "choice_text": "مباركة هي شعوب الأرض", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استنصرت قريش بأهل الكتاب ضد النبي ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "كانوا يذهبون إليهم ليطلبوا منهم أسئلة يعجز عنها النبي ﷺ لأنهم اعتبروهم 'أهل العلم' [12].",
+        "choices": [
+            { "choice_text": "بالسلاح والعتاد", "is_correct": false },
+            { "choice_text": "بالمال الوفير", "is_correct": false },
+            { "choice_text": "بالأسئلة العلمية والتعجيزية", "is_correct": true },
+            { "choice_text": "بالتحالفات العسكرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المبحث الشريف جداً' الذي ذكره المؤلف في الأمر الثاني؟",
+        "difficulty_score": 500,
+        "explanation": "هو معرفة عقائد أهل الجاهلية لتمييز مقدار ما صححه الإسلام [13].",
+        "choices": [
+            { "choice_text": "معرفة أنساب العرب", "is_correct": false },
+            { "choice_text": "دراسة لغة الجاهلية", "is_correct": false },
+            { "choice_text": "معرفة عقائد أهل الجاهلية", "is_correct": true },
+            { "choice_text": "حفظ أشعار الجاهلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المؤلف حديث 'الحج وعمرة تامة' أضعف إسناداً من حديث الجلوس حتى طلوع الشمس؟",
+        "difficulty_score": 900,
+        "explanation": "لأن حديث الجلوس موجود في صحيح مسلم، بينما الآخر في سنن الترمذي بإسناد ضعيف لا يصح [14].",
+        "choices": [
+            { "choice_text": "لأن رواته مجهولون", "is_correct": false },
+            { "choice_text": "لمخالفته لظاهر القرآن", "is_correct": false },
+            { "choice_text": "لأن حديث الجلوس في صحيح مسلم", "is_correct": true },
+            { "choice_text": "بسبب اختلاف الفقهاء فيه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه المؤلف على ابن عباس؟",
+        "difficulty_score": 300,
+        "explanation": "وصفه بـ 'الحَبْر المفسر' [3].",
+        "choices": [
+            { "choice_text": "الفاروق", "is_correct": false },
+            { "choice_text": "الحَبْر المفسر", "is_correct": true },
+            { "choice_text": "أمين الأمة", "is_correct": false },
+            { "choice_text": "سيف الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما الذي يجعل فهم بعض آيات القرآن 'لا يكمل'؟",
+        "difficulty_score": 500,
+        "explanation": "عدم معرفة ما كان يجري في الجاهلية مما نزلت الآيات بسببه [15].",
+        "choices": [
+            { "choice_text": "عدم حفظ اللغة العربية", "is_correct": false },
+            { "choice_text": "عدم معرفة أحوال الجاهلية", "is_correct": true },
+            { "choice_text": "إهمال دراسة الفقه", "is_correct": false },
+            { "choice_text": "عدم معرفة القراءات العشر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان يفتخر العرب قديماً وبقي نفعه في الإسلام؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المؤلف 'الجوار' كأحد الأمور الجاهلية التي انتفع منها النبي ﷺ وأصحابه [4].",
+        "choices": [
+            { "choice_text": "القمار", "is_correct": false },
+            { "choice_text": "الجوار", "is_correct": true },
+            { "choice_text": "وأد البنات", "is_correct": false },
+            { "choice_text": "الربا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العقيدة المركزية لدى أهل الكتاب التي نفاها القرآن صراحة؟",
+        "difficulty_score": 600,
+        "explanation": "هي عقيدة صلب المسيح عليه السلام [16].",
+        "choices": [
+            { "choice_text": "وجود الجنة والنار", "is_correct": false },
+            { "choice_text": "نبؤة موسى", "is_correct": false },
+            { "choice_text": "صلب المسيح", "is_correct": true },
+            { "choice_text": "تحريم الخنزير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أسلوب نكاح الجاهلية الوحيد الذي أبقاه الإسلام؟",
+        "difficulty_score": 700,
+        "explanation": "الصورة التي تُخطب فيها المرأة من وليها [3].",
+        "choices": [
+            { "choice_text": "نكاح الرهط", "is_correct": false },
+            { "choice_text": "نكاح الاستبضاع", "is_correct": false },
+            { "choice_text": "الخطبة من الولي", "is_correct": true },
+            { "choice_text": "نكاح البغايا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة التي انتهى إليها المجلس الثالث؟",
+        "difficulty_score": 200,
+        "explanation": "أنه من المهم جداً البدء بمرحلة ما قبل النبوة والبعثة لسعة فوائدها [4].",
+        "choices": [
+            { "choice_text": "البدء من الهجرة النبوية", "is_correct": false },
+            { "choice_text": "إهمال مرحلة ما قبل البعثة", "is_correct": false },
+            { "choice_text": "أهمية البدء بمرحلة ما قبل النبوة", "is_correct": true },
+            { "choice_text": "التركيز فقط على المعجزات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو معنى 'الزبور' في قوله تعالى 'ولقد كتبنا في الزبور' حسب سياق المصدر؟",
+        "difficulty_score": 800,
+        "explanation": "أشار السياق إلى توافقه مع 'الكتاب المقدس' أو مزامير داود التي تحتوي نفس النص [31، 32].",
+        "choices": [
+            { "choice_text": "اللوح المحفوظ", "is_correct": false },
+            { "choice_text": "كتب الأنبياء عامة", "is_correct": true },
+            { "choice_text": "صحف إبراهيم", "is_correct": false },
+            { "choice_text": "التوراة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو شعور عائشة رضي الله عنها تجاه أنواع النكاح في الجاهلية؟",
+        "difficulty_score": 600,
+        "explanation": "وصفته بلفظ 'هدم' دلالة على الفساد الذي كان فيه [3].",
+        "choices": [
+            { "choice_text": "الإعجاب بالتنوع", "is_correct": false },
+            { "choice_text": "استحضار أنواع الفساد فيها", "is_correct": true },
+            { "choice_text": "الرغبة في استبقائها", "is_correct": false },
+            { "choice_text": "اعتبارها غير مؤثرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أبو الحسين' الذي ذكره المؤلف كأحد كبار أئمة السنة؟",
+        "difficulty_score": 400,
+        "explanation": "هو الإمام مسلم بن الحجاج النيسابوري [10].",
+        "choices": [
+            { "choice_text": "البخاري", "is_correct": false },
+            { "choice_text": "مسلم", "is_correct": true },
+            { "choice_text": "أبو داود", "is_correct": false },
+            { "choice_text": "النسائي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللباس الذي كان يرتديه العرب قبل الإسلام كما وصفه المغيرة؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر أنهم كانوا يلبسون 'الوبر والشعر' [17].",
+        "choices": [
+            { "choice_text": "الحرير والديباج", "is_correct": false },
+            { "choice_text": "الوبر والشعر", "is_correct": true },
+            { "choice_text": "القطن والكتان", "is_correct": false },
+            { "choice_text": "جلود النمور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن 'معادن الناس'؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'الناس معادن، خيارهم في الجاهلية خيارهم في الإسلام، إذا فقهوا' [4].",
+        "choices": [
+            { "choice_text": "أنها تتغير بالمال", "is_correct": false },
+            { "choice_text": "خيارهم في الجاهلية خيارهم في الإسلام", "is_correct": true },
+            { "choice_text": "أن المعادن لا تنفع في الدين", "is_correct": false },
+            { "choice_text": "أن الإسلام يمسح المعادن السابقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان يقع صنم مناة؟",
+        "difficulty_score": 400,
+        "explanation": "كان عند منطقة تسمى 'قُديد' [6].",
+        "choices": [
+            { "choice_text": "في بطن مكة", "is_correct": false },
+            { "choice_text": "عند جبل عرفات", "is_correct": false },
+            { "choice_text": "حذو قُديد", "is_correct": true },
+            { "choice_text": "في الطائف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التحدي الواضح الذي وجهه الله للعرب في القرآن؟",
+        "difficulty_score": 500,
+        "explanation": "التحدي بأن يأتوا بمثل هذا القرآن رغم معرفتهم بأحوالهم وقصور علمهم [18].",
+        "choices": [
+            { "choice_text": "بناء الكعبة مجدداً", "is_correct": false },
+            { "choice_text": "أن يأتوا بمثل هذا القرآن", "is_correct": true },
+            { "choice_text": "التوقف عن التجارة", "is_correct": false },
+            { "choice_text": "هجر الأوطان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة 'الاستطرادية' التي ذكرها المؤلف عن البخاري ومسلم؟",
+        "difficulty_score": 400,
+        "explanation": "بيان مقدار العلم والشمولية الموجود فيهما فوق ما يتصوره طلاب العلم [19].",
+        "choices": [
+            { "choice_text": "طريقة ترتيب الأبواب", "is_correct": false },
+            { "choice_text": "مقدار العلم والشمولية فيهما", "is_correct": true },
+            { "choice_text": "عدد الأحاديث الضعيفة فيهما", "is_correct": false },
+            { "choice_text": "تاريخ ولادة المؤلفين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي القرآن العلم الذي يذكره عن الغيب بـ 'نبأ'؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه أخبار عن أمور غائبة لم يكن النبي ﷺ ولا قومه يعلمونها [9].",
+        "choices": [
+            { "choice_text": "لأنه مجرد قصص للتسلية", "is_correct": false },
+            { "choice_text": "إشارة لصدق المصدر وربانيته", "is_correct": true },
+            { "choice_text": "لأنها لغة أهل الجاهلية", "is_correct": false },
+            { "choice_text": "للدلالة على المستقبل فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أسلوب التفسير 'العكسي' الذي أشار إليه المؤلف عن ابن عباس؟",
+        "difficulty_score": 850,
+        "explanation": "الاستدلال بالقرآن لمعرفة أحوال العرب قبل الإسلام (من القرآن إلى الواقع) [20].",
+        "choices": [
+            { "choice_text": "تفسير القرآن بكتب أهل الكتاب", "is_correct": false },
+            { "choice_text": "تفسير القرآن بالشعر الجاهلي", "is_correct": false },
+            { "choice_text": "الاستدلال بالقرآن على أحوال الجاهلية", "is_correct": true },
+            { "choice_text": "رفض التفسير بالرأي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل النبي ﷺ بعد صلاة الصبح حسب صحيح مسلم؟",
+        "difficulty_score": 300,
+        "explanation": "كان يجلس في مصلاه حتى تطلع الشمس [21].",
+        "choices": [
+            { "choice_text": "يخرج للسوق فوراً", "is_correct": false },
+            { "choice_text": "يجلس في مصلاه حتى تطلع الشمس", "is_correct": true },
+            { "choice_text": "ينام في المسجد", "is_correct": false },
+            { "choice_text": "يزور أهل بيته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الإرهاصات' المذكورة في المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "أحداث سبقت النبوة مثل سقوط شرفات كسرى وانطفاء نار المجوس [2، 3].",
+        "choices": [
+            { "choice_text": "أسماء غزوات النبي", "is_correct": false },
+            { "choice_text": "أحداث سبقت النبوة (مثل سقوط شرفات كسرى)", "is_correct": true },
+            { "choice_text": "أنواع السيوف الجاهلية", "is_correct": false },
+            { "choice_text": "أسماء أصنام قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي عقيدة العرب في 'الحول' (السنة) بالنسبة للأرملة؟",
+        "difficulty_score": 500,
+        "explanation": "كانت فترة حداد طويلة جداً ومهينة للمرأة [12، 13].",
+        "choices": [
+            { "choice_text": "سنة من الاحتفالات", "is_correct": false },
+            { "choice_text": "فترة حداد مهينة وشاقة", "is_correct": true },
+            { "choice_text": "وقت لجمع المال", "is_correct": false },
+            { "choice_text": "رحلة للبحث عن زوج جديد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء هو 'أبو عبد الله' المذكور في المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "هو الإمام محمد بن إسماعيل البخاري [10].",
+        "choices": [
+            { "choice_text": "الإمام أحمد بن حنبل", "is_correct": false },
+            { "choice_text": "الإمام البخاري", "is_correct": true },
+            { "choice_text": "الإمام مالك", "is_correct": false },
+            { "choice_text": "الإمام الشافعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'ما كنت ثاوياً في أهل مدين' في سورة القصص؟",
+        "difficulty_score": 750,
+        "explanation": "أي لم تكن مقيماً معهم لتنقل أخبارهم، مما يثبت أن المصدر وحي [18].",
+        "choices": [
+            { "choice_text": "لم تكن تاجراً هناك", "is_correct": false },
+            { "choice_text": "لم تكن مقيماً معهم", "is_correct": true },
+            { "choice_text": "لم تكن تهاجمهم", "is_correct": false },
+            { "choice_text": "لم تكن تعرف لغتهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'دعوى الجاهلية' التي ورد النهي عنها في سياق المصائب؟",
+        "difficulty_score": 500,
+        "explanation": "فسرها الشراح بأنها تشمل النياحة، وندب الميت، والدعاء بالويل والثبور عند وقوع المصيبة [1].",
+        "choices": [
+            { "choice_text": "الافتخار بالأنساب فقط", "is_correct": false },
+            { "choice_text": "النياحة وندب الميت والدعاء بالويل", "is_correct": true },
+            { "choice_text": "طلب الثأر بين القبائل", "is_correct": false },
+            { "choice_text": "عبادة الأصنام سراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لوصف المغيرة بن شعبة، ماذا كان العرب يلبسون في الجاهلية من شدة العوز؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المغيرة في خطابه لأمير الفرس أنهم كانوا يلبسون الوبر والشعر [2].",
+        "choices": [
+            { "choice_text": "الكتان والحرير", "is_correct": false },
+            { "choice_text": "الجلود المدبوغة", "is_correct": false },
+            { "choice_text": "الوبر والشعر", "is_correct": true },
+            { "choice_text": "ثياب القطن اليمانية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي اعتبر المؤلف ما جمعه 'أهم ما يدخل في سنة رسول الله ﷺ'؟",
+        "difficulty_score": 200,
+        "explanation": "أكد المؤلف أن ما جمعه الإمام أبو عبد الله البخاري هو الأهم على الإطلاق في السنة [3].",
+        "choices": [
+            { "choice_text": "الإمام مالك", "is_correct": false },
+            { "choice_text": "الإمام البخاري", "is_correct": true },
+            { "choice_text": "الإمام مسلم", "is_correct": false },
+            { "choice_text": "الإمام أحمد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استشكل عروة بن الزبير لفظ 'فلا جناح عليه' في آية السعي بين الصفا والمروة؟",
+        "difficulty_score": 700,
+        "explanation": "لأن ظاهر اللفظ 'لا جناح' يوحي بالتخيير وعدم الوجوب، بينما الحقيقة أنها نزلت لرفع حرج نفسي نشأ من أمر الجاهلية [4، 5].",
+        "choices": [
+            { "choice_text": "لأنه كان يظن السعي حراماً", "is_correct": false },
+            { "choice_text": "لأن اللفظ يوحي بأن السعي ليس فرضاً", "is_correct": true },
+            { "choice_text": "لعدم معرفته بمكان الصفا والمروة", "is_correct": false },
+            { "choice_text": "بسبب اختلاف القراءات فيها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النص الوارد في 'الزبور' (أسفار المزامير) والذي يتطابق مع القرآن الكريم كما ذكر المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "النص هو 'الصديقون يرثون الأرض ويسكنونها إلى الأبد'، وهو يوافق آية سورة الأنبياء [4].",
+        "choices": [
+            { "choice_text": "الظالمون يذهبون للهاوية", "is_correct": false },
+            { "choice_text": "الصديقون يرثون الأرض", "is_correct": true },
+            { "choice_text": "الأنبياء هم قادة الأمم", "is_correct": false },
+            { "choice_text": "الأرض تورث للأقوياء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف واجه القرآن الكريم عقيدة صلب المسيح السائدة لدى أهل الكتاب؟",
+        "difficulty_score": 600,
+        "explanation": "نفاها بعبارة صريحة وقاطعة: 'وما قتلوه وما صلبوه'، مصححاً مفهوماً مركزياً لديهم [5].",
+        "choices": [
+            { "choice_text": "أكد وقوع الصلب كمعجزة", "is_correct": false },
+            { "choice_text": "نفاها بعبارة 'وما قتلوه وما صلبوه'", "is_correct": true },
+            { "choice_text": "لم يتطرق للموضوع مطلقاً", "is_correct": false },
+            { "choice_text": "اعتبرها مسألة ثانوية لا تهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الحُمس' في الاصطلاح الجاهلي الذي ورد في صحيح البخاري؟",
+        "difficulty_score": 800,
+        "explanation": "هم قريش وما ولدت، وكانوا يخصون أنفسهم بأحكام تمييزية في الحج [6].",
+        "choices": [
+            { "choice_text": "كل من سكن مكة من العرب", "is_correct": false },
+            { "choice_text": "قريش وما ولدت", "is_correct": true },
+            { "choice_text": "قبائل الأوس والخزرج", "is_correct": false },
+            { "choice_text": "أهل الكتاب الساكنين في الحجاز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الأسواق التي ذكرها ابن عباس كـ 'متجر للناس' في الجاهلية خلال الحج؟",
+        "difficulty_score": 300,
+        "explanation": "الأسواق هي: عكاظ، ومجنة، وذو المجاز [7].",
+        "choices": [
+            { "choice_text": "سوق المدينة وسوق خيبر", "is_correct": false },
+            { "choice_text": "عكاظ ومجنة وذو المجاز", "is_correct": true },
+            { "choice_text": "سوق حباشة وسوق مكة", "is_correct": false },
+            { "choice_text": "سوق نجران وسوق دومة الجندل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشرط الذي وضعه النبي ﷺ ليكون خيار الجاهلية هم خيار الإسلام؟",
+        "difficulty_score": 500,
+        "explanation": "اشترط الفقه في الدين، بقوله: 'خيارهم في الجاهلية خيارهم في الإسلام إذا فقهوا' [8].",
+        "choices": [
+            { "choice_text": "أن يهاجروا إلى المدينة", "is_correct": false },
+            { "choice_text": "أن يكونوا من أصحاب الأموال", "is_correct": false },
+            { "choice_text": "أن يفقهوا في الدين", "is_correct": true },
+            { "choice_text": "أن يشاركوا في الغزوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سورة تكرر نفي حضور النبي ﷺ للمشاهد التاريخية السابقة (وما كنت...) لإثبات الوحي؟",
+        "difficulty_score": 400,
+        "explanation": "تكرر هذا المعنى ثلاث مرات أو أكثر في سورة القصص [9].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة القصص", "is_correct": true },
+            { "choice_text": "سورة يوسف", "is_correct": false },
+            { "choice_text": "سورة آل عمران", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وقت جلوس النبي ﷺ في مصلاه الذي كان يتحدث فيه الصحابة عن الجاهلية؟",
+        "difficulty_score": 200,
+        "explanation": "كان يجلس من بعد صلاة الصبح (الغداة) حتى تطلع الشمس [10].",
+        "choices": [
+            { "choice_text": "بين الظهر والعصر", "is_correct": false },
+            { "choice_text": "من بعد الصبح حتى طلوع الشمس", "is_correct": true },
+            { "choice_text": "بعد صلاة العشاء", "is_correct": false },
+            { "choice_text": "قبل أذان الفجر بساعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان 'الحُمس' يفيضون في الحج بدلاً من الوقوف بعرفات؟",
+        "difficulty_score": 600,
+        "explanation": "كانوا يفيضون من مزدلفة ترفعاً عن الوقوف مع بقية الناس في عرفات [6].",
+        "choices": [
+            { "choice_text": "من منى", "is_correct": false },
+            { "choice_text": "من مزدلفة", "is_correct": true },
+            { "choice_text": "من الحجر الأسود", "is_correct": false },
+            { "choice_text": "من جبل النور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان الصحابة يضحكون في المسجد عند ذكر أمر الجاهلية؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يتذكرون أحوالهم السابقة ونعمة الله عليهم بالإسلام، فيضحكون تعجباً [11].",
+        "choices": [
+            { "choice_text": "بسبب نكات كانت تقال", "is_correct": false },
+            { "choice_text": "تذكراً لنعمة الإسلام مقارنة بالجاهلية", "is_correct": true },
+            { "choice_text": "بسبب انتصاراتهم العسكرية", "is_correct": false },
+            { "choice_text": "استهزاءً بالأمم الأخرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفعل الذي وصفه المؤلف بـ 'الاعتقاد السخيف' في عِدّة الأرملة الجاهلية؟",
+        "difficulty_score": 700,
+        "explanation": "هو رمي البعرة على رأس الحول إيذاناً بانقضاء سنة الحداد الشاقة [12].",
+        "choices": [
+            { "choice_text": "لبس السواد دائماً", "is_correct": false },
+            { "choice_text": "رمي البعرة على رأس الحول", "is_correct": true },
+            { "choice_text": "البكاء بصوت مرتفع", "is_correct": false },
+            { "choice_text": "الامتناع عن الأكل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المعبودات التي ذكرها المغيرة بن شعبة لأمير الفرس كدليل على ضلال العرب السابق؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر أنهم كانوا يعبدون الشجر والحجر [2].",
+        "choices": [
+            { "choice_text": "الكواكب والنجوم", "is_correct": false },
+            { "choice_text": "الشجر والحجر", "is_correct": true },
+            { "choice_text": "النار والشمس", "is_correct": false },
+            { "choice_text": "البشر والملائكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المؤلف بـ 'الاستدلال العكسي' في كلام ابن عباس عن سورة الأنعام؟",
+        "difficulty_score": 900,
+        "explanation": "يقصد استخدام آيات القرآن الكريم لمعرفة تفاصيل جهل العرب في الجاهلية بدلاً من العكس [13].",
+        "choices": [
+            { "choice_text": "تفسير القرآن بالرأي المجرد", "is_correct": false },
+            { "choice_text": "الاستدلال بالقرآن على أحوال الجاهلية", "is_correct": true },
+            { "choice_text": "إنكار وجود الجاهلية أصلاً", "is_correct": false },
+            { "choice_text": "تفسير القرآن بلغة أهل الكتاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وجه التحدي الأساسي الذي وجهه الله سبحانه للعرب في القرآن الكريم؟",
+        "difficulty_score": 500,
+        "explanation": "تحدّاهم بأن يأتوا بمثل هذا القرآن، وهو تحدٍ قائم لعجزهم العلمي والبشري آنذاك [14].",
+        "choices": [
+            { "choice_text": "بناء الكعبة من جديد", "is_correct": false },
+            { "choice_text": "أن يأتوا بمثل هذا القرآن", "is_correct": true },
+            { "choice_text": "التوقف عن الشعر", "is_correct": false },
+            { "choice_text": "جمع أموال طائلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو حكم الحديث الذي يذكر أجر حجة وعمرة تامة لمن صلى الصبح وجلس يذكر الله؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المؤلف أنه حديث ضعيف الإسناد لا يصح، والأصح هو حديث الجلوس في صحيح مسلم [15].",
+        "choices": [
+            { "choice_text": "صحيح متواتر", "is_correct": false },
+            { "choice_text": "ضعيف الإسناد ال يصح", "is_correct": true },
+            { "choice_text": "حسن لذاته", "is_correct": false },
+            { "choice_text": "منكر جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو شعور النبي ﷺ تجاه حديث أصحابه عن الجاهلية في المسجد؟",
+        "difficulty_score": 600,
+        "explanation": "كان يبتسم إقراراً وتلطفاً، بينما هم يضحكون تعجباً من تلك الأحوال [11].",
+        "choices": [
+            { "choice_text": "كان يغضب وينهى عن ذلك", "is_correct": false },
+            { "choice_text": "كان يبتسم", "is_correct": true },
+            { "choice_text": "كان يبكي تأثراً", "is_correct": false },
+            { "choice_text": "كان يغادر المسجد فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي لقبه المؤلف بـ 'الحَبْر المفسر'؟",
+        "difficulty_score": 400,
+        "explanation": "هو عبد الله بن عباس رضي الله عنهما، لشهرته بتبحر العلم والتفسير [16].",
+        "choices": [
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false },
+            { "choice_text": "عبد الله بن عباس", "is_correct": true },
+            { "choice_text": "زيد بن ثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يؤثر عدم معرفة أحوال الجاهلية على فهم السنة النبوية؟",
+        "difficulty_score": 800,
+        "explanation": "يجعل فهم بعض الأحاديث غير كامل أو مشكلاً، لأن السنة كثيراً ما جاءت رداً على واقع جاهلي معين [17].",
+        "choices": [
+            { "choice_text": "لا يؤثر إطلاقاً", "is_correct": false },
+            { "choice_text": "يجعل الفهم غير كامل أو مشكلاً", "is_correct": true },
+            { "choice_text": "يؤدي لترك السنة بالكلية", "is_correct": false },
+            { "choice_text": "يجعل السنة غامضة فقط للأجانب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الأفعال المنهي عنها في الحديث 'ليس منا من...' والمتعلقة بالمصائب؟",
+        "difficulty_score": 500,
+        "explanation": "هي لطم الخدود، وشق الجيوب، ودعوى الجاهلية (كالنياحة) [1].",
+        "choices": [
+            { "choice_text": "البكاء الهادئ", "is_correct": false },
+            { "choice_text": "لطم الخدود وشق الجيوب", "is_correct": true },
+            { "choice_text": "لبس الثياب النظيفة", "is_correct": false },
+            { "choice_text": "الدعاء للميت بالرحمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى أي سورة أرشد ابن عباس من أراد معرفة 'جهل العرب'؟",
+        "difficulty_score": 700,
+        "explanation": "أرشد إلى قراءة ما فوق الثلاثين ومئة في سورة الأنعام [13].",
+        "choices": [
+            { "choice_text": "سورة المائدة", "is_correct": false },
+            { "choice_text": "سورة الأنعام", "is_correct": true },
+            { "choice_text": "سورة التوبة", "is_correct": false },
+            { "choice_text": "سورة الكهف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الملقب بـ 'أبو الحسين' والذي ورد ذكره في معرض الحديث عن الصحيحين؟",
+        "difficulty_score": 200,
+        "explanation": "هو الإمام مسلم بن الحجاج النيسابوري [3].",
+        "choices": [
+            { "choice_text": "الإمام البخاري", "is_correct": false },
+            { "choice_text": "الإمام مسلم", "is_correct": true },
+            { "choice_text": "الإمام النسائي", "is_correct": false },
+            { "choice_text": "الإمام ابن ماجه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي صورة النكاح الجاهلي الوحيدة التي لم 'يهدمها' الإسلام وأبقاها؟",
+        "difficulty_score": 400,
+        "explanation": "هي الصورة التي تُخطب فيها المرأة من وليها بعقد شرعي [16].",
+        "choices": [
+            { "choice_text": "نكاح الرهط", "is_correct": false },
+            { "choice_text": "النكاح بالخطبة من الولي", "is_correct": true },
+            { "choice_text": "نكاح الاستبضاع", "is_correct": false },
+            { "choice_text": "نكاح البغايا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللباس الذي كانت قريش (الحُمس) تعيره للناس ليطوفوا به؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يعطونهم الثياب ليطوفوا فيها تجنباً للطواف عراة [18].",
+        "choices": [
+            { "choice_text": "ثياب الصوف الثقيلة", "is_correct": false },
+            { "choice_text": "ثياباً من صنع الحُمس", "is_correct": true },
+            { "choice_text": "جلود الحيوانات المحنطة", "is_correct": false },
+            { "choice_text": "أردية الحرير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تثبت آية 'وما كنت ثاوياً في أهل مدين' من سورة القصص؟",
+        "difficulty_score": 800,
+        "explanation": "تثبت أن تفاصيل أخبار الأنبياء وحي من الله، لأن النبي ﷺ لم يعش معهم لينقل أخبارهم [14].",
+        "choices": [
+            { "choice_text": "أنه كان تاجراً ناجحاً هناك", "is_correct": false },
+            { "choice_text": "أن القرآن وحي إلهي وليس تجربة شخصية", "is_correct": true },
+            { "choice_text": "أنه لم يزر مدين أبداً في حياته", "is_correct": false },
+            { "choice_text": "أن أهل مدين كانوا مسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المصطلح الذي يطلق على العلامات والوقائع العظيمة التي سبقت النبوة؟",
+        "difficulty_score": 500,
+        "explanation": "تسمى 'الإرهاصات'، مثل سقوط شرفات كسرى [2، 3].",
+        "choices": [
+            { "choice_text": "المعجزات الكبرى", "is_correct": false },
+            { "choice_text": "الإرهاصات", "is_correct": true },
+            { "choice_text": "الملاحم", "is_correct": false },
+            { "choice_text": "الفتوح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كانت مدة عِدّة المرأة المتوفى عنها زوجها في الجاهلية؟",
+        "difficulty_score": 400,
+        "explanation": "كانت حولاً كاملاً (سنة واحدة) قبل أن يخففها الإسلام [12].",
+        "choices": [
+            { "choice_text": "أربعة أشهر وعشر", "is_correct": false },
+            { "choice_text": "سنة كاملة (حول)", "is_correct": true },
+            { "choice_text": "ثلاثة قروء", "is_correct": false },
+            { "choice_text": "حتى تضع حملها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا استهدف القرآن الكريم من كشف وتصحيح ما في 'صحف أهل الكتاب'؟",
+        "difficulty_score": 700,
+        "explanation": "إقامة الحجة التاريخية والعلمية عليهم، لأن تلك المعلومات كانت مخفية عن عامة الناس ولم تظهر إلا بالقرآن [19].",
+        "choices": [
+            { "choice_text": "مجرد السرد التاريخي", "is_correct": false },
+            { "choice_text": "إقامة الحجة العلمية والربانية", "is_correct": true },
+            { "choice_text": "تعلم لغتهم العبرية", "is_correct": false },
+            { "choice_text": "التحالف العسكري معهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان الحُمس يمتنعون عن الخروج من الحرم إلى عرفات؟",
+        "difficulty_score": 600,
+        "explanation": "بسبب اعتقادهم أنهم 'أهل الله' في حرمه، فلا يخرجون منه تمييزاً لأنفسهم [6].",
+        "choices": [
+            { "choice_text": "لأن عرفات مكان غير مقدس عندهم", "is_correct": false },
+            { "choice_text": "تعظيماً لمكانتهم كأهل للحرم", "is_correct": true },
+            { "choice_text": "لخوفهم من قطاع الطرق", "is_correct": false },
+            { "choice_text": "بسبب وجود أصنام منافسة هناك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي الصحيحين اعتبره المؤلف أوسع 'تنوعاً وشمولية' في العلم؟",
+        "difficulty_score": 400,
+        "explanation": "أشار المؤلف إلى أن ما جمعه البخاري هو الأهم والأوسع [3].",
+        "choices": [
+            { "choice_text": "صحيح مسلم", "is_correct": false },
+            { "choice_text": "صحيح البخاري", "is_correct": true },
+            { "choice_text": "سنن أبي داود", "is_correct": false },
+            { "choice_text": "موطأ مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'ابتغاء الفضل' في مواسم الحج حسب تفسير ابن عباس؟",
+        "difficulty_score": 300,
+        "explanation": "المعنى هو التجارة والبيع والشراء في مواسم الحج [7].",
+        "choices": [
+            { "choice_text": "الزيادة في الركعات", "is_correct": false },
+            { "choice_text": "التجارة والبيع", "is_correct": true },
+            { "choice_text": "طلب الولد", "is_correct": false },
+            { "choice_text": "كثرة الصدقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة قوله تعالى: 'ما كنت تعلمها أنت ولا قومك من قبل هذا'؟",
+        "difficulty_score": 850,
+        "explanation": "دليل قاطع على ربانية القرآن، لاستحالة توفر هذه العلوم التاريخية الدقيقة في البيئة العربية آنذاك [9].",
+        "choices": [
+            { "choice_text": "دعوة النبي للتعلم من قومه", "is_correct": false },
+            { "choice_text": "إثبات أن مصدر العلم هو الوحي الإلهي", "is_correct": true },
+            { "choice_text": "أن العرب كانوا أهل علم بالتاريخ", "is_correct": false },
+            { "choice_text": "أن قومه كانوا يعلمون وكتموا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعذب الميت ببكاء أهله حسب أحد أوجه الجمع التي ذكرها المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "إذا كان الميت قد أوصى أهله بالبكاء والنياحة عليه كعادة جاهلية [20].",
+        "choices": [
+            { "choice_text": "بسبب حزن أهله الشديد", "is_correct": false },
+            { "choice_text": "إذا أوصى أهله بالنياحة أو رضي بها", "is_correct": true },
+            { "choice_text": "لأن البكاء يطفيء نور القبر", "is_correct": false },
+            { "choice_text": "لأنه لم يترك لهم مالاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة التي جناها المسلمون من نظام 'الجوار' الجاهلي؟",
+        "difficulty_score": 200,
+        "explanation": "استثمره النبي ﷺ وأصحابه في توفير الحماية الشخصية والدعوية في بداية الإسلام [8].",
+        "choices": [
+            { "choice_text": "زيادة الثروات", "is_correct": false },
+            { "choice_text": "توفير الحماية للمستجير", "is_correct": true },
+            { "choice_text": "تنظيم الجيوش", "is_correct": false },
+            { "choice_text": "بناء المساجد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يعني تشبيه الناس بـ 'المعادن' في الحديث الشريف؟",
+        "difficulty_score": 600,
+        "explanation": "أن الطبائع والأصول الكريمة تبقى نافعة في الإسلام إذا صقلت بالفقه [8].",
+        "choices": [
+            { "choice_text": "أن الناس يتغيرون مثل الذهب والفضة", "is_correct": false },
+            { "choice_text": "أن الأصول الكريمة تبقى وتصقل بالفقه", "is_correct": true },
+            { "choice_text": "أن كل الناس متساوون تماماً في المعادن", "is_correct": false },
+            { "choice_text": "أن المعادن هي التي تحدد الرزق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف القرآن الكريم القصص التاريخية التي لم يشهدها النبي ﷺ؟",
+        "difficulty_score": 400,
+        "explanation": "وصفها بأنها 'أنباء الغيب' التي يوحيها الله إليه [9].",
+        "choices": [
+            { "choice_text": "أساطير الأولين", "is_correct": false },
+            { "choice_text": "أنباء الغيب", "is_correct": true },
+            { "choice_text": "حكايات الحكماء", "is_correct": false },
+            { "choice_text": "أشعار العرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر البدء بمرحلة ما قبل النبوة 'خلاصة' مهمة للمصلحين؟",
+        "difficulty_score": 900,
+        "explanation": "لأنها المفتاح لفهم سياقات التشريع وأسراره، وإدراك فضل الإسلام مقارنة بالواقع السابق [8].",
+        "choices": [
+            { "choice_text": "لمجرد حب الاستطلاع التاريخي", "is_correct": false },
+            { "choice_text": "لفهم سياقات التشريع وأسرار الإصلاح", "is_correct": true },
+            { "choice_text": "لأنها مرحلة مليئة بالحروب والبطولات", "is_correct": false },
+            { "choice_text": "لحفظ أسماء القبائل العربية القديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هما العلامتان اللتان يذكرهما بعض كُتّاب السيرة بخصوص إرهاصات النبوة وأشار المؤلف إلى أنهما لا تثبتان؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المؤلف أن سقوط شرفات قصر كسرى وانطفاء نار المجوس علامتان مشهورتان في كتب السيرة لكنهما لا تثبتان سنداً [1].",
+        "choices": [
+            {
+                "choice_text": "انشقاق القمر وظهور السحابة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سقوط شرفات قصر كسرى وانطفاء نار المجوس",
+                "is_correct": true
+            },
+            {
+                "choice_text": "كلام الذئب وتسبيح الحصى",
+                "is_correct": false
+            },
+            {
+                "choice_text": "خروج نور من أمه أضاء قصور الشام",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كيف كان 'الحُمس' يتعاملون مع الحجيج الذين لا يملكون ثياباً للطواف في الجاهلية؟",
+        "difficulty_score": 500,
+        "explanation": "كان رجال الحُمس (قريش) يُعطون الثياب لمن لا يملكها ليطوف فيها، لأن الناس كانوا يطوفون عراة إذا لم يجدوا ثياباً من الحمس [2].",
+        "choices": [
+            {
+                "choice_text": "يمنعونهم من دخول البيت الحرام",
+                "is_correct": false
+            },
+            {
+                "choice_text": "يُعطونهم الثياب ليطوفوا فيها",
+                "is_correct": true
+            },
+            {
+                "choice_text": "يطلبون منهم مبالغ مالية كبيرة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "يتركونهم يطوفون عراة دون تدخل",
+                "is_correct": false
+            }
+        ]
+    }
+]
+    }

@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 62,
+    "questions": [
+        {
+        "question_text": "ما هي السورة التي ذكرت أحداث غزوة بني قريظة بجانب أحداث الخندق؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن الله ذكر حادثة بني قريظة في سورة الأحزاب في نهاية الآيات المتعلقة بالخندق [32].",
+        "choices": [
+            {"choice_text": "سورة البقرة", "is_correct": false},
+            {"choice_text": "سورة آل عمران", "is_correct": false},
+            {"choice_text": "سورة الأحزاب", "is_correct": true},
+            {"choice_text": "سورة الأنفال", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل النبي ﷺ عندما أتاه جبريل عليه السلام ليرسله إلى بني قريظة؟",
+        "difficulty_score": 200,
+        "explanation": "أشار المصدر إلى أن النبي ﷺ كان قد رجع إلى بيته واغتسل ووضع السلاح بعد نهاية حصار الخندق [1].",
+        "choices": [
+            {"choice_text": "كان نائماً", "is_correct": false},
+            {"choice_text": "كان يخطب في الناس", "is_correct": false},
+            {"choice_text": "كان قد اغتسل ووضع السلاح", "is_correct": true},
+            {"choice_text": "كان في المسجد يصلي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم كانت المسافة التقريبية بين المسجد النبوي وديار بني قريظة؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن المسافة كانت تقريباً أربعة إلى خمسة كيلومترات جهة الجنوب [5, 12].",
+        "choices": [
+            {"choice_text": "10 كيلومترات", "is_correct": false},
+            {"choice_text": "أربعة إلى خمسة كيلومترات", "is_correct": true},
+            {"choice_text": "كيلومتر واحد", "is_correct": false},
+            {"choice_text": "عشرون كيلومتراً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في أي صورة كان جبريل عليه السلام يظهر للصحابة غالباً؟",
+        "difficulty_score": 200,
+        "explanation": "روي أن جبريل كان يأتي في صورة الصحابي دحية الكلبي [4, 5].",
+        "choices": [
+            {"choice_text": "سعد بن معاذ", "is_correct": false},
+            {"choice_text": "دحية الكلبي", "is_correct": true},
+            {"choice_text": "أبو بكر الصديق", "is_correct": false},
+            {"choice_text": "عمر بن الخطاب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الأمر النبوي الذي اختلف الصحابة في فهمه أثناء توجههم لبني قريظة؟",
+        "difficulty_score": 300,
+        "explanation": "نادى النبي ﷺ في أصحابه: 'لا يصلين أحد منكم العصر إلا في بني قريظة'، فاختلفوا في مكان أدائها [4, 33].",
+        "choices": [
+            {"choice_text": "صلاة الفجر", "is_correct": false},
+            {"choice_text": "صلاة الظهر", "is_correct": false},
+            {"choice_text": "صلاة العصر", "is_correct": true},
+            {"choice_text": "صلاة المغرب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم مرة رأى النبي ﷺ جبريل عليه السلام على صورته الأصلية؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن النبي ﷺ لم يرَ جبريل على صورته الأصلية إلا مرتين؛ مرة في مكة ومرة عند سدرة المنتهى [4, 5].",
+        "choices": [
+            {"choice_text": "مرة واحدة", "is_correct": false},
+            {"choice_text": "مرتين", "is_correct": true},
+            {"choice_text": "ثلاث مرات", "is_correct": false},
+            {"choice_text": "خمس مرات", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو السلاح العظيم الذي قذفه الله في قلوب بني قريظة؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن الله قذف في قلوبهم 'الرعب' فاستسلموا ولم يصمدوا [16-18].",
+        "choices": [
+            {"choice_text": "الجوع", "is_correct": false},
+            {"choice_text": "العطش", "is_correct": false},
+            {"choice_text": "الرعب", "is_correct": true},
+            {"choice_text": "الخيانة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو 'سيدكم' الذي أمر النبي ﷺ الصحابة بالقيام له؟",
+        "difficulty_score": 300,
+        "explanation": "عندما أقبل سعد بن معاذ ليحكم في بني قريظة، قال النبي ﷺ للصحابة: 'قوموا إلى سيدكم' [3, 27].",
+        "choices": [
+            {"choice_text": "أسيد بن حضير", "is_correct": false},
+            {"choice_text": "سعد بن عبادة", "is_correct": false},
+            {"choice_text": "سعد بن معاذ", "is_correct": true},
+            {"choice_text": "زيد بن حارثة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كان حكم سعد بن معاذ في مقاتلة بني قريظة؟",
+        "difficulty_score": 500,
+        "explanation": "حكم سعد بن معاذ بأن تقتل مقاتلتهم وأن تُسبى ذراريهم [27].",
+        "choices": [
+            {"choice_text": "النفط من المدينة", "is_correct": false},
+            {"choice_text": "دفع الجزية", "is_correct": false},
+            {"choice_text": "قتل المقاتلة وسبي الذراري", "is_correct": true},
+            {"choice_text": "العفو الشامل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ حكم سعد بن معاذ بعد نطقه به؟",
+        "difficulty_score": 600,
+        "explanation": "قال النبي ﷺ لسعد: 'لقد حكمت فيهم بحكم الله (وفي رواية من فوق سبع سموات)' [27].",
+        "choices": [
+            {"choice_text": "لقد أخطأت الاجتهاد", "is_correct": false},
+            {"choice_text": "حكمت بحكم الله ورسوله", "is_correct": true},
+            {"choice_text": "حكمت بحكم الأوس", "is_correct": false},
+            {"choice_text": "أعد النظر في حكمك", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم سنة قضاها سعد بن معاذ في الإسلام قبل وفاته؟",
+        "difficulty_score": 400,
+        "explanation": "عاش سعد بن معاذ في طريق الإيمان والاستقامة ست سنوات فقط [6, 7].",
+        "choices": [
+            {"choice_text": "10 سنوات", "is_correct": false},
+            {"choice_text": "6 سنوات", "is_correct": true},
+            {"choice_text": "سنتان", "is_correct": false},
+            {"choice_text": "20 سنة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الحدث العظيم الذي وقع في السماء عند موت سعد بن معاذ؟",
+        "difficulty_score": 500,
+        "explanation": "ثبت في الحديث الصحيح أن عرش الرحمن اهتز لموت سعد بن معاذ [6].",
+        "choices": [
+            {"choice_text": "انشقاق القمر", "is_correct": false},
+            {"choice_text": "اهتزاز عرش الرحمن", "is_correct": true},
+            {"choice_text": "كسوف الشمس", "is_correct": false},
+            {"choice_text": "نزول مطر غزير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هي زوجة النبي ﷺ التي ذكرت السورة زواجه منها بعد حادثة بني قريظة؟",
+        "difficulty_score": 400,
+        "explanation": "تزوج النبي ﷺ من زينب بنت جحش رضي الله عنها بعد حادثة بني قريظة [8].",
+        "choices": [
+            {"choice_text": "عائشة بنت أبي بكر", "is_correct": false},
+            {"choice_text": "حفصة بنت عمر", "is_correct": false},
+            {"choice_text": "زينب بنت جحش", "is_correct": true},
+            {"choice_text": "خديجة بنت خويلد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من كان زوج زينب بنت جحش قبل النبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "كانت زينب بنت جحش زوجة لزيد بن حارثة، وهو الذي كان يُدعى ابن النبي ﷺ بالتبني [8, 10].",
+        "choices": [
+            {"choice_text": "جعفر بن أبي طالب", "is_correct": false},
+            {"choice_text": "زيد بن حارثة", "is_correct": true},
+            {"choice_text": "عبد الله بن جحش", "is_correct": false},
+            {"choice_text": "أسامة بن زيد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الغرض الأساسي من زواج النبي ﷺ بزينب بنت جحش كما ورد في سورة الأحزاب؟",
+        "difficulty_score": 700,
+        "explanation": "كان الغرض إبطال قضية التبني عملياً، لكي لا يكون على المؤمنين حرج في أزواج أدعيائهم إذا قضوا منهن وطراً [9, 25].",
+        "choices": [
+            {"choice_text": "تقوية صلة الرحم", "is_correct": false},
+            {"choice_text": "إبطال ثقافة التبني", "is_correct": true},
+            {"choice_text": "تأليف قلوب بني أسد", "is_correct": false},
+            {"choice_text": "مكافأة لزينب على إسلامها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كيف تعامل النبي ﷺ مع الفريقين اللذين اختلفا في فهم قوله 'لا يصلين أحد العصر إلا في بني قريظة'؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أن النبي ﷺ لم يُثرب (لم يعنف أو يخطئ) على أي من الطرفين [21].",
+        "choices": [
+            {"choice_text": "أمر من صلوا في الطريق بالإعادة", "is_correct": false},
+            {"choice_text": "أمر من أخروا الصلاة بالإعادة", "is_correct": false},
+            {"choice_text": "لم يُثرب على أي منهما", "is_correct": true},
+            {"choice_text": "عنف من أخر الصلاة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي مدرسة 'المقصد الشرعي' في فهم نص صلاة العصر؟",
+        "difficulty_score": 700,
+        "explanation": "هم الذين رأوا أن قصد النبي ﷺ هو الاستعجال وليس إلغاء وقت الصلاة، فصلوا في الطريق [20].",
+        "choices": [
+            {"choice_text": "الذين صلوا عند الحصون ليلاً", "is_correct": false},
+            {"choice_text": "الذين فهموا أن القصد هو الاستعجال", "is_correct": true},
+            {"choice_text": "الذين تمسكوا بظاهر اللفظ", "is_correct": false},
+            {"choice_text": "الذين لم يصلوا العصر مطلقاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي نوع من الخلاف يُعتبر 'مذموماً ويمزق صفوف الأمة'؟",
+        "difficulty_score": 800,
+        "explanation": "الخلاف غير المعتبر (الذي يناقض أصول الشريعة أو الأقوال الشاذة) هو المذموم الذي يمزق الأمة [28, 29].",
+        "choices": [
+            {"choice_text": "الخلاف في فروع العبادات", "is_correct": false},
+            {"choice_text": "الخلاف المعتبر", "is_correct": false},
+            {"choice_text": "الخلاف غير المعتبر", "is_correct": true},
+            {"choice_text": "الخلاف القائم على الاجتهاد السائغ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا قال ابن تيمية بخصوص قوام الدين كما ورد في المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "قال ابن تيمية: 'قوام الدين بكتاب يهدي وسيف ينصر وكفى بربك هادياً ونصيراً' [23].",
+        "choices": [
+            {"choice_text": "بالدعاء وحده", "is_correct": false},
+            {"choice_text": "بكتاب يهدي وسيف ينصر", "is_correct": true},
+            {"choice_text": "بالمجادلة بالحسنى فقط", "is_correct": false},
+            {"choice_text": "بالمقاطعة الاقتصادية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أين وضعت الخيمة التي كان يُطبب فيها سعد بن معاذ؟",
+        "difficulty_score": 300,
+        "explanation": "وضعت له خيمة في المسجد ليكون قريباً من النبي ﷺ ويُطبب فيها [15, 24].",
+        "choices": [
+            {"choice_text": "في بيته", "is_correct": false},
+            {"choice_text": "في المسجد", "is_correct": true},
+            {"choice_text": "خارج المدينة", "is_correct": false},
+            {"choice_text": "عند ديار بني قريظة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا لقب النبي ﷺ سعد بن معاذ في حديث 'مناديل سعد بن معاذ'؟",
+        "difficulty_score": 500,
+        "explanation": "عندما تعجب الصحابة من لين ثياب حرير، قال النبي ﷺ: 'لمناديل سعد بن معاذ (في الجنة) خير منها أو ألين' [7].",
+        "choices": [
+            {"choice_text": "المناديل ألين في الجنة", "is_correct": true},
+            {"choice_text": "ثيابه في الدنيا كانت حرير", "is_correct": false},
+            {"choice_text": "سعد يحب الحرير", "is_correct": false},
+            {"choice_text": "سعد تاجر مناديل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي كان عليها سعد بن معاذ عندما جاء ليحكم في بني قريظة؟",
+        "difficulty_score": 400,
+        "explanation": "كان مصاباً بجرح (سهم) في الخندق، فجاء به قومه يحملونه [3].",
+        "choices": [
+            {"choice_text": "كان في كامل صحته", "is_correct": false},
+            {"choice_text": "كان مريضاً بمرض معدي", "is_correct": false},
+            {"choice_text": "كان مصاباً ومحمولاً", "is_correct": true},
+            {"choice_text": "كان راكباً فرسه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا كان بنو قريظة يفضلون حكم الأوس عليهم؟",
+        "difficulty_score": 300,
+        "explanation": "لأن الأوس كانوا حلفاءهم في الجاهلية، فظنوا أنهم سيرأفون بهم [3].",
+        "choices": [
+            {"choice_text": "لأن الأوس كانوا يهوداً مثلهم", "is_correct": false},
+            {"choice_text": "لوجود حلف سابق بينهم", "is_correct": true},
+            {"choice_text": "لأنهم يكرهون الخزرج", "is_correct": false},
+            {"choice_text": "لأن سعد بن معاذ كان صديقاً لحيي بن أخطب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة الشهيرة لسعد بن معاذ بخصوص 'لومة لائم'؟",
+        "difficulty_score": 600,
+        "explanation": "روي أن سعداً قال: 'لقد آن لسعد أن لا تأخذه في الله لومة لائم' [3].",
+        "choices": [
+            {"choice_text": "سأرحم حلفائي", "is_correct": false},
+            {"choice_text": "لا لومة لائم في الله", "is_correct": true},
+            {"choice_text": "الحكم للنبي ﷺ وحده", "is_correct": false},
+            {"choice_text": "العفو من شيم الكرام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا حدث لجرح سعد بن معاذ بعد انتهاء حكمه في بني قريظة؟",
+        "difficulty_score": 500,
+        "explanation": "انفجر جرحه (لَبَّتُه) وسال الدم حتى فاضت روحه شهيداً [14, 15].",
+        "choices": [
+            {"choice_text": "التئم الجرح تماماً", "is_correct": false},
+            {"choice_text": "انفجر الجرح ومات شهيداً", "is_correct": true},
+            {"choice_text": "أصيب بشلل", "is_correct": false},
+            {"choice_text": "عاش سنوات طويلة بعده", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو 'حليف بني قريظة' من المنافقين الذي كان يُرجى تدخله؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن عبد الله بن أبيّ كان حليفاً لبعض يهود المدينة سابقاً [18].",
+        "choices": [
+            {"choice_text": "عبد الله بن أبيّ بن سلول", "is_correct": true},
+            {"choice_text": "سعد بن معاذ", "is_correct": false},
+            {"choice_text": "زيد بن حارثة", "is_correct": false},
+            {"choice_text": "أبو سفيان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وصف القرآن لمكان قدوم الأحزاب في غزوة الخندق؟",
+        "difficulty_score": 300,
+        "explanation": "قال تعالى: 'إذ جاءوكم من فوقكم ومن أسفل منكم' [34].",
+        "choices": [
+            {"choice_text": "من جهة البحر", "is_correct": false},
+            {"choice_text": "من فوقكم ومن أسفل منكم", "is_correct": true},
+            {"choice_text": "من خلف الجبل فقط", "is_correct": false},
+            {"choice_text": "من داخل المدينة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كانت 'صياصيهم' المذكورة في سورة الأحزاب؟",
+        "difficulty_score": 500,
+        "explanation": "تشير الآية 'وأنزل الذين ظاهروهم من أهل الكتاب من صياصيهم' إلى حصونهم التي تحصنوا بها [17].",
+        "choices": [
+            {"choice_text": "أسلحتهم", "is_correct": false},
+            {"choice_text": "حصونهم", "is_correct": true},
+            {"choice_text": "خيولهم", "is_correct": false},
+            {"choice_text": "أموالهم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي يوم من أيام الأسبوع توفي فيه سعد بن معاذ؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن روحه فاضت وكان شهيداً يوم الخميس [15].",
+        "choices": [
+            {"choice_text": "الجمعة", "is_correct": false},
+            {"choice_text": "السبت", "is_correct": false},
+            {"choice_text": "الخميس", "is_correct": true},
+            {"choice_text": "الاثنين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لم يضع جبريل السلاح كما قال للنبي ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "لأن مهمة الملائكة في قتال بني قريظة لم تنتهِ بعد (والله ما وضعناه) [2, 16].",
+        "choices": [
+            {"choice_text": "لأنه نسي السلاح", "is_correct": false},
+            {"choice_text": "لأن الملائكة مستمرة في المهمة", "is_correct": true},
+            {"choice_text": "بسبب كثرة الأعداء", "is_correct": false},
+            {"choice_text": "لأنه كان يريد القتال في خيبر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الهجرة بالقلب' التي ذكرها ابن القيم في المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "هي الشأن كله في صدق النية والتوجه لله، مما يجعل الإنسان يدرك بصدقه ما لا يدركه غيره وإن طال به الزمن [22].",
+        "choices": [
+            {"choice_text": "السفر من مكة للمدينة", "is_correct": false},
+            {"choice_text": "صدق النية والتوجه لله", "is_correct": true},
+            {"choice_text": "ترك المال والولد", "is_correct": false},
+            {"choice_text": "العيش في المسجد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو دور الملائكة الأساسي في غزوة بني قريظة؟",
+        "difficulty_score": 700,
+        "explanation": "من أهم أدوار الملائكة كان قذف الرعب في قلوب اليهود [16].",
+        "choices": [
+            {"choice_text": "بناء الخنادق", "is_correct": false},
+            {"choice_text": "قذف الرعب في قلوب الأعداء", "is_correct": true},
+            {"choice_text": "توفير الطعام للمسلمين", "is_correct": false},
+            {"choice_text": "علاج الجرحى", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بأي شيء استمسك دم سعد بن معاذ حتى انتهى حكمه؟",
+        "difficulty_score": 800,
+        "explanation": "دعا سعد رضي الله عنه أن يمسك الله دمه حتى تقر عينه من بني قريظة [14, 15].",
+        "choices": [
+            {"choice_text": "بالدواء", "is_correct": false},
+            {"choice_text": "بدعائه لله سبحانه", "is_correct": true},
+            {"choice_text": "بشد الضمادات", "is_correct": false},
+            {"choice_text": "بمسح النبي ﷺ عليه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هم 'سحرة فرعون' الذين شبه بهم المصدر حال سعد بن معاذ؟",
+        "difficulty_score": 800,
+        "explanation": "الشبه في أنهم حققوا مقاماً عالياً عند الله بمواقف إيمانية جازمة رغم قصر مدتهم في الإسلام [7].",
+        "choices": [
+            {"choice_text": "في كثرة العبادة", "is_correct": false},
+            {"choice_text": "في تحقيق اليقين والثبات في زمن قصير", "is_correct": true},
+            {"choice_text": "في الموت شهداء جميعاً", "is_correct": false},
+            {"choice_text": "في القدرة على الحوار", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي قالها سعد بن معاذ في 'بدر' وسرّت النبي ﷺ؟",
+        "difficulty_score": 700,
+        "explanation": "أبدى سعد استعداد الأنصار للقتال مع النبي ﷺ حتى لو خاض بهم البحر، مما طمأن النبي ﷺ على موقف الأنصار [30, 31].",
+        "choices": [
+            {"choice_text": "اذهب أنت وربك فقاتلا", "is_correct": false},
+            {"choice_text": "لو استعرضت بنا البحر لخضناه معك", "is_correct": true},
+            {"choice_text": "نحن ننتظرك في المدينة", "is_correct": false},
+            {"choice_text": "نقاتل عن أموالنا فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر ثبات موقف سعد بن معاذ في حادثة الإفك؟",
+        "difficulty_score": 800,
+        "explanation": "قام مدافعاً عن النبي ﷺ ومستعداً لضرب عنق من يؤذيه، سواء من الأوس أو من الخزرج [31].",
+        "choices": [
+            {"choice_text": "كان صامتاً", "is_correct": false},
+            {"choice_text": "أبدى غيرته الشديدة ودفاعه عن الرسول ﷺ", "is_correct": true},
+            {"choice_text": "طالب بجمع الأدلة", "is_correct": false},
+            {"choice_text": "اعتزل الناس", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'محق الكافرين' كأحد حكم المداولة؟",
+        "difficulty_score": 900,
+        "explanation": "هي استئصال شأفة الكفر وإذلال أهله نتيجة غدرهم وإفسادهم [26, 35].",
+        "choices": [
+            {"choice_text": "دعوتهم للإسلام", "is_correct": false},
+            {"choice_text": "استئصال قوتهم وإذلالهم", "is_correct": true},
+            {"choice_text": "أخذ أموالهم فقط", "is_correct": false},
+            {"choice_text": "تركهم وشأنهم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي مدرسة فقهية يمثلها ابن حزم بخصوص صلاة العصر في بني قريظة؟",
+        "difficulty_score": 900,
+        "explanation": "يمثل مدرسة 'الظاهرية' التي تأخذ بظاهر اللفظ حرفياً، حيث قال إنه لو كان هناك لما صلى إلا في بني قريظة ولو بعد نصف الليل [20].",
+        "choices": [
+            {"choice_text": "المدرسة المقاصدية", "is_correct": false},
+            {"choice_text": "المدرسة الظاهرية", "is_correct": true},
+            {"choice_text": "مدرسة الرأي", "is_correct": false},
+            {"choice_text": "مدرسة الكوفة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا قال الإمام ابن كثير عن الفريقين اللذين اختلفا في الصلاة؟",
+        "difficulty_score": 900,
+        "explanation": "يرى ابن كثير أن موقف الذين صلوا في الطريق (المدرسة المقاصدية) هو الأصح [20].",
+        "choices": [
+            {"choice_text": "كلاهما أخطأ", "is_correct": false},
+            {"choice_text": "موقف الذين صلوا في الطريق هو الأصح", "is_correct": true},
+            {"choice_text": "موقف الذين أخروا الصلاة هو الأصح", "is_correct": false},
+            {"choice_text": "لا يوجد رأي صحيح", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا استفتح المصدر حديثه عن غزوة بني قريظة؟",
+        "difficulty_score": 100,
+        "explanation": "استفتحه بالحمد لله والصلاة على النبي ﷺ وربط الحادثة بنهاية غزوة الخندق [32].",
+        "choices": [
+            {"choice_text": "بالصراخ", "is_correct": false},
+            {"choice_text": "بالحمد والثناء وربطها بالخندق", "is_correct": true},
+            {"choice_text": "بذكر قصة خيبر", "is_correct": false},
+            {"choice_text": "بذم اليهود مباشرة", "is_correct": false}
+        ]
+    },
+     {
+        "question_text": "ما هي العبارة التي كانت زينب بنت جحش تفتخر بها على أمهات المؤمنين؟",
+        "difficulty_score": 400,
+        "explanation": "كانت رضي الله عنها تقول: 'زوجكن أهاليكن، وزوجني الله من فوق سبع سماوات' إشارة للآية التي نزلت في زواجها.",
+        "choices": [
+            { "choice_text": "أنا أكثركن مالاً", "is_correct": false },
+            { "choice_text": "أنا أول من أسلمت", "is_correct": false },
+            { "choice_text": "زوجني الله من فوق سبع سماوات", "is_correct": true },
+            { "choice_text": "أنا ابنة عم النبي ﷺ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا دعا سعد بن معاذ ربه بخصوص جرحه بعد انتهاء الخندق؟",
+        "difficulty_score": 600,
+        "explanation": "دعا الله أن يمسك دمه ولا يميتُه حتى تقر عينه من بني قريظة بسبب غدرهم.",
+        "choices": [
+            { "choice_text": "أن يشفى تماماً ليعود للتجارة", "is_correct": false },
+            { "choice_text": "أن لا يموت حتى تقر عينه من بني قريظة", "is_correct": true },
+            { "choice_text": "أن يرزقه الله ولداً قبل موته", "is_correct": false },
+            { "choice_text": "أن يُدفن في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الصياصي' التي وردت في قوله تعالى {وأنزل الذين ظاهروهم من أهل الكتاب من صياصيهم}؟",
+        "difficulty_score": 500,
+        "explanation": "الصياصي في اللغة وفي سياق الآية تشير إلى الحصون والآطام التي كان يتحصن فيها اليهود.",
+        "choices": [
+            { "choice_text": "خيامهم", "is_correct": false },
+            { "choice_text": "حصونهم", "is_correct": true },
+            { "choice_text": "أسلحتهم", "is_correct": false },
+            { "choice_text": "مزارعهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كانت مدة بقاء الصحابة في مرابطة الخندق كما ذكر المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أنهم بقوا قرابة خمسة وعشرين يوماً (شهر تقريباً).",
+        "choices": [
+            { "choice_text": "عشرة أيام", "is_correct": false },
+            { "choice_text": "أسبوع واحد", "is_correct": false },
+            { "choice_text": "خمسة وعشرين يوماً", "is_correct": true },
+            { "choice_text": "خمسين يوماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي كان 'ابناً بالتبني' للنبي ﷺ قبل إبطال التبني؟",
+        "difficulty_score": 200,
+        "explanation": "زيد بن حارثة كان يُدعى 'زيد بن محمد' قبل نزول آيات إبطال التبني.",
+        "choices": [
+            { "choice_text": "أسامة بن زيد", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرأي الذي رآه الإمام ابن كثير 'أصح' في قضية صلاة العصر في الطريق؟",
+        "difficulty_score": 700,
+        "explanation": "يرى ابن كثير أن من صلوا في الطريق (مدرسة المقاصد) كانوا أصوب لأنهم جمعوا بين الامتثال والمحافظة على وقت الصلاة.",
+        "choices": [
+            { "choice_text": "رأي من أخروا الصلاة", "is_correct": false },
+            { "choice_text": "رأي من صلوا في الطريق", "is_correct": true },
+            { "choice_text": "رأي من لم يصلوا أصلاً", "is_correct": false },
+            { "choice_text": "لم يرجح شيئاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال ابن حزم الظاهري بخصوص لو كان معهم في ذلك اليوم؟",
+        "difficulty_score": 800,
+        "explanation": "قال ابن حزم: 'والله لو كنت في ذلك المقام لما صليت العصر إلا بين قدميه (في بني قريظة) ولو بعد نصف الليل' تمسكاً بظاهر النص.",
+        "choices": [
+            { "choice_text": "لصليت في الطريق فوراً", "is_correct": false },
+            { "choice_text": "لما صليت العصر إلا في بني قريظة ولو بعد نصف الليل", "is_correct": true },
+            { "choice_text": "لعدت وسألت النبي ﷺ", "is_correct": false },
+            { "choice_text": "لصليت جمعاً مع المغرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المقصد من 'إيجاد الهيبة للإسلام' عبر العقوبات الرادعة؟",
+        "difficulty_score": 700,
+        "explanation": "المقصد هو أن يرتدع من لا يرتدع بالحجة والبيان، ليعلم الأعداء أن للمؤمنين قوة تحمي حماهم.",
+        "choices": [
+            { "choice_text": "الانتقام الشخصي", "is_correct": false },
+            { "choice_text": "إظهار القوة الجسدية فقط", "is_correct": false },
+            { "choice_text": "يرتدع من لا يرتدع بالحجة والبيان", "is_correct": true },
+            { "choice_text": "جمع الغنائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبّه المصدر موقف سعد بن معاذ من حيث عظم الأثر وقصر الزمان؟",
+        "difficulty_score": 900,
+        "explanation": "شبهه بسحرة فرعون الذين آمنوا وضحوا في وقت قصير جداً فبلغوا أعلى المنازل بصدق يقينهم.",
+        "choices": [
+            { "choice_text": "بأصحاب الكهف", "is_correct": false },
+            { "choice_text": "بسحرة فرعون", "is_correct": true },
+            { "choice_text": "بأهل بدر فقط", "is_correct": false },
+            { "choice_text": "بمؤمن آل فرعون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى عبارة 'الهجرة بالقلب' التي استشهد بها المصدر عن ابن القيم؟",
+        "difficulty_score": 800,
+        "explanation": "هي صدق التوجه لله والنية الخالصة التي تجعل الإنسان يدرك بقلبه ما قد لا يدركه غيره بالعمل البدني الطويل.",
+        "choices": [
+            { "choice_text": "تخيل السفر لمكة", "is_correct": false },
+            { "choice_text": "صدق النية والتوجه لله", "is_correct": true },
+            { "choice_text": "ترك المدينة والعودة للبادية", "is_correct": false },
+            { "choice_text": "الصمت الدائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي قبيلة من الأنصار كان سعد بن معاذ سيداً لها؟",
+        "difficulty_score": 200,
+        "explanation": "سعد بن معاذ كان سيد قبيلة الأوس، بينما كان سعد بن عبادة سيد الخزرج.",
+        "choices": [
+            { "choice_text": "قبيلة الخزرج", "is_correct": false },
+            { "choice_text": "قبيلة الأوس", "is_correct": true },
+            { "choice_text": "قبيلة قريش", "is_correct": false },
+            { "choice_text": "قبيلة بني نضير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن 'مناديل سعد بن معاذ' في الجنة؟",
+        "difficulty_score": 400,
+        "explanation": "قال ﷺ عندما رأى الصحابة حريراً ولينه: 'لمناديل سعد بن معاذ في الجنة خير منها وألين'.",
+        "choices": [
+            { "choice_text": "أنها مصنوعة من ذهب", "is_correct": false },
+            { "choice_text": "أنها خير وألين من حرير الدنيا", "is_correct": true },
+            { "choice_text": "أنها كثيرة جداً", "is_correct": false },
+            { "choice_text": "أنها مخصصة للشهداء فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر حالة 'الرعب' التي أصابت بني قريظة؟",
+        "difficulty_score": 500,
+        "explanation": "وصفها بأنها سلاح إلهي جعلهم يستسلمون ويرفعون الراية رغم حصانة قلاعهم.",
+        "choices": [
+            { "choice_text": "خوف بسيط", "is_correct": false },
+            { "choice_text": "سلاح إلهي جعلهم يستسلمون", "is_correct": true },
+            { "choice_text": "نتيجة لنقص الطعام", "is_correct": false },
+            { "choice_text": "بسبب خيانة قادتهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الغزوة التي قال النبي ﷺ بعدها: 'الآن نغزوهم ولا يغزوننا'؟",
+        "difficulty_score": 300,
+        "explanation": "قالها بعد الخندق (الأحزاب)، إيذاناً بانتقال المسلمين لمرحلة المبادأة.",
+        "choices": [
+            { "choice_text": "غزوة بدر", "is_correct": false },
+            { "choice_text": "غزوة أحد", "is_correct": false },
+            { "choice_text": "غزوة الخندق", "is_correct": true },
+            { "choice_text": "غزوة خيبر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لم يعنف النبي ﷺ أحداً من الفريقين في مسألة صلاة العصر؟",
+        "difficulty_score": 700,
+        "explanation": "لأن كل فريق استند لاجتهاد معتبر ونيّة صادقة في امتثال أمره ﷺ، مما أسس لمشروعية الاختلاف الفقهي المعتبر.",
+        "choices": [
+            { "choice_text": "لأنه نسي الموضوع", "is_correct": false },
+            { "choice_text": "لأن الاختلاف كان في مسائل تافهة", "is_correct": false },
+            { "choice_text": "لأن كلاهما استند لاجتهاد معتبر", "is_correct": true },
+            { "choice_text": "لأنه كان مشغولاً بالقتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور خيمة 'رفيدة' في المسجد بالنسبة لسعد بن معاذ؟",
+        "difficulty_score": 500,
+        "explanation": "كانت الخيمة مكاناً لتمريضه ليكون قريباً من النبي ﷺ ليُعاده (يزوره) بسهولة.",
+        "choices": [
+            { "choice_text": "للسكن الدائم", "is_correct": false },
+            { "choice_text": "لتمريضه ليكون قريباً من النبي ﷺ", "is_correct": true },
+            { "choice_text": "لتخزين الأسلحة", "is_correct": false },
+            { "choice_text": "لعقد الاجتماعات الحربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي نزلت توبخ من كان يخشى كلام الناس في زواج زينب؟",
+        "difficulty_score": 800,
+        "explanation": "هي قوله تعالى: {وتخشى الناس والله أحق أن تخشاه}، حيث كان النبي ﷺ يخشى قول المنافقين عن زواجه بزوجة دعِيّه.",
+        "choices": [
+            { "choice_text": "{يا أيها النبي اتق الله}", "is_correct": false },
+            { "choice_text": "{وتخشى الناس والله أحق أن تخشاه}", "is_correct": true },
+            { "choice_text": "{ما كان محمد أبا أحد من رجالكم}", "is_correct": false },
+            { "choice_text": "{ادعوهم لآبائهم}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى وقع إبطال التبني بشكل 'عملي' في المجتمع الإسلامي؟",
+        "difficulty_score": 600,
+        "explanation": "وقع عملياً بزواج النبي ﷺ من زينب بنت جحش بعد أن طلقها زيد بن حارثة.",
+        "choices": [
+            { "choice_text": "بمجرد نزول الآية فقط", "is_correct": false },
+            { "choice_text": "بزواج النبي ﷺ من زينب بنت جحش", "is_correct": true },
+            { "choice_text": "بعد وفاة زيد بن حارثة", "is_correct": false },
+            { "choice_text": "في حجة الوداع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قصد المصدر بعبارة 'قوام الدين بكتاب يهدي وسيف ينصر'؟",
+        "difficulty_score": 700,
+        "explanation": "يقصد أن الحق يحتاج لقوة تحميه، فالكتاب للهداية والسيف لمنع البغي والعدوان (وهو قول ابن تيمية).",
+        "choices": [
+            { "choice_text": "أن السيف أهم من الكتاب", "is_correct": false },
+            { "choice_text": "تكامل الوحي مع القوة الحامية للحق", "is_correct": true },
+            { "choice_text": "أن الدين ينتشر بالإكراه", "is_correct": false },
+            { "choice_text": "ترك الكتاب والاكتفاء بالسيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد المقاتلين من الصحابة الذين حاصروا بني قريظة؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن النبي ﷺ توجه إليهم بأصحابه الذين كانوا قرابة ثلاثة آلاف مقاتل.",
+        "choices": [
+            { "choice_text": "ألف مقاتل", "is_correct": false },
+            { "choice_text": "ثلاثة آلاف مقاتل", "is_correct": true },
+            { "choice_text": "عشرة آلاف مقاتل", "is_correct": false },
+            { "choice_text": "خمسمائة مقاتل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الخلاف المذموم' كما عرفه المصدر في الخاتمة؟",
+        "difficulty_score": 900,
+        "explanation": "هو الخلاف غير المعتبر الذي يناقض أصول الشريعة ويؤدي لتمزيق وحدة الأمة وصفها.",
+        "choices": [
+            { "choice_text": "الخلاف في فروع الفقه", "is_correct": false },
+            { "choice_text": "الخلاف الذي يمزق صفوف الأمة ويناقض الأصول", "is_correct": true },
+            { "choice_text": "خلاف الصحابة في صلاة العصر", "is_correct": false },
+            { "choice_text": "اختلاف ألوان الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء هو الذي جاء للنبي ﷺ وقال له 'والله ما وضعنا السلاح'؟",
+        "difficulty_score": 200,
+        "explanation": "هو جبريل عليه السلام حين أتى النبي ﷺ عند باب بيته بعد الخندق.",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "جبريل عليه السلام", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة اهتزاز عرش الرحمن لموت سعد بن معاذ؟",
+        "difficulty_score": 500,
+        "explanation": "دلالة على عظم منزلة سعد عند الله ومحبة الملائكة له وفرح السماء بقدومه شهيداً.",
+        "choices": [
+            { "choice_text": "دلالة على وقوع زلزال", "is_correct": false },
+            { "choice_text": "دلالة على عظم منزلته عند الله", "is_correct": true },
+            { "choice_text": "دلالة على غضب الله", "is_correct": false },
+            { "choice_text": "دلالة على كثرة بكاء الناس عليه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف الله قلوب المؤمنين في سورة الأحزاب أثناء الحصار؟",
+        "difficulty_score": 400,
+        "explanation": "قال تعالى: {وبلغت القلوب الحناجر وتظنون بالله الظنونا} تعبيراً عن شدة الكرب.",
+        "choices": [
+            { "choice_text": "كانت مطمئنة جداً", "is_correct": false },
+            { "choice_text": "بلغت القلوب الحناجر", "is_correct": true },
+            { "choice_text": "كانت قاسية كالحجارة", "is_correct": false },
+            { "choice_text": "لم تتأثر أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المداولة' المقصودة في قوله {وتلك الأيام نداولها بين الناس}؟",
+        "difficulty_score": 600,
+        "explanation": "هي تقليب الأحوال بين النصر والهزيمة لتمحيص المؤمنين وإظهار الصادقين.",
+        "choices": [
+            { "choice_text": "تداول العملات", "is_correct": false },
+            { "choice_text": "تقليب الأحوال بين النصر والهزيمة للتمحيص", "is_correct": true },
+            { "choice_text": "المبادلة في التجارة", "is_correct": false },
+            { "choice_text": "انتقال الملك بين الملوك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم اختيار سعد بن معاذ للحكم رغم جراحه الشديدة؟",
+        "difficulty_score": 700,
+        "explanation": "لأن اليهود ارتضوه حكماً، ولأنه كان أعرف الناس بمكرهم وغدرهم كونه حليفهم السابق.",
+        "choices": [
+            { "choice_text": "لأنه كان الوحيد الموجود", "is_correct": false },
+            { "choice_text": "لأنه طلب ذلك بنفسه", "is_correct": false },
+            { "choice_text": "لأن اليهود ارتضوه ولأمانته وعلمه بغدرهم", "is_correct": true },
+            { "choice_text": "لأنه كان قريباً من مكان الغزوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ بالدماء التي كانت تنزف من سعد بن معاذ؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أن النبي ﷺ مسح عليه فاستمسك الدم (توقف النزيف مؤقتاً ببركته ﷺ).",
+        "choices": [
+            { "choice_text": "غسلها بالماء", "is_correct": false },
+            { "choice_text": "مسح عليه فاستمسك الدم", "is_correct": true },
+            { "choice_text": "تركها تسيل", "is_correct": false },
+            { "choice_text": "ضمّدها بالقطن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'سيد الأوس' الذي اهتز له العرش؟",
+        "difficulty_score": 100,
+        "explanation": "هو سعد بن معاذ رضي الله عنه وأرضاه.",
+        "choices": [
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "سعد بن معاذ", "is_correct": true },
+            { "choice_text": "أسيد بن حضير", "is_correct": false },
+            { "choice_text": "عبادة بن الصامت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه السور ذكرت رعب اليهود في حصونهم؟",
+        "difficulty_score": 300,
+        "explanation": "سورة الحشر وسورة الأحزاب ذكرتا تحصن اليهود وقذف الرعب في قلوبهم.",
+        "choices": [
+            { "choice_text": "سورة الفاتحة", "is_correct": false },
+            { "choice_text": "سورة الأحزاب", "is_correct": true },
+            { "choice_text": "سورة الكهف", "is_correct": false },
+            { "choice_text": "سورة يوسف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أهم نتيجة استراتيجية لغزوة بني قريظة؟",
+        "difficulty_score": 800,
+        "explanation": "تطهير المدينة من الغدر الداخلي تماماً والاستعداد لمواجهة الأعداء في الخارج.",
+        "choices": [
+            { "choice_text": "الحصول على الذهب", "is_correct": false },
+            { "choice_text": "تطهير المدينة من الغدر الداخلي", "is_correct": true },
+            { "choice_text": "هدم الجبال", "is_correct": false },
+            { "choice_text": "بناء خندق جديد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو شعار المؤمنين الذي طبقه فريق 'المقصد الشرعي'؟",
+        "difficulty_score": 700,
+        "explanation": "شعارهم هو فهم مراد الشارع وروحه مع الحفاظ على الأركان والواجبات.",
+        "choices": [
+            { "choice_text": "التمسك بالظاهر فقط", "is_correct": false },
+            { "choice_text": "فهم مراد الشارع ومقاصده", "is_correct": true },
+            { "choice_text": "ترك الصلاة تماماً", "is_correct": false },
+            { "choice_text": "التشدد في كل شيء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان يسكن بنو قريظة بالنسبة للمدينة؟",
+        "difficulty_score": 400,
+        "explanation": "كانوا يسكنون في جهة الجنوب من المدينة المنورة.",
+        "choices": [
+            { "choice_text": "في الشمال", "is_correct": false },
+            { "choice_text": "في الجنوب", "is_correct": true },
+            { "choice_text": "في الشرق", "is_correct": false },
+            { "choice_text": "في الغرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال عائشة رضي الله عنها عن تبليغ النبي ﷺ للوحي؟",
+        "difficulty_score": 800,
+        "explanation": "قالت لو كان كاتماً شيئاً لكتم آية عتابه في قصة زواجه من زينب، دلالة على كمال بلاغه.",
+        "choices": [
+            { "choice_text": "كان ينسى بعض الآيات", "is_correct": false },
+            { "choice_text": "بلغ الوحي كاملاً حتى ما فيه عتاب له", "is_correct": true },
+            { "choice_text": "كان يكتب الوحي بنفسه", "is_correct": false },
+            { "choice_text": "كتم بعض الأسرار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مصير 'ذراري' بني قريظة حسب حكم سعد؟",
+        "difficulty_score": 500,
+        "explanation": "حكم سعد بن معاذ بأن تُسبى ذراريهم (النساء والأطفال).",
+        "choices": [
+            { "choice_text": "القتل", "is_correct": false },
+            { "choice_text": "السبي", "is_correct": true },
+            { "choice_text": "النفي لخارج الجزيرة", "is_correct": false },
+            { "choice_text": "الإسلام الإجباري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان موقف المنافقين أثناء حصار الخندق كما وصفته الآيات؟",
+        "difficulty_score": 600,
+        "explanation": "كانوا يثبطون المؤمنين ويقولون: {ما وعدنا الله ورسوله إلا غرورا}.",
+        "choices": [
+            { "choice_text": "كانوا شجعاناً", "is_correct": false },
+            { "choice_text": "كانوا يثبطون ويشككون في الوعد", "is_correct": true },
+            { "choice_text": "هربوا لمكة فوراً", "is_correct": false },
+            { "choice_text": "حفروا الخندق مع المسلمين بجد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'اللبّة' التي انفجر منها جرح سعد؟",
+        "difficulty_score": 900,
+        "explanation": "اللبّة هي موضع القلادة من الصدر، وهو المكان الذي أصابه فيه السهم وانفجر منه الدم.",
+        "choices": [
+            { "choice_text": "القدم", "is_correct": false },
+            { "choice_text": "الرأس", "is_correct": false },
+            { "choice_text": "موضع القلادة في الصدر", "is_correct": true },
+            { "choice_text": "اليد اليمنى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من مداولة الأيام بين الحق والباطل؟",
+        "difficulty_score": 700,
+        "explanation": "ليعلم الله الذين آمنوا، ويتخذ منهم شهداء، ويمحص الذين آمنوا ويمحق الكافرين.",
+        "choices": [
+            { "choice_text": "لتسلية الناس", "is_correct": false },
+            { "choice_text": "للتمحيص واتخاذ الشهداء ومحق الكفر", "is_correct": true },
+            { "choice_text": "لإطالة أمد الحرب", "is_correct": false },
+            { "choice_text": "لزيادة ثروات المؤمنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي ذكره المصدر في مقدمة الدرس؟",
+        "difficulty_score": 100,
+        "explanation": "هو النبي محمد ﷺ، حيث يدور الدرس حول سيرته العطرة.",
+        "choices": [
+            { "choice_text": "عيسى عليه السلام", "is_correct": false },
+            { "choice_text": "موسى عليه السلام", "is_correct": false },
+            { "choice_text": "محمد ﷺ", "is_correct": true },
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال سعد بن معاذ في 'الإفك' عن الخزرجي الذي يؤذي النبي ﷺ؟",
+        "difficulty_score": 800,
+        "explanation": "قال: 'إن كان من الأوس ضربنا عنقه، وإن كان من إخواننا من الخزرج أمرتنا ففعلنا أمرك'.",
+        "choices": [
+            { "choice_text": "سأعتذر له", "is_correct": false },
+            { "choice_text": "سأقتله دون إذنك", "is_correct": false },
+            { "choice_text": "أمرتنا ففعلنا أمرك (في ضرب عنقه)", "is_correct": true },
+            { "choice_text": "سأتركه لله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة الختامية للدرس في المصدر؟",
+        "difficulty_score": 200,
+        "explanation": "ختم المصدر بالحمد لله رب العالمين والصلاة على المرسلين.",
+        "choices": [
+            { "choice_text": "إلى اللقاء في معركة قادمة", "is_correct": false },
+            { "choice_text": "الحمد لله رب العالمين", "is_correct": true },
+            { "choice_text": "انتهى الدرس بسلام", "is_correct": false },
+            { "choice_text": "تمت الأسئلة", "is_correct": false }
+        ]
+    }
+]
+    }

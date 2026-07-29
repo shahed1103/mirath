@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 49,
+    "questions": [
+        {
+        "question_text": "في أي سنة تقريبية من البعثة بدأ حصار شعب بني هاشم؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن الحديث عن الحصار بدأ عند الوصول للسنة السابعة من البعثة تقريباً [1].",
+        "choices": [
+            { "choice_text": "السنة الخامسة", "is_correct": false },
+            { "choice_text": "السنة السابعة", "is_correct": true },
+            { "choice_text": "السنة العاشرة", "is_correct": false },
+            { "choice_text": "السنة الثالثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي طبيعة الحصار الذي فرضته قريش على النبي صلى الله عليه وسلم في الشعب؟",
+        "difficulty_score": 200,
+        "explanation": "أوضح المصدر أنه ليس حصاراً بجيش محيط، بل هو حصار اجتماعي واقتصادي وضغط [7].",
+        "choices": [
+            { "choice_text": "حصار عسكري بالسيوف", "is_correct": false },
+            { "choice_text": "حصار اجتماعي واقتصادي", "is_correct": true },
+            { "choice_text": "منع الصلاة في الحرم فقط", "is_correct": false },
+            { "choice_text": "نفيهم خارج مكة تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين وضع رؤوس قريش 'صحيفة البنود' لتوثيق مقاطعة بني هاشم؟",
+        "difficulty_score": 150,
+        "explanation": "علقوا صحيفة البنود في الكعبة لتعظيمهم لها وحتى لا تُنقض [4].",
+        "choices": [
+            { "choice_text": "في دار الندوة", "is_correct": false },
+            { "choice_text": "في بيت أبي جهل", "is_correct": false },
+            { "choice_text": "في الكعبة", "is_correct": true },
+            { "choice_text": "على جبل أبي قبيس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كانت مدة الحصار الذي قضاه النبي صلى الله عليه وسلم ومن معه في الشعب؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن هذا الحال استمر ثلاث سنوات كما يذكر أهل السير [3].",
+        "choices": [
+            { "choice_text": "سنة واحدة", "is_correct": false },
+            { "choice_text": "سنتان", "is_correct": false },
+            { "choice_text": "ثلاث سنوات", "is_correct": true },
+            { "choice_text": "أربع سنوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'عام الحزن' وفقاً للسيرة النبوية؟",
+        "difficulty_score": 250,
+        "explanation": "هو العام الذي توفي فيه أبو طالب وتبعه بفترة قصيرة وفاة خديجة رضي الله عنها [8، 9].",
+        "choices": [
+            { "choice_text": "عام الهجرة للمدينة", "is_correct": false },
+            { "choice_text": "عام وفاة أبي طالب وخديجة", "is_correct": true },
+            { "choice_text": "عام وقوع غزوة أحد", "is_correct": false },
+            { "choice_text": "عام بدء الجهر بالدعوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من كان يمثل 'المؤازرة الخارجية' للنبي صلى الله عليه وسلم وحمايته من قريش؟",
+        "difficulty_score": 300,
+        "explanation": "كان أبو طالب هو من يحمي النبي ويحوطه ويشكل له المؤازرة الخارجية أمام قريش [8].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "خديجة بنت خويلد", "is_correct": false },
+            { "choice_text": "أبو طالب", "is_correct": true },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من كان يمثل 'المؤازرة الداخلية' والسكينة للنبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "كانت خديجة رضي الله عنها هي التي تؤازره وتمسح عنه وتخفف عنه ما يجد، وتشكل له المؤازرة الداخلية [8، 32].",
+        "choices": [
+            { "choice_text": "فاطمة الزهراء", "is_correct": false },
+            { "choice_text": "خديجة بنت خويلد", "is_correct": true },
+            { "choice_text": "عائشة رضي الله عنها", "is_correct": false },
+            { "choice_text": "أم سلمة رضي الله عنها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي الحصار بـ 'تقاسم على الكفر'؟",
+        "difficulty_score": 400,
+        "explanation": "لأن رؤوس قريش تقاسموا وتعاهدوا على الكفر والقطيعة في ذلك الحصار كما جاء في الحديث الصحيح [9].",
+        "choices": [
+            { "choice_text": "لأنه وقع في بلاد كافرة", "is_correct": false },
+            { "choice_text": "لأنهم تعاهدوا فيه على الكفر والظلم", "is_correct": true },
+            { "choice_text": "لأنه أدى لارتداد بعض المسلمين", "is_correct": false },
+            { "choice_text": "لأن المسلمين حاصروا الكفار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من البطون التي دخلت في الحصار مع بني هاشم بدافع النصرة والقرابة؟",
+        "difficulty_score": 450,
+        "explanation": "بنو المطلب دخلوا مع بني هاشم في الشعب ودافعوا عن النبي صلى الله عليه وسلم [10].",
+        "choices": [
+            { "choice_text": "بنو أمية", "is_correct": false },
+            { "choice_text": "بنو عبد شمس", "is_correct": false },
+            { "choice_text": "بنو المطلب", "is_correct": true },
+            { "choice_text": "بنو نوفل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سنة للهجرة تم تقسيم غنائم خيبر التي ارتبطت بمواقف الحصار القديمة؟",
+        "difficulty_score": 350,
+        "explanation": "وقعت غزوة خيبر وتقسيم غنائمها في السنة السابعة للهجرة [11].",
+        "choices": [
+            { "choice_text": "السنة الخامسة للهجرة", "is_correct": false },
+            { "choice_text": "السنة السادسة للهجرة", "is_correct": false },
+            { "choice_text": "السنة السابعة للهجرة", "is_correct": true },
+            { "choice_text": "السنة الثامنة للهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هما الرجلان اللذان جاآ للنبي يطلبان من غنائم خيبر بحجة تساوي القرابة مع بني المطلب؟",
+        "difficulty_score": 500,
+        "explanation": "هما عثمان بن عفان (من بني عبد شمس) وجبير بن مطعم (من بني نوفل) [12].",
+        "choices": [
+            { "choice_text": "أبو سفيان وحكيم بن حزام", "is_correct": false },
+            { "choice_text": "عثمان بن عفان وجبير بن مطعم", "is_correct": true },
+            { "choice_text": "طلحة والزبير", "is_correct": false },
+            { "choice_text": "حمزة والعباس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم مبرراً إعطاءه لبني المطلب في خيبر؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'إنما بنو المطلب وبنو هاشم شيء واحد'، لقربهم ونصرتهم له في الجاهلية والحصار [10].",
+        "choices": [
+            { "choice_text": "لأنهم أسلموا قديماً", "is_correct": false },
+            { "choice_text": "إنما بنو المطلب وبنو هاشم شيء واحد", "is_correct": true },
+            { "choice_text": "لأنهم أكثر فقراً", "is_correct": false },
+            { "choice_text": "لأنهم طلبوا العفو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشاعر الذي قال 'اللامية' المشهورة التي يشتكي فيها من بني عبد شمس ونوفل؟",
+        "difficulty_score": 300,
+        "explanation": "أبو طالب هو صاحب اللامية المشهورة التي قال عنها ابن كثير إنها أفخم من المعلقات [10].",
+        "choices": [
+            { "choice_text": "حسان بن ثابت", "is_correct": false },
+            { "choice_text": "كعب بن مالك", "is_correct": false },
+            { "choice_text": "أبو طالب", "is_correct": true },
+            { "choice_text": "عبد الله بن رواحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مذهب الإمام الشافعي في تحديد 'ذوي القربى' الذين لهم سهم في الغنيمة؟",
+        "difficulty_score": 500,
+        "explanation": "يرى الشافعي أنهم بنو هاشم وبنو المطلب فقط بناءً على فعل النبي [13].",
+        "choices": [
+            { "choice_text": "بنو هاشم فقط", "is_correct": false },
+            { "choice_text": "كل قريش", "is_correct": false },
+            { "choice_text": "بنو هاشم وبنو المطلب", "is_correct": true },
+            { "choice_text": "بنو عبد مناف كلهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الكلمة التي كان النبي صلى الله عليه وسلم يرجو أن يقولها أبو طالب عند موته؟",
+        "difficulty_score": 100,
+        "explanation": "كان يقول له: 'يا عم قل: لا إله إلا الله، كلمة أحاج لك بها عند الله' [2].",
+        "choices": [
+            { "choice_text": "أستغفر الله", "is_correct": false },
+            { "choice_text": "لا إله إلا الله", "is_correct": true },
+            { "choice_text": "محمد رسول الله", "is_correct": false },
+            { "choice_text": "آمنت بالله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا مات أبو طالب وفقاً لما ذكره في صحيح البخاري؟",
+        "difficulty_score": 400,
+        "explanation": "مات على ملة عبد المطلب، وأبى أن يقول لا إله إلا الله [18، 19].",
+        "choices": [
+            { "choice_text": "على الإسلام سراً", "is_correct": false },
+            { "choice_text": "على ملة عبد المطلب", "is_correct": true },
+            { "choice_text": "مات ولم يتكلم بشيء", "is_correct": false },
+            { "choice_text": "على دين النصارى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي نزلت في شأن حرص النبي على هداية عمه أبي طالب؟",
+        "difficulty_score": 450,
+        "explanation": "نزلت فيه قوله تعالى: {إنك لا تهدي من أحببت ولكن الله يهدي من يشاء} [14].",
+        "choices": [
+            { "choice_text": "{يا أيها النبي جاهد الكفار}", "is_correct": false },
+            { "choice_text": "{إنك لا تهدي من أحببت}", "is_correct": true },
+            { "choice_text": "{ليس لك من الأمر شيء}", "is_correct": false },
+            { "choice_text": "{تبت يدا أبي لهب}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا برر أبو طالب عدم قوله للشهادة رغم علمه بصدق النبي؟",
+        "difficulty_score": 500,
+        "explanation": "قال لولا أن تعيرني قريش يقولون إنما حمله على ذلك الجزع (الخوف من الموت) لأقررت بها عينك [6].",
+        "choices": [
+            { "choice_text": "لأنه لم يكن مقتنعاً", "is_correct": false },
+            { "choice_text": "خوفاً من تعيير قريش له بالجزع", "is_correct": true },
+            { "choice_text": "لأنه كان يكره النبي", "is_correct": false },
+            { "choice_text": "بسبب عداوته لأبي بكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو حال أبو طالب في النار بفضل شفاعة النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 400,
+        "explanation": "هو في ضحضاح من نار يغلي منه دماغه، وهو أهون أهل النار عذاباً [15].",
+        "choices": [
+            { "choice_text": "في الدرك الأسفل", "is_correct": false },
+            { "choice_text": "في ضحضاح من نار", "is_correct": true },
+            { "choice_text": "خرج من النار للجنة", "is_correct": false },
+            { "choice_text": "لا يعذب أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الفئة التي يدعي أفرادها أن أبا طالب في الجنة بناءً على العاطفة لا العلم؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر المصدر أن الشيعة هم أشهر من عرفوا بادعاء أن أبا طالب في الجنة [16].",
+        "choices": [
+            { "choice_text": "الخوارج", "is_correct": false },
+            { "choice_text": "المعتزلة", "is_correct": false },
+            { "choice_text": "الشيعة", "is_correct": true },
+            { "choice_text": "المرجئة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشرط الأساسي لقبول العمل عند الله وفقاً للمصدر؟",
+        "difficulty_score": 300,
+        "explanation": "الشرط هو الاستسلام لله والإذعان له بأنه لا إله إلا هو (الإسلام) [17].",
+        "choices": [
+            { "choice_text": "صلة الرحم فقط", "is_correct": false },
+            { "choice_text": "إطعام المساكين فقط", "is_correct": false },
+            { "choice_text": "الدخول في الإسلام والتوحيد", "is_correct": true },
+            { "choice_text": "نصرة المظلوم فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي سألت عنه عائشة النبي إن كان ينفعه إطعامه للمساكين في الجاهلية؟",
+        "difficulty_score": 500,
+        "explanation": "سألت عن 'ابن جدعان'، فقال النبي إنه لا ينفعه لأنه لم يقل يوماً 'رب اغفر لي خطيئتي يوم الدين' [17].",
+        "choices": [
+            { "choice_text": "أبو لهب", "is_correct": false },
+            { "choice_text": "ابن جدعان", "is_correct": true },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false },
+            { "choice_text": "عمرو بن لحي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم لمن أسلم وكان قد فعل خيراً في الجاهلية؟",
+        "difficulty_score": 450,
+        "explanation": "قال له: 'أسلمت على ما سلف من خير'، أي يُكتب له خيره السابق ببركة الإسلام [18].",
+        "choices": [
+            { "choice_text": "خيرك السابق ضاع", "is_correct": false },
+            { "choice_text": "أسلمت على ما سلف من خير", "is_correct": true },
+            { "choice_text": "يجب أن تعيد كل أعمالك", "is_correct": false },
+            { "choice_text": "الإسلام يجبُّ ما قبله فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الحكمة من عدم دخول أبي طالب الجنة رغم نصرته العظيمة؟",
+        "difficulty_score": 550,
+        "explanation": "لبيان أن الدين ليس فيه مجاملات ولا محسوبيات، وأن حق الله في التوحيد مقدم على كل شيء [22، 27].",
+        "choices": [
+            { "choice_text": "لأنه لم ينصر النبي حقاً", "is_correct": false },
+            { "choice_text": "لبيان عظمة حق الله في التوحيد", "is_correct": true },
+            { "choice_text": "لأن قريشاً منعته", "is_correct": false },
+            { "choice_text": "لأن النبي لم يشفع له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا يُعرف الموحدون في النار حتى يشفع لهم إخوانهم؟",
+        "difficulty_score": 500,
+        "explanation": "يعرفونهم بوجوههم (أثر السجود)، فيشفعون لهم ويخرجونهم [19].",
+        "choices": [
+            { "choice_text": "بثيابهم", "is_correct": false },
+            { "choice_text": "بوجوههم", "is_correct": true },
+            { "choice_text": "بأصواتهم", "is_correct": false },
+            { "choice_text": "بأسمائهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الجليس السيء الذي شبهه النبي بـ 'نافخ الكير'؟",
+        "difficulty_score": 200,
+        "explanation": "الجليس السيء هو من قد يحرق ثيابك أو تجد منه ريحاً خبيثة، كأثر أبي جهل على أبي طالب [20].",
+        "choices": [
+            { "choice_text": "بائع المسك", "is_correct": false },
+            { "choice_text": "صاحب التجارة", "is_correct": false },
+            { "choice_text": "نافخ الكير", "is_correct": true },
+            { "choice_text": "المسافر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت تفعل خديجة رضي الله عنها عندما كان النبي يعود من أذى المشركين؟",
+        "difficulty_score": 250,
+        "explanation": "كانت تؤازره وتمسح عنه وتخفف وتُسري عنه ما يجد [21].",
+        "choices": [
+            { "choice_text": "تطلب منه ترك الدعوة", "is_correct": false },
+            { "choice_text": "تؤازره وتخفف عنه", "is_correct": true },
+            { "choice_text": "تحثه على الهجرة وحدها", "is_correct": false },
+            { "choice_text": "تبكي وتزيد حزنه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الزوجة التي قالت 'ما غرت على امرأة ما غرت على خديجة'؟",
+        "difficulty_score": 150,
+        "explanation": "هي عائشة رضي الله عنها، بسبب كثرة ذكر النبي لخديجة [21].",
+        "choices": [
+            { "choice_text": "سودة بنت زمعة", "is_correct": false },
+            { "choice_text": "حفصة بنت عمر", "is_correct": false },
+            { "choice_text": "عائشة رضي الله عنها", "is_correct": true },
+            { "choice_text": "زينب بنت جحش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان النبي صلى الله عليه وسلم يصل صديقات خديجة بعد وفاتها؟",
+        "difficulty_score": 400,
+        "explanation": "كان يذبح الشاة ويبعث بقطعها إلى صديقات (خلايل) خديجة إكراماً لذكراها [22].",
+        "choices": [
+            { "choice_text": "يزورهن في بيوتهن دائماً", "is_correct": false },
+            { "choice_text": "يرسل لهن الصدقات واللحم", "is_correct": true },
+            { "choice_text": "يدعوهن للسكن في بيته", "is_correct": false },
+            { "choice_text": "لم يكن يذكرهن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا بشر جبريل عليه السلام خديجة رضي الله عنها؟",
+        "difficulty_score": 450,
+        "explanation": "بشرها ببيت في الجنة من قصب (لؤلؤ مجوف) لا صخب فيه ولا نصب [23].",
+        "choices": [
+            { "choice_text": "بأنها ستكون ملكة في الجنة", "is_correct": false },
+            { "choice_text": "ببيت من قصب لا صخب فيه ولا نصب", "is_correct": true },
+            { "choice_text": "بأنها أول من يدخل الجنة", "is_correct": false },
+            { "choice_text": "بأنها ستحكم مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'لا صخب فيه ولا نصب' في وصف بيت خديجة؟",
+        "difficulty_score": 500,
+        "explanation": "الصخب هو الضجيج، والنصب هو التعب، والجزاء من جنس عملها في الراحة التي وفرتها للنبي [35، 36].",
+        "choices": [
+            { "choice_text": "لا حزن فيه ولا خوف", "is_correct": false },
+            { "choice_text": "لا ضجيج فيه ولا تعب", "is_correct": true },
+            { "choice_text": "لا جوع فيه ولا عطش", "is_correct": false },
+            { "choice_text": "لا حر فيه ولا برد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استشهد في بدر من بني المطلب وذكر المصدر اسمه؟",
+        "difficulty_score": 550,
+        "explanation": "هو عبيد بن الحارث الذي كان ممن بارز واستشهد في بدر [12].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "عبيد بن الحارث", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أهون أهل النار عذاباً' يوم القيامة؟",
+        "difficulty_score": 200,
+        "explanation": "هو أبو طالب، حيث يوضع في أخمص قدميه جمرتان يغلي منهما دماغه [15].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أبو لهب", "is_correct": false },
+            { "choice_text": "أبو طالب", "is_correct": true },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني كلمة 'ارتاع' في سياق استئذان هالة أخت خديجة؟",
+        "difficulty_score": 600,
+        "explanation": "أي فزع أو اهتز وتغير حاله تذكراً لصوت وشخصية خديجة رضي الله عنها [24].",
+        "choices": [
+            { "choice_text": "خاف وهرب", "is_correct": false },
+            { "choice_text": "اهتز وتذكر بعمق", "is_correct": true },
+            { "choice_text": "غضب وحزن", "is_correct": false },
+            { "choice_text": "ضحك واستبشر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من ذكر قصة 'ابن جدعان' في المصدر؟",
+        "difficulty_score": 450,
+        "explanation": "التأكيد على أن العمل الصالح بدون إيمان لا ينجي من النار [17].",
+        "choices": [
+            { "choice_text": "الحث على إطعام المساكين", "is_correct": false },
+            { "choice_text": "بيان فضل قريش", "is_correct": false },
+            { "difficulty_score": 450, "choice_text": "التأكيد على شرط الإيمان لقبول العمل", "is_correct": true },
+            { "choice_text": "مدح الكرم العربي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الشاكرون' وفقاً لبعض العلماء في تفسير سورة الأنعام؟",
+        "difficulty_score": 650,
+        "explanation": "هم الذين يقدرون نعمة الإيمان فيشكرون الله عليها [25].",
+        "choices": [
+            { "choice_text": "الذين يشكرون على المال", "is_correct": false },
+            { "choice_text": "الذين يقدرون نعمة الإيمان", "is_correct": true },
+            { "choice_text": "الذين يشكرون على الصحة", "is_correct": false },
+            { "choice_text": "الذين يؤدون الزكاة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الضحضاح' من النار؟",
+        "difficulty_score": 600,
+        "explanation": "هو الماء القليل الذي يبلغ الكعبين، واستخدم لوصف أقل درجات العذاب في النار [15].",
+        "choices": [
+            { "choice_text": "النار العميقة جداً", "is_correct": false },
+            { "choice_text": "النار القليلة التي تبلغ الكعبين", "is_correct": true },
+            { "choice_text": "البرد الشديد في النار", "is_correct": false },
+            { "choice_text": "الدخان الكثيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان شعور قريش تجاه الكعبة مما جعلهم يعلقون الصحيفة فيها؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يعظمون الكعبة، لذا وضعوا الصحيفة فيها لتأكيد الالتزام بها [4].",
+        "choices": [
+            { "choice_text": "الخوف منها", "is_correct": false },
+            { "choice_text": "التعظيم والمقدس", "is_correct": true },
+            { "choice_text": "عدم الاهتمام", "is_correct": false },
+            { "choice_text": "الرغبة في هدمها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو جد النبي صلى الله عليه وسلم الذي يجمع بني هاشم وبني المطلب وبني عبد شمس ونوفل؟",
+        "difficulty_score": 700,
+        "explanation": "هو عبد مناف، الذي أنجب هاشماً والمطلب وعبد شمس ونوفلاً [26].",
+        "choices": [
+            { "choice_text": "قصي بن كلاب", "is_correct": false },
+            { "choice_text": "عبد المطلب", "is_correct": false },
+            { "choice_text": "عبد مناف", "is_correct": true },
+            { "choice_text": "لؤي بن غالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو هدف قريش الأساسي من حصار الشعب؟",
+        "difficulty_score": 250,
+        "explanation": "تضييق الخناق على البيئة الحاضنة للنبي حتى يضطروا لتسليمه ليقتلوه [9].",
+        "choices": [
+            { "choice_text": "أخذ أموالهم", "is_correct": false },
+            { "choice_text": "إجبارهم على الهجرة", "is_correct": false },
+            { "choice_text": "الضغط لتسليم النبي لقتله", "is_correct": true },
+            { "choice_text": "منعهم من الحج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الأبناء الأربعة لعبد مناف الذين تفرعت منهم بطون قريش المعنية في أحداث الحصار؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر أن عبد مناف أنجب هاشماً والمطلب وعبد شمس ونوفلاً، وهم الأصول التي دار حولها نقاش تقسيم الغنائم والولاء [1].",
+        "choices": [
+            { "choice_text": "هاشم، المطلب، أمية، قصي", "is_correct": false },
+            { "choice_text": "هاشم، المطلب، عبد شمس، نوفل", "is_correct": true },
+            { "choice_text": "عبد المطلب، العباس، أبو طالب، حمزة", "is_correct": false },
+            { "choice_text": "عبد شمس، نوفل، أسد، زهرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من بطون بني عبد مناف كان منهم 'المطعم بن عدي' الذي أجار النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 600,
+        "explanation": "وفقاً للمصدر، المطعم بن عدي وجبير بن مطعم ينتمون إلى بني نوفل بن عبد مناف [1].",
+        "choices": [
+            { "choice_text": "بنو هاشم", "is_correct": false },
+            { "choice_text": "بنو المطلب", "is_correct": false },
+            { "choice_text": "بنو عبد شمس", "is_correct": false },
+            { "choice_text": "بنو نوفل", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما السبب الرئيسي الذي جعل النبي صلى الله عليه وسلم يرفض إعطاء بني عبد شمس ونوفل من سهم ذوي القربى في خيبر؟",
+        "difficulty_score": 800,
+        "explanation": "السبب هو موقفهم أثناء حصار الشعب، حيث كانوا مع المحاصرين (بكسر الصاد) ضد النبي، بينما دخل بنو المطلب مع بني هاشم في الحصار [2].",
+        "choices": [
+            { "choice_text": "لأنهم لم يكونوا من بني عبد مناف", "is_correct": false },
+            { "choice_text": "لأنهم كانوا أغنياء ولا يحتاجون المال", "is_correct": false },
+            { "choice_text": "لأنهم كانوا مع المحاصرين ضد النبي في الشعب", "is_correct": true },
+            { "choice_text": "لأنهم لم يسلموا إلا بعد فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي قال عنه النبي صلى الله عليه وسلم: 'لا ينفعه، إنه لم يقل يوماً: رب اغفر لي خطيئتي يوم الدين'؟",
+        "difficulty_score": 500,
+        "explanation": "هذا القول كان رداً على سؤال عائشة عن 'ابن جدعان' الذي كان يصل الرحم ويطعم المسكين في الجاهلية [21، 22].",
+        "choices": [
+            { "choice_text": "أبو طالب", "is_correct": false },
+            { "choice_text": "ابن جدعان", "is_correct": true },
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "المطعم بن عدي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف ابن كثير 'لامية' أبي طالب المشهورة؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن ابن كثير قال عنها إنها 'أفخم من المعلقات' [2].",
+        "choices": [
+            { "choice_text": "أنها أطول قصيدة في الجاهلية", "is_correct": false },
+            { "choice_text": "أنها أفخم من المعلقات", "is_correct": true },
+            { "choice_text": "أنها تسببت في إسلام الكثيرين", "is_correct": false },
+            { "choice_text": "أنها نظمت بعد الهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الصحابة التاليين ينتمي إلى بني المطلب الذين بارزوا في غزوة بدر؟",
+        "difficulty_score": 750,
+        "explanation": "ذكر المصدر 'عبيد بن الحارث' كنموذج لبني المطلب الذين نصروا النبي واستشهد منهم في بدر [3].",
+        "choices": [
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "عبيد بن الحارث", "is_correct": true },
+            { "choice_text": "مصعب بن عمير", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي استخدمها أبو جهل وعبد الله بن أبي أمية لصد أبي طالب عن التوحيد عند وفاته؟",
+        "difficulty_score": 300,
+        "explanation": "خاطبوه في عصبته ونسبه قائلين: 'أتغبر عن ملة عبد المطلب؟' [4].",
+        "choices": [
+            { "choice_text": "أترك دين آبائك؟", "is_correct": false },
+            { "choice_text": "أتغبر عن ملة عبد المطلب؟", "is_correct": true },
+            { "choice_text": "أتخاف من محمد؟", "is_correct": false },
+            { "choice_text": "أتريد دخول النار؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يستغفر النبي صلى الله عليه وسلم لعمه أبي طالب بعد وفاته كما أراد في البداية؟",
+        "difficulty_score": 550,
+        "explanation": "بسبب نزول النهي الإلهي في سورة التوبة: {ما كان للنبي والذين آمنوا أن يستغفروا للمشركين ولو كانوا أولي قربى} [5].",
+        "choices": [
+            { "choice_text": "لأن أبا طالب أوصى بذلك", "is_correct": false },
+            { "choice_text": "بسبب نزول آية النهي عن الاستغفار للمشركين", "is_correct": true },
+            { "choice_text": "لأن قريشاً منعته من ذلك", "is_correct": false },
+            { "choice_text": "لأنه نسي ذلك مع انشغاله بالدعوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس العقدي الأهم من قصة عدم إسلام أبي طالب رغم نصرته؟",
+        "difficulty_score": 650,
+        "explanation": "الدرس هو أن الدين ليس فيه محسوبيات أو مجاملات، وأن شرط النجاة هو التوحيد والاستسلام لله [6].",
+        "choices": [
+            { "choice_text": "أن القرابة تنفع دائماً", "is_correct": false },
+            { "choice_text": "أن الدين ليس فيه محسوبيات أو وساطات في أصل الإيمان", "is_correct": true },
+            { "choice_text": "أن العمل الصالح يكفي بدون شهادة", "is_correct": false },
+            { "choice_text": "أن النبي يملك الهداية لمن يحب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر قوله تعالى 'الشاكرون' في سياق الامتنان بنعمة الإيمان؟",
+        "difficulty_score": 850,
+        "explanation": "فسرهم بأنهم 'الذين يقدرون نعمة الإيمان فيشكرون الله عليها'، وهم عكس من يمنّون بإسلامهم [7].",
+        "choices": [
+            { "choice_text": "هم الذين يتصدقون بأموالهم", "is_correct": false },
+            { "choice_text": "هم الذين يقدرون نعمة الإيمان ويشكرون الله عليها", "is_correct": true },
+            { "choice_text": "هم المهاجرون والأنصار فقط", "is_correct": false },
+            { "choice_text": "هم الذين نجوا من حصار الشعب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'القصب' في بشرى جبريل لخديجة ببيت في الجنة؟",
+        "difficulty_score": 700,
+        "explanation": "المقصود به في الحديث 'اللؤلؤ المجوف' [8].",
+        "choices": [
+            { "choice_text": "الذهب الخالص", "is_correct": false },
+            { "choice_text": "اللؤلؤ المجوف", "is_correct": true },
+            { "choice_text": "زمرد أخضر", "is_correct": false },
+            { "choice_text": "فضة بيضاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ارتبط وصف بيت خديجة في الجنة بنفي 'الصخب' و 'النصب'؟",
+        "difficulty_score": 900,
+        "explanation": "لأنها وفرت للنبي الراحة (ضد النصب) والسكينة (ضد الصخب) في البيت عند عودته من أذى المشركين [35، 36].",
+        "choices": [
+            { "choice_text": "لأنها كانت تحب الهدوء في الدنيا", "is_correct": false },
+            { "choice_text": "جزاءً لها لتوفيرها السكينة والراحة للنبي في بيته", "is_correct": true },
+            { "choice_text": "لأن الجنة كلها لا صخب فيها أصلاً", "is_correct": false },
+            { "choice_text": "لأنها توفيت في وقت كان فيه صخب شديد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'الخليل' أو 'الخليلة' كما ورد في سياق إكرام النبي لصديقات خديجة؟",
+        "difficulty_score": 450,
+        "explanation": "كان النبي يرسل الصدقات لـ 'خلايل خديجة' أي صديقاتها المقربات وفاءً لها [9].",
+        "choices": [
+            { "choice_text": "الأقارب من النسب", "is_correct": false },
+            { "choice_text": "الأصدقاء المقربون", "is_correct": true },
+            { "choice_text": "الجيران في الحي", "is_correct": false },
+            { "choice_text": "المهاجرون الأوائل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ شبه النبي صلى الله عليه وسلم الجليس السوء في الحديث الذي استُشهد به في المصدر؟",
+        "difficulty_score": 200,
+        "explanation": "شبهه بـ 'نافخ الكير' الذي قد يحرق ثيابك أو تجد منه ريحاً خبيثة [10].",
+        "choices": [
+            { "choice_text": "بحامل المسك", "is_correct": false },
+            { "choice_text": "بنافخ الكير", "is_correct": true },
+            { "choice_text": "براعي الغنم", "is_correct": false },
+            { "choice_text": "بالتاجر الأمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية نزلت لتوضح أن النبي صلى الله عليه وسلم لا يملك هداية التوفيق والقلوب؟",
+        "difficulty_score": 500,
+        "explanation": "هي قوله تعالى: {إنك لا تهدي من أحببت ولكن الله يهدي من يشاء} [5].",
+        "choices": [
+            { "choice_text": "{يا أيها الرسول بلغ ما أنزل إليك}", "is_correct": false },
+            { "choice_text": "{إنك لا تهدي من أحببت}", "is_correct": true },
+            { "choice_text": "{فذكر إنما أنت مذكر}", "is_correct": false },
+            { "choice_text": "{ولو شاء ربك لآمن من في الأرض}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المؤازرة الخارجية' التي فقدها النبي بوفاة عمه أبي طالب؟",
+        "difficulty_score": 350,
+        "explanation": "هي الحماية الاجتماعية والقبلية والدفاع عنه أمام صناديد قريش [11].",
+        "choices": [
+            { "choice_text": "الدعم المالي", "is_correct": false },
+            { "choice_text": "الحماية والمنعة القبلية أمام المجتمع", "is_correct": true },
+            { "choice_text": "الدعم النفسي داخل البيت", "is_correct": false },
+            { "choice_text": "الوحي الإلهي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم ببنود الحصار عندما أرادت قريش نقضها؟",
+        "difficulty_score": 600,
+        "explanation": "تذكر الروايات (المشار إليها بالنقض) أن الأرضة أكلت الصحيفة إلا 'باسمك اللهم' [7، 8].",
+        "choices": [
+            { "choice_text": "أحرقها النبي بنفسه", "is_correct": false },
+            { "choice_text": "أخبرهم أن الأرضة أكلتها إلا ذكر الله", "is_correct": true },
+            { "choice_text": "سرقها المسلمون من الكعبة", "is_correct": false },
+            { "choice_text": "ضاعت في بئر زمزم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء كان له دور في 'نقض الصحيفة' بدافع النخوة والرحم؟",
+        "difficulty_score": 700,
+        "explanation": "المصدر أشار لـ 'أشراف من قريش' تحركت فيهم صلة الرحم [12].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "هشام بن عمرو والمطعم بن عدي وجماعة معهم", "is_correct": true },
+            { "choice_text": "أبو لهب", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي الحصار بـ 'حصار الشعب'؟",
+        "difficulty_score": 150,
+        "explanation": "نسبة للمكان الذي انحازوا إليه وهو 'شعب بني هاشم' جهة الجبل خلف المسعى [13].",
+        "choices": [
+            { "choice_text": "لأن الشعب كله حاصرهم", "is_correct": false },
+            { "choice_text": "نسبة لشعب بني هاشم (منطقة جبلية)", "is_correct": true },
+            { "choice_text": "لأنه حصار مشعّب الأطراف", "is_correct": false },
+            { "choice_text": "نسبة لملك الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة الحقيقية لشهادة 'لا إله إلا الله' كما وصفها المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "هي أعظم نعمة يدركها الإنسان وبها يُحقن الدم وتُضمن النجاة من الخلود في النار [14].",
+        "choices": [
+            { "choice_text": "مجرد كلمة تقال باللسان", "is_correct": false },
+            { "choice_text": "أعظم نعمة يستمسك بها الإنسان وشرط دخول الجنة", "is_correct": true },
+            { "choice_text": "وسيلة للحصول على الغنائم", "is_correct": false },
+            { "choice_text": "كلمة للتعارف بين المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، كيف يُعرف المؤمنون إخوانهم الموحدين في النار ليشفعوا لهم؟",
+        "difficulty_score": 750,
+        "explanation": "يعرفونهم بآثار السجود في وجوههم، حيث حرم الله على النار أن تأكل أثر السجود [15].",
+        "choices": [
+            { "choice_text": "بأصواتهم العالية", "is_correct": false },
+            { "choice_text": "بوجوههم (أثر السجود)", "is_correct": true },
+            { "choice_text": "بملابسهم البيضاء", "is_correct": false },
+            { "choice_text": "بوشم خاص على أيديهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أبو طالب في لاميته عن بني عبد شمس ونوفل؟",
+        "difficulty_score": 800,
+        "explanation": "دعا عليهم بالعقوبة العاجلة قائلاً: 'جزى الله عنا عبد شمس ونوفلاً.. عقوبة شر عاجلاً غير آجل' [16].",
+        "choices": [
+            { "choice_text": "دعا لهم بالهداية", "is_correct": false },
+            { "choice_text": "دعا عليهم بالعقوبة لخذلانهم إياه", "is_correct": true },
+            { "choice_text": "مدح كرمهم وجودهم", "is_correct": false },
+            { "choice_text": "شكرهم على نقض الحصار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان الفرق الزمني التقريبي بين بداية الحصار في الشعب وغزوة خيبر؟",
+        "difficulty_score": 850,
+        "explanation": "بدأ الحصار في السنة 7 من البعثة، وخيبر كانت في السنة 7 من الهجرة، وبينهما 13 سنة (فترة مكة المتبقية) [17].",
+        "choices": [
+            { "choice_text": "5 سنوات", "is_correct": false },
+            { "choice_text": "10 سنوات", "is_correct": false },
+            { "choice_text": "13 سنة تقريباً", "is_correct": true },
+            { "choice_text": "20 سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي البطون التالية لم تدخل في حلف 'ذوي القربى' عند الشافعي بناءً على أحداث الحصار؟",
+        "difficulty_score": 600,
+        "explanation": "بنو عبد شمس وبنو نوفل، لأنهم لم يناصروا النبي في الحصار [18].",
+        "choices": [
+            { "choice_text": "بنو هاشم", "is_correct": false },
+            { "choice_text": "بنو المطلب", "is_correct": false },
+            { "choice_text": "بنو عبد شمس", "is_correct": true },
+            { "choice_text": "كل ما سبق دخل في الحلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة النفسية التي أصابت النبي صلى الله عليه وسلم عند سماع صوت هالة بنت خويلد؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر استخدم كلمة 'ارتاع'، أي اهتز وتأثر بعمق لتذكر زوجته خديجة [19].",
+        "choices": [
+            { "choice_text": "الغضب", "is_correct": false },
+            { "choice_text": "الارتياع (الاهتزاز العاطفي)", "is_correct": true },
+            { "choice_text": "الخوف من الموت", "is_correct": false },
+            { "choice_text": "اللامبالاة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للحديث الصحيح، ما هي الكلمة التي سيخرج الله بها الناس من النار بعد شفاعة الشافعين؟",
+        "difficulty_score": 500,
+        "explanation": "سيخرج الله بفضله 'من قال لا إله إلا الله' ولو لم يعمل خيراً قط بعد التوحيد [15].",
+        "choices": [
+            { "choice_text": "أستغفر الله", "is_correct": false },
+            { "choice_text": "لا إله إلا الله", "is_correct": true },
+            { "choice_text": "الحمد لله", "is_correct": false },
+            { "choice_text": "الله أكبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المرض أو العلة التي كان يخشى أبو طالب أن تُوصف بها وفاته إذا أسلم؟",
+        "difficulty_score": 550,
+        "explanation": "كان يخشى أن يقال 'حمله على ذلك الجزع'، أي الخوف من الموت [4].",
+        "choices": [
+            { "choice_text": "الجنون", "is_correct": false },
+            { "choice_text": "الجزع (الخوف من الموت)", "is_correct": true },
+            { "choice_text": "الخرف", "is_correct": false },
+            { "choice_text": "الوهن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من كان جالساً عند رأس أبي طالب مع أبي جهل في لحظاته الأخيرة؟",
+        "difficulty_score": 700,
+        "explanation": "عبد الله بن أبي أمية [20].",
+        "choices": [
+            { "choice_text": "أبو لهب", "is_correct": false },
+            { "choice_text": "عبد الله بن أبي أمية", "is_correct": true },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر حال قريش بعد وفاة أبي طالب وخديجة مباشرة؟",
+        "difficulty_score": 450,
+        "explanation": "تجرؤوا على النبي صلى الله عليه وسلم بأذى فعلي لم يكونوا يجرؤون عليه في حياة أبي طالب [21].",
+        "choices": [
+            { "choice_text": "خافوا منه أكثر", "is_correct": false },
+            { "choice_text": "تجرؤوا عليه بالأذى الفعلي الشديد", "is_correct": true },
+            { "choice_text": "أسلم معظمهم حزناً عليهما", "is_correct": false },
+            { "choice_text": "عرضوا عليه الملك مرة أخرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة الآية {يمنون عليك أن أسلموا} في سياق الدرس؟",
+        "difficulty_score": 900,
+        "explanation": "الدلالة هي أن الله هو صاحب الفضل في الهداية، ولا يجوز للعبد أن يمنّ بإسلامه على الله أو رسوله [7].",
+        "choices": [
+            { "choice_text": "أن الإسلام يحتاج لمال كثير", "is_correct": false },
+            { "choice_text": "أن المنة لله وحده في الهداية للإيمان", "is_correct": true },
+            { "choice_text": "أن العرب هم أفضل الناس", "is_correct": false },
+            { "choice_text": "أن الصحابة كانوا أغنياء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي كان يُطلق على أبي طالب في نصرته للنبي وفقاً لابن إسحاق؟",
+        "difficulty_score": 750,
+        "explanation": "قال ابن إسحاق: 'حدب أبو طالب وحاطه'، أي حماه بشدة وعطف عليه [11].",
+        "choices": [
+            { "choice_text": "سيد مكة", "is_correct": false },
+            { "choice_text": "حدب النبي وحائطه", "is_correct": true },
+            { "choice_text": "أسد البطحاء", "is_correct": false },
+            { "choice_text": "الرجل الصالح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان موقف بني المطلب من الحصار في الشعب؟",
+        "difficulty_score": 500,
+        "explanation": "دخلوا مع بني هاشم في الشعب مؤازرة وحماية للنبي صلى الله عليه وسلم [2].",
+        "choices": [
+            { "choice_text": "كانوا مع قريش المحاصرين", "is_correct": false },
+            { "choice_text": "دخلوا مع بني هاشم في الحصار", "is_correct": true },
+            { "choice_text": "هاجروا للحبشة فوراً", "is_correct": false },
+            { "choice_text": "بقوا محايدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي استنتجه العلماء من قوله 'أسلمت على ما سلف من خير'؟",
+        "difficulty_score": 600,
+        "explanation": "أن الأعمال الصالحة في الجاهلية لا تضيع إذا ختم الله للعبد بالإسلام [6].",
+        "choices": [
+            { "choice_text": "أن الإسلام يمسح الحسنات السابقة", "is_correct": false },
+            { "choice_text": "أن العمل الصالح السابق يُكتب للمسلم ببركة إسلامه", "is_correct": true },
+            { "choice_text": "أن الكافر يُجازى في الآخرة بعمله", "is_correct": false },
+            { "choice_text": "أن الصدقة تغني عن الشهادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفكرة الأساسية التي ختم بها المصدر عن 'الصحبة الفاسدة'؟",
+        "difficulty_score": 400,
+        "explanation": "أنها خطيرة جداً وقد تحرم الإنسان من أعظم الحقوق (حق الله في التوحيد) كما فعل أصحاب أبي طالب [10].",
+        "choices": [
+            { "choice_text": "أنها مفيدة في التجارة", "is_correct": false },
+            { "choice_text": "أنها قد تبعد الإنسان عن الله وتقطع عليه الطريق", "is_correct": true },
+            { "choice_text": "أنها لا تؤثر على العقيدة", "is_correct": false },
+            { "choice_text": "أنها ضرورة اجتماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء لم يذكره المصدر كابن لعبد مناف؟",
+        "difficulty_score": 850,
+        "explanation": "ذكر هاشم والمطلب وعبد شمس ونوفل، ولم يذكر 'أسد' كابن لعبد مناف [1].",
+        "choices": [
+            { "choice_text": "نوفل", "is_correct": false },
+            { "choice_text": "أسد", "is_correct": true },
+            { "choice_text": "المطلب", "is_correct": false },
+            { "choice_text": "عبد شمس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي لكثرة ذكر النبي لخديجة على عائشة رضي الله عنهما؟",
+        "difficulty_score": 250,
+        "explanation": "أثار غيرتها لدرجة قالت إنها لم تغر من امرأة كما غارت من خديجة المتوفاة [22].",
+        "choices": [
+            { "choice_text": "السعادة والسرور", "is_correct": false },
+            { "choice_text": "الغيرة الاستثنائية", "is_correct": true },
+            { "choice_text": "عدم الاهتمام", "is_correct": false },
+            { "choice_text": "الرغبة في التعرف عليها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'أبناء عمومتكم في هذا الحال' في سياق نقض الحلف؟",
+        "difficulty_score": 500,
+        "explanation": "يقصد بها بني هاشم وبني المطلب المحاصرين الذين يعانون من الجوع والضيق [12].",
+        "choices": [
+            { "choice_text": "المهاجرين في الحبشة", "is_correct": false },
+            { "choice_text": "بني هاشم والمطلب المحاصرين في الشعب", "is_correct": true },
+            { "choice_text": "كفار قريش", "is_correct": false },
+            { "choice_text": "اليهود في خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرسالة النهائية التي وجهها المصدر للمصلحين الشباب؟",
+        "difficulty_score": 350,
+        "explanation": "عدم المساومة في موضوع الصحبة واختيار من يوصل إلى الله عز وجل [23].",
+        "choices": [
+            { "choice_text": "جمع المال أولاً", "is_correct": false },
+            { "choice_text": "عدم المجاملة في اختيار الأصحاب الصالحين", "is_correct": true },
+            { "choice_text": "الانعزال عن المجتمع تماماً", "is_correct": false },
+            { "choice_text": "السفر لطلب العلم في الخارج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'حيث تقاسموا على الكفر' في الحديث النبوي؟",
+        "difficulty_score": 600,
+        "explanation": "تعني تحالف قريش في منطقة 'خيف بني كنانة' على محاصرة النبي وأصحابه [24].",
+        "choices": [
+            { "choice_text": "توزيع أموال الكفار", "is_correct": false },
+            { "choice_text": "تحالفهم وتعاهدهم على الكفر والظلم في الحصار", "is_correct": true },
+            { "choice_text": "دخولهم في دين جديد", "is_correct": false },
+            { "choice_text": "قتالهم لبعضهم البعض", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الآخر الذي قد يُطلق على 'شعب بني هاشم' وفقاً لموقعه الجغرافي المذكور؟",
+        "difficulty_score": 900,
+        "explanation": "ذكر المصدر أنه يقع 'خلف الجبل جهة المسعى'، ولم يعطِ اسماً جغرافياً بديلاً صريحاً سوى موقعه [13].",
+        "choices": [
+            { "choice_text": "شعب علي", "is_correct": false },
+            { "choice_text": "منطقة خلف الجبل جهة المسعى", "is_correct": true },
+            { "choice_text": "وادي إبراهيم", "is_correct": false },
+            { "choice_text": "جبل أحد", "is_correct": false }
+        ]
+    }
+]
+    }

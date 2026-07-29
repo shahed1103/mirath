@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 64,
+    "questions": [
+        {
+        "question_text": "في أي سنة هجرية وقعت أحداث صلح الحديبية؟",
+        "difficulty_score": 100,
+        "explanation": "وقعت أحداث الحديبية في السنة السادسة من الهجرة النبوية [1].",
+        "choices": [
+            { "choice_text": "السنة الخامسة للهجرة", "is_correct": false },
+            { "choice_text": "السنة السادسة للهجرة", "is_correct": true },
+            { "choice_text": "السنة السابعة للهجرة", "is_correct": false },
+            { "choice_text": "السنة الثامنة للهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد للمصلحين من قلة عدد جيش المسلمين في الحديبية (1400) مقارنة بمن دخلوا بعد ذلك؟",
+        "difficulty_score": 300,
+        "explanation": "الدرس هو عدم المراهنة على مجرد الأعداد والجمهور العريض، بل على 'حملة الدين' الذين تربوا وتشربوا حقائق الإسلام [4].",
+        "choices": [
+            { "choice_text": "أن كثرة العدد هي الضمان الوحيد للنصر", "is_correct": false },
+            { "choice_text": "عدم المراهنة على مجرد الأعداد بل على النوعية والتربية", "is_correct": true },
+            { "choice_text": "أن الأعداد الكبيرة دائماً ما تنسحب سريعاً", "is_correct": false },
+            { "choice_text": "ضرورة تجنب الصراعات عند قلة العدد فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابيان اللذان رويا أحداث صلح الحديبية في البخاري بشكل مفصل ومطول؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن الإمام البخاري أخرج الرواية من حديث المسور بن مخرمة ومروان بن الحكم [8].",
+        "choices": [
+            { "choice_text": "أبو بكر وعمر بن الخطاب", "is_correct": false },
+            { "choice_text": "المسور بن مخرمة ومروان بن الحكم", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب وعثمان بن عفان", "is_correct": false },
+            { "choice_text": "ابن عباس وابن عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين تقع منطقة الحديبية بالنسبة لمكة المكرمة؟",
+        "difficulty_score": 200,
+        "explanation": "الحديبية منطقة فيها بئر ماء، قريبة من مكة وتقع على حدود الحرم [8].",
+        "choices": [
+            { "choice_text": "في منتصف الطريق بين مكة والمدينة", "is_correct": false },
+            { "choice_text": "قريبة من مكة وعلى حدود الحرم", "is_correct": true },
+            { "choice_text": "خلف جبل أحد بمسافة قصيرة", "is_correct": false },
+            { "choice_text": "داخل صحن الطواف في الحرم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من كان طليعة فرسان قريش الذين خرجوا لرصد جيش المسلمين؟",
+        "difficulty_score": 200,
+        "explanation": "كان خالد بن الوليد (قبل إسلامه) هو طليعة قريش في خيل ليرصد جيش النبي [9].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم عندما بركت ناقته القصواء وقال الناس 'خلأت'؟",
+        "difficulty_score": 300,
+        "explanation": "قال النبي: 'ما خلأت القصواء، وما ذاك لها بخلق، ولكن حبسها حابس الفيل' [10].",
+        "choices": [
+            { "choice_text": "قال إنها تعبت من السفر", "is_correct": false },
+            { "choice_text": "قال حبسها حابس الفيل", "is_correct": true },
+            { "choice_text": "قال إنها مريضة فاتركوها", "is_correct": false },
+            { "choice_text": "قال إنها تخاف من قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المفتاح' الذي استخدمه النبي لإقناع قريش بسلامة نيته في البداية؟",
+        "difficulty_score": 500,
+        "explanation": "أقسم النبي أنه لا يريد قتالاً بل جاء معتمراً، وأبدى استعداداً لقبول أي خطة تعظم حرمات الله [11].",
+        "choices": [
+            { "choice_text": "التهديد بقوة جيشه", "is_correct": false },
+            { "choice_text": "التأكيد على أنه جاء معتمراً وتعظيم حرمات الله", "is_correct": true },
+            { "choice_text": "إرسال الهدايا لزعماء مكة", "is_correct": false },
+            { "choice_text": "طلب الوساطة من ملك الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف شرب جيش المسلمين من بئر الحديبية رغم جفافها؟",
+        "difficulty_score": 400,
+        "explanation": "انتزع النبي سهماً من كنانته وأمرهم أن يجعلوه في البئر، فجاش لهم بالري حتى صدروا عنه [12].",
+        "choices": [
+            { "choice_text": "حفروا بئراً جديدة في مكان آخر", "is_correct": false },
+            { "choice_text": "أنزل الله مطراً غزيراً في تلك اللحظة", "is_correct": false },
+            { "choice_text": "وضع النبي سهماً من كنانته في البئر فجاش بالماء", "is_correct": true },
+            { "choice_text": "أحضروا الماء من مكة بموافقة قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول رجل من خزاعة جاء للنبي ليخبره أن قريشاً جمعت جموعها لصده؟",
+        "difficulty_score": 300,
+        "explanation": "هو بديل بن ورقاء الخزاعي، وكان هو وقومه عيبة نصح لرسول الله [13].",
+        "choices": [
+            { "choice_text": "عمرو بن سالم الخزاعي", "is_correct": false },
+            { "choice_text": "بديل بن ورقاء الخزاعي", "is_correct": true },
+            { "choice_text": "خزيمة بن ثابت", "is_correct": false },
+            { "choice_text": "سهيل بن عمرو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'العوذ المطافيل' الذين خرجت بهم قريش؟",
+        "difficulty_score": 600,
+        "explanation": "هي الإبل التي معها أطفالها وذات اللبن، كناية عن خروجهم بكل ما يملكون وبقصد البقاء والمواجهة [14].",
+        "choices": [
+            { "choice_text": "الخيول السريعة المخصصة للكر والفر", "is_correct": false },
+            { "choice_text": "الإبل التي معها أطفالها وذات اللبن", "is_correct": true },
+            { "choice_text": "السيوف القاطعة والدرع الثقيلة", "is_correct": false },
+            { "choice_text": "النساء اللواتي يشجعن المقاتلين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المشكلة الأساسية التي جعلت قريشاً تصر على رد النبي في ذلك العام؟",
+        "difficulty_score": 500,
+        "explanation": "خوفهم من 'سمعة العرب'؛ لئلا يقول الناس إن النبي دخل مكة عليهم عنوة وبقوة السلاح [13، 14].",
+        "choices": [
+            { "choice_text": "عدم وجود مكان كافٍ للمعتمرين", "is_correct": false },
+            { "choice_text": "خوفهم من أن يسمع العرب أن المسلمين دخلوا مكة عنوة", "is_correct": true },
+            { "choice_text": "رغبتهم في تحويل العمرة إلى الحج", "is_correct": false },
+            { "choice_text": "اختلافهم على أماكن ذبح الهدي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان عرض النبي صلى الله عليه وسلم لقريش عبر بديل بن ورقاء؟",
+        "difficulty_score": 700,
+        "explanation": "عرض عليهم هدنة (مدة) يتركون فيها بينه وبين الناس، فإن أظهر الله دينه دخلوا فيما دخل فيه الناس [15].",
+        "choices": [
+            { "choice_text": "المبارزة بين قادة الجيشين فقط", "is_correct": false },
+            { "choice_text": "الهدنة لترك المجال لنشر الدعوة بين الناس", "is_correct": true },
+            { "choice_text": "الاستسلام الكامل وتسليم مفاتيح الكعبة", "is_correct": false },
+            { "choice_text": "دفع جزية مقابل دخول مكة ذلك العام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أقسم النبي صلى الله عليه وسلم في حال رفضت قريش الهدنة؟",
+        "difficulty_score": 600,
+        "explanation": "أقسم ليقاتلنهم على أمره هذا حتى تنفرد سالفته (أي حتى يقتل) [16].",
+        "choices": [
+            { "choice_text": "بأنه سيعود للمدينة فوراً", "is_correct": false },
+            { "choice_text": "بأنه سيقاتلهم حتى تنفرد سالفته", "is_correct": true },
+            { "choice_text": "بأنه سيتحالف مع الروم ضدهم", "is_correct": false },
+            { "choice_text": "بأنه سيمنع قوافلهم للأبد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف عروة بن مسعود الثقفي الصحابة للنبي صلى الله عليه وسلم في بداية حواره؟",
+        "difficulty_score": 800,
+        "explanation": "وصفهم بأنهم 'أوشاب من الناس' (أخلاط) يتوقع أن يفروا ويدعوه عند اشتداد الحرب [17].",
+        "choices": [
+            { "choice_text": "بأنهم أبطال لا يشق لهم غبار", "is_correct": false },
+            { "choice_text": "بأنهم أوشاب من الناس يوشك أن يفروا ويتركوه", "is_correct": true },
+            { "choice_text": "بأنهم عبيد لا رأي لهم", "is_correct": false },
+            { "choice_text": "بأنهم تجار لا يعرفون فنون القتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي زجر عروة بن مسعود بكلمة غليظة عندما طعن في وفاء الصحابة؟",
+        "difficulty_score": 400,
+        "explanation": "هو أبو بكر الصديق رضي الله عنه، حيث غضب غضباً شديداً لكرامة الصحابة [18].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "المغيرة بن شعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل المغيرة بن شعبة أثناء حوار عروة بن مسعود مع النبي؟",
+        "difficulty_score": 500,
+        "explanation": "كان قائماً على رأس النبي ومعه السيف وعليه المغفر، وكان يضرب يد عروة بنعل السيف كلما حاول مس لحية النبي [19].",
+        "choices": [
+            { "choice_text": "كان يكتب بنود الصلح", "is_correct": false },
+            { "choice_text": "كان يحرس معسكر الإبل", "is_correct": false },
+            { "choice_text": "كان يمنع عروة من مس لحية النبي بنعل السيف", "is_correct": true },
+            { "choice_text": "كان يجهز القهوة للضيوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الانطباع الذي نقله عروة بن مسعود لقريش بعد عودته من عند المسلمين؟",
+        "difficulty_score": 600,
+        "explanation": "أخبرهم أنه وفد على الملوك كقيصر وكسرى، ولكنه لم يرَ أحداً يعظمه أصحابه كما يعظم أصحاب محمد محمداً [20].",
+        "choices": [
+            { "choice_text": "أن المسلمين في حالة ضعف وجوع", "is_correct": false },
+            { "choice_text": "أن أصحاب محمد يعظمونه تعظيماً لم يره عند الملوك", "is_correct": true },
+            { "choice_text": "أن المسلمين يخططون للهجوم ليلاً", "is_correct": false },
+            { "choice_text": "أن الصحابة مختلفون فيما بينهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي صلى الله عليه وسلم موفد قريش 'مكرز بن حفص'؟",
+        "difficulty_score": 700,
+        "explanation": "وصفه النبي بأنه 'رجل فاجر' [21].",
+        "choices": [
+            { "choice_text": "رجل حكيم", "is_correct": false },
+            { "choice_text": "رجل فاجر", "is_correct": true },
+            { "choice_text": "رجل صادق", "is_correct": false },
+            { "choice_text": "رجل جبان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم عندما رأى سهيل بن عمرو قادماً؟",
+        "difficulty_score": 300,
+        "explanation": "قال: 'لقد سهل لكم من أمركم'، متفائلاً باسمه [22].",
+        "choices": [
+            { "choice_text": "جاءكم سيد قريش فاحذروه", "is_correct": false },
+            { "choice_text": "لقد سهل لكم من أمركم", "is_correct": true },
+            { "choice_text": "استعدوا للقتال فقد جاء سهيل", "is_correct": false },
+            { "choice_text": "لا ترفعوا أصواتكم فوق صوته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة الكبرى في سيرة النبي صلى الله عليه وسلم التي تجعلها قدوة شاملة؟",
+        "difficulty_score": 400,
+        "explanation": "الشمولية التامة لمختلف الأبواب (حرب، صلح، سياسة، عبادة، صبر، حلم) وفي مختلف الأحوال [23].",
+        "choices": [
+            { "choice_text": "أنها تركز فقط على الجانب الروحي", "is_correct": false },
+            { "choice_text": "شموليتها لكل أحوال الحياة وأبواب الممارسة البشرية", "is_correct": true },
+            { "choice_text": "أنها سيرة مختصرة وسهلة الحفظ", "is_correct": false },
+            { "choice_text": "أنها لم تتغير منذ بدايتها لنهايتها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا اقترح سهيل بن عمرو كتابته بدلاً من 'بسم الله الرحمن الرحيم'؟",
+        "difficulty_score": 200,
+        "explanation": "طلب كتابة 'باسمك اللهم' كما كانت عادة العرب [35، 36].",
+        "choices": [
+            { "choice_text": "باسم العزى واللات", "is_correct": false },
+            { "choice_text": "باسمك اللهم", "is_correct": true },
+            { "choice_text": "باسم قريش وكنانة", "is_correct": false },
+            { "choice_text": "بسم الله الواحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يصر النبي صلى الله عليه وسلم على كتابة 'بسم الله الرحمن الرحيم' في الصلح؟",
+        "difficulty_score": 900,
+        "explanation": "لأنه أراد تجاوز العقبات الشكلية والجزئية في سبيل تحقيق الغاية العظمى والمصلحة الكبرى للمسلمين [24].",
+        "choices": [
+            { "choice_text": "لأنه نسي الصيغة الصحيحة في تلك اللحظة", "is_correct": false },
+            { "choice_text": "لتجاوز العقبات الشكلية في سبيل الغاية والمصلحة العظمى", "is_correct": true },
+            { "choice_text": "لأنه لم يكن يهتم بالأسماء أبداً", "is_correct": false },
+            { "choice_text": "خوفاً من انسحاب سهيل بن عمرو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال سهيل بن عمرو عندما أراد النبي كتابة 'محمد رسول الله'؟",
+        "difficulty_score": 300,
+        "explanation": "قال: 'لو كنا نعلم أنك رسول الله ما صددناك عن البيت ولا قاتلناك، ولكن اكتب محمد بن عبد الله' [37، 38].",
+        "choices": [
+            { "choice_text": "وافق بشرط أن يكتب اسمه بجانبه", "is_correct": false },
+            { "choice_text": "قال اكتب محمد بن عبد الله لأننا لا نعترف برسالتك", "is_correct": true },
+            { "choice_text": "طلب مهلة لاستشارة قادة قريش", "is_correct": false },
+            { "choice_text": "قال اكتب محمد نبي العرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي رفض محو كلمة 'رسول الله' من الصحيفة؟",
+        "difficulty_score": 400,
+        "explanation": "هو علي بن أبي طالب رضي الله عنه، إجلالاً وحباً لرسول الله [38، 40].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم عندما رفض علي محو كلمة 'رسول الله'؟",
+        "difficulty_score": 500,
+        "explanation": "سأل عن مكان الكلمة في الصحيفة ومحاها بنفسه صلى الله عليه وسلم [25].",
+        "choices": [
+            { "choice_text": "أمر بتمزيق الصحيفة وإعادة كتابتها", "is_correct": false },
+            { "choice_text": "محاها بنفسه بعد أن عرف مكانها", "is_correct": true },
+            { "choice_text": "غضب على علي وأمره بالانصراف", "is_correct": false },
+            { "choice_text": "انتظر حتى وافق سهيل على بقائها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشرط الذي أدخله سهيل بن عمرو واعتبره المسلمون شديد القسوة؟",
+        "difficulty_score": 600,
+        "explanation": "شرط رد أي رجل يأتي من قريش مسلماً إلى مكة، وعدم رد من يذهب من المسلمين إلى قريش [26].",
+        "choices": [
+            { "choice_text": "دفع فدية مالية كبيرة كل عام", "is_correct": false },
+            { "choice_text": "رد من جاء من قريش مسلماً إلى مكة", "is_correct": true },
+            { "choice_text": "هدم أسوار المدينة المنورة", "is_correct": false },
+            { "choice_text": "ترك السلاح عند دخول مكة في العام القادم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أبو جندل' الذي ظهر فجأة أثناء كتابة الصلح؟",
+        "difficulty_score": 400,
+        "explanation": "هو ابن سهيل بن عمرو (مفاوض قريش)، وكان مسلماً معذباً في مكة [42، 43].",
+        "choices": [
+            { "choice_text": "شقيق أبي بكر الصديق", "is_correct": false },
+            { "choice_text": "ابن سهيل بن عمرو المفاوض عن قريش", "is_correct": true },
+            { "choice_text": "قائد فرسان خزاعة", "is_correct": false },
+            { "choice_text": "أحد غلمان قريش الهاربين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد سهيل بن عمرو عندما رأى ابنه أبا جندل مع المسلمين؟",
+        "difficulty_score": 600,
+        "explanation": "قال للنبي: 'هذا أول ما أقاضيك عليه أن ترده إلي'، ورفض إتمام الصلح بدونه [27].",
+        "choices": [
+            { "choice_text": "بكى واعتنقه وتركه مع المسلمين", "is_correct": false },
+            { "choice_text": "طالب برده فوراً كأول تطبيق لشروط الصلح", "is_correct": true },
+            { "choice_text": "ادعى أنه لا يعرفه", "is_correct": false },
+            { "choice_text": "طلب قتله أمام الجميع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا خاطب النبي صلى الله عليه وسلم أبا جندل لتصبييره عند رده؟",
+        "difficulty_score": 700,
+        "explanation": "أخبره أن الله سيجعل له وللمستضعفين فرجاً ومخرجاً، وأننا لا نغدر بعد الصلح [28].",
+        "choices": [
+            { "choice_text": "أمره بأن يقاتل أباه ويهرب", "is_correct": false },
+            { "choice_text": "بشره بالفرج والمخرج القريب من الله", "is_correct": true },
+            { "choice_text": "قال له إنك لست من المسلمين حقاً", "is_correct": false },
+            { "choice_text": "وعده بأنه سيفتح مكة غداً لإنقاذه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال عمر بن الخطاب للنبي صلى الله عليه وسلم وهو في حالة انفجار وغضب؟",
+        "difficulty_score": 500,
+        "explanation": "سأله: 'ألسنا على الحق وعدونا على الباطل؟ فعلام نعطي الدنية في ديننا؟' [49، 50].",
+        "choices": [
+            { "choice_text": "لماذا لا نحاربهم الآن ونحن أقوياء؟", "is_correct": false },
+            { "choice_text": "ألسنا على الحق؟ فعلام نعطي الدنية في ديننا؟", "is_correct": true },
+            { "choice_text": "هل أنت متأكد أن هذا هو وحي الله؟", "is_correct": false },
+            { "choice_text": "أين وعودك لنا بدخول البيت هذا العام؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أجاب النبي صلى الله عليه وسلم عمر بن الخطاب؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'إني رسول الله ولست أعصيه وهو ناصري' [6].",
+        "choices": [
+            { "choice_text": "سوف نرى النتيجة غداً", "is_correct": false },
+            { "choice_text": "إني رسول الله ولست أعصيه وهو ناصري", "is_correct": true },
+            { "choice_text": "اصبر يا عمر فإنك لا تفهم السياسة", "is_correct": false },
+            { "choice_text": "لقد أخطأت في حساباتي هذه المرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل عمر بن الخطاب بعد سماعه رد النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 700,
+        "explanation": "ذهب إلى أبي بكر الصديق وسأله نفس الأسئلة، فوجد عنده نفس اليقين والرد [51، 52].",
+        "choices": [
+            { "choice_text": "اعتزل الناس في خيمته", "is_correct": false },
+            { "choice_text": "ذهب لأبي بكر الصديق وسأله نفس الأسئلة", "is_correct": true },
+            { "choice_text": "بدأ يجهز جيشه للقتال منفرداً", "is_correct": false },
+            { "choice_text": "طلب من علي محو الكتاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة التربوية من ندم عمر بن الخطاب وعمله للصالحات لاحقاً؟",
+        "difficulty_score": 800,
+        "explanation": "تؤكد أن المؤمن الصالح قد يغلبه الانفعال في الأزمات، لكنه يسارع للتكفير عن ذلك بالعمل الصالح (صدقة، صلاة، عتق) [55، 56].",
+        "choices": [
+            { "choice_text": "أن الغضب دائماً يؤدي للكفر", "is_correct": false },
+            { "choice_text": "أن العمل الصالح يكفر الانفعالات التي قد تقع في الأزمات", "is_correct": true },
+            { "choice_text": "أن عمر كان يكره صلح الحديبية دائماً", "is_correct": false },
+            { "choice_text": "أن النبي لم يسامحه أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم مرة أمر النبي صلى الله عليه وسلم الصحابة بالنحر والحلق دون أن يقوم أحد؟",
+        "difficulty_score": 400,
+        "explanation": "أمرهم بذلك ثلاث مرات، ولم يقم منهم أحد من شدة الغم [29].",
+        "choices": [
+            { "choice_text": "مرة واحدة فقط", "is_correct": false },
+            { "choice_text": "مرتين", "is_correct": false },
+            { "choice_text": "ثلاث مرات", "is_correct": true },
+            { "choice_text": "خمس مرات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أشارت أم سلمة على النبي صلى الله عليه وسلم لحل مشكلة امتناعهم عن النحر؟",
+        "difficulty_score": 500,
+        "explanation": "أشارت عليه ألا يكلم أحداً، بل يخرج فينحر بدنه ويحلق رأسه أمامهم [7].",
+        "choices": [
+            { "choice_text": "بأن يهددهم بالعقاب الشديد", "is_correct": false },
+            { "choice_text": "بأن ينحر ويحلق هو أولاً ليراه الناس فيقتدوا به", "is_correct": true },
+            { "choice_text": "بأن يعود بهم إلى المدينة دون نحر", "is_correct": false },
+            { "choice_text": "بأن يلقي فيهم خطبة مؤثرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل الصحابة عندما رأوا النبي ينحر ويحلق؟",
+        "difficulty_score": 400,
+        "explanation": "قاموا فنحروا وجعل بعضهم يحلق لبعض حتى كاد بعضهم يقتل بعضاً غماً [7].",
+        "choices": [
+            { "choice_text": "استمروا في جلوسهم دون حراك", "is_correct": false },
+            { "choice_text": "سارعوا للنحر والحلق اقتداءً به", "is_correct": true },
+            { "choice_text": "بدأوا في البكاء والنديب", "is_correct": false },
+            { "choice_text": "طلبوا منه التوقف والعودة للمفاوضات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل شمل شرط 'رد من جاء مسلماً' النساء المؤمنات؟",
+        "difficulty_score": 600,
+        "explanation": "لا، فقد أنزل الله استثناءً صريحاً يمنع ردهن إلى الكفار في سورة الممتحنة [58، 59].",
+        "choices": [
+            { "choice_text": "نعم، شمل الجميع رجالاً ونساءً", "is_correct": false },
+            { "choice_text": "لا، استثنى الله المؤمنات بنص القرآن", "is_correct": true },
+            { "choice_text": "نعم، ولكن بعد دفع فدية", "is_correct": false },
+            { "choice_text": "فقط لمن كانت منهن متزوجة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أبو بصير' وماذا فعل بعد الصلح؟",
+        "difficulty_score": 500,
+        "explanation": "رجل من قريش أسلم وهرب للمدينة، فرده النبي بطلب قريش، فقتل أحد حارسيه وهرب لساحل البحر [30].",
+        "choices": [
+            { "choice_text": "أحد قادة قريش الذين وقعوا الصلح", "is_correct": false },
+            { "choice_text": "مسلم هرب من مكة واستقر بساحل البحر ليقطع طرق قريش", "is_correct": true },
+            { "choice_text": "رجل ارتد عن الإسلام بعد الصلح", "is_correct": false },
+            { "choice_text": "شاعر قريش الذي هجا المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أرسلت قريش تطلب من النبي ضم أبي بصير ومن معه للمدينة لاحقاً؟",
+        "difficulty_score": 700,
+        "explanation": "لأنهم قطعوا عليهم طريق تجارهم إلى الشام وقتلوا رجالهم، فأصبحوا يمثلون خطراً أكبر من خارج المدينة [65، 66].",
+        "choices": [
+            { "choice_text": "رغبة منها في زيادة عدد المسلمين بالمدينة", "is_correct": false },
+            { "choice_text": "بسبب الأذى والخطر الذي شكلوه على قوافل قريش التجارية", "is_correct": true },
+            { "choice_text": "لأن أبا بصير كان من أشرافهم", "is_correct": false },
+            { "choice_text": "كبادرة حسن نية بعد عام من الصلح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف الله صلح الحديبية في الآيات التي نزلت أثناء العودة؟",
+        "difficulty_score": 300,
+        "explanation": "وصفه بأنه 'فتح مبين' [3].",
+        "choices": [
+            { "choice_text": "صبر جميل", "is_correct": false },
+            { "choice_text": "فتح مبين", "is_correct": true },
+            { "choice_text": "نصر مؤزر", "is_correct": false },
+            { "choice_text": "عهد وثيق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أرسل النبي صلى الله عليه وسلم عثمان بن عفان تحديداً إلى قريش للتفاوض؟",
+        "difficulty_score": 400,
+        "explanation": "أرسله لأنه كان 'أكثر منعةً في قريش' وله عشيرة تحميه، بناءً على مشورة عمر بن الخطاب [1].",
+        "choices": [
+            { "choice_text": "لأنه كان يجيد فن الخطابة أكثر من غيره", "is_correct": false },
+            { "choice_text": "لأنه كان يملك تجارة واسعة في مكة", "is_correct": false },
+            { "choice_text": "لأنه كان أكثر منعةً وعزةً في قريش", "is_correct": true },
+            { "choice_text": "لأنه طلب ذلك بنفسه من النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخبر الذي تسبب في قيام 'بيعة الرضوان'؟",
+        "difficulty_score": 300,
+        "explanation": "قامت البيعة عندما جاء الخبر بأن عثمان بن عفان قد قُتل في مكة [1].",
+        "choices": [
+            { "choice_text": "خبر هروب أبي جندل من السجن", "is_correct": false },
+            { "choice_text": "خبر مقتل عثمان بن عفان", "is_correct": true },
+            { "choice_text": "خبر استسلام قريش الكامل", "is_correct": false },
+            { "choice_text": "خبر رؤية الهلال في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "على ماذا بايع الصحابة النبي صلى الله عليه وسلم في بيعة الرضوان؟",
+        "difficulty_score": 500,
+        "explanation": "كانت البيعة على 'عدم الفرار' وقيل كانت 'بيعةً على الموت' [71، 72].",
+        "choices": [
+            { "choice_text": "على الهجرة إلى الحبشة", "is_correct": false },
+            { "choice_text": "على عدم الفرار من المعركة والموت في سبيل الله", "is_correct": true },
+            { "choice_text": "على جمع الأموال لتجهيز الجيش", "is_correct": false },
+            { "choice_text": "على البقاء في المدينة وعدم الخروج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الذي عُرفت به البيعة التي تمت تحت الشجرة؟",
+        "difficulty_score": 200,
+        "explanation": "عُرفت بـ 'بيعة الرضوان' لأن الله أنزل رضوانه على أصحابها [2].",
+        "choices": [
+            { "choice_text": "بيعة العقبة الأولى", "is_correct": false },
+            { "choice_text": "بيعة العقبة الثانية", "is_correct": false },
+            { "choice_text": "بيعة الرضوان", "is_correct": true },
+            { "choice_text": "بيعة الفتح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفضيلة التي ذكرها النبي لمن شهد بيعة الرضوان في الحديث الصحيح؟",
+        "difficulty_score": 400,
+        "explanation": "قال النبي صلى الله عليه وسلم: 'لا يدخل النار أحد ممن بايع تحت الشجرة' [2].",
+        "choices": [
+            { "choice_text": "أنهم سيدخلون الجنة بغير حساب", "is_correct": false },
+            { "choice_text": "لا يدخل النار أحد ممن بايع تحت الشجرة", "is_correct": true },
+            { "choice_text": "أنهم سيفتحون مكة في العام نفسه", "is_correct": false },
+            { "choice_text": "أنهم أفضل من الصحابة الذين أسلموا قبلهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى قوله تعالى في سورة الفتح: {يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ}؟",
+        "difficulty_score": 600,
+        "explanation": "تشير الآية إلى تأييد الله ومباركته للبيعة، وأن قلوبهم كانت تسابق أيديهم في الصدق مع الله [3].",
+        "choices": [
+            { "choice_text": "أن الله صافحهم حقيقةً", "is_correct": false },
+            { "choice_text": "أنهم رفعوا أيديهم إلى السماء أثناء البيعة", "is_correct": false },
+            { "choice_text": "تعبير عن تأييد الله وصدق قلوب المؤمنين في البيعة", "is_correct": true },
+            { "choice_text": "أن البيعة كانت تتم برفع الأيدي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أثاب الله المؤمنين بعد علم ما في قلوبهم في الحديبية؟",
+        "difficulty_score": 500,
+        "explanation": "أنزل عليهم السكينة وأثابهم 'فتحاً قريباً' [3].",
+        "choices": [
+            { "choice_text": "بفتح مكة فوراً", "is_correct": false },
+            { "choice_text": "بالسكينة والفتح القريب", "is_correct": true },
+            { "choice_text": "بأموال غنائم خيبر فقط", "is_correct": false },
+            { "choice_text": "بزيادة عدد المهاجرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي كانت أحب إلى النبي صلى الله عليه وسلم 'مما طلعت عليه الشمس'؟",
+        "difficulty_score": 300,
+        "explanation": "هي سورة الفتح، لما حملته من بشارات وفرج وسكينة [4].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة آل عمران", "is_correct": false },
+            { "choice_text": "سورة الفتح", "is_correct": true },
+            { "choice_text": "سورة النصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم مرة ورد لفظ 'السكينة' في سورة الفتح؟",
+        "difficulty_score": 600,
+        "explanation": "ورد لفظ السكينة في سورة الفتح ثلاث مرات [5].",
+        "choices": [
+            { "choice_text": "مرة واحدة", "is_correct": false },
+            { "choice_text": "مرتان", "is_correct": false },
+            { "choice_text": "ثلاث مرات", "is_correct": true },
+            { "choice_text": "أربع مرات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف الله الصحابة في ختام سورة الفتح؟",
+        "difficulty_score": 400,
+        "explanation": "وصفهم بأنهم 'أشداء على الكفار رحماء بينهم' [4].",
+        "choices": [
+            { "choice_text": "أشداء على الجميع", "is_correct": false },
+            { "choice_text": "رحماء بالكفار أشداء بينهم", "is_correct": false },
+            { "choice_text": "أشداء على الكفار رحماء بينهم", "is_correct": true },
+            { "choice_text": "تجاراً ومحاربين في نفس الوقت", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 700,
+        "question_text": "ما هو 'الفتح القريب' الذي ذكره الله في سورة الفتح قبل دخول مكة؟",
+        "explanation": "فسره العلماء والمصادر بأنه الصلح نفسه وما ترتب عليه من نتائج، وقيل هو فتح خيبر [74، 75].",
+        "choices": [
+            { "choice_text": "فتح الأندلس", "is_correct": false },
+            { "choice_text": "فتح خيبر أو صلح الحديبية بحد ذاته", "is_correct": true },
+            { "choice_text": "هزيمة الروم", "is_correct": false },
+            { "choice_text": "بناء المسجد النبوي", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 800,
+        "question_text": "لماذا نزلت جملة {مُحَمَّدٌ رَسُولُ اللَّهِ} في سورة الفتح بهذا التركيب؟",
+        "explanation": "لإثبات هذا الوصف واللقب له من الله بعد أن مُسح من وثيقة الصلح بطلب المشركين [6].",
+        "choices": [
+            { "choice_text": "لأنها كانت أول مرة يذكر فيها اسمه", "is_correct": false },
+            { "choice_text": "تأكيداً لرسالته بعد أن مُسحت من الصحيفة في الحديبية", "is_correct": true },
+            { "choice_text": "بسبب سؤال سأله أبو سفيان", "is_correct": false },
+            { "choice_text": "لتمييزه عن أنبياء بني إسرائيل", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 500,
+        "question_text": "ماذا فعل أبو بصير بعد أن رده النبي صلى الله عليه وسلم لقريش؟",
+        "explanation": "قتل أحد الحارسين وهرب إلى ساحل البحر (سيف البحر) [7].",
+        "choices": [
+            { "choice_text": "عاد إلى مكة واستسلم", "is_correct": false },
+            { "choice_text": "قتل أحد حارسي قريش ولحق بساحل البحر", "is_correct": true },
+            { "choice_text": "دخل المدينة سراً واختبأ فيها", "is_correct": false },
+            { "choice_text": "انتحر من شدة اليأس", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 600,
+        "question_text": "ماذا كان تعليق النبي صلى الله عليه وسلم عندما بلغه خبر قتل أبي بصير للحارس؟",
+        "explanation": "قال: 'ويل أمه مسعر حرب لو كان معه رجال'، متوقعاً ما سيفعله لاحقاً [8].",
+        "choices": [
+            { "choice_text": "أمر بقتله قصاصاً", "is_correct": false },
+            { "choice_text": "وصفه بأنه مسعر حرب لو كان معه رجال", "is_correct": true },
+            { "choice_text": "قال إنه أخطأ في حق المعاهدة", "is_correct": false },
+            { "choice_text": "طلب منه العودة لمكة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 700,
+        "question_text": "كيف انتهت أزمة 'أبي بصير' ومن معه من المستضعفين؟",
+        "explanation": "أرسلت قريش تطلب من النبي ضمهم للمدينة وإسقاط شرط الرد عنهم بسبب أذاهم لقوافلها [65، 66].",
+        "choices": [
+            { "choice_text": "قتلهم جيش قريش بالكامل", "is_correct": false },
+            { "choice_text": "توسلت قريش للنبي أن يضمهم إليه ويخلصها من شرهم", "is_correct": true },
+            { "choice_text": "ماتوا جميعاً بسبب الجوع", "is_correct": false },
+            { "choice_text": "هاجروا إلى الحبشة بحراً", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 400,
+        "question_text": "ماذا أنزل الله بخصوص النساء المؤمنات اللواتي هاجرن بعد الصلح؟",
+        "explanation": "أنزل آية تمنع ردهن وتأمر بامتحانهن، وهي قوله: {فَلَا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ} [9].",
+        "choices": [
+            { "choice_text": "أمر بردهن كما يُرد الرجال", "is_correct": false },
+            { "choice_text": "أمر بعدم ردهن إلى الكفار", "is_correct": true },
+            { "choice_text": "أمر بتركهن في مكة حتى يفتحنها", "is_correct": false },
+            { "choice_text": "أمر بدفع فدية مالية مقابل كل امرأة", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 800,
+        "question_text": "من الصحابيتان اللتان كانتا تحت عمر بن الخطاب وطلقهما بعد نزول آية {وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ}؟",
+        "explanation": "طلقهما يومئذٍ، فتزوج إحداهما معاوية بن أبي سفيان والأخرى صفوان بن أمية [10].",
+        "choices": [
+            { "choice_text": "عائشة وحفصة", "is_correct": false },
+            { "choice_text": "امرأتان كانتا في الشرك ففارقهما طاعةً لله", "is_correct": true },
+            { "choice_text": "أسماء بنت أبي بكر وأم سلمة", "is_correct": false },
+            { "choice_text": "زينب بنت جحش وجويرية", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 900,
+        "question_text": "ما هو الدرس الاستراتيجي للمصلحين من قبول 'المفاسد الصغرى' في الصلح؟",
+        "explanation": "قبول بعض المفاسد أو تفويت المصالح الدنيا (مثل رد الرجال) من أجل تحقيق المصلحة الكبرى (أمن الدعوة والفتح المبين) [11].",
+        "choices": [
+            { "choice_text": "أن المصلح لا يجب أن يتنازل أبداً", "is_correct": false },
+            { "choice_text": "مراعاة المصلحة الكبرى وإن ترتب عليها بعض المفاسد الصغرى", "is_correct": true },
+            { "choice_text": "أن القوة العسكرية هي الحل الوحيد", "is_correct": false },
+            { "choice_text": "أن المصلحين لا يخطئون في تقدير المواقف", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 600,
+        "question_text": "لماذا وصف المصدر 'السكينة' بأنها كانت علاجاً وخصيصة لسورة الفتح؟",
+        "explanation": "لأنها كانت دواءً لقلوب الصحابة التي غلت من الغم والحزن بسبب شروط الصلح [77، 78].",
+        "choices": [
+            { "choice_text": "لأن الصحابة كانوا يشعرون بالنعاس", "is_correct": false },
+            { "choice_text": "لأنها كانت دواءً وعلاجاً لغم الصحابة وحزنهم", "is_correct": true },
+            { "choice_text": "لأن الحرب كانت قد انتهت تماماً", "is_correct": false },
+            { "choice_text": "لأنها صفة تطلق على جميع المهاجرين", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 200,
+        "question_text": "ماذا قال عمر بن الخطاب عندما سمع سورة الفتح تتنزل؟",
+        "explanation": "سأل متعجباً: 'يا رسول الله أوفتح هو؟' فأجابه النبي: نعم [12].",
+        "choices": [
+            { "choice_text": "أهذا وعد بالحج؟", "is_correct": false },
+            { "choice_text": "أوفتح هو؟", "is_correct": true },
+            { "choice_text": "متى سنقاتل؟", "is_correct": false },
+            { "choice_text": "هل غُفر لي؟", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 500,
+        "question_text": "ما هي القيمة الكبرى للصحابة التي برزت في 'بيعة الرضوان'؟",
+        "explanation": "صدق استعدادهم في بذل أرواحهم في سبيل الله وهم في حال من الضعف [2].",
+        "choices": [
+            { "choice_text": "قدرتهم على جمع المعلومات", "is_correct": false },
+            { "choice_text": "صدق استعدادهم لبذل الأرواح رغم حالة الضعف", "is_correct": true },
+            { "choice_text": "مهارتهم في المبارزة", "is_correct": false },
+            { "choice_text": "كثرة عددهم أمام قريش", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 700,
+        "question_text": "ماذا تعني 'حمية الجاهلية' التي ذكرها الله في السورة بخصوص المشركين؟",
+        "explanation": "تعني كبرهم وإصرارهم على منع النبي ومحو صفة الرسالة من الكتاب استفزازاً للمسلمين [5].",
+        "choices": [
+            { "choice_text": "كرمهم مع الضيوف", "is_correct": false },
+            { "choice_text": "إصرارهم على الحرب للأبد", "is_correct": false },
+            { "choice_text": "كبرهم وصد المسلمين عن البيت وإنكار الرسالة", "is_correct": true },
+            { "choice_text": "شجاعتهم في الميدان", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 400,
+        "question_text": "بماذا وصف الله الصحابة في السورة فيما يخص أثر العبادة؟",
+        "explanation": "وصفهم بأن 'سيماهم في وجوههم من أثر السجود' [4].",
+        "choices": [
+            { "choice_text": "بأنهم يلبسون ثياباً بيضاء", "is_correct": false },
+            { "choice_text": "بأن سيماهم في وجوههم من أثر السجود", "is_correct": true },
+            { "choice_text": "بأنهم يحملون علامات الجروح من القتال", "is_correct": false },
+            { "choice_text": "بأنهم طوال القامة", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 800,
+        "question_text": "ما هي دلالة قوله تعالى: {فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ}؟",
+        "explanation": "أن العطاء الإلهي (السكينة والفتح) كان مبنياً على صلاح وإخلاص قلوب هؤلاء المؤمنين [3].",
+        "choices": [
+            { "choice_text": "أن السكينة تنزل على الجميع دون استثناء", "is_correct": false },
+            { "choice_text": "أن السكينة والفتح مرتبطان بما علمه الله من صدق القلوب", "is_correct": true },
+            { "choice_text": "أن الله علم أنهم سيفرون فثبتهم", "is_correct": false },
+            { "choice_text": "أنها نزلت بسبب كثرة البكاء", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 300,
+        "question_text": "ماذا حصل بعد سنتين أو ثلاث من صلح الحديبية؟",
+        "explanation": "دخل الناس في دين الله أفواجاً وفُتحت مكة [13].",
+        "choices": [
+            { "choice_text": "وقعت غزوة بدر", "is_correct": false },
+            { "choice_text": "انتهى الإسلام في المدينة", "is_correct": false },
+            { "choice_text": "دخل الناس في دين الله أفواجاً", "is_correct": true },
+            { "choice_text": "مات جميع من شهد الحديبية", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 600,
+        "question_text": "ما هو الدرس المستفاد من تكرار النبي لطلبه 'أجزه لي' بخصوص أبي جندل؟",
+        "explanation": "يدل على قيمة السعي لتحرير المستضعفين المؤمنين وبذل كل جهد ممكن لنجاتهم [46، 47].",
+        "choices": [
+            { "choice_text": "أنه كان يريد إحراج سهيل بن عمرو", "is_correct": false },
+            { "choice_text": "أهمية وقيمة العمل على تحرير ونجاة المستضعفين", "is_correct": true },
+            { "choice_text": "أنه لم يكن ملتزماً بالصلح", "is_correct": false },
+            { "choice_text": "أنه كان يشفق على سهيل من ابنه", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 700,
+        "question_text": "بماذا استدل المصدر على أن صلح الحديبية كان 'نصراً معنوياً' هائلاً؟",
+        "explanation": "بنزول الثناء الإلهي على المؤمنين ووصفهم بالرحمة بينهم والشدة على الكفار وتثبيتهم بالسكينة [76، 77].",
+        "choices": [
+            { "choice_text": "بكثرة الأموال التي حصلوا عليها", "is_correct": false },
+            { "choice_text": "بالثناء الإلهي في سورة الفتح وتثبيت القلوب", "is_correct": true },
+            { "choice_text": "بهرب قادة قريش من مكة", "is_correct": false },
+            { "choice_text": "ببناء المسجد الحرام من جديد", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 400,
+        "question_text": "ما معنى 'السالفة' في قول النبي: 'حتى تنفرد سالفتي'؟",
+        "explanation": "صفحة العنق، والمعنى: حتى يُقتل [14].",
+        "choices": [
+            { "choice_text": "عمامته", "is_correct": false },
+            { "choice_text": "صفحة العنق (كناية عن القتل)", "is_correct": true },
+            { "choice_text": "راية الجيش", "is_correct": false },
+            { "choice_text": "ناقته القصواء", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 500,
+        "question_text": "كيف تعامل الصحابة مع 'وضوء' النبي صلى الله عليه وسلم في الحديبية كما وصف عروة؟",
+        "explanation": "كادوا يقتتلون على وضوئه تبركاً وتعظيماً له [15].",
+        "choices": [
+            { "choice_text": "كانوا يراقبونه من بعيد فقط", "is_correct": false },
+            { "choice_text": "كادوا يقتتلون على فضل وضوئه من شدة تعظيمه", "is_correct": true },
+            { "choice_text": "كانوا يسكبون الماء له بهدوء", "is_correct": false },
+            { "choice_text": "لم يكن أحد يهتم بوضوئه", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 800,
+        "question_text": "لماذا اعتبر المصدر أن سورة الفتح هي 'علاج' للمصلحين في الأزمات؟",
+        "explanation": "لأنها تعلمهم أن نتائج العمل المصلحي قد تتأخر وتأتي في صورة 'سكينة' وتثبيت داخلي قبل الفوز الخارجي [77، 78].",
+        "choices": [
+            { "choice_text": "لأنها تحتوي على أسماء الله الحسنى فقط", "is_correct": false },
+            { "choice_text": "لأنها تركز على السكينة والتثبيت الداخلي في الأزمات", "is_correct": true },
+            { "choice_text": "لأنها تذم الكفار بشدة", "is_correct": false },
+            { "choice_text": "لأنها سورة قصيرة سهلة القراءة", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 200,
+        "question_text": "من هو النبي الذي ذُكرت رؤيته في سورة الفتح بخصوص دخول البيت الحرام؟",
+        "explanation": "هو النبي محمد صلى الله عليه وسلم في قوله: {لَّقَدْ صَدَقَ اللَّهُ رَسُولَهُ الرُّؤْيَا بِالْحَقِّ} [16].",
+        "choices": [
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "موسى عليه السلام", "is_correct": false },
+            { "choice_text": "محمد صلى الله عليه وسلم", "is_correct": true },
+            { "choice_text": "عيسى عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 600,
+        "question_text": "ما هي الحكمة من 'امتحان' النساء المهاجرات كما ورد في السورة؟",
+        "explanation": "للتأكد من أن هجرتهن كانت لله وللإسلام، وليست لأغراض دنيوية أو هرباً من أزواج [9].",
+        "choices": [
+            { "choice_text": "لمعرفة أسمائهن فقط", "is_correct": false },
+            { "choice_text": "للتأكد من صدق إيمانهن وخلو هجرتهن من الأغراض الدنيوية", "is_correct": true },
+            { "choice_text": "لتعليمهن القرآن قبل دخولهن المدينة", "is_correct": false },
+            { "choice_text": "لمعرفة مهاراتهن في العمل", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 400,
+        "question_text": "ماذا قال الله عن 'أيدي' المؤمنين والرسول في بيعة الرضوان؟",
+        "explanation": "قال تعالى: {يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ} [3].",
+        "choices": [
+            { "choice_text": "بأنها أيدٍ قوية", "is_correct": false },
+            { "choice_text": "يد الله فوق أيديهم", "is_correct": true },
+            { "choice_text": "بأنها تحمل سيوف الجنة", "is_correct": false },
+            { "choice_text": "بأنها أيدٍ متعبة من السفر", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 900,
+        "question_text": "حلل: لماذا ذكر الله 'كلمة التقوى' وألزمها للمؤمنين في ختام السورة؟",
+        "explanation": "لأنهم كانوا أحق بها وأهلها بفضل صبرهم على الاستفزاز والتزامهم بأمر الله ورسوله رغم الضغوط [11].",
+        "choices": [
+            { "choice_text": "لأنهم كانوا يعرفون اللغة العربية جيداً", "is_correct": false },
+            { "choice_text": "بسبب ثباتهم وصبرهم على الاستفزاز والتزامهم بالشرع", "is_correct": true },
+            { "choice_text": "لأنهم كانوا يحبون الكلام الحسن", "is_correct": false },
+            { "choice_text": "لأن الله أراد تمييزهم عن المشركين في النطق فقط", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 500,
+        "question_text": "ما هي 'البشرى' التي ختمت بها سورة الفتح للمؤمنين؟",
+        "explanation": "الوعد بالمغفرة والأجر العظيم للذين آمنوا وعملوا الصالحات [17].",
+        "choices": [
+            { "choice_text": "الوعد بكنوز كسرى", "is_correct": false },
+            { "choice_text": "الوعد بالمغفرة والأجر العظيم", "is_correct": true },
+            { "choice_text": "الوعد بالخلود في الدنيا", "is_correct": false },
+            { "choice_text": "الوعد بأنهم لن يمرضوا أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 300,
+        "question_text": "أين كان النبي صلى الله عليه وسلم عندما نزلت عليه سورة الفتح؟",
+        "explanation": "نزلت عليه في طريق عودته من الحديبية إلى المدينة [18].",
+        "choices": [
+            { "choice_text": "داخل الكعبة المشرفة", "is_correct": false },
+            { "choice_text": "في المسجد النبوي", "is_correct": false },
+            { "choice_text": "في طريق العودة من الحديبية", "is_correct": true },
+            { "choice_text": "في غار حراء", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 600,
+        "question_text": "ما هو أثر 'الفتح المبين' على انتشار الإسلام كما ذكر المصدر؟",
+        "explanation": "أتاح فرصة للاختلاط والحوار، فكان من أسلم في هاتين السنتين أكثر ممن أسلم قبلهما [3، 34].",
+        "choices": [
+            { "choice_text": "أدى لتقلص عدد المسلمين بسبب الهجرة", "is_correct": false },
+            { "choice_text": "فتح المجال لنشر الدعوة فدخل الناس في الدين أفواجاً", "is_correct": true },
+            { "choice_text": "أدى لاندلاع حروب أكبر", "is_correct": false },
+            { "choice_text": "لم يكن له أي أثر حقيقي", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 700,
+        "question_text": "كيف واجه النبي صلى الله عليه وسلم 'الحرب النفسية' التي شنها المشركون بمحو اسمه؟",
+        "explanation": "بالصبر واليقين بأن 'محمد رسول الله' حقيقة لا تمحوها الأوراق، وبأن الله سيثبته في كتابه للأبد [39، 76].",
+        "choices": [
+            { "choice_text": "بالبكاء والانسحاب", "is_correct": false },
+            { "choice_text": "باليقين التام وتجاوز الشكليات من أجل الحقيقة الثابتة", "is_correct": true },
+            { "choice_text": "بتهديدهم بحرق مكة", "is_correct": false },
+            { "choice_text": "بطلب تدخل ملوك الروم", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 400,
+        "question_text": "من هو الصحابي الذي ذكره المصدر في حديث 'من أصبح منكم اليوم صائماً'؟",
+        "explanation": "هو أبو بكر الصديق رضي الله عنه، لبيان فضله ومكانته [51، 52].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 800,
+        "question_text": "ما هي الخلاصة التربوية التي يوجهها المصدر للمصلحين في نهاية 'مجلس الحديبية'؟",
+        "explanation": "ضرورة التسليم لأمر الله ورسوله، ومراعاة المصالح الكبرى للدين، والثبات في الأزمات [79، 80].",
+        "choices": [
+            { "choice_text": "أن السياسة أهم من العبادة", "is_correct": false },
+            { "choice_text": "التسليم للوحي ومراعاة المصالح الكبرى والثبات", "is_correct": true },
+            { "choice_text": "أن الحظ يلعب دوراً كبيراً في النصر", "is_correct": false },
+            { "choice_text": "ضرورة التشدد في كل الشروط السياسية", "is_correct": false }
+        ]
+    }
+]
+    }

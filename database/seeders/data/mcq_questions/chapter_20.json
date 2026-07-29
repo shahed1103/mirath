@@ -1,0 +1,883 @@
+    {
+    "chapter_id": 20,
+    "questions": [
+    {
+        "question_text": "ما هو العنوان الرئيسي للمجلس السادس من سلسلة الجلسات الشبابية؟",
+        "difficulty_score": 100,
+        "explanation": "المجلس السادس مخصص بالكامل لموضوع التوازن ضمن سلسلة سوية المؤمن [35, 36].",
+        "choices": [
+            { "choice_text": "الثبات", "is_correct": false },
+            { "choice_text": "التفاؤل", "is_correct": false },
+            { "choice_text": "التوازن", "is_correct": true },
+            { "choice_text": "اليقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الفئة المستهدفة أساساً من مادة 'سوية المؤمن'؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن المادة موجهة أصلاً للشاب المتجاوز لكثير من الإشكالات والساعي لدرجات عالية من الإيمان [35].",
+        "choices": [
+            { "choice_text": "عامة الناس", "is_correct": false },
+            { "choice_text": "الشباب الساعي لدرجات إيمانية عالية", "is_correct": true },
+            { "choice_text": "الأطفال والناشئة", "is_correct": false },
+            { "choice_text": "كبار السن من أهل الصلاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر زمننا الحالي 'من أكثر الأزمان ترشيحاً لعدم التوازن'؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب وجود طموحات عالية جداً لا تقابلها موازنات واقعية، مما يؤدي لردات فعل وإحباطات [21].",
+        "choices": [
+            { "choice_text": "لقلة المصادر العلمية", "is_correct": false },
+            { "choice_text": "بسبب قلة الوعي الديني العام", "is_correct": false },
+            { "choice_text": "لوجود طموحات عالية جداً بلا موازنات", "is_correct": true },
+            { "choice_text": "لانعدام الرؤية في العمل الدعوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي وصفه المؤلف بأنه 'عملة صعبة وندرة' في الوقت المعاصر؟",
+        "difficulty_score": 300,
+        "explanation": "الشاب المستقيم المتزن القادر على إحداث موازنات في المعادلات المحيطة به هو العملة النادرة [21].",
+        "choices": [
+            { "choice_text": "طالب العلم الشرعي", "is_correct": false },
+            { "choice_text": "الشاب المستقيم المتزن", "is_correct": true },
+            { "choice_text": "الداعية المشهور", "is_correct": false },
+            { "choice_text": "المجاهد في سبيل الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التعريف الخاطئ للتوازن (توهم التوازن) كما ورد في النص؟",
+        "difficulty_score": 500,
+        "explanation": "يظن البعض خطأً أن التوازن هو الوقوف دائماً في المنتصف بنسبة 50/50 بين أي جاذبين [1, 25].",
+        "choices": [
+            { "choice_text": "إعطاء كل ذي حق حقه", "is_correct": false },
+            { "choice_text": "العدل بناءً على الإسلام", "is_correct": false },
+            { "choice_text": "الوقوف الحسابي في المنتصف (50%) دائماً", "is_correct": true },
+            { "choice_text": "اتباع المنهج النبوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التوازن الحقيقي' وفقاً لمبادئ الإسلام؟",
+        "difficulty_score": 600,
+        "explanation": "التوازن الحقيقي هو العدل، وهو إعطاء كل شيء ما يستحقه بناءً على مرجعية الإسلام [1, 2].",
+        "choices": [
+            { "choice_text": "العدل وإعطاء كل شيء ما يستحقه", "is_correct": true },
+            { "choice_text": "تساوي الوقت بين الدنيا والآخرة", "is_correct": false },
+            { "choice_text": "إهمال الدنيا لصالح الآخرة", "is_correct": false },
+            { "choice_text": "مسايرة آراء الناس وتجنب الصدام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الألفاظ التالية ذكر المصدر أنه متصل جداً بقضية التوازن شرعاً؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر ألفاظاً منها 'الاستقامة' استناداً لحديث 'استقيموا ولن تحصوا' [3].",
+        "choices": [
+            { "choice_text": "الصرامة", "is_correct": false },
+            { "choice_text": "الاستقامة", "is_correct": true },
+            { "choice_text": "الاعتزال", "is_correct": false },
+            { "choice_text": "المثالية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى قول النبي ﷺ 'استقيموا ولن تحصوا' في سياق العمل؟",
+        "difficulty_score": 700,
+        "explanation": "المعنى أن عليك الالتزام بالعمل الجاد، ولن تستطيع تحقيق كل شيء مأمور به بمثالية كاملة [37].",
+        "choices": [
+            { "choice_text": "لا داعي للعمل لأنك لن تحصي", "is_correct": false },
+            { "choice_text": "عليك تحقيق كل شيء مأمور به بدقة", "is_correct": false },
+            { "choice_text": "التزم بالعمل ولن يطلب منك تحقيق الكمال", "is_correct": true },
+            { "choice_text": "الاستقامة لا تتحقق إلا بالاعتزال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفائدة المنهجية من البحث في الألفاظ المحيطة بموضوع التوازن؟",
+        "difficulty_score": 400,
+        "explanation": "البحث في الألفاظ المتصلة (كالعدل والوسطية) يغني المادة العلمية ويساعد في تحديد الإطار العام للموضوع [3, 38].",
+        "choices": [
+            { "choice_text": "إضاعة الوقت في مصطلحات لغوية", "is_correct": false },
+            { "choice_text": "تحديد الإطار العام وإثراء المادة", "is_correct": true },
+            { "choice_text": "إظهار المهارة اللغوية للمتحدث", "is_correct": false },
+            { "choice_text": "تعقيد المسائل على المستمعين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الكلمات التالية تعتبر 'عكس' التوازن حسب المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر الغلو، التفريط، التشتت، والتنطع كأضداد للتوازن [38].",
+        "choices": [
+            { "choice_text": "القصد", "is_correct": false },
+            { "choice_text": "التنطع", "is_correct": true },
+            { "choice_text": "الحكمة", "is_correct": false },
+            { "choice_text": "السداد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأهم بالنسبة للإنسان في قضايا التوازن حسب نصيحة المؤلف؟",
+        "difficulty_score": 800,
+        "explanation": "الأهم هو بناء القدرة والأهلية على توليد الإجابات للمشكلات الطارئة بدلاً من حفظ إجابة لمشكلة واحدة [27, 28].",
+        "choices": [
+            { "choice_text": "إيجاد حل سريع لكل مشكلة", "is_correct": false },
+            { "choice_text": "بناء الأهلية لتوليد الإجابات", "is_correct": true },
+            { "choice_text": "تجنب المشكلات من الأساس", "is_correct": false },
+            { "choice_text": "سؤال العلماء عن كل تفصيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المقدمة الأولى' المعينة على تحقيق التوازن؟",
+        "difficulty_score": 500,
+        "explanation": "المقدمة الأولى هي نزع قضية المثالية من الرأس لإدراك الواقع كما هو [24].",
+        "choices": [
+            { "choice_text": "طلب العلم المكثف", "is_correct": false },
+            { "choice_text": "نزع قضية المثالية", "is_correct": true },
+            { "choice_text": "السفر لطلب العلم", "is_correct": false },
+            { "choice_text": "العمل الدعوي الميداني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'دائرة الأمان' في حياة المؤمن المتوازن؟",
+        "difficulty_score": 600,
+        "explanation": "البقاء في المنطقة الوسطى التي لا يميل فيها الإنسان كلياً لأحد الجاذبين المضرّين [25].",
+        "choices": [
+            { "choice_text": "تحقيق الكمال في كل شيء", "is_correct": false },
+            { "choice_text": "البقاء في منطقة المنتصف دون ميل حاد", "is_correct": true },
+            { "choice_text": "العزلة عن الناس تماماً", "is_correct": false },
+            { "choice_text": "تحقيق 50% من كل هدف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'نزع المثالية' مهماً لتحقيق التوازن؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه لا يوجد أحد يعيش حياته 'بالمسطرة'، وفهم هذا يساعد على تقبل النقص والعمل وفق المتاح [24, 25].",
+        "choices": [
+            { "choice_text": "لأن المثالية تؤدي للإحباط السريع", "is_correct": true },
+            { "choice_text": "لأن الإسلام لا يدعو للإتقان", "is_correct": false },
+            { "choice_text": "لأن المثالية مستحيلة عقلاً", "is_correct": false },
+            { "choice_text": "لأن المثالية من سمات الكفار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف تختلف مرجعيات 'ما يستحقه' الشيء في التوازن؟",
+        "difficulty_score": 700,
+        "explanation": "هناك مرجعية الإنسان المادي، وهناك مرجعية الإسلام التي نعتمدها في تقييم الحقوق [1].",
+        "choices": [
+            { "choice_text": "كل الناس يتفقون على ما يستحقه الشيء", "is_correct": false },
+            { "choice_text": "تعتمد المرجعية على ذوق الفرد الشخصي", "is_correct": false },
+            { "choice_text": "تختلف حسب المنطلق (مادي أم إسلامي)", "is_correct": true },
+            { "choice_text": "المرجعية هي القانون الوضعي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية الكريمة التي وصفت درجات المؤمنين في التمسك بالكتاب؟",
+        "explanation": "الآية التي ذكرت 'ظالم لنفسه ومقتصد وسابق بالخيرات' [2].",
+        "difficulty_score": 400,
+        "choices": [
+            { "choice_text": "﴿فاتقوا الله ما استطعتم﴾", "is_correct": false },
+            { "choice_text": "﴿ثم أورثنا الكتاب الذين اصطفينا﴾", "is_correct": true },
+            { "choice_text": "﴿ولا تنس نصيبك من الدنيا﴾", "is_correct": false },
+            { "choice_text": "﴿إن هذا القرآن يهدي للتي هي أقوم﴾", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'السابقون بالخيرات' في سياق درجات الالتزام؟",
+        "difficulty_score": 500,
+        "explanation": "هم الذين حققوا أعلى درجات الاستجابة والتوازن والتأثير [2, 39].",
+        "choices": [
+            { "choice_text": "الذين يفعلون المحرمات", "is_correct": false },
+            { "choice_text": "الذين يقتصرون على الواجبات", "is_correct": false },
+            { "choice_text": "الذين يسارعون في الطاعات ودرجات الفضل", "is_correct": true },
+            { "choice_text": "الذين تركوا الدين بالكلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أول نقطة في 'الأشياء التي تصنع إنساناً متزناً'؟",
+        "difficulty_score": 200,
+        "explanation": "أول نقطة هي الهداية الإلهية، وهي نقطة حقيقية وليست للبركة فقط [9, 39].",
+        "choices": [
+            { "choice_text": "قراءة الكتب", "is_correct": false },
+            { "choice_text": "الهداية الإلهية", "is_correct": true },
+            { "choice_text": "مصاحبة الأصدقاء", "is_correct": false },
+            { "choice_text": "الرياضة البدنية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يكفي العلم وحده لتحقيق التوازن؟",
+        "difficulty_score": 900,
+        "explanation": "لأن التوازن يتطلب هداية وتوفيقاً إلهياً في مواطن الالتباس، وهو ما يتجاوز مجرد حفظ المعلومات [9, 22].",
+        "choices": [
+            { "choice_text": "لأن العلم ينسى بسرعة", "is_correct": false },
+            { "choice_text": "لأن العلم يؤدي للغرور", "is_correct": false },
+            { "choice_text": "لأن التوازن توفيق وهداية في مواطن الالتباس", "is_correct": true },
+            { "choice_text": "لأن العلم متوفر للجميع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الدعاء' في تحقيق الهداية للتوازن؟",
+        "difficulty_score": 300,
+        "explanation": "الدعاء هو من أهم طرق طلب الهداية من الله لإصابة الحق في الأمور المتجاذبة [40].",
+        "choices": [
+            { "choice_text": "هو أمر ثانوي لا يؤثر", "is_correct": false },
+            { "choice_text": "هو وسيلة مركزية لطلب هداية الصراط", "is_correct": true },
+            { "choice_text": "يغني عن العمل تماماً", "is_correct": false },
+            { "choice_text": "يستخدم فقط عند المصائب", "is_correct": false }
+        ]
+    },{
+        "question_text": "ما هو العامل الثاني الذي ذكره المصدر كواحد من أعظم الأشياء التي تبني إنساناً متوازناً؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المؤلف أن مصاحبة العاقل المتزن الحكيم هي النقطة الثانية بعد الهداية الإلهية [1].",
+        "choices": [
+            { "choice_text": "قراءة الكتب الفلسفية", "is_correct": false },
+            { "choice_text": "مصاحبة العاقل المتزن الحكيم", "is_correct": true },
+            { "choice_text": "الاعتزال التام عن الناس", "is_correct": false },
+            { "choice_text": "السفر الدائم للاستكشاف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا تكفي الكتب والقراءة وحدها لتحقيق التوازن حسب المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "لأن هناك أموراً لا تُحصّل إلا بالمعاشرة والخلطة، وهي التي تمنح الإنسان 'ملكة' التوازن من خلال رؤية التطبيق العملي [1].",
+        "choices": [
+            { "choice_text": "لأن الكتب تحتوي على أخطاء علمية", "is_correct": false },
+            { "choice_text": "لأن القراءة تسبب الملل", "is_correct": false },
+            { "choice_text": "لأن هناك أموراً تُحصّل فقط بالمعاشرة والخلطة", "is_correct": true },
+            { "choice_text": "لأن العلم الشرعي لا يوجد في الكتب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل يشترط في 'العاقل الحكيم' الذي يُصاحب لاكتساب التوازن أن يكون متخصصاً في العلم الشرعي؟",
+        "difficulty_score": 600,
+        "explanation": "أوضح المؤلف أنه يمكن الاستفادة من العقالء حتى لو لم يكونوا متخصصين في العلم الشرعي، لاكتساب تجاربهم وخبرتهم في تقييم الأمور [30، 32].",
+        "choices": [
+            { "choice_text": "نعم، يجب أن يكون عالماً شرعياً حصراً", "is_correct": false },
+            { "choice_text": "لا، بل يمكن مصاحبة العقالء من ذوي الخبرة والتوفيق", "is_correct": true },
+            { "choice_text": "نعم، لأن الحكمة محصورة في الفقهاء", "is_correct": false },
+            { "choice_text": "لا، بل يفضل مصاحبة من لا دين له لزيادة الخبرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي إحدى صور 'عدم التوازن في طلب العلم' التي حذر منها المؤلف؟",
+        "difficulty_score": 400,
+        "explanation": "الشغف فقط بالمعلومات الجديدة وجعلها المعيار الوحيد لقبول الدرس أو الكتاب هو صورة من عدم التوازن [30، 31].",
+        "choices": [
+            { "choice_text": "التركيز على المتون القديمة فقط", "is_correct": false },
+            { "choice_text": "الشغف بالمعلومات الجديدة وجعلها المحرك الوحيد", "is_correct": true },
+            { "choice_text": "طلب العلم في وقت الفجر", "is_correct": false },
+            { "choice_text": "سؤال العلماء عن المسائل الدقيقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العامل الثالث المعين على التوازن الذي يقي من 'الشذوذ والانفراد'؟",
+        "difficulty_score": 300,
+        "explanation": "الابتعاد عن الوحدة والتمسك بالصحبة الصالحة الناصحة هو العامل الثالث [2].",
+        "choices": [
+            { "choice_text": "العمل الفردي المستقل", "is_correct": false },
+            { "choice_text": "التمسك بالصحبة الصالحة والرفقاء", "is_correct": true },
+            { "choice_text": "كثرة النوم لراحة النفس", "is_correct": false },
+            { "choice_text": "تجنب النقاشات الاجتماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى تكون العزلة 'غير صائبة' حسب ما ورد في سياق الثغور الحالية؟",
+        "difficulty_score": 700,
+        "explanation": "تكون العزلة غير صائبة عندما يترك الشخص الثغور التي يحتاجها الناس بداعي العزلة الشخصية الدائمة [3].",
+        "choices": [
+            { "choice_text": "عندما تكون لغرض حفظ القرآن لعدة أشهر", "is_correct": false },
+            { "choice_text": "عندما يترك الإنسان الثغور التي يحتاجها الناس", "is_correct": true },
+            { "choice_text": "عندما تكون في أوقات الفتن الكبرى حصراً", "is_correct": false },
+            { "choice_text": "عندما يقرر الإنسان الصمت ليوم واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط بين 'السوية النفسية' (العامل الرابع) والقدرة على التوازن؟",
+        "difficulty_score": 800,
+        "explanation": "تحقيق السوية النفسية داخلياً هو ما يولد القدرة على التعامل الصحيح مع المتجاذبات الخارجية [4].",
+        "choices": [
+            { "choice_text": "لا يوجد رابط، فالتوازن عقلي فقط", "is_correct": false },
+            { "choice_text": "السوية النفسية تعيق التفكير العقلاني", "is_correct": false },
+            { "choice_text": "السوية النفسية هي الأساس الداخلي لإحداث التوازن", "is_correct": true },
+            { "choice_text": "السوية النفسية تتحقق بمجرد حفظ المعلومات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى المؤلف 'بناء الحزمة الأخلاقية' المعينة على تطبيق التوازن؟",
+        "difficulty_score": 500,
+        "explanation": "سماها الرافد الخامس المعين على نقل التوازن من النظرية إلى الواقع [5].",
+        "choices": [
+            { "choice_text": "الخطة الاستراتيجية", "is_correct": false },
+            { "choice_text": "الحزمة الأخلاقية الرافدة", "is_correct": true },
+            { "choice_text": "التنظير المثالي", "is_correct": false },
+            { "choice_text": "المكتسبات الدعوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا قد تفشل 'أعظم خطة توازن نظرية' في التطبيق العملي؟",
+        "difficulty_score": 600,
+        "explanation": "بسبب فقدان القدرة على التطبيق (مثل نقص الصبر) الذي يربط النظرية بالواقع [37، 38].",
+        "choices": [
+            { "choice_text": "لأن الخطة غير مكتوبة بالكمبيوتر", "is_correct": false },
+            { "choice_text": "بسبب نقص القدرة النفسية والأخلاقية كالصبر", "is_correct": true },
+            { "choice_text": "لأن الناس لا يحبون المتزنين", "is_correct": false },
+            { "choice_text": "لأن الخطط النظرية خاطئة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أول خلق ذكره المؤلف ضمن 'الحزمة الأخلاقية'؟",
+        "difficulty_score": 200,
+        "explanation": "الصبر هو الخلق الأول، لأنه لا توجد خطة تنتقل للواقع بدونه [6].",
+        "choices": [
+            { "choice_text": "الكرم", "is_correct": false },
+            { "choice_text": "الشجاعة", "is_correct": false },
+            { "choice_text": "الصبر", "is_correct": true },
+            { "choice_text": "الذكاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف عرف المؤلف 'الصبر' في سياق التوازن؟",
+        "difficulty_score": 700,
+        "explanation": "عرفه بأنه المرحلة التي تمسك فيها نفسك 'غصباً عنها' وتقول لها اجلسي وكفاك لعباً [40، 41].",
+        "choices": [
+            { "choice_text": "هو انتظار الفرج دون فعل شيء", "is_correct": false },
+            { "choice_text": "هو إجبار النفس على الالتزام بالخطة غصباً عنها", "is_correct": true },
+            { "choice_text": "هو قبول الهزيمة بروح رياضية", "is_correct": false },
+            { "choice_text": "هو شعور قلبي لا علاقة له بالعمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخلق الثاني في الحزمة الأخلاقية الذي يرتبط بـ 'كظم الغيظ'؟",
+        "difficulty_score": 300,
+        "explanation": "الخلق الثاني هو الحلم، وهو وسيلة كظم الغيظ وضبط المشاعر [41، 42].",
+        "choices": [
+            { "choice_text": "الحياء", "is_correct": false },
+            { "choice_text": "الحلم", "is_correct": true },
+            { "choice_text": "التواضع", "is_correct": false },
+            { "choice_text": "الزهد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'الغضب' عدواً للتوازن حسب المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "لأن الغضب يؤدي لاستجابات انفعالية تخرج الإنسان عن إطار التوازن والسوية [7].",
+        "choices": [
+            { "choice_text": "لأنه يحرق السعرات الحرارية", "is_correct": false },
+            { "choice_text": "لأنه يؤدي لردات فعل خارج إطار التوازن", "is_correct": true },
+            { "choice_text": "لأن الغضب محرم في كل الحالات", "is_correct": false },
+            { "choice_text": "لأنه يضعف الذاكرة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف 'حسن الخلق' عند ابن المبارك كما نقله المؤلف؟",
+        "difficulty_score": 500,
+        "explanation": "نقل المؤلف عن ابن المبارك أن حسن الخلق هو 'ترك الغضب' [8].",
+        "choices": [
+            { "choice_text": "كثرة الصدقة", "is_correct": false },
+            { "choice_text": "ترك الغضب", "is_correct": true },
+            { "choice_text": "فصاحة اللسان", "is_correct": false },
+            { "choice_text": "قيام الليل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى وصف يحيى عليه السلام بـ 'سيداً' في سورة آل عمران حسب بعض المفسرين؟",
+        "difficulty_score": 600,
+        "explanation": "فسرها بعض المفسرين بأن 'سيداً' تعني 'حليماً' [8].",
+        "choices": [
+            { "choice_text": "كثير المال", "is_correct": false },
+            { "choice_text": "حليماً", "is_correct": true },
+            { "choice_text": "شجاعاً", "is_correct": false },
+            { "choice_text": "جميل المنظر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الربانيون' حسب أحد التفسيرات المذكورة في المجلس؟",
+        "explanation": "ذكر المؤلف قولاً بأن الربانيين هم 'الحلماء الفقهاء' [9].",
+        "difficulty_score": 400,
+        "choices": [
+            { "choice_text": "العباد الزهاد", "is_correct": false },
+            { "choice_text": "الأغنياء الشاكرون", "is_correct": false },
+            { "choice_text": "الحلماء الفقهاء", "is_correct": true },
+            { "choice_text": "المقاتلون الأشداء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التحدي الرئيسي في التوازن عند التعامل مع والدين 'فيهما ظلم'؟",
+        "difficulty_score": 900,
+        "explanation": "التحدي هو القدرة على التحكم في المشاعر (الحلم) لأداء الواجب الشرعي تجاههما رغم سوء خلقهما [44، 45].",
+        "choices": [
+            { "choice_text": "معرفة الحكم الشرعي فقط", "is_correct": false },
+            { "choice_text": "القدرة النفسية على الحلم والصبر رغم الظلم", "is_correct": true },
+            { "choice_text": "ترك المنزل والبحث عن حياة جديدة", "is_correct": false },
+            { "choice_text": "إقناعهما بوجهة نظره بالنقاش الحاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي استشهد بها المؤلف لإثبات التوازن في التعامل مع الوالدين المشركين؟",
+        "difficulty_score": 500,
+        "explanation": "آية سورة لقمان التي تأمر بعدم الطاعة في الشرك مع 'مصاحبتهما في الدنيا معروفاً' [10].",
+        "choices": [
+            { "choice_text": "﴿وبالوالدين إحسانا﴾", "is_correct": false },
+            { "choice_text": "﴿وصاحبهما في الدنيا معروفا﴾", "is_correct": true },
+            { "choice_text": "﴿ولا تقل لهما أف﴾", "is_correct": false },
+            { "choice_text": "﴿واخفض لهما جناح الذل﴾", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العامل السابع المعين على السوية النفسية والتوازن؟",
+        "difficulty_score": 300,
+        "explanation": "العامل السابع هو 'اليقين بالمنطلقات والإيمان بالرؤية والأهداف' [11].",
+        "choices": [
+            { "choice_text": "كثرة السفر", "is_correct": false },
+            { "choice_text": "اليقين بالمنطلقات والرؤية", "is_correct": true },
+            { "choice_text": "حفظ المتون العلمية", "is_correct": false },
+            { "choice_text": "ممارسة الرياضة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'اليقين بالمنطلقات' (كالإيمان بالله والنبوة) حامياً من عدم التوازن؟",
+        "difficulty_score": 800,
+        "explanation": "لأنه يمنع 'الخسارة الحادة'؛ فإذا فشلت تجربة جزئية، لا يرجع الشخص ليهدم أصول دينه ويقينه [48، 50].",
+        "choices": [
+            { "choice_text": "لأنه يضمن النجاح المادي دائماً", "is_correct": false },
+            { "choice_text": "لأنه يمنع الإنسان من ارتكاب أي خطأ", "is_correct": false },
+            { "choice_text": "لأنه يمنع هدم الأصول عند فشل الفروع", "is_correct": true },
+            { "choice_text": "لأنه يجعل الناس يحترمونك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة المترتبة على عدم وضوح 'الرؤية التفصيلية' في طريق المؤمن؟",
+        "difficulty_score": 600,
+        "explanation": "غياب الرؤية يجعل العوارض والمشكلات التي تطرأ كفيلة بجرف الإنسان عن طريقه وإحداث حالة من التشتت والاضطراب [51، 52].",
+        "choices": [
+            { "choice_text": "زيادة السرعة في الإنجاز", "is_correct": false },
+            { "choice_text": "القدرة على مواجهة النقد", "is_correct": false },
+            { "choice_text": "حالة من التشتت والفوضوية والالتفات للعوارض", "is_correct": true },
+            { "choice_text": "تحقيق التوازن التلقائي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما هو دور 'الرؤية' بالنسبة للمؤمن في الطريق؟",
+        "difficulty_score": 400,
+        "explanation": "تعمل الرؤية كبوصلة توجه الإنسان وتمنع انحرافه بسبب المشكلات أو النقد [1].",
+        "choices": [
+            { "choice_text": "هي مجرد حلم بعيد المنال", "is_correct": false },
+            { "choice_text": "تعمل كبوصلة تحمي من الانجراف والالتفات", "is_correct": true },
+            { "choice_text": "تغني عن العمل الجاد", "is_correct": false },
+            { "choice_text": "تزيد من صعوبة الطريق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أول موطن من 'مواطن الزلل' في عدم التوازن؟",
+        "difficulty_score": 300,
+        "explanation": "الموطن الأول هو 'وجود المكتسبات الدعوية' وما قد تسببه من تفاؤل زائد أو غرور [2].",
+        "choices": [
+            { "choice_text": "فشل التجارب", "is_correct": false },
+            { "choice_text": "وجود المكتسبات الدعوية", "is_correct": true },
+            { "choice_text": "طول الطريق", "is_correct": false },
+            { "choice_text": "الغلو في الدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يمكن للمكتسبات الدعوية (مثل كثرة الموظفين أو المباني) أن تؤدي لعدم التوازن؟",
+        "difficulty_score": 700,
+        "explanation": "تولد تفاؤلاً زائداً وعدم قدرة على تحديد الموقع الحقيقي، مما يسبب صدمة وانهياراً عند فقدان هذه المكتسبات [2].",
+        "choices": [
+            { "choice_text": "لأنها تزيد من التواضع", "is_correct": false },
+            { "choice_text": "لأنها تسبب تفاؤلاً زائداً يغيب الواقعية", "is_correct": true },
+            { "choice_text": "لأنها تجذب الأعداء", "is_correct": false },
+            { "choice_text": "لأنها تستهلك الوقت فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التقييم المتزن لحفظ 'الصحيحين' كما ورد في المجلس؟",
+        "difficulty_score": 500,
+        "explanation": "هو عمل جيد وخدمة للنفس للمستقبل، لكنه لا يعني أن الشخص أصبح عالماً أو بلغ الغاية [3].",
+        "choices": [
+            { "choice_text": "هو الغاية القصوى لطالب العلم", "is_correct": false },
+            { "choice_text": "لا قيمة له في هذا الزمن", "is_correct": false },
+            { "choice_text": "هو تهيئة للنفس وبداية لطلب العلم المتقدم", "is_correct": true },
+            { "choice_text": "يغني عن دراسة أي علم آخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر 'فشل التجارب' (الموطن الثاني للزلل) على توازن الفرد؟",
+        "difficulty_score": 600,
+        "explanation": "كلما كبرت التجربة، كانت النتيجة السلبية للفشل أكبر وأخطر على اتزان الشخص [4].",
+        "choices": [
+            { "choice_text": "يزيد من الحماس دائماً", "is_correct": false },
+            { "choice_text": "لا يؤثر على المتزنين", "is_correct": false },
+            { "choice_text": "تكون نتيجته السلبية أكبر كلما كانت التجربة كبيرة", "is_correct": true },
+            { "choice_text": "يؤدي دائماً للإلحاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'طول الطريق' موطناً من مواطن الزلل؟",
+        "difficulty_score": 400,
+        "explanation": "لأنه يؤدي للفتور والملل والتذبذب مما يضعف القدرة على الاستمرار في التوازن [4].",
+        "choices": [
+            { "choice_text": "لأنه يستهلك المال", "is_correct": false },
+            { "choice_text": "لأنه يؤدي للفتور والملل والتذبذب", "is_correct": true },
+            { "choice_text": "لأنه يزيد من الخبرة دائماً", "is_correct": false },
+            { "choice_text": "لأنه يمنع من الزواج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العلاج المقترح لمواجهة زلل 'طول الطريق'؟",
+        "difficulty_score": 300,
+        "explanation": "العلاج هو التجديد الإيماني الدائم للنفس [5].",
+        "choices": [
+            { "choice_text": "الاعتزال التام", "is_correct": false },
+            { "choice_text": "التجديد الإيماني الدائم", "is_correct": true },
+            { "choice_text": "تغيير الأهداف باستمرار", "is_correct": false },
+            { "choice_text": "التوقف عن العمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الغلو في فهم الدين' كموطن للزلل؟",
+        "difficulty_score": 800,
+        "explanation": "هو سوء فهم النصوص والتشدد في الفهم بما يخالف السنة النبوية المتزنة [5].",
+        "choices": [
+            { "choice_text": "كثرة الصلاة والذكر", "is_correct": false },
+            { "choice_text": "سوء فهم النصوص والتشدد غير المبرر", "is_correct": true },
+            { "choice_text": "العمل بالسنن الرواتب", "is_correct": false },
+            { "choice_text": "الدفاع عن ثوابت الدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة الغلو في الدين حسب التوجيه النبوي؟",
+        "difficulty_score": 500,
+        "explanation": "الانقطاع والبعد عن المنهج النبوي ('فليس مني') [6].",
+        "choices": [
+            { "choice_text": "بلوغ أعلى درجات الجنة", "is_correct": false },
+            { "choice_text": "الرغبة عن السنة والانقطاع عن الطريق", "is_correct": true },
+            { "choice_text": "كسب محبة جميع الناس", "is_correct": false },
+            { "choice_text": "تحقيق التوازن المطلق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الظاهرة المعاصرة التي وصفها المؤلف بأنها 'سخيفة' في معالجة الغلو؟",
+        "difficulty_score": 900,
+        "explanation": "وصف 'الغلو في النظر إلى الغلو' بالسخافة، حيث يتم وصف الثوابت أو المسائل العادية بأنها غلو وتششد [56، 57].",
+        "choices": [
+            { "choice_text": "التشدد في الفتاوى", "is_correct": false },
+            { "choice_text": "الغلو في النظر إلى الغلو ووصف الثوابت به", "is_correct": true },
+            { "choice_text": "البحث عن الحقائق العلمية", "is_correct": false },
+            { "choice_text": "كثرة القراءات القرآنية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا يتميز الشخص الذي يغلو في فهم الدين قبل أن يسقط؟",
+        "difficulty_score": 700,
+        "explanation": "يكون عادة أكثر الناس حماساً وبذلاً وعطاءً، لكنه حماس غير مبني على اتزان فيسقط سريعاً [6].",
+        "choices": [
+            { "choice_text": "بالكسل والخمول", "is_correct": false },
+            { "choice_text": "بالحماس الزائد والبذل الكبير المؤدي للسقوط", "is_correct": true },
+            { "choice_text": "بالحكمة والتروي", "is_correct": false },
+            { "choice_text": "بالشك الدائم في المبادئ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوجيه النبوي في حديث 'عليكم من الأعمال ما تطيقون'؟",
+        "difficulty_score": 400,
+        "explanation": "القصد هو المداومة على العمل بما تطيقه النفس دون إجهاد يؤدي للملل والانقطاع [7].",
+        "choices": [
+            { "choice_text": "ترك العمل كلياً", "is_correct": false },
+            { "choice_text": "فعل كل شيء في وقت واحد", "is_correct": false },
+            { "choice_text": "الالتزام بما تطيقه النفس لضمان الاستمرار", "is_correct": true },
+            { "choice_text": "العمل فقط عند الرغبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'القصد القصد تبلغوا' في سياق التوازن؟",
+        "difficulty_score": 600,
+        "explanation": "القصد هو الاعتدال والتوسط في العمل، وهو الوسيلة الوحيدة للوصول للهدف (البلوغ) [7].",
+        "choices": [
+            { "choice_text": "السرعة الشديدة", "is_correct": false },
+            { "choice_text": "الاعتدال والتوسط في السير", "is_correct": true },
+            { "choice_text": "التوقف المتكرر", "is_correct": false },
+            { "choice_text": "إهمال النتائج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ذُكر مثال 'الخوارج' في سياق التوازن؟",
+        "difficulty_score": 800,
+        "explanation": "لبيان أن كثرة العبادة (الصلاة والصيام) بدون اتزان وفهم صحيح تؤدي للضلال والقتل [58، 59].",
+        "choices": [
+            { "choice_text": "كقدوة في كثرة العبادة", "is_correct": false },
+            { "choice_text": "للتحذير من العبادة غير المبنية على اتزان وفهم", "is_correct": true },
+            { "choice_text": "لإظهار شجاعتهم في المعارك", "is_correct": false },
+            { "choice_text": "لبيان فصاحتهم اللغوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مفهوم 'شراء النفس' الذي لا يعد خروجاً عن التوازن؟",
+        "difficulty_score": 700,
+        "explanation": "هو بذل النفس والمال ابتغاء مرضات الله، وهو قمة العبودية وليس خللاً في التوازن [8].",
+        "choices": [
+            { "choice_text": "الانتحار بسبب اليأس", "is_correct": false },
+            { "choice_text": "بذل النفس في سبيل الله ومرضاته", "is_correct": true },
+            { "choice_text": "إهمال الصحة الجسدية", "is_correct": false },
+            { "choice_text": "التجارة وجمع الأموال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل يعتبر 'وجود الأذى والضرر في سبيل الله' دليلاً على عدم التوازن؟",
+        "difficulty_score": 500,
+        "explanation": "لا، فالأذى في سبيل الله جزء من الطريق وليس دليلاً على خلل في التوازن الشخصي [8].",
+        "choices": [
+            { "choice_text": "نعم، المتزن لا يصيبه أذى", "is_correct": false },
+            { "choice_text": "لا، الأذى في سبيل الله لا يعارض التوازن", "is_correct": true },
+            { "choice_text": "نعم، الأذى دليل على سوء التخطيط", "is_correct": false },
+            { "choice_text": "نعم، لأن الإسلام يدعو للراحة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النص النبوي الذي يحدد الحقوق الأساسية للإنسان؟",
+        "difficulty_score": 300,
+        "explanation": "حديث 'إن لنفسك عليك حقاً، ولأهلك عليك حقاً...' [9].",
+        "choices": [
+            { "choice_text": "حديث 'إنما الأعمال بالنيات'", "is_correct": false },
+            { "choice_text": "حديث الحقوق (لنفسك، لأهلك، لزورك)", "is_correct": true },
+            { "choice_text": "حديث 'الدين النصيحة'", "is_correct": false },
+            { "choice_text": "حديث 'لا ضرر ولا ضرار'", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني كلمة 'لِزَوْرِكَ' في حديث الحقوق؟",
+        "difficulty_score": 400,
+        "explanation": "الزور هم الضيوف أو الزوار [9].",
+        "choices": [
+            { "choice_text": "زوجتك", "is_correct": false },
+            { "choice_text": "ضيوفك وزوارك", "is_correct": true },
+            { "choice_text": "أعداؤك", "is_correct": false },
+            { "choice_text": "أبناؤك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'شح النفس' الذي دعا المؤلف للاستعاذة منه في الخاتمة؟",
+        "difficulty_score": 600,
+        "explanation": "هو البخل بالحقوق ومنعها، والوقاية منه هي طريق الفلاح (ومن يوق شح نفسه فأولئك هم المفلحون) [9].",
+        "choices": [
+            { "choice_text": "قلة الأكل والشرب", "is_correct": false },
+            { "choice_text": "البخل بالحقوق والواجبات", "is_correct": true },
+            { "choice_text": "الرغبة في النوم", "is_correct": false },
+            { "choice_text": "حب الشهرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء هو 'المفلح' حسب الآية الواردة في ختام المجلس؟",
+        "difficulty_score": 200,
+        "explanation": "المفلح هو من وقاه الله شح نفسه [9].",
+        "choices": [
+            { "choice_text": "من جمع مالاً كثيراً", "is_correct": false },
+            { "choice_text": "من وُقي شُح نفسه", "is_correct": true },
+            { "choice_text": "من اعتزل الناس", "is_correct": false },
+            { "choice_text": "من لم يصب بأذى قط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط بين 'الهداية' و'السداد' في دعاء علي رضي الله عنه؟",
+        "difficulty_score": 700,
+        "explanation": "الهداية (معرفة الطريق) تسبق السداد (إصابة الهدف والسير الصحيح) [10].",
+        "choices": [
+            { "choice_text": "السداد يسبق الهداية دائماً", "is_correct": false },
+            { "choice_text": "الهداية هي نفسها السداد ولا فرق", "is_correct": false },
+            { "choice_text": "الهداية (معرفة الطريق) قبل السداد في العمل", "is_correct": true },
+            { "choice_text": "لا علاقة بينهما في التوازن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من مثال 'النسوية اليمنية' التي مسحت الدين بسبب تجربة زواج فاشلة؟",
+        "difficulty_score": 800,
+        "explanation": "نستنتج أن ضعف اليقين بالمنطلقات يجعل الشخص يهدم الأصول عند وقوع صدمة في الفروع [48، 49].",
+        "choices": [
+            { "choice_text": "أن الزواج دائماً يسبب ترك الدين", "is_correct": false },
+            { "choice_text": "أن ضعف اليقين يؤدي لهدم الأصول عند فشل الفروع", "is_correct": true },
+            { "choice_text": "أن اليمنيات لا يتحملن الصدمات", "is_correct": false },
+            { "choice_text": "أن النسوية هي الحل للتوازن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'ملكة التوازن' التي يسعى المجلس لبنائها؟",
+        "difficulty_score": 900,
+        "explanation": "هي القدرة الذاتية على توليد إجابات للمشكلات الطارئة بدلاً من مجرد حفظ حلول جاهزة [13، 15].",
+        "choices": [
+            { "choice_text": "حفظ 100 فتوى عن التوازن", "is_correct": false },
+            { "choice_text": "القدرة الذاتية على توليد إجابات للمتغيرات", "is_correct": true },
+            { "choice_text": "الوقوف في منتصف كل شيء دائماً", "is_correct": false },
+            { "choice_text": "عدم اتخاذ أي قرار صعب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المؤلف 'الشاب المستقيم المتزن' في زمننا؟",
+        "difficulty_score": 100,
+        "explanation": "وصفه بأنه 'عملة نادرة' وصعبة الوجود [11].",
+        "choices": [
+            { "choice_text": "عملة نادرة", "is_correct": true },
+            { "choice_text": "شخص عادي جداً", "is_correct": false },
+            { "choice_text": "متوفر بكثرة", "is_correct": false },
+            { "choice_text": "لا يحتاجه المجتمع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأمور 'ليس من أضداد' التوازن؟",
+        "difficulty_score": 300,
+        "explanation": "العدل والقصد هما من مرادفات التوازن وليس من أضداده [10، 12].",
+        "choices": [
+            { "choice_text": "التنطع", "is_correct": false },
+            { "choice_text": "القصد", "is_correct": true },
+            { "choice_text": "الغلو", "is_correct": false },
+            { "choice_text": "التشتت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر 'الفتور والملل' الناتج عن طول الطريق؟",
+        "difficulty_score": 400,
+        "explanation": "يؤدي لزلل في التوازن وقد ينتهي بالانقطاع عن العمل [4].",
+        "choices": [
+            { "choice_text": "يزيد التركيز", "is_correct": false },
+            { "choice_text": "يؤدي لزلل في التوازن والانقطاع", "is_correct": true },
+            { "choice_text": "لا يؤثر على أصحاب العزائم", "is_correct": false },
+            { "choice_text": "يؤدي دائماً للغلو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حذر المؤلف من 'الشغف بالمعلومات الجديدة' فقط في طلب العلم؟",
+        "difficulty_score": 600,
+        "explanation": "لأن هذا شغف استهلاكي يجعل المعيار هو 'الجديد' لا 'النافع'، وهو صورة من عدم التوازن [12].",
+        "choices": [
+            { "choice_text": "لأن المعلومات الجديدة خاطئة", "is_correct": false },
+            { "choice_text": "لأنها تجعل المعيار هو 'الجديد' لا 'النافع'", "is_correct": true },
+            { "choice_text": "لأن العلم القديم أفضل دائماً", "is_correct": false },
+            { "choice_text": "لأنها تشتت الذاكرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر بعض المفسرين وصف يحيى عليه السلام بـ 'سيداً'؟",
+        "difficulty_score": 500,
+        "explanation": "فسروها بـ 'حليماً'، مما يربط السيادة بالحلم [13].",
+        "choices": [
+            { "choice_text": "ملكاً مطاعاً", "is_correct": false },
+            { "choice_text": "حليماً", "is_correct": true },
+            { "choice_text": "غني القوم", "is_correct": false },
+            { "choice_text": "جميل الخلق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الصبر' في نقل خطة التوازن للواقع؟",
+        "difficulty_score": 700,
+        "explanation": "الصبر هو القوة التي تمسك النفس وتجبرها على الالتزام بالخطة رغم رغبتها في اللعب أو الراحة [40، 41].",
+        "choices": [
+            { "choice_text": "هو أمر مستحب وليس ضرورياً", "is_correct": false },
+            { "choice_text": "هو المحرك الذي يجبر النفس على الالتزام", "is_correct": true },
+            { "choice_text": "يؤدي لتعقيد الخطة", "is_correct": false },
+            { "choice_text": "يستخدم فقط عند فشل الخطة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'ساعة وساعة' في حديث حنظلة رضي الله عنه؟",
+        "difficulty_score": 400,
+        "explanation": "هو نص مركزي في التوازن بين الجد في العبادة وإعطاء النفس نصيبها من المباح [14].",
+        "choices": [
+            { "choice_text": "إهمال العبادة لساعة كاملة", "is_correct": false },
+            { "choice_text": "التوازن بين العبادة وإعطاء النفس مباحاتها", "is_correct": true },
+            { "choice_text": "النوم لمدة ساعة كل يوم", "is_correct": false },
+            { "choice_text": "الصلاة في كل ساعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المبدأ القرآني في قوله ﴿فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ﴾؟",
+        "difficulty_score": 300,
+        "explanation": "هو نص جاذب للتوازن يرفع الحرج ويحث على بذل المجهود المستطاع [14].",
+        "choices": [
+            { "choice_text": "ترك التقوى عند الصعوبة", "is_correct": false },
+            { "choice_text": "بذل المستطاع من التقوى دون تكلف ما لا يطاق", "is_correct": true },
+            { "choice_text": "التشدد في الدين", "is_correct": false },
+            { "choice_text": "إهمال الفرائض", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا شبه المؤلف الهداية بـ 'هداية الطريق في الصحراء'؟",
+        "difficulty_score": 800,
+        "explanation": "لبيان أن الحق قد يلتبس على الإنسان تماماً كما تلتبس الطرق في الصحراء، فيحتاج لنور الهداية [15].",
+        "choices": [
+            { "choice_text": "لأن الصحراء مكان جميل", "is_correct": false },
+            { "choice_text": "لبيان خطورة الالتباس والحاجة لنور الهداية", "is_correct": true },
+            { "choice_text": "لأن المؤمن يجب أن يعيش في الصحراء", "is_correct": false },
+            { "choice_text": "لأن الهداية صعبة المنال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الربانيون' في أحد التفسيرات الواردة؟",
+        "difficulty_score": 500,
+        "explanation": "هم الحلماء الفقهاء [16].",
+        "choices": [
+            { "choice_text": "المتخصصون في الفلك", "is_correct": false },
+            { "choice_text": "الحلماء الفقهاء", "is_correct": true },
+            { "choice_text": "الأغنياء المتصدقون", "is_correct": false },
+            { "choice_text": "الشعراء المدافعون عن الدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'حسن الخلق' عند ابن المبارك؟",
+        "difficulty_score": 200,
+        "explanation": "قال هو: ترك الغضب [13].",
+        "choices": [
+            { "choice_text": "كثرة الضحك", "is_correct": false },
+            { "choice_text": "ترك الغضب", "is_correct": true },
+            { "choice_text": "فصاحة الكلام", "is_correct": false },
+            { "choice_text": "إكرام الضيف فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة 'الغلو في فهم الدين' على المدى الطويل؟",
+        "difficulty_score": 600,
+        "explanation": "يؤدي للسقوط الحاد رغم البدايات القوية والحماس الزائد [6].",
+        "choices": [
+            { "choice_text": "الاستمرار في العبادة للأبد", "is_correct": false },
+            { "choice_text": "السقوط الحاد والانقطاع", "is_correct": true },
+            { "choice_text": "الوصول لمرتبة الصحابة", "is_correct": false },
+            { "choice_text": "محبة الناس جميعاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأسباب هو الأعظم في تحقيق التوازن حسب الخاتمة؟",
+        "difficulty_score": 900,
+        "explanation": "الهداية الإلهية والتوفيق في مواطن الالتباس هي الأساس الأعظم الذي تبنى عليه بقية الأسباب [21، 22].",
+        "choices": [
+            { "choice_text": "الذكاء الخارق", "is_correct": false },
+            { "choice_text": "الهداية الإلهية والتوفيق", "is_correct": true },
+            { "choice_text": "قراءة 1000 كتاب", "is_correct": false },
+            { "choice_text": "امتلاك أموال كثيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار الحقيقي للتوازن في الإسلام؟",
+        "difficulty_score": 100,
+        "explanation": "إعطاء كل شيء ما يستحقه بناءً على مبادئ الإسلام [17].",
+        "choices": [
+            { "choice_text": "إرضاء جميع الناس", "is_correct": false },
+            { "choice_text": "إعطاء الحقوق بناءً على مبادئ الإسلام", "is_correct": true },
+            { "choice_text": "تقسيم الوقت بالتساوي بين كل شيء", "is_correct": false },
+            { "choice_text": "اتباع أهواء النفس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'الاستقامة' في حديث 'استقيموا ولن تحصوا'؟",
+        "difficulty_score": 400,
+        "explanation": "الالتزام بالعمل الجاد مع إدراك أن الكمال المطلق غير مطلوب من البشر [10، 11].",
+        "choices": [
+            { "choice_text": "الكمال المطلق في كل شيء", "is_correct": false },
+            { "choice_text": "الالتزام الجاد مع قبول النقص البشري", "is_correct": true },
+            { "choice_text": "ترك العمل لصعوبته", "is_correct": false },
+            { "choice_text": "الصلاة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء الذي ختم به المجلس؟",
+        "difficulty_score": 200,
+        "explanation": "الدعاء بالهداية والسداد والعفو والثبات على الدين [18].",
+        "choices": [
+            { "choice_text": "دعاء طلب الرزق", "is_correct": false },
+            { "choice_text": "دعاء الهداية والسداد والثبات", "is_correct": true },
+            { "choice_text": "دعاء السفر", "is_correct": false },
+            { "choice_text": "دعاء دخول المسجد", "is_correct": false }
+        ]
+    }
+]}

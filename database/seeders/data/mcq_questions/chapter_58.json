@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 58,
+    "questions": [
+        {
+        "question_text": "في أي شهر وقعت غزوة السويق؟",
+        "difficulty_score": 100,
+        "explanation": "وقعت غزوة السويق في شهر شوال، بعد شهرين تقريباً من غزوة بدر التي كانت في رمضان [10].",
+        "choices": [
+            { "choice_text": "رمضان", "is_correct": false },
+            { "choice_text": "شوال", "is_correct": true },
+            { "choice_text": "رجب", "is_correct": false },
+            { "choice_text": "شعبان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو قائد المشركين الذي أغار على مزارع المدينة في غزوة السويق؟",
+        "difficulty_score": 200,
+        "explanation": "أبو سفيان هو من خرج انتقاماً لشهداء بدر وحلف ألا يمس الماء رأسه حتى ينتقم [10].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أبو سفيان", "is_correct": true },
+            { "choice_text": "أمية بن خلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الإجراء الذي اتخذه أبو سفيان لكي يتمكن من الفرار سريعاً من مطاردة المسلمين؟",
+        "difficulty_score": 300,
+        "explanation": "ألقى المشركون أكياس 'السويق' لتخفيف أحمالهم والفرار، ولذلك سميت الغزوة بهذا الاسم [2].",
+        "choices": [
+            { "choice_text": "أحرق الخيام", "is_correct": false },
+            { "choice_text": "ألقى السويق", "is_correct": true },
+            { "choice_text": "قتل الخيول", "is_correct": false },
+            { "choice_text": "طلب الصلح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد المقاتلين من بني قينقاع الذين شفع فيهم عبد الله بن أبي بن سلول؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أنهم كانوا أربعمائة دارع وثلاثمائة حاسر (المجموع 700) [7].",
+        "choices": [
+            { "choice_text": "300 مقاتل", "is_correct": false },
+            { "choice_text": "500 مقاتل", "is_correct": false },
+            { "choice_text": "700 مقاتل", "is_correct": true },
+            { "choice_text": "1000 مقاتل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان يسكن يهود بني قريظة بالنسبة للمدينة المنورة؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن أصناف اليهود الثلاثة كانوا في جنوب المدينة [1].",
+        "choices": [
+            { "choice_text": "شمال المدينة", "is_correct": false },
+            { "choice_text": "شرق المدينة", "is_correct": false },
+            { "choice_text": "جنوب المدينة", "is_correct": true },
+            { "choice_text": "وسط المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القبيلة التي استلمت 'الراية' في معسكر المشركين في أحد؟",
+        "difficulty_score": 400,
+        "explanation": "استلم لواء المشركين بنو عبد الدار [3].",
+        "choices": [
+            { "choice_text": "بنو مخزوم", "is_correct": false },
+            { "choice_text": "بنو عبد الدار", "is_correct": true },
+            { "choice_text": "بنو أمية", "is_correct": false },
+            { "choice_text": "بنو هاشم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أصرت قريش على إخراج النساء مع الجيش في غزوة أحد؟",
+        "difficulty_score": 500,
+        "explanation": "أخرجوهن ليكون وجودهن دافعاً للاستماتة في الدفاع عن الشرف ومنعاً للفرار [8].",
+        "choices": [
+            { "choice_text": "لتمريض الجرحى فقط", "is_correct": false },
+            { "choice_text": "للمشاركة في القتال الفعلي", "is_correct": false },
+            { "choice_text": "لتحفيز المقاتلين ومنع الفرار", "is_correct": true },
+            { "choice_text": "لإعداد الطعام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين عسكر النبي صلى الله عليه وسلم في ليلة خروجه إلى أحد قبل الوصول للجبل؟",
+        "difficulty_score": 500,
+        "explanation": "عسكر في منطقة تسمى 'الشيخين' وهي في منتصف المسافة تقريباً بين المسجد النبوي وأحد [11].",
+        "choices": [
+            { "choice_text": "ذو الحليفة", "is_correct": false },
+            { "choice_text": "منطقة الشيخين", "is_correct": true },
+            { "choice_text": "قباء", "is_correct": false },
+            { "choice_text": "بئر معونة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو القائد العسكري الذي استغل فراغ جبل الرماة للالتفاف حول المسلمين؟",
+        "difficulty_score": 200,
+        "explanation": "خالد بن الوليد هو من انتبه للفراغ والتف بكتيبة الفرسان [4].",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب المباشر لترك معظم الرماة مواقعهم على الجبل؟",
+        "difficulty_score": 400,
+        "explanation": "تركوا مواقعهم عندما رأوا معسكر المشركين ينكشف وبدأ المسلمون بجمع الغنائم [4].",
+        "choices": [
+            { "choice_text": "نفاذ السهام", "is_correct": false },
+            { "choice_text": "صدور أمر بالانسحاب", "is_correct": false },
+            { "choice_text": "الانشغال بجمع الغنائم", "is_correct": true },
+            { "choice_text": "الخوف من فرسان خالد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا صرخ الشيطان لإحداث الفوضى في صفوف المسلمين؟",
+        "difficulty_score": 300,
+        "explanation": "صرخ الشيطان بأن محمداً قد قُتل، مما أدى لاختلال الصفوف وهروب البعض [15، 16].",
+        "choices": [
+            { "choice_text": "أن المشركين انتصروا", "is_correct": false },
+            { "choice_text": "أن محمداً قد قُتل", "is_correct": true },
+            { "choice_text": "أن المدد قد وصل", "is_correct": false },
+            { "choice_text": "أن الجبل قد سقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استُصغر في بدر وشارك في أحد؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أن ابن عمر كان ممن استصغر في بدر وشارك في أحد [11].",
+        "choices": [
+            { "choice_text": "أسامة بن زيد", "is_correct": false },
+            { "choice_text": "عبد الله بن عمر", "is_correct": true },
+            { "choice_text": "البراء بن عازب", "is_correct": false },
+            { "choice_text": "زيد بن ثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الإصابة الجسدية التي تعرض لها النبي صلى الله عليه وسلم في أحد؟",
+        "difficulty_score": 400,
+        "explanation": "كسرت رباعيته (أسنانه) وشُج وجهه وتهشمت البيضة (الخوذة) على رأسه [12].",
+        "choices": [
+            { "choice_text": "جرح في قدمه", "is_correct": false },
+            { "choice_text": "كسر في يده", "is_correct": false },
+            { "choice_text": "كسر رباعيته وشج وجهه", "is_correct": true },
+            { "choice_text": "إصابة في عينه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الشعب' الذي انحاز إليه النبي صلى الله عليه وسلم أثناء اشتداد القتال؟",
+        "difficulty_score": 700,
+        "explanation": "هو مكان في الجبل (جبل أحد) التجأ إليه النبي صلى الله عليه وسلم ليوفر الحماية لجيشه من عدة جهات [18، 19].",
+        "choices": [
+            { "choice_text": "غار حراء", "is_correct": false },
+            { "choice_text": "شعب في الجبل", "is_correct": true },
+            { "choice_text": "وادي العقيق", "is_correct": false },
+            { "choice_text": "بئر رومة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي حزن كثيراً لغيابه عن بدر وقال 'لئن أشهدني الله قتال المشركين ليرين الله ما أصنع'؟",
+        "difficulty_score": 500,
+        "explanation": "هو أنس بن النضر رضي الله عنه [13].",
+        "choices": [
+            { "choice_text": "أنس بن مالك", "is_correct": false },
+            { "choice_text": "أنس بن النضر", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القبيلة التي كانت مسؤولة عن مفتاح الكعبة وسقاية الحجيج؟",
+        "difficulty_score": 800,
+        "explanation": "بنو شيبة هم أهل مفتاح الكعبة، والسقاية عند آل عبد المطلب [3].",
+        "choices": [
+            { "choice_text": "بنو عبد الدار", "is_correct": false },
+            { "choice_text": "بنو شيبة", "is_correct": true },
+            { "choice_text": "بنو هاشم", "is_correct": false },
+            { "choice_text": "بنو سليم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد جيش المشركين في غزوة أحد مقابل جيش المسلمين؟",
+        "difficulty_score": 400,
+        "explanation": "كان المشركون ثلاثة آلاف مقابل سبعمائة من المسلمين [14].",
+        "choices": [
+            { "choice_text": "1000 ضد 300", "is_correct": false },
+            { "choice_text": "3000 ضد 700", "is_correct": true },
+            { "choice_text": "5000 ضد 1000", "is_correct": false },
+            { "choice_text": "2000 ضد 600", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعلت المرأة (من معسكر المشركين) عندما رأت الراية ساقطة على الأرض؟",
+        "difficulty_score": 600,
+        "explanation": "قامت برفعها ليتجمع المشركون حولها مرة أخرى بعد تفرقهم [15].",
+        "choices": [
+            { "choice_text": "هربت بها", "is_correct": false },
+            { "choice_text": "رفعتها ليجتمع الناس", "is_correct": true },
+            { "choice_text": "مزقتها", "is_correct": false },
+            { "choice_text": "أخفتها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشهيد الذي مُثل به في أحد وهو عم النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 100,
+        "explanation": "حمزة بن عبد المطلب رضي الله عنه [16].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "العباس بن عبد المطلب", "is_correct": false },
+            { "choice_text": "أبو سلمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذكره المصدر كأحد الشهداء الممثل بهم والذين مضوا ولم يأكلوا من أجرهم شيئاً في الدنيا؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر المصدر مصعب بن عمير كنموذج لمن مضى ولم يأكل من أجره شيئاً في الدنيا [16].",
+        "choices": [
+            { "choice_text": "مصعب بن عمير", "is_correct": true },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الذي أطلقه المصدر على الجماعة التي استغلت واقعة أحد للطعن في عثمان بن عفان؟",
+        "difficulty_score": 900,
+        "explanation": "سماهم المصدر 'مجموعة من الخوارج' الذين ناقشهم ابن عمر [9].",
+        "choices": [
+            { "choice_text": "المنافقون", "is_correct": false },
+            { "choice_text": "الخوارج", "is_correct": true },
+            { "choice_text": "المرجئة", "is_correct": false },
+            { "choice_text": "المعتزلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سياق ذُكرت الآية {إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ} في المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "ذُكرت في سياق وصف فرار المسلمين واختلال صفوفهم يوم أحد بينما كان النبي يدعوهم في أخراهم [17].",
+        "choices": [
+            { "choice_text": "غزوة بدر", "is_correct": false },
+            { "choice_text": "غزوة أحد", "is_correct": true },
+            { "choice_text": "غزوة الخندق", "is_correct": false },
+            { "choice_text": "فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد المهاجرين (من قريش) الذين ثبتوا حول النبي صلى الله عليه وسلم في الحصار بأحد؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر المصدر أنهم كانوا رجلين من قريش وسبعة من الأنصار (المجموع تسعة) [18].",
+        "choices": [
+            { "choice_text": "رجل واحد", "is_correct": false },
+            { "choice_text": "رجلان", "is_correct": true },
+            { "choice_text": "خمسة رجال", "is_correct": false },
+            { "choice_text": "عشرة رجال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان يهود بني قينقاع يعتبرون أنفسهم في مأمن من القتل؟",
+        "difficulty_score": 600,
+        "explanation": "بسبب حلفهم مع عبد الله بن أبي بن سلول وتدخله القوي لحمايتهم [7].",
+        "choices": [
+            { "choice_text": "لقوة حصونهم", "is_correct": false },
+            { "choice_text": "لحمايتهم من ابن أبي سلول", "is_correct": true },
+            { "choice_text": "لعددهم الضخم", "is_correct": false },
+            { "choice_text": "لاتفاقية مسبقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبرة الأساسية للمصلحين من دراسة سيرة النبي الاجتماعية كما ورد في المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "أن المصلح يجب أن يكون جزءاً من نسيج المجتمع ولا ينعزل عنه في أفراحه وأتراحه [6].",
+        "choices": [
+            { "choice_text": "الانعزال للعبادة", "is_correct": false },
+            { "choice_text": "التركيز فقط على السياسة", "is_correct": false },
+            { "choice_text": "المشاركة الاجتماعية الفعالة", "is_correct": true },
+            { "choice_text": "تجنب المشاكل الاجتماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذُكر والده جابر كأحد سادات الأنصار الذين استشهدوا في أحد؟",
+        "difficulty_score": 600,
+        "explanation": "عبد الله بن عمرو بن حرام (والد جابر) [16].",
+        "choices": [
+            { "choice_text": "جابر بن عبد الله", "is_correct": false },
+            { "choice_text": "والد جابر", "is_correct": true },
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "معاذ بن جبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي قبيلة يهودية كانت توصف بأن مكانها 'قريب من مستشفى الدار' حالياً في المدينة؟",
+        "difficulty_score": 900,
+        "explanation": "بنو قينقاع، حيث ذكر المصدر أن منطقتهم هي الأقرب داخل المدينة حالياً [1].",
+        "choices": [
+            { "choice_text": "بنو النضير", "is_correct": false },
+            { "choice_text": "بنو قريظة", "is_correct": false },
+            { "choice_text": "بنو قينقاع", "is_correct": true },
+            { "choice_text": "يهود خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القوة التي كان يقودها خالد بن الوليد في أحد؟",
+        "difficulty_score": 400,
+        "explanation": "كان يقود كتيبة الفرسان [4].",
+        "choices": [
+            { "choice_text": "المشاة", "is_correct": false },
+            { "choice_text": "الرماة", "is_correct": false },
+            { "choice_text": "الفرسان", "is_correct": true },
+            { "choice_text": "المستطلعين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر حالة المعركة بعد التفاف خالد بن الوليد؟",
+        "difficulty_score": 700,
+        "explanation": "وصفها بأن الغبار والصراخ والقتال الملتحم جعل الجيش يختلط ولم يعد يعرف أحد مكانه [14، 16].",
+        "choices": [
+            { "choice_text": "انسحاب منظم", "is_correct": false },
+            { "choice_text": "اختلال واختلاط الصفوف", "is_correct": true },
+            { "choice_text": "استسلام سريع", "is_correct": false },
+            { "choice_text": "ثبات في المواقع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو رد فعل النبي صلى الله عليه وسلم عندما طلب منه ابن أبي سلول العفو عن بني قينقاع في المرة الأولى؟",
+        "difficulty_score": 800,
+        "explanation": "أعرض عنه النبي صلى الله عليه وسلم ولم يجبه في البداية [7].",
+        "choices": [
+            { "choice_text": "وافق فوراً", "is_correct": false },
+            { "choice_text": "أعرض عنه", "is_correct": true },
+            { "choice_text": "غضب عليه بشدة", "is_correct": false },
+            { "choice_text": "أمر بقتله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذُكر أنه قُتل ومُثل به بجانب حمزة؟",
+        "difficulty_score": 700,
+        "explanation": "عبد الله بن جحش رضي الله عنه [16].",
+        "choices": [
+            { "choice_text": "عبد الله بن جحش", "is_correct": true },
+            { "choice_text": "زيد بن حارثة", "is_correct": false },
+            { "choice_text": "جعفر الطيار", "is_correct": false },
+            { "choice_text": "أبو دجانة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلق على عبد الله بن أبي بن سلول في المصدر؟",
+        "difficulty_score": 200,
+        "explanation": "رأس المنافقين [7].",
+        "choices": [
+            { "choice_text": "سيد الأوس", "is_correct": false },
+            { "choice_text": "رأس المنافقين", "is_correct": true },
+            { "choice_text": "حليف المشركين", "is_correct": false },
+            { "choice_text": "قائد الخوارج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان النبي صلى الله عليه وسلم يقضي وقته 'كأنه متفرغ للعبادة'؟",
+        "difficulty_score": 600,
+        "explanation": "في بيته، رغم كل انشغالاته الخارجية [5].",
+        "choices": [
+            { "choice_text": "في المسجد فقط", "is_correct": false },
+            { "choice_text": "في ساحة المعركة", "is_correct": false },
+            { "choice_text": "في بيته", "is_correct": true },
+            { "choice_text": "في جبل أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي استشهد بها المصدر للدلالة على نصر الله للمؤمنين في بداية أحد؟",
+        "difficulty_score": 800,
+        "explanation": "الآية {وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُم بِإِذْنِهِ} [4].",
+        "choices": [
+            { "choice_text": "آية الكرسي", "is_correct": false },
+            { "choice_text": "آية نصر الله في أحد", "is_correct": true },
+            { "choice_text": "آية المداينة", "is_correct": false },
+            { "choice_text": "آية القتال في بدر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو معنى 'الحس' في الآية السابقة كما فسرها المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "القتل الواضح والانتصار الغالب في بداية المعركة [4].",
+        "choices": [
+            { "choice_text": "الشعور بالخوف", "is_correct": false },
+            { "choice_text": "القتل والاستئصال", "is_correct": true },
+            { "choice_text": "الهروب", "is_correct": false },
+            { "choice_text": "الاستطلاع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الكيد المعرفي' الذي أشار إليه المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "هو كيد اليهود والمنافقين بإثارة الشبهات والأسئلة لزعزعة الثقة [5].",
+        "choices": [
+            { "choice_text": "التجسس العسكري", "is_correct": false },
+            { "choice_text": "إثارة الشبهات والأسئلة", "is_correct": true },
+            { "choice_text": "قطع طرق التجارة", "is_correct": false },
+            { "choice_text": "تسميم الآبار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'بنو قينقاع'؟",
+        "difficulty_score": 300,
+        "explanation": "هم إحدى قبائل اليهود في المدينة المنورة [1].",
+        "choices": [
+            { "choice_text": "قبيلة من قريش", "is_correct": false },
+            { "choice_text": "قبيلة من الأوس", "is_correct": false },
+            { "choice_text": "قبيلة يهودية", "is_correct": true },
+            { "choice_text": "قبيلة من غطفان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الصحابة الأنصار الذين ثبتوا مع النبي في الشعب؟",
+        "difficulty_score": 800,
+        "explanation": "سبعة من الأنصار [18].",
+        "choices": [
+            { "choice_text": "ثلاثة", "is_correct": false },
+            { "choice_text": "خمسة", "is_correct": false },
+            { "choice_text": "سبعة", "is_correct": true },
+            { "choice_text": "عشرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم بمن استُصغر من الشباب في أحد؟",
+        "difficulty_score": 500,
+        "explanation": "استعرض الجيش وأرجع من رآه صغيراً على القتال [11].",
+        "choices": [
+            { "choice_text": "جعلهم في المقدمة", "is_correct": false },
+            { "choice_text": "أرجعهم للمدينة", "is_correct": true },
+            { "choice_text": "جعلهم رماة", "is_correct": false },
+            { "choice_text": "كلفهم بحراسة النساء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي ميز 'غزوة غطفان' كما ورد في المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "أنها كانت تحركاً من مشركين غير قريش، مما زاد العبء على النبي [5].",
+        "choices": [
+            { "choice_text": "وقعت داخل مكة", "is_correct": false },
+            { "choice_text": "كانت ضد قريش", "is_correct": false },
+            { "choice_text": "كانت من مشركين غير قريش", "is_correct": true },
+            { "choice_text": "انتهت بصلح دائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان حجم القوة التي انسحبت من جيش المسلمين بقيادة عبد الله بن أبي بن سلول قبل بدء المعركة؟",
+        "difficulty_score": 300,
+        "explanation": "انسحب عبد الله بن أبي بن سلول بثلث الجيش (نحو 300 مقاتل) معترضاً على الخروج للقتال خارج المدينة [1].",
+        "choices": [
+            { "choice_text": "الربع", "is_correct": false },
+            { "choice_text": "النصف", "is_correct": false },
+            { "choice_text": "الثلث", "is_correct": true },
+            { "choice_text": "الخمس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هما القبيلتان من الأنصار اللتان ذكرهما القرآن بأنهما 'همتا أن تفشلا' ثم ثبتهما الله؟",
+        "difficulty_score": 500,
+        "explanation": "بنو سلمة وبنو حارثة هما الطائفتان اللتان ذكرهما الله في سورة آل عمران {إِذْ هَمَّت طَّائِفَتَانِ مِنكُمْ أَن تَفْشَلَا} [2].",
+        "choices": [
+            { "choice_text": "الأوس والخزرج", "is_correct": false },
+            { "choice_text": "بنو سلمة وبنو حارثة", "is_correct": true },
+            { "choice_text": "بنو النضير وبنو قريظة", "is_correct": false },
+            { "choice_text": "بنو عبد الدار وبنو شيبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العدد الإجمالي للرماة الذين وضعهم النبي صلى الله عليه وسلم على الجبل لحماية ظهر الجيش؟",
+        "difficulty_score": 200,
+        "explanation": "جعل النبي صلى الله عليه وسلم كتيبة من خمسين رامياً على الجبل [3].",
+        "choices": [
+            { "choice_text": "30 رامياً", "is_correct": false },
+            { "choice_text": "50 رامياً", "is_correct": true },
+            { "choice_text": "70 رامياً", "is_correct": false },
+            { "choice_text": "100 رامٍ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استلم لواء المهاجرين في بداية معركة أحد؟",
+        "difficulty_score": 400,
+        "explanation": "أعطى النبي صلى الله عليه وسلم لواء المعركة لمصعب بن عمير رضي الله عنه [4].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": true },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني كلمة 'تحسونهم' الواردة في قوله تعالى {إِذْ تَحُسُّونَهُم بِإِذْنِهِ}؟",
+        "difficulty_score": 600,
+        "explanation": "فسرها المصدر بأنها تعني القتل المستأصل والواضح للمشركين في بداية المعركة [5].",
+        "choices": [
+            { "choice_text": "تشعرون بهم", "is_correct": false },
+            { "choice_text": "تقتلونهم وتستأصلونهم", "is_correct": true },
+            { "choice_text": "تراقبونهم", "is_correct": false },
+            { "choice_text": "تهربون منهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدافع الأساسي لـ 'وحشي' لقتل حمزة بن عبد المطلب رضي الله عنه؟",
+        "difficulty_score": 300,
+        "explanation": "كان وحشي عبداً لجبير بن مطعم، ووعده سيده بالعتق إن قتل حمزة انتقاماً لعمه طعيمة بن عدي [6].",
+        "choices": [
+            { "choice_text": "رغبة في الغنائم", "is_correct": false },
+            { "choice_text": "نيل الحرية (العتق)", "is_correct": true },
+            { "choice_text": "كراهية للإسلام", "is_correct": false },
+            { "choice_text": "بأمر من أبي سفيان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف وحشي حمزة رضي الله عنه أثناء قتاله في المعركة؟",
+        "difficulty_score": 700,
+        "explanation": "وصفه بأنه 'كأنه جمل أورق يهد الناس هداً'، للدلالة على قوته واكتساحه للميدان [6].",
+        "choices": [
+            { "choice_text": "كالأسد الهصور", "is_correct": false },
+            { "choice_text": "كأنه جمل أورق", "is_correct": true },
+            { "choice_text": "كالريح المرسلة", "is_correct": false },
+            { "choice_text": "كالبنيان المرصوص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو قائد الرماة الذي ثبت مع قليل من الصحابة على الجبل حتى استشهدوا؟",
+        "difficulty_score": 400,
+        "explanation": "هو عبد الله بن جبير رضي الله عنه، الذي بقي في مكانه امتثالاً لأمر النبي بينما نزل الأغلبية [7].",
+        "choices": [
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "عبد الله بن جبير", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الأداة التي استخدمها وحشي لقتل حمزة رضي الله عنه؟",
+        "difficulty_score": 200,
+        "explanation": "استخدم وحشي 'الحربة' وكان ماهراً في رميها [8].",
+        "choices": [
+            { "choice_text": "السيف", "is_correct": false },
+            { "choice_text": "السهم", "is_correct": false },
+            { "choice_text": "الحربة", "is_correct": true },
+            { "choice_text": "الخنجر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي وجد ريح الجنة دون أحد قبل أن يستشهد؟",
+        "difficulty_score": 500,
+        "explanation": "هو أنس بن النضر رضي الله عنه، الذي قال لمعاذ بن جبل: 'واهاً لريح الجنة أجدها دون أحد' [9].",
+        "choices": [
+            { "choice_text": "أنس بن مالك", "is_correct": false },
+            { "choice_text": "أنس بن النضر", "is_correct": true },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف استطاعت أخت أنس بن النضر التعرف على جثمانه بعد استشهاده؟",
+        "difficulty_score": 700,
+        "explanation": "لم يعرفه أحد لتشوه ملامحه من كثرة الطعنات، وتعرفت عليه أخته فقط بـ 'بنانه' (أطراف أصابعه) [9].",
+        "choices": [
+            { "choice_text": "بوجهه", "is_correct": false },
+            { "choice_text": "بثيابه", "is_correct": false },
+            { "choice_text": "ببنانه", "is_correct": true },
+            { "choice_text": "بسيفه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هما الصحابيان اللذان ذكرهما المصدر بأنهما استماتا في الدفاع عن النبي حتى لم يبق معه غيرهما في إحدى لحظات المعركة؟",
+        "difficulty_score": 800,
+        "explanation": "روى أبو عثمان النهدي في البخاري أنه لم يبق مع النبي في بعض تلك الأيام إلا طلحة وسعد [10].",
+        "choices": [
+            { "choice_text": "أبو بكر وعمر", "is_correct": false },
+            { "choice_text": "طلحة بن عبيد الله وسعد بن أبي وقاص", "is_correct": true },
+            { "choice_text": "علي وحمزة", "is_correct": false },
+            { "choice_text": "خالد بن الوليد وعمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا حدث ليد طلحة بن عبيد الله رضي الله عنه وهو يقي بها النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 600,
+        "explanation": "شلت يده (أصيبت بالرهل أو العجز) من كثرة ما تلقى بها من نبال وسهام وقاية للنبي [77، 78].",
+        "choices": [
+            { "choice_text": "قطعت بالكامل", "is_correct": false },
+            { "choice_text": "أصيبت بالشلل (شلت)", "is_correct": true },
+            { "choice_text": "جرحت جرحاً بسيطاً", "is_correct": false },
+            { "choice_text": "لم تصب بشيء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان النبي صلى الله عليه وسلم يقول له في أحد: 'ارمِ فداك أبي وأمي'؟",
+        "difficulty_score": 400,
+        "explanation": "سعد بن أبي وقاص رضي الله عنه، وهو الوحيد الذي جمع له النبي أبويه فداءً له [10].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": true },
+            { "choice_text": "الزبير بن العوام", "is_correct": false },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل أبو طلحة الأنصاري رضي الله عنه لحماية النبي صلى الله عليه وسلم من سهام المشركين؟",
+        "difficulty_score": 600,
+        "explanation": "كان يحمي النبي ببدنه ويقول له: 'بأبي أنت وأمي لا تشرف يصيبك سهم من سهام القوم، نحري دون نحرك' [11].",
+        "choices": [
+            { "choice_text": "كان يختبئ خلف الجبل", "is_correct": false },
+            { "choice_text": "كان يرفع النبي على كتفه", "is_correct": false },
+            { "choice_text": "كان يرفع صدره دون النبي", "is_correct": true },
+            { "choice_text": "كان يطلب من النبي الانسحاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم قوساً كسر أبو طلحة الأنصاري في يوم أحد من شدة رميه؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر البخاري أنه كسر 'قوسين أو ثلاثاً' في ذلك اليوم [78، 79].",
+        "choices": [
+            { "choice_text": "قوساً واحداً", "is_correct": false },
+            { "choice_text": "قوسين أو ثلاثاً", "is_correct": true },
+            { "choice_text": "خمسة أقواس", "is_correct": false },
+            { "choice_text": "عشرة أقواس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'البيضة' التي تهشمت على رأس النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 400,
+        "explanation": "البيضة هي الخوذة الحديدية التي توضع على الرأس لحمايته في الحرب [12].",
+        "choices": [
+            { "choice_text": "درع الصدر", "is_correct": false },
+            { "choice_text": "خوذة الرأس الحديدية", "is_correct": true },
+            { "choice_text": "الغمد الذي يحمل السيف", "is_correct": false },
+            { "choice_text": "الراية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استشهد ولم يجدوا له ما يكفنونه به إلا بردة قصيرة؟",
+        "difficulty_score": 300,
+        "explanation": "هو مصعب بن عمير رضي الله عنه، كان إذا غطوا رأسه بدت رجلاه، وإذا غطوا رجليه بدا رأسه [95، 97].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أمر النبي صلى الله عليه وسلم أن تغطى رجلا مصعب بن عمير عند دفنه؟",
+        "difficulty_score": 500,
+        "explanation": "أمر بوضع 'الإذخر' (وهو نوع من العشب الطيب الرائحة) على رجليه [95، 96].",
+        "choices": [
+            { "choice_text": "بقطعة ثوب أخرى", "is_correct": false },
+            { "choice_text": "بالتراب فقط", "is_correct": false },
+            { "choice_text": "بعشب الإذخر", "is_correct": true },
+            { "choice_text": "بجلود الحيوانات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار الذي استخدمه النبي صلى الله عليه وسلم لتقديم الشهداء في القبر الواحد عند ضيق المكان؟",
+        "difficulty_score": 700,
+        "explanation": "كان يسأل: 'أيهم أكثر أخذاً للقرآن؟' فيقدمه في اللحد [13].",
+        "choices": [
+            { "choice_text": "الأكبر سناً", "is_correct": false },
+            { "choice_text": "الأكثر شجاعة في المعركة", "is_correct": false },
+            { "choice_text": "الأكثر أخذاً للقرآن", "is_correct": true },
+            { "choice_text": "الأقدم إسلاماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد الذي علمه النبي صلى الله عليه وسلم لعمر بن الخطاب ليرد به على قول أبي سفيان 'أعلُ هبل'؟",
+        "difficulty_score": 400,
+        "explanation": "أمره أن يقول: 'الله أعلى وأجل' [92، 93].",
+        "choices": [
+            { "choice_text": "الله أكبر كبيراً", "is_correct": false },
+            { "choice_text": "الله أعلى وأجل", "is_correct": true },
+            { "choice_text": "لا إله إلا الله", "is_correct": false },
+            { "choice_text": "هبل تحت أقدامنا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد على قول أبي سفيان 'لنا العزى ولا عزى لكم'؟",
+        "difficulty_score": 500,
+        "explanation": "علمهم النبي أن يقولوا: 'الله مولانا ولا مولى لكم' [14].",
+        "choices": [
+            { "choice_text": "الله ناصرنا", "is_correct": false },
+            { "choice_text": "الله مولانا ولا مولى لكم", "is_correct": true },
+            { "choice_text": "محمد قائدنا", "is_correct": false },
+            { "choice_text": "العزى حجر صم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف برر المصدر غياب عثمان بن عفان عن غزوة بدر؟",
+        "difficulty_score": 600,
+        "explanation": "تخلف لتمريض زوجته رقية ابنة النبي صلى الله عليه وسلم بأمر من النبي نفسه، وجعل له سهمه وأجره كمن شهدها [82، 83].",
+        "choices": [
+            { "choice_text": "كان مريضاً", "is_correct": false },
+            { "choice_text": "كان مسافراً للتجارة", "is_correct": false },
+            { "choice_text": "لتمريض زوجته رقية ابنة النبي", "is_correct": true },
+            { "choice_text": "لم يصل إليه خبر الغزوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور النساء (مثل عائشة وأم سليم) في معركة أحد كما وصفه البراء بن عازب؟",
+        "difficulty_score": 600,
+        "explanation": "كن ينقلن القرب على ظهورهن ويفرغن الماء في أفواه القوم (السقاية) [85، 86].",
+        "choices": [
+            { "choice_text": "المبارزة بالسيوف", "is_correct": false },
+            { "choice_text": "سقاية الجيش ونقل القرب", "is_correct": true },
+            { "choice_text": "حراسة الخيام", "is_correct": false },
+            { "choice_text": "التجسس على المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الصحابية التي قال عنها عمر بن الخطاب أنها كانت 'تزفر لنا القرب يوم أحد'؟",
+        "difficulty_score": 900,
+        "explanation": "هي أم سليط رضي الله عنها، من نساء الأنصار [15].",
+        "choices": [
+            { "choice_text": "نسيبة بنت كعب", "is_correct": false },
+            { "choice_text": "أم سليط", "is_correct": true },
+            { "choice_text": "أم عمارة", "is_correct": false },
+            { "choice_text": "خولة بنت الأزور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مصير السيف الذي عرضه النبي في بداية المعركة وقال 'من يأخذ هذا السيف بحقه'؟",
+        "difficulty_score": 500,
+        "explanation": "أخذه أبو دجانة رضي الله عنه ووفى بحقه [16].",
+        "choices": [
+            { "choice_text": "أخذه علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "أخذه الزبير بن العوام", "is_correct": false },
+            { "choice_text": "أخذه أبو دجانة", "is_correct": true },
+            { "choice_text": "بقي مكانه لم يأخذه أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المثلة' التي وجدها المسلمون في جثث شهدائهم؟",
+        "difficulty_score": 300,
+        "explanation": "هي تقطيع الأعضاء (الآذان والأنوف) وتشويه الجثث، كما فعلوا بحمزة رضي الله عنه [93، 98].",
+        "choices": [
+            { "choice_text": "الدفن الجماعي", "is_correct": false },
+            { "choice_text": "تشويه الجثث وتقطيع الأعضاء", "is_correct": true },
+            { "choice_text": "ترك الجثث في الشمس", "is_correct": false },
+            { "choice_text": "سلب الثياب فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أبو سفيان عن 'المثلة' التي وقعت لشهداء المسلمين؟",
+        "difficulty_score": 800,
+        "explanation": "قال: 'لم آمر بها ولم تسؤني'، أي أنه لم يأمر بها جنوده لكنه لم يحزن لوقوعها [14].",
+        "choices": [
+            { "choice_text": "اعتذر عنها بشدة", "is_correct": false },
+            { "choice_text": "قال 'لم آمر بها ولم تسؤني'", "is_correct": true },
+            { "choice_text": "أنكر وقوعها تماماً", "is_correct": false },
+            { "choice_text": "تباخر بأنه هو من أمر بها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استشهد ومُثل به، وكان من سادات الأنصار ومن أصحاب بيعة العقبة؟",
+        "difficulty_score": 700,
+        "explanation": "عبد الله بن عمرو بن حرام (والد جابر) [98، 99].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "عبد الله بن عمرو بن حرام", "is_correct": true },
+            { "choice_text": "أسعد بن زرارة", "is_correct": false },
+            { "choice_text": "البراء بن معرور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الفحص' الذي ورد في قول النبي 'لوددت أني غودرت مع أصحابي بفحص الجبل'؟",
+        "difficulty_score": 900,
+        "explanation": "الفحص هو سفح الجبل أو مكانه المنبسط [16].",
+        "choices": [
+            { "choice_text": "قمة الجبل", "is_correct": false },
+            { "choice_text": "سفح الجبل", "is_correct": true },
+            { "choice_text": "داخل الغار", "is_correct": false },
+            { "choice_text": "بئر تحت الجبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة قرآنية تعتبر المرجع الأساسي لتحليل أحداث غزوة أحد وتوجيه المسلمين بعدها؟",
+        "difficulty_score": 400,
+        "explanation": "سورة آل عمران تضمنت تفاصيل كثيرة وتحليلاً عميقاً لما جرى في أحد [17].",
+        "choices": [
+            { "choice_text": "سورة الأنفال", "is_correct": false },
+            { "choice_text": "سورة آل عمران", "is_correct": true },
+            { "choice_text": "سورة التوبة", "is_correct": false },
+            { "choice_text": "سورة الأحزاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه المصدر على 'زيد بن حارثة' في سياق قيادته للسرايا؟",
+        "difficulty_score": 700,
+        "explanation": "كان يلقب بـ 'حِب رسول الله صلى الله عليه وسلم' [18].",
+        "choices": [
+            { "choice_text": "سيف الله", "is_correct": false },
+            { "choice_text": "أمين الأمة", "is_correct": false },
+            { "choice_text": "حِب رسول الله", "is_correct": true },
+            { "choice_text": "أسد الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد فرسان المشركين في أحد؟",
+        "difficulty_score": 500,
+        "explanation": "كان مع المشركين مئتا فارس (200) بقيادة خالد بن الوليد [19].",
+        "choices": [
+            { "choice_text": "50 فارساً", "is_correct": false },
+            { "choice_text": "100 فارس", "is_correct": false },
+            { "choice_text": "200 فارس", "is_correct": true },
+            { "choice_text": "500 فارس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي قاله النبي صلى الله عليه وسلم للرماة ليؤكد على ضرورة الثبات؟",
+        "difficulty_score": 300,
+        "explanation": "قال لهم: 'إن رأيتمونا تخطفنا الطير فلا تبرحوا مكانكم' [3].",
+        "choices": [
+            { "choice_text": "إن انتصرنا فانزلوا", "is_correct": false },
+            { "choice_text": "إن رأيتمونا تخطفنا الطير فلا تبرحوا", "is_correct": true },
+            { "choice_text": "دافعوا عن أنفسكم فقط", "is_correct": false },
+            { "choice_text": "انزلوا لجمع الغنائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قيل عنه في المصدر 'أنه أتى النبي وهو أعرج فاستشهد ودخل الجنة'؟",
+        "difficulty_score": 800,
+        "explanation": "عمرو بن الجموح رضي الله عنه [16].",
+        "choices": [
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "عمرو بن الجموح", "is_correct": true },
+            { "choice_text": "جابر بن عبد الله", "is_correct": false },
+            { "choice_text": "ثابت بن قيس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحفرة التي سقط فيها النبي صلى الله عليه وسلم أثناء المعركة؟",
+        "difficulty_score": 600,
+        "explanation": "كانت إحدى الحفر التي حفرها المنافقون (أبو عامر الراهب) ليقع فيها المسلمون [20].",
+        "choices": [
+            { "choice_text": "بئر قديمة", "is_correct": false },
+            { "choice_text": "حفرة حفرها المنافقون", "is_correct": true },
+            { "choice_text": "خندق المعركة", "is_correct": false },
+            { "choice_text": "شق في الجبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل عبد الرحمن بن عوف عندما يتذكر مصعب بن عمير بعد سنوات من وفاته؟",
+        "difficulty_score": 700,
+        "explanation": "كان يبكي ويترك الطعام تعبيراً عن تواضعه وتذكره لزهد الصحابة الأوائل [96، 97].",
+        "choices": [
+            { "choice_text": "يصلي ركعتين", "is_correct": false },
+            { "choice_text": "يبكي ويترك الطعام", "is_correct": true },
+            { "choice_text": "يتصدق بماله", "is_correct": false },
+            { "choice_text": "يروي قصته للناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سنة للهجرة وقعت غزوة أحد؟",
+        "difficulty_score": 100,
+        "explanation": "وقعت في السنة الثالثة للهجرة [21].",
+        "choices": [
+            { "choice_text": "السنة الأولى", "is_correct": false },
+            { "choice_text": "السنة الثانية", "is_correct": false },
+            { "choice_text": "السنة الثالثة", "is_correct": true },
+            { "choice_text": "السنة الرابعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي قاله النبي صلى الله عليه وسلم في أواخر حياته عند زيارته لشهداء أحد؟",
+        "difficulty_score": 800,
+        "explanation": "صلى عليهم وخطب كالمودع للأحياء والأموات [22].",
+        "choices": [
+            { "choice_text": "وعد بفتح مكة", "is_correct": false },
+            { "choice_text": "خطب كالمودع للأحياء والأموات", "is_correct": true },
+            { "choice_text": "أمر بنقل جثامينهم", "is_correct": false },
+            { "choice_text": "بكى بصوت عالٍ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الذي أطلق على ابن عباس لسورة الحشر؟",
+        "difficulty_score": 900,
+        "explanation": "كان يطلق عليها 'سورة بني النضير' لأنها نزلت فيهم [23، 24].",
+        "choices": [
+            { "choice_text": "سورة القتال", "is_correct": false },
+            { "choice_text": "سورة النصر", "is_correct": false },
+            { "choice_text": "سورة بني النضير", "is_correct": true },
+            { "choice_text": "سورة الإجلاء", "is_correct": false }
+        ]
+    }
+]
+    }

@@ -26,7 +26,7 @@ class QuizService {
         $this->notificationManager = $notificationManager;
     }
 
-    private const QUESTIONS_PER_EXAM = 5;
+    private const QUESTIONS_PER_EXAM = 20;
 
     public function startQuiz($chapterId): array{
         $userId = auth()->id();

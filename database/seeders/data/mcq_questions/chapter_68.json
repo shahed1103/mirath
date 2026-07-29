@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 68,
+    "questions": [
+         {
+        "question_text": "في أي سنة هجرية وقعت عمرة القضاء؟",
+        "difficulty_score": 100,
+        "explanation": "وقعت عمرة القضاء في السنة السابعة للهجرة بناءً على صلح الحديبية الذي عُقد في السنة السادسة.",
+        "choices": [
+            { "choice_text": "السادسة", "is_correct": false },
+            { "choice_text": "السابعة", "is_correct": true },
+            { "choice_text": "الثامنة", "is_correct": false },
+            { "choice_text": "الخامسة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما السبب الرئيسي وراء تسمية عمرة القضاء بهذا الاسم؟",
+        "difficulty_score": 200,
+        "explanation": "سميت بالقضاء لأن النبي ﷺ قضاها بدلاً من العمرة التي صُد عنها في عام الحديبية، ولأنها تمت بناءً على 'مقاضاة' (اتفاق) مع المشركين.",
+        "choices": [
+            { "choice_text": "لأنها كانت برئاسة القاضي", "is_correct": false },
+            { "choice_text": "لأنها كانت بناءً على اتفاق ومقاضاة مع قريش", "is_correct": true },
+            { "choice_text": "لأن النبي ﷺ قضى فيها بالعدل", "is_correct": false },
+            { "choice_text": "لأنها كانت قصيرة المدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الرمل' الذي أمر به النبي ﷺ في الأشواط الثلاثة الأولى من الطواف؟",
+        "difficulty_score": 200,
+        "explanation": "الرمل هو المشي السريع بنشاط لإظهار القوة والجلد أمام المشركين الذين ادعوا وهن المسلمين.",
+        "choices": [
+            { "choice_text": "المشي ببطء وتؤدة", "is_correct": false },
+            { "choice_text": "المشي السريع بنشاط دون هرولة", "is_correct": true },
+            { "choice_text": "الجري السريع جداً", "is_correct": false },
+            { "choice_text": "المشي مع القفز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشاعر الذي كان يرتجز بين يدي النبي ﷺ أثناء دخول مكة في عمرة القضاء؟",
+        "difficulty_score": 300,
+        "explanation": "كان عبد الله بن رواحة رضي الله عنه يقول الشعر والارتجاز بين يدي النبي ﷺ عند دخول البيت.",
+        "choices": [
+            { "choice_text": "حسان بن ثابت", "is_correct": false },
+            { "choice_text": "كعب بن مالك", "is_correct": false },
+            { "choice_text": "عبد الله بن رواحة", "is_correct": true },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا رد النبي ﷺ على عمر بن الخطاب حين اعترض على قول الشعر في الحرم؟",
+        "difficulty_score": 400,
+        "explanation": "قال النبي ﷺ: 'خل عنه... فوالذي نفسي بيده لكلامه أشد عليهم من وقع النبل'، مؤكداً أهمية الجهاد باللسان.",
+        "choices": [
+            { "choice_text": "أمره بالتوقف فوراً", "is_correct": false },
+            { "choice_text": "قال إنه أشد على المشركين من نضح النبل", "is_correct": true },
+            { "choice_text": "قال إن الشعر محرم في مكة", "is_correct": false },
+            { "choice_text": "لم يرد عليه بشيء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي آخر زوجات النبي ﷺ التي تزوجها في منطقة 'سرف'؟",
+        "difficulty_score": 300,
+        "explanation": "هي ميمونة بنت الحارث رضي الله عنها، وتزوجها في سرف وتوفيت في نفس المنطقة.",
+        "choices": [
+            { "choice_text": "جويرية بنت الحارث", "is_correct": false },
+            { "choice_text": "ميمونة بنت الحارث", "is_correct": true },
+            { "choice_text": "صفية بنت حيي", "is_correct": false },
+            { "choice_text": "زينب بنت جحش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحديث الذي خطّأ فيه المحدثون ابن عباس في وصف حال النبي ﷺ عند زواجه بميمونة؟",
+        "difficulty_score": 600,
+        "explanation": "روى ابن عباس أن النبي ﷺ تزوجها وهو محرم، لكن العلماء خطأوه بناءً على رواية ميمونة نفسها وأبي رافع بأنه تزوجها وهو حلال بعد التحلل.",
+        "choices": [
+            { "choice_text": "أنه تزوجها في مكة", "is_correct": false },
+            { "choice_text": "أنه تزوجها وهو محرم", "is_correct": true },
+            { "choice_text": "أنه تزوجها في السنة السادسة", "is_correct": false },
+            { "choice_text": "أنه تزوجها قبل الهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الحكمة من عدم كسر النبي ﷺ للأصنام الـ 360 في عمرة القضاء؟",
+        "difficulty_score": 700,
+        "explanation": "كان ذلك مراعاةً لفقه الدعوة والمراحل، ولم يكن الوقت مناسباً أو مأذوناً فيه بهدمها حتى يأتي فتح مكة.",
+        "choices": [
+            { "choice_text": "لأنه لم يرها", "is_correct": false },
+            { "choice_text": "لأن المشركين منعوه بالقوة", "is_correct": false },
+            { "choice_text": "لأن لكل أجل كتاب وفقه الدعوة يقتضي التدرج", "is_correct": true },
+            { "choice_text": "لأنها كانت بعيدة عن الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سميت غزوة 'ذات الرقاع' بهذا الاسم حسب أشهر الأقوال؟",
+        "difficulty_score": 300,
+        "explanation": "بسبب لف الخرق والرقاع على أرجل الصحابة التي جُرحت من وعورة الطريق.",
+        "choices": [
+            { "choice_text": "نسبة إلى جبل اسمه الرقاع", "is_correct": false },
+            { "choice_text": "بسبب لفهُم الخرق على أرجلهم من الحفاء", "is_correct": true },
+            { "choice_text": "لأن ثيابهم كانت مرقعة", "is_correct": false },
+            { "choice_text": "لأنهم رقعوا خيامهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة الأعرابي الذي أراد قتل النبي ﷺ وهو نائم، ماذا فعل النبي ﷺ معه بعد أن سقط السيف من يد الأعرابي؟",
+        "difficulty_score": 400,
+        "explanation": "عفا النبي ﷺ عنه ولم يعاقبه، وهذا من كمال خلقه ﷺ.",
+        "choices": [
+            { "choice_text": "قتله فوراً", "is_correct": false },
+            { "choice_text": "أمر الصحابة بأسره", "is_correct": false },
+            { "choice_text": "عفا عنه ولم يعاقبه", "is_correct": true },
+            { "choice_text": "سجنه في المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصلاة التي اشتهر تشريعها في غزوة ذات الرقاع؟",
+        "difficulty_score": 500,
+        "explanation": "اشتهرت غزوة ذات الرقاع بتشريع صلاة الخوف فيها.",
+        "choices": [
+            { "choice_text": "صلاة الاستسقاء", "is_correct": false },
+            { "choice_text": "صلاة الخوف", "is_correct": true },
+            { "choice_text": "صلاة الكسوف", "is_correct": false },
+            { "choice_text": "صلاة الجنازة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة بيع الجمل، لماذا رفض جابر بن عبد الله تسليم الجمل للنبي ﷺ فوراً؟",
+        "difficulty_score": 400,
+        "explanation": "لأنه اشترط ركوبه (فقار ظهره) حتى يصل إلى المدينة.",
+        "choices": [
+            { "choice_text": "لأنه لم يستلم الثمن", "is_correct": false },
+            { "choice_text": "لأنه اشترط ركوبه حتى المدينة", "is_correct": true },
+            { "choice_text": "لأن الجمل كان مريضاً", "is_correct": false },
+            { "choice_text": "لأنه ندم على البيع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ مع جابر بن عبد الله في اليوم التالي لوصولهم المدينة بخصوص الجمل؟",
+        "difficulty_score": 500,
+        "explanation": "أعطاه ثمن الجمل (الأوقية) وأعاد إليه الجمل أيضاً كهدية ولطف منه ﷺ.",
+        "choices": [
+            { "choice_text": "أخذ الجمل ولم يعطه الثمن", "is_correct": false },
+            { "choice_text": "أعطاه الثمن وأخذ الجمل", "is_correct": false },
+            { "choice_text": "رد عليه الجمل وأعطاه الثمن أيضاً", "is_correct": true },
+            { "choice_text": "طلب منه جملًا آخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد جيش المسلمين في سرية مؤتة؟",
+        "difficulty_score": 200,
+        "explanation": "كان جيش سرية مؤتة يتكون من ثلاثة آلاف مقاتل، وهو عدد ضخم بالنسبة للسرايا المعتادة.",
+        "choices": [
+            { "choice_text": "ألف مقاتل", "is_correct": false },
+            { "choice_text": "ألفان", "is_correct": false },
+            { "choice_text": "ثلاثة آلاف", "is_correct": true },
+            { "choice_text": "عشرة آلاف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي لقبه النبي ﷺ بـ 'حب رسول الله' وكان أول قائد في مؤتة؟",
+        "difficulty_score": 300,
+        "explanation": "هو زيد بن حارثة رضي الله عنه، مولى النبي ﷺ وأول من أسلم من الموالي.",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "أسامة بن زيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عمر جعفر بن أبي طالب تقريباً حين استشهد في مؤتة؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر ابن كثير أن جعفر رضي الله عنه قتل وهو ابن ثلاث وثلاثين سنة.",
+        "choices": [
+            { "choice_text": "25 سنة", "is_correct": false },
+            { "choice_text": "33 سنة", "is_correct": true },
+            { "choice_text": "40 سنة", "is_correct": false },
+            { "choice_text": "50 سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي ناله جعفر بن أبي طالب بعد استشهاده؟",
+        "difficulty_score": 300,
+        "explanation": "لقب بـ 'ذي الجناحين' لأن الله أبدله بجناحين يطير بهما في الجنة بدل يديه اللتين قُطِعتا.",
+        "choices": [
+            { "choice_text": "سيف الله", "is_correct": false },
+            { "choice_text": "ذو الجناحين", "is_correct": true },
+            { "choice_text": "أسد الله", "is_correct": false },
+            { "choice_text": "أمين الأمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد السيوف التي تكسرت في يد خالد بن الوليد في يوم مؤتة؟",
+        "difficulty_score": 200,
+        "explanation": "قال خالد بن الوليد رضي الله عنه: 'لقد دق في يدي يوم مؤتة تسعة أسياف'.",
+        "choices": [
+            { "choice_text": "ثلاثة", "is_correct": false },
+            { "choice_text": "سبعة", "is_correct": false },
+            { "choice_text": "تسعة", "is_correct": true },
+            { "choice_text": "عشرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو نوع السيف الذي صمد في يد خالد بن الوليد ولم ينكسر؟",
+        "difficulty_score": 500,
+        "explanation": "قال خالد: 'فما بقي في يدي إلا صفيحة يمانية'.",
+        "choices": [
+            { "choice_text": "سيف رومي", "is_correct": false },
+            { "choice_text": "صفيحة يمانية", "is_correct": true },
+            { "choice_text": "سيف فارسي", "is_correct": false },
+            { "choice_text": "سيف مدني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما القول الذي قاله عبد الله بن رواحة ليحمس الصحابة على القتال في مؤتة؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'يا أيها الناس إن الذي تطلبون لهو الذي تكرهون' (يقصد الشهادة).",
+        "choices": [
+            { "choice_text": "إن النصر قريب", "is_correct": false },
+            { "choice_text": "إن الذي تطلبون لهو الذي تكرهون", "is_correct": true },
+            { "choice_text": "الموت للعلوج", "is_correct": false },
+            { "choice_text": "لا تخافوا من الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف النبي ﷺ استلام خالد بن الوليد للراية في مؤتة وهو على المنبر؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'حتى أخذها سيف من سيوف الله حتى فتح الله عليه'.",
+        "choices": [
+            { "choice_text": "أخذها فارس المسلمين", "is_correct": false },
+            { "choice_text": "أخذها سيف من سيوف الله", "is_correct": true },
+            { "choice_text": "أخذها أشجع الناس", "is_correct": false },
+            { "choice_text": "أخذها بغير إمرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أسلم مع خالد بن الوليد وعمرو بن العاص؟",
+        "difficulty_score": 500,
+        "explanation": "أسلم خالد بن الوليد وعمرو بن العاص وعثمان بن أبي طلحة رضي الله عنهم مع بعضهم البعض.",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "عثمان بن أبي طلحة", "is_correct": true },
+            { "choice_text": "وحشي بن حرب", "is_correct": false },
+            { "choice_text": "سهيل بن عمرو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'السلب للقاتل' في أحكام الحروب؟",
+        "difficulty_score": 400,
+        "explanation": "السلب هو ما يملكه المقاتل من سلاح وأدوات ودواب، وقضى النبي ﷺ بأنه من حق من قتله.",
+        "choices": [
+            { "choice_text": "أن الغنائم توزع بالتساوي", "is_correct": false },
+            { "choice_text": "أن ما على المقتول من سلاح ومتاع هو لقاتله", "is_correct": true },
+            { "choice_text": "أن القاتل يُسلب حقه", "is_correct": false },
+            { "choice_text": "أن الأرض ملك للفاتحين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي ذكرتها عائشة رضي الله عنها عن قيادة زيد بن حارثة للسرايا؟",
+        "difficulty_score": 500,
+        "explanation": "قالت عائشة: 'ما خرج زيد في سرايا إلا أمره النبي ﷺ على جيشها'.",
+        "choices": [
+            { "choice_text": "أنه كان أصغر القادة", "is_correct": false },
+            { "choice_text": "أنه لم ينهزم أبداً", "is_correct": false },
+            { "choice_text": "أنه ما خرج في سرية إلا كان أميرها", "is_correct": true },
+            { "choice_text": "أنه كان يحب الشعر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث النبي ﷺ عن شهداء مؤتة، ماذا قال عن حالهم في الجنة؟",
+        "difficulty_score": 600,
+        "explanation": "قال النبي ﷺ: 'ما يسرني أنهم عندنا'، إشارة إلى عظيم ما وجدوه من كرامة عند الله.",
+        "choices": [
+            { "choice_text": "أنهم يتمنون العودة", "is_correct": false },
+            { "choice_text": "ما يسرهم أنهم عندنا (أي يفضلون الجنة)", "is_correct": true },
+            { "choice_text": "أنهم في أعلى عليين فقط", "is_correct": false },
+            { "choice_text": "أنهم يحزنون علينا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا طلب النبي ﷺ من الصحابة أن يفعلوا لآل جعفر بعد موته؟",
+        "difficulty_score": 300,
+        "explanation": "قال ﷺ: 'اصنعوا لآل جعفر طعاماً، فإنه قد أتاهم أمر شغلهم'.",
+        "choices": [
+            { "choice_text": "أن يجمعوا لهم المال", "is_correct": false },
+            { "choice_text": "أن يصنعوا لهم طعاماً", "is_correct": true },
+            { "choice_text": "أن يبكوا معهم", "is_correct": false },
+            { "choice_text": "أن يتركوهم وحدهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي استشهد بها المصدر للدلالة على فضل أصحاب بيعة الشجرة؟",
+        "difficulty_score": 400,
+        "explanation": "قوله تعالى: {لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ}.",
+        "choices": [
+            { "choice_text": "{والسابقون الأولون}", "is_correct": false },
+            { "choice_text": "{لقد رضي الله عن المؤمنين...}", "is_correct": true },
+            { "choice_text": "{محمد رسول الله والذين معه}", "is_correct": false },
+            { "choice_text": "{إن الذين يبايعونك إنما يبايعون الله}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو مذهب 'الأخسرين صفقة'؟",
+        "difficulty_score": 800,
+        "explanation": "وصف المصدر من يقوم مذهبهم على سب الصحابة والطعن فيهم بأنهم الأخسرون صفقة يوم القيامة.",
+        "choices": [
+            { "choice_text": "الذين تركوا التجارة", "is_correct": false },
+            { "choice_text": "الذين يسبون أصحاب رسول الله ﷺ", "is_correct": true },
+            { "choice_text": "الذين فروا من الزحف", "is_correct": false },
+            { "choice_text": "الذين لم يحضروا العمرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت 'المحجن' التي استخدمها النبي ﷺ مع جمل جابر؟",
+        "difficulty_score": 700,
+        "explanation": "المحجن هو عصا منحنية الرأس، استخدمها النبي ﷺ لنخز الجمل فصار قوياً سرياً.",
+        "choices": [
+            { "choice_text": "نوع من الطعام", "is_correct": false },
+            { "choice_text": "عصا منحنية الرأس", "is_correct": true },
+            { "choice_text": "لجام الجمل", "is_correct": false },
+            { "choice_text": "اسم لنوع من السيوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أهم فائدة تربوية ذكرها المصدر في ختام الحديث عن الصحابة؟",
+        "difficulty_score": 900,
+        "explanation": "بيان أن جيل الصحابة هو الجيل الأساسي الذي أيده الله به رسوله، والطعن فيهم هو طعن في خيرية الأمة.",
+        "choices": [
+            { "choice_text": "أنهم كانوا يحبون القتال", "is_correct": false },
+            { "choice_text": "أنهم الجيل الأساسي الذي رباه الرسول ولا يمكن وصفهم بالإفساد", "is_correct": true },
+            { "choice_text": "أنهم كانوا يختلفون كثيراً", "is_correct": false },
+            { "choice_text": "أنهم كانوا يجمعون الغنائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الذي جاء للمسلمين مدداً من اليمن في مؤتة وصنع 'ترساً' من جلد جمل؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر قصة رجل مددي من اليمن طلب جلد جمل وصنع منه ترساً يابساً لعدم امتلاكه ترسًا.",
+        "choices": [
+            { "choice_text": "عوف بن مالك", "is_correct": false },
+            { "choice_text": "رجل مددي من اليمن", "is_correct": true },
+            { "choice_text": "بشر بن البراء", "is_correct": false },
+            { "choice_text": "معاذ بن جبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استكثر خالد بن الوليد 'السلب' على الجندي اليميني؟",
+        "difficulty_score": 600,
+        "explanation": "لأن السلب كان ثميناً جداً (ذهب ودنيا) فاستكثره خالد عليه، ولكن النبي ﷺ أمره برده.",
+        "choices": [
+            { "choice_text": "لأنه لم يقاتل جيداً", "is_correct": false },
+            { "choice_text": "لأنه كان عبارة عن ذهب ومتاع كثير جداً", "is_correct": true },
+            { "choice_text": "لأن الجندي لم يكن مسلماً", "is_correct": false },
+            { "choice_text": "لأن خالد أراده لنفسه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'نقبت أقدامنا' في حديث أبي موسى عن ذات الرقاع؟",
+        "difficulty_score": 400,
+        "explanation": "تعني تخرقت جلود باطن الأقدام من كثرة المشي الحافي أو في طرق وعرة.",
+        "choices": [
+            { "choice_text": "اتسخت", "is_correct": false },
+            { "choice_text": "تخرقت جلودها وظهر فيها اللحم", "is_correct": true },
+            { "choice_text": "كسرت أقدامنا", "is_correct": false },
+            { "choice_text": "تعبت فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كافأ النبي ﷺ عبد الله بن جعفر بن أبي طالب الصغير؟",
+        "difficulty_score": 500,
+        "explanation": "أردفه خلفه على الدابة وكان يسر إليه ببعض الأسرار لمكانته عنده.",
+        "choices": [
+            { "choice_text": "أعطاه ذهباً", "is_correct": false },
+            { "choice_text": "أردفه خلفه على الدابة", "is_correct": true },
+            { "choice_text": "جعله قائداً للجيش", "is_correct": false },
+            { "choice_text": "أعطاه سيف والده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو 'أشد أنواع المدافعة' تأثيراً على المشركين في مكة؟",
+        "difficulty_score": 600,
+        "explanation": "اعتبر النبي ﷺ أن كلمات عبد الله بن رواحة الشعرية أشد عليهم من نضح النبل.",
+        "choices": [
+            { "choice_text": "القتال بالسيوف", "is_correct": false },
+            { "choice_text": "الكلمة والشعر (الجهاد باللسان)", "is_correct": true },
+            { "choice_text": "الحصار الاقتصادي", "is_correct": false },
+            { "choice_text": "إغلاق الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تمنى أبو موسى الأشعري بعد أن حدّث بحديث ذات الرقاع؟",
+        "difficulty_score": 800,
+        "explanation": "كره أنه ذكره؛ لأنه خشي أن يكون فيه إفشاء لعمله الصالح وتضييع للأجر بصورة 'الرياء'.",
+        "choices": [
+            { "choice_text": "تمنى لو حضرها ألف مرة", "is_correct": false },
+            { "choice_text": "كره ذكره لئلا يكون قد أفشى عمله", "is_correct": true },
+            { "choice_text": "تمنى لو قتل فيها", "is_correct": false },
+            { "choice_text": "تمنى لو نسي تفاصيلها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الذي جاء للنبي ﷺ وهو نائم في وادٍ كثير العضاه؟",
+        "difficulty_score": 300,
+        "explanation": "جاءه أعرابي واخترط سيف النبي ﷺ وهو نائم.",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "أعرابي", "is_correct": true },
+            { "choice_text": "ملك الروم", "is_correct": false },
+            { "choice_text": "رجل من قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي منطقة كانت حدود الاتفاق فيها للخروج من مكة بعد 3 أيام؟",
+        "difficulty_score": 400,
+        "explanation": "كان الاتفاق البقاء في مكة 3 أيام فقط، وفي اليوم الرابع طُلب منهم الخروج.",
+        "choices": [
+            { "choice_text": "يومان", "is_correct": false },
+            { "choice_text": "ثلاثة أيام", "is_correct": true },
+            { "choice_text": "أسبوع", "is_correct": false },
+            { "choice_text": "يوم واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القمة الخلقية التي ظهرت عند جابر بن عبد الله تجاه أخواته؟",
+        "difficulty_score": 500,
+        "explanation": "تزوج امرأة ثيباً (كبيرة) لتقوم على أخواته السبع وتمشطهن وتؤدبهن آثراً مصلحة أهله على رغبته الشخصية.",
+        "choices": [
+            { "choice_text": "أنه اشترى لهن هدايا", "is_correct": false },
+            { "choice_text": "تزوج امرأة ثيباً لتقوم عليهن", "is_correct": true },
+            { "choice_text": "تركهن وسافر للجهاد", "is_correct": false },
+            { "choice_text": "طلب من النبي أن يعولهن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن إغفال الناس للتفكر في سير الصحابة؟",
+        "difficulty_score": 700,
+        "explanation": "أشار المصدر إلى أن الذين لا يفقهون حديثاً ولا يفكرون يقعون في ظلم الصحابة والطعن فيهم.",
+        "choices": [
+            { "choice_text": "إنهم معذورون", "is_correct": false },
+            { "choice_text": "إنهم لا يكادون يفقهون حديثاً ولا يعقلون", "is_correct": true },
+            { "choice_text": "إنهم يحتاجون وقتاً", "is_correct": false },
+            { "choice_text": "إنهم طيبون لكن جهلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي جاء للنبي ﷺ في اليوم الرابع من عمرة القضاء ليطلب منه الخروج من مكة؟",
+        "difficulty_score": 400,
+        "explanation": "بعد انتهاء الأيام الثلاثة المتفق عليها، جاء حويطب بن عبد العزى وطلب من النبي ﷺ الوفاء بالعهد والخروج من مكة.",
+        "choices": [
+            { "choice_text": "أبو سفيان بن حرب", "is_correct": false },
+            { "choice_text": "حويطب بن عبد العزى", "is_correct": true },
+            { "choice_text": "سهيل بن عمرو", "is_correct": false },
+            { "choice_text": "عمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدليل الذي استند إليه المحدثون لتصويب أن النبي ﷺ تزوج ميمونة وهو 'حلال' وليس 'محرماً'؟",
+        "difficulty_score": 700,
+        "explanation": "استندوا لشهادة ميمونة نفسها (صاحبة القصة) وأبو رافع الذي كان السفير بينهما، وكلاهما أكد أنه كان حلالاً.",
+        "choices": [
+            { "choice_text": "رواية ابن عمر", "is_correct": false },
+            { "choice_text": "رواية ميمونة نفسها وأبو رافع", "is_correct": true },
+            { "choice_text": "رواية عائشة رضي الله عنها", "is_correct": false },
+            { "choice_text": "رواية أهل مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في غزوة ذات الرقاع، كم كان عدد الصحابة الذين يتعاقبون على البعير الواحد وفقاً لرواية أبي موسى؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر أبو موسى الأشعري أنهم كانوا ستة نفر يتعاقبون على بعير واحد، مما يوضح شدة المشقة.",
+        "choices": [
+            { "choice_text": "ثلاثة نفر", "is_correct": false },
+            { "choice_text": "أربعة نفر", "is_correct": false },
+            { "choice_text": "ستة نفر", "is_correct": true },
+            { "choice_text": "عشرة نفر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كره أبو موسى الأشعري أنه حدّث بحديث 'ذات الرقاع' وما حصل لأقدامهم؟",
+        "difficulty_score": 800,
+        "explanation": "خشي أن يكون في ذكره لمشقتهم وصبرهم نوع من إفشاء العمل الصالح (الرياء) وتضييع الأجر.",
+        "choices": [
+            { "choice_text": "لأنه نسي بعض التفاصيل", "is_correct": false },
+            { "choice_text": "لأنه كره تذكر الألم", "is_correct": false },
+            { "choice_text": "خوفاً من إفشاء عمله وتضييع أجره", "is_correct": true },
+            { "choice_text": "لأن النبي ﷺ نهاه عن ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد النبي ﷺ عندما اخترط الأعرابي سيفه وسأله: 'من يمنعك مني؟'؟",
+        "difficulty_score": 200,
+        "explanation": "أجابه النبي ﷺ بكل ثبات ويقين: 'الله'.",
+        "choices": [
+            { "choice_text": "صحابي من أصحابي", "is_correct": false },
+            { "choice_text": "قوتي وشجاعتي", "is_correct": false },
+            { "choice_text": "الله", "is_correct": true },
+            { "choice_text": "لا أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب المرجح لتاريخ غزوة ذات الرقاع بأنها كانت 'بعد' غزوة الخندق؟",
+        "difficulty_score": 600,
+        "explanation": "لأن صلاة الخوف شُرعت فيها، بينما في الخندق فاتته ﷺ الصلوات ولم يصلها صلاة خوف، فدل على أنها شُرعت لاحقاً.",
+        "choices": [
+            { "choice_text": "لأن جابراً كان حاضراً فيها", "is_correct": false },
+            { "choice_text": "بسبب وقوع صلاة الخوف فيها", "is_correct": true },
+            { "choice_text": "لأنها كانت في الشتاء", "is_correct": false },
+            { "choice_text": "بسبب مشاركة خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة جابر، ما هو المبلغ الذي باعه به جملُه للنبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "باعه بـ 'أوقية'، وهي تعادل أربعين درهماً.",
+        "choices": [
+            { "choice_text": "درهم واحد", "is_correct": false },
+            { "choice_text": "عشرة دراهم", "is_correct": false },
+            { "choice_text": "أوقية (40 درهماً)", "is_correct": true },
+            { "choice_text": "دينار ذهبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفائدة الفقهية المستنبطة من اشتراط جابر ركوب الجمل حتى المدينة؟",
+        "difficulty_score": 700,
+        "explanation": "جواز اشتراط 'شروط إضافية في العقد' يتفق عليها الطرفان بخلاف شروط البيع الأساسية.",
+        "choices": [
+            { "choice_text": "عدم جواز البيع بالدين", "is_correct": false },
+            { "choice_text": "جواز الشروط في العقد للمصلحة", "is_correct": true },
+            { "choice_text": "بطلان البيع إذا استمر البائع بالانتفاع", "is_correct": false },
+            { "choice_text": "وجوب تسليم البضاعة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تزوج جابر بن عبد الله 'ثيباً' بدلاً من 'بكراً'؟",
+        "difficulty_score": 300,
+        "explanation": "لتقوم على أخواته السبع وترعاهن وتؤدبهن بعد استشهاد والده في أحد.",
+        "choices": [
+            { "choice_text": "لأنها كانت غنية", "is_correct": false },
+            { "choice_text": "لتقوم على رعاية أخواته اليتيمات", "is_correct": true },
+            { "choice_text": "لأن النبي ﷺ أمره بذلك", "is_correct": false },
+            { "choice_text": "لأنها كانت أقرب إليه في السن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي كان يطلقه النبي ﷺ على زيد بن حارثة؟",
+        "difficulty_score": 200,
+        "explanation": "كان يُلقب بـ 'حِبّ رسول الله ﷺ' لمكانته العالية عنده.",
+        "choices": [
+            { "choice_text": "سيف الله", "is_correct": false },
+            { "choice_text": "حِبّ رسول الله", "is_correct": true },
+            { "choice_text": "أمين الأمة", "is_correct": false },
+            { "choice_text": "فارس الإسلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف قُتل القائد الأول لجيش مؤتة زيد بن حارثة؟",
+        "difficulty_score": 500,
+        "explanation": "قُتل رضي الله عنه طعناً بالرماح بعد أن توغل في صفوف العدو.",
+        "choices": [
+            { "choice_text": "بضربة سيف", "is_correct": false },
+            { "choice_text": "برمية سهم", "is_correct": false },
+            { "choice_text": "بالرماح (شجراً بالرماح)", "is_correct": true },
+            { "choice_text": "مات عطشاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الإصابات في جسم جعفر بن أبي طالب كما رآه ابن عمر؟",
+        "difficulty_score": 600,
+        "explanation": "وجد فيه بضعاً وتسعين ضربة ما بين طعنة برمح ورمية بسهم، وكلها في مقدمه.",
+        "choices": [
+            { "choice_text": "خمسون إصابة", "is_correct": false },
+            { "choice_text": "بضع وتسعون إصابة", "is_correct": true },
+            { "choice_text": "عشر إصابات", "is_correct": false },
+            { "choice_text": "مائتا إصابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي 'البدري' الذي تسلم الراية مؤقتاً بعد استشهاد ابن رواحة وسلّمها لخالد؟",
+        "difficulty_score": 700,
+        "explanation": "هو ثابت بن أقرم، حيث طلب من المسلمين الاصطلاح على قائد ثم سلمها لخالد.",
+        "choices": [
+            { "choice_text": "ثابت بن أقرم", "is_correct": true },
+            { "choice_text": "أبو قتادة", "is_correct": false },
+            { "choice_text": "معاذ بن جبل", "is_correct": false },
+            { "choice_text": "البراء بن مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما القول الذي قاله خالد بن الوليد لثابت بن أقرم عندما أراد تسليمه الراية؟",
+        "difficulty_score": 600,
+        "explanation": "قال له: 'أنت أحق بها مني، أنت أسنّ وشهدت بدراً'، تأدباً مع السابقين.",
+        "choices": [
+            { "choice_text": "أنا لها", "is_correct": false },
+            { "choice_text": "أنت أحق بها مني (لأنك بدري)", "is_correct": true },
+            { "choice_text": "النبي أمرني بذلك", "is_correct": false },
+            { "choice_text": "لا أستطيع حملها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التفسير الذي ذكره ابن إسحاق لقول النبي ﷺ عن خالد 'حتى فتح الله عليه'؟",
+        "difficulty_score": 800,
+        "explanation": "فسرها بأن الفتح هو النجاح في 'تخليص المسلمين' والانسحاب بهم بأمان دون إبادة.",
+        "choices": [
+            { "choice_text": "دخول روما", "is_correct": false },
+            { "choice_text": "النجاح في إنقاذ الجيش وتخليصه", "is_correct": true },
+            { "choice_text": "قتل ملك الروم", "is_correct": false },
+            { "choice_text": "أسر جيش الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استعان الرجل 'المددي' اليمني ليصنع ترساً يحميه في المعركة؟",
+        "difficulty_score": 600,
+        "explanation": "استخدم جلد جمل نحره وصنع منه 'ترساً يابساً' لعدم امتلاكه ترسًا معدنيًا.",
+        "choices": [
+            { "choice_text": "قطعة خشب", "is_correct": false },
+            { "choice_text": "جلد جمل", "is_correct": true },
+            { "choice_text": "صفيحة حديد", "is_correct": false },
+            { "choice_text": "رداءه الشخصي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'السَلب' الذي كان سبباً في الخلاف بين خالد بن الوليد وعوف بن مالك؟",
+        "difficulty_score": 500,
+        "explanation": "كان سلب قائد رومي قتله المددي اليمني، وكان مليئاً بالذهب والمتاع الثمين.",
+        "choices": [
+            { "choice_text": "طعام الجيش", "is_correct": false },
+            { "choice_text": "متاع قائد رومي (ذهب ودنيا)", "is_correct": true },
+            { "choice_text": "خيمة خالد", "is_correct": false },
+            { "choice_text": "بعير جابر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا غضب النبي ﷺ من عوف بن مالك عندما استمر في استفزاز خالد بعد رد السلب؟",
+        "difficulty_score": 800,
+        "explanation": "قال النبي ﷺ: 'هل أنتم تاركو لي أمرائي؟'، حمايةً لهيبة القادة ومنعاً لكسر كرامتهم أمام الجند.",
+        "choices": [
+            { "choice_text": "لأنه أخذ الذهب", "is_correct": false },
+            { "choice_text": "حفاظاً على مكانة وهيبة القادة (الأمراء)", "is_correct": true },
+            { "choice_text": "لأنه لم يقاتل جيداً", "is_correct": false },
+            { "choice_text": "لأنه كذب على النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن مصير شهداء مؤتة وهو يخبر الصحابة بموتهم؟",
+        "difficulty_score": 400,
+        "explanation": "قال وعيناه تذرفان: 'ما يسرهم أنهم عندنا'، تعبيراً عن سعادتهم بمقامهم في الجنة.",
+        "choices": [
+            { "choice_text": "أنهم يحزنون لفراقنا", "is_correct": false },
+            { "choice_text": "ما يسرهم أنهم عندنا (لما وجدوا من كرامة)", "is_correct": true },
+            { "choice_text": "أنهم سيعودون للحياة", "is_correct": false },
+            { "choice_text": "أنهم خسروا المعركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الطفل الصغير الذي أردفه النبي ﷺ خلفه على الدابة لاستقبال جيش مؤتة؟",
+        "difficulty_score": 300,
+        "explanation": "هو عبد الله بن جعفر بن أبي طالب رضي الله عنه.",
+        "choices": [
+            { "choice_text": "الحسن بن علي", "is_correct": false },
+            { "choice_text": "عبد الله بن جعفر", "is_correct": true },
+            { "choice_text": "أسامة بن زيد", "is_correct": false },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الوصية النبوية التي أصبحت سنة متبعة عند وقوع المصائب في العائلات؟",
+        "difficulty_score": 200,
+        "explanation": "قوله ﷺ: 'اصنعوا لآل جعفر طعاماً'، لتخفيف العبء عن أهل الميت.",
+        "choices": [
+            { "choice_text": "جمع التبرعات", "is_correct": false },
+            { "choice_text": "إقامة الولائم الكبيرة", "is_correct": false },
+            { "choice_text": "صنع الطعام لأهل الميت", "is_correct": true },
+            { "choice_text": "تركهم بلا طعام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو مذهب 'الذين لا يفقهون حديثاً'؟",
+        "difficulty_score": 900,
+        "explanation": "هم الذين يسبون الصحابة ويطعنون فيهم ولا يتدبرون تضحياتهم ولا فضلهم القرآني.",
+        "choices": [
+            { "choice_text": "الذين تركوا الصلاة", "is_correct": false },
+            { "choice_text": "الذين يسبون الصحابة ويطعنون في عدالتهم", "is_correct": true },
+            { "choice_text": "الذين لم يخرجوا للجهاد", "is_correct": false },
+            { "choice_text": "الذين يجادلون في الميراث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحجة التي استخدمها خالد بن الوليد لعدم إعطاء 'السلب' كاملاً في البداية؟",
+        "difficulty_score": 600,
+        "explanation": "قال للنبي ﷺ: 'يا رسول الله استكثرته عليه'، أي رأى أن قيمته ضخمة جداً على جندي واحد.",
+        "choices": [
+            { "choice_text": "أنه ليس من حقه", "is_correct": false },
+            { "choice_text": "استكثر قيمته العالية (لأنه ذهب كثير)", "is_correct": true },
+            { "choice_text": "لأن الجندي خالف الأوامر", "is_correct": false },
+            { "choice_text": "لأن خالد أراد توزيعه على الجميع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة انكسار 9 أسياف في يد خالد بن الوليد؟",
+        "difficulty_score": 400,
+        "explanation": "تدل على 'شراسة المعركة' وقوة الالتحام البدني المباشر وعظمة الصمود.",
+        "choices": [
+            { "choice_text": "رداءة صناعة السيوف", "is_correct": false },
+            { "choice_text": "شراسة المعركة وقوة الالتحام", "is_correct": true },
+            { "choice_text": "ضعف خالد بن الوليد", "is_correct": false },
+            { "choice_text": "كثرة عدد جيش المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة استشهد في مؤتة وهو في سن الشباب (33 سنة)؟",
+        "difficulty_score": 400,
+        "explanation": "جعفر بن أبي طالب رضي الله عنه استشهد وهو ابن ثلاث وثلاثين سنة.",
+        "choices": [
+            { "choice_text": "زيد بن حارثة", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المصدر الأساسي الذي نصح به الشيخ للرجوع إليه لقراءة أشعار سرية مؤتة؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر أن 'سيرة ابن هشام' هي المصدر الأساسي والمليء بالأشعار التي قيلت في تلك الفترة.",
+        "choices": [
+            { "choice_text": "صحيح البخاري", "is_correct": false },
+            { "choice_text": "سيرة ابن هشام", "is_correct": true },
+            { "choice_text": "تفسير الطبري", "is_correct": false },
+            { "choice_text": "كتاب الأم للشافعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي وصفت 'عفو النبي ﷺ المتكرر' في المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "وصف المصدر عفو النبي ﷺ عن الأعرابي واليهودية بأنه 'أمر عجيب ومن كمال أخلاقه'.",
+        "choices": [
+            { "choice_text": "كان عفواً لضعف", "is_correct": false },
+            { "choice_text": "كمال أخلاقه وعفوه عند المقدرة", "is_correct": true },
+            { "choice_text": "كان عفواً مشروطاً بالمال", "is_correct": false },
+            { "choice_text": "كان يعفو عن المسلمين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر قلة عدد قتلى المسلمين في مؤتة رغم كثرة العدو؟",
+        "difficulty_score": 700,
+        "explanation": "بسبب الشجاعة المنقطعة النظير (مثل الحوت في كومة سمك) وعبقرية خطة الانسحاب.",
+        "choices": [
+            { "choice_text": "لأن الروم لم يقاتلوا", "is_correct": false },
+            { "choice_text": "بسبب الشجاعة المذهلة وعبقرية خالد في الانسحاب", "is_correct": true },
+            { "choice_text": "لأن المعركة كانت في الليل", "is_correct": false },
+            { "choice_text": "لأن المسلمين كانوا يلبسون دروعاً رومية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي قرأها النبي ﷺ عند كسر الأصنام في الفتح؟",
+        "difficulty_score": 200,
+        "explanation": "قرأ قوله تعالى: {جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا}.",
+        "choices": [
+            { "choice_text": "{إنا فتحنا لك فتحاً مبيناً}", "is_correct": false },
+            { "choice_text": "{جاء الحق وزهق الباطل...}", "is_correct": true },
+            { "choice_text": "{اليوم أكملت لكم دينكم}", "is_correct": false },
+            { "choice_text": "{إذا جاء نصر الله والفتح}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يكسر النبي ﷺ الأصنام في عمرة القضاء واكتفى بالطواف؟",
+        "difficulty_score": 800,
+        "explanation": "لأن 'لكل مقام مقال' و 'لكل أجل كتاب'، فالمرحلة لم تكن مناسبة وتتطلب الوفاء بالعهد.",
+        "choices": [
+            { "choice_text": "لأنه لم يستطع الوصول إليها", "is_correct": false },
+            { "choice_text": "مراعاة لفقه المراحل والوفاء بالعهود", "is_correct": true },
+            { "choice_text": "لأنها كانت أصناماً صغيرة", "is_correct": false },
+            { "choice_text": "لأن قريشاً غطتها بالثياب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أقسم 'لتعطينيّه أو لأعرفنك ذلك عند رسول الله' بخصوص السلب؟",
+        "difficulty_score": 700,
+        "explanation": "هو عوف بن مالك رضي الله عنه، دفاعاً عن حق الجندي اليمني.",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عوف بن مالك", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "أبو قتادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف الذي أطلقه المصدر على 'جيل الصحابة الأول'؟",
+        "difficulty_score": 600,
+        "explanation": "وصفهم بأنهم 'الجيل الأساسي الذي رباه الرسول ﷺ وأيده الله بهم'.",
+        "choices": [
+            { "choice_text": "جيل اختلف كثيراً", "is_correct": false },
+            { "choice_text": "الجيل الأساسي المربي والمؤيد من الله", "is_correct": true },
+            { "choice_text": "جيل لم يفهم مقاصد الدين", "is_correct": false },
+            { "choice_text": "جيل كان يبحث عن الدنيا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من حوار النبي ﷺ مع خالد حول 'ترك الأمراء'؟",
+        "difficulty_score": 800,
+        "explanation": "نستنتج التوازن النبوي بين 'إعطاء الحقوق' و 'حماية هيبة القيادة'.",
+        "choices": [
+            { "choice_text": "أن القائد دائماً على حق", "is_correct": false },
+            { "choice_text": "التوازن بين الحقوق الشخصية وهيبة المؤسسة العسكرية", "is_correct": true },
+            { "choice_text": "أن السلب ليس حقاً للقاتل", "is_correct": false },
+            { "choice_text": "أن عوف بن مالك كان مخطئاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء القادة قُتل أولاً في معركة مؤتة؟",
+        "difficulty_score": 100,
+        "explanation": "زيد بن حارثة رضي الله عنه هو القائد الأول الذي عينه النبي ﷺ وقد استشهد أولاً.",
+        "choices": [
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "عبد الله بن رواحة", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة العسكرية التي جعلت خالد بن الوليد ينسحب دون خسائر؟",
+        "difficulty_score": 700,
+        "explanation": "استخدام العامل النفسي (تغيير الوجوه) لإيهام الروم بوصول مدد جديد.",
+        "choices": [
+            { "choice_text": "الهروب ليلاً", "is_correct": false },
+            { "choice_text": "استخدام الفيلة", "is_correct": false },
+            { "choice_text": "خداع الروم بوجود مدد جديد (تغيير المراكز)", "is_correct": true },
+            { "choice_text": "التفاوض مع ملك الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ عندما رأى حزن آل جعفر؟",
+        "difficulty_score": 400,
+        "explanation": "واساهم بلسانه، وأمر بصنع الطعام لهم، وأردف عبد الله بن جعفر خلفه.",
+        "choices": [
+            { "choice_text": "أمرهم بالصبر فقط", "is_correct": false },
+            { "choice_text": "واساهم عملياً ونفسياً وبناءً اجتماعياً", "is_correct": true },
+            { "choice_text": "تركهم ليواجهوا قدرهم", "is_correct": false },
+            { "choice_text": "اعتذر لهم عن إرسال جعفر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو تعريف 'الفتح' في سياق مؤتة؟",
+        "difficulty_score": 900,
+        "explanation": "هو النصر الذي تحقق إما بكسر العدو أو بإنقاذ جيش الإسلام من الهلاك المحقق.",
+        "choices": [
+            { "choice_text": "الاستيلاء على الأرض فقط", "is_correct": false },
+            { "choice_text": "تحقيق الأهداف العسكرية وحفظ بيضة الإسلام", "is_correct": true },
+            { "choice_text": "قتل جميع الأعداء", "is_correct": false },
+            { "choice_text": "إجبار العدو على الإسلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن 'كلام عبد الله بن رواحة' في مكة؟",
+        "difficulty_score": 500,
+        "explanation": "قال إنه 'أشد عليهم من وقع النبل'، مبيناً قوة الكلمة الإصلاحية.",
+        "choices": [
+            { "choice_text": "إنه مجرد كلام", "is_correct": false },
+            { "choice_text": "إنه أشد تأثيراً من السهام (النبل)", "is_correct": true },
+            { "choice_text": "إنه لا يجوز في الحرم", "is_correct": false },
+            { "choice_text": "إنه يسبب الفتنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر 'سيف خالد اليماني' الذي صمد في يده؟",
+        "difficulty_score": 600,
+        "explanation": "وصفه بأنه 'صفيحة يمانية'، وهي الوحيدة التي لم تنكسر من بين عشرة أسياف.",
+        "choices": [
+            { "choice_text": "سيف ثقيل جداً", "is_correct": false },
+            { "choice_text": "صفيحة يمانية صبورة", "is_correct": true },
+            { "choice_text": "سيف مذهب", "is_correct": false },
+            { "choice_text": "سيف رومي مسلوب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة التربوية لجيل المصلحين من هذه الأحداث؟",
+        "difficulty_score": 900,
+        "explanation": "ضرورة تنويع الوسائل، وفقه التدرج، والثبات النفسي، وتعظيم قدر الصحابة الكرام.",
+        "choices": [
+            { "choice_text": "الاعتماد على السلاح فقط", "is_correct": false },
+            { "choice_text": "الاستعجال في النتائج", "is_correct": false },
+            { "choice_text": "تكامل الوسائل الإصلاحية وفقه المقاصد والسنن", "is_correct": true },
+            { "choice_text": "ترك السياسة والتركيز على العبادة", "is_correct": false }
+        ]
+    }
+]
+    }

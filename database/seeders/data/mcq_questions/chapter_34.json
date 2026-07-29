@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 34,
+    "questions": [
+        {
+        "question_text": "ما هي الأقسام الثلاثة التي تشكل 'الخارطة العامة لباب حجية السنة' كما ورد في المادة؟",
+        "difficulty_score": 150,
+        "explanation": "أوضح المحاضر أن الخارطة العامة تتكون من: مرتكزات الحجية (الجانب الديني)، تثبيت الموثوقية (الجانب التاريخي)، وإنكار السنة (جانب الشبهات).",
+        "choices": [
+            { "choice_text": "التفسير، الفقه، والحديث", "is_correct": false },
+            { "choice_text": "المرتكزات، الموثوقية، وإنكار السنة والتشكيك فيها", "is_correct": true },
+            { "choice_text": "القرآن، السنة، والإجماع", "is_correct": false },
+            { "choice_text": "العلم التجريبي، العقل، والنص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأقسام التالية يعتبر الإشكال المعاصر فيه هو 'الأكثر انتشاراً'؟",
+        "difficulty_score": 250,
+        "explanation": "ذكرت المادة أن معظم المشككين المعاصرين لا يطعنون في حجية السنة ديناً بالضرورة، بل في 'موثوقية نقلها' وتراكم الأخطاء عبر الزمن.",
+        "choices": [
+            { "choice_text": "القسم الأول: مرتكزات حجية السنة", "is_correct": false },
+            { "choice_text": "القسم الثاني: تثبيت دائل موثوقية نقل السنة", "is_correct": true },
+            { "choice_text": "القسم الثالث: الرد على الشبهات", "is_correct": false },
+            { "choice_text": "بوابة الاستغناء بالقرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخطأ المنهجي الكبير الذي حذر منه المحاضر عند البدء بدراسة قضايا الجدل؟",
+        "explanation": "أكد المحاضر أن البدء بالرد على الشبهات قبل بناء المرتكزات الإيمانية والمعرفية يجعل الشخص 'حافظاً غير فاهم' ومعرضاً للتأثر.",
+        "difficulty_score": 300,
+        "choices": [
+            { "choice_text": "البدء بتثبيت المرتكزات قبل الرد على الشبهات", "is_correct": false },
+            { "choice_text": "البدء بالرد على الشبهات (النقطة الثالثة) قبل البناء", "is_correct": true },
+            { "choice_text": "دراسة القرآن قبل السنة", "is_correct": false },
+            { "choice_text": "الاستعانة بكتب المتخصصين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'المظلة المنهجية' في سياق تلقي المعلومات؟",
+        "difficulty_score": 400,
+        "explanation": "المظلات المنهجية هي القواعد الكلية التي يستخلصها المتلقي ليضع تحتها الجزئيات والنوازل الجديدة.",
+        "choices": [
+            { "choice_text": "حفظ النصوص كما هي دون تفكير", "is_correct": false },
+            { "choice_text": "القدرة على استخراج كليات من المعلومات الجزئية للقياس عليها", "is_correct": true },
+            { "choice_text": "قراءة الكتب المترجمة من اللغات الأجنبية", "is_correct": false },
+            { "choice_text": "تجنب قراءة الكتب المعاصرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا شبه المحاضر استخراج 'المظلات المنهجية' بمبحث القياس في أصول الفقه؟",
+        "difficulty_score": 550,
+        "explanation": "لأن كلاهما يعتمد على إلحاق 'فرع' (معلومة جديدة) بـ 'أصل' (قاعدة سابقة) لوجود 'علة' (مظلة منهجية) مشتركة.",
+        "choices": [
+            { "choice_text": "لأنهما يعتمدان على الحفظ المجرد", "is_correct": false },
+            { "choice_text": "لأن القياس هو الركن الوحيد في الفقه", "is_correct": false },
+            { "choice_text": "لأنه يتضمن إدخال الصور الجديدة في القواعد الكلية", "is_correct": true },
+            { "choice_text": "لا يوجد تشابه بينهما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة من بوابات التشكيك تعتمد على فكرة أن 'القرآن وحده كافٍ للهداية'؟",
+        "difficulty_score": 200,
+        "explanation": "بوابة الاستغناء بالقرآن هي التي يدعي أصحابها عدم الحاجة للسنة النبوية والاكتفاء بنص القرآن.",
+        "choices": [
+            { "choice_text": "بوابة الطعن في الصحابة", "is_correct": false },
+            { "choice_text": "بوابة الاستغناء بالقرآن الكريم", "is_correct": true },
+            { "choice_text": "بوابة التدوين المتأخر", "is_correct": false },
+            { "choice_text": "بوابة العلم التجريبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الفوائد المنهجية والتربوية التي تم استخراجها تقريباً في أول 48 درساً من 'غيث الساري'؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر المحاضر أنه تم استخراج ما يقارب 500 إلى 600 فائدة من أحاديث قليلة جداً في بداية صحيح البخاري.",
+        "choices": [
+            { "choice_text": "100 فائدة", "is_correct": false },
+            { "choice_text": "200 فائدة", "is_correct": false },
+            { "choice_text": "500 إلى 600 فائدة", "is_correct": true },
+            { "choice_text": "1000 فائدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القاعدة المنطقية التي تجعل اليقين بالحق ثابتاً حتى مع وجود إشكال جزئي لم يعرف الشخص رده؟",
+        "difficulty_score": 600,
+        "explanation": "قاعدة 'النقيضان لا يجتمعان' تعني أنه إذا ثبت صدق النبوة بالبراهين، فلا يمكن أن يكون الإشكال الفرعي ناقضاً لهذا الصدق الثابت يقيناً.",
+        "choices": [
+            { "choice_text": "قاعدة الاستصحاب", "is_correct": false },
+            { "choice_text": "قاعدة أن النقيضين لا يجتمعان", "is_correct": true },
+            { "choice_text": "قاعدة المصالح المرسلة", "is_correct": false },
+            { "choice_text": "قاعدة سد الذرائع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التشرب' الحقيقي للإسلام الذي يقي من الإلحاد حسب المادة؟",
+        "difficulty_score": 450,
+        "explanation": "التشرب لا يكون بالعاطفة فقط، بل بأن يعيش الإنسان حقائق الإيمان ولذة المناجاة في خلواته.",
+        "choices": [
+            { "choice_text": "حفظ الردود الجدلية فقط", "is_correct": false },
+            { "choice_text": "العيش العملي لحلاوة الإيمان وسجود الخلوات", "is_correct": true },
+            { "choice_text": "قراءة الكتب الفلسفية", "is_correct": false },
+            { "choice_text": "مشاهدة المناظرات يومياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عند حدوث نقاش مع 'منكر' للسنة، ما هي القاعدة الهامة التي نصح بها المحاضر؟",
+        "difficulty_score": 500,
+        "explanation": "نصح المحاضر بضرورة الهجوم أثناء النقاش (طرح أسئلة من المرتكزات) وعدم الاكتفاء بموقف المدافع المتلقي.",
+        "choices": [
+            { "choice_text": "الصمت التام", "is_correct": false },
+            { "choice_text": "الاكتفاء بالدفاع والرد على الأسئلة", "is_correct": false },
+            { "choice_text": "عدم الاكتفاء بالدفاع وضرورة الهجوم أثناء النقاش", "is_correct": true },
+            { "choice_text": "الانسحاب فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المرتكزات الثلاثة لحجية السنة النبوية التي سيتم تفصيلها؟",
+        "difficulty_score": 200,
+        "explanation": "المرتكزات الأساسية هي القرآن الكريم، التواتر، والإجماع.",
+        "choices": [
+            { "choice_text": "العقل، الحس، والخبر", "is_correct": false },
+            { "choice_text": "القرآن الكريم، التواتر، والإجماع", "is_correct": true },
+            { "choice_text": "التاريخ، الآثار، واللغة", "is_correct": false },
+            { "choice_text": "القياس، الاستحسان، والمصلحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يمثله 'الكمال الأخلاقي للنبي ﷺ' في منظومة الاستدلال؟",
+        "difficulty_score": 700,
+        "explanation": "يعتبر الكمال الأخلاقي حزمة مستقلة من دلائل النبوة التي تثبت صدق المخبر.",
+        "choices": [
+            { "choice_text": "دليل فرعي غير ملزم", "is_correct": false },
+            { "choice_text": "حزمة من حزم دلائل النبوة الصادقة", "is_correct": true },
+            { "choice_text": "موضوع فقهي بحت", "is_correct": false },
+            { "choice_text": "قصص للتسلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية استشهد بها المحاضر لبيان طلب 'تثبيت اليقين' حتى عند المؤمنين؟",
+        "difficulty_score": 300,
+        "explanation": "استشهد بقوله تعالى على لسان إبراهيم عليه السلام: {بلى ولكن ليطمئن قلبي} لبيان أهمية قسم الإثبات والبناء.",
+        "choices": [
+            { "choice_text": "آية الدين في سورة البقرة", "is_correct": false },
+            { "choice_text": "{بلى ولكن ليطمئن قلبي}", "is_correct": true },
+            { "choice_text": "{اليوم أكملت لكم دينكم}", "is_correct": false },
+            { "choice_text": "{اقرأ باسم ربك الذي خلق}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العيب الرئيسي للمدافعين الذين يظهرون بمظهر 'المهزوم' في مناظرات اليوتيوب؟",
+        "difficulty_score": 650,
+        "explanation": "يعود ذلك لسوء الأسلوب، أو عدم التصور الحقيقي لقول الطرف الآخر، أو عدم تمثيل الحق تمثيلاً جيداً.",
+        "choices": [
+            { "choice_text": "أن الحق الذي معهم ضعيف", "is_correct": false },
+            { "choice_text": "عدم معرفتهم بالقراءة والكتابة", "is_correct": false },
+            { "choice_text": "سوء الأسلوب وعدم القدرة على تمثيل الحق تمثيلاً جيداً", "is_correct": true },
+            { "choice_text": "استخدامهم لميكروفونات قديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'النظام الدقيق للكون' سؤالاً هجومياً قوياً ضد المنكرين؟",
+        "difficulty_score": 750,
+        "explanation": "لأنه يخرج المنكر من سياق إثارة الشبهات إلى سياق العجز عن تفسير أصل الوجود والنظام المتقن.",
+        "choices": [
+            { "choice_text": "لأنه سؤال لا علاقة له بالدين", "is_correct": false },
+            { "choice_text": "لأنه يثبت إفلاس المنكر في تفسير الحقائق الوجودية الكبرى", "is_correct": true },
+            { "choice_text": "لأنه يركز على تاريخ السنة فقط", "is_correct": false },
+            { "choice_text": "لأنه ينهي النقاش فوراً بسب الطرف الآخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحزم الثلاث لمناقشة 'موثوقية نقل السنة'؟",
+        "difficulty_score": 500,
+        "explanation": "الحزم هي: الأصل العام في حفظ الدين، التوثيق المبكر، وعلم الحديث وموثوقيته.",
+        "choices": [
+            { "choice_text": "العقل، المنطق، والفلسفة", "is_correct": false },
+            { "choice_text": "الأصل العام في حفظ الدين، التوثيق المبكر، وعلم الحديث", "is_correct": true },
+            { "choice_text": "البخاري، مسلم، وأبو داود", "is_correct": false },
+            { "choice_text": "اللغة، النحو، والصرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'حزم الأدلة' كما ورد في المادة؟",
+        "difficulty_score": 450,
+        "explanation": "يعني أن الاستدلال لا يقوم على دليل واحد منفرد، بل على مجموعات متكاملة من الأدلة التي يقوي بعضها بعضاً.",
+        "choices": [
+            { "choice_text": "أن الأدلة ضعيفة ويجب حزمها", "is_correct": false },
+            { "choice_text": "تكامل الأدلة وتنوعها لإثبات قضية واحدة (كالبنوة أو الحجية)", "is_correct": true },
+            { "choice_text": "إخفاء الأدلة عن الناس", "is_correct": false },
+            { "choice_text": "حصر الأدلة في القرآن فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النوع 'الجزئي' من إنكار السنة الذي يكتفي بالفعل دون القول؟",
+        "difficulty_score": 800,
+        "explanation": "هو إنكار السنة القولية والاكتفاء بالسنة العملية (مثل صفات الصلاة المنتقلة بالتواتر العملي).",
+        "choices": [
+            { "choice_text": "إنكار السنة العملية فقط", "is_correct": false },
+            { "choice_text": "إنكار السنة القولية والاكتفاء بالسنة العملية", "is_correct": true },
+            { "choice_text": "إنكار أخبار الآحاد فقط", "is_correct": false },
+            { "choice_text": "إنكار الأحاديث العلمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة تتعلق بـ 'عدم كتابة السنة في عهد النبي ﷺ'؟",
+        "difficulty_score": 400,
+        "explanation": "هي بوابة التدوين للسنة، حيث يزعم البعض أنها لم تدون إلا بعد قرنين مما يفتح باب الشك.",
+        "choices": [
+            { "choice_text": "بوابة الاستغناء بالقرآن", "is_correct": false },
+            { "choice_text": "بوابة التدوين للسنة", "is_correct": true },
+            { "choice_text": "بوابة الطعن في الرواة", "is_correct": false },
+            { "choice_text": "بوابة معارضة العقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من تعلم 'منهجيات المناقشة' (العنصر التاسع)؟",
+        "difficulty_score": 550,
+        "explanation": "تمكين الشخص من إدارة الحوار بطريقة علمية فعالة لا تعتمد على الدفاع السلبي فقط.",
+        "choices": [
+            { "choice_text": "تعلم كيفية الهروب من الأسئلة", "is_correct": false },
+            { "choice_text": "تعلم طرق الاستدلال السليم وفنون الإلزام والرد المنهجي", "is_correct": true },
+            { "choice_text": "حفظ أسماء المنكرين فقط", "is_correct": false },
+            { "choice_text": "تعلم اللغات الأجنبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف الذي أطلقه المحاضر على الشخص الذي يملك الرد على الشبهة لكنه يفتقر للمرتكزات؟",
+        "difficulty_score": 300,
+        "explanation": "أوضح المحاضر أن الاكتفاء بحفظ الردود دون بناء أصول معرفية يجعل الشخص مجرد حافظ لا يدرك أبعاد القضية [1].",
+        "choices": [
+            { "choice_text": "عالم متمكن", "is_correct": false },
+            { "choice_text": "باحث متخصص", "is_correct": false },
+            { "choice_text": "حافظ مش فاهم", "is_correct": true },
+            { "choice_text": "منكر للسنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأمور التالية لا يعتبر من المرتكزات الأساسية لحجية السنة التي ذكرها المحاضر؟",
+        "difficulty_score": 250,
+        "explanation": "المرتكزات الثلاثة هي القرآن، التواتر، والإجماع، أما العلم التجريبي فهو بوابة للاعتراض أو حقل مستقل [2].",
+        "choices": [
+            { "choice_text": "القرآن الكريم", "is_correct": false },
+            { "choice_text": "التواتر", "is_correct": false },
+            { "choice_text": "العلم التجريبي", "is_correct": true },
+            { "choice_text": "الإجماع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعد 'البناء العلمي' أحياناً مملاً مقارنة بالرد على الشبهات؟",
+        "difficulty_score": 400,
+        "explanation": "لأن الرد على الشبهات فيه حماس وإغراء نقاشي، بينما البناء يتطلب صبراً ووقتاً وتأصيلاً هادئاً [3].",
+        "choices": [
+            { "choice_text": "لأنه غير مفيد", "is_correct": false },
+            { "choice_text": "لأن طبيعة العلم تتطلب صبراً وليس دائماً موافقة للمتعة اللحظية", "is_correct": true },
+            { "choice_text": "لأنه لا يحتوي على براهين", "is_correct": false },
+            { "choice_text": "لأنه يعتمد على التقليد فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على قاعدة 'تكامل دلائل الحق'، ما الذي يجب فعله إذا ضعف استدلال بآية 'الحكمة' على السنة؟",
+        "difficulty_score": 750,
+        "explanation": "يجب عدم حصر النفس في دليل واحد، بل الانتقال للمنظومة الكلية التي تشمل طاعة الرسول ودلائل النبوة الأخرى [45، 46].",
+        "choices": [
+            { "choice_text": "التسليم بأن السنة غير حجة", "is_correct": false },
+            { "choice_text": "تفعيل التكامل بين حزم الأدلة الأخرى وعدم حصر اليقين في دليل فردي", "is_correct": true },
+            { "choice_text": "ترك النقاش فوراً", "is_correct": false },
+            { "choice_text": "إنكار وجود آية الحكمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحزمة الخامسة التي ذكرها المحاضر كجزء من 'حزم دلائل النبوة'؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المحاضر خمس حزم منها: الأخبار الغيبية، الكمال الأخلاقي، المعجزات، القرآن، وأخبار الكتب السابقة [4].",
+        "choices": [
+            { "choice_text": "العلم التجريبي", "is_correct": false },
+            { "choice_text": "أخبار الكتب السابقة", "is_correct": true },
+            { "choice_text": "الفلسفة اليونانية", "is_correct": false },
+            { "choice_text": "الآثار الفرعونية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف المنهجي لـ 'البيان' في علاقته بالأحكام القرآنية المجملة؟",
+        "difficulty_score": 600,
+        "explanation": "البيان هو الضد المنهجي للإجمال، وبما أن القرآن فيه إجمال، فالسنة ضرورة منهجية لبيانه [5].",
+        "choices": [
+            { "choice_text": "هو تكرار لنفس اللفظ", "is_correct": false },
+            { "choice_text": "هو استلزام عقلي وشرعي لبيان الأوامر القرآنية المجملة", "is_correct": true },
+            { "choice_text": "هو مجرد قصص تاريخية", "is_correct": false },
+            { "choice_text": "لا علاقة له بالقرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة من بوابات التشكيك تتعلق بالطعن في 'نقلة الحديث'؟",
+        "difficulty_score": 350,
+        "explanation": "البوابة الخامسة هي بوابة الطعن في الصحابة ونقلة الحديث للتشكيك في الموثوقية [12، 56].",
+        "choices": [
+            { "choice_text": "بوابة الاستغناء بالقرآن", "is_correct": false },
+            { "choice_text": "بوابة التدوين", "is_correct": false },
+            { "choice_text": "بوابة الطعن في الصحابة ونقلة الحديث", "is_correct": true },
+            { "choice_text": "بوابة الأحاديث المستنكرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'العلة' في سياق المظلات المنهجية التي شرحها المحاضر؟",
+        "difficulty_score": 550,
+        "explanation": "العلة هي الرابط أو 'المظلة' التي تسمح بإلحاق فرع جديد بأصل قديم لاتحادهما في السبب [6].",
+        "choices": [
+            { "choice_text": "المرض الجسدي", "is_correct": false },
+            { "choice_text": "النص الصريح فقط", "is_correct": false },
+            { "choice_text": "المظلة المنهجية الجامعة بين الفرع والأصل", "is_correct": true },
+            { "choice_text": "الشك في المعلومة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في نقاش مع ملحد، لماذا يعتبر سؤال 'من خلق الخالق' علامة على إفلاس الطرف الآخر؟",
+        "difficulty_score": 850,
+        "explanation": "لأن هذا السؤال يحاول الهروب من حقيقة 'النظام الدقيق للكون' إلى إشكال فلسفي لا ينقض برهان الإتقان الماثل [7].",
+        "choices": [
+            { "choice_text": "لأنه سؤال ذكي جداً", "is_correct": false },
+            { "choice_text": "لأنه يدل على عجز المنكر عن تفسير النظام المتقن الموجود حالياً", "is_correct": true },
+            { "choice_text": "لأن المحاضر لم يعرف إجابته", "is_correct": false },
+            { "choice_text": "لأن العلم التجريبي أثبته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الآيات التي قد تتضمنها 'الحزمة الأولى' (الإحالة للرسول) ضمن القرآن الكريم؟",
+        "difficulty_score": 500,
+        "explanation": "أشار المحاضر إلى أن هذه الحزمة وحدها قد تتجاوز الأربعين آية [8].",
+        "choices": [
+            { "choice_text": "5 آيات", "is_correct": false },
+            { "choice_text": "10 آيات", "is_correct": false },
+            { "choice_text": "أكثر من 40 آية", "is_correct": true },
+            { "choice_text": "آية واحدة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخطر الذي يواجه الشاب 'المتحمس' الذي يكتفي بباب الرد على الشبهات؟",
+        "difficulty_score": 450,
+        "explanation": "الخطر هو الانتقال من موقف الدفاع عن الإسلام إلى موقف المتأثر بالشبهة لضعف مرتكزاته [9].",
+        "choices": [
+            { "choice_text": "أن يصبح عالماً بسرعة", "is_correct": false },
+            { "choice_text": "أن يتحول من مدافع إلى متأثر بالشبهات لغياب المرتكزات", "is_correct": true },
+            { "choice_text": "أن يشتهر على اليوتيوب", "is_correct": false },
+            { "choice_text": "لا يوجد أي خطر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي صنف من منكري السنة يعتبر 'الأكثر انتشاراً'؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المحاضر أن الإنكار الجزئي هو الأكثر انتشاراً مقارنة بالإنكار الكلي التام [10].",
+        "choices": [
+            { "choice_text": "المنكرون إنكاراً كلياً", "is_correct": false },
+            { "choice_text": "المنكرون إنكاراً جزئياً", "is_correct": true },
+            { "choice_text": "الذين لا يقرؤون السنة", "is_correct": false },
+            { "choice_text": "المستشرقون فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحزمة الثانية ضمن المرتكزات القرآنية لحجية السنة؟",
+        "difficulty_score": 650,
+        "explanation": "الحزمة الثانية هي 'الدلالة على عدم انحصار الوحي في النص القرآني' [8].",
+        "choices": [
+            { "choice_text": "طاعة الرسول", "is_correct": false },
+            { "choice_text": "الدلالة على عدم انحصار الوحي في النص القرآني", "is_correct": true },
+            { "choice_text": "الأمثال في القرآن", "is_correct": false },
+            { "choice_text": "قصص الأنبياء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'سجود الخلوات' في بناء المناعة الفكرية؟",
+        "difficulty_score": 500,
+        "explanation": "سجود الخلوات يمثل التطبيق العملي لحلاوة الإيمان التي تجعل النفس تدرك قبح مرارة الكفر [8، 9].",
+        "choices": [
+            { "choice_text": "تمرين جسدي فقط", "is_correct": false },
+            { "choice_text": "وسيلة لتشرب حقيقة الإيمان التي تمنع التأثر النفسي بالشبهات", "is_correct": true },
+            { "choice_text": "طريقة لحفظ الأحاديث", "is_correct": false },
+            { "choice_text": "لا دور له في الفكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من قول المحاضر 'نحن لا نزال في 2% إلى 3% من أحاديث البخاري'؟",
+        "difficulty_score": 300,
+        "explanation": "نستنتج السعة الهائلة للسنة النبوية وكمية الفوائد الضخمة المرجو استخراجها منها [11].",
+        "choices": [
+            { "choice_text": "أن الكتاب صغير جداً", "is_correct": false },
+            { "choice_text": "أن العمل في 'غيث الساري' لا يزال في بداياته وبابه واسع جداً", "is_correct": true },
+            { "choice_text": "أن معظم الأحاديث مكررة", "is_correct": false },
+            { "choice_text": "أن البخاري صعب الفهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية في سورة 'لقمان' استشهد بها المحاضر كنموذج لاعتراض منكري السنة على معنى الحكمة؟",
+        "difficulty_score": 700,
+        "explanation": "استشهد بقوله تعالى: {ولقد آتينا لقمان الحكمة} ليبين كيف يستدل البعض بها على أن الحكمة ليست هي السنة [12].",
+        "choices": [
+            { "choice_text": "آية 10", "is_correct": false },
+            { "choice_text": "{ولقد آتينا لقمان الحكمة}", "is_correct": true },
+            { "choice_text": "آية الصلاة", "is_correct": false },
+            { "choice_text": "آية بر الوالدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التكفل الإلهي بالبيان' كحزمة استدلالية؟",
+        "difficulty_score": 650,
+        "explanation": "يعني أن الله تكفل ببيان القرآن، وهذا البيان لا بد أن يكون موجوداً خارج نص القرآن ليوضحه [8].",
+        "choices": [
+            { "choice_text": "أن القرآن يفسر نفسه فقط", "is_correct": false },
+            { "choice_text": "أن الله حفظ السنة لتكون بياناً للقرآن بمقتضى وعده", "is_correct": true },
+            { "choice_text": "أن الإنسان يفسر القرآن بعقله فقط", "is_correct": false },
+            { "choice_text": "لا يوجد تكفل بالبيان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي ينقص الشخص الذي يضرب 'أخماساً في أسداس' عند سماع إشكال جديد؟",
+        "difficulty_score": 550,
+        "explanation": "ينقصه اليقين المبني على المرتكزات، مما يجعله في حالة عصبية وتخبط [1].",
+        "choices": [
+            { "choice_text": "القدرة على الكلام", "is_correct": false },
+            { "choice_text": "المرتكزات اليقينية التي تجعله يثبت أمام المجهول الجزئي", "is_correct": true },
+            { "choice_text": "الاشتراك في الإنترنت", "is_correct": false },
+            { "choice_text": "حفظ أسماء المستشرقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة تتعلق بـ 'الأحاديث التي تخالف العقل أو العلم'؟",
+        "difficulty_score": 400,
+        "explanation": "هي البوابة الرابعة: بوابة معارضة السنة للقرآن أو العقل أو العلم التجريبي [13].",
+        "choices": [
+            { "choice_text": "البوابة الثانية", "is_correct": false },
+            { "choice_text": "البوابة الثالثة", "is_correct": false },
+            { "choice_text": "البوابة الرابعة", "is_correct": true },
+            { "choice_text": "البوابة الأولى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الهدف من دراسة 'تاريخ منكري السنة'؟",
+        "difficulty_score": 600,
+        "explanation": "الهدف هو فهم جذور الاعتراضات وكيف تطورت عبر الزمن لتفنيدها منهجياً [53، 55].",
+        "choices": [
+            { "choice_text": "معرفة أسمائهم فقط", "is_correct": false },
+            { "choice_text": "إدراك السياق التاريخي للشبهات وكشف تكرارها", "is_correct": true },
+            { "choice_text": "تعلم كيفية تقليدهم", "is_correct": false },
+            { "choice_text": "التسلية بالقصص القديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر البدء بالهجوم أثناء النقاش مع المنكرين ضرورة منهجية؟",
+        "difficulty_score": 750,
+        "explanation": "أوضحت المصادر أن الاكتفاء بالدفاع يجعل المناقش في سياق المتلقي للإشكالات فقط، بينما الهجوم يطالب النافي بتقديم تفسيراته للأصول اليقينية [1]، [2].",
+        "choices": [
+            { "choice_text": "لإحراج الطرف الآخر شخصياً", "is_correct": false },
+            { "choice_text": "لإخراج المناقش من سياق 'المدافع' إلى سياق 'المثبت' المطالب بالدليل", "is_correct": true },
+            { "choice_text": "لإنهاء النقاش بسرعة دون فائدة", "is_correct": false },
+            { "choice_text": "لأن الهجوم هو الوسيلة الوحيدة للإقناع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة المحتملة إذا لم يقتنع الجمهور بثلاثة أجوبة من أصل 15 في موقف الدفاع الصرف؟",
+        "difficulty_score": 650,
+        "explanation": "بينت المصادر أن عدم إقناع الجمهور ببعض الإجابات الجزئية قد يعطي انطباعاً زائفاً بانتصار الطرف المبطل وضياع الحق [3]، [2].",
+        "choices": [
+            { "choice_text": "سيقتنع الجمهور ببقية الـ 12 جواباً فوراً", "is_correct": false },
+            { "choice_text": "سيعتبر الجمهور أن الحق مع الطرف المنكر لمجرد عجز المدافع عن بعض الفروع", "is_correct": true },
+            { "choice_text": "لن يتأثر المتابعون بأي جواب", "is_correct": false },
+            { "choice_text": "سيعتذر المنكر عن خطئه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'تكامل دلائل الحق' عند مواجهة إشكال في دليل مفرد؟",
+        "difficulty_score": 800,
+        "explanation": "أكدت المصادر أن المنظومة الاستدلالية لا تنهار بسقوط دليل جزئي لأنها مبنية على 'حزم' متكاملة يقوي بعضها بعضاً [4]، [5]، [6].",
+        "choices": [
+            { "choice_text": "إلغاء الدليل الجزئي والاعتراف ببطلان القضية", "is_correct": false },
+            { "choice_text": "تفعيل التكامل بين بقية الأدلة لمنع انهيار اليقين الكلي", "is_correct": true },
+            { "choice_text": "البحث عن دليل جديد تماماً خارج الوحي", "is_correct": false },
+            { "choice_text": "تكرار نفس الدليل الضعيف بقوة أكبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي حزمة من حزم دلائل النبوة تتعلق بـ 'الإخبار بانتصار الروم'؟",
+        "difficulty_score": 400,
+        "explanation": "تعتبر آية {غلبت الروم} مثالاً على حزمة 'الأخبار الغيبية' التي أخبر بها النبي ﷺ وتحققت [7]، [8].",
+        "choices": [
+            { "choice_text": "حزمة الكمال الأخلاقي", "is_correct": false },
+            { "choice_text": "حزمة الأخبار الغيبية", "is_correct": true },
+            { "choice_text": "حزمة المعجزات الحسية", "is_correct": false },
+            { "choice_text": "حزمة أخبار الكتب السابقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'التكفل الإلهي بالبيان' ضمن الحزمة الثانية في القرآن؟",
+        "difficulty_score": 700,
+        "explanation": "يعني أن الله سبحانه وعد ببيان القرآن، وهذا البيان يستلزم وجود وحي زائد على النص القرآني ليوضحه [9]، [10].",
+        "choices": [
+            { "choice_text": "أن القرآن واضح لكل الناس دون تفسير", "is_correct": false },
+            { "choice_text": "أن السنة النبوية هي البيان الذي تكفل الله بحفظه للقرآن", "is_correct": true },
+            { "choice_text": "أن اللغة العربية كافية لفهم المراد", "is_correct": false },
+            { "choice_text": "أن البيان متروك للاجتهاد البشري المحض", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الآيات التقريبي في حزمة 'الإحالة للرسول طاعة وتحاكماً'؟",
+        "difficulty_score": 300,
+        "explanation": "أشار المحاضر إلى أن هذه الحزمة وحدها تحتوي على ما يزيد عن أربعين آية قرآنية [9].",
+        "choices": [
+            { "choice_text": "10 آيات", "is_correct": false },
+            { "choice_text": "20 آية", "is_correct": false },
+            { "choice_text": "أكثر من 40 آية", "is_correct": true },
+            { "choice_text": "100 آية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط المنهجي بين 'الإجمال' في القرآن وضرورة السنة؟",
+        "difficulty_score": 550,
+        "explanation": "بما أن القرآن يحتوي على أوامر مجملة (مثل الصلاة)، فإن 'البيان' (السنة) ضرورة عقلية وشرعية لرفع هذا الإجمال [10].",
+        "choices": [
+            { "choice_text": "الإجمال يعني عدم أهمية الموضوع", "is_correct": false },
+            { "choice_text": "البيان هو الضد المنهجي للإجمال والسنة هي هذا البيان", "is_correct": true },
+            { "choice_text": "القرآن لا يحتوي على أي إجمال", "is_correct": false },
+            { "choice_text": "الإجمال يفسر بالهوى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي مما يلي يعتبر من مكونات حزمة 'تثبيت موثوقية السنة' تاريخياً؟",
+        "difficulty_score": 450,
+        "explanation": "تشمل حزمة الموثوقية: الأصل العام في حفظ الدين، التوثيق المبكر، وعلم الحديث [10].",
+        "choices": [
+            { "choice_text": "الأصل العام في حفظ الدين", "is_correct": true },
+            { "choice_text": "تاريخ الدول الإسلامية", "is_correct": false },
+            { "choice_text": "الجغرافيا المكانية للسنة", "is_correct": false },
+            { "choice_text": "الفلسفة والمنطق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي البوابة التي يدخل منها المشككون بحجة 'تعارض السنة مع العلم التجريبي'؟",
+        "difficulty_score": 500,
+        "explanation": "البوابة الرابعة هي التي تتضمن استنكار أحاديث معينة بزعم معارضتها للقرآن أو العقل أو العلم [11].",
+        "choices": [
+            { "choice_text": "البوابة الأولى", "is_correct": false },
+            { "choice_text": "البوابة الثالثة", "is_correct": false },
+            { "choice_text": "البوابة الرابعة", "is_correct": true },
+            { "choice_text": "البوابة الثانية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو نوع 'الإنكار الجزئي' الذي يكتفي بـ 'السنة العملية' فقط؟",
+        "difficulty_score": 850,
+        "explanation": "هو الإنكار الذي يرفض السنة القولية (الأحاديث المروية) ويقبل فقط ما تواتر عملياً كصفة الصلاة [12]، [11].",
+        "choices": [
+            { "choice_text": "إنكار السنة العملية واختراع صلاة جديدة", "is_correct": false },
+            { "choice_text": "إنكار السنة القولية والاكتفاء بالسنة العملية المتوارثة", "is_correct": true },
+            { "choice_text": "إنكار القرآن الكريم كلياً", "is_correct": false },
+            { "choice_text": "قبول جميع الأحاديث دون تمييز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'علم الحديث' ركيزة في تثبيت الموثوقية؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه يتضمن شروط الحديث الصحيح، والنقد الباطني، والتحديث المستمر للإطلاقات السابقة [13].",
+        "choices": [
+            { "choice_text": "لأنه يعتمد على الخيال", "is_correct": false },
+            { "choice_text": "لأنه يمتلك منهجية دقيقة في نقد الأسانيد والمتون وضبط النقل", "is_correct": true },
+            { "choice_text": "لأنه مجرد جمع للقصص القديمة", "is_correct": false },
+            { "choice_text": "لأنه يوافق الثقافة الغربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي ينبغي على الشخص فعله إذا واجه إشكالاً في آية 'الحكمة' وعجز عن الجواب؟",
+        "difficulty_score": 750,
+        "explanation": "يجب عليه عدم المكابرة، بل استحضار تكامل الأدلة الأخرى مثل التواتر والإجماع وبقية آيات الطاعة [14].",
+        "choices": [
+            { "choice_text": "إنكار أن الحكمة تعني السنة", "is_correct": false },
+            { "choice_text": "عدم حصر النفس في هذا الدليل والانتقال لحزم الأدلة الأخرى الثابتة", "is_correct": true },
+            { "choice_text": "الاعتزال وترك العلم", "is_correct": false },
+            { "choice_text": "المجادلة العقيمة دون علم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة تتعلق بـ 'عدم الثقة بطريقة النقل'؟",
+        "difficulty_score": 400,
+        "explanation": "البوابة الثانية هي بوابة عدم الثقة بطريقة النقل (الجانب التاريخي) [15]، [11].",
+        "choices": [
+            { "choice_text": "البوابة الثانية", "is_correct": true },
+            { "choice_text": "بوابة الاستغناء بالقرآن", "is_correct": false },
+            { "choice_text": "بوابة التدوين", "is_correct": false },
+            { "choice_text": "بوابة الأحاديث المستنكرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من تقسيم 'إنكار السنة' إلى كلي وجزئي؟",
+        "difficulty_score": 450,
+        "explanation": "نستنتج تنوع مشارب المشككين، وأن الإنكار الجزئي هو الأكثر شيوعاً وتطلباً للتفصيل في الرد [12].",
+        "choices": [
+            { "choice_text": "أن جميع المنكرين متفقون على رأي واحد", "is_correct": false },
+            { "choice_text": "أن الإنكار الجزئي هو الأكثر انتشاراً وتنوعاً في دوافعه", "is_correct": true },
+            { "choice_text": "أن الإنكار الكلي هو الوحيد الموجود", "is_correct": false },
+            { "choice_text": "لا يوجد فرق بين النوعين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفائدة من دراسة 'بوابة التدوين' للسنة؟",
+        "difficulty_score": 600,
+        "explanation": "تساعد في الرد على شبهة أن السنة كتبت متأخرة جداً مما يفتح باب الشك في صحتها [15]، [11].",
+        "choices": [
+            { "choice_text": "لمعرفة أنواع الورق القديم", "is_correct": false },
+            { "choice_text": "لإثبات أن السنة دونت وحفظت بوسائل موثوقة منذ البداية", "is_correct": true },
+            { "choice_text": "لتعلم الخط العربي القديم", "is_correct": false },
+            { "choice_text": "لإثبات أن السنة لم تكتب أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي حزمة من حزم 'الدلالة على عدم انحصار الوحي' تشمل النصوص الصريحة؟",
+        "difficulty_score": 650,
+        "explanation": "الحزمة الثالثة الفرعية تتعلق بالنصوص المعينة الدالة على وجود وحي في غير القرآن [9].",
+        "choices": [
+            { "choice_text": "الحزمة الأولى", "is_correct": false },
+            { "choice_text": "الحزمة الثالثة: النصوص المعينة الدالة على وحي غير قرآني", "is_correct": true },
+            { "choice_text": "حزمة الإخبار بانتصار الروم", "is_correct": false },
+            { "choice_text": "حزمة أخبار الكتب السابقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف المنهجي لـ 'الحكمة' في آية سورة 'لقمان'؟",
+        "difficulty_score": 800,
+        "explanation": "استخدمت الآية لإظهار كيف يستدل منكروا السنة بأن الحكمة لا تعني السنة دائماً، مما يتطلب رداً منهجياً [16]، [14].",
+        "choices": [
+            { "choice_text": "أنها تعني الصلاة فقط", "is_correct": false },
+            { "choice_text": "أنها دليل يستخدمه المنكرون للتشكيك في دلالة اللفظ على السنة", "is_correct": true },
+            { "choice_text": "أنها تعني العلم التجريبي", "is_correct": false },
+            { "choice_text": "لا يوجد ذكر للحكمة في لقمان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المظلة التي تجمع بين 'من خلق الخالق' وبين 'النظام الدقيق للكون' في النقاش؟",
+        "difficulty_score": 900,
+        "explanation": "المظلة هي 'إفلاس المنكر'؛ حيث يهرب من برهان النظام الماثل إلى إشكالية فلسفية لا تنقض البرهان القائم [17].",
+        "choices": [
+            { "choice_text": "مظلة العلم التجريبي", "is_correct": false },
+            { "choice_text": "مظلة التهرب من براهين الإثبات القائمة بعجز المنكر عن التفسير", "is_correct": true },
+            { "choice_text": "مظلة التدوين المبكر", "is_correct": false },
+            { "choice_text": "مظلة الأخبار الغيبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي مما يلي ليس من بوابات التشكيك الست التي ذكرتها المادة؟",
+        "difficulty_score": 300,
+        "explanation": "البوابات هي: الاستغناء بالقرآن، عدم الثقة بالنقل، التدوين، معارضة العقل، الطعن في النقلة، والأحاديث المستنكرة [15]، [11].",
+        "choices": [
+            { "choice_text": "بوابة الطعن في الصحابة", "is_correct": false },
+            { "choice_text": "بوابة التاريخ الجغرافي للجزيرة العربية", "is_correct": true },
+            { "choice_text": "بوابة الأحاديث المستنكرة", "is_correct": false },
+            { "choice_text": "بوابة الاستغناء بالقرآن الكريم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'تكامل الأدلة' وسيلة وقاية من السقوط في الشكوك؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه يجعل اليقين مبنياً على مجموع أدلة، فإذا ضعف إدراك الشخص لأحدها بقي اليقين ثابتاً بالبقية [6]، [14].",
+        "choices": [
+            { "choice_text": "لأنه يجعل الشخص يحفظ أدلة كثيرة", "is_correct": false },
+            { "choice_text": "لأنه يمنع انهيار المنظومة الاستدلالية عند مواجهة إشكال جزئي", "is_correct": true },
+            { "choice_text": "لأنه ينهي النقاش بسرعة", "is_correct": false },
+            { "choice_text": "لأنه لا يتطلب تفكيراً عميقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف الذي أطلقه المحاضر على 'النوع الأول' من القراء الذين لا يستخرجون مظلات منهجية؟",
+        "difficulty_score": 350,
+        "explanation": "ذكرت المصادر أن هذا النوع يحفظ المعلومة لذاتها ولا يستطيع قياسها على غيرها، فيقول دائماً 'ليس عندي خلفية' عن أي قضية جديدة مشابهة [1].",
+        "choices": [
+            { "choice_text": "قراء متمكنون", "is_correct": false },
+            { "choice_text": "أبعد الناس عن قضية الاجتهاد وأقلهم شعوراً بالثمرة", "is_correct": true },
+            { "choice_text": "متخصصون في علم الحديث", "is_correct": false },
+            { "choice_text": "منكرون للسنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المحاضر مبحث 'القياس' في أصول الفقه هو الأقرب لفكرة 'المظلات المنهجية'؟",
+        "difficulty_score": 600,
+        "explanation": "لأن القياس يعتمد على إلحاق صورة حادثة (فرع) بأصل شرعي لاشتراكهما في 'العلة' التي تمثل المظلة المنهجية [16، 17].",
+        "choices": [
+            { "choice_text": "لأنه يعتمد على الحفظ الصرف", "is_correct": false },
+            { "choice_text": "لأنه يتطلب إدخال الصور الجديدة في القواعد الكلية", "is_correct": true },
+            { "choice_text": "لأنه خاص بالقرآن فقط", "is_correct": false },
+            { "choice_text": "لأنه ملغى في العصور المعاصرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحزمة الخامسة ضمن 'حزم دلائل النبوة' التي تثبت صدق النبي ﷺ؟",
+        "difficulty_score": 450,
+        "explanation": "فصّلت المادة خمس حزم لدلائل النبوة، والخامسة هي 'أخبار الكتب السابقة' [48، 49].",
+        "choices": [
+            { "choice_text": "المعجزات الحسية", "is_correct": false },
+            { "choice_text": "أخبار الكتب السابقة", "is_correct": true },
+            { "choice_text": "الكمال الأخلاقي", "is_correct": false },
+            { "choice_text": "القرآن الكريم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي صنف من 'الإنكار الجزئي' يتعلق برفض الأحاديث التي لا توافق الثقافة الغربية؟",
+        "difficulty_score": 800,
+        "explanation": "ذكرت المصادر أن من أصناف الإنكار الجزئي 'إنكار ما يتعارض مع الثقافة الغربية' تحت ضغط الواقع المعاصر [2].",
+        "choices": [
+            { "choice_text": "إنكار أخبار الآحاد", "is_correct": false },
+            { "choice_text": "إنكار السنة القولية كلياً", "is_correct": false },
+            { "choice_text": "إنكار ما يتعارض مع الثقافة الغربية", "is_correct": true },
+            { "choice_text": "إنكار السنة العملية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الركن الثاني في 'تثبيت موثوقية السنة' (الجانب التاريخي)؟",
+        "difficulty_score": 400,
+        "explanation": "بينت الخارطة التفصيلية أن الموثوقية تبنى على: الأصل العام في حفظ الدين، ثم 'التوثيق المبكر للسنة'، ثم علم الحديث [3].",
+        "choices": [
+            { "choice_text": "التواتر اللفظي", "is_correct": false },
+            { "choice_text": "التوثيق المبكر للسنة", "is_correct": true },
+            { "choice_text": "الإجماع السكوتي", "is_correct": false },
+            { "choice_text": "نقد المتون فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا وصف المحاضر الشخص الذي يجادل دون أدوات بـ 'الفتنة لغيره'؟",
+        "difficulty_score": 700,
+        "explanation": "لأن ظهوره بمظهر الضعيف وهو يدافع عن قضية شريفة (الحق) قد يجعل المتابع يظن أن الباطل هو المنتصر [33، 34].",
+        "choices": [
+            { "choice_text": "لأنه يقول كلاماً غير صحيح", "is_correct": false },
+            { "choice_text": "لأن سوء تمثيله للحق يظهر الطرف التافه بمظهر المنتصر", "is_correct": true },
+            { "choice_text": "لأنه لا يحفظ القرآن", "is_correct": false },
+            { "choice_text": "لأنه لا يستخدم التكنولوجيا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'تحقيق النقد الباطني' كأحد عناصر علم الحديث؟",
+        "difficulty_score": 850,
+        "explanation": "هو جزء من منهجية علم الحديث للتأكد من موثوقية النقل وعدم وجود علل خفية في المتن أو الإسناد [4].",
+        "choices": [
+            { "choice_text": "نقد الرواة من حيث الشكل", "is_correct": false },
+            { "choice_text": "فحص المتون بمعايير دقيقة للتأكد من سلامتها من الشذوذ والعلل", "is_correct": true },
+            { "choice_text": "رفض الأحاديث التي لا تعجب الناس", "is_correct": false },
+            { "choice_text": "كتابة الأحاديث بخط جميل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة من بوابات التشكيك الست تتعلق بـ 'الأحاديث المستنكرة'؟",
+        "difficulty_score": 300,
+        "explanation": "البوابة السادسة والأخيرة في الخارطة هي 'بوابة الأحاديث المستنكرة' [5].",
+        "choices": [
+            { "choice_text": "البوابة الخامسة", "is_correct": false },
+            { "choice_text": "البوابة السادسة", "is_correct": true },
+            { "choice_text": "البوابة الأولى", "is_correct": false },
+            { "choice_text": "البوابة الثالثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة المنطقية لثبوت 'صدق النبوة' بالبراهين القطعية؟",
+        "difficulty_score": 550,
+        "explanation": "بناءً على قاعدة أن النقيضين لا يجتمعان، فإن ثبوت النبوة يقتضي صدق كل ما جاء به النبي ﷺ وما يثبت عنه بالوحي [30، 31].",
+        "choices": [
+            { "choice_text": "إمكانية كذب النبي في بعض الأمور", "is_correct": false },
+            { "choice_text": "استحالة اجتماع وصف النبوة الصادقة مع بطلان ما جاء به الوحي", "is_correct": true },
+            { "choice_text": "أن البراهين لا تفيد اليقين", "is_correct": false },
+            { "choice_text": "ضرورة عرض السنة على العلم التجريبي أولاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يفقد الإنسان بإغلاق باب السنة النبوية كمصدر للهداية؟",
+        "difficulty_score": 200,
+        "explanation": "أوضحت المادة أن من يعطل السنة يخسر أبواباً عظيمة من الخير والبركة والثمرات السلوكية والتربوية [6].",
+        "choices": [
+            { "choice_text": "يفقد المعلومات التاريخية فقط", "is_correct": false },
+            { "choice_text": "يفقد خيراً وبركة وثمرات استثنائية في السلوك والمنهج", "is_correct": true },
+            { "choice_text": "لا يفقد شيئاً طالما معه القرآن", "is_correct": false },
+            { "choice_text": "يفقد لغته العربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية استشهد بها المحاضر لبيان 'التكفل الإلهي بالبيان'؟",
+        "difficulty_score": 750,
+        "explanation": "أشارت المصادر إلى أن الله وعد ببيان القرآن في آيات دالة على ذلك، مما يستلزم وجود السنة كبيان محفوظ [51، 52].",
+        "choices": [
+            { "choice_text": "آية لقمان", "is_correct": false },
+            { "choice_text": "آيات التكفل بالبيان (في سورة القيامة وغيرها ضمناً)", "is_correct": true },
+            { "choice_text": "آية المداينة", "is_correct": false },
+            { "choice_text": "آية الربا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السؤال الذي يطرحه المدافع 'ليثبت إفلاس المنكر' في نشأة الكون؟",
+        "difficulty_score": 900,
+        "explanation": "هو توجيه سؤال حول 'كيف نشأ هذا الكون على هذا النظام الدقيق جداً؟' لإلزام الطرف الآخر بتقديم بديل منطقي [40، 41].",
+        "choices": [
+            { "choice_text": "من أنت؟", "is_correct": false },
+            { "choice_text": "كيف نشأ هذا الكون بهذا النظام الدقيق؟", "is_correct": true },
+            { "choice_text": "لماذا تنكر السنة؟", "is_correct": false },
+            { "choice_text": "أين ولدت؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحزمة الثالثة ضمن 'مرتكزات حجية السنة'؟",
+        "difficulty_score": 250,
+        "explanation": "المرتكزات الثلاثة هي: القرآن الكريم، التواتر، والإجماع [7].",
+        "choices": [
+            { "choice_text": "القرآن", "is_correct": false },
+            { "choice_text": "التواتر", "is_correct": false },
+            { "choice_text": "الإجماع", "is_correct": true },
+            { "choice_text": "القياس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يمثله 'الكمال الأخلاقي' للنبي ﷺ في سياق الاستدلال؟",
+        "difficulty_score": 650,
+        "explanation": "يعتبر الكمال الأخلاقي حزمة مستقلة وقوية تثبت صدق المخبر نبوياً [8].",
+        "choices": [
+            { "choice_text": "مجرد صفات شخصية لا أثر لها في الحجية", "is_correct": false },
+            { "choice_text": "حزمة برهانية تدل على صدق دعوى النبوة", "is_correct": true },
+            { "choice_text": "قصص للقدوة فقط", "is_correct": false },
+            { "choice_text": "دليل ضعيف يحتاج لتقوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حذر المحاضر من 'المكابرة' في النقاش عند الجهل بجواب إشكال جزئي؟",
+        "difficulty_score": 500,
+        "explanation": "لأن المكابرة تسيء للمدافع، والأفضل هو الانتقال لليقين الكلي المعتمد على حزم الأدلة الأخرى [9].",
+        "choices": [
+            { "choice_text": "لأنها حرام شرعاً فقط", "is_correct": false },
+            { "choice_text": "لأنها تضعف موقف المدافع وتظهر عجزه المنهجي عن استحضار التكامل", "is_correct": true },
+            { "choice_text": "لأنها تنهي النقاش", "is_correct": false },
+            { "choice_text": "لأن الطرف الآخر سيغضب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'البوابة الثالثة' التي يلج منها المشككون في السنة؟",
+        "difficulty_score": 400,
+        "explanation": "البوابة الثالثة هي 'بوابة التدوين للسنة' والمزاعم حول تأخر كتابتها [12، 55].",
+        "choices": [
+            { "choice_text": "بوابة العقل", "is_correct": false },
+            { "choice_text": "بوابة التدوين للسنة", "is_correct": true },
+            { "choice_text": "بوابة العلم التجريبي", "is_correct": false },
+            { "choice_text": "بوابة الاستغناء بالقرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الاستطراد المنهجي' الذي قدمه المحاضر في البداية؟",
+        "difficulty_score": 550,
+        "explanation": "هدف إلى تعليم المتلقين كيفية استخلاص 'المظلات المنهجية' لتفعيل المعلومات في مواجهة المستجدات [13، 14].",
+        "choices": [
+            { "choice_text": "إضاعة الوقت", "is_correct": false },
+            { "choice_text": "بناء ملكة الاستنباط والقياس والتعامل مع النوازل", "is_correct": true },
+            { "choice_text": "زيادة عدد صفحات الكتاب", "is_correct": false },
+            { "choice_text": "مدح القراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي حزمة تتعلق بـ 'الإخبار بإنزال الحكمة' في القرآن؟",
+        "difficulty_score": 450,
+        "explanation": "هي الحزمة الفرعية الأولى ضمن حزمة 'الدلالة على عدم انحصار الوحي في القرآن' [10].",
+        "choices": [
+            { "choice_text": "الحزمة الرابعة", "is_correct": false },
+            { "choice_text": "الحزمة الفرعية الأولى (الإخبار بإنزال الحكمة)", "is_correct": true },
+            { "choice_text": "حزمة المعجزات", "is_correct": false },
+            { "choice_text": "حزمة الإجماع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'حزم الأدلة' في سياق 'تثبيت موثوقية السنة'؟",
+        "difficulty_score": 600,
+        "explanation": "تعني أن الموثوقية لا تعتمد على واقعة واحدة، بل على تكامل: حفظ الدين، التوثيق المبكر، ومنهج علم الحديث [3].",
+        "choices": [
+            { "choice_text": "أن الأدلة قليلة جداً", "is_correct": false },
+            { "choice_text": "تضافر مسارات برهانية متعددة تثبت صدق وصحة وصول السنة إلينا اليوم", "is_correct": true },
+            { "choice_text": "أن الأدلة تحتاج لربطها بحبل", "is_correct": false },
+            { "choice_text": "أن السنة غير محققة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العنصر العاشر والأخير في خارطة المادة؟",
+        "difficulty_score": 200,
+        "explanation": "العنصر العاشر هو 'مراجع للاستزادة' لتوجيه الطالب نحو مصادر أعمق [5].",
+        "choices": [
+            { "choice_text": "الخاتمة", "is_correct": false },
+            { "choice_text": "مراجع للاستزادة", "is_correct": true },
+            { "choice_text": "الامتحان النهائي", "is_correct": false },
+            { "choice_text": "قصص الصحابة", "is_correct": false }
+        ]
+    }]
+
+    }

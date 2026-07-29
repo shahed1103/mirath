@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 61,
+    "questions": [
+        {
+        "question_text": "ما هو الباعث الداخلي الرئيسي لليهود في تحريض القبائل على غزوة الأحزاب؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر صراحة أن المحرك الداخلي والدافع الأساسي لهم هو الحسد كما بين الله في كتابه [6].",
+        "choices": [
+            { "choice_text": "الرغبة في التجارة", "is_correct": false },
+            { "choice_text": "الحسد", "is_correct": true },
+            { "choice_text": "الدفاع عن النفس", "is_correct": false },
+            { "choice_text": "التوسع الجغرافي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من القبائل التالية كانت من أكبر القبائل التي شاركت في غزو المدينة في تلك المعركة؟",
+        "difficulty_score": 300,
+        "explanation": "أشار النص إلى أن غطفان كانت من أكبر القبائل المشاركة إلى جانب قريش [2].",
+        "choices": [
+            { "choice_text": "بنو ثقيف", "is_correct": false },
+            { "choice_text": "هوازن", "is_correct": false },
+            { "choice_text": "غطفان", "is_correct": true },
+            { "choice_text": "خزاعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي قالها النبي ﷺ في نهاية الحدث وتدل على تحول استراتيجي؟",
+        "difficulty_score": 400,
+        "explanation": "قال النبي ﷺ: 'الآن نغزوهم ولا يغزوننا'، مما أذن بتحول المسلمين من الدفاع إلى الهجوم [19].",
+        "choices": [
+            { "choice_text": "النصر صبر ساعة", "is_correct": false },
+            { "choice_text": "الآن نغزوهم ولا يغزوننا", "is_correct": true },
+            { "choice_text": "اليوم يوم الملحمة", "is_correct": false },
+            { "choice_text": "لا يُهزم جيش فيه أنا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر الطبيعة الجغرافية للمدينة التي ساعدت في حمايتها عدا منطقة الخندق؟",
+        "difficulty_score": 500,
+        "explanation": "المدينة كانت محمية بالحرار (الحجر البركاني) والمزارع والنخيل المكثف الذي يصعب اختراقه [3].",
+        "choices": [
+            { "choice_text": "الجبال الشاهقة من كل جانب", "is_correct": false },
+            { "choice_text": "الأنهار والعيون", "is_correct": false },
+            { "choice_text": "الحرار والنخيل المكثف", "is_correct": true },
+            { "choice_text": "الأسوار الحجرية العالية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذُكر في المصدر أن بيته كان قريباً من الخندق ووقع فيه معجزة الطعام؟",
+        "difficulty_score": 300,
+        "explanation": "الصحابي هو جابر بن عبد الله رضي الله عنه [8].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "جابر بن عبد الله", "is_correct": true },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "سلمان الفارسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كانت مدة جوع النبي ﷺ وأصحابه أثناء حفر الخندق كما ورد في القصة؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر جابر بن عبد الله أنه رأى النبي ﷺ وقد عصب على بطنه بحجر ولم يطعم شيئاً لثلاثة أيام [27].",
+        "choices": [
+            { "choice_text": "يوم واحد", "is_correct": false },
+            { "choice_text": "يومان", "is_correct": false },
+            { "choice_text": "ثلاثة أيام", "is_correct": true },
+            { "choice_text": "أسبوع كامل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ عندما اعترضت الصحابة صخرة (كدية) عجزوا عن كسرها؟",
+        "difficulty_score": 450,
+        "explanation": "قام النبي ﷺ وضربها ففتتها، وخلال ذلك بشره الله ببشارات بكنوز كسرى وقيصر [28].",
+        "choices": [
+            { "choice_text": "أمر بتركها وحفر طريق آخر", "is_correct": false },
+            { "choice_text": "ضربها ففتتها وبشرهم بالفتوحات", "is_correct": true },
+            { "choice_text": "دعا الله فنزلت صاعقة فجرتها", "is_correct": false },
+            { "choice_text": "أمر بصب الماء والخل عليها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الذين قالوا: 'ما وعدنا الله ورسوله إلا غرورا'؟",
+        "difficulty_score": 250,
+        "explanation": "هذا قول المنافقين الذين قاسوا الوضع بناءً على المحسوس وعالم المادة فقط [15]، [11].",
+        "choices": [
+            { "choice_text": "اليهود", "is_correct": false },
+            { "choice_text": "المشركون", "is_correct": false },
+            { "choice_text": "المنافقون", "is_correct": true },
+            { "choice_text": "ضعفاء الإيمان من الأعراب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة العسكرية التي حققها الخندق للمسلمين عند قدوم المشركين؟",
+        "difficulty_score": 550,
+        "explanation": "كان الخندق وسيلة لفت العضد وعنصر مفاجأة لم يعهده العرب، مما كسر حماستهم [22]، [16].",
+        "choices": [
+            { "choice_text": "إبادة جيش المشركين بالكامل", "is_correct": false },
+            { "choice_text": "المفاجأة وكسر عزيمة العدو", "is_correct": true },
+            { "choice_text": "السماح للمسلمين بالهجوم المرتد فورا", "is_correct": false },
+            { "choice_text": "كان مجرد زينة للمدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو سيد الأوس الذي أصيب بسهم في الأكحل أثناء المرابطة عند الخندق؟",
+        "difficulty_score": 500,
+        "explanation": "أصيب سعد بن معاذ رضي الله عنه بسهم في ذلك المكان [29].",
+        "choices": [
+            { "choice_text": "أسيد بن حضير", "is_correct": false },
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "سعد بن معاذ", "is_correct": true },
+            { "choice_text": "عبادة بن الصامت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد للمصلحين من حفر النبي ﷺ بنفسه مع الصحابة؟",
+        "difficulty_score": 600,
+        "explanation": "الدرس هو ضرورة مطابقة القول للعمل وأن يكون القائد في المقدمة لا على كرسي التنظير [9]، [30].",
+        "choices": [
+            { "choice_text": "توفير الأيدي العاملة", "is_correct": false },
+            { "choice_text": "إظهار القوة الجسدية فقط", "is_correct": false },
+            { "choice_text": "مطابقة القول للعمل والقدوة", "is_correct": true },
+            { "choice_text": "تقليل النفقات المالية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كانت تحتمي المدينة من جهاتها التي لم يُحفر فيها الخندق؟",
+        "difficulty_score": 400,
+        "explanation": "كانت محمية بالحرار الطبيعية والمزارع الكثيفة التي تمنع مرور الجيوش الكبيرة [3].",
+        "choices": [
+            { "choice_text": "بني قريظة كانوا يحمونها", "is_correct": false },
+            { "choice_text": "الحرار والنخيل والمزارع", "is_correct": true },
+            { "choice_text": "بخنادق طبيعية عميقة", "is_correct": false },
+            { "choice_text": "بجيش من الملائكة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أرسله النبي ﷺ ليتأكد من خبر نقض بني قريظة للعهد؟",
+        "difficulty_score": 700,
+        "explanation": "أرسل النبي ﷺ الزبير بن العوام ليتطقس الأخبار ويأتيه باليقين [31].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": true },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي تصف حال المؤمنين عند رؤية الأحزاب؟",
+        "difficulty_score": 350,
+        "explanation": "قال تعالى: {قَالُوا هَذَا مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ وَصَدَقَ اللَّهُ وَرَسُولُهُ} [23].",
+        "choices": [
+            { "choice_text": "{إِنَّ بُيُوتَنَا عَوْرَةٌ}", "is_correct": false },
+            { "choice_text": "{قَالُوا هَذَا مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ}", "is_correct": true },
+            { "choice_text": "{لا مُقَامَ لَكُمْ فَارْجِعُوا}", "is_correct": false },
+            { "choice_text": "{يُرِيدُونَ إِلَّا فِرَارًا}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الصعوبات لم تكن موجودة أثناء حفر الخندق؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر الجوع والبرد القارس والتعب الشديد، ولم يذكر وجود أوبئة [8]، [27].",
+        "choices": [
+            { "choice_text": "الجوع الشديد", "is_correct": false },
+            { "choice_text": "البرد القارس", "is_correct": false },
+            { "choice_text": "التعب والنصب", "is_correct": false },
+            { "choice_text": "انتشار الأوبئة", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما هو الجبل الذي كان المسلمون يضعونه في ظهرهم كحماية؟",
+        "difficulty_score": 200,
+        "explanation": "جبل سلع هو الذي كان في ظهر النبي ﷺ وأصحابه وقت الخندق [3].",
+        "choices": [
+            { "choice_text": "جبل أحد", "is_correct": false },
+            { "choice_text": "جبل الرماة", "is_correct": false },
+            { "choice_text": "جبل سلع", "is_correct": true },
+            { "choice_text": "جبل عير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل النبي ﷺ لرفع معنويات الصحابة أثناء العمل الشاق؟",
+        "difficulty_score": 450,
+        "explanation": "كان ينشد الأشعار ويقول: 'اللهم لا عيش إلا عيش الآخرة، فاغفر للأنصار والمهاجرة' [30].",
+        "choices": [
+            { "choice_text": "كان يعدهم بالغنائم المالية الفورية", "is_correct": false },
+            { "choice_text": "كان ينشد ويذكرهم بالآخرة", "is_correct": true },
+            { "choice_text": "كان يأمرهم بالراحة والنوم", "is_correct": false },
+            { "choice_text": "كان يلومهم على التأخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا فشلت خيول المشركين في اختراق الخندق في معظم المناطق؟",
+        "difficulty_score": 500,
+        "explanation": "بسبب عرضه الواسع الذي لا تستطيع الخيل القفز فوقه بسهولة [14].",
+        "choices": [
+            { "choice_text": "بسبب وجود مياه عميقة فيه", "is_correct": false },
+            { "choice_text": "بسبب عرضه الواسع", "is_correct": true },
+            { "choice_text": "بسبب وجود رماة من خلفه فقط", "is_correct": false },
+            { "choice_text": "لأن الخيول كانت خائفة من الظلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت أن بني النضير جلاهم الله بسببه؟",
+        "difficulty_score": 600,
+        "explanation": "أنزل الله في بني النضير سورة الحشر [1].",
+        "choices": [
+            { "choice_text": "سورة الأحزاب", "is_correct": false },
+            { "choice_text": "سورة الحشر", "is_correct": true },
+            { "choice_text": "سورة الأنفال", "is_correct": false },
+            { "choice_text": "سورة آل عمران", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد جيش الأحزاب كما يُفهم من سياق النص وصعوبة الاختراق؟",
+        "difficulty_score": 500,
+        "explanation": "وصف النص الجيش بأنه جيش من عشرة آلاف أو خمسة آلاف وهو عدد ضخم يصعب اختراقه للنخيل [7].",
+        "choices": [
+            { "choice_text": "ألف مقاتل", "is_correct": false },
+            { "choice_text": "ثلاثة آلاف مقاتل", "is_correct": false },
+            { "choice_text": "من خمسة إلى عشرة آلاف مقاتل", "is_correct": true },
+            { "choice_text": "عشرون ألف مقاتل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'عالم الشهادة' الذي كان المنافقون يحكمون من خلاله؟",
+        "difficulty_score": 750,
+        "explanation": "هو عالم المادة والمحسوس الذي لا يرى إلا المعطيات الظاهرة والواقع المرير [15].",
+        "choices": [
+            { "choice_text": "عالم الغيب واليقين", "is_correct": false },
+            { "choice_text": "عالم المادة والمحسوس", "is_correct": true },
+            { "choice_text": "عالم الرؤى والأحلام", "is_correct": false },
+            { "choice_text": "عالم الكتب القديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل الفقهاء على توقيت غزوة نجد بالنسبة للأحزاب؟",
+        "difficulty_score": 850,
+        "explanation": "استدلوا بأن صلاة الخوف شرعت في نجد، ولو كانت قبل الأحزاب لصلوها في الخندق بدلاً من تأخيرها [17].",
+        "choices": [
+            { "choice_text": "بسبب نوع الأسلحة المستخدمة", "is_correct": false },
+            { "choice_text": "بسبب تشريع صلاة الخوف", "is_correct": true },
+            { "choice_text": "بسبب عدد المقاتلين", "is_correct": false },
+            { "choice_text": "بسبب أسماء القادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي سمح فيها بعض الفقهاء بتأخير الصلاة عن وقتها استناداً ليوم الأحزاب؟",
+        "difficulty_score": 900,
+        "explanation": "عند الالتحام الشديد والذهول التام الذي يمنع الإنسان حتى من الصلاة على حاله [18].",
+        "choices": [
+            { "choice_text": "عند السفر الطويل فقط", "is_correct": false },
+            { "choice_text": "عند المرض الشديد", "is_correct": false },
+            { "choice_text": "عند الالتحام الشديد والذهول عن الصلاة", "is_correct": true },
+            { "choice_text": "لا يجوز التأخير أبداً تحت أي ظرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو جندي الله الذي أرسله لينهي المعركة مادياً؟",
+        "difficulty_score": 300,
+        "explanation": "نصر الله المؤمنين بجند من جنوده وهو الريح [12].",
+        "choices": [
+            { "choice_text": "المطر الغزير", "is_correct": false },
+            { "choice_text": "الزلزال", "is_correct": false },
+            { "choice_text": "الريح", "is_correct": true },
+            { "choice_text": "الطيور الأبابيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يقتل حذيفة بن اليمان أبا سفيان عندما سنحت له الفرصة؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه التزم بأمر النبي صلى الله عليه وسلم: 'لا تذعرهم علي' [26].",
+        "choices": [
+            { "choice_text": "لأنه لم يكن معه سلاح", "is_correct": false },
+            { "choice_text": "لأن أبا سفيان كان نائماً", "is_correct": false },
+            { "choice_text": "التزاماً بأمر النبي بعدم إثارتهم", "is_correct": true },
+            { "choice_text": "لأنه أشفق عليه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت 'الكماشة' التي خشي منها المسلمون؟",
+        "difficulty_score": 650,
+        "explanation": "أن يهاجم المشركون من الأمام (الخندق) وبنو قريظة من الخلف داخل المدينة [31].",
+        "choices": [
+            { "choice_text": "نوع من الأسلحة الفارسية", "is_correct": false },
+            { "choice_text": "هجوم متزامن من الأمام والخلف", "is_correct": true },
+            { "choice_text": "حصار اقتصادي طويل المدى", "is_correct": false },
+            { "choice_text": "خديعة في المفاوضات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف النبي ﷺ حال حذيفة بن اليمان وهو يسير في تلك الليلة الباردة؟",
+        "difficulty_score": 600,
+        "explanation": "قال حذيفة: 'فوالله حين قمت أمشي من عنده كأنما كنت أمشي في حمام' (من الدفء) [5].",
+        "choices": [
+            { "choice_text": "كأنه يمشي فوق الثلج", "is_correct": false },
+            { "choice_text": "كأنما يمشي في حمام (مكان دافئ)", "is_correct": true },
+            { "choice_text": "كأنه يطير في الهواء", "is_correct": false },
+            { "choice_text": "كأنه يمشي في طين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصفة التي كان النبي ﷺ يربّي عليها أصحابه ليكونوا أهلاً للنصر؟",
+        "difficulty_score": 550,
+        "explanation": "كان يربيهم على الحذر والوعي والفطنة وعدم الغفلة [32].",
+        "choices": [
+            { "choice_text": "الغفلة والطيبة الزائدة", "is_correct": false },
+            { "choice_text": "الحذر والوعي والفطنة", "is_correct": true },
+            { "choice_text": "الاعتماد على المعجزات فقط", "is_correct": false },
+            { "choice_text": "التسرع في اتخاذ القرار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'التورية' في هدي النبي ﷺ العسكري؟",
+        "difficulty_score": 800,
+        "explanation": "إيهام العدو بأنه يتوجه لمكان آخر غير الذي يقصده بالفعل للتمويه [32].",
+        "choices": [
+            { "choice_text": "قول الحقيقة للعدو دائماً", "is_correct": false },
+            { "choice_text": "التمويه وتغطية وجهة الغزو", "is_correct": true },
+            { "choice_text": "التراجع عن القتال", "is_correct": false },
+            { "choice_text": "استخدام النار في الحرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي كان يشغل عمر بن الخطاب ويجعله يسب المشركين؟",
+        "difficulty_score": 400,
+        "explanation": "لم يكن يشغله الجوع أو البرد، بل تأخير صلاة العصر حتى كادت الشمس تغرب [33]، [4].",
+        "choices": [
+            { "choice_text": "الجوع الشديد", "is_correct": false },
+            { "choice_text": "فقدان خيمته في الريح", "is_correct": false },
+            { "choice_text": "تأخير الصلاة عن وقتها", "is_correct": true },
+            { "choice_text": "إصابة سعد بن معاذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من القبائل التالية ذكر المصدر أنها شاركت من 'بني أسد'؟",
+        "difficulty_score": 450,
+        "explanation": "ذكر النص مشاركة بني أسد وبني سليم وغطفان [2].",
+        "choices": [
+            { "choice_text": "بنو قينقاع", "is_correct": false },
+            { "choice_text": "بنو أسد", "is_correct": true },
+            { "choice_text": "بنو المصطلق", "is_correct": false },
+            { "choice_text": "بنو تميم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان النبي ﷺ يغرف الطعام في بيت جابر ليحقق المعجزة؟",
+        "difficulty_score": 600,
+        "explanation": "كان يغرف ويغطي القدر مباشرة ولا يتركه مفتوحاً، فبارك الله فيه [34].",
+        "choices": [
+            { "choice_text": "كان يغرفه أمام الجميع", "is_correct": false },
+            { "choice_text": "كان يغرف ويغطي القدر فوراً", "is_correct": true },
+            { "choice_text": "كان يوزعه وهو بارد", "is_correct": false },
+            { "choice_text": "كان يأمر جابراً بالغرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التساؤل الذي طرحه المنافقون بخصوص بيوتهم؟",
+        "difficulty_score": 300,
+        "explanation": "قالوا: {إِنَّ بُيُوتَنَا عَوْرَةٌ}، أي مكشوفة وغير محمية [11].",
+        "choices": [
+            { "choice_text": "بيوتنا بعيدة جداً", "is_correct": false },
+            { "choice_text": "بيوتنا عورة (مكشوفة)", "is_correct": true },
+            { "choice_text": "بيوتنا تهدمت من الريح", "is_correct": false },
+            { "choice_text": "بيوتنا فيها ضيوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الله تعالى في وصف جبن المنافقين وحال أعينهم عند الخوف؟",
+        "difficulty_score": 700,
+        "explanation": "قال تعالى: {رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَى عَلَيْهِ مِنَ الْمَوْتِ} [35].",
+        "choices": [
+            { "choice_text": "أعينهم تدمع خشية", "is_correct": false },
+            { "choice_text": "تدور أعينهم كالمغشى عليه من الموت", "is_correct": true },
+            { "choice_text": "ينظرون إليك بشجاعة", "is_correct": false },
+            { "choice_text": "أعينهم نائمة من التعب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يستطع المسلمون أداء صلاة الخوف في يوم الأحزاب الشديد؟",
+        "difficulty_score": 800,
+        "explanation": "لأن صلاة الخوف لم تكن قد شُرعت بعد، وكان لا بد من الصلاة المعتادة التي تعذر أداؤها في القتال [17].",
+        "choices": [
+            { "choice_text": "لأنهم نسوا الصلاة", "is_correct": false },
+            { "choice_text": "لأن صلاة الخوف لم تُشرع بعد", "is_correct": true },
+            { "choice_text": "لأنهم لم يجدوا ماءً للوضوء", "is_correct": false },
+            { "choice_text": "بسبب شدة الرياح فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو قائد المشركين الذي غادر أولاً عند هبوب الريح؟",
+        "difficulty_score": 400,
+        "explanation": "غادر أبو سفيان قائد الجيش وتبعه من معه [13].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو سفيان", "is_correct": true },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي بشّر بها النبي ﷺ عدي بن حاتم لاحقاً وأكدت نبوءة الخندق؟",
+        "difficulty_score": 750,
+        "explanation": "بشره بكنوز كسرى بن هرمز، وسأله عدي مستنكراً: 'كسرى بن هرمز؟' [36].",
+        "choices": [
+            { "choice_text": "فتح مكة", "is_correct": false },
+            { "choice_text": "كنوز كسرى بن هرمز", "is_correct": true },
+            { "choice_text": "فتح بلاد الشام", "is_correct": false },
+            { "choice_text": "هزيمة الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي زمن تحقق وعد النبي ﷺ بفتح كنوز كسرى؟",
+        "difficulty_score": 500,
+        "explanation": "تحقق الوعد في زمن عمر بن الخطاب رضي الله عنه [15].",
+        "choices": [
+            { "choice_text": "في حياة النبي ﷺ", "is_correct": false },
+            { "choice_text": "في زمن أبي بكر الصديق", "is_correct": false },
+            { "choice_text": "في زمن عمر بن الخطاب", "is_correct": true },
+            { "choice_text": "في زمن عثمان بن عفان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان حال المؤمنين عند 'الزلزال الشديد' الذي ذكره القرآن؟",
+        "difficulty_score": 550,
+        "explanation": "كانوا يزدادون إيماناً وتسليماً رغم شدة البلاء والمصيبة [23].",
+        "choices": [
+            { "choice_text": "فقدوا إيمانهم تماماً", "is_correct": false },
+            { "choice_text": "ازدادوا إيماناً وتسليماً", "is_correct": true },
+            { "choice_text": "هربوا من المدينة", "is_correct": false },
+            { "choice_text": "ظنوا بالله الظنون السيئة كالمنافقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'عورة' في سياق قول المنافقين {إِنَّ بُيُوتَنَا عَوْرَةٌ}؟",
+        "difficulty_score": 600,
+        "explanation": "تعني أنها مكشوفة للعدو ولا يوجد من يحميها من الداخل [37].",
+        "choices": [
+            { "choice_text": "أنها صغيرة جداً", "is_correct": false },
+            { "choice_text": "أنها مكشوفة وغير محمية", "is_correct": true },
+            { "choice_text": "أنها بعيدة عن الماء", "is_correct": false },
+            { "choice_text": "أنها مظلمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت أحداث غزوة أحد؟",
+        "difficulty_score": 400,
+        "explanation": "نزلت سورة آل عمران للتعقيب على أحداث أحد [1].",
+        "choices": [
+            { "choice_text": "سورة الأنفال", "is_correct": false },
+            { "choice_text": "سورة الحشر", "is_correct": false },
+            { "choice_text": "سورة آل عمران", "is_correct": true },
+            { "choice_text": "سورة الأحزاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان مكان معسكر المشركين في بداية وصولهم للأحزاب؟",
+        "difficulty_score": 500,
+        "explanation": "كان قريباً من المكان الذي عسكروا فيه يوم أحد، في الشمال الغربي من المدينة [7].",
+        "choices": [
+            { "choice_text": "في جنوب المدينة", "is_correct": false },
+            { "choice_text": "في الشمال الغربي", "is_correct": true },
+            { "choice_text": "في قلب المسجد النبوي", "is_correct": false },
+            { "choice_text": "خلف جبل سلع مباشرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ لحذيفة بن اليمان قبل ذهابه لمهمته؟",
+        "difficulty_score": 650,
+        "explanation": "قال له: 'واذهب فيهم ولا تذعرهم علي'، أي لا تثرهم أو تفعل ما ينبههم لوجودك [26].",
+        "choices": [
+            { "choice_text": "اقتل أبا سفيان", "is_correct": false },
+            { "choice_text": "لا تذعرهم علي", "is_correct": true },
+            { "choice_text": "أحرق خيامهم", "is_correct": false },
+            { "choice_text": "خذ منهم غنائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'صلاة الوسطى' التي ذكر النبي ﷺ أن المشركين شغلوهم عنها؟",
+        "difficulty_score": 300,
+        "explanation": "صلاة الوسطى هي صلاة العصر كما ورد في الأحاديث الصحيحة [4].",
+        "choices": [
+            { "choice_text": "صلاة الفجر", "is_correct": false },
+            { "choice_text": "صلاة الظهر", "is_correct": false },
+            { "choice_text": "صلاة العصر", "is_correct": true },
+            { "choice_text": "صلاة العشاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان يشعر حذيفة بن اليمان وهو عائد من مهمته بعد أن أخبر النبي ﷺ بالخبر؟",
+        "difficulty_score": 700,
+        "explanation": "بمجرد أن انتهى وأخبر النبي عاد إليه البرد والقُر (البرد الشديد) [13].",
+        "choices": [
+            { "choice_text": "بالدفء المستمر", "is_correct": false },
+            { "choice_text": "بالبرد الشديد فور انتهاء المهمة", "is_correct": true },
+            { "choice_text": "بالنعاس", "is_correct": false },
+            { "choice_text": "بالجوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفئة التي وصفها الله بأنهم {يُبَيِّتُونَ مَا لا يَرْضَى مِنَ الْقَوْلِ}؟ (بالقياس على سياق النفاق)",
+        "difficulty_score": 800,
+        "explanation": "المنافقون هم الذين يظهرون غير ما يبطنون ويحرضون على التخذيل والانسحاب [11].",
+        "choices": [
+            { "choice_text": "المهاجرون", "is_correct": false },
+            { "choice_text": "الأنصار", "is_correct": false },
+            { "choice_text": "المنافقون", "is_correct": true },
+            { "choice_text": "اليهود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أهمية جبل سلع في المعركة استناداً للنص؟",
+        "difficulty_score": 450,
+        "explanation": "كان يحمي ظهر المسلمين ويطل على منطقة الخندق [3].",
+        "choices": [
+            { "choice_text": "كان عليه الرماة المشركون", "is_correct": false },
+            { "choice_text": "كان يحمي ظهر المسلمين", "is_correct": true },
+            { "choice_text": "كان فيه بئر ماء وحيد", "is_correct": false },
+            { "choice_text": "لم يكن له أي أهمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو رد فعل النبي ﷺ عندما رأى جابر بن عبد الله جائعاً؟",
+        "difficulty_score": 500,
+        "explanation": "النبي هو من كان جائعاً وعصب بطنه، فدعا جابر النبي لبيته ليطعمه [27].",
+        "choices": [
+            { "choice_text": "طلب من جابر المال", "is_correct": false },
+            { "choice_text": "ذهب لبيته بصمت", "is_correct": false },
+            { "choice_text": "نادى 'يا أهل الخندق هلموا' لمشاركة الطعام", "is_correct": true },
+            { "choice_text": "رفض الطعام بشدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان هدف اليهود من سعي تجميع الأحزاب؟",
+        "difficulty_score": 350,
+        "explanation": "كان هدفهم توجيه 'الضربة القاضية' للمسلمين واستئصالهم [6].",
+        "choices": [
+            { "choice_text": "مجرد التخويف", "is_correct": false },
+            { "choice_text": "توجيه الضربة القاضية", "is_correct": true },
+            { "choice_text": "فتح طريق للقوافل", "is_correct": false },
+            { "choice_text": "نشر دينهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه القبائل لم تُذكر في سياق الأحزاب في المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر ذكر غطفان وسليم وأسد وقريش، ولم يذكر ثقيف [2].",
+        "choices": [
+            { "choice_text": "قريش", "is_correct": false },
+            { "choice_text": "غطفان", "is_correct": false },
+            { "choice_text": "بنو ثقيف", "is_correct": true },
+            { "choice_text": "بنو سليم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى أن النبي ﷺ 'الآن نغزوهم ولا يغزوننا'؟",
+        "difficulty_score": 550,
+        "explanation": "تحول استراتيجية المسلمين من وضع الدفاع والتحصن بالمدينة إلى الهجوم والمبادأة [19].",
+        "choices": [
+            { "choice_text": "اعتزال القتال تماماً", "is_correct": false },
+            { "choice_text": "المبادأة بالهجوم في المستقبل", "is_correct": true },
+            { "choice_text": "بناء خنادق في كل مكان", "is_correct": false },
+            { "choice_text": "الاستسلام للواقع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر برد المدينة في شتاء الخندق؟",
+        "difficulty_score": 300,
+        "explanation": "وصفه بأنه برد قارس وشديد جداً [8].",
+        "choices": [
+            { "choice_text": "برد خفيف", "is_correct": false },
+            { "choice_text": "برد قارس وشديد", "is_correct": true },
+            { "choice_text": "جو معتدل", "is_correct": false },
+            { "choice_text": "حار جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الآخر الذي يُطلق على غزوة الأحزاب؟",
+        "difficulty_score": 100,
+        "explanation": "تُعرف بغزوة الخندق بسبب الخندق الذي حُفر حول المدينة [22].",
+        "choices": [
+            { "choice_text": "غزوة بدر الثانية", "is_correct": false },
+            { "choice_text": "غزوة الخندق", "is_correct": true },
+            { "choice_text": "غزوة الفتح", "is_correct": false },
+            { "choice_text": "غزوة خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الحجر' الذي ربطه النبي ﷺ على بطنه؟",
+        "difficulty_score": 400,
+        "explanation": "كان يربط الحجر ليشد به بطنه من شدة ألم الجوع [27].",
+        "choices": [
+            { "choice_text": "حجر للزينة", "is_correct": false },
+            { "choice_text": "حجر ليخفف ألم الجوع", "is_correct": true },
+            { "choice_text": "حجر للتيمم", "is_correct": false },
+            { "choice_text": "حجر ليستخدمه في القتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة استدل المصدر بفعلهم في حصار 'تُستر' بخصوص الصلاة؟",
+        "difficulty_score": 850,
+        "explanation": "ذكر المصدر أن بعض الصحابة في فتح تستر لم يستطيعوا الصلاة إلا بعد شروق الشمس للذهول والالتحام [18].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أنس بن مالك (أو صحابة تستر)", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الكدية' التي ظهرت للصحابة؟",
+        "difficulty_score": 350,
+        "explanation": "هي صخرة صلبة وعقبة حجريّة عصية على الكسر ظهرت أثناء الحفر [28].",
+        "choices": [
+            { "choice_text": "بئر ماء", "is_correct": false },
+            { "choice_text": "صخرة صلبة", "is_correct": true },
+            { "choice_text": "شجرة ضخمة", "is_correct": false },
+            { "choice_text": "تلة رملية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال جابر بن عبد الله لزوجته عندما رأى حال النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "قال لها: 'رأيت النبي على حال لم أحتمل'، أي من شدة الجوع والتعب [27].",
+        "choices": [
+            { "choice_text": "النبي سعيد جداً", "is_correct": false },
+            { "choice_text": "رأيت النبي على حال لم أحتمل", "is_correct": true },
+            { "choice_text": "النبي يطلب منكم الرحيل", "is_correct": false },
+            { "choice_text": "النبي لا يحتاج طعاماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو نوع الطعام الذي أعده جابر للنبي ﷺ؟",
+        "difficulty_score": 450,
+        "explanation": "كان الطعام عبارة عن صاع من شعير وعناق من صغار الغنم [27].",
+        "choices": [
+            { "choice_text": "تمر وماء فقط", "is_correct": false },
+            { "choice_text": "لحم إبل كثير", "is_correct": false },
+            { "choice_text": "شعير وعناق (صغير الغنم)", "is_correct": true },
+            { "choice_text": "خبز وزيت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي شبه المصدر عودته للسيرة النبوية بعد الحديث عنه؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر العودة للسيرة بعد الانتهاء من سورة يوسف في سلسلة أنوار الأنبياء [38].",
+        "choices": [
+            { "choice_text": "موسى عليه السلام", "is_correct": false },
+            { "choice_text": "يوسف عليه السلام", "is_correct": true },
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "نوح عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت جلاء بني النضير؟",
+        "difficulty_score": 400,
+        "explanation": "أنزل الله في بني النضير سورة الحشر [1].",
+        "choices": [
+            { "choice_text": "سورة الحشر", "is_correct": true },
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة المائدة", "is_correct": false },
+            { "choice_text": "سورة التوبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفكرة التي لم تكن العرب تعهدها قبل الخندق؟",
+        "difficulty_score": 300,
+        "explanation": "حفر الخنادق حول المدن كحاجز دفاعي [22].",
+        "choices": [
+            { "choice_text": "القتال بالسيوف", "is_correct": false },
+            { "choice_text": "حفر الخندق", "is_correct": true },
+            { "choice_text": "المبارزة الفردية", "is_correct": false },
+            { "choice_text": "استخدام الرماة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر المسافة الحالية التي يغطيها مكان الخندق؟",
+        "difficulty_score": 600,
+        "explanation": "وصفها بأنها مساحة كبيرة جداً وطويلة وعرضها واسع [7].",
+        "choices": [
+            { "choice_text": "مسافة قصيرة جداً", "is_correct": false },
+            { "choice_text": "مساحة كبيرة جداً وطويلة", "is_correct": true },
+            { "choice_text": "مساحة مربعة تماماً", "is_correct": false },
+            { "choice_text": "لا يمكن رؤيتها الآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الحرّة' في جغرافية المدينة؟",
+        "difficulty_score": 500,
+        "explanation": "هي منطقة مليئة بالأحجار البركانية السوداء التي يصعب سير الخيول والجيوش عليها [3].",
+        "choices": [
+            { "choice_text": "بساتين النخيل", "is_correct": false },
+            { "choice_text": "الأحجار البركانية", "is_correct": true },
+            { "choice_text": "الآبار الجوفية", "is_correct": false },
+            { "choice_text": "السهول الرملية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'ابن هرمز' الذي ذُكر في بشارة النبي؟",
+        "difficulty_score": 650,
+        "explanation": "هو كسرى ملك الفرس (كسرى بن هرمز) [36].",
+        "choices": [
+            { "choice_text": "ملك الروم", "is_correct": false },
+            { "choice_text": "ملك الفرس", "is_correct": true },
+            { "choice_text": "ملك الحبشة", "is_correct": false },
+            { "choice_text": "ملك اليمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الله تعالى عن إحباط أعمال الكافرين والمنافقين في سياق الآيات؟",
+        "difficulty_score": 750,
+        "explanation": "قال تعالى: {أُولَئِكَ لَمْ يُؤْمِنُوا فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ} [35].",
+        "choices": [
+            { "choice_text": "أثابهم الله", "is_correct": false },
+            { "choice_text": "أحبط الله أعمالهم", "is_correct": true },
+            { "choice_text": "زادهم قوة", "is_correct": false },
+            { "choice_text": "تقبل منهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي أعطاها الله للنبي ﷺ بجانب قوة العلم؟",
+        "difficulty_score": 400,
+        "explanation": "أعطاه الله قوة في الجسم مكنته من تفتيت الصخرة [28].",
+        "choices": [
+            { "choice_text": "الثراء الفاحش", "is_correct": false },
+            { "choice_text": "قوة الجسم", "is_correct": true },
+            { "choice_text": "إتقان لغات العالم", "is_correct": false },
+            { "choice_text": "الطيران", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل حذيفة بن اليمان عندما طلب منه النبي القيام في البرد؟",
+        "difficulty_score": 450,
+        "explanation": "قال: 'فلم يكن لي بد من أن أقوم إذ سماني'، أي استجاب فوراً لطاعة النبي [5].",
+        "choices": [
+            { "choice_text": "رفض بشدة", "is_correct": false },
+            { "choice_text": "طلب تأجيل المهمة للصباح", "is_correct": false },
+            { "choice_text": "قام واستجاب فوراً", "is_correct": true },
+            { "choice_text": "اقترح صحابياً آخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأسلوب الذي استخدمه النبي ﷺ في 'استطلاع الأخبار'؟",
+        "difficulty_score": 600,
+        "explanation": "استخدام العيون (الجواسيس) الذين يتتبعون القوافل والأعداء [24].",
+        "choices": [
+            { "choice_text": "الانتظار حتى يأتي العدو", "is_correct": false },
+            { "choice_text": "إرسال الرسل للمفاوضات فقط", "is_correct": false },
+            { "choice_text": "استخدام العيون والترصد الدائم", "is_correct": true },
+            { "choice_text": "الاعتماد على الأحلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي تدل على بلوغ القلوب الحناجر من الخوف؟",
+        "difficulty_score": 350,
+        "explanation": "قال تعالى: {وَإِذْ زَاغَتِ الأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ} [39].",
+        "choices": [
+            { "choice_text": "{فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ}", "is_correct": false },
+            { "choice_text": "{بَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ}", "is_correct": true },
+            { "choice_text": "{وَمَا رَمَيْتَ إِذْ رَمَيْتَ}", "is_correct": false },
+            { "choice_text": "{إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل المشركون بقدورهم ونيرانهم عندما هبت الريح؟",
+        "difficulty_score": 400,
+        "explanation": "أكفأت الريح القدور وأطفأت النيران وقلعت الخيام [12].",
+        "choices": [
+            { "choice_text": "أشعلوها أكثر", "is_correct": false },
+            { "choice_text": "أكفأتها الريح وأطفأتها", "is_correct": true },
+            { "choice_text": "نقلوها إلى داخل الكهوف", "is_correct": false },
+            { "choice_text": "لم تتأثر بالريح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أرسله النبي ﷺ يوم بدر ليتتبع القافلة؟",
+        "difficulty_score": 750,
+        "explanation": "ذكر المصدر أن النبي بعث عيناً (جاسوساً) يوم بدر قبل أن يجمع الناس [24].",
+        "choices": [
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "بسبس بن عمرو (أو العيْن المذكور)", "is_correct": true },
+            { "choice_text": "مصعب بن عمير", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من 'الزلزال الداخلي' الذي أصاب المؤمنين؟",
+        "difficulty_score": 800,
+        "explanation": "أنه يظهر صدق المعادن ويمحص النفوس ويخرج أعمق نقاط الإيمان [12].",
+        "choices": [
+            { "choice_text": "أن الإيمان ينقص دائماً", "is_correct": false },
+            { "choice_text": "تمحيص النفوس وإظهار صدقها", "is_correct": true },
+            { "choice_text": "أن المؤمن لا يخاف أبداً", "is_correct": false },
+            { "choice_text": "أن الخوف حرام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'سنة الابتلاء' التي ذكرها المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "أن الله يقدر الشدائد ليختبر صدق النفوس قبل أن يأتي نصره [12].",
+        "choices": [
+            { "choice_text": "أن النصر يأتي بلا جهد", "is_correct": false },
+            { "choice_text": "اختبار صدق النفوس بالشدائد", "is_correct": true },
+            { "choice_text": "أن الابتلاء للعاصين فقط", "is_correct": false },
+            { "choice_text": "أن الابتلاء ينتهي في يوم واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يستقر أبو سفيان في معسكره وقرر الرحيل؟",
+        "difficulty_score": 450,
+        "explanation": "بسبب شدة الريح والبرد القارس وعدم استقرار الخيام والقدور [13].",
+        "choices": [
+            { "choice_text": "لأنه خسر المعركة عسكرياً", "is_correct": false },
+            { "choice_text": "بسبب الريح والبرد الشديد", "is_correct": true },
+            { "choice_text": "لأنه تلقى أمراً من مكة", "is_correct": false },
+            { "choice_text": "لأنه أسلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه السور نزلت فيها آيات عن 'فتح مكة والحديبية وتبوك'؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أن السيرة فيها ذكر لهذه الأحداث في القرآن [1].",
+        "choices": [
+            { "choice_text": "سورة الفتح", "is_correct": true },
+            { "choice_text": "سورة الإخلاص", "is_correct": false },
+            { "choice_text": "سورة الكافرون", "is_correct": false },
+            { "choice_text": "سورة النصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي تدل على يأس المنافقين من نصر الله؟",
+        "difficulty_score": 350,
+        "explanation": "قولهم: {مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا} [15].",
+        "choices": [
+            { "choice_text": "النصر قريب", "is_correct": false },
+            { "choice_text": "ما وعدنا الله إلا غروراً", "is_correct": true },
+            { "choice_text": "سنقاتل حتى الموت", "is_correct": false },
+            { "choice_text": "البيوت محمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان حذيفة بن اليمان يتدفأ في معسكر المشركين؟",
+        "difficulty_score": 650,
+        "explanation": "رأى أبا سفيان يصلي ظهره بالنار (يتدفأ بها) [26].",
+        "choices": [
+            { "choice_text": "كان يرتدي فراءً غليظاً", "is_correct": false },
+            { "choice_text": "كان يتدفأ بنار المشركين بصمت", "is_correct": true },
+            { "choice_text": "كان يركض بسرعة", "is_correct": false },
+            { "choice_text": "لم يتدفأ أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس الموجه للمصلحين بخصوص 'الغفلة'؟",
+        "difficulty_score": 750,
+        "explanation": "أن المؤمن لا يصلح أن يكون مغفلاً، بل يجب أن يكون فطناً مدركاً لمداخل الأعداء [32].",
+        "choices": [
+            { "choice_text": "أن الطيبة تعني الغفلة", "is_correct": false },
+            { "choice_text": "أن المؤمن يجب أن يكون فطناً غير مغفل", "is_correct": true },
+            { "choice_text": "أن الذكاء ليس مهماً", "is_correct": false },
+            { "choice_text": "أن الغفلة صفة للمؤمنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو هدف النبي ﷺ من 'إيهام العدو' بجهة أخرى؟",
+        "difficulty_score": 600,
+        "explanation": "للحفاظ على السرية العسكرية ومباغتة العدو [32].",
+        "choices": [
+            { "choice_text": "لأنه ضل الطريق", "is_correct": false },
+            { "choice_text": "للحفاظ على السرية والمفاجأة", "is_correct": true },
+            { "choice_text": "للتجارة", "is_correct": false },
+            { "choice_text": "لا يوجد هدف معين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'البارقة' التي ظهرت مع ضربات النبي ﷺ للصخرة؟",
+        "difficulty_score": 500,
+        "explanation": "هي شرارة أو ضوء برز مع كل ضربة، وكان معها وعد بفتح البلاد [28].",
+        "choices": [
+            { "choice_text": "نار أحرقته", "is_correct": false },
+            { "choice_text": "شرارة وضوء صاحبها وعد بالفتح", "is_correct": true },
+            { "choice_text": "صوت رعد", "is_correct": false },
+            { "choice_text": "لا شيء مما سبق", "is_correct": false }
+        ]
+    }
+]
+    }

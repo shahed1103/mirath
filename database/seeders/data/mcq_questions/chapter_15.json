@@ -1,0 +1,884 @@
+{
+    "chapter_id": 15,
+    "questions": [
+    {
+        "question_text": "بماذا وصف المصدر الزمن الحالي الذي نعيش فيه؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر في المقدمة أن زمننا هذا حري بأن يوصف بأنه زمن التحولات والتقلبات الفكرية والانتكاسات.",
+        "choices": [
+            { "choice_text": "زمن الاستقرار واليقين", "is_correct": false },
+            { "choice_text": "زمن التحولات والتقلبات الفكرية والانتكاسات", "is_correct": true },
+            { "choice_text": "زمن القوة المادية المطلقة", "is_correct": false },
+            { "choice_text": "زمن الهدوء النفسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الذي قد يعيق المؤمن عن الشعور بالتحديات في بداية انطلاقه؟",
+        "difficulty_score": 200,
+        "explanation": "تكون قوة الدفع في البداية ناتجة عن 'عزم سابق' وشحن معنوي يقلل من تأثير التحديات.",
+        "choices": [
+            { "choice_text": "غياب التحديات تماماً", "is_correct": false },
+            { "choice_text": "قوة الدفع الناتجة عن عزم الانطلاق السابق", "is_correct": true },
+            { "choice_text": "الخبرة الكبيرة في التعامل مع الواقع", "is_correct": false },
+            { "choice_text": "عدم وجود مؤثرات خارجية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي قد يحدث للمؤمن إذا طال الأمد بينه وبين نقطة الانطلاق؟",
+        "difficulty_score": 300,
+        "explanation": "كثرة الاحتكاك بالمؤثرات الخارجية مع مرور الوقت قد تؤدي للالتفات للخلف والقلق والاستيحاش.",
+        "choices": [
+            { "choice_text": "يزداد يقيناً تلقائياً دون جهد", "is_correct": false },
+            { "choice_text": "تختفي المؤثرات الخارجية تماماً", "is_correct": false },
+            { "choice_text": "قد يلتفت للخلف ويقلق ويستوحش من مكانه العالي", "is_correct": true },
+            { "choice_text": "تتحول كل إنجازاته إلى إنجازات مادية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الدوائر الثلاث التي تمثل صمامات أمان للثبات؟",
+        "difficulty_score": 150,
+        "explanation": "حدد المصدر ثلاث دوائر أساسية هي: العلم، والإيمان، والسوية النفسية.",
+        "choices": [
+            { "choice_text": "العلم، والعمل، والمال", "is_correct": false },
+            { "choice_text": "العلم، والإيمان، والسوية النفسية", "is_correct": true },
+            { "choice_text": "الصحبة، والعائلة، والوظيفة", "is_correct": false },
+            { "choice_text": "القراءة، والحفظ، والتدريس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو الدور الأساسي للعلم في قضية الثبات؟",
+        "difficulty_score": 400,
+        "explanation": "العلم هو وسيلة للبصيرة بحقائق الطريق ومحاسن الشريعة والعبودية.",
+        "choices": [
+            { "choice_text": "جمع أكبر قدر من المعلومات الجافة", "is_correct": false },
+            { "choice_text": "أنه وسيلة يبصر بها العبد حقائق الطريق ومحاسن الشريعة", "is_correct": true },
+            { "choice_text": "أنه غاية في حد ذاته ولا يحتاج لعمل", "is_correct": false },
+            { "choice_text": "أنه بديل عن دائرة الإيمان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى المعنى الذي يدرك به المؤمن الخطر فور تسلله للقلب؟",
+        "difficulty_score": 500,
+        "explanation": "حياة القلب تجعل المؤمن في حالة تنبه دائم، وتدق ناقوس الخطر عند نقص الإيمان.",
+        "choices": [
+            { "choice_text": "المعلومات الشرعية", "is_correct": false },
+            { "choice_text": "حياة القلب (المعنى التصحيحي الذاتي)", "is_correct": true },
+            { "choice_text": "حلاوة الإيمان العارضة", "is_correct": false },
+            { "choice_text": "الخبرة الاجتماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المؤشر الأول والأهم لحياة القلب كما ورد في المصدر؟",
+        "difficulty_score": 250,
+        "explanation": "كثرة ذكر الله سبحانه وتعالى هي السبب والمؤشر الأول لحياة القلب.",
+        "choices": [
+            { "choice_text": "كثرة القراءة في كتب التاريخ", "is_correct": false },
+            { "choice_text": "كثرة ذكر الله سبحانه وتعالى", "is_correct": true },
+            { "choice_text": "تحقيق الإنجازات المادية", "is_correct": false },
+            { "choice_text": "الحديث الطويل عن العلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف عرّف المصدر 'التقوى' التي تعتبر مؤشراً لحياة القلب؟",
+        "explanation": "التقوى المقصودة هي اجتناب المعاصي عندما لا يكون هناك رادع إلا الله (خاصة في الخلوات).",
+        "difficulty_score": 600,
+        "choices": [
+            { "choice_text": "الالتزام بالشعائر أمام الناس فقط", "is_correct": false },
+            { "choice_text": "اجتناب المعاصي حال كون الرادع هو التقوى فقط (في الخلوات)", "is_correct": true },
+            { "choice_text": "حفظ المتون العلمية", "is_correct": false },
+            { "choice_text": "كثرة الخصومة مع الآخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة عدم تفاعل القلب مع المواسم العظيمة كليلة القدر أو يوم عرفة؟",
+        "difficulty_score": 700,
+        "explanation": "عدم وجود وقود ومحرك وهيبة في المواسم العظيمة هو مؤشر سلبي على ضمور المعنى الإيماني.",
+        "choices": [
+            { "choice_text": "أمر طبيعي لا علاقة له بالإيمان", "is_correct": false },
+            { "choice_text": "مؤشر سلبي خطير على ضمور المعنى الإيماني في النفس", "is_correct": true },
+            { "choice_text": "دليل على قوة العلم العقلي", "is_correct": false },
+            { "choice_text": "مؤشر على السوية النفسية العالية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصفة التي اعتبرها ابن حزم بوابة لكل أنواع الصلاح والسوية النفسية؟",
+        "difficulty_score": 450,
+        "explanation": "اعتبر ابن حزم النجدة (الشجاعة) هي بوابة الصلاح لأنها تمنع الجبن الذي يولد الكذب والتقلب.",
+        "choices": [
+            { "choice_text": "البخل", "is_correct": false },
+            { "choice_text": "النجدة والشجاعة", "is_correct": true },
+            { "choice_text": "الطمع", "is_correct": false },
+            { "choice_text": "الهدوء المفرط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب النفسي الذي ذكره المصدر كدافع لترك طريق الاستقامة عند اكتشاف خطأ في 'معلم'؟",
+        "difficulty_score": 550,
+        "explanation": "ذكر المصدر أن التعلق الشديد بالمعلم في سن المراهقة (13-14 عاماً) يجعل الطالب يرى المعلم ككل شيء، فإذا اكتشف عيباً فيه قد يسبب له صدمة تؤدي لترك الطريق [1].",
+        "choices": [
+            { "choice_text": "قلة العلم الشرعي لدى الطالب", "is_correct": false },
+            { "choice_text": "فقدان القدرة التمييزية والصدمة النفسية برمز القدوة", "is_correct": true },
+            { "choice_text": "الرغبة في التفرد والاستقلال", "is_correct": false },
+            { "choice_text": "صعوبة المنهج العلمي المقدم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يربط الابن بين قسوة الأب وبين الدين وفقاً لتحليل المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "يحدث 'ربط خاطئ' عندما يفرض الأب توجيهاته القاسية بصيغة دينية، فيربط الولد بين شدة الأب وبين الدين، مما يولد رغبة في الانفكاك بمجرد الاستقلال [2].",
+        "choices": [
+            { "choice_text": "يعتبر الدين وسيلة للتحرر من الأب", "is_correct": false },
+            { "choice_text": "يرى في الدين ملاذاً من قسوة العائلة", "is_correct": false },
+            { "choice_text": "يربط بين شدة الأب التي يكرهها وبين الصيغة الدينية التي يمثلها", "is_correct": true },
+            { "choice_text": "يزداد تمسكاً بالدين ليثبت صلاح نفسه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'صمام الأمان' الذي ذكره أحد الطلاب بناءً على تجربته الشخصية في الغربة والتفرد؟",
+        "difficulty_score": 300,
+        "explanation": "أكد أحد الطلاب أن الورد القرآني كان هو منبعه ومصدر ثباته الذي أعاده لمكانه بعد حالة من الشتات والضياع [3].",
+        "choices": [
+            { "choice_text": "كثرة القراءة في كتب التراجم", "is_correct": false },
+            { "choice_text": "الورد القرآني المستمر", "is_correct": true },
+            { "choice_text": "التواصل المستمر مع العائلة", "is_correct": false },
+            { "choice_text": "ممارسة الرياضة الصباحية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تدخل 'الصحبة' في دائرتي الإيمان والسوية النفسية معاً؟",
+        "difficulty_score": 500,
+        "explanation": "تدخل في الإيمان لأن الحب في الله يذيق حلاوة الإيمان، وفي السوية النفسية لأنها تحقق معاني نفسية لا تتحقق بالوحدة [4].",
+        "choices": [
+            { "choice_text": "لأنها توفر مصدراً مالياً ثابتاً", "is_correct": false },
+            { "choice_text": "لأنها تحقق حلاوة الإيمان نفسياً وتكسر وحشة الانفراد", "is_correct": true },
+            { "choice_text": "لأنها تغني عن دائرة العلم تماماً", "is_correct": false },
+            { "choice_text": "لأن النبي ﷺ لم يوصِ بها إلا في الإيمان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الوجه' الذي يجعل العلم سبباً للثبات وفقاً لعبد القاهر الجرجاني؟",
+        "difficulty_score": 800,
+        "explanation": "العلم يثبت صاحبه إذا كان يبصره بحقائق الطريق ومحاسن الشريعة والعبودية، وليس بمجرد تراكم المعلومات [5].",
+        "choices": [
+            { "choice_text": "حفظ أكبر عدد من المتون العلمية", "is_correct": false },
+            { "choice_text": "قدرة العلم على التقديم والتأخير في الكلام", "is_correct": false },
+            { "choice_text": "تبصير العبد بحقائق الطريق ومحاسن الشريعة والاحتياج إليها", "is_correct": true },
+            { "choice_text": "استخدام العلم في المناظرات والخصومة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يفقد العلم قدرته على أن يكون سبباً للثبات؟",
+        "difficulty_score": 650,
+        "explanation": "يفقد العلم بركته كصمام أمان إذا غابت الغاية والبوصلة وصارت 'المعلومات' في حد ذاتها هي الغاية النهائية [6].",
+        "choices": [
+            { "choice_text": "إذا صار وسيلة للعبودية", "is_correct": false },
+            { "choice_text": "إذا تحولت المعلومات الجافة إلى الغاية والمنتهى", "is_correct": true },
+            { "choice_text": "إذا اقترن بالعمل في الخلوات", "is_correct": false },
+            { "choice_text": "إذا كان علماً شرعياً محضاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبّه النبي ﷺ الذي يذكر ربه والذي لا يذكر ربه؟",
+        "difficulty_score": 150,
+        "explanation": "ورد في الحديث الصحيح الذي استشهد به المصدر تشبيه الذاكر بالحي وغير الذاكر بالميت [7].",
+        "choices": [
+            { "choice_text": "بالقوي والضعيف", "is_correct": false },
+            { "choice_text": "بالمؤمن والمنافق", "is_correct": false },
+            { "choice_text": "بالحي والميت", "is_correct": true },
+            { "choice_text": "بالشمس والقمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي ميزة 'حياة القلب' عن 'حلاوة الإيمان' العارضة؟",
+        "difficulty_score": 750,
+        "explanation": "حياة القلب تمنح العبد 'المعنى التصحيحي الذاتي' الذي يدق ناقوس الخطر فور تسلل الغفلة أو الرياء [8].",
+        "choices": [
+            { "choice_text": "أنها تشعر المؤمن باللذة فقط", "is_correct": false },
+            { "choice_text": "أنها تجعل القلب ينبّه صاحبه فور تسلل أمراض القلب كالعجب والرياء", "is_correct": true },
+            { "choice_text": "أنها مرتبطة بالحواس الجسدية", "is_correct": false },
+            { "choice_text": "لا فرق بينهما وفقاً للمصدر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لسورة آل عمران، ما هو الفعل التصحيحي للمتقين إذا وقعوا في ذنب؟",
+        "explanation": "الآية تنص على أنهم 'ذكروا الله فاستغفروا لذنوبهم'، مما يدل على يقظة القلب وحياته [9].",
+        "difficulty_score": 400,
+        "choices": [
+            { "choice_text": "اليأس من رحمة الله", "is_correct": false },
+            { "choice_text": "ذكر الله والاستغفار الفوري", "is_correct": true },
+            { "choice_text": "تكرار الذنب دون مبالاة", "is_correct": false },
+            { "choice_text": "كتمان الذنب عن الناس فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التحليل الذي قدمه المصدر لعدم اهتمام الشخص بليلة القدر؟",
+        "difficulty_score": 850,
+        "explanation": "اعتبر المصدر أن غياب الوقود والمحرك والهيبة في مواسم كليلة القدر هو مؤشر سلبي على 'ضمور المعنى الإيماني' [10]، [11].",
+        "choices": [
+            { "choice_text": "تعب جسدي طبيعي", "is_correct": false },
+            { "choice_text": "مؤشر على ضمور المعنى الإيماني في النفس", "is_correct": true },
+            { "choice_text": "دليل على الزهد والتبسط", "is_correct": false },
+            { "choice_text": "تفضيله للعلم على العبادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'خلاصة الإسلام' من الناحية النفسية كما وصفها المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "ذكر المصدر أن محبة الله سبحانه وتعالى هي خلاصة الإسلام، والعبادة هي غاية الحب مع غاية الذل [12].",
+        "choices": [
+            { "choice_text": "الخوف المجرد من العقاب", "is_correct": false },
+            { "choice_text": "محبة الله (حركة النفس القلبية)", "is_correct": true },
+            { "choice_text": "أداء الشعائر الظاهرة بدقة", "is_correct": false },
+            { "choice_text": "تحقيق السيادة السياسية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر الشيطان أقدر على 'المتفرد' منه على من هو مع غيره؟",
+        "difficulty_score": 450,
+        "explanation": "استشهد المصدر بتشبه الشيطان بالذئب الذي يأكل من الغنم 'القاصية' (البعيدة عن الجماعة) [13].",
+        "choices": [
+            { "choice_text": "لأن المتفرد يمتلك علماً أكثر", "is_correct": false },
+            { "choice_text": "لأن الوحدة تولد وحشة وتكرس الهموم والحجب النفسية", "is_correct": true },
+            { "choice_text": "لأن الجماعة تسبب التشتت دائماً", "is_correct": false },
+            { "choice_text": "لأن المتفرد لا يحتاج للدعاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الزوجة الصالحة' في سياق دوائر الثبات؟",
+        "difficulty_score": 250,
+        "explanation": "اعتبرها المصدر من أهم أسباب 'السوية النفسية' التي تعين المؤمن على الثبات والرضا [14].",
+        "choices": [
+            { "choice_text": "سبب في دائرة العلم", "is_correct": false },
+            { "choice_text": "وسيلة أساسية لتحقيق السوية النفسية والاتزان", "is_correct": true },
+            { "choice_text": "عائق عن طلب العلم", "is_correct": false },
+            { "choice_text": "مصدر للقلق النفسي المستمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الكلمة التي تعبر عن 'الأمان النفسي الداخلي' حتى لو كان الخارج صعباً؟",
+        "difficulty_score": 500,
+        "explanation": "أوضح المصدر أن الطمأنينة هي المصدر الداخلي للسوية النفسية حتى في الظروف الخارجية القاسية [15].",
+        "choices": [
+            { "choice_text": "الثراء المادي", "is_correct": false },
+            { "choice_text": "الطمأنينة", "is_correct": true },
+            { "choice_text": "المنصب الاجتماعي", "is_correct": false },
+            { "choice_text": "كثرة الكلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استعاذ النبي ﷺ من 'الجبن والبخل' تحديداً في سياق السوية النفسية؟",
+        "difficulty_score": 700,
+        "explanation": "لأن فيهما دناءة نفس؛ فالجبن يؤدي للكذب والخيانة والتقلب، والبخل يمنع الرضا ويورث الطمع [16].",
+        "choices": [
+            { "choice_text": "لأنهما يقللان من الدخل المالي", "is_correct": false },
+            { "choice_text": "لأنهما يسببان دناءة النفس ويفتحان باب التقلب والنفاق", "is_correct": true },
+            { "choice_text": "لأنهما صفات اجتماعية غير محبوبة فقط", "is_correct": false },
+            { "choice_text": "لأنهما لا يجتمعان في مؤمن أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العلاقة التكاملية بين الدوائر الثلاث كما لخصها المصدر؟",
+        "difficulty_score": 800,
+        "explanation": "لخصها المصدر بأن العلم 'مبدأ'، والسوية النفسية 'ظرف حامل'، والإيمان 'غاية ومنتهى' [17].",
+        "choices": [
+            { "choice_text": "دوائر منفصلة تماماً لا علاقة بينها", "is_correct": false },
+            { "choice_text": "العلم مبدأ، والسوية النفسية ظرف حامل، والإيمان منتهى وغاية", "is_correct": true },
+            { "choice_text": "الإيمان مبدأ، والعلم منتهى، والسوية النفسية ثانوية", "is_correct": false },
+            { "choice_text": "السوية النفسية هي الغاية الوحيدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من القوانين التالية وصفه المصدر بأنه من أعظم قوانين 'السعادة والسيادة النفسية'؟",
+        "difficulty_score": 350,
+        "explanation": "قانون 'استعن بالله ولا تعجز' يطرد الهموم والغموم القاتلة ويحقق العزم [18].",
+        "choices": [
+            { "choice_text": "اعمل لدنياك كأنك تعيش أبداً", "is_correct": false },
+            { "choice_text": "استعن بالله ولا تعجز", "is_correct": true },
+            { "choice_text": "العلم في الصغر كالنقش في الحجر", "is_correct": false },
+            { "choice_text": "الوقت كالسيف إن لم تقطعه قطعك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يحدث للمؤمن كلما دنوت نفسه من 'أعباء الأرض وأثقالها'؟",
+        "difficulty_score": 600,
+        "explanation": "وصف المصدر أن النفس كلما تخلت عن الأثقال صارت أخف طيراناً، وكلما تشبثت بأعباء الأرض فقدت قدرتها على السمو والثبات [19].",
+        "choices": [
+            { "choice_text": "يزداد ثباتاً ويقيناً", "is_correct": false },
+            { "choice_text": "يفقد الخفة والانشراح ويصعب عليه الثبات", "is_correct": true },
+            { "choice_text": "يصبح أكثر قدرة على مواجهة الفتن", "is_correct": false },
+            { "choice_text": "يتحقق له الرضا النفسي التام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'العائلة' في الدائرة الثالثة؟",
+        "difficulty_score": 200,
+        "explanation": "تعتبر العائلة من أهم 'الوسائل' الملموسة التي تحقق معاني السوية النفسية والرضا [14]، [20].",
+        "choices": [
+            { "choice_text": "مصدر للمعلومات العلمية فقط", "is_correct": false },
+            { "choice_text": "وسيلة مركزية لتحقيق السوية النفسية والظرف الاجتماعي الصالح", "is_correct": true },
+            { "choice_text": "دائرة مستقلة لا تتبع الدوائر الثلاث", "is_correct": false },
+            { "choice_text": "عائق أمام تحقيق الإيمان الكامل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر 'القوة المعنوية' للمؤمن في السوية النفسية؟",
+        "difficulty_score": 750,
+        "explanation": "هي القدرة على السيطرة على النفس عند الغضب والتحكم في النزعات، وليست مجرد قوة حسية (بدنية) [21].",
+        "choices": [
+            { "choice_text": "القوة البدنية والانتصار في الصراع الجسدي", "is_correct": false },
+            { "choice_text": "السيطرة على النفس والتحكم بها عند الغضب (قوة معنوية)", "is_correct": true },
+            { "choice_text": "امتلاك المال والسلطة", "is_correct": false },
+            { "choice_text": "القدرة على هزيمة الآخرين في الجدال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى الذي وصفه المصدر بأنه 'أعم من حلاوة الإيمان'؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر أن حياة القلب أعم من حلاوة الإيمان لأنها تمنح المؤمن الميزة التصحيحية الذاتية الدائمة، بينما الحلاوة قد تذهب وتأتي [1].",
+        "choices": [
+            { "choice_text": "كثرة المعلومات العلمية", "is_correct": false },
+            { "choice_text": "حياة القلب", "is_correct": true },
+            { "choice_text": "المنصب الاجتماعي", "is_correct": false },
+            { "choice_text": "القوة البدنية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة النفسية لعدم حياة القلب عند تسلل الأمراض كالرياء والعجب؟",
+        "difficulty_score": 850,
+        "explanation": "إذا لم يكن القلب حياً، فإن هذه الأمراض تتنامى في الخفاء حتى 'تلدغ' القلب بسمّها وقد لا يستطيع التخلص منه [2].",
+        "choices": [
+            { "choice_text": "يتخلص منها القلب تلقائياً", "is_correct": false },
+            { "choice_text": "تتنامى وتستفحل حتى تلدغ القلب بسمها", "is_correct": true },
+            { "choice_text": "تتحول إلى طاقة إيجابية", "is_correct": false },
+            { "choice_text": "لا تؤثر على ثبات المؤمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعتبر 'مؤشراً وسبباً' في آن واحد لحياة القلب؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المصدر أن 'كثرة ذكر الله' و'التقوى' و'تعظيم الحرمات' هي أسباب لحياة القلب ومؤشرات عليها في آن واحد [27، 30].",
+        "choices": [
+            { "choice_text": "كثرة الكلام في السياسة", "is_correct": false },
+            { "choice_text": "تعظيم حرمات الله وشعائره", "is_correct": true },
+            { "choice_text": "جمع المال بطرق مباحة", "is_correct": false },
+            { "choice_text": "السفر الدائم للاستجمام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر 'التقوى' التي تعتبر مؤشراً قوياً لحياة القلب؟",
+        "difficulty_score": 600,
+        "explanation": "فسرها بأنها اجتناب المعاصي في مواقف لا يكون فيها رادع للمؤمن إلا 'التقوى فقط' (أي في الخلوات) [3].",
+        "choices": [
+            { "choice_text": "الالتزام بالعادات والتقاليد", "is_correct": false },
+            { "choice_text": "اجتناب المعاصي عندما يكون الرادع هو التقوى فقط", "is_correct": true },
+            { "choice_text": "الخوف من العقاب القانوني", "is_correct": false },
+            { "choice_text": "مجرد معرفة الأحكام الفقهية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر 'النفس البشرية' في سياق الحديث عن السوية النفسية؟",
+        "difficulty_score": 400,
+        "explanation": "وصفها بأنها 'مستودع من الأسرار والعجائب' في مشاعرها وبواعثها [34، 36].",
+        "choices": [
+            { "choice_text": "آلة ميكانيكية بسيطة", "is_correct": false },
+            { "choice_text": "مستودع من الأسرار والعجائب", "is_correct": true },
+            { "choice_text": "كتلة صلبة لا تتغير", "is_correct": false },
+            { "choice_text": "مجموعة من المعلومات المخزنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المحرك النفسي الذي اعتبره المصدر 'أعظم أسباب الثبات'؟",
+        "difficulty_score": 800,
+        "explanation": "اعتبر المصدر أن 'المحبة' لله هي أعظم حركة نفسية وأقوى دافع للثبات [4].",
+        "choices": [
+            { "choice_text": "الخوف المجرد", "is_correct": false },
+            { "choice_text": "المحبة لله", "is_correct": true },
+            { "choice_text": "الرغبة في الشهرة", "is_correct": false },
+            { "choice_text": "الحقد على الأعداء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يسهل على الشيطان التأثير على المؤمن 'المنفرد'؟",
+        "difficulty_score": 300,
+        "explanation": "لأن الانفراد يولد وحشة وهموماً وحجباً نفسية، والشيطان 'يأكل من الغنم القاصية' [38، 39].",
+        "choices": [
+            { "choice_text": "لأن المنفرد لا يملك كتباً", "is_correct": false },
+            { "choice_text": "لأن الانفراد يكرس الوحشة والهموم والحجب النفسية", "is_correct": true },
+            { "choice_text": "لأن الجماعة تضعف الإيمان", "is_correct": false },
+            { "choice_text": "لأن الشيطان لا يحب العلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المصدر الداخلي' للسوية النفسية الذي يثبت المؤمن حتى في الظروف الخارجية الصعبة؟",
+        "difficulty_score": 550,
+        "explanation": "بين المصدر أن 'الطمأنينة' هي المصدر الداخلي للسوية والرضا حتى لو كان الخارج صعباً [5].",
+        "choices": [
+            { "choice_text": "الثراء الفاحش", "is_correct": false },
+            { "choice_text": "الطمأنينة", "is_correct": true },
+            { "choice_text": "المنصب السياسي", "is_correct": false },
+            { "choice_text": "القوة الجسدية الخارقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر ابن حزم 'النجدة والشجاعة' بوابة الصلاح؟",
+        "difficulty_score": 650,
+        "explanation": "لأنها تحمي النفس من 'الجبن' الذي يجر إلى الكذب والتقلب والنفاق [6].",
+        "choices": [
+            { "choice_text": "لأنها تجلب الشهرة بين الناس", "is_correct": false },
+            { "choice_text": "لأنها تمنع الانحراف النفسي وتطرد الكذب والتقلب", "is_correct": true },
+            { "choice_text": "لأنها تزيد من القوة العضلية", "is_correct": false },
+            { "choice_text": "لأنها تضمن الربح المادي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العلاقة بين 'البخل' والرضا النفسي وفقاً للمصدر؟",
+        "difficulty_score": 750,
+        "explanation": "البخل عدو الرضا تماماً؛ لأنه يجعل النفس دائمة التشوف والطمع والحرص، مما يمنع الطمأنينة [7].",
+        "choices": [
+            { "choice_text": "البخل يزيد من الرضا النفسي", "is_correct": false },
+            { "choice_text": "البخل عدو للرضا ويولد الطمع والحرص المستمر", "is_correct": true },
+            { "choice_text": "لا توجد علاقة بينهما", "is_correct": false },
+            { "choice_text": "البخل صفة اقتصادية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الظرف الاجتماعي الصالح' في الدائرة الثالثة؟",
+        "difficulty_score": 350,
+        "explanation": "يعتبر الوسيلة التي تمد المؤمن بصفات السوية كالعزة والرضا والسعادة [8].",
+        "choices": [
+            { "choice_text": "مجرد مكان للقاءات العارضة", "is_correct": false },
+            { "choice_text": "مصدر لتوليد صفات السوية كالسعادة والرضا", "is_correct": true },
+            { "choice_text": "عائق أمام التركيز في طلب العلم", "is_correct": false },
+            { "choice_text": "بديل عن العبادات الفردية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الدوائر الثلاث' المذكورة كمبدأ وظرف وغاية؟",
+        "difficulty_score": 900,
+        "explanation": "العلم هو المبدأ، والسوية النفسية هي الظرف الحامل، والإيمان هو الغاية والمنتهى [9].",
+        "choices": [
+            { "choice_text": "المال (مبدأ)، القوة (ظرف)، الجاه (غاية)", "is_correct": false },
+            { "choice_text": "العلم (مبدأ)، السوية (ظرف)، الإيمان (غاية)", "is_correct": true },
+            { "choice_text": "العمل (مبدأ)، العلم (ظرف)، السعادة (غاية)", "is_correct": false },
+            { "choice_text": "الأهل (مبدأ)، الأصحاب (ظرف)، النجاح (غاية)", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة استشهاد المصدر بحديث 'الناس معادن كمعادن الذهب والفضة'؟",
+        "difficulty_score": 600,
+        "explanation": "للتأكيد على أهمية 'السوية النفسية' (المعادن الأصلية) قبل وبعد الإسلام، وكيف يتكامل الفقه مع جودة النفس [10].",
+        "choices": [
+            { "choice_text": "للتفرقة الطبقية بين الناس", "is_correct": false },
+            { "choice_text": "للتأكيد على تكامل جودة النفس (السوية) مع الفقه والدين", "is_correct": true },
+            { "choice_text": "للحث على التنقيب عن المعادن", "is_correct": false },
+            { "choice_text": "لبيان أن الذهب أفضل من الفضة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف تتحقق 'القوة المعنوية' عند الغضب وفقاً للمصدر؟",
+        "difficulty_score": 500,
+        "explanation": "تتحقق بالسيطرة على النفس والتحكم بها، وليس بالقدرة الجسدية على صرع الآخرين [11].",
+        "choices": [
+            { "choice_text": "بالصراخ والتهديد", "is_correct": false },
+            { "choice_text": "بالقدرة على السيطرة على النفس عند الغضب", "is_correct": true },
+            { "choice_text": "بالانتقام السريع", "is_correct": false },
+            { "choice_text": "بالانسحاب الدائم من المواجهات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو القانون الذي يطرد 'الهموم والغموم القاتلة'؟",
+        "difficulty_score": 450,
+        "explanation": "هو قانون 'استعن بالله ولا تعجز' الذي يبعث العزيمة في النفس [12].",
+        "choices": [
+            { "choice_text": "اترك الهموم للزمن", "is_correct": false },
+            { "choice_text": "استعن بالله ولا تعجز", "is_correct": true },
+            { "choice_text": "الحياة قصيرة فلا تحزن", "is_correct": false },
+            { "choice_text": "اعمل بجد لتنسى الهموم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الدعاء المركزي' الذي كان النبي ﷺ يكثر منه للسوية النفسية؟",
+        "difficulty_score": 300,
+        "explanation": "الاستعاذة من 'الهمّ'، لما له من أثر مدمر على النفس [13].",
+        "choices": [
+            { "choice_text": "اللهم زدني مالاً", "is_correct": false },
+            { "choice_text": "اللهم إني أعوذ بك من الهم", "is_correct": true },
+            { "choice_text": "اللهم ارزقني الشهرة", "is_correct": false },
+            { "choice_text": "اللهم وفقني في تجارتي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما أثر استشعار 'قرب الله' من العبد على حالته النفسية؟",
+        "difficulty_score": 700,
+        "explanation": "يورث العبد سعادة وطمأنينة عجيبة ويملأ صدره بالرضا واليقين والسكينة [57، 58].",
+        "choices": [
+            { "choice_text": "يورث الخوف المرعب فقط", "is_correct": false },
+            { "choice_text": "يورث سعادة وطمأنينة ورضا ويقيناً", "is_correct": true },
+            { "choice_text": "يؤدي للتكاسل عن العمل", "is_correct": false },
+            { "choice_text": "لا أثر له على الحالة النفسية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي وصفها المصدر بأنها 'عجيبة جداً' في الجمع بين الهيبة والسكينة؟",
+        "difficulty_score": 850,
+        "explanation": "آية سورة الزمر: (تقشعر منه جلود الذين يخشون ربهم ثم تلين جلودهم وقلوبهم إلى ذكر الله) [14].",
+        "choices": [
+            { "choice_text": "آية الكرسي", "is_correct": false },
+            { "choice_text": "آية سورة الزمر (تقشعر منه جلود... ثم تلين)", "is_correct": true },
+            { "choice_text": "آية الدين في سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة الإخلاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'خلاصة الكلام' في تحقيق الثبات وفقاً للمصدر؟",
+        "difficulty_score": 900,
+        "explanation": "لا يكفي العلم وحده ولا العبادة وحدها، بل نحتاج لتكامل العلم والإيمان مع الصفات النفسية (السوية) [7].",
+        "choices": [
+            { "choice_text": "العلم الشرعي وحده يكفي", "is_correct": false },
+            { "choice_text": "تكامل العلم والإيمان والصفات النفسية الحسنة", "is_correct": true },
+            { "choice_text": "الاعتزال عن الناس تماماً", "is_correct": false },
+            { "choice_text": "العمل المادي البحت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو شعور المؤمن تجاه ربه في العبادة كما لخصه المصدر؟",
+        "difficulty_score": 750,
+        "explanation": "هو الجمع بين مقامات المحبة والخشية والرجاء، والفرح بالله والثقة به [15].",
+        "choices": [
+            { "choice_text": "الخوف من النار فقط", "is_correct": false },
+            { "choice_text": "الجمع بين المحبة والخشية والرجاء والثقة بالله", "is_correct": true },
+            { "choice_text": "الرغبة في الجنة فقط", "is_correct": false },
+            { "choice_text": "مجرد أداء حركات آلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يجعل المؤمن يزداد ثباتاً عند مقارنة نفسه بالآخرين؟",
+        "difficulty_score": 650,
+        "explanation": "عندما يقارن بين محركاته (الحب لله) وبين محركات الآخرين (حمية الجاهلية) يدرك سمو طريقه [65، 66].",
+        "choices": [
+            { "choice_text": "مقارنة الدخل المادي", "is_correct": false },
+            { "choice_text": "مقارنة المحركات والبواعث (الحب لله مقابل حمية الجاهلية)", "is_correct": true },
+            { "choice_text": "مقارنة الملابس والمظاهر", "is_correct": false },
+            { "choice_text": "مقارنة عدد الأصدقاء فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يحدث للمؤمن كلما 'تعلقت نفسه بالسماء'؟",
+        "difficulty_score": 500,
+        "explanation": "صار أكثر خفة وانشراحاً وطيراناً وانطلاقاً [7].",
+        "choices": [
+            { "choice_text": "يشعر بالثقل والهم", "is_correct": false },
+            { "choice_text": "يصبح أكثر خفة وانشراحاً وانطلاقاً", "is_correct": true },
+            { "choice_text": "يفقد الرغبة في الحياة تماماً", "is_correct": false },
+            { "choice_text": "يصاب بالغرور والكبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الورد القرآني' في حالات الغربة؟",
+        "difficulty_score": 400,
+        "explanation": "يعمل كصمام أمان يمنع الشتات والضياع ويعيد المؤمن إلى جادة الطريق [16].",
+        "choices": [
+            { "choice_text": "مجرد قراءة لتمضية الوقت", "is_correct": false },
+            { "choice_text": "صمام أمان يمنع الشتات والضياع في الغربة", "is_correct": true },
+            { "choice_text": "وسيلة لزيادة الثقافة العامة", "is_correct": false },
+            { "choice_text": "عائق عن متابعة الأخبار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استشهد المصدر لبيان أهمية الظرف الاجتماعي؟",
+        "difficulty_score": 350,
+        "explanation": "بحديث النبي ﷺ عن إيذاء الله وتخويفه في الله، وأنه مكث ثلاثين يوماً ليس له ولبلال طعام إلا ما يواريه إبط بلال [17].",
+        "choices": [
+            { "choice_text": "بقصص الأنبياء في الرخاء", "is_correct": false },
+            { "choice_text": "بتجربة النبي ﷺ وبلال في الجوع والخوف", "is_correct": true },
+            { "choice_text": "بقصص التجار الأغنياء", "is_correct": false },
+            { "choice_text": "بأساطير الأولين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي توفرها 'الصحبة الصالحة' غير موجودة في 'الوحدة'؟",
+        "difficulty_score": 600,
+        "explanation": "تبدد الكثير من الإشكالات والحجب النفسية وتجعل المؤمن يستقبل العلم بقلب متزن [18].",
+        "choices": [
+            { "choice_text": "توفير المال", "is_correct": false },
+            { "choice_text": "تبديد الحجب النفسية وتوفير الاتزان لاستقبال العلم", "is_correct": true },
+            { "choice_text": "إضاعة الوقت في الكلام", "is_correct": false },
+            { "choice_text": "منع المؤمن من التفكير الخاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'الجهل' نقيضاً للحياة الحقيقية في دائرة العلم؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الحياة الحقيقية هي إدراك المعاني المستنبطة من الكتاب والسنة، وما سواها هو 'جهل مطبق' [19].",
+        "choices": [
+            { "choice_text": "لأنه يقلل من فرص العمل", "is_correct": false },
+            { "choice_text": "لأن الحياة بلا معاني الوحي هي جهل مطبق وشقاء", "is_correct": true },
+            { "choice_text": "لأنه يجعل الإنسان فقيراً", "is_correct": false },
+            { "choice_text": "لا يعتبر الجهل مشكلة حقيقية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما أثر 'طول الأمد' على قوة الدفع الإيمانية؟",
+        "difficulty_score": 450,
+        "explanation": "قد يؤدي إلى خبو العزم السابق والتأثر بالمؤثرات الخارجية مما يتطلب تجديد الثبات [20].",
+        "choices": [
+            { "choice_text": "يزيد من القوة تلقائياً", "is_correct": false },
+            { "choice_text": "قد يضعف عزم الانطلاق بسبب كثرة المؤثرات الخارجية", "is_correct": true },
+            { "choice_text": "لا أثر له إطلاقاً", "is_correct": false },
+            { "choice_text": "يضمن الوصول للنهاية بسرعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي دائرة هي 'الحامل' لاستقامة المؤمن؟",
+        "difficulty_score": 550,
+        "explanation": "دائرة السوية النفسية هي الظرف الحامل الذي يمكن المؤمن من استقبال العلم والإيمان بثبات [9].",
+        "choices": [
+            { "choice_text": "دائرة العلم", "is_correct": false },
+            { "choice_text": "دائرة السوية النفسية", "is_correct": true },
+            { "choice_text": "دائرة المال", "is_correct": false },
+            { "choice_text": "دائرة الشهرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التشبيه الذي استخدمه المصدر لمن لا يذكر الله؟",
+        "difficulty_score": 100,
+        "explanation": "تشبيه الميت، بناءً على الحديث النبوي 'والذي لا يذكر ربه كمثل الميت' [21].",
+        "choices": [
+            { "choice_text": "كالأعمى", "is_correct": false },
+            { "choice_text": "كالميت", "is_correct": true },
+            { "choice_text": "كالجماد", "is_correct": false },
+            { "choice_text": "كالشجر اليابس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الغاية النهائية من الدوائر الثلاث؟",
+        "difficulty_score": 750,
+        "explanation": "الغاية هي 'الإيمان' والعبودية لله سبحانه وتعالى [9].",
+        "choices": [
+            { "choice_text": "تحصيل المعلومات", "is_correct": false },
+            { "choice_text": "الإيمان والعبودية لله", "is_correct": true },
+            { "choice_text": "الراحة الجسدية", "is_correct": false },
+            { "choice_text": "إبهار الآخرين بالثبات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'العزيمة' في السوية النفسية؟",
+        "difficulty_score": 400,
+        "explanation": "العزيمة هي المحرك للقدرة والفعل، وضدها العجز والكسل اللذان يعيقان الثبات [42، 53].",
+        "choices": [
+            { "choice_text": "التفكير الطويل دون عمل", "is_correct": false },
+            { "choice_text": "المحرك للقدرة والفعل وضد العجز", "is_correct": true },
+            { "choice_text": "مجرد صفة ثانوية", "is_correct": false },
+            { "choice_text": "العناد مع الآخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يساهم 'تعظيم الحرمات' في كشف حالة القلب؟",
+        "difficulty_score": 600,
+        "explanation": "لأن القلب الحي يتفاعل بجلال وهيبة مع ما عظمه الله، وعدم التفاعل مؤشر على قسوة القلب [30، 31].",
+        "choices": [
+            { "choice_text": "لا علاقة له بحالة القلب", "is_correct": false },
+            { "choice_text": "لأن القلب الحي يعظم ما عظمه الله من شعائر وزمان ومكان", "is_correct": true },
+            { "choice_text": "تعظيم الحرمات أمر شكلي فقط", "is_correct": false },
+            { "choice_text": "لأنه يزيد من الوجاهة الاجتماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النصيحة الختامية للمصدر بخصوص الصحبة؟",
+        "difficulty_score": 250,
+        "explanation": "ألا يكون المؤمن منفرداً أبداً، وأن يبحث دائماً عن ظرف اجتماعي صالح [22].",
+        "choices": [
+            { "choice_text": "الاعتزال في الجبال", "is_correct": false },
+            { "choice_text": "ألا يكون المؤمن منفرداً ويبحث عن صحبة صالحة", "is_correct": true },
+            { "choice_text": "الاكتفاء بصحبة الكتب", "is_correct": false },
+            { "choice_text": "مصاحبة الجميع دون تمييز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يورث 'الجبن' في شخصية الإنسان وفقاً للمصدر؟",
+        "difficulty_score": 700,
+        "explanation": "يورث الكذب والخيانة والتقلب، وهو عائق أساسي للسوية والثبات [23].",
+        "choices": [
+            { "choice_text": "الحكمة والتروي", "is_correct": false },
+            { "choice_text": "الكذب والخيانة والتقلب", "is_correct": true },
+            { "choice_text": "الهدوء النفسي", "is_correct": false },
+            { "choice_text": "التواضع الزائد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما أهمية 'الرضا' في السوية النفسية للمؤمن؟",
+        "difficulty_score": 550,
+        "explanation": "الرضا يجعل النفس مطمئنة ويطرد الطمع والحسد والظلم [7].",
+        "choices": [
+            { "choice_text": "الرضا يؤدي للكسل", "is_correct": false },
+            { "choice_text": "الرضا يورث الطمأنينة ويطرد الطمع والحسد", "is_correct": true },
+            { "choice_text": "الرضا صفة لضعاف الهمة", "is_correct": false },
+            { "choice_text": "الرضا لا علاقة له بالثبات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي 'يبدد الحجب النفسية' عند المؤمن؟",
+        "difficulty_score": 650,
+        "explanation": "الوجود مع صحبة صالحة وسوية يزيل الوحشة ويفتح القلب للعلم [18].",
+        "choices": [
+            { "choice_text": "قراءة القصص الخيالية", "is_correct": false },
+            { "choice_text": "الوجود في بيئة اجتماعية صالحة وسوية", "is_correct": true },
+            { "choice_text": "الانفراد التام بالذات", "is_correct": false },
+            { "choice_text": "التفكير في الهموم الشخصية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر 'العلم الشرعي' الذي لا يثبت صاحبه؟",
+        "difficulty_score": 800,
+        "explanation": "وصفه بأنه مجرد 'معلومات' غابت عنها البوصلة والغاية الحقيقية [24].",
+        "choices": [
+            { "choice_text": "علم نافع جداً", "is_correct": false },
+            { "choice_text": "مجرد معلومات جافة غابت عنها البوصلة والغاية", "is_correct": true },
+            { "choice_text": "علم لا يحتاج لعمل", "is_correct": false },
+            { "choice_text": "أرقى أنواع العلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر 'حياة القلب' في التعامل مع الغفلة؟",
+        "difficulty_score": 400,
+        "explanation": "القلب الحي يدق ناقوس الخطر فور تسلل الغفلة ولا يتركها تتنامى [1].",
+        "choices": [
+            { "choice_text": "الاستسلام للغفلة", "is_correct": false },
+            { "choice_text": "دق ناقوس الخطر فور تسلل الغفلة للتصحيح", "is_correct": true },
+            { "choice_text": "عدم الشعور بالغفلة أصلاً", "is_correct": false },
+            { "choice_text": "تحويل الغفلة لراحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'العقل' في دائرة العلم كما فُهم من المصدر؟",
+        "difficulty_score": 750,
+        "explanation": "العقل يبصر حقائق الطريق وجمال الشريعة، مما يجعل العلم وسيلة قوية للإيمان [18، 19].",
+        "choices": [
+            { "choice_text": "مجرد وعاء للحفظ", "is_correct": false },
+            { "choice_text": "بصيرة تدرك حقائق الطريق ومحاسن الشريعة", "is_correct": true },
+            { "choice_text": "أداة للجدال العقيم", "is_correct": false },
+            { "choice_text": "بديل عن القلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الختام الذي انتهى إليه المجلس الأول حول الثبات؟",
+        "difficulty_score": 300,
+        "explanation": "الدعاء بالتزكية والجمع بين العلم والإيمان والسوية النفسية للثبات على صراط الله [56، 66].",
+        "choices": [
+            { "choice_text": "ضرورة التوقف عن طلب العلم", "is_correct": false },
+            { "choice_text": "الدعاء بالتزكية وتكامل الدوائر الثلاث للثبات", "is_correct": true },
+            { "choice_text": "الاكتفاء بما تم تعلمه", "is_correct": false },
+            { "choice_text": "البحث عن الراحة الدنيوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا شبه النبي ﷺ الشيطان بالذئب؟",
+        "difficulty_score": 200,
+        "explanation": "لأن الذئب يأكل من الغنم القاصية (البعيدة عن الجماعة)، وكذلك الشيطان مع المنفرد [25].",
+        "choices": [
+            { "choice_text": "لقوته الجسدية", "is_correct": false },
+            { "choice_text": "لأنه يتربص بالمنفرد عن الجماعة", "is_correct": true },
+            { "choice_text": "لسرعته في الهجوم", "is_correct": false },
+            { "choice_text": "لصوته المخيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'حركة الحب النفسية' في الإسلام؟",
+        "difficulty_score": 850,
+        "explanation": "هي خلاصة الإسلام، حيث العبادة غاية الحب مع غاية الذل لله [26].",
+        "choices": [
+            { "choice_text": "حب الدنيا والشهوات", "is_correct": false },
+            { "choice_text": "خلاصة الإسلام (غاية الحب مع غاية الذل لله)", "is_correct": true },
+            { "choice_text": "حب الشهرة والمناصب", "is_correct": false },
+            { "choice_text": "مجرد ميل عاطفي عابر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يؤثر 'البخل' على العلاقة مع الآخرين؟",
+        "difficulty_score": 600,
+        "explanation": "يؤدي للحسد والظلم والتشوف لما في أيدي الناس [7].",
+        "choices": [
+            { "choice_text": "يزيد من حب الناس", "is_correct": false },
+            { "choice_text": "يؤدي للحسد والظلم والطمع", "is_correct": true },
+            { "choice_text": "يحفظ حقوق الآخرين", "is_correct": false },
+            { "choice_text": "لا يؤثر على العلاقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'صمام الأمان' في دائرة العلم؟",
+        "difficulty_score": 550,
+        "explanation": "أن يظل العلم وسيلة للعبودية والبصيرة وليس غاية للمعلومات الجافة [24].",
+        "choices": [
+            { "choice_text": "كثرة الكتب", "is_correct": false },
+            { "choice_text": "بقاء العلم وسيلة للعبودية والبصيرة بالطريق", "is_correct": true },
+            { "choice_text": "الجلوس مع العلماء الكبار فقط", "is_correct": false },
+            { "choice_text": "حفظ المتون دون فهمها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة النهائية لتشبع النفس بـ 'أعباء الأرض'؟",
+        "difficulty_score": 700,
+        "explanation": "فقدان القدرة على السمو والثبات والانشراح [7].",
+        "choices": [
+            { "choice_text": "زيادة القوة المادية", "is_correct": false },
+            { "choice_text": "فقدان القدرة على السمو والثبات الروحي", "is_correct": true },
+            { "choice_text": "النجاح الدنيوي الباهر", "is_correct": false },
+            { "choice_text": "الشعور بالأمان التام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف ابن حزم 'النجدة'؟",
+        "difficulty_score": 450,
+        "explanation": "سماها نجدة وفتوة وشهامة ونخوة، واعتبرها بوابة الصلاح [6].",
+        "choices": [
+            { "choice_text": "صفة عادية لا قيمة لها", "is_correct": false },
+            { "choice_text": "بوابة للفلاح والشهامة والبعد عن الانحراف", "is_correct": true },
+            { "choice_text": "نوع من أنواع التهور", "is_correct": false },
+            { "choice_text": "صفة مرتبطة بالحروب فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر 'الاستعانة بالله' على العجز النفسي؟",
+        "difficulty_score": 350,
+        "explanation": "تطرد الهموم والغموم القاتلة وتبعث العزيمة والنشاط [12].",
+        "choices": [
+            { "choice_text": "لا أثر لها", "is_correct": false },
+            { "choice_text": "تطرد الهموم والغموم وتبعث العزيمة", "is_correct": true },
+            { "choice_text": "تزيد من التواكل", "is_correct": false },
+            { "choice_text": "تؤدي لترك العمل المادي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى المقصود بـ 'الاستقامة' في هذا المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "هي الثبات على دين الله وطريق العلم والخدمة بناءً على الدوائر الثلاث المتكاملة [11، 52].",
+        "choices": [
+            { "choice_text": "مجرد أداء الواجبات", "is_correct": false },
+            { "choice_text": "الثبات المتكامل في العلم والإيمان والسوية النفسية", "is_correct": true },
+            { "choice_text": "التشدد في الدين", "is_correct": false },
+            { "choice_text": "ترك الدنيا تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يساهم 'الفرح بالله' في الثبات؟",
+        "difficulty_score": 800,
+        "explanation": "يمنح المؤمن طاقة روحية وثقة تجعله يستمسك بالطريق مهما كانت التحديات [15].",
+        "choices": [
+            { "choice_text": "يؤدي للغرور", "is_correct": false },
+            { "choice_text": "يمنح طاقة وثقة للاستمساك بالطريق", "is_correct": true },
+            { "choice_text": "يجعل المؤمن يترك العلم", "is_correct": false },
+            { "choice_text": "لا أثر له في الثبات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'صمام الأمان' الأهم في زمن التحولات؟",
+        "difficulty_score": 100,
+        "explanation": "هو 'سؤال الثبات' والعناية بالدوائر الثلاث (العلم، الإيمان، السوية النفسية) [27].",
+        "choices": [
+            { "choice_text": "جمع المال", "is_correct": false },
+            { "choice_text": "العناية بالدوائر الثلاث (علم، إيمان، سوية)", "is_correct": true },
+            { "choice_text": "متابعة أخبار العالم", "is_correct": false },
+            { "choice_text": "تغيير مكان السكن دائماً", "is_correct": false }
+        ]
+    }
+]}

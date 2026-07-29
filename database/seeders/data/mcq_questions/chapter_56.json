@@ -1,0 +1,884 @@
+    {
+    "chapter_id": 56,
+    "questions": [
+        {
+        "question_text": "ما هو الاسم المشهور ليوم غزوة بدر الذي ذكره الله في كتابه؟",
+        "difficulty_score": 100,
+        "explanation": "ذكرت المصادر أن اللقب المشهور هو يوم بدر، ولكن الله أعطاه وصفاً في القرآن هو 'يوم الفرقان' [1, 30].",
+        "choices": [
+            { "choice_text": "يوم الأحزاب", "is_correct": false },
+            { "choice_text": "يوم الفرقان", "is_correct": true },
+            { "choice_text": "يوم الفتح", "is_correct": false },
+            { "choice_text": "يوم حنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي كان يقود قافلة قريش العائدة من الشام؟",
+        "difficulty_score": 100,
+        "explanation": "تذكر المصادر بوضوح أن أبا سفيان كان هو المسؤول عن القافلة [1, 22].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أبو سفيان", "is_correct": true },
+            { "choice_text": "أمية بن خلف", "is_correct": false },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الصحابة الذين خرجوا مع النبي صلى الله عليه وسلم في غزوة بدر تقريباً؟",
+        "difficulty_score": 150,
+        "explanation": "أوضحت المصادر أنهم كانوا ثلاثمائة وبضعة عشر رجلاً [31].",
+        "choices": [
+            { "choice_text": "بضعة عشر رجلاً", "is_correct": false },
+            { "choice_text": "ألف رجل", "is_correct": false },
+            { "choice_text": "ثلاثمائة وبضعة عشر رجلاً", "is_correct": true },
+            { "choice_text": "سبعون رجلاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي أرسله النبي صلى الله عليه وسلم عيناً ليتتبع أخبار القافلة؟",
+        "difficulty_score": 200,
+        "explanation": "ورد في المصادر أن النبي أرسل بسبسة بن عمرو ليتتبع أخبار العير [2, 3].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "بسبسة بن عمرو", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان النبي صلى الله عليه وسلم يوري بغير جهة الغزوة في خروجه؟",
+        "difficulty_score": 250,
+        "explanation": "كان النبي يحرص على 'حرب المعلومات' وإخفاء مكان الغزوة لضمان عنصر المفاجأة [2].",
+        "choices": [
+            { "choice_text": "لأنه لم يكن يعرف الطريق", "is_correct": false },
+            { "choice_text": "خوفاً من الصحابة", "is_correct": false },
+            { "choice_text": "حرصاً على سرية المعلومات وإخفاء وجهته", "is_correct": true },
+            { "choice_text": "لأنه أراد الذهاب للشام فعلاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف النبي صلى الله عليه وسلم من الفتيان الصغار الذين أرادوا الخروج لبدر؟",
+        "difficulty_score": 300,
+        "explanation": "استعرض النبي الجيش وأرجع من لم يبلغ الخامسة عشرة مثل ابن عمر والبراء بن عازب [23, 32].",
+        "choices": [
+            { "choice_text": "سمح لهم جميعاً بالخروج", "is_correct": false },
+            { "choice_text": "أرجع من كان دون الخامسة عشرة", "is_correct": true },
+            { "choice_text": "جعلهم في مقدمة الجيش", "is_correct": false },
+            { "choice_text": "كلفهم بحراسة المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي تخلف عن بدر بسبب مرض زوجته رقية ابنة النبي؟",
+        "difficulty_score": 350,
+        "explanation": "تخلف عثمان بن عفان رضي الله عنه ليمكث مع زوجته رقية التي كانت مريضة [33].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي كلفه النبي صلى الله عليه وسلم بإمامة الناس في الصلاة بالمدينة أثناء غيابه؟",
+        "difficulty_score": 400,
+        "explanation": "وكل النبي ابن أم مكتوم على إمامة الناس في الصلاة بالمدينة [34].",
+        "choices": [
+            { "choice_text": "أبو لبابة", "is_correct": false },
+            { "choice_text": "عبد الله بن أم مكتوم", "is_correct": true },
+            { "choice_text": "زيد بن حارثة", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الخيول في جيش المسلمين يوم بدر؟",
+        "difficulty_score": 200,
+        "explanation": "كان مع المسلمين فرس واحد فقط للمقداد بن عمرو [4].",
+        "choices": [
+            { "choice_text": "فرسان فقط", "is_correct": false },
+            { "choice_text": "عشرة خيول", "is_correct": false },
+            { "choice_text": "فرس واحد فقط", "is_correct": true },
+            { "choice_text": "مائة فرس", "is_correct": false }
+        ]
+    },
+    { "question_text": "من هم الصحابة الذين كانوا يعتقبون مع النبي صلى الله عليه وسلم على بعير واحد؟",
+        "difficulty_score": 450,
+        "explanation": "كان علي بن أبي طالب وأبو لبابة يعتقبان مع النبي صلى الله عليه وسلم على البعير [16].",
+        "choices": [
+            { "choice_text": "أبو بكر وعمر", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب وأبو لبابة", "is_correct": true },
+            { "choice_text": "حمزة والعباس", "is_correct": false },
+            { "choice_text": "سعد بن معاذ والمقداد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم لعلي وأبي لبابة عندما أرادا المشي عنه؟",
+        "difficulty_score": 500,
+        "explanation": "قال لهما: 'ما أنتما بأقوى مني، ولا أنا بأغنى عن الأجر منكما' [16].",
+        "choices": [
+            { "choice_text": "اركبا فأنا قوي", "is_correct": false },
+            { "choice_text": "ما أنتما بأقوى مني ولا أنا بأغنى عن الأجر منكما", "is_correct": true },
+            { "choice_text": "جزاكما الله خيراً سأركب", "is_correct": false },
+            { "choice_text": "المدينة قريبة فلا تتعبا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الرسول الذي بعثه أبو سفيان إلى قريش ليخبرهم بتهديد القافلة؟",
+        "difficulty_score": 300,
+        "explanation": "أرسل أبو سفيان ضمضم بن عمرو الغفاري ليصرخ في قريش ويستنفرهم [35].",
+        "choices": [
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "ضمضم بن عمرو", "is_correct": true },
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي سجلت رغبة بعض الصحابة في العير (غير ذات الشوكة)؟",
+        "difficulty_score": 550,
+        "explanation": "الآية هي: {وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ الشَّوْكَةِ تَكُونُ لَكُمْ} [11].",
+        "choices": [
+            { "choice_text": "سورة الأنفال آية 7", "is_correct": true },
+            { "choice_text": "سورة البقرة آية 190", "is_correct": false },
+            { "choice_text": "سورة آل عمران آية 13", "is_correct": false },
+            { "choice_text": "سورة التوبة آية 40", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف عرف النبي صلى الله عليه وسلم عدد جيش قريش بدقة؟",
+        "difficulty_score": 600,
+        "explanation": "سأل الغلامين عن عدد الجزر التي ينحرونها يومياً، فكانت عشرة، فاستنتج أنهم نحو الألف [17].",
+        "choices": [
+            { "choice_text": "أخبره الوحي مباشرة بالرقم", "is_correct": false },
+            { "choice_text": "عن طريق عد الخيام", "is_correct": false },
+            { "choice_text": "سألهم عن عدد الذبائح اليومية", "is_correct": true },
+            { "choice_text": "بالنظر إليهم من فوق الجبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو القائد الأنصاري الذي قال للنبي: 'لو استعرضت بنا هذا البحر لخضناه معك'؟",
+        "difficulty_score": 400,
+        "explanation": "قال هذا الكلام سعد بن معاذ رضي الله عنه إعلاناً لولاء الأنصار [9].",
+        "choices": [
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "سعد بن معاذ", "is_correct": true },
+            { "choice_text": "أسيد بن حضير", "is_correct": false },
+            { "choice_text": "معاذ بن جبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا رد المقداد بن عمرو على النبي صلى الله عليه وسلم ليلة بدر؟",
+        "difficulty_score": 450,
+        "explanation": "قال: 'لا نقول كما قال قوم موسى: اذهب أنت وربك فقاتلا.. ولكننا نقاتل عن يمينك وعن شمالك' [36].",
+        "choices": [
+            { "choice_text": "سأبقى لحماية القافلة", "is_correct": false },
+            { "choice_text": "لا نقول كما قال قوم موسى اذهب أنت وربك فقاتلا إنا ههنا قاعدون", "is_correct": true },
+            { "choice_text": "نحن فداك بآبائنا وأمهاتنا", "is_correct": false },
+            { "choice_text": "أمرنا بالذي تراه مناسباً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اختار المسلمون النزول عند بئر بدر تحديداً؟",
+        "difficulty_score": 500,
+        "explanation": "للسيطرة على مصدر الماء الوحيد في المنطقة ومنعه عن المشركين [18].",
+        "choices": [
+            { "choice_text": "لأنه كان قريباً من مكة", "is_correct": false },
+            { "choice_text": "للسيطرة على الماء وسقيا الجيش ومنعه عن العدو", "is_correct": true },
+            { "choice_text": "بناءً على رؤيا منامية", "is_correct": false },
+            { "choice_text": "بسبب كثرة الأشجار هناك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل النبي صلى الله عليه وسلم طوال ليلة معركة بدر؟",
+        "difficulty_score": 550,
+        "explanation": "كان يصلي عند شجرة ويبكي ويستغيث ربه حتى الصباح [19].",
+        "choices": [
+            { "choice_text": "كان يضع خطط الهجوم", "is_correct": false },
+            { "choice_text": "كان نائماً مثل بقية الصحابة", "is_correct": false },
+            { "choice_text": "كان يصلي ويبكي ويستغيث ربه", "is_correct": true },
+            { "choice_text": "كان يتحدث مع قادة المهاجرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفوائد الثلاث التي ذكرها القرآن لنزول المطر ليلة بدر؟",
+        "difficulty_score": 650,
+        "explanation": "الآية ذكرت: التطهير، إذهاب رجز الشيطان، وتثبيت الأقدام [10].",
+        "choices": [
+            { "choice_text": "الشرب والوضوء والغسل", "is_correct": false },
+            { "choice_text": "التطهير وإذهاب رجز الشيطان وتثبيت الأقدام", "is_correct": true },
+            { "choice_text": "ري الزرع وتبريد الجو وعرقلة العدو", "is_correct": false },
+            { "choice_text": "إغراق خيام المشركين وقتل خيولهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'العريش' الذي اتخذه النبي صلى الله عليه وسلم في المعركة؟",
+        "difficulty_score": 300,
+        "explanation": "هو المكان المرتفع المظلل الذي اتخذه النبي مقراً للقيادة والدعاء [10].",
+        "choices": [
+            { "choice_text": "نوع من أنواع الأسلحة", "is_correct": false },
+            { "choice_text": "مقر قيادة مظلل للنبي", "is_correct": true },
+            { "choice_text": "بئر ماء صغير", "is_correct": false },
+            { "choice_text": "خيمة للأسرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان النبي صلى الله عليه وسلم يوجه أصحابه عسكرياً إذا اقترب منهم العدو؟",
+        "difficulty_score": 600,
+        "explanation": "وجههم باستخدام النبل (الرشق بالسهام) إذا كثبوهم (اقتربوا منهم) [13].",
+        "choices": [
+            { "choice_text": "بالمبارزة الفردية فقط", "is_correct": false },
+            { "choice_text": "استخدام النبل إذا اقتربوا", "is_correct": true },
+            { "choice_text": "الانسحاب إلى الجبال", "is_correct": false },
+            { "choice_text": "الهجوم بالسيوف مباشرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي صفة استغاثة النبي صلى الله عليه وسلم لربه يوم بدر؟",
+        "difficulty_score": 500,
+        "explanation": "كان يمد يديه مستقبلاً القبلة حتى سقط رداؤه من شدة الرفع [13, 37].",
+        "choices": [
+            { "choice_text": "كان يدعو بصمت", "is_correct": false },
+            { "choice_text": "كان يمد يديه بشدة حتى سقط رداؤه", "is_correct": true },
+            { "choice_text": "كان يدعو وهو راكب فرسه", "is_correct": false },
+            { "choice_text": "كان يقرأ سورة البقرة بصوت عال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي التزم النبي من ورائه وقال له: 'يا نبي الله كفاك مناشدتك ربك'؟",
+        "difficulty_score": 400,
+        "explanation": "هو أبو بكر الصديق رضي الله عنه إشفاقاً على النبي من شدة وجده [14].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العدد الذي أمد الله به المسلمين من الملائكة في البداية؟",
+        "difficulty_score": 250,
+        "explanation": "ذكر القرآن الإمداد بألف من الملائكة مردفين [25].",
+        "choices": [
+            { "choice_text": "مائة ملك", "is_correct": false },
+            { "choice_text": "ألف من الملائكة", "is_correct": true },
+            { "choice_text": "خمسة آلاف ملك", "is_correct": false },
+            { "choice_text": "ثلاثة آلاف ملك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العلامة التي رآها بعض الصحابة على أنوف المشركين ودلت على ضرب الملائكة؟",
+        "difficulty_score": 700,
+        "explanation": "أثر ضرب 'الخطم' الذي اخضر على أنوفهم [26].",
+        "choices": [
+            { "choice_text": "جروح عميقة بالسيف", "is_correct": false },
+            { "choice_text": "أثر ضربة مخضرة على الأنف (الخطم)", "is_correct": true },
+            { "choice_text": "سواد في الوجه", "is_correct": false },
+            { "choice_text": "بياض في العينين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم بحفنة من الحصباء أثناء المعركة؟",
+        "difficulty_score": 600,
+        "explanation": "رماها في وجوه المشركين وقال 'شاهت الوجوه'، فما بقي مشرك إلا ودخل في عينه منها شيء [38].",
+        "choices": [
+            { "choice_text": "وضعها في البئر", "is_correct": false },
+            { "choice_text": "رماها في وجوه المشركين", "is_correct": true },
+            { "choice_text": "أعطاها للصحابة للتبرك", "is_correct": false },
+            { "choice_text": "دفنها في الأرض لثبات الجيش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الشهداء من المسلمين في غزوة بدر؟",
+        "difficulty_score": 450,
+        "explanation": "ذكرت المصادر أن عدد شهداء المسلمين كان أربعة عشر رجلاً [39].",
+        "choices": [
+            { "choice_text": "سبعون شهيداً", "is_correct": false },
+            { "choice_text": "أربعة عشر شهيداً", "is_correct": true },
+            { "choice_text": "مائة شهيد", "is_correct": false },
+            { "choice_text": "رجل واحد فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشهيد الذي بُشرت أمه بأنه في 'الفردوس الأعلى'؟",
+        "difficulty_score": 500,
+        "explanation": "هو حارثة بن سراقة الذي أصابه سهم غرب [39, 40].",
+        "choices": [
+            { "choice_text": "عبيدة بن الحارث", "is_correct": false },
+            { "choice_text": "حارثة بن سراقة", "is_correct": true },
+            { "choice_text": "مصعب بن عمير", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم بجثث قتلى صناديد قريش؟",
+        "difficulty_score": 550,
+        "explanation": "أمر بـ 24 من صناديدهم فقذفوا في قليب من أطواء بدر خبيث [40, 41].",
+        "choices": [
+            { "choice_text": "تركهم في العراء", "is_correct": false },
+            { "choice_text": "قذفهم في قليب (بئر مطوية) بدر", "is_correct": true },
+            { "choice_text": "سلمهم لأهلهم في مكة", "is_correct": false },
+            { "choice_text": "دفن كل واحد في قبر مستقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المدة التي أقامها النبي صلى الله عليه وسلم في بدر بعد المعركة؟",
+        "difficulty_score": 400,
+        "explanation": "كان من عادته إذا ظهر على قوم أن يقيم بالعرصة ثلاثاً [41, 42].",
+        "choices": [
+            { "choice_text": "يوم واحد فقط", "is_correct": false },
+            { "choice_text": "أسبوع كامل", "is_correct": false },
+            { "choice_text": "ثلاثة أيام", "is_correct": true },
+            { "choice_text": "شهر كامل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أجاب النبي صلى الله عليه وسلم عمر بن الخطاب حين تعجب من كلامه مع الموتى؟",
+        "difficulty_score": 650,
+        "explanation": "قال: 'والذي نفسي بيده ما أنتم بأسمع لما أقول منهم' [27, 28].",
+        "choices": [
+            { "choice_text": "إنهم لا يسمعون شيئاً", "is_correct": false },
+            { "choice_text": "ما أنتم بأسمع لما أقول منهم ولكن لا يقدرون أن يجيبوا", "is_correct": true },
+            { "choice_text": "إن الله أحياهم ليسمعوني فقط", "is_correct": false },
+            { "choice_text": "كف عن السؤال يا عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'فرعون هذه الأمة' الذي قُتل في بدر؟",
+        "difficulty_score": 300,
+        "explanation": "أبو جهل (عمرو بن هشام) هو الذي وصفه النبي بفرعون هذه الأمة [43].",
+        "choices": [
+            { "choice_text": "أمية بن خلف", "is_correct": false },
+            { "choice_text": "أبو جهل", "is_correct": true },
+            { "choice_text": "أبو لهب", "is_correct": false },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هما الغلامان اللذان بادرا لضرب أبي جهل بالسيف؟",
+        "difficulty_score": 750,
+        "explanation": "هما معاذ بن عمرو بن الجموح ومعاذ بن عفراء [21].",
+        "choices": [
+            { "choice_text": "الحسن والحسين", "is_correct": false },
+            { "choice_text": "معاذ بن عمرو ومعاذ بن عفراء", "is_correct": true },
+            { "choice_text": "عبد الله بن عمر وابن الزبير", "is_correct": false },
+            { "choice_text": "أسامة بن زيد وزيد بن حارثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أجهز على أبي جهل وهو في الرمق الأخير؟",
+        "difficulty_score": 500,
+        "explanation": "عبد الله بن مسعود رضي الله عنه هو الذي وجده وارتقى على صدره [21].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": true },
+            { "choice_text": "عمار بن ياسر", "is_correct": false },
+            { "choice_text": "بلال بن رباح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو المشرك الذي قتله بلال بن رباح بمساعدة الأنصار انتقاماً لتعذيبه؟",
+        "difficulty_score": 400,
+        "explanation": "هو أمية بن خلف الذي كان يعذب بلالاً في مكة [44, 45].",
+        "choices": [
+            { "choice_text": "عقبة بن أبي معيط", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": true },
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "شيبة بن ربيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة العظيمة المرجوة من انتصار 'القلة المؤمنة' على 'الكثرة الكافرة'؟",
+        "difficulty_score": 800,
+        "explanation": "إقامة الحجة (البينة) بأن هذا الدين منصور من الله وليس بالقوة المادية [7].",
+        "choices": [
+            { "choice_text": "الحصول على الغنائم فقط", "is_correct": false },
+            { "choice_text": "إقامة الحجة والبينة على صدق النبوة", "is_correct": true },
+            { "choice_text": "التخلص من تجار قريش", "is_correct": false },
+            { "choice_text": "بسط النفوذ على طريق الشام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم في حق 'أهل بدر' رداً على اتهام غلام حاطب له؟",
+        "difficulty_score": 850,
+        "explanation": "قال: 'كذبت، لا يدخلها؛ فإنه قد شهد بدراً والحديبية' [46].",
+        "choices": [
+            { "choice_text": "سيحاسبون على أخطائهم", "is_correct": false },
+            { "choice_text": "لعل الله اطلع على أهل بدر فقال اعملوا ما شئتم فقد غفرت لكم", "is_correct": true },
+            { "choice_text": "هم بشر يخطئون ويصيبون", "is_correct": false },
+            { "choice_text": "النصر وحده لا يكفي للمغفرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الملك الذي أخبر النبي بفضل من شهد بدراً من الملائكة؟",
+        "difficulty_score": 700,
+        "explanation": "جبريل عليه السلام سأل النبي عن أهل بدر فقال إنهم من أفضل المسلمين، وكذلك من شهد بدراً من الملائكة [47].",
+        "choices": [
+            { "choice_text": "ميكائيل", "is_correct": false },
+            { "choice_text": "جبريل عليه السلام", "is_correct": true },
+            { "choice_text": "إسرافيل", "is_correct": false },
+            { "choice_text": "ملك الموت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو البعد المستقبلي لمنطقة 'الروحاء' المذكور في المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "أخبر النبي أن عيسى بن مريم سيهل منها حاجاً أو معتمراً في آخر الزمان [24].",
+        "choices": [
+            { "choice_text": "ستصبح عاصمة الخلافة", "is_correct": false },
+            { "choice_text": "سيهل منها عيسى بن مريم حاجاً أو معتمراً", "is_correct": true },
+            { "choice_text": "ستختفي معالمها تماماً", "is_correct": false },
+            { "choice_text": "سينبع منها نهر عظيم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من مشاركة النبي لأصحابه في ركوب البعير؟",
+        "difficulty_score": 450,
+        "explanation": "التواضع العملي للقائد ومساواته مع جنده في المشقة [16].",
+        "choices": [
+            { "choice_text": "ضعف الحالة المادية للمسلمين", "is_correct": false },
+            { "choice_text": "التواضع والعدل في توزيع المشقة", "is_correct": true },
+            { "choice_text": "قوة تحمل النبي الجسدية فقط", "is_correct": false },
+            { "choice_text": "عدم أهمية الخيل في الحروب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استشار النبي صلى الله عليه وسلم أصحابه في منطقة 'ذفران' رغم أنهم قد خرجوا معه بالفعل؟",
+        "difficulty_score": 500,
+        "explanation": "استشارهم لأن بيعة العقبة للأنصار كانت تقتضي حمايته داخل المدينة، فأراد التأكد من رغبتهم في القتال خارجها بعد أن تحول الهدف من القافلة إلى الجيش [1, 2].",
+        "choices": [
+            { "choice_text": "لأنه ضل الطريق وكان يحتاج دليلاً", "is_correct": false },
+            { "choice_text": "ليتأكد من استعداد الأنصار للقتال خارج حدود المدينة", "is_correct": true },
+            { "choice_text": "بسبب نقص في الطعام والماء", "is_correct": false },
+            { "choice_text": "ليوزع الغنائم قبل بدء المعركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد الشهير لسعد بن معاذ الذي طمأن قلب النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 400,
+        "explanation": "أعلن سعد بن معاذ الولاء التام قائلاً: 'لو استعرضت بنا هذا البحر لخضناه معك' [3].",
+        "choices": [
+            { "choice_text": "اذهب أنت وربك فقاتلا إنا ههنا قاعدون", "is_correct": false },
+            { "choice_text": "نحن نقاتل عن يمينك وعن شمالك", "is_correct": false },
+            { "choice_text": "لو استعرضت بنا هذا البحر لخضناه معك ما تخلف منا رجل واحد", "is_correct": true },
+            { "choice_text": "سأحميك في المدينة كما يحمي الرجل أهله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي وصف بها القرآن الكريم بعض المؤمنين في بداية خروجهم للقاء الجيش؟",
+        "difficulty_score": 600,
+        "explanation": "وصفهم القرآن بأنهم كانوا يكرهون لقاء الجيش ويمشون إليه كأنما يساقون إلى الموت وهم ينظرون [4].",
+        "choices": [
+            { "choice_text": "كانوا مستبشرين بالشهادة منذ اللحظة الأولى", "is_correct": false },
+            { "choice_text": "كانوا يجادلون في الحق كأنما يساقون إلى الموت", "is_correct": true },
+            { "choice_text": "كانوا يفضلون لقاء جيش قريش على القافلة", "is_correct": false },
+            { "choice_text": "كانوا واثقين من النصر دون قتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان الهمّ الأكبر الذي كان يحمله النبي صلى الله عليه وسلم ليلة بدر؟",
+        "difficulty_score": 450,
+        "explanation": "كان همّه هو ظهور الحق وغلبته، وخشيته من هلاك الفئة المؤمنة التي ستحمل رسالة التوحيد [4, 5].",
+        "choices": [
+            { "choice_text": "الخوف من الموت الشخصي", "is_correct": false },
+            { "choice_text": "الحصول على أموال القافلة", "is_correct": false },
+            { "choice_text": "هلاك العصابة المؤمنة وانقطاع عبادة الله في الأرض", "is_correct": true },
+            { "choice_text": "كيفية الهروب من المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف ساعد المطر المؤمنين من الناحية الأرضية (اللوجستية)؟",
+        "difficulty_score": 550,
+        "explanation": "جعل المطر الأرض رملية متماسكة مما ثبت الأقدام وسهل المشي والتحرك [6].",
+        "choices": [
+            { "choice_text": "أغرق خيام المشركين بالكامل", "is_correct": false },
+            { "choice_text": "ثبت به الأقدام وطهرهم به", "is_correct": true },
+            { "choice_text": "منع المشركين من الرؤية", "is_correct": false },
+            { "choice_text": "أنبت الزرع ليأكله الخيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان مع النبي صلى الله عليه وسلم في 'العريش' يحرسه؟",
+        "difficulty_score": 350,
+        "explanation": "كان أبو بكر الصديق رضي الله عنه مع النبي في العريش يواسيه ويحرسه [7].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت دعوة النبي صلى الله عليه وسلم الملحة وهو في العريش؟",
+        "difficulty_score": 300,
+        "explanation": "كان يقول: 'اللهم أنجز لي ما وعدتني، اللهم آت ما وعدتني' [8].",
+        "choices": [
+            { "choice_text": "اللهم عليك بأبي سفيان وقافلته", "is_correct": false },
+            { "choice_text": "اللهم أنجز لي ما وعدتني", "is_correct": true },
+            { "choice_text": "اللهم ارزقنا الغنائم الكثيرة", "is_correct": false },
+            { "choice_text": "اللهم أهلك كل أهل مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوجيه العسكري النبوي الذي أعطي للرماة لضمان كفاءة السهام؟",
+        "difficulty_score": 650,
+        "explanation": "وجههم النبي ألا يرموا إلا إذا اقترب العدو منهم (إذا كثبوكم) لضمان إصابة الأهداف [9].",
+        "choices": [
+            { "choice_text": "الرمي العشوائي منذ بداية المعركة", "is_correct": false },
+            { "choice_text": "استخدام السهام فقط في الليل", "is_correct": false },
+            { "choice_text": "الرشق بالنبل إذا اقترب المشركون منهم", "is_correct": true },
+            { "choice_text": "الرمي في الهواء لتخويف الخيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الثلاثة الذين خرجوا من قريش للمبارزة في بداية اللقاء؟",
+        "difficulty_score": 400,
+        "explanation": "هم عتبة بن ربيعة، وشيبة بن ربيعة، والوليد بن عتبة [10].",
+        "choices": [
+            { "choice_text": "أبو جهل وأمية والعباس", "is_correct": false },
+            { "choice_text": "عتبة وشيبة والوليد", "is_correct": true },
+            { "choice_text": "أبو سفيان وضمضم وخالد", "is_correct": false },
+            { "choice_text": "عمرو بن العاص وعكرمة والوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أصيبت رجله في المبارزة ثم استشهد في طريق العودة؟",
+        "difficulty_score": 700,
+        "explanation": "هو عبيدة بن الحارث بن المطلب، الذي بارز عتبة واختلفا ضربتين فقتله علي وحمزة وسحباه [11].",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "عبيدة بن الحارث", "is_correct": true },
+            { "choice_text": "مصعب بن عمير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الله تعالى في الملائكة الذين أمد بهم المسلمين؟",
+        "difficulty_score": 200,
+        "explanation": "قال تعالى: {أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ} [12].",
+        "choices": [
+            { "choice_text": "بسبعين من الملائكة", "is_correct": false },
+            { "choice_text": "بألف من الملائكة مردفين", "is_correct": true },
+            { "choice_text": "بملائكة لا يراهم أحد", "is_correct": false },
+            { "choice_text": "بجبريل وحده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الذي ذكره الصحابي لرجل كان يسمعه يزجر فرسه من الملائكة؟",
+        "difficulty_score": 850,
+        "explanation": "سمع الصحابي صوتاً يقول: 'أقدم حيزوم'، وهو اسم فرس الملك [13].",
+        "choices": [
+            { "choice_text": "براق", "is_correct": false },
+            { "choice_text": "حيزوم", "is_correct": true },
+            { "choice_text": "السكب", "is_correct": false },
+            { "choice_text": "يعفور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي نزلت في رمية النبي صلى الله عليه وسلم للحصباء؟",
+        "difficulty_score": 600,
+        "explanation": "قوله تعالى: {وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَكِنَّ اللَّهَ رَمَى} [14].",
+        "choices": [
+            { "choice_text": "سورة الفتح آية 10", "is_correct": false },
+            { "choice_text": "سورة الأنفال آية 17", "is_correct": true },
+            { "choice_text": "سورة البقرة آية 250", "is_correct": false },
+            { "choice_text": "سورة النصر آية 1", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العدد الإجمالي لقتلى وأسرى المشركين كما ورد في المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "قُتل منهم سبعون وأُسير سبعون [15].",
+        "choices": [
+            { "choice_text": "مائة قتيل ومائة أسير", "is_correct": false },
+            { "choice_text": "سبعون قتيلاً وسبعون أسيراً", "is_correct": true },
+            { "choice_text": "ألف قتيل وسبعون أسيراً", "is_correct": false },
+            { "choice_text": "سبعون قتيلاً وعشرة أسرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف النبي صلى الله عليه وسلم منزلة حارثة بن سراقة لأمه؟",
+        "difficulty_score": 500,
+        "explanation": "أخبرها أنها ليست جنة واحدة بل جنان، وأنه أصاب الفردوس الأعلى [16].",
+        "choices": [
+            { "choice_text": "إنه في جنات النعيم", "is_correct": false },
+            { "choice_text": "إنه أصاب الفردوس الأعلى", "is_correct": true },
+            { "choice_text": "إنه مع النبيين والصديقين", "is_correct": false },
+            { "choice_text": "إنه ينتظر الحساب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم بجثث الـ 24 من صناديد قريش؟",
+        "difficulty_score": 450,
+        "explanation": "أمر بهم فقذفوا في قليب من أطواء بدر خبيث مخبث [17, 18].",
+        "choices": [
+            { "choice_text": "أحرق جثثهم", "is_correct": false },
+            { "choice_text": "قذفهم في قليب بدر", "is_correct": true },
+            { "choice_text": "أرسلهم إلى مكة", "is_correct": false },
+            { "choice_text": "تركهم للوحوش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا نادى النبي صلى الله عليه وسلم المشركين وهم في القليب؟",
+        "difficulty_score": 600,
+        "explanation": "ناداهم بأسمائهم وأسماء آبائهم: 'يا فلان بن فلان، هل وجدتم ما وعد ربكم حقاً؟' [19].",
+        "choices": [
+            { "choice_text": "لعنة الله عليكم يا كفار", "is_correct": false },
+            { "choice_text": "هل وجدتم ما وعد ربكم حقاً؟ فإني وجدت ما وعدني ربي حقاً", "is_correct": true },
+            { "choice_text": "توبوا إلى الله وأنتم في قبوركم", "is_correct": false },
+            { "choice_text": "لماذا لم تؤمنوا بي؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعليق النبي صلى الله عليه وسلم لعمر حين سأل عن مناداته لأجساد لا أرواح لها؟",
+        "difficulty_score": 650,
+        "explanation": "قال: 'ما أنتم بأسمع لما أقول منهم، ولكنهم لا يقدرون أن يجيبوا' [19, 20].",
+        "choices": [
+            { "choice_text": "إنهم يحلمون الآن", "is_correct": false },
+            { "choice_text": "ما أنتم بأسمع لما أقول منهم", "is_correct": true },
+            { "choice_text": "إن الله أحياهم للحظة واحدة", "is_correct": false },
+            { "choice_text": "إنهم يسمعون بقلوبهم لا بآذانهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشاعر الصحابي الذي نظم قصيدة تصف مشهد نداء النبي للقتلى في القليب؟",
+        "difficulty_score": 700,
+        "explanation": "هو حسان بن ثابت رضي الله عنه [20, 21].",
+        "choices": [
+            { "choice_text": "كعب بن مالك", "is_correct": false },
+            { "choice_text": "عبد الله بن رواحة", "is_correct": false },
+            { "choice_text": "حسان بن ثابت", "is_correct": true },
+            { "choice_text": "الخنساء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هما الغلامان الأنصاريان اللذان سألا عبد الرحمن بن عوف عن أبي جهل؟",
+        "difficulty_score": 800,
+        "explanation": "لم تذكر الأسماء صراحة في هذا المقطع بل وُصفا بـ 'غلامين من الأنصار'، ولكن في موضع آخر ذُكر 'معاذ بن عمرو بن الجموح ومعاذ بن عفراء' [22, 23].",
+        "choices": [
+            { "choice_text": "عبد الله بن عمر وزيد بن حارثة", "is_correct": false },
+            { "choice_text": "معاذ بن عمرو ومعاذ بن عفراء", "is_correct": true },
+            { "choice_text": "الحسن والحسين", "is_correct": false },
+            { "choice_text": "أنس بن مالك وجابر بن عبد الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الذي جعل الغلامين الأنصاريين يحرصان على قتل أبي جهل؟",
+        "difficulty_score": 500,
+        "explanation": "لأنهما أُخبرا أنه يسب رسول الله صلى الله عليه وسلم [22, 24].",
+        "choices": [
+            { "choice_text": "للحصول على درعه وسيفه", "is_correct": false },
+            { "choice_text": "لأنه قتل والدهما في مكة", "is_correct": false },
+            { "choice_text": "لأنه يسب رسول الله صلى الله عليه وسلم", "is_correct": true },
+            { "choice_text": "لإثبات شجاعتهما أمام الجيش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أبو جهل لعبد الله بن مسعود وهو يرتقي صدره؟",
+        "difficulty_score": 750,
+        "explanation": "قال له باحتقار: 'لقد ارتقيت مرتقى صعباً يا رويعي الغنم' [23].",
+        "choices": [
+            { "choice_text": "أنا تائب فاعف عني", "is_correct": false },
+            { "choice_text": "لقد ارتقيت مرتقى صعباً يا رويعي الغنم", "is_correct": true },
+            { "choice_text": "أين جيش قريش الآن؟", "is_correct": false },
+            { "choice_text": "اقتلني بسرعة لأرتاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حاول عبد الرحمن بن عوف حماية أمية بن خلف في البداية؟",
+        "difficulty_score": 600,
+        "explanation": "لأن أمية طلب منه أن يكون أسيره ليفديه بالمال، وكان بينهما حلف قديم [25].",
+        "choices": [
+            { "choice_text": "لأنه أسلم في السر", "is_correct": false },
+            { "choice_text": "لوجود حلف قديم ولأنه أراد أخذه كأسيراً للفداء", "is_correct": true },
+            { "choice_text": "بأمر مباشر من النبي", "is_correct": false },
+            { "choice_text": "لأنه كان مريضاً لا يقوى على القتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي صرخ عندما رأى أمية بن خلف وقال: 'لا نجوت إن نجا أمية'؟",
+        "difficulty_score": 400,
+        "explanation": "هو بلال بن رباح رضي الله عنه الذي ذاق العذاب على يد أمية [26].",
+        "choices": [
+            { "choice_text": "عمار بن ياسر", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "بلال بن رباح", "is_correct": true },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة الإصلاحية من وقوع النصر لـ 'المستضعفين' على 'المستكبرين'؟",
+        "difficulty_score": 900,
+        "explanation": "لئلا يظن الكفار أنهم على الحق بسبب قوتهم المادية، فكان النصر 'بينة' ترفع الفتنة عن المؤمنين وتدين الكافرين [27, 28].",
+        "choices": [
+            { "choice_text": "مجرد الانتقام من قريش", "is_correct": false },
+            { "choice_text": "أن يكون النصر بينة وقطعاً لحجة الكفار بأنهم على الحق لقوتهم", "is_correct": true },
+            { "choice_text": "توسيع رقعة الدولة الإسلامية", "is_correct": false },
+            { "choice_text": "اختبار صبر المؤمنين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم في حق حاطب بن أبي بلتعة رغم خطئه؟",
+        "difficulty_score": 700,
+        "explanation": "قال إنه شهد بدراً والحديبية، ولن يدخل النار [29].",
+        "choices": [
+            { "choice_text": "إنه منافق يجب قتله", "is_correct": false },
+            { "choice_text": "إنه شهد بدراً والحديبية ولن يدخل النار", "is_correct": true },
+            { "choice_text": "يجب نفيه من المدينة", "is_correct": false },
+            { "choice_text": "لا تقبل توبته أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم أفضل الملائكة عند الله كما ورد في حديث جبريل؟",
+        "difficulty_score": 750,
+        "explanation": "هم الذين شهدوا معركة بدر مع النبي صلى الله عليه وسلم [30].",
+        "choices": [
+            { "choice_text": "حملة العرش", "is_correct": false },
+            { "choice_text": "الذين شهدوا بدراً من الملائكة", "is_correct": true },
+            { "choice_text": "ملائكة الوحي", "is_correct": false },
+            { "choice_text": "خزنة الجنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو البعد التربوي لقوله تعالى: 'اعملوا ما شئتم فقد غفرت لكم' لأهل بدر؟",
+        "difficulty_score": 800,
+        "explanation": "هذا تشريف عظيم لمكانة أهل بدر، وعلم الله بصدقهم وثباتهم المستقبلي [30].",
+        "choices": [
+            { "choice_text": "دعوة لترك العمل والعبادة", "is_correct": false },
+            { "choice_text": "تشريف لمكانة أهل بدر وعلم الله بصدق ثباتهم", "is_correct": true },
+            { "choice_text": "أنه لا يمكنهم ارتكاب أي ذنب", "is_correct": false },
+            { "choice_text": "أن المغفرة خاصة بالصحابة فقط دون الملائكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر مشاركة الملائكة في المعركة؟",
+        "difficulty_score": 550,
+        "explanation": "وصفها بأنها مشاركة 'حسية' (بالضرب والقتل) و'معنوية' (بالتثبيت) [13].",
+        "choices": [
+            { "choice_text": "كانت مشاركة معنوية فقط بالدعاء", "is_correct": false },
+            { "choice_text": "كانت مشاركة حسية ومعنوية", "is_correct": true },
+            { "choice_text": "لم يراهم أحد ولم يسمعهم أحد", "is_correct": false },
+            { "choice_text": "كانوا يراقبون من بعيد فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو شقيق سعد بن أبي وقاص الذي استشهد في بدر وكان صغيراً؟",
+        "difficulty_score": 850,
+        "explanation": "هو عمير بن أبي وقاص، وكان عمره ستة عشر عاماً [31].",
+        "choices": [
+            { "choice_text": "عمرو بن أبي وقاص", "is_correct": false },
+            { "choice_text": "عمير بن أبي وقاص", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'سهم غَرْب' الذي أصاب حارثة بن سراقة؟",
+        "difficulty_score": 900,
+        "explanation": "هو السهم الذي لا يُدرى من رماه ولا من أين أتى [31].",
+        "choices": [
+            { "choice_text": "سهم مسموم", "is_correct": false },
+            { "choice_text": "سهم لا يُدرى من رماه", "is_correct": true },
+            { "choice_text": "سهم طويل جداً", "is_correct": false },
+            { "choice_text": "سهم موجه بالوحي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المكان الذي استشهد فيه عبيدة بن الحارث في طريق العودة؟",
+        "difficulty_score": 800,
+        "explanation": "فاضت روحه في منطقة 'الصفراء' (قرب ذفران) [11].",
+        "choices": [
+            { "choice_text": "في قلب بدر", "is_correct": false },
+            { "choice_text": "في الصفراء", "is_correct": true },
+            { "choice_text": "داخل المدينة المنورة", "is_correct": false },
+            { "choice_text": "في مكة المكرمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان شعار المشركين وهم يطلبون المبارزة في البداية؟",
+        "difficulty_score": 500,
+        "explanation": "طلبوا مبارزة 'أكفاء' لهم من بني عمومتهم، فرفضوا الأنصار وطلبوا المهاجرين [10].",
+        "choices": [
+            { "choice_text": "أخرجوا إلينا الضعفاء", "is_correct": false },
+            { "choice_text": "أخرجوا إلينا أكفاءنا من قومنا", "is_correct": true },
+            { "choice_text": "لا نريد القتال بل الصلح", "is_correct": false },
+            { "choice_text": "أين محمد ليبارزنا؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبادة التي وصف بها النبي صلى الله عليه وسلم ليلة بدر؟",
+        "difficulty_score": 400,
+        "explanation": "الصلاة والبكاء والاستغاثة تحت شجرة حتى الصباح [5].",
+        "choices": [
+            { "choice_text": "الصيام المتواصل", "is_correct": false },
+            { "choice_text": "الصلاة والبكاء والاستغاثة", "is_correct": true },
+            { "choice_text": "تلاوة القرآن صمتاً", "is_correct": false },
+            { "choice_text": "النوم لتقوية الجسد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف القرآن الكريم فريقي بدر في قوله {إِذْ أَنتُم بِالْعُدْوَةِ الدُّنْيَا...}؟",
+        "difficulty_score": 750,
+        "explanation": "المؤمنون بالعدوة الدنيا، والمشركون بالعدوة القصوى، والركب أسفل منهم [27].",
+        "choices": [
+            { "choice_text": "المؤمنون في الجبل والمشركون في الوادي", "is_correct": false },
+            { "choice_text": "المؤمنون بالعدوة الدنيا والمشركون بالقصوى", "is_correct": true },
+            { "choice_text": "الكل كان في مكان واحد", "is_correct": false },
+            { "choice_text": "المؤمنون خلف الآبار والمشركون أمامها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من 'حمل النبي لهموم الحق' ليلة المعركة؟",
+        "difficulty_score": 800,
+        "explanation": "أن القائد يحمل همّ بقاء الرسالة والتوحيد لا مجرد النصر العسكري الشخصي [4, 5].",
+        "choices": [
+            { "choice_text": "أهمية التخطيط المادي وحده", "is_correct": false },
+            { "choice_text": "أن همّ القائد هو ظهور الحق وعبادة الله", "is_correct": true },
+            { "choice_text": "الخوف من الهزيمة يضعف القائد", "is_correct": false },
+            { "choice_text": "عدم الحاجة للدعاء عند وجود السلاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف تعامل النبي صلى الله عليه وسلم مع 'المعلومات' المستقاة من روي غنم قريش؟",
+        "difficulty_score": 600,
+        "explanation": "استنتج منها عدد الجيش بدقة من خلال عدد الذبائح [32].",
+        "choices": [
+            { "choice_text": "صدقهم في كل ما قالوا فوراً", "is_correct": false },
+            { "choice_text": "استنتج عدد الجيش من عدد الجزر (الذبائح)", "is_correct": true },
+            { "choice_text": "أمر بقتلهم لأنهم كاذبون", "is_correct": false },
+            { "choice_text": "تركهم يذهبون دون استجواب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القصة التي تدل على 'الجانب البشري' للنبي صلى الله عليه وسلم في بدر؟",
+        "difficulty_score": 450,
+        "explanation": "مشاركته لأصحابه في الاعتكاب على البعير وقوله 'ما أنتما بأقوى مني' [33].",
+        "choices": [
+            { "choice_text": "خوفه من الموت", "is_correct": false },
+            { "choice_text": "مشاركته في تعاقب الركوب على البعير", "is_correct": true },
+            { "choice_text": "طلبه للماء بكثرة", "is_correct": false },
+            { "choice_text": "غضبه على الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه النبي صلى الله عليه وسلم على المقتولين في القليب؟",
+        "difficulty_score": 300,
+        "explanation": "ناداهم بصناديد قريش وذكر أسماءهم [17].",
+        "choices": [
+            { "choice_text": "شهداء قريش", "is_correct": false },
+            { "choice_text": "صناديد قريش", "is_correct": true },
+            { "choice_text": "أبرياء مكة", "is_correct": false },
+            { "choice_text": "مهاجري مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الغاية النهائية من 'يوم الفرقان' كما لخصها المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "إعلاء كلمة الحق، كسر شوكة الباطل، وإقامة الحجة على الخلق بصدق الإسلام [34, 35].",
+        "choices": [
+            { "choice_text": "جمع المال والغنائم", "is_correct": false },
+            { "choice_text": "إعلاء الحق وكسر شوكة الباطل وإقامة البينة", "is_correct": true },
+            { "choice_text": "القضاء على كل أهل مكة", "is_correct": false },
+            { "choice_text": "تأمين طريق القوافل فقط", "is_correct": false }
+        ]
+    }
+]
+    }

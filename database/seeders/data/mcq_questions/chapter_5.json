@@ -1,0 +1,885 @@
+{
+    "chapter_id": 5,
+    "questions": [
+  {
+    "question_text": "إلى أي الجذوع القبلية ينتمي الإمام مالك بن أنس وفق ما اتفق عليه الرواة في النص؟",
+    "difficulty_score": 150,
+    "explanation": "ينحدر الإمام مالك من قبيلة الأصبحي، وقد أجمع الرواة على انتسابه إلى قحطان، وهو ما يعكس جذوره العربية العميقة.",
+    "choices": [
+      { "choice_text": "عدنان", "is_correct": false },
+      { "choice_text": "قحطان", "is_correct": true },
+      { "choice_text": "قريش", "is_correct": false },
+      { "choice_text": "تميم", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما الدلالة الرمزية لسنة ولادة الإمام مالك (93 هـ) كما ورد في السياق التاريخي للنص؟",
+    "difficulty_score": 250,
+    "explanation": "تعد سنة 93 هـ سنة محورية لأنها شهدت ولادة إمام دار الهجرة بالتزامن مع وفاة الصحابي الجليل أنس بن مالك، مما يرمز لانتقال مشعل العلم في المدينة.",
+    "choices": [
+      { "choice_text": "سنة فتح الأندلس", "is_correct": false },
+      { "choice_text": "سنة وفاة أنس بن مالك رضي الله عنه", "is_correct": true },
+      { "choice_text": "سنة وفاة سعيد بن المسيب", "is_correct": false },
+      { "choice_text": "سنة تولية عمر بن عبد العزيز", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا استفتح الإمام مالك كلامه بعد التشهد في لحظات احتضاره الأخيرة؟",
+    "difficulty_score": 300,
+    "explanation": "وفقاً للنص، ختم الإمام مالك حياته بكلمات تدل على الرضا والتسليم المطلق لله عز وجل، وهي (لله الأمر من قبل ومن بعد).",
+    "choices": [
+      { "choice_text": "الحمد لله الذي بنعمته تتم الصالحات", "is_correct": false },
+      { "choice_text": "لله الأمر من قبل ومن بعد", "is_correct": true },
+      { "choice_text": "رضيت بالله رباً وبالإسلام ديناً", "is_correct": false },
+      { "choice_text": "لا حول ولا قوة إلا بالله", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الشغل الشاغل للإمام مالك داخل بيته كما وصفته أخته؟",
+    "difficulty_score": 200,
+    "explanation": "كانت حياة الإمام مالك الخاصة انعكاساً لورعه، حيث أفادت أخته بأن وقته في البيت كان مستغرقاً في تلاوة المصحف ومدارسته.",
+    "choices": [
+      { "choice_text": "تصنيف الكتب الفقهية", "is_correct": false },
+      { "choice_text": "المصحف والتلاوة", "is_correct": true },
+      { "choice_text": "استقبال الوفود العلمية", "is_correct": false },
+      { "choice_text": "تدريب الطلاب على المناظرة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو 'رأس العلم' والقيمة المركزية التي كان يمثلها الإمام مالك والسلف الصالح؟",
+    "difficulty_score": 700,
+    "explanation": "يعتبر السلف أن العلم ليس بكثرة الرواية فحسب، بل هو خشية الله ومخافته، وهي الثمرة الحقيقية التي كان مالك يجسدها.",
+    "choices": [
+      { "choice_text": "قوة الاستنباط والقياس", "is_correct": false },
+      { "choice_text": "مخافة الله سبحانه وتعالى", "is_correct": true },
+      { "choice_text": "حفظ المتون والآثار", "is_correct": false },
+      { "choice_text": "معرفة وجوه الخلاف بين العلماء", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من صاحب المقولة: (لو شئت أن أمأل ألواحي من قول مالك: لا أدري لفعلت)؟",
+    "difficulty_score": 450,
+    "explanation": "هذه الشهادة صدرت عن ابن وهب، أحد كبار تلاميذ مالك، للدلالة على شدة توقف الإمام وورعه عن القول في دين الله بغير يقين.",
+    "choices": [
+      { "choice_text": "الإمام الشافعي", "is_correct": false },
+      { "choice_text": "ابن القاسم", "is_correct": false },
+      { "choice_text": "ابن وهب", "is_correct": true },
+      { "choice_text": "سفيان بن عيينة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "في الواقعة التي جاء فيها رجل من العراق لسؤال مالك، كم كان عدد المسائل التي أجاب فيها بـ 'لا أدري'؟",
+    "difficulty_score": 550,
+    "explanation": "ذكر النص أن الرجل سأله عن بضع وأربعين مسألة، فتوقف الإمام في ست وثلاثين منها، مما يبرز منهجه في التثبت والورع.",
+    "choices": [
+      { "choice_text": "عشر مسائل فقط", "is_correct": false },
+      { "choice_text": "ست وثلاثون مسألة", "is_correct": true },
+      { "choice_text": "أربعون مسألة كاملة", "is_correct": false },
+      { "choice_text": "خمس وعشرون مسألة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي الفلسفة التربوية التي اعتمدها بعض المشايخ مثل محمد بن إبراهيم عند قولهم 'لا أدري' في مسائل واضحة؟",
+    "difficulty_score": 850,
+    "explanation": "لم يكن التوقف لجهل بالحكم، بل كان أسلوباً تربوياً لتعليم الطلاب عظمة الفتيا، وكسر حدة الجرأة على القول على الله بغير علم.",
+    "choices": [
+      { "choice_text": "اختبار قدرة الطالب على البحث", "is_correct": false },
+      { "choice_text": "تربية الطلاب على هيبة الفتيا والسمت", "is_correct": true },
+      { "choice_text": "إفساح المجال للاجتهاد الجماعي", "is_correct": false },
+      { "choice_text": "انتظار مراجعة المصادر والمراجع", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الحد الأدنى لعمر الإمام مالك حين تصدر للإفادة والجلوس للناس؟",
+    "difficulty_score": 350,
+    "explanation": "رغم نبوغه المبكر، لم يجلس الإمام مالك للإفادة إلا بعد استكمال أدواته العلمية وبلوغه سن الحادية والعشرين.",
+    "choices": [
+      { "choice_text": "خمس عشرة سنة", "is_correct": false },
+      { "choice_text": "إحدى وعشرون سنة", "is_correct": true },
+      { "choice_text": "ثلاثون سنة", "is_correct": false },
+      { "choice_text": "أربعون سنة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الشرط الصارم الذي وضعه مالك لنفسه قبل أن يبدأ بممارسة الفتيا رسمياً؟",
+    "difficulty_score": 600,
+    "explanation": "لم يعتمد مالك على تزكيته لنفسه، بل قال: (ما أفتيت إلا بعد أن شهد لي سبعون محنكاً أني أهل لذلك)، والمحنك هو العالم المجرب.",
+    "choices": [
+      { "choice_text": "حفظ مائة ألف حديث بأسانيدها", "is_correct": false },
+      { "choice_text": "شهادة سبعين محنكاً من أهل العلم له", "is_correct": true },
+      { "choice_text": "موافقة والي المدينة المنورة", "is_correct": false },
+      { "choice_text": "تأليف كتاب الموطأ وعرضه على العلماء", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "كيف كان الإمام مالك يتهيأ جسدياً لمجلس تحديث الناس بسنة النبي ﷺ؟",
+    "difficulty_score": 400,
+    "explanation": "كان الإمام مالك لا يُحدِّث إلا وهو على أكمل هيئة؛ فيغتسل ويتطيب ويلبس أحسن ثيابه تعظيماً وإجلالاً لحديث رسول الله ﷺ.",
+    "choices": [
+      { "choice_text": "كان يكتفي بالوضوء العادي", "is_correct": false },
+      { "choice_text": "يغتسل ويتطيب ويلبس أحسن ثيابه", "is_correct": true },
+      { "choice_text": "كان يلبس ثياب الزهد الخشنة", "is_correct": false },
+      { "choice_text": "كان لا يشترط هيئة معينة إلا الطهارة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "أي واقعه جسدية حدثت لمالك في مجلسه ولم تقطعه عن الدرس تعظيماً للسنة؟",
+    "difficulty_score": 650,
+    "explanation": "يُروى أن الإمام مالك لدغ في مجلس الدرس عدة مرات، فصبر ولم يتحرك أو يقطع الحديث، إجلالاً لحديث النبي ﷺ الذي كان يرويه.",
+    "choices": [
+      { "choice_text": "سقوط سقف المسجد بجانبه", "is_correct": false },
+      { "choice_text": "لدغه في المجلس دون أن يتحرك", "is_correct": true },
+      { "choice_text": "إصابة قدمه بنزيف حاد", "is_correct": false },
+      { "choice_text": "تعرضه لوعكة صحية مفاجئة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو العالم الذي جزم بأن مالك بن أنس هو المعني بحديث 'عالم المدينة'؟",
+    "difficulty_score": 500,
+    "explanation": "ذهب سفيان بن عيينة إلى أن المقصود بحديث (يوشك أن يضرب الناس أكباد الإبل...) هو الإمام مالك، مؤكداً أنه لم يترك خلفه مثله.",
+    "choices": [
+      { "choice_text": "الإمام أحمد بن حنبل", "is_correct": false },
+      { "choice_text": "سفيان بن عيينة", "is_correct": true },
+      { "choice_text": "الإمام الشافعي", "is_correct": false },
+      { "choice_text": "عبد الرحمن بن مهدي", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا شبه الإمام الشافعي مكانة شيخه مالك بين سائر العلماء؟",
+    "difficulty_score": 300,
+    "explanation": "أطلق الشافعي وصفاً بليغاً على الإمام مالك بقوله: (إذا ذكر العلماء فمالك النجم)، إشارة إلى علوه وضياء علمه.",
+    "choices": [
+      { "choice_text": "شبهه بالبحر المحيط", "is_correct": false },
+      { "choice_text": "شبهه بالنجم", "is_correct": true },
+      { "choice_text": "شبهه بالجبل الراسي", "is_correct": false },
+      { "choice_text": "شبهه بالشمس الضاحية", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الوصف الذي أطلقه ابن مهدي على عقل الإمام مالك وهيبته؟",
+    "difficulty_score": 600,
+    "explanation": "قال ابن مهدي: (ما رأيت أحداً أهيب ولا أمت عقلاً من مالك)، مما يدل على اجتماع الرهبة العلمية والحكمة العقلية فيه.",
+    "choices": [
+      { "choice_text": "وصفه بحدة الذكاء وسرعة الجواب", "is_correct": false },
+      { "choice_text": "وصفه بالهيبة وتمام العقل", "is_correct": true },
+      { "choice_text": "وصفه بكثرة الصمت والزهد", "is_correct": false },
+      { "choice_text": "وصفه بالشدة في الحق على السلاطين", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "في أي سنة هجرية فارق إمام دار الهجرة مالك بن أنس الحياة؟",
+    "difficulty_score": 100,
+    "explanation": "توفي الإمام مالك في المدينة المنورة سنة 179 هـ، بعد عمر مديد قضاه في خدمة السنة والفقه.",
+    "choices": [
+      { "choice_text": "150 هـ", "is_correct": false },
+      { "choice_text": "179 هـ", "is_correct": true },
+      { "choice_text": "198 هـ", "is_correct": false },
+      { "choice_text": "204 هـ", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "وفقاً للنص، ما هو السبب الرئيسي الذي قد يجعل الإمام يتوقف ويقول 'لا أدري' في مسألة قد يحفظ فيها مئات الأحاديث؟",
+    "difficulty_score": 800,
+    "explanation": "يرجع التوقف إلى تعارض الأدلة عند الإمام أو وجود اختلاف بين الصحابة، مما يجعله يتورع عن ترجيح قول بلا بينة قطعية.",
+    "choices": [
+      { "choice_text": "نسيان الأسانيد الدقيقة للمسألة", "is_correct": false },
+      { "choice_text": "تعارض الأدلة أو اختلاف الصحابة", "is_correct": true },
+      { "choice_text": "خوفه من مخالفة رأي السلطان", "is_correct": false },
+      { "choice_text": "رغبته في دفع الطلاب للبحث بأنفسهم", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "أي من الآيات الكريمة استخدمها النص للتحذير من القول على الله بغير علم ووصفه بالكذب؟",
+    "difficulty_score": 750,
+    "explanation": "استشهد النص بقوله تعالى: (وَلَا تَقُولُوا لِمَا تَصِفُ أَلْسِنَتُكُمُ الْكَذِبَ هَٰذَا حَلَالٌ وَهَٰذَا حَرَامٌ...)، للتأكيد على خطورة الفتيا بغير علم.",
+    "choices": [
+      { "choice_text": "آية الكرسي", "is_correct": false },
+      { "choice_text": "آية التحليل والتحريم في سورة النحل", "is_correct": true },
+      { "choice_text": "آية المداينة في سورة البقرة", "is_correct": false },
+      { "choice_text": "آية المواريث في سورة النساء", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو الإمام الذي كان يحضر مجلسه خمسة آلاف، لا يكتب منهم إلا خمسمائة والبقية يأخذون من سمته وأدبه؟",
+    "difficulty_score": 500,
+    "explanation": "ذكر النص أن هذا الوصف ينطبق على مجلس الإمام أحمد، وهو امتداد لمدرسة السمت والأدب التي كان مالك أحد أعمدتها.",
+    "choices": [
+      { "choice_text": "الإمام مالك", "is_correct": false },
+      { "choice_text": "الإمام أحمد بن حنبل", "is_correct": true },
+      { "choice_text": "الإمام الشافعي", "is_correct": false },
+      { "choice_text": "الإمام أبو حنيفة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو اللقب العلمي الشهير المرتبط بمالك بن أنس والوارد في مطلع النص؟",
+    "difficulty_score": 150,
+    "explanation": "عُرف الإمام مالك بلقب 'إمام دار الهجرة'، لالتزامه بالمدينة المنورة وعدم خروجه منها طلباً للعلم في بلدان أخرى.",
+    "choices": [
+      { "choice_text": "فقيه الأمة", "is_correct": false },
+      { "choice_text": "إمام دار الهجرة", "is_correct": true },
+      { "choice_text": "ناصر السنة", "is_correct": false },
+      { "choice_text": "شيخ الإسلام", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما المقصود بلفظ 'محنكاً' الذي ورد في شرط مالك للإفتاء؟",
+    "difficulty_score": 850,
+    "explanation": "المحنك هو العالم الذي أدارته الأمور وجربها، وهو كناية عن كمال العقل والخبرة العلمية والحياة الفقهية الطويلة.",
+    "choices": [
+      { "choice_text": "الطالب الذي حفظ المتون", "is_correct": false },
+      { "choice_text": "العالم المجرب وصاحب الحكمة", "is_correct": true },
+      { "choice_text": "القاضي المعين من قبل الدولة", "is_correct": false },
+      { "choice_text": "المحدث الذي يروي الأسانيد", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "لماذا شدد النص على ضرورة تربية طالب العلم على كلمة 'لا أدري'؟",
+    "difficulty_score": 700,
+    "explanation": "لأنها تحمي الطالب من التكلم في دين الله بالذوق أو الإحساس المجرد، وتمنعه من الوقوع في كبائر الذنوب كالقول على الله بغير علم.",
+    "choices": [
+      { "choice_text": "لإظهار التواضع الشكلي أمام الناس", "is_correct": false },
+      { "choice_text": "لأن القول بغير علم من كبائر الذنوب", "is_correct": true },
+      { "choice_text": "لتوفير الوقت في المسائل الصعبة", "is_correct": false },
+      { "choice_text": "لكي لا يخطئ في الفتيا فيُحاسب قانونياً", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "إلى أي حد كان الإمام مالك يتشدد في الفتيا كما ورد في قصة الرجل العراقي؟",
+    "difficulty_score": 600,
+    "explanation": "كان يتشدد لدرجة أنه لم يبالِ برد السائل خائباً في معظم مسائله (36 من بضع وأربعين) مخافة أن يقول ما لا يتيقن منه.",
+    "choices": [
+      { "choice_text": "كان يفتي في المسائل السهلة فقط", "is_correct": false },
+      { "choice_text": "كان يتوقف في الغالبية العظمى من المسائل", "is_correct": true },
+      { "choice_text": "كان يحيل كل المسائل إلى غيره من العلماء", "is_correct": false },
+      { "choice_text": "كان يطلب مهلة سنة للإجابة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الاسم الكامل لوالد الإمام مالك وجده كما ذكر النص؟",
+    "difficulty_score": 200,
+    "explanation": "اسمه مالك بن أنس بن مالك بن أبي عامر الأصبحي، ونسبه ممتد في الأصالة العربية.",
+    "choices": [
+      { "choice_text": "مالك بن إدريس بن مالك", "is_correct": false },
+      { "choice_text": "مالك بن أنس بن مالك", "is_correct": true },
+      { "choice_text": "مالك بن وهب بن مالك", "is_correct": false },
+      { "choice_text": "مالك بن نافع بن مالك", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "أي من الأئمة الأربعة تم ذكر دأبهم على قول 'لا أدري' بجانب مالك؟",
+    "difficulty_score": 450,
+    "explanation": "أكد النص أن هذا كان دأب الأئمة الأربعة جميعاً: مالك، والشافعي، وأحمد، وأبو حنيفة، وهو منهج السلف العام.",
+    "choices": [
+      { "choice_text": "أحمد بن حنبل فقط", "is_correct": false },
+      { "choice_text": "جميع الأئمة الأربعة", "is_correct": true },
+      { "choice_text": "الشافعي ومالك فقط", "is_correct": false },
+      { "choice_text": "أبو حنيفة وأحمد فقط", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "وفقاً للنص، ماذا كان رد فعل السلف تجاه من يفتي 'بالذوق' أو 'الإحساس'؟",
+    "difficulty_score": 750,
+    "explanation": "اعتبروا ذلك تجرؤاً على دين الله وكذباً عليه، واستشهدوا بآيات سورتي الزمر والنحل للنهي عن ذلك.",
+    "choices": [
+      { "choice_text": "كانوا يستحسنون ذوق الفقيه اللطيف", "is_correct": false },
+      { "choice_text": "اعتبروه من الكذب على الله ومحرمات الفتيا", "is_correct": true },
+      { "choice_text": "شجعوا عليه لتيسير أمور الناس", "is_correct": false },
+      { "choice_text": "اعتبروه اجتهاداً مأجوراً في كل حال", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي القيمة التي كان طلاب العلم يحرصون على تلقيها من الشيوخ قبل العلم؟",
+    "difficulty_score": 500,
+    "explanation": "كان الطلاب يحرصون على تلقي 'الأدب والسمت'، وهما الهيئة والوقار والورع الذي يسبق تحصيل المعلومات الجافة.",
+    "choices": [
+      { "choice_text": "طرق الجدل والمناظرة", "is_correct": false },
+      { "choice_text": "الأدب والسمت", "is_correct": true },
+      { "choice_text": "سرعة الكتابة والتدوين", "is_correct": false },
+      { "choice_text": "حفظ غريب اللغة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو تلميذ مالك الذي روى عنه حرصه على قول 'لا أدري' لدرجة امتلاء الألواح؟",
+    "difficulty_score": 400,
+    "explanation": "هو ابن وهب، الذي نقل لنا صورة حية عن منهج مالك في التوقف العلمي.",
+    "choices": [
+      { "choice_text": "أشهب بن عبد العزيز", "is_correct": false },
+      { "choice_text": "ابن وهب", "is_correct": true },
+      { "choice_text": "سحنون بن سعيد", "is_correct": false },
+      { "choice_text": "أسد بن الفرات", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "لماذا لم يغادر الإمام مالك المدينة لطلب العلم في بلدان أخرى؟",
+    "difficulty_score": 600,
+    "explanation": "لأن المدينة كانت مستقر علم النبي ﷺ والصحابة، وكان مالك يرى أن علم العالم كله محصور في 'عالم المدينة' وما تفرع عنها.",
+    "choices": [
+      { "choice_text": "بسبب منعه من قبل السلطة", "is_correct": false },
+      { "choice_text": "لاكتفائه بعلم أهل المدينة وميراثها النبوي", "is_correct": true },
+      { "choice_text": "لضعف حالته المادية للسفر", "is_correct": false },
+      { "choice_text": "لانشغاله بتربية أبنائه", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو أصل نسب الإمام مالك التاريخي؟",
+    "difficulty_score": 250,
+    "explanation": "أثبت النص اتفاق الرواة على كونه من قحطان، وهي من أمهات القبائل العربية.",
+    "choices": [
+      { "choice_text": "مضري", "is_correct": false },
+      { "choice_text": "قحطاني", "is_correct": true },
+      { "choice_text": "كناني", "is_correct": false },
+      { "choice_text": "تميمي", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "في حديث 'عالم المدينة'، ماذا تعني عبارة 'يضرب الناس أكباد الإبل'؟",
+    "difficulty_score": 800,
+    "explanation": "هي كناية عن شدة السفر والترحال وبذل الجهد العظيم في قطع المسافات طلباً للعلم.",
+    "choices": [
+      { "choice_text": "تجارة الإبل وبيعها", "is_correct": false },
+      { "choice_text": "الترحال والسفر الشديد لطلب العلم", "is_correct": true },
+      { "choice_text": "العمل في رعي الإبل", "is_correct": false },
+      { "choice_text": "استخدام الإبل في الحروب", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو الشيخ الذي روى النص عن طريقته في تربية طلابه على قول 'لا أدري'؟",
+    "difficulty_score": 650,
+    "explanation": "هو الشيخ محمد بن إبراهيم (مفتي الديار السعودية سابقاً)، حيث ذكر النص قصته مع طلابه كنموذج معاصر لمنهج السلف.",
+    "choices": [
+      { "choice_text": "الشيخ عبد العزيز بن باز", "is_correct": false },
+      { "choice_text": "الشيخ محمد بن إبراهيم", "is_correct": true },
+      { "choice_text": "الشيخ محمد بن عبد الوهاب", "is_correct": false },
+      { "choice_text": "الشيخ ابن عثيمين", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "كيف وصف النص أثر 'مخافة الله' على العلم؟",
+    "difficulty_score": 700,
+    "explanation": "وصفها بأنها 'رأس العلم'، أي أصله وأساسه الذي تنبثق منه كل الفروع المعرفية النافعة.",
+    "choices": [
+      { "choice_text": "أنها زينة للعالم فقط", "is_correct": false },
+      { "choice_text": "أنها رأس العلم وأساسه", "is_correct": true },
+      { "choice_text": "أنها مرحلة تأتي بعد إتقان الفقه", "is_correct": false },
+      { "choice_text": "أنها خاصة بالزهاد لا بالفقهاء", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي الميزة التي انفرد بها مالك في مجلس تحديثه ولم تذكر لغيره في النص؟",
+    "difficulty_score": 550,
+    "explanation": "الميزة هي المبالغة في التعظيم الجسدي (الغسل والطيب واللباس الحسن) قبل البدء بذكر الحديث النبوي.",
+    "choices": [
+      { "choice_text": "توزيع الجوائز على الطلاب", "is_correct": false },
+      { "choice_text": "الاغتسال والتطيب ولبس أحسن الثياب للدرس", "is_correct": true },
+      { "choice_text": "إلقاء الدرس وهو راكب", "is_correct": false },
+      { "choice_text": "كتابة الحديث بماء الذهب", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "إلى أي مدى بلغ ورع الإمام أحمد في الفتيا رغم حفظه لمئات الآلاف من الآثار؟",
+    "difficulty_score": 850,
+    "explanation": "كان يقول 'لا أدري' في مئات المسائل رغم علمه بالأحاديث فيها، وذلك تحرجاً من الترجيح عند تعارض الأدلة.",
+    "choices": [
+      { "choice_text": "كان يفتي في كل ما يُسأل عنه", "is_correct": false },
+      { "choice_text": "كان يتوقف في مئات المسائل ورعاً", "is_correct": true },
+      { "choice_text": "كان يحول السائل دائماً إلى مذهب مالك", "is_correct": false },
+      { "choice_text": "كان لا يفتي إلا في مسائل العبادات", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي السنة التي توفي فيها الصحابي أنس بن مالك؟",
+    "difficulty_score": 200,
+    "explanation": "توفي في سنة 93 هـ، وهي السنة ذاتها التي ولد فيها الإمام مالك بن أنس.",
+    "choices": [
+      { "choice_text": "70 هـ", "is_correct": false },
+      { "choice_text": "93 هـ", "is_correct": true },
+      { "choice_text": "110 هـ", "is_correct": false },
+      { "choice_text": "80 هـ", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو موقف الإمام مالك من التسرع في الفتيا؟",
+    "difficulty_score": 400,
+    "explanation": "كان شديد التحذير منه، ولم يفتِ إلا بعد تزكية واسعة من سبعين من علماء المدينة المشهود لهم.",
+    "choices": [
+      { "choice_text": "كان يراه علامة على قوة العلم", "is_correct": false },
+      { "choice_text": "كان يحذر منه أشد التحذير", "is_correct": true },
+      { "choice_text": "كان يراه ضرورياً لمواكبة الأحداث", "is_correct": false },
+      { "choice_text": "كان يشجع عليه طلابه الأذكياء", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "أي المدارس الفقهية يعتبر مالك بن أنس إمامها الأول؟",
+    "difficulty_score": 150,
+    "explanation": "يعتبر إمام مدرسة أهل المدينة، التي عُرفت لاحقاً بمدرسة أهل الحديث في الحجاز.",
+    "choices": [
+      { "choice_text": "مدرسة أهل الكوفة", "is_correct": false },
+      { "choice_text": "مدرسة أهل المدينة", "is_correct": true },
+      { "choice_text": "مدرسة أهل البصرة", "is_correct": false },
+      { "choice_text": "مدرسة أهل الشام", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا وصف النص حال من يتكلم في دين الله بغير علم يوم القيامة؟",
+    "difficulty_score": 750,
+    "explanation": "استشهد النص بقوله تعالى: (وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ)، لبيان سوء عاقبة التجرؤ على الفتيا.",
+    "choices": [
+      { "choice_text": "يُحشرون مع المنافقين", "is_correct": false },
+      { "choice_text": "تكون وجوههم مسودة", "is_correct": true },
+      { "choice_text": "يُحرمون من شفاعة النبي", "is_correct": false },
+      { "choice_text": "يُسألون عن كل صغيرة وكبيرة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي الخلاصة التي أراد النص إيصالها بخصوص علاقة العلم بالعمل عند مالك؟",
+    "difficulty_score": 600,
+    "explanation": "أن العلم ليس مجرد تراكم معلوماتي، بل هو سلوك وسمت وخشية تظهر في عبادة الإمام وتوقيره للسنة وتوقفه عن الفتيا.",
+    "choices": [
+      { "choice_text": "أن العمل يسبق العلم دائماً", "is_correct": false },
+      { "choice_text": "أن العلم الحقيقي يثمر الخشية والسمت", "is_correct": true },
+      { "choice_text": "أن العلم والعمل منفصلان في حياة الفقيه", "is_correct": false },
+      { "choice_text": "أن كثرة العلم تغني عن كثرة العبادة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الاسم الكامل للإمام الشافعي كما ورد في نسبه القرشي؟",
+    "difficulty_score": 200,
+    "explanation": "اسمه محمد بن إدريس الشافعي، وهو ينتسب إلى قريش من فرع بني المطلب.",
+    "choices": [
+      { "choice_text": "محمد بن إسماعيل الشافعي", "is_correct": false },
+      { "choice_text": "محمد بن إدريس الشافعي", "is_correct": true },
+      { "choice_text": "أحمد بن إدريس الشافعي", "is_correct": false },
+      { "choice_text": "إدريس بن محمد الشافعي", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "أين يلتقي نسب الإمام الشافعي مع النبي محمد ﷺ؟",
+    "difficulty_score": 600,
+    "explanation": "يلتقي نسبه مع النبي ﷺ في جدهما المشترك عبد مناف، مما يجعله قريشياً أصيلاً.",
+    "choices": [
+      { "choice_text": "في عبد المطلب", "is_correct": false },
+      { "choice_text": "في عبد مناف", "is_correct": true },
+      { "choice_text": "في هاشم", "is_correct": false },
+      { "choice_text": "في قصي بن كلاب", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي صلة القرابة بين 'المطلب' (الذي ينسب إليه الشافعي) و 'عبد المطلب' (جد النبي ﷺ)؟",
+    "difficulty_score": 650,
+    "explanation": "المطلب هو عم عبد المطلب، وهو أخو هاشم بن عبد مناف.",
+    "choices": [
+      { "choice_text": "المطلب هو ابن عبد المطلب", "is_correct": false },
+      { "choice_text": "المطلب هو عم عبد المطلب", "is_correct": true },
+      { "choice_text": "المطلب هو أخو عبد المطلب", "is_correct": false },
+      { "choice_text": "المطلب هو جد عبد المطلب", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "وفقاً للنص، لماذا سُمي 'عبد المطلب' بهذا الاسم؟",
+    "difficulty_score": 700,
+    "explanation": "لأن عمه 'المطلب' هو من أحضره من المدينة، فلما رآه أهل مكة معه ظنوا أنه عبده المجلوب، فلقبوه بعبد المطلب.",
+    "choices": [
+      { "choice_text": "لأنه كان يتعبد كثيراً لمطلب ربه", "is_correct": false },
+      { "choice_text": "لأن الناس ظنوه عبداً لعمه المطلب", "is_correct": true },
+      { "choice_text": "لأنه ولد في بيت رجل يسمى مطلب", "is_correct": false },
+      { "choice_text": "بأمر من أبيه هاشم بن عبد مناف", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "في أي مدينة ولد الإمام الشافعي وفقاً للمشهور من الأقوال؟",
+    "difficulty_score": 150,
+    "explanation": "ولد الإمام الشافعي في مدينة غزة بفلسطين، ثم انتقل منها إلى مكة وهو صغير.",
+    "choices": [
+      { "choice_text": "مكة المكرمة", "is_correct": false },
+      { "choice_text": "غزة", "is_correct": true },
+      { "choice_text": "المدينة المنورة", "is_correct": false },
+      { "choice_text": "بغداد", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي المصادفة التاريخية المرتبطة بسنة ولادة الشافعي (150 هـ)؟",
+    "difficulty_score": 250,
+    "explanation": "شهدت سنة 150 هـ ولادة الإمام الشافعي بالتزامن مع وفاة الإمام أبي حنيفة النعمان.",
+    "choices": [
+      { "choice_text": "وفاة الإمام مالك", "is_correct": false },
+      { "choice_text": "وفاة الإمام أبي حنيفة", "is_correct": true },
+      { "choice_text": "بدء الخلافة العباسية", "is_correct": false },
+      { "choice_text": "ولادة الإمام أحمد", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "عن من أخذ الإمام الشافعي فقه أهل مكة وسنة نبيها في مطلع طلبه للعلم؟",
+    "difficulty_score": 500,
+    "explanation": "تلقى فقه مكة عن سفيان بن عيينة وغيره من علماء الحرم المكي.",
+    "choices": [
+      { "choice_text": "مسلم بن خالد الزنجي فقط", "is_correct": false },
+      { "choice_text": "سفيان بن عيينة وغيره", "is_correct": true },
+      { "choice_text": "الإمام مالك بن أنس", "is_correct": false },
+      { "choice_text": "محمد بن الحسن الشيباني", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "كم كان عمر الشافعي حين أتم حفظ كتاب 'الموطأ' للإمام مالك؟",
+    "difficulty_score": 350,
+    "explanation": "أظهر الشافعي نبوغاً مبكراً بحفظه للموطأ وهو في العاشرة من عمره قبل رحيله لمالك.",
+    "choices": [
+      { "choice_text": "سبع سنوات", "is_correct": false },
+      { "choice_text": "عشر سنوات", "is_correct": true },
+      { "choice_text": "خمس عشرة سنة", "is_correct": false },
+      { "choice_text": "ثماني سنوات", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا وصف الشافعي كمية العلم التي كتبها عن محمد بن الحسن الشيباني في بغداد؟",
+    "difficulty_score": 750,
+    "explanation": "قال الشافعي: (كتبت عن محمد بن الحسن وقر بعير)، وهو تعبير عن غزارة ما حصله من فقه مدرسة أهل الرأي.",
+    "choices": [
+      { "choice_text": "ألف ورقة", "is_correct": false },
+      { "choice_text": "وقر بعير (حمل بعير)", "is_correct": true },
+      { "choice_text": "عشرة جملاد كبيرة", "is_correct": false },
+      { "choice_text": "مكتبة كاملة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الإنجاز العلمي الفريد الذي قام به الشافعي للتقريب بين المدارس الفقهية؟",
+    "difficulty_score": 900,
+    "explanation": "استطاع الشافعي الجمع بين مدرسة الحجاز (أهل الحديث) ومدرسة العراق (أهل الرأي)، وصهر المنهجين في قالب علمي واحد وقرب بينهما.",
+    "choices": [
+      { "choice_text": "إلغاء مدرسة أهل الرأي تماماً", "is_correct": false },
+      { "choice_text": "الجمع بين مدرستي الحجاز والعراق", "is_correct": true },
+      { "choice_text": "تأسيس مدرسة تعتمد على اللغة فقط", "is_correct": false },
+      { "choice_text": "تفضيل فقه اليمن على فقه المدينة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي البلاد الأربعة التي رحل إليها الشافعي لطلب العلم كما ورد في النص؟",
+    "difficulty_score": 450,
+    "explanation": "ذكر النص رحلاته المشرقية واليمانية وهي: مكة، والمدينة، وبغداد، واليمن.",
+    "choices": [
+      { "choice_text": "مكة والمدينة والبصرة ومصر", "is_correct": false },
+      { "choice_text": "مكة والمدينة وبغداد واليمن", "is_correct": true },
+      { "choice_text": "بغداد واليمن والشام ومصر", "is_correct": false },
+      { "choice_text": "مكة والمدينة واليمن ونيسابور", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "كم كان عدد ختمات القرآن للإمام الشافعي في شهر رمضان؟",
+    "difficulty_score": 400,
+    "explanation": "كان الشافعي يختم القرآن في رمضان ستين ختمة، بمعدل ختمة في الليل وختمة في النهار.",
+    "choices": [
+      { "choice_text": "ثلاثون ختمة", "is_correct": false },
+      { "choice_text": "ستون ختمة", "is_correct": true },
+      { "choice_text": "تسعون ختمة", "is_correct": false },
+      { "choice_text": "عشر ختمات", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "كيف كان الإمام الشافعي يوزع وقته في الليل وفقاً لتقسيمه الثلاثي؟",
+    "difficulty_score": 800,
+    "explanation": "قسم الشافعي ليله إلى ثلاثة أثلاث: ثلث للكتابة (العلم)، وثلث للصلاة (العبادة)، وثلث للنوم (الراحة).",
+    "choices": [
+      { "choice_text": "نصفه للصلاة ونصفه للنوم", "is_correct": false },
+      { "choice_text": "ثلث يكتب، وثلث يصلي، وثلث ينام", "is_correct": true },
+      { "choice_text": "كله في الصلاة والكتابة", "is_correct": false },
+      { "choice_text": "ثلث يقرأ، وثلث يدرس، وثلث ينام", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو التلميذ الذي نقل لنا تفاصيل عبادة الشافعي في الليل وترديده للآيات؟",
+    "difficulty_score": 600,
+    "explanation": "هو الحسين الكرابيسي، الذي بات مع الشافعي وراقب تدبره للقرآن في صلاة الليل.",
+    "choices": [
+      { "choice_text": "الربيع بن سليمان", "is_correct": false },
+      { "choice_text": "الحسين الكرابيسي", "is_correct": true },
+      { "choice_text": "المزني", "is_correct": false },
+      { "choice_text": "البويطي", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي الميزة التي لاحظها الكرابيسي في قراءة الشافعي للقرآن أثناء صلاته بالليل؟",
+    "difficulty_score": 850,
+    "explanation": "لاحظ أنه لا يزيد على خمسين آية أو مائة، لكنه يظل يرددها ويكررها بتدبر طوال ثلث الليل.",
+    "choices": [
+      { "choice_text": "سرعة القراءة لختم أجزاء كثيرة", "is_correct": false },
+      { "choice_text": "ترديد عدد قليل من الآيات بتدبر عميق", "is_correct": true },
+      { "choice_text": "قراءة القرآن كاملاً في ليلة واحدة", "is_correct": false },
+      { "choice_text": "البكاء بصوت مرتفع عند كل آية", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو الشيخ المكي الذي أذن للشافعي بالفتيا وهو ابن خمس عشرة سنة؟",
+    "difficulty_score": 550,
+    "explanation": "أجازه مسلم بن خالد الزنجي، مفتي مكة، حين رأى أهليته التامة للعلم والفتيا في سن مبكرة.",
+    "choices": [
+      { "choice_text": "سفيان بن عيينة", "is_correct": false },
+      { "choice_text": "مسلم بن خالد الزنجي", "is_correct": true },
+      { "choice_text": "الإمام مالك بن أنس", "is_correct": false },
+      { "choice_text": "سفيان الثوري", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا شبه الإمام أحمد بن حنبل حاجة الناس إلى الإمام الشافعي؟",
+    "difficulty_score": 300,
+    "explanation": "شبهه بالشمس للدنيا وبالعافية للناس، للتأكيد على أنه ضرورة لا غنى عنها.",
+    "choices": [
+      { "choice_text": "بالغيث للأرض الهامدة", "is_correct": false },
+      { "choice_text": "بالشمس للدنيا وبالعافية للناس", "is_correct": true },
+      { "choice_text": "بالقمر في الليلة الظلماء", "is_correct": false },
+      { "choice_text": "بالبحر الذي لا ينضب ماؤه", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو التلميذ الذي يُعد الناقل الأبرز لفقه الشافعي وراوي كتابيه 'الأم' و 'الرسالة'؟",
+    "difficulty_score": 400,
+    "explanation": "الربيع بن سليمان المرادي هو الذي حمل عبء نقل كتب الشافعي وفقهه للأجيال اللاحقة.",
+    "choices": [
+      { "choice_text": "يونس بن عبد الأعلى", "is_correct": false },
+      { "choice_text": "الربيع بن سليمان", "is_correct": true },
+      { "choice_text": "حرملة بن يحيى", "is_correct": false },
+      { "choice_text": "أبو ثور", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما المقولة التي ختم بها الإمام أحمد فضل الشافعي على أهل العلم؟",
+    "difficulty_score": 500,
+    "explanation": "قال الإمام أحمد: (ما أحد مس محبرة ولا قلماً إلا وللشافعي في عنقه منة).",
+    "choices": [
+      { "choice_text": "الشافعي أستاذ الدنيا", "is_correct": false },
+      { "choice_text": "للشافعي في عنق كل صاحب قلم منة", "is_correct": true },
+      { "choice_text": "الشافعي أعلم الناس بالكتاب والسنة", "is_correct": false },
+      { "choice_text": "لا يعرف قدر الشافعي إلا من جالس العلماء", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "إلى أي زمن ينتمي المذهب القديم والمذهب الجديد للإمام الشافعي وفق الخاتمة؟",
+    "difficulty_score": 850,
+    "explanation": "يشير المذهب القديم إلى فترته في العراق، والجديد إلى فترته في مصر، وهو ما سيتم تفصيله في الدروس القادمة.",
+    "choices": [
+      { "choice_text": "انتقاله من التصوف إلى الفقه", "is_correct": false },
+      { "choice_text": "مرحلتي مذهبه الفقهي وتطوره", "is_correct": true },
+      { "choice_text": "اختلافه مع الإمام مالك", "is_correct": false },
+      { "choice_text": "تغيير رأيه في العقائد", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "وفقاً للنص، ما هو أصل تسمية فرع 'المطلب' بهذا الاسم في قريش؟",
+    "difficulty_score": 750,
+    "explanation": "المطلب هو أخو هاشم، وقد ارتبط اسمه بتربية ابن أخيه 'شيبة' الذي لُقب بعبد المطلب، مما جعل هذا الفرع يُعرف بالمطلبيين.",
+    "choices": [
+      { "choice_text": "نسبة إلى طلب العلم", "is_correct": false },
+      { "choice_text": "نسبة إلى المطلب بن عبد مناف", "is_correct": true },
+      { "choice_text": "نسبة إلى كثرة مطالبهم في الجاهلية", "is_correct": false },
+      { "choice_text": "نسبة إلى جبل في مكة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي الحجة التي كان يرتكز عليها أهل الحجاز في 'المنافسة' مع مدرسة العراق؟",
+    "difficulty_score": 800,
+    "explanation": "كانوا يرون أنهم الأحق بالفقه لأن النبي ﷺ كان فيهم، وعندهم استقر أكثر الصحابة وميراث الوحي.",
+    "choices": [
+      { "choice_text": "أنهم أكثر ثراءً وقوة", "is_correct": false },
+      { "choice_text": "أن النبي والصحابة كانوا فيهم", "is_correct": true },
+      { "choice_text": "أن لغتهم العربية كانت أفصح", "is_correct": false },
+      { "choice_text": "أنهم أول من دون الفقه", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "في أي سن أتم الشافعي حفظ القرآن الكريم؟",
+    "difficulty_score": 300,
+    "explanation": "حفظ الإمام الشافعي القرآن الكريم وهو في السابعة من عمره، مما مهد لنبوغه الفقهي.",
+    "choices": [
+      { "choice_text": "خمس سنوات", "is_correct": false },
+      { "choice_text": "سبع سنوات", "is_correct": true },
+      { "choice_text": "تسع سنوات", "is_correct": false },
+      { "choice_text": "عشر سنوات", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو اللقب الذي يُطلق على الإمام الشافعي نسبةً إلى جده المطلب؟",
+    "difficulty_score": 200,
+    "explanation": "يُلقب بـ 'المطلبي'، وهو لقب يفتخر به لقرابته من النبي ﷺ.",
+    "choices": [
+      { "choice_text": "الهاشمي", "is_correct": false },
+      { "choice_text": "المطلبي", "is_correct": true },
+      { "choice_text": "العدوي", "is_correct": false },
+      { "choice_text": "الزهري", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا استشهد الشافعي للدفاع عن مدرسة أهل الحديث في وجه مدرسة أهل الرأي؟",
+    "difficulty_score": 700,
+    "explanation": "استخدم ما تعلمه من مدرسة الرأي ذاتها (من محمد بن الحسن) لينتصر لمنهج أهل الحديث بقوة الحجة والقياس.",
+    "choices": [
+      { "choice_text": "استشهد بأشعار العرب", "is_correct": false },
+      { "choice_text": "استخدم أدوات أهل الرأي لنصرة الحديث", "is_correct": true },
+      { "choice_text": "اعتمد على القوة العسكرية", "is_correct": false },
+      { "choice_text": "اعتمد على القصص التاريخية", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي الأبيات التي ذكرها النص لتسهيل حفظ نسب النبي ﷺ وأجداده؟",
+    "difficulty_score": 650,
+    "explanation": "ذكر النص منظومة تبدأ بـ (آباء سيد الورى على الرتب... هو ابن عبد الله عبد المطلب)، لتأصيل معرفة النسب الشريف.",
+    "choices": [
+      { "choice_text": "لامية العرب", "is_correct": false },
+      { "choice_text": "منظومة في نسب سيد الورى", "is_correct": true },
+      { "choice_text": "ألفية ابن مالك", "is_correct": false },
+      { "choice_text": "منظومة الشاطبية", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "أين تقع غزة التي وُلد فيها الشافعي وفق التقسيمات الجغرافية في النص؟",
+    "difficulty_score": 100,
+    "explanation": "ذكر النص أن الشافعي وُلد في غزة بفلسطين، وهي معلومة جغرافية تاريخية ثابتة.",
+    "choices": [
+      { "choice_text": "بمصر", "is_correct": false },
+      { "choice_text": "بفلسطين", "is_correct": true },
+      { "choice_text": "بالشام (دمشق)", "is_correct": false },
+      { "choice_text": "بالحجاز", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي وصفه الشافعي بأنه كتب منه 'وقر بعير'؟",
+    "difficulty_score": 600,
+    "explanation": "المقصود هي مجالس وكتب محمد بن الحسن الشيباني التي دونها الشافعي أثناء إقامته في بغداد.",
+    "choices": [
+      { "choice_text": "الموطأ", "is_correct": false },
+      { "choice_text": "كتب محمد بن الحسن الشيباني", "is_correct": true },
+      { "choice_text": "تفسير الطبري", "is_correct": false },
+      { "choice_text": "جامع سفيان الثوري", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "لماذا ارتحل الشافعي إلى اليمن كما ورد في النص؟",
+    "difficulty_score": 400,
+    "explanation": "ارتحل الشافعي إلى اليمن في طلب العلم وتولي بعض الأعمال، وهي إحدى محطات تكوينه العلمي.",
+    "choices": [
+      { "choice_text": "للتجارة فقط", "is_correct": false },
+      { "choice_text": "في رحلة علمية وتكوينية", "is_correct": true },
+      { "choice_text": "هرباً من الفتن في بغداد", "is_correct": false },
+      { "choice_text": "للقاء الإمام مالك هناك", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي العلاقة بين 'هاشم' و 'المطلب' في عمود النسب؟",
+    "difficulty_score": 650,
+    "explanation": "هاشم والمطلب أخوان، وهما ابنا عبد مناف، ومنهما تفرعت بيوت الشرف في قريش.",
+    "choices": [
+      { "choice_text": "أخوان ابنا عبد مناف", "is_correct": true },
+      { "choice_text": "أب وابنه", "is_correct": false },
+      { "choice_text": "ابن عم وابن عمه", "is_correct": false },
+      { "choice_text": "جد وحفيده", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا لُقب الشافعي من قبل سفيان بن عيينة شهادةً له؟",
+    "difficulty_score": 450,
+    "explanation": "شهد له شيخه سفيان بن عيينة بقوله: (الشافعي أفضل أهل زمانه).",
+    "choices": [
+      { "choice_text": "إمام المحدثين", "is_correct": false },
+      { "choice_text": "أفضل أهل زمانه", "is_correct": true },
+      { "choice_text": "فقيه مكة", "is_correct": false },
+      { "choice_text": "مجدد المائة الثانية", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ماذا كان يفعل الشافعي في ثلث ليله المخصص للصلاة؟",
+    "difficulty_score": 750,
+    "explanation": "كان يصلي ويقرأ عدداً قليلاً من الآيات (50-100 آية) لكنه يظل يكررها ويتدبرها طوال الوقت.",
+    "choices": [
+      { "choice_text": "يقرأ القرآن هذّاً (بسرعة)", "is_correct": false },
+      { "choice_text": "يكرر الآيات ويتدبرها بعمق", "is_correct": true },
+      { "choice_text": "يدعو لطلابه بأسمائهم", "is_correct": false },
+      { "choice_text": "يصلي صلاة مقتضبة لينام باكراً", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "أين استقر الإمام الشافعي في نهاية حياته وبها كانت وفاته؟",
+    "difficulty_score": 150,
+    "explanation": "استقر الإمام الشافعي في مصر، وفيها وضع مذهبه الجديد وتوفي سنة 204 هـ.",
+    "choices": [
+      { "choice_text": "بغداد", "is_correct": false },
+      { "choice_text": "مصر", "is_correct": true },
+      { "choice_text": "المدينة المنورة", "is_correct": false },
+      { "choice_text": "مكة المكرمة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الاسم الذي أطلقه النص على منهج 'شيبة' جد النبي ﷺ؟",
+    "difficulty_score": 800,
+    "explanation": "شيبة هو الاسم الأصلي لعبد المطلب، وسُمي عبد المطلب للقصة المشهورة مع عمه المطلب.",
+    "choices": [
+      { "choice_text": "هاشم", "is_correct": false },
+      { "choice_text": "شيبة", "is_correct": true },
+      { "choice_text": "قريش", "is_correct": false },
+      { "choice_text": "عبد مناف", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "من هو الصحابي الذي أخذت عنه مدرسة العراق فقهها بشكل أساسي؟",
+    "difficulty_score": 500,
+    "explanation": "ذكر النص أن مدرسة العراق اعتمدت بشكل كبير على فقه الصحابي عبد الله بن مسعود رضي الله عنه.",
+    "choices": [
+      { "choice_text": "ابن عمر رضي الله عنه", "is_correct": false },
+      { "choice_text": "ابن مسعود رضي الله عنه", "is_correct": true },
+      { "choice_text": "ابن عباس رضي الله عنه", "is_correct": false },
+      { "choice_text": "زيد بن ثابت رضي الله عنه", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "وفقاً للنص، ما هو وجه 'المنافسة' بين مدرسة الحجاز ومدرسة العراق؟",
+    "difficulty_score": 850,
+    "explanation": "تمثلت في التنافس العلمي حول الأحقية بميراث النبوة والصحابة، والفرق المنهجي بين الاعتماد على الحديث (الحجاز) والاعتماد على الرأي (العراق).",
+    "choices": [
+      { "choice_text": "منافسة على المناصب السياسية", "is_correct": false },
+      { "choice_text": "تنافس علمي ومنهجي وجغرافي", "is_correct": true },
+      { "choice_text": "خلاف حول لغة القرآن", "is_correct": false },
+      { "choice_text": "صراع على أموال الزكاة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هو الكتاب الذي رواه الربيع بن سليمان عن الشافعي ويُعد أصلاً في علم أصول الفقه؟",
+    "difficulty_score": 450,
+    "explanation": "هو كتاب 'الرسالة'، الذي وضعه الشافعي لتقعيد أصول الاستنباط الفقهي.",
+    "choices": [
+      { "choice_text": "كتاب الأم", "is_correct": false },
+      { "choice_text": "الرسالة", "is_correct": true },
+      { "choice_text": "المبسوط", "is_correct": false },
+      { "choice_text": "المغني", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "بماذا تميز ذكاء الشافعي كما وصفه النص؟",
+    "difficulty_score": 300,
+    "explanation": "وصفه بالفطنة والذكاء المفرط الذي مكنه من حفظ القرآن والموطأ والإفتاء في سن الصبا.",
+    "choices": [
+      { "choice_text": "ذكاء رياضي", "is_correct": false },
+      { "choice_text": "فطنة وذكاء وعبقرية علمية", "is_correct": true },
+      { "choice_text": "قدرة على الخطابة فقط", "is_correct": false },
+      { "choice_text": "قوة جسدية خارقة", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما المبدأ الذي سار عليه الشافعي في طلب العلم كما يُفهم من تنوع شيوخه؟",
+    "difficulty_score": 700,
+    "explanation": "مبدأ الموسوعية وعدم الانغلاق، حيث أخذ عن المكيين والمدنيين والعراقيين واليمانيين ليجمع شتات العلم.",
+    "choices": [
+      { "choice_text": "الاقتصار على مذهب واحد", "is_correct": false },
+      { "choice_text": "الموسوعية والترحال لجمع العلم", "is_correct": true },
+      { "choice_text": "الاعتماد على الكتب دون الشيوخ", "is_correct": false },
+      { "choice_text": "التخصص في علم الحديث فقط", "is_correct": false }
+    ]
+  },
+  {
+    "question_text": "ما هي السنة الهجرية التي فارق فيها الشافعي الحياة؟",
+    "difficulty_score": 100,
+    "explanation": "توفي الإمام الشافعي سنة 204 هـ في مصر، مكملاً مسيرة علمية حافلة.",
+    "choices": [
+      { "choice_text": "179 هـ", "is_correct": false },
+      { "choice_text": "204 هـ", "is_correct": true },
+      { "choice_text": "241 هـ", "is_correct": false },
+      { "choice_text": "150 هـ", "is_correct": false }
+    ]
+  }
+]
+}

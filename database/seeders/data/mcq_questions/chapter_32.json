@@ -1,0 +1,207 @@
+    {
+    "chapter_id": 32,
+    "questions": [
+            {
+        "question_text": "أي من الأبواب التالية يعتبر باباً منهجياً بامتياز؟",
+        "difficulty_score": 100,
+        "explanation": "أوضح الشيخ في بداية المحاضرة أن 'مصادر التلقي ومداخل العلوم' هو باب منهجي يترتب عليه فروع وتفاصيل كثيرة [1].",
+        "choices": [
+            { "choice_text": "الأبواب الفرعية التفصيلية", "is_correct": false },
+            { "choice_text": "علم القواعد الفقهية فقط", "is_correct": false },
+            { "choice_text": "مصادر التلقي ومداخل العلوم", "is_correct": true },
+            { "choice_text": "أحكام الصلاة والصيام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة المترتبة على إغلاق 'بوابة' نوع معين من المعارف؟",
+        "difficulty_score": 300,
+        "explanation": "عندما يغلق المتلقي بوابة معينة (مثل المعارف الغيبية)، فإنه يخسر كل ما يتعلق بالمعارف المرتبطة بهذا الباب ولا يمكنه قبول أي معلومة جزئية منه [9].",
+        "choices": [
+            { "choice_text": "يصبح أكثر دقة في نقد المعلومات", "is_correct": false },
+            { "choice_text": "خسارة كل المعارف المرتبطة بهذا الباب", "is_correct": true },
+            { "choice_text": "القدرة على التفريق بين الصواب والخطأ", "is_correct": false },
+            { "choice_text": "زيادة التركيز على العلوم المادية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يرفض الماديون معجزة الإسراء والمعراج حسب تحليل الشيخ؟",
+        "difficulty_score": 500,
+        "explanation": "الماديون يرفضون المعجزة لأنهم أغلقوا البوابة الكلية للمعارف الغيبية، وليس بسبب ضعف في تفاصيل المعجزة نفسها [7].",
+        "choices": [
+            { "choice_text": "لعدم وجود شهود عيان في ذلك الوقت", "is_correct": false },
+            { "choice_text": "لأن الحصان لا يمكنه الطيران في السماء", "is_correct": false },
+            { "choice_text": "لأنهم يرفضون بوابة المعارف الغيبية أصلاً", "is_correct": true },
+            { "choice_text": "لأن العلم الحديث أثبت استحالتها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا حصل للإمام الغزالي عندما وقع في إشكال 'ضبط مصادر المعرفة'؟",
+        "difficulty_score": 400,
+        "explanation": "انكسر عنده القسم الأول من المصادر (الحس والعقل)، مما أدى لوقوعه في حالة تيه وحيرة نفسية ومعرفية شديدة [10].",
+        "choices": [
+            { "choice_text": "ألف كتابه 'إحياء علوم الدين'", "is_correct": false },
+            { "choice_text": "اعتزل الناس للأبد", "is_correct": false },
+            { "choice_text": "وقع في حالة تيه وحيرة كبيرة", "is_correct": true },
+            { "choice_text": "سافر إلى بلاد اليونان لتعلم الفلسفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف خرج الغزالي من أزمته المعرفية؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر الغزالي أنه خرج منها بـ 'نور قذفه الله في قلبه' وليس بنتيجة معرفية أو كتاب معين [11].",
+        "choices": [
+            { "choice_text": "بعد قراءة كتب أرسطو", "is_correct": false },
+            { "choice_text": "بمناقشة كبار علماء عصره", "is_correct": false },
+            { "choice_text": "بنور قذفه الله في قلبه", "is_correct": true },
+            { "choice_text": "بعد دراسة معمقة لعلم المنطق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يؤول المعتزلة آية {إِلَىٰ رَبِّهَا نَاظِرَةٌ} بمعنى 'منتظرة'؟",
+        "difficulty_score": 600,
+        "explanation": "لأن لديهم منظومة معرفية (عقلية فلسفية) ترفض رؤية الله، فاعتبروها هي المصدر الأساسي وأوّلوا النص ليوافقها [12].",
+        "choices": [
+            { "choice_text": "لأسباب لغوية محضة", "is_correct": false },
+            { "choice_text": "لأنهم لا يؤمنون بالقرآن الكريم", "is_correct": false },
+            { "choice_text": "لتوافق النص مع منظومتهم العقلية المسبقة", "is_correct": true },
+            { "choice_text": "بناءً على أحاديث نبوية أخرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة ذكر الشيخ أن مركزية الخلاف مع الطوائف الإسلامية تعود لمخالفتها؟",
+        "difficulty_score": 450,
+        "explanation": "ذكر الشيخ أن أحد الأئمة رأى أن أصل الانحراف هو الخلاف في آيات سورة الحجرات، خاصة تقديم الرأي فوق قول النبي ﷺ [13].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة الحجرات", "is_correct": true },
+            { "choice_text": "سورة النحل", "is_correct": false },
+            { "choice_text": "سورة الإسراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين 'مصادر المعرفة العامة' و 'مصادر التلقي الشرعية'؟",
+        "difficulty_score": 300,
+        "explanation": "المصادر العامة تشمل كل ما يدركه الإنسان (حس، عقل، خبر) وتتضمن الصواب والخطأ، بينما الشرعية هي جزء منها بوابتها صحيحة دائماً [16، 17].",
+        "choices": [
+            { "choice_text": "المصادر العامة هي القرآن والسنة فقط", "is_correct": false },
+            { "choice_text": "المصادر الشرعية أعم من المصادر العامة", "is_correct": false },
+            { "choice_text": "المصادر الشرعية بوابتها لا يأتي منها إلا الصحيح", "is_correct": true },
+            { "choice_text": "لا يوجد فرق بينهما أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل يمكن البحث في 'قبول ورد' أفراد السنة النبوية؟",
+        "difficulty_score": 550,
+        "explanation": "نعم، القبول والرد يكون في البحث في 'أفراد الأحاديث' هل تثبت للرسول ﷺ أم لا، وليس في أصل المصدر (السنة) [14].",
+        "choices": [
+            { "choice_text": "لا، السنة يجب التسليم بها مطلقاً دون بحث", "is_correct": false },
+            { "choice_text": "نعم، من جهة التحقق من ثبوت الفرد للمصدر", "is_correct": true },
+            { "choice_text": "نعم، يحق لكل شخص رد ما لا يعجبه", "is_correct": false },
+            { "choice_text": "البحث يكون في القرآن فقط لا في السنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المصادر الثلاثة الأساسية للمعرفة العامة؟",
+        "difficulty_score": 200,
+        "explanation": "حدد الشيخ المصادر الأساسية للمعرفة في: الحس، والعقل، والخبر [2].",
+        "choices": [
+            { "choice_text": "القرآن، السنة، الإجماع", "is_correct": false },
+            { "choice_text": "الحس، العقل، الخبر", "is_correct": true },
+            { "choice_text": "التجربة، المادة، الروح", "is_correct": false },
+            { "choice_text": "الفلسفة، المنطق، الرياضيات", "is_correct": false }
+        ]
+    },
+    { "question_text": "هل يوجد حكم شرعي استقل العقل بتشريعه دون الكتاب والسنة؟", "difficulty_score": 600, "explanation": "أكد الشيخ أنه لا يوجد حكم في تفاصيل الشريعة استقل العقل بتقريره بعيداً عن الوحي بعد تأسيس البنيان الشرعي [15].", "choices": [ { "choice_text": "نعم، في المعاملات المالية", "is_correct": false }, { "choice_text": "نعم، في الأحكام الجنائية", "is_correct": false }, { "choice_text": "لا، لا يوجد استقلالية للعقل في التشريع", "is_correct": true }, { "choice_text": "نعم، فيما يوافق الفطرة فقط", "is_correct": false } ] },
+    { "question_text": "ما هي العلاقة المفترضة بين مصادر المعرفة ومصادر التلقي؟", "difficulty_score": 500, "explanation": "العلاقة الأساسية هي 'التوافق'، فلا تعارض حقيقي بين العقل الصريح والنقل الصحيح [25، 52].", "choices": [ { "choice_text": "التضاد والصراع", "is_correct": false }, { "choice_text": "التوافق والتكامل", "is_correct": true }, { "choice_text": "التبعية المطلقة للعقل", "is_correct": false }, { "choice_text": "الانفصال التام", "is_correct": false } ] },
+    { "question_text": "في أي مجال تشتغل الفلسفة الحديثة بشكل أكبر اليوم؟", "difficulty_score": 400, "explanation": "ذكر الشيخ أن أغلب ما تشتغل فيه الفلسفة اليوم هو فضاء 'المعرفة'، بعد أن كان سابقاً في فضاء 'الوجود' [16].", "choices": [ { "choice_text": "فضاء الوجود", "is_correct": false }, { "choice_text": "فضاء المادة", "is_correct": false }, { "choice_text": "فضاء المعرفة", "is_correct": true }, { "choice_text": "فضاء الأخلاق", "is_correct": false } ] },
+    { "question_text": "من هو صاحب مقال 'إنكار المعجزات' الذي كان له تأثير كبير؟", "difficulty_score": 450, "explanation": "صاحب المقال هو ديفيد هيوم، وقد أثر مقاله بشكل كبير على الفضاء الإسلامي لاحقاً [16].", "choices": [ { "choice_text": "جون لوك", "is_correct": false }, { "choice_text": "ديفيد هيوم", "is_correct": true }, { "choice_text": "ريتشارد دوكنز", "is_correct": false }, { "choice_text": "أرسطو", "is_correct": false } ] },
+    { "question_text": "ما هو جوهر الخلاف مع الملحدين اليوم حسب المصدر؟", "difficulty_score": 700, "explanation": "الخلاف ليس في التفاصيل الجزئية بل في 'باب المعرفة' وأصل الفضاء الذي ينتمي إليه الدين [17].", "choices": [ { "choice_text": "خلاف سياسي بحت", "is_correct": false }, { "choice_text": "خلاف حول القوانين الجنائية", "is_correct": false }, { "choice_text": "خلاف متعلق بباب المعرفة", "is_correct": true }, { "choice_text": "خلاف حول جودة الترجمات الدينية", "is_correct": false } ] },
+    { "question_text": "هل كل الملحدين يعترفون بالعقل كمصدر للمعرفة؟", "difficulty_score": 650, "explanation": "أوضح الشيخ أن الكثير منهم لا يعترف بالعقل حتى كشعار، ويرفضون المبادئ العقلية الضرورية [18].", "choices": [ { "choice_text": "نعم، جميعهم عقلانيون", "is_correct": false }, { "choice_text": "لا، كثير منهم لا يعترف به حقيقة", "is_correct": true }, { "choice_text": "نعم، لكنهم يخطئون في استخدامه", "is_correct": false }, { "choice_text": "فقط الملحدون الغربيون يعترفون به", "is_correct": false } ] },
+    { "question_text": "أي آية تعتبر 'أدل آية' على مصادر المعرفة الأساسية؟", "difficulty_score": 400, "explanation": "ذكر الشيخ أن آية سورة النحل (78) هي الأدل لأنها ربطت بين الجهل عند الولادة ومنح السمع والبصر والأفئدة [39، 40].", "choices": [ { "choice_text": "آية سورة الإسراء (36)", "is_correct": false }, { "choice_text": "آية سورة النحل (78)", "is_correct": true }, { "choice_text": "آية سورة الحجرات (2)", "is_correct": false }, { "choice_text": "آية سورة فصلت (53)", "is_correct": false } ] },
+    { "question_text": "ما المقصود بـ 'الأفئدة' في سياق آيات المعرفة؟", "difficulty_score": 300, "explanation": "الأفئدة تدل على 'العقل' كأداة ومصدر من مصادر المعرفة [19].", "choices": [ { "choice_text": "المشاعر والعواطف فقط", "is_correct": false }, { "choice_text": "القلب العضوي", "is_correct": false }, { "choice_text": "العقل", "is_correct": true }, { "choice_text": "الذاكرة", "is_correct": false } ] },
+    { "question_text": "بماذا ترتبط حدود العلم المستفاد من مصدر ما؟", "difficulty_score": 800, "explanation": "القاعدة تقول إن حدود العلم المرتبط بمصدر ما مرتبطة بمدى حدود علم 'صاحب المصدر' [20].", "choices": [ { "choice_text": "بذكاء الشخص المتلقي", "is_correct": false }, { "choice_text": "بعدد الكتب المؤلفة فيه", "is_correct": false }, { "choice_text": "بحدود العلم لدى صاحب المصدر", "is_correct": true }, { "choice_text": "بالتطور التكنولوجي", "is_correct": false } ] },
+    { "question_text": "لماذا مصادر التلقي 'أعم' من مصادر المعرفة باعتبار حدود العلم؟", "difficulty_score": 850, "explanation": "لأنها مرتبطة بمصدر 'مطلق العلم' (الله)، فتخبرنا عن أشياء لا يمكن للعقل أو الحس إدراكها كالغيب [43، 44].", "choices": [ { "choice_text": "لأنها تحتوي على معلومات طبية أكثر", "is_correct": false }, { "choice_text": "لارتباطها بمصدر مطلق العلم", "is_correct": true }, { "choice_text": "لأنها أقدم تاريخياً", "is_correct": false }, { "choice_text": "لأن الجميع يتفق عليها", "is_correct": false } ] },
+    { "question_text": "ما هو 'التكامل' في العلاقة بين العقل والنقل؟", "difficulty_score": 750, "explanation": "التكامل يعني أن يشتغل كل منهما في 'فضاء مختلف' عن الآخر فلا يحدث تنازع [46، 48].", "choices": [ { "choice_text": "أن يذوب العقل في النقل", "is_correct": false }, { "choice_text": "اشتغالهما في فضاءات مختلفة", "is_correct": true }, { "choice_text": "تطابق النتائج في نفس الفضاء", "is_correct": false }, { "choice_text": "إلغاء أحدهما للآخر", "is_correct": false } ] },
+    { "question_text": "أين تكمن نقطة الإشكال الحقيقية بين العقل والنقل؟", "difficulty_score": 700, "explanation": "الإشكال يظهر فقط في حالة 'التعارض' (أو توهم التعارض) عند اشتغالهما في نفس المنطقة [48، 49].", "choices": [ { "choice_text": "في حالة الوفاق", "is_correct": false }, { "choice_text": "في حالة اشتغالهما في فضاءين مختلفين", "is_correct": false }, { "choice_text": "في حالة التعارض المتوهم", "is_correct": true }, { "choice_text": "عندما يكون العقل ضعيفاً", "is_correct": false } ] },
+    { "question_text": "ما هو الاحتمال الرابع في قانون الرازي والذي اختاره؟", "difficulty_score": 900, "explanation": "الرازي حصر القسمة في أربعة احتمالات، واختار الرابع وهو 'تقديم العقل على النقل' [49، 50].", "choices": [ { "choice_text": "الجمع بينهما", "is_correct": false }, { "choice_text": "ردهما جميعاً", "is_correct": false }, { "choice_text": "تقديم النقل على العقل", "is_correct": false }, { "choice_text": "تقديم العقل على النقل", "is_correct": true } ] },
+    { "question_text": "كيف حل ابن تيمية إشكالية تعارض العقل والنقل؟", "difficulty_score": 850, "explanation": "بتقديم 'القطعي' منهما مطلقاً، سواء كان عقلياً أو نقلياً، مؤكداً استحالة تعارض قطعيين [21].", "choices": [ { "choice_text": "بتقديم النقل دائماً", "is_correct": false }, { "choice_text": "بتقديم العقل دائماً", "is_correct": false }, { "choice_text": "بتقديم القطعي منهما", "is_correct": true }, { "choice_text": "بتفويض الأمر لله", "is_correct": false } ] },
+    { "question_text": "هل يمكن أن يتعارض عقل قطعي ونقل قطعي؟", "difficulty_score": 600, "explanation": "أكد ابن تيمية والشيخ أن القطعيين لا يمكن أن يتعارضا أبداً في الحقيقة [51، 52].", "choices": [ { "choice_text": "نعم، كثيراً ما يحدث", "is_correct": false }, { "choice_text": "لا، هذا لا يكون أبداً", "is_correct": true }, { "choice_text": "فقط في أمور العقيدة", "is_correct": false }, { "choice_text": "فقط في أمور الغيب", "is_correct": false } ] },
+    { "question_text": "إذا تعارض 'عقلي ظني' مع 'نقلي قطعي'، فماذا يقدم؟", "difficulty_score": 700, "explanation": "يقدم القطعي دائماً، وفي هذه الحالة يقدم النقل القطعي [51، 53].", "choices": [ { "choice_text": "العقلي الظني", "is_correct": false }, { "choice_text": "النقل القطعي", "is_correct": true }, { "choice_text": "يتم ردهما معاً", "is_correct": false }, { "choice_text": "يتم التوقف", "is_correct": false } ] },
+    { "question_text": "ما هي الفتنة التي ارتبطت بتقديم العقل على النقل عند المعتزلة؟", "difficulty_score": 500, "explanation": "هي فتنة القول بـ 'خلق القرآن'، حيث أوصلتهم مقدماتهم العقلية لهذه النتيجة [22].", "choices": [ { "choice_text": "فتنة خلق القرآن", "is_correct": true }, { "choice_text": "فتنة القضاء والقدر", "is_correct": false }, { "choice_text": "فتنة الماركسية", "is_correct": false }, { "choice_text": "فتنة التكفير", "is_correct": false } ] },
+    { "question_text": "بماذا يتم الترجيح عند تعارض 'ظنيين'؟", "difficulty_score": 750, "explanation": "يتم الترجيح بين الظنيين باستخدام 'القرائن الخارجية' والمحيطة [58، 59].", "choices": [ { "choice_text": "بالقرائن الخارجية", "is_correct": true }, { "choice_text": "بتقديم العقل دائماً", "is_correct": false }, { "choice_text": "بتقديم النقل دائماً", "is_correct": false }, { "choice_text": "بالقرعة", "is_correct": false } ] },
+    { "question_text": "ما هو التنبيه المنهجي الأول بخصوص المصدر المعرفي؟", "difficulty_score": 400, "explanation": "أن وجود المصدر الصحيح لا يقتضي بالضرورة 'امتثال' المتلقي لهذه المعرفة [23].", "choices": [ { "choice_text": "أن العقل هو أقوى المصادر", "is_correct": false }, { "choice_text": "أن الخبر الصادق نادر", "is_correct": false }, { "choice_text": "عدم اقتضاء الوجود للامتثال", "is_correct": true }, { "choice_text": "ضرورة قراءة كتب التاريخ", "is_correct": false } ] },
+    { "question_text": "ما الذي منع مشركي قريش من اتباع النبي ﷺ رغم وضوح الحجة؟", "difficulty_score": 300, "explanation": "منعهم وجود 'موانع ذاتية' (مثل الكبر والهوى) منعتهم من الامتثال للحق [60، 61].", "choices": [ { "choice_text": "نقص في بيان النبي ﷺ", "is_correct": false }, { "choice_text": "غموض في الرسالة", "is_correct": false }, { "choice_text": "وجود موانع ذاتية وشخصية", "is_correct": true }, { "choice_text": "خوفهم من الروم والفرس", "is_correct": false } ] },
+    { "question_text": "ما هي الكلمة القرآنية التي لخصت موانع الامتثال في قوله {فَإِن لَّمْ يَسْتَجِيبُوا لَكَ...}؟", "difficulty_score": 500, "explanation": "الكلمة هي 'أهواءهم'، وهي تشمل التقليد والتعصب والمكانة وغيرها [24].", "choices": [ { "choice_text": "جهلهم", "is_correct": false }, { "choice_text": "أهواءهم", "is_correct": true }, { "choice_text": "ضعفهم", "is_correct": false }, { "choice_text": "نسيانهم", "is_correct": false } ] },
+    { "question_text": "على ماذا تراهن الشريعة فيما يتعلق بالمعرفة؟", "difficulty_score": 600, "explanation": "تراهن الشريعة على 'العمل والامتثال' وليس على مجرد المعرفة الذهنية [25].", "choices": [ { "choice_text": "على كثرة حفظ المعلومات", "is_correct": false }, { "choice_text": "على العمل والامتثال", "is_correct": true }, { "choice_text": "على القدرة على الجدل", "is_correct": false }, { "choice_text": "على الحصول على الشهادات", "is_correct": false } ] },
+    { "question_text": "بماذا شبه القرآن من أوتي العلم فانسلخ منه؟", "difficulty_score": 250, "explanation": "شبهه بـ 'الكلب' في سورة الأعراف، كتمثيل لمن لديه معرفة ولا يعمل بها [8].", "choices": [ { "choice_text": "بالأسد", "is_correct": false }, { "choice_text": "بالكلب", "is_correct": true }, { "choice_text": "بالغراب", "is_correct": false }, { "choice_text": "بالعنكبوت", "is_correct": false } ] },
+    { "question_text": "ما هو المعيار الحقيقي لـ 'العالم' في سورة فاطر؟", "difficulty_score": 400, "explanation": "المعيار هو 'خشية الله'، فالعلم الحقيقي هو ما أورث الخشية [26].", "choices": [ { "choice_text": "عدد سنوات الدراسة", "is_correct": false }, { "choice_text": "حفظ الكتب الستة", "is_correct": false }, { "choice_text": "خشية الله", "is_correct": true }, { "choice_text": "إتقان اللغة العربية", "is_correct": false } ] },
+    { "question_text": "ماذا قال الإمام أحمد عن معروف الكرخي رغم قلة علمه الروايي؟", "difficulty_score": 550, "explanation": "قال: 'وهل يراد من العلم إلا ما وصل إليه معروف'، قاصداً أن الغاية هي العمل والخشية [27].", "choices": [ { "choice_text": "إنه عالم بالرواية", "is_correct": false }, { "choice_text": "العلم هو الخشية والعمل", "is_correct": true }, { "choice_text": "يجب أن يتعلم أكثر", "is_correct": false }, { "choice_text": "إنه فقيه العراق", "is_correct": false } ] },
+    { "question_text": "متى يكون العلم 'وبالاً' على صاحبه؟", "difficulty_score": 600, "explanation": "يكون وبالاً إذا كان مجرد معرفة تمنع من اتباع الرسل أو تصد عن الحق، كما في قوله {فَرِحُوا بِمَا عِندَهُم مِّنَ الْعِلْمِ} [27].", "choices": [ { "choice_text": "عندما ينساه", "is_correct": false }, { "choice_text": "عندما لا يدرسه للناس", "is_correct": false }, { "choice_text": "عندما يمنع من الاتباع ويكون وبالاً", "is_correct": true }, { "choice_text": "إذا كان في الكيمياء", "is_correct": false } ] },
+    { "question_text": "ما هو أول مستوى في مداخل العلوم حسب المحاضرة؟", "difficulty_score": 100, "explanation": "أول مستوى هو مصادر التلقي ومداخل العلوم [1].", "choices": [ { "choice_text": "علم الأصول", "is_correct": false }, { "choice_text": "علم الحديث", "is_correct": false }, { "choice_text": "مصادر التلقي", "is_correct": true }, { "choice_text": "التفسير", "is_correct": false } ] },
+    { "question_text": "لماذا سمي 'الخبر' مصدراً معرفياً أساسياً؟", "difficulty_score": 300, "explanation": "لأن الكثير من معارفنا وتاريخنا والوحي يعتمد على إخبار الآخرين لنا [2].", "choices": [ { "choice_text": "لأنه أسهل وسيلة", "is_correct": false }, { "choice_text": "لأنه ينقل لنا ما غاب عنا", "is_correct": true }, { "choice_text": "لأنه لا يحتاج لتفكير", "is_correct": false }, { "choice_text": "لأنه بديل عن العقل", "is_correct": false } ] },
+    { "question_text": "من هم 'السفسطائيون'؟", "difficulty_score": 500, "explanation": "فرقة يونانية قديمة شككت في إمكانية الوصول لليقين عن طريق الحس [27، 28].", "choices": [ { "choice_text": "تلاميذ أرسطو المخلصون", "is_correct": false }, { "choice_text": "فرقة شككت في اليقين الحسي", "is_correct": true }, { "choice_text": "علماء الرياضيات في اليونان", "is_correct": false }, { "choice_text": "أطباء يونانيون", "is_correct": false } ] },
+    { "question_text": "لماذا أسس أرسطو علم المنطق؟", "difficulty_score": 550, "explanation": "أسسه لمناقشة وتجاوز الإشكالية السفسطائية وإثبات المعرفة اليقينية [28، 29].", "choices": [ { "choice_text": "لتنظيم الشعر", "is_correct": false }, { "choice_text": "لتجاوز الإشكالية السفسطائية", "is_correct": true }, { "choice_text": "لتعليم الملوك", "is_correct": false }, { "choice_text": "لفهم الطبيعة", "is_correct": false } ] },
+    { "question_text": "ما هي الطائفة التي تشكك في صحة 'البصر' اليوم وتسمى 'العندية'؟", "difficulty_score": 600, "explanation": "هم امتداد للسفسطائيين ويقولون إن الحقيقة نسبية (عندي وعندك) [28].", "choices": [ { "choice_text": "العندية", "is_correct": true }, { "choice_text": "المادية", "is_correct": false }, { "choice_text": "المثالية", "is_correct": false }, { "choice_text": "الوجودية", "is_correct": false } ] },
+    { "question_text": "هل حارب الأنبياء قضية 'الشك' في أممهم؟", "difficulty_score": 400, "explanation": "نعم، اشتغل الأنبياء في فضاء المعرفة لمحاربة الشك والوصول بالناس لليقين [29، 30].", "choices": [ { "choice_text": "لا، اهتموا بالعبادات فقط", "is_correct": false }, { "choice_text": "نعم، حاربوا الشك وأسسوا لليقين", "is_correct": true }, { "choice_text": "فقط في بعض الشرائع", "is_correct": false }, { "choice_text": "الشك لم يكن موجوداً قديماً", "is_correct": false } ] },
+    { "question_text": "لماذا القول بأن 'جون لوك' أول من كتب في نظرية المعرفة غير دقيق موضوعياً؟", "difficulty_score": 700, "explanation": "لأن التراث الإسلامي ناقش قضايا اليقين والشك والعقل والنقل قبل لوك بقرون [29].", "choices": [ { "choice_text": "لأن كتابه ضاع", "is_correct": false }, { "choice_text": "لأن التراث الإسلامي سبقه في المحتوى", "is_correct": true }, { "choice_text": "لأن لوك لم يكن فيلسوفاً", "is_correct": false }, { "choice_text": "لأن الكنيسة منعته", "is_correct": false } ] },
+    { "question_text": "ماذا قال الشيخ عن مناقشته للمرأة الملحدة في المدينة؟", "difficulty_score": 500, "explanation": "سألها عن اعترافها بالعقل كمصدر للمعرفة، لأن إنكاره يجعل النقاش حول وجود الله بلا فائدة [30].", "choices": [ { "choice_text": "ناقشها في الحجاب", "is_correct": false }, { "choice_text": "سألها عن مصدرية العقل", "is_correct": true }, { "choice_text": "أعطاها كتباً في التفسير", "is_correct": false }, { "choice_text": "ناقشها في حقوق المرأة", "is_correct": false } ] },
+    { "question_text": "هل يوجد خلاف معرفي داخل 'الصف الإسلامي'؟", "difficulty_score": 450, "explanation": "نعم، الخلافات الكثيرة حول الكشف والإلهام أو العقل والنقل هي خلافات في أصل مصادر المعرفة [36، 37].", "choices": [ { "choice_text": "لا، الخلاف سياسي فقط", "is_correct": false }, { "choice_text": "نعم، حول مصادر مثل الكشف والإلهام", "is_correct": true }, { "choice_text": "فقط في الأحكام الفقهية", "is_correct": false }, { "choice_text": "لا يوجد خلاف أبداً", "is_correct": false } ] },
+    { "question_text": "أي طائفة تعتبر 'الكشف والإلهام' مصدراً مقدماً على الكتاب والسنة؟", "difficulty_score": 650, "explanation": "بعض الطوائف الصوفية والغلاة يعتبرون الكشف مصدر معرفة أساسي يقدم أحياناً على النصوص [31].", "choices": [ { "choice_text": "المعتزلة", "is_correct": false }, { "choice_text": "أهل السنة", "is_correct": false }, { "choice_text": "غلاة الصوفية", "is_correct": true }, { "choice_text": "الماديون", "is_correct": false } ] },
+    { "question_text": "في قوله {أَفَلَا يَسْمَعُونَ} في سورة السجدة، ما هو مصدر المعرفة المقصود؟", "difficulty_score": 500, "explanation": "المقصود هو السمع كبوابة لتلقي 'الخبر' الصادق عن الأمم السابقة [40، 41].", "choices": [ { "choice_text": "الحس المباشر", "is_correct": false }, { "choice_text": "الخبر", "is_correct": true }, { "choice_text": "العقل المجرد", "is_correct": false }, { "choice_text": "التجربة الكيميائية", "is_correct": false } ] },
+    { "question_text": "ما الذي لا يمكن معرفته بـ 'العقل المجرد' دون وحي؟", "difficulty_score": 550, "explanation": "لا يمكن معرفة تفاصيل الغيب كاستواء الله على العرش أو تفاصيل يوم القيامة بالعقل وحده [32].", "choices": [ { "choice_text": "وجود الخالق", "is_correct": false }, { "choice_text": "صفة الحكمة", "is_correct": false }, { "choice_text": "تفاصيل الاستواء والغيبيات", "is_correct": true }, { "choice_text": "قوانين الطبيعة", "is_correct": false } ] },
+    { "question_text": "ما هو 'التوافق' في العلاقة بين مصادر المعرفة؟", "difficulty_score": 750, "explanation": "هو اشتغالهما في نفس الفضاء مع توافق النتائج وعدم تعارضها [46، 47].", "choices": [ { "choice_text": "انفراد كل مصدر بفضاء", "is_correct": false }, { "choice_text": "تطابق النتائج في نفس الفضاء", "is_correct": true }, { "choice_text": "إلغاء العقل تماماً", "is_correct": false }, { "choice_text": "إلغاء النقل تماماً", "is_correct": false } ] },
+    { "question_text": "لماذا اعترض ابن تيمية على 'حصر' الرازي للاحتمالات؟", "difficulty_score": 850, "explanation": "لأنه أغفل احتمال التفريق بين القطعي والظني، وهو ميزان الترجيح الحقيقي [50، 51].", "choices": [ { "choice_text": "لأنه يكره الرازي", "is_correct": false }, { "choice_text": "لأنه لم يفهم المنطق", "is_correct": false }, { "choice_text": "لإهماله ميزان القطعي والظني", "is_correct": true }, { "choice_text": "لأنه أراد تقديم النقل مطلقاً", "is_correct": false } ] },
+    { "question_text": "هل يمكن لنظرية علمية 'قطعية' أن تعارض نصاً قرآنياً 'قطعي الدلالة'؟", "difficulty_score": 800, "explanation": "ذكر الشيخ أنه لا يمكن لقطعيين أن يتعارضا أبداً، والتعارض يكون غالباً بظنية أحدهما [33].", "choices": [ { "choice_text": "نعم، العلم يتطور", "is_correct": false }, { "choice_text": "لا يمكن ذلك أبداً", "is_correct": true }, { "choice_text": "فقط في نظريات الطب", "is_correct": false }, { "choice_text": "فقط في الفضاء", "is_correct": false } ] },
+    { "question_text": "ما هو حال نظرية داروين حسب تصنيف 'القطعي والظني' في المحاضرة؟", "difficulty_score": 600, "explanation": "حتى لو افترضنا صحتها، فهي ليست قطعية 100%، لذا لا تعارض القطعيات الدينية [33].", "choices": [ { "choice_text": "قطعية 100%", "is_correct": false }, { "choice_text": "ليست قطعية 100%", "is_correct": true }, { "choice_text": "خرافة محضة", "is_correct": false }, { "choice_text": "وحي إلهي", "is_correct": false } ] },
+    { "question_text": "لماذا قد يرفض شخص 'أخبار الآحاد' في العقيدة بعد سنوات من الدراسة؟", "difficulty_score": 650, "explanation": "لأنه لم يضبط 'بوابات التلقي' من البداية، فيكتشف لاحقاً أن أسسه المنهجية مضطربة [8، 9].", "choices": [ { "choice_text": "لأنها أحاديث ضعيفة", "is_correct": false }, { "choice_text": "لعدم ضبط بوابات التلقي من البداية", "is_correct": true }, { "choice_text": "بسبب التطور العلمي", "is_correct": false }, { "choice_text": "لأنها تخالف القرآن يقيناً", "is_correct": false } ] },
+    { "question_text": "ما هي نتيجة 'رفع الصوت فوق صوت النبي' معنوياً؟", "difficulty_score": 500, "explanation": "تقديم الرأي والمذهب الشخصي على قول النبي ﷺ، ونتيجته حبوط العمل [34].", "choices": [ { "choice_text": "تحسين الفهم", "is_correct": false }, { "choice_text": "حبوط العمل", "is_correct": true }, { "choice_text": "زيادة الأجر", "is_correct": false }, { "choice_text": "لا شيء", "is_correct": false } ] },
+    { "question_text": "ما هو تعريف 'العالم' المختصر في المحاضرة؟", "difficulty_score": 300, "explanation": "العالم هو من أورثه علمه خشية الله وامتثال أمره [67، 68].", "choices": [ { "choice_text": "من يملك شهادة دكتوراة", "is_correct": false }, { "choice_text": "من يخشى الله", "is_correct": true }, { "choice_text": "من يؤلف كتباً كثيرة", "is_correct": false }, { "choice_text": "من يتقن الفلسفة", "is_correct": false } ] },
+    { "question_text": "لماذا العلم المجرد لا يكفي للنجاة؟", "difficulty_score": 450, "explanation": "لأن إبليس كان عالماً بوجود الله ولكنه لم يمتثل، فالنجاة في الاتباع والعمل [63، 64].", "choices": [ { "choice_text": "لأن الإنسان ينسى", "is_correct": false }, { "choice_text": "لأن النجاة مرتبطة بالامتثال والعمل", "is_correct": true }, { "choice_text": "لأن العلم صعب", "is_correct": false }, { "choice_text": "لأن العلم المادي يتغير", "is_correct": false } ] },
+    { "question_text": "ما الذي يعنيه 'انسلاخ' الإنسان من الآيات؟", "difficulty_score": 550, "explanation": "أن يمتلك العلم والمعرفة ولكنه لا يطبقها سلوكياً وعملياً [8].", "choices": [ { "choice_text": "نسيان القرآن", "is_correct": false }, { "choice_text": "عدم الامتثال السلوكي والعملي", "is_correct": true }, { "choice_text": "ترك الصلاة", "is_correct": false }, { "choice_text": "عدم الفهم", "is_correct": false } ] },
+    { "question_text": "هل 'عمل الصحابة' مصدر تلقي متفق عليه؟", "difficulty_score": 600, "explanation": "ذكر الشيخ أنه ليس مصدر تلقي متفقاً عليه إذا كان مفرداً، بل فيه خلاف بين الأئمة [5].", "choices": [ { "choice_text": "نعم، باتفاق", "is_correct": false }, { "choice_text": "ليس متفقاً عليه", "is_correct": true }, { "choice_text": "فقط الصحابة الأربعة", "is_correct": false }, { "choice_text": "لا يعتبر أبداً", "is_correct": false } ] },
+    { "question_text": "ما هو 'الشرع من قبلنا' في ميزان مصادر التلقي؟", "difficulty_score": 650, "explanation": "لا يعتبر مصدراً مستقلاً بل يثبت إذا جاء عن طريق شرعنا [5].", "choices": [ { "choice_text": "مصدر مستقل تماماً", "is_correct": false }, { "choice_text": "يثبت إذا جاء عن طريق شرعنا", "is_correct": true }, { "choice_text": "منسوخ بالكامل", "is_correct": false }, { "choice_text": "يؤخذ من كتبهم مباشرة", "is_correct": false } ] },
+    { "question_text": "أي حاسة ذكر الشيخ أنها 'الباب' الذي أغلقه ريتشارد دوكنز؟", "difficulty_score": 400, "explanation": "دوكنز أغلق بوابة 'الخبر الغيبي' واعتمد على الحس المادي فقط [7].", "choices": [ { "choice_text": "حاسة الشم", "is_correct": false }, { "choice_text": "بوابة الخبر الغيبي", "is_correct": true }, { "choice_text": "حاسة التذوق", "is_correct": false }, { "choice_text": "بوابة العقل", "is_correct": false } ] },
+    { "question_text": "ماذا قال الشيخ عن 'ابن سينا' و 'ابن رشد'؟", "difficulty_score": 500, "explanation": "استخدمهما كمثال على التلازم القديم بين الفلسفة والطب [35].", "choices": [ { "choice_text": "أنهما فقهاء فقط", "is_correct": false }, { "choice_text": "أنهما جمعا بين الفلسفة والطب", "is_correct": true }, { "choice_text": "أنهما رفضا العقل", "is_correct": false }, { "choice_text": "أنهما لم يكتبا في المعرفة", "is_correct": false } ] },
+    { "question_text": "ما هي 'العندية' في مصطلحات الفلاسفة قديماً؟", "difficulty_score": 750, "explanation": "هي القول بأن الحقيقة نسبية وتتبع رأي كل فرد (عندي حق وعندك حق) [28].", "choices": [ { "choice_text": "الالتزام بالعادات", "is_correct": false }, { "choice_text": "نسبية الحقيقة لكل فرد", "is_correct": true }, { "choice_text": "عبادة الأصنام", "is_correct": false }, { "choice_text": "حب الذات", "is_correct": false } ] },
+    { "question_text": "هل يجوز تقديم 'الظني' على 'القطعي'؟", "difficulty_score": 400, "explanation": "لا يجوز عقلاً ولا شرعاً، والقطعي مقدم دائماً [21].", "choices": [ { "choice_text": "نعم، في الفقه", "is_correct": false }, { "choice_text": "لا، القطعي مقدم دائماً", "is_correct": true }, { "choice_text": "فقط عند الضرورة", "is_correct": false }, { "choice_text": "نعم، في الطب", "is_correct": false } ] },
+    { "question_text": "ماذا يمثل 'الحمار' في ضرب المثل القرآني لمن لا يعمل بعلمه؟", "difficulty_score": 300, "explanation": "يمثل من يحمل أثقالاً (كتباً ومعرفة) دون أن يفهمها أو يستفيد منها امتثالاً [8].", "choices": [ { "choice_text": "الصبر", "is_correct": false }, { "choice_text": "تحمل التعب", "is_correct": false }, { "choice_text": "حمل المعرفة دون نفع أو امتثال", "is_correct": true }, { "choice_text": "السرعة", "is_correct": false } ] },
+    { "question_text": "ما هو 'القانون' الذي يجعلنا لا نرى الله الآن؟", "difficulty_score": 900, "explanation": "ليس عجزاً في العقل بل هو قانون إلهي في الدنيا بأن لا يرى فيها، وقد أخطأ المعتزلة بجعل هذا الاستحالة قانوناً عقلياً أبدياً [54، 55].", "choices": [ { "choice_text": "قانون الجاذبية", "is_correct": false }, { "choice_text": "قانون عقلي أبدي", "is_correct": false }, { "choice_text": "قانون إلهي ظرفي في الدنيا", "is_correct": true }, { "choice_text": "قانون البصريات", "is_correct": false } ] },
+    { "question_text": "لماذا يعتبر البعض تجربة الغزالي 'جميلة عاطفياً'؟", "difficulty_score": 500, "explanation": "لأنها تدل على شفافية النفس والقدرة على مراجعة المسلمات [11].", "choices": [ { "choice_text": "لأنه سافر كثيراً", "is_correct": false }, { "choice_text": "لمراجعته للمسلمات وشفافية نفسه", "is_correct": true }, { "choice_text": "لأنها كانت قصيرة", "is_correct": false }, { "choice_text": "لأنها انتهت بالشهرة", "is_correct": false } ] },
+    { "question_text": "ما هو 'التوافق' الذي ذكره الشيخ كعنوان للعلاقة بين المصادر؟", "difficulty_score": 800, "explanation": "هو انسجام العقل والنقل في النتائج عند العمل في نفس المنطقة [47، 52].", "choices": [ { "choice_text": "أن يتبع أحدهما الآخر", "is_correct": false }, { "choice_text": "الانسجام في النتائج", "is_correct": true }, { "choice_text": "التصارع المستمر", "is_correct": false }, { "choice_text": "إلغاء الفروق بينهما", "is_correct": false } ] },
+    { "question_text": "أي من هؤلاء هو فيلسوف 'المغرب' الذي ذكره الشيخ؟", "difficulty_score": 400, "explanation": "ابن رشد هو فيلسوف المغرب [35].", "choices": [ { "choice_text": "ابن سينا", "is_correct": false }, { "choice_text": "ابن رشد", "is_correct": true }, { "choice_text": "الغزالي", "is_correct": false }, { "choice_text": "ابن تيمية", "is_correct": false } ] },
+    { "question_text": "متى يكون العلم 'بوابة للعمل'؟", "difficulty_score": 300, "explanation": "في المنظور الإسلامي، العلم ليس هدفاً لذاته بل وسيلة وطريق للعمل والخشية [63، 68].", "choices": [ { "choice_text": "دائماً", "is_correct": true }, { "choice_text": "فقط في الفقه", "is_correct": false }, { "choice_text": "عندما يكون سهلاً", "is_correct": false }, { "choice_text": "في الغرب فقط", "is_correct": false } ] },
+    { "question_text": "ما هو المصدر المعرفي الذي يدرك 'الصفات' مثل الحكمة والقوة عقلياً؟", "difficulty_score": 700, "explanation": "هو 'العقل' من خلال الاستدلال بمشاهدة المخلوقات [43، 44].", "choices": [ { "choice_text": "الحس فقط", "is_correct": false }, { "choice_text": "العقل", "is_correct": true }, { "choice_text": "الخبر فقط", "is_correct": false }, { "choice_text": "لا يمكن معرفتها", "is_correct": false } ] },
+    { "question_text": "ما هي القاعدة المنهجية الثانية التي ختم بها الشيخ؟", "difficulty_score": 400, "explanation": "المراهنة في الشريعة هي على العمل والامتثال وليست على مجرد المعرفة [25].", "choices": [ { "choice_text": "العلم قبل القول والعمل", "is_correct": false }, { "choice_text": "المراهنة على العمل والامتثال", "is_correct": true }, { "choice_text": "العقل زينة الإنسان", "is_correct": false }, { "choice_text": "الصدق منجاة", "is_correct": false } ] },
+    { "question_text": "أي آية استدل بها الشيخ على أن العلم بلا خشية ليس علماً حقيقياً؟", "difficulty_score": 450, "explanation": "آية سورة فاطر: {إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ} [26].", "choices": [ { "choice_text": "آية سورة الحجرات", "is_correct": false }, { "choice_text": "آية سورة فاطر", "is_correct": true }, { "choice_text": "آية سورة البقرة", "is_correct": false }, { "choice_text": "آية سورة النحل", "is_correct": false } ] },
+    { "question_text": "ماذا يحصل لمن يجهر برأيه ضارباً عرض الحائط بكلام النبي ﷺ؟", "difficulty_score": 600, "explanation": "يقع في إشكال 'رفع الصوت فوق صوت النبي' ويهبط عمله وهو لا يشعر [34].", "choices": [ { "choice_text": "يعتبر مجتهداً", "is_correct": false }, { "choice_text": "يهبط عمله", "is_correct": true }, { "choice_text": "يزداد ثقافة", "is_correct": false }, { "choice_text": "لا شيء عليه", "is_correct": false } ] },
+    { "question_text": "أي من هذه المصادر يعتبر 'ربانياً'؟", "difficulty_score": 200, "explanation": "مصادر التلقي الشرعية (كتاب وسنة) هي مصادر ربانية [36].", "choices": [ { "choice_text": "الحس", "is_correct": false }, { "choice_text": "العقل", "is_correct": false }, { "choice_text": "الخبر البشري", "is_correct": false }, { "choice_text": "مصادر التلقي الشرعية", "is_correct": true } ] },
+    { "question_text": "هل الإمبالاة بالعمل مقبولة في التقييم العلمي الإسلامي؟", "difficulty_score": 400, "explanation": "لا، فالعلم في الإسلام مرتبط بالخشية والعمل، والشهادة الجامعية لا تعني بالضرورة أن صاحبها عالم شرعي حقيقي دون امتثال [26].", "choices": [ { "choice_text": "نعم، العلم نظري فقط", "is_correct": false }, { "choice_text": "لا، العلم مرتبط بالخشية والعمل", "is_correct": true }, { "choice_text": "فقط في الدراسات العليا", "is_correct": false }, { "choice_text": "فقط في العبادات", "is_correct": false } ] },
+    { "question_text": "ما هي النسبة المئوية المذكورة كتمثيل لعدم قطعية بعض النظريات؟", "difficulty_score": 500, "explanation": "ذكر الشيخ مثال 95% لبيان أنها ليست قطعية 100% كالنصوص اليقينية [33].", "choices": [ { "choice_text": "50%", "is_correct": false }, { "choice_text": "95%", "is_correct": true }, { "choice_text": "70%", "is_correct": false }, { "choice_text": "100%", "is_correct": false } ] },
+    { "question_text": "أي من هؤلاء الأنبياء استدل الشيخ بمناقشة أمته لعلمه؟", "difficulty_score": 550, "explanation": "أشار إلى الأنبياء عموماً ومواجهة أممهم لهم بعلمهم الخاص كما في قوله {فَرِحُوا بِمَا عِندَهُم مِّنَ الْعِلْمِ} [27].", "choices": [ { "choice_text": "موسى عليه السلام", "is_correct": false }, { "choice_text": "الرسل عموماً", "is_correct": true }, { "choice_text": "نوح عليه السلام", "is_correct": false }, { "choice_text": "عيسى عليه السلام", "is_correct": false } ] },
+    { "question_text": "ما هو كتاب ابن تيمية الأساسي في الرد على الرازي؟", "difficulty_score": 450, "explanation": "كتابه هو 'درء تعارض العقل والنقل' [37].", "choices": [ { "choice_text": "الفتوى الحموية", "is_correct": false }, { "choice_text": "منهاج السنة", "is_correct": false }, { "choice_text": "درء تعارض العقل والنقل", "is_correct": true }, { "choice_text": "الواسطية", "is_correct": false } ] },
+    { "question_text": "ماذا طلب الشيخ في ختام المحاضرة الأولى؟", "difficulty_score": 100, "explanation": "طلب الدعاء والاعتذار عن ثقل المادة وصعوبتها [69، 70].", "choices": [ { "choice_text": "حفظ المتون", "is_correct": false }, { "choice_text": "الاعتذار عن ثقل المادة", "is_correct": true }, { "choice_text": "كتابة ملخص", "is_correct": false }, { "choice_text": "شراء الكتب", "is_correct": false } ] },
+    {
+        "question_text": "ما الذي تدل عليه عظمة البناء والعمران لدى الأمم السابقة (مثل قوم صالح الذين جابوا الصخر بالواد) حسب وصف الشيخ؟",
+        "difficulty_score": 650,
+        "explanation": "أوضح الشيخ أن بناءهم لم يكن مجرد قوة عضلية أو جثث ضخمة، بل كان عملاً علمياً يتضمن حساابت وقياسات وترتيباً وتزييناً، مما يدل على أن لديهم علماً مادياً متقدماً [68، 69].",
+        "choices": [
+            {
+                "choice_text": "القوة الجسدية الخارقة المجردة من العلم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "وجود علم وحسابات وقياسات وتزيين دقيق",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أنهم استخدموا السحر في البناء",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أن الأدوات الحديثة اليوم أضعف من أدواتهم",
+                "is_correct": false
+            }
+        ]
+    }
+  ]
+}

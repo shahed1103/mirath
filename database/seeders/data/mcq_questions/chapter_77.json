@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 77,
+    "questions": [
+        {
+        "question_text": "ما هو 'الميدان الحقيقي' الذي تظهر فيه دقة علم الحديث وعمق الصنعة الحديثية؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر الشارح أن اكتشاف خطأ الضعيف سهل، لكن الشأن والعمق يكمن في اكتشاف خطأ الثقة [1, 21].",
+        "choices": [
+            { "choice_text": "رواية الضعفاء والمجاهيل", "is_correct": false },
+            { "choice_text": "اختلاف الثقات وعلم العلل", "is_correct": true },
+            { "choice_text": "معرفة مخارج الحديث فقط", "is_correct": false },
+            { "choice_text": "عدالة الرواة وضبطهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عند وقوع الخلاف بين الثقات، ما هي الوسيلة الأساسية التي يستخدمها المحدث لمعرفة الوهم؟",
+        "difficulty_score": 200,
+        "explanation": "الوسيلة الأساسية هي جمع الطرق والنظر في الاختلاف والاتفاق للوصول لقرائن الترجيح [1].",
+        "choices": [
+            { "choice_text": "قبول رواية الأحفظ دائماً دون نظر", "is_correct": false },
+            { "choice_text": "جمع الطرق والنظر في الاختلاف", "is_correct": true },
+            { "choice_text": "رد جميع الروايات المختلف فيها", "is_correct": false },
+            { "choice_text": "اعتبار كل الروايات صحيحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بقرينة 'الملازمة' في ترجيح أحد الرواة على الآخر؟",
+        "difficulty_score": 150,
+        "explanation": "الملازمة تعني طول صحبة الراوي لشيخه الذي اختلف الرواة عليه، مما يجعله أعلم بحديثه [2].",
+        "choices": [
+            { "choice_text": "أن يكون الراوي ثقة في نفسه", "is_correct": false },
+            { "choice_text": "أن يكون الراوي قد سمع من الشيخ مرة واحدة", "is_correct": false },
+            { "choice_text": "ملازمة الراوي للشيخ الذي اختلف عنه", "is_correct": true },
+            { "choice_text": "ملازمة الراوي لطلابه وتلاميذه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا اختلف ثقتان، أحدهما من الطبقة العليا والآخر من الطبقة الدنيا، فمن يقدم؟",
+        "difficulty_score": 250,
+        "explanation": "في مراتب الثقات، يقدم الثقة من الطبقة العليا على من هو دونه عند التعارض [8, 9].",
+        "choices": [
+            { "choice_text": "يقدم صاحب الطبقة الدنيا", "is_correct": false },
+            { "choice_text": "يقدم صاحب الطبقة العليا", "is_correct": true },
+            { "choice_text": "يتوقف فيهما مطلقاً", "is_correct": false },
+            { "choice_text": "يقبل الوجهان معاً دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أشهر صورة للخلاف في الإسناد ذكرها النص؟",
+        "difficulty_score": 100,
+        "explanation": "الخلاف في الوصل والإرسال هو من أشهر وأهم صور الخلاف في أسانيد الأحاديث [3].",
+        "choices": [
+            { "choice_text": "الخلاف في أسماء الصحابة", "is_correct": false },
+            { "choice_text": "الخلاف في بلد الراوي", "is_correct": false },
+            { "choice_text": "الخلاف في الوصل والإرسال", "is_correct": true },
+            { "choice_text": "الخلاف في عدالة الراوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى أن الحديث روي 'موقوفاً'؟",
+        "difficulty_score": 150,
+        "explanation": "الموقوف هو ما أضيف إلى الصحابي من قول أو فعل ولم يرفع للنبي ﷺ [4].",
+        "choices": [
+            { "choice_text": "أنه من قول النبي ﷺ", "is_correct": false },
+            { "choice_text": "أنه من قول الصحابي", "is_correct": true },
+            { "choice_text": "أنه سقط من إسناده راوٍ", "is_correct": false },
+            { "choice_text": "أنه حديث لم يصح إسناده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قوله 'وقدم الثقات إن تجمعوا'، ما هي القرينة المشار إليها؟",
+        "difficulty_score": 300,
+        "explanation": "تشير إلى قرينة 'العدد'، حيث تقدم الجماعة على الفرد عند الاختلاف [10].",
+        "choices": [
+            { "choice_text": "قرينة الحفظ", "is_correct": false },
+            { "choice_text": "قرينة الملازمة", "is_correct": false },
+            { "choice_text": "قرينة تقديم الأكثر عدداً", "is_correct": true },
+            { "choice_text": "قرينة العدالة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يمكن تقديم قول 'الواحد' على 'الجماعة' من الثقات؟",
+        "difficulty_score": 450,
+        "explanation": "يقدم الواحد إذا كان 'مبرزاً' في الحفظ والضبط والتقدم على غيره (كشعبة وأحمد) [10].",
+        "choices": [
+            { "choice_text": "إذا كان الراوي الواحد مبرزاً في حفظه", "is_correct": true },
+            { "choice_text": "إذا كان الواحد أكثر ملازمة فقط", "is_correct": false },
+            { "choice_text": "لا يقدم الواحد على الجماعة أبداً", "is_correct": false },
+            { "choice_text": "إذا كان الواحد متأخراً في الوفاة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو المثال الذي ضربه الشارح للراوي 'المبرز' الذي قد يخالف الخمسة من الثقات؟",
+        "difficulty_score": 350,
+        "explanation": "ضرب المثال بسفيان الثوري كإمام مبرز قد يرجح قوله على غيره لقوة حفظه [11].",
+        "choices": [
+            { "choice_text": "ابن عيينة", "is_correct": false },
+            { "choice_text": "سفيان الثوري", "is_correct": true },
+            { "choice_text": "الأوزاعي", "is_correct": false },
+            { "choice_text": "مالك بن أنس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يحكم الناقد بـ 'صواب الوجهين' (الوصل والإرسال) في حديث واحد؟",
+        "difficulty_score": 500,
+        "explanation": "إذا كان كلاهما من ثقات مبرزين، وكان الشيخ نفسه يرويه تارة هكذا وتارة هكذا [18].",
+        "choices": [
+            { "choice_text": "إذا كان الرواة ضعفاء", "is_correct": false },
+            { "choice_text": "إذا كان كلاهما من الثقات المبرزين والعدد متكافئ", "is_correct": true },
+            { "choice_text": "دائماً يحكم بصواب الوجهين", "is_correct": false },
+            { "choice_text": "إذا اختلف البلدان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'سلوك المجرة' كما وصفها الشارح؟",
+        "difficulty_score": 400,
+        "explanation": "هي سلوك الطريق المعتاد المشهور الذي يسبق إلى ذهن الراوي دون تثبت [6, 7].",
+        "choices": [
+            { "choice_text": "رواية الحديث بإسناد غريب", "is_correct": false },
+            { "choice_text": "سلوك الطريق المعتاد في الإسناد", "is_correct": true },
+            { "choice_text": "اختصار متن الحديث", "is_correct": false },
+            { "choice_text": "رواية الحديث بالمعنى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا قد يرجح المحدث الراوي الذي أتى بإسناد 'غير مسلوك'؟",
+        "difficulty_score": 550,
+        "explanation": "لأن الإتيان بما يخالف الجادة (المعتاد) يدل على حفظ الراوي ويقظته وتثبته [6].",
+        "choices": [
+            { "choice_text": "لأنه أسهل في الحفظ", "is_correct": false },
+            { "choice_text": "لأن الغرابة دليل الصحة دائماً", "is_correct": false },
+            { "choice_text": "لأن حفظه ساقه لغير المعتاد بدقة", "is_correct": true },
+            { "choice_text": "لأن الثقات لا يخطئون في المعتاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو حكم 'زيادة المتن' إذا لم يذكرها جملة الثقات؟",
+        "difficulty_score": 400,
+        "explanation": "الأصل ردها هيبةً للجماعة الذين سكتوا عنها، إلا بقرينة قوية [7, 19].",
+        "choices": [
+            { "choice_text": "مقبولة دائماً لأنها من ثقة", "is_correct": false },
+            { "choice_text": "مردودة هيبةً لسكوت جملة الثقات", "is_correct": true },
+            { "choice_text": "يتوقف فيها دائماً", "is_correct": false },
+            { "choice_text": "يقبلها المتأخرون ويردها المتقدمون دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر زيادة الإمام مالك 'من المسلمين' في حديث زكاة الفطر؟",
+        "difficulty_score": 600,
+        "explanation": "أخرجت العبيد غير المسلمين من وجوب صدقة الفطر، وهي زيادة مقبولة في الصحيح [13, 14].",
+        "choices": [
+            { "choice_text": "لم تؤثر في الحكم الفقهي", "is_correct": false },
+            { "choice_text": "أوجبت الزكاة على كل العبيد مطلقاً", "is_correct": false },
+            { "choice_text": "قيدت الوجوب بأن يكون العبد مسلماً", "is_correct": true },
+            { "choice_text": "ضعفها البخاري ومسلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو العالم الذي أبدع في شرح مراتب الحفاظ في كتابه 'شرح العلل'؟",
+        "difficulty_score": 200,
+        "explanation": "هو الحافظ ابن رجب الحنبلي في كتابه العظيم 'شرح علل الترمذي' [5].",
+        "choices": [
+            { "choice_text": "ابن حجر العسقلاني", "is_correct": false },
+            { "choice_text": "الإمام النووي", "is_correct": false },
+            { "choice_text": "الحافظ ابن رجب", "is_correct": true },
+            { "choice_text": "الإمام الذهبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا رد ابن رجب على من نسب للبخاري قبول زيادة الثقة مطلقاً؟",
+        "difficulty_score": 650,
+        "explanation": "رد بأن من تتبع 'التاريخ الكبير' للبخاري يجد أمثلة كثيرة رَدَّ فيها زيادات ثقات [15, 16].",
+        "choices": [
+            { "choice_text": "أيد هذه النسبة ودافع عنها", "is_correct": false },
+            { "choice_text": "قال إن البخاري لم يتكلم في الزيادات", "is_correct": false },
+            { "choice_text": "فنّد هذه النسبة من واقع كتب البخاري", "is_correct": true },
+            { "choice_text": "قال إنها مذهب مسلم لا البخاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحديث الذي مثل به الشارح لرد البخاري لزيادة الثقة؟",
+        "difficulty_score": 700,
+        "explanation": "حديث 'لا ترى ناراهما'، حيث رجح فيه البخاري وجه الإرسال رغم وجود زيادة من ثقة [16].",
+        "choices": [
+            { "choice_text": "حديث الأعمال بالنيات", "is_correct": false },
+            { "choice_text": "حديث لا نكاح إلا بولي", "is_correct": false },
+            { "choice_text": "حديث لا ترى ناراهما", "is_correct": true },
+            { "choice_text": "حديث زكاة الفطر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة في مسألة خطأ الثقات؟",
+        "difficulty_score": 300,
+        "explanation": "الثقات يخطئون كما يخطئ الضعفاء، وهم ليسوا على درجة واحدة في الحفظ [23].",
+        "choices": [
+            { "choice_text": "الثقات معصومون من الخطأ", "is_correct": false },
+            { "choice_text": "الثقات يخطئون كغيرهم وهم درجات", "is_correct": true },
+            { "choice_text": "خطأ الثقة لا يضر الحديث", "is_correct": false },
+            { "choice_text": "كل ثقة يقبل حديثه وإن خالف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر الإمام أحمد اختلاف الرواة عن هشام بن عروة في الوصل والإرسال؟",
+        "difficulty_score": 750,
+        "explanation": "عزاه لنشاط الشيخ (فيصل الحديث) أو كسله (فيرسله)، فالاختلاف من الشيخ نفسه [12].",
+        "choices": [
+            { "choice_text": "بسبب سوء حفظ الرواة عنه", "is_correct": false },
+            { "choice_text": "بسبب ضياع كتب هشام", "is_correct": false },
+            { "choice_text": "بسبب نشاط الشيخ وكسله في الرواية", "is_correct": true },
+            { "choice_text": "بسبب تدليس هشام بن عروة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النصيحة الأخيرة التي ختم بها المنظومة للتمكن من صنعة الإسناد؟",
+        "difficulty_score": 350,
+        "explanation": "الصبر، تتبع هدي النبي ﷺ، وحفظ مراتب الثقات والعلل [12, 24].",
+        "choices": [
+            { "choice_text": "الاكتفاء بالقواعد النظرية", "is_correct": false },
+            { "choice_text": "الصبر وإدمان النظر في تطبيقات الأوائل", "is_correct": true },
+            { "choice_text": "الاعتماد على كتب المتأخرين فقط", "is_correct": false },
+            { "choice_text": "حفظ المتون دون الأسانيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في علم العلل، أي نوع من الأحاديث يعتبر اكتشافه هو 'الشأن' والعمق؟",
+        "difficulty_score": 200,
+        "explanation": "اكتشاف خطأ الثقة هو التحدي الحقيقي والعمق في علم العلل [1].",
+        "choices": [
+            { "choice_text": "الحديث الموضوع", "is_correct": false },
+            { "choice_text": "الحديث المنكر لراوٍ ضعيف", "is_correct": false },
+            { "choice_text": "خطأ الثقة الذي حكمنا بصحته", "is_correct": true },
+            { "choice_text": "الحديث المسلسل بالدمشقيين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى الحديث الذي يرويه الراوي تارة مرفوعاً وتارة موقوفاً؟",
+        "difficulty_score": 300,
+        "explanation": "هذا نوع من 'اختلاف الثقات' في الإسناد [4].",
+        "choices": [
+            { "choice_text": "اختلاف في المتن", "is_correct": false },
+            { "choice_text": "اختلاف في الرفع والوقف", "is_correct": true },
+            { "choice_text": "اختلاف في الجرح والتعديل", "is_correct": false },
+            { "choice_text": "اختلاف في التدليس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا تساوت مرتبة الثقتين واختلفا، فما هي القرينة التالية للترجيح؟",
+        "difficulty_score": 400,
+        "explanation": "نلجأ لقرينة 'الملازمة' للشيخ المروي عنه [2].",
+        "choices": [
+            { "choice_text": "الأكثر شيوخاً", "is_correct": false },
+            { "choice_text": "الأكثر ملازمة للشيخ", "is_correct": true },
+            { "choice_text": "الأقدم وفاة", "is_correct": false },
+            { "choice_text": "الأكثر رواية للمتون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم 'الزيادة المبرزة' التي يتفرد بها إمام كبير؟",
+        "difficulty_score": 500,
+        "explanation": "يُقرب القول باعتمادها لقوة حفظه وإتقانه [13].",
+        "choices": [
+            { "choice_text": "مردودة دائماً", "is_correct": false },
+            { "choice_text": "مقبولة ويقرب اعتمادها", "is_correct": true },
+            { "choice_text": "تعتبر حديثاً مستقلاً", "is_correct": false },
+            { "choice_text": "تسمى زيادة منكرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا تلتزم قواعد هذا العلم بنص جامد (قاعدة لا تنخرم)؟",
+        "difficulty_score": 800,
+        "explanation": "لأنها قائمة على 'القرائن' التي تختلف باختلاف الرواة والشيوخ والأحوال [14].",
+        "choices": [
+            { "choice_text": "لأن المحدثين لم يتفقوا", "is_correct": false },
+            { "choice_text": "لأنها تعتمد على قرائن دقيقة متغيرة", "is_correct": true },
+            { "choice_text": "لأنها قواعد اجتهادية محضة", "is_correct": false },
+            { "choice_text": "لأن الرواة يتغير حفظهم دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يعني 'تقديم الأثبت' عند الاختلاف؟",
+        "difficulty_score": 150,
+        "explanation": "تقديم الراوي الأكثر ضبطاً وإتقاناً في حديثه [2].",
+        "choices": [
+            { "choice_text": "الأكثر عدالة فقط", "is_correct": false },
+            { "choice_text": "الأكثر ضبطاً وإتقاناً", "is_correct": true },
+            { "choice_text": "الأطول عمراً", "is_correct": false },
+            { "choice_text": "الأوسع رحلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين تكمن الخطورة في 'التعميم دون تفصيل' في قبول الوصل دائماً؟",
+        "difficulty_score": 600,
+        "explanation": "تؤدي لتصحيح أحاديث معلولة كان الحفاظ الأوائل يضعفونها [20].",
+        "choices": [
+            { "choice_text": "إضعاف أحاديث صحيحة", "is_correct": false },
+            { "choice_text": "تصحيح أحاديث معلولة", "is_correct": true },
+            { "choice_text": "كثرة الروايات الضعيفة", "is_correct": false },
+            { "choice_text": "تغيير أسماء الرواة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو كتاب البخاري الذي نص ابن رجب على ضرورة مراجعته لمعرفة منهجه في الزيادات؟",
+        "difficulty_score": 300,
+        "explanation": "كتاب 'التاريخ الكبير' [16].",
+        "choices": [
+            { "choice_text": "الجامع الصحيح", "is_correct": false },
+            { "choice_text": "الأدب المفرد", "is_correct": false },
+            { "choice_text": "التاريخ الكبير", "is_correct": true },
+            { "choice_text": "خلق أفعال العباد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا انفرد ثقة بزيادة 'تفسيرية' لا يترتب عليها حكم، فهل هي مقصودة ببحث 'زيادة الثقة'؟",
+        "difficulty_score": 500,
+        "explanation": "لا، البحث في الزيادة التي يترتب عليها حكم أو فيها إشكال لعدم ذكر الجماعة لها [7, 25].",
+        "choices": [
+            { "choice_text": "نعم، هي الأصل", "is_correct": false },
+            { "choice_text": "لا، المقصود ما له حكم أو إفادة مستقلة", "is_correct": true },
+            { "choice_text": "نعم، وتقبل دائماً", "is_correct": false },
+            { "choice_text": "لا، الزيادات التفسيرية مردودة مطلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القرينة التي تجعل 'الزيادة من طريق صحابي آخر' أقل إشكالاً؟",
+        "difficulty_score": 650,
+        "explanation": "لاحتمال أن الصحابي الآخر نقل الحدث كاملاً بخلاف غيره، فلا تعارض قوياً [22, 26].",
+        "choices": [
+            { "choice_text": "لأن الصحابة كلهم عدول", "is_correct": false },
+            { "choice_text": "لاحتمال تعدد القصة أو اختلاف النقل", "is_correct": true },
+            { "choice_text": "لأن تعدد الطرق يقوي الحديث دائماً", "is_correct": false },
+            { "choice_text": "لأنها تسمى زيادة إسناد لا متن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مذهب 'المتأخرين' الغالب في زيادة الثقة كما وصفه الشارح؟",
+        "difficulty_score": 450,
+        "explanation": "قبولها مطلقاً دون تفصيل أو نظر في القرائن [20].",
+        "choices": [
+            { "choice_text": "الرد مطلقاً", "is_correct": false },
+            { "choice_text": "القبول مطلقاً دون تفصيل", "is_correct": true },
+            { "choice_text": "التوقف في كل زيادة", "is_correct": false },
+            { "choice_text": "اتباع منهج البخاري تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'فأنصتوا' التي وردت في المثال؟",
+        "difficulty_score": 850,
+        "explanation": "زيادة في حديث 'إنما جعل الإمام ليؤتم به'، اختلف فيها الحفاظ كقتادة وسليمان التيمي [26].",
+        "choices": [
+            { "choice_text": "زيادة في حديث الصلاة صححها مسلم", "is_correct": true },
+            { "choice_text": "زيادة في حديث الصوم ضعفها مسلم", "is_correct": false },
+            { "choice_text": "كلمة أصلية في الحديث باتفاق الحفاظ", "is_correct": false },
+            { "choice_text": "زيادة تفسيرية من كلام التابعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المدار' في مصطلح المحدثين؟",
+        "difficulty_score": 300,
+        "explanation": "هو الشيخ الذي تجتمع عنده طرق الحديث ويختلف عليه الرواة [18].",
+        "choices": [
+            { "choice_text": "الصحابي الذي روى الحديث", "is_correct": false },
+            { "choice_text": "الشيخ الذي اختلف عنه الرواة", "is_correct": true },
+            { "choice_text": "صاحب الكتاب المصنف", "is_correct": false },
+            { "choice_text": "الراوي الذي تفرد بالحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي فائدة 'إدمان النظر في تطبيقات الحفاظ الأوائل'؟",
+        "difficulty_score": 400,
+        "explanation": "اكتساب الملكة الحديثية التي تمكن من ممارسة النقد العملي [5, 14].",
+        "choices": [
+            { "choice_text": "حفظ أكبر عدد من الأحاديث", "is_correct": false },
+            { "choice_text": "اكتساب ملكة النقد العملي", "is_correct": true },
+            { "choice_text": "معرفة وفيات الرواة فقط", "is_correct": false },
+            { "choice_text": "القدرة على تأليف الكتب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في المثال 'ثابت عن أنس'، لماذا يسمى هذا إسناداً 'مجرى'؟",
+        "difficulty_score": 500,
+        "explanation": "لكثرة رواية ثابت عن أنس، مما يجعل الذهن ينصرف إليه تلقائياً [6].",
+        "choices": [
+            { "choice_text": "لأنه أصح إسناد في الدنيا", "is_correct": false },
+            { "choice_text": "لأنه إسناد مشهور ومعتاد (جادة)", "is_correct": true },
+            { "choice_text": "لأنه إسناد غريب وعزيز", "is_correct": false },
+            { "choice_text": "لأنه إسناد مسلسل بالبصريين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء لم يذكره الشارح كمثال للأئمة المبرزين؟",
+        "difficulty_score": 450,
+        "explanation": "ذكر مالكاً وشعبة وأحمد وسفيان، ولم يركز على وكيع كمثال للمبرز المخالف للجماعة في هذا السياق [10].",
+        "choices": [
+            { "choice_text": "مالك بن أنس", "is_correct": false },
+            { "choice_text": "شعبة بن الحجاج", "is_correct": false },
+            { "choice_text": "وكيع بن الجراح", "is_correct": true },
+            { "choice_text": "أحمد بن حنبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحقيقة التي يجب إدراكها عن الثقات؟",
+        "difficulty_score": 100,
+        "explanation": "أنهم بشر يخطئون وليسوا على درجة واحدة [23].",
+        "choices": [
+            { "choice_text": "أنهم لا ينسون أبداً", "is_correct": false },
+            { "choice_text": "أنهم درجات ويقع منهم الخطأ", "is_correct": true },
+            { "choice_text": "أن روايتهم مقدمة على الصحابة", "is_correct": false },
+            { "choice_text": "أن الثقة لا يحتاج لجمع الطرق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'زبدة اللباب' في هذا الباب؟",
+        "difficulty_score": 600,
+        "explanation": "أمران: حفظ مراتب الثقات، وإدمان النظر في تطبيقات الأوائل [14].",
+        "choices": [
+            { "choice_text": "حفظ المتون والأسانيد", "is_correct": false },
+            { "choice_text": "مراتب الثقات وتطبيقات الأوائل", "is_correct": true },
+            { "choice_text": "معرفة الجرح والتعديل فقط", "is_correct": false },
+            { "choice_text": "القراءة في كتب المتأخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا نرد زيادة الثقة إذا خالف 'جملة الثقات'؟",
+        "difficulty_score": 700,
+        "explanation": "لأن غفلة الجماعة عن ذكر الزيادة مع توفر الدواعي مستبعدة، فالخطأ من الفرد أقرب [7, 19].",
+        "choices": [
+            { "choice_text": "لأن الجماعة معصومون", "is_correct": false },
+            { "choice_text": "لأن تفرد الواحد ريبة عند مخالفة الأكثر", "is_correct": true },
+            { "choice_text": "لأن الزيادة دائماً كذب", "is_correct": false },
+            { "choice_text": "لأن الجماعة أحفظ دائماً بالضرورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشعور الذي يجب أن يتحلى به طالب هذا العلم كما ورد في الخاتمة؟",
+        "difficulty_score": 150,
+        "explanation": "الاحتساب في صنعة الإسناد ومحبة النبي ﷺ [12].",
+        "choices": [
+            { "choice_text": "الفخر والاعتزاز", "is_correct": false },
+            { "choice_text": "الاحتساب ومحبة هدي النبي ﷺ", "is_correct": true },
+            { "choice_text": "الرغبة في الشهرة", "is_correct": false },
+            { "choice_text": "التسرع في الحكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر الشارح أن اكتشاف خطأ الراوي الضعيف 'ليس شأن العمق الحديثي'؟",
+        "difficulty_score": 200,
+        "explanation": "لأن الضعيف معروف بضعفه أصلاً، فمن البديهي رد روايته، بينما تكمن الصعوبة والعمق في اكتشاف خطأ من الأصل فيه القبول وهو الثقة [1].",
+        "choices": [
+            { "choice_text": "لأن الرواة الضعفاء قليلون جداً", "is_correct": false },
+            { "choice_text": "لأن العلم بالضعفاء سهل بسبب تصنيفهم مسبقاً", "is_correct": true },
+            { "choice_text": "لأن الضعيف لا يخطئ في المتون أبداً", "is_correct": false },
+            { "choice_text": "لأن المتقدمين لم يهتموا بالضعفاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الخيط الأول' والمفتاح الأساسي للدخول إلى فلسفة الصنعة الحديثية؟",
+        "difficulty_score": 300,
+        "explanation": "مراتب الثقات هي المفتاح الأساسي لفهم كيف يرجح المحدثون بين الروايات عند الاختلاف [2, 3].",
+        "choices": [
+            { "choice_text": "معرفة لغة العرب", "is_correct": false },
+            { "choice_text": "حفظ المتون بأسانيدها", "is_correct": false },
+            { "choice_text": "إدراك مراتب الثقات وتفاوت درجاتهم", "is_correct": true },
+            { "choice_text": "معرفة أماكن سكن الرواة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قول الناظم 'وفى نصيباً وانتحى نحو الأُول'، ماذا يقصد بكلمة 'الأول'؟",
+        "difficulty_score": 400,
+        "explanation": "يقصد بها علم العلل أو منهج الأئمة المتقدمين (الأوائل) في النقد [3].",
+        "choices": [
+            { "choice_text": "أول حديث في الإسناد", "is_correct": false },
+            { "choice_text": "الصحابة فقط", "is_correct": false },
+            { "choice_text": "منهج الأوائل في علم العلل", "is_correct": true },
+            { "choice_text": "أول راوٍ ذكر في الكتاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا روى 'مالك' حديثاً مرسلاً، ورواه 'أبو أسامة' موصولاً عن نفس الشيخ، فماذا يسمى هذا النوع من الخلاف؟",
+        "difficulty_score": 350,
+        "explanation": "هذه صورة من صور الخلاف في الإسناد بين الوصل والإرسال [4].",
+        "choices": [
+            { "choice_text": "خلاف في عدالة الرواة", "is_correct": false },
+            { "choice_text": "خلاف في الوصل والإرسال", "is_correct": true },
+            { "choice_text": "خلاف في صحة المتن", "is_correct": false },
+            { "choice_text": "خلاف في اللغة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بقرينة 'الثبت' التي قدمها الناظم كأول مرجح؟",
+        "difficulty_score": 150,
+        "explanation": "الثبت هو الراوي الحافظ المتقن الذي يعتمد قوله لقوة ضبطه [5, 6].",
+        "choices": [
+            { "choice_text": "الراوي الذي يكتب كثيراً", "is_correct": false },
+            { "choice_text": "الراوي صاحب الكتاب الصحيح", "is_correct": false },
+            { "choice_text": "الراوي الأكثر إتقاناً وحفظاً", "is_correct": true },
+            { "choice_text": "الراوي الذي يروي عن أكثر من شيخ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'سفيان الثوري' مثالاً للراوي الذي قد يُعزز تفرده؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه إمام 'مبرز' في الحفظ والضبط، وقوة حفظه قد تجبر نقص العدد عند المخالفة [7].",
+        "choices": [
+            { "choice_text": "لكثرة تلاميذه", "is_correct": false },
+            { "choice_text": "لأنه كان يروي بالمعنى دائماً", "is_correct": false },
+            { "choice_text": "لأنه مبرز في الحفظ والضبط", "is_correct": true },
+            { "choice_text": "لأنه لم يخطئ في حياته أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عندما يرجح الناقد 'صواب الوجهين' في حديث ما، فمن هو المسؤول عن هذا الاختلاف عادة؟",
+        "explanation": "في حالة صواب الوجهين، يكون 'المدار' (الشيخ) هو من حدث به تارة هكذا وتارة هكذا [8].",
+        "difficulty_score": 600,
+        "choices": [
+            { "choice_text": "الراوي الأخير في السلسلة", "is_correct": false },
+            { "choice_text": "الشيخ المدار الذي اختلف عنه", "is_correct": true },
+            { "choice_text": "الصحابي الراوي للحديث", "is_correct": false },
+            { "choice_text": "الناسخ للكتاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الجادة' في مصطلح أهل الحديث التي حذر الشارح من الانزلاق إليها؟",
+        "difficulty_score": 450,
+        "explanation": "هي الطريق المعتاد المشهور في الأسانيد الذي قد يسبق لسان الراوي إليه بالوهم [9].",
+        "choices": [
+            { "choice_text": "الطريق المختصر للمتن", "is_correct": false },
+            { "choice_text": "الإسناد المشهور المعتاد للشيخ", "is_correct": true },
+            { "choice_text": "الرواية عن الضعفاء", "is_correct": false },
+            { "choice_text": "التعصب لبلد معين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تُرد زيادة الثقة إذا لم يذكرها 'جملة الثقات' (العدد الكبير)؟",
+        "difficulty_score": 700,
+        "explanation": "تُرد 'هيبة' لسكوت الجماعة، لأن انفراد الواحد بلفظة مؤثرة مع غفلة الجميع عنها أمر مستبعد عند النقاد [10].",
+        "choices": [
+            { "choice_text": "لأن الجماعة دائماً معصومون", "is_correct": false },
+            { "choice_text": "هيبةً لسكوت جملة الثقات واستبعاد غفلتهم", "is_correct": true },
+            { "choice_text": "لأن التفرد دليل الكذب", "is_correct": false },
+            { "choice_text": "لأن الزيادة لا تكون إلا في الأسانيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تقييم الشارح لزيادة 'فأنصتوا' في حديث مسلم؟",
+        "difficulty_score": 650,
+        "explanation": "ذكر أن جماعة من الثقات رووا الحديث بدونها، بينما زادها سليمان التيمي، وقد اختلف الحفاظ في تصحيحها وتضعيفها [11].",
+        "choices": [
+            { "choice_text": "هي زيادة مجمع على صحتها", "is_correct": false },
+            { "choice_text": "هي زيادة مجمع على ضعفها", "is_correct": false },
+            { "choice_text": "زيادة اختلف فيها الحفاظ وصححها مسلم", "is_correct": true },
+            { "choice_text": "هي من كلام الصحابي لا النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يؤثر 'اختلاف الصحابي' على قبول زيادة المتن مقارنةً باتحاد الصحابي؟",
+        "difficulty_score": 800,
+        "explanation": "إذا وردت الزيادة من طريق صحابي آخر يقل الإشكال، لاحتمال أن كل صحابي نقل جانباً من الحدث [12].",
+        "choices": [
+            { "choice_text": "يزيد الإشكال جداً", "is_correct": false },
+            { "choice_text": "يقل الإشكال لاحتمال تعدد الرواية أو النقل", "is_correct": true },
+            { "choice_text": "لا يؤثر إطلاقاً", "is_correct": false },
+            { "choice_text": "يوجب رد الروايتين معاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ضُعفت زيادة 'التسمية عند الوضوء' رغم وجود طرق لها؟",
+        "difficulty_score": 750,
+        "explanation": "لأن الأحاديث الصحيحة المستفيضة في وصف وضوء النبي لم تذكرها، فسكوت الثقات قرينة على الوهم فيها [12].",
+        "choices": [
+            { "choice_text": "لأن رواتها كذابون", "is_correct": false },
+            { "choice_text": "لأن الوضوء لا يحتاج تسمية أصلاً", "is_correct": false },
+            { "choice_text": "لأن الأحاديث الصحيحة الواصفة للوضوء خلت منها", "is_correct": true },
+            { "choice_text": "لأنها تخالف القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القاعدة التي قررها الناظم بخصوص 'العلم ذا' (علم العلل)؟",
+        "difficulty_score": 400,
+        "explanation": "قرر أنه لا يلتزم بقاعدة نصية جامدة (أي لا تنخرم)، بل يعتمد على القرائن [13].",
+        "choices": [
+            { "choice_text": "أنه علم قائم على الحفظ فقط", "is_correct": false },
+            { "choice_text": "أنه لا يلتزم بقواعد جامدة لا تنخرم", "is_correct": true },
+            { "choice_text": "أنه علم حديث النشأة", "is_correct": false },
+            { "choice_text": "أنه خاص بصحيح البخاري فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'لُباب' هذا العلم وجوهر التمكن فيه؟",
+        "difficulty_score": 300,
+        "explanation": "معرفة مراتب الثقات وإدمان النظر في تطبيقات الأوائل (كتب العلل) [13].",
+        "choices": [
+            { "choice_text": "حفظ ألفية العراقي", "is_correct": false },
+            { "choice_text": "مراتب الثقات وتطبيقات الأوائل", "is_correct": true },
+            { "choice_text": "معرفة أنساب الرواة", "is_correct": false },
+            { "choice_text": "دراسة الفقه المقارن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الشارح عن منهج 'المتأخرين' في قبول زيادة الثقة؟",
+        "difficulty_score": 500,
+        "explanation": "انتقد تعميمهم للقاعدة (زيادة الثقة مقبولة) دون تفصيل أو نظر في القرائن [14, 15].",
+        "choices": [
+            { "choice_text": "أنهم اتبعوا البخاري تماماً", "is_correct": false },
+            { "choice_text": "أنهم عمموا القبول دون تفصيل", "is_correct": true },
+            { "choice_text": "أنهم كانوا أكثر دقة من الأوائل", "is_correct": false },
+            { "choice_text": "أنهم ردوا كل الزيادات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا خُص الإمام 'البخاري' بالذكر عند الكلام عن نفي قبول زيادة الثقة مطلقاً؟",
+        "difficulty_score": 600,
+        "explanation": "بسبب وقوع خطأ في نسبة 'قبول زيادة الثقة مطلقاً' إليه، وهو ما فنده ابن رجب [16].",
+        "choices": [
+            { "choice_text": "لأنه هو من وضع قاعدة القبول", "is_correct": false },
+            { "choice_text": "لأنه لم يروِ أي زيادة في كتابه", "is_correct": false },
+            { "choice_text": "بسبب خطأ في نسبة هذا المذهب إليه", "is_correct": true },
+            { "choice_text": "لأنه كان يقبل رواية الضعفاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحديث الذي استخدمه البعض للاستدلال (خطأً) على أن البخاري يقبل زيادة الثقة دائماً؟",
+        "difficulty_score": 700,
+        "explanation": "حديث 'لا نكاح إلا بولي' بسبب زيادة إسرائيل فيه، وقد اعتُبر هذا المثال قاعدة عامة له خطأً [16].",
+        "choices": [
+            { "choice_text": "حديث الأعمال بالنيات", "is_correct": false },
+            { "choice_text": "حديث لا نكاح إلا بولي", "is_correct": true },
+            { "choice_text": "حديث النهي عن بيع الغرر", "is_correct": false },
+            { "choice_text": "حديث تحريم الخمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث 'لا ترى ناراهما'، ماذا كان حكم الإمام البخاري؟",
+        "difficulty_score": 850,
+        "explanation": "رجح فيه الإرسال ورد زيادة الوصل، مما يدل على عدم قبوله للزيادة مطلقاً [17].",
+        "choices": [
+            { "choice_text": "قبل الزيادة وصححه موصولاً", "is_correct": false },
+            { "choice_text": "رجح الإرسال ورد الزيادة", "is_correct": true },
+            { "choice_text": "توقف فيه ولم يحكم", "is_correct": false },
+            { "choice_text": "اعتبره حديثاً موضوعاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النصيحة التي وجهها الناظم لكل من أراد الرشد في هذا السبيل؟",
+        "difficulty_score": 250,
+        "explanation": "حث على سلوك سبيل الأوائل (البخاري والرعيل الأول) في الحكم بالقرائن [16].",
+        "choices": [
+            { "choice_text": "الاكتفاء بحفظ المتون", "is_correct": false },
+            { "choice_text": "سلوك سبيل الأوائل ومنهجهم", "is_correct": true },
+            { "choice_text": "الاعتماد على العقل فقط", "is_correct": false },
+            { "choice_text": "ترك علم الحديث لصعوبته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى الحديث الذي يرويه الشيخ تارة تاماً (موصولاً) وتارة مختصراً (مرسلاً)؟",
+        "difficulty_score": 550,
+        "explanation": "يسمى 'مجوداً' في حالة الوصل، وغالباً ما يعود لنشاط الشيخ أو كسله في الرواية [18].",
+        "choices": [
+            { "choice_text": "حديثاً مضطرباً", "is_correct": false },
+            { "choice_text": "حديثاً مجوداً (في حالة الوصل)", "is_correct": true },
+            { "choice_text": "حديثاً شاذاً", "is_correct": false },
+            { "choice_text": "حديثاً موضوعاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي عزا الاختلاف في حديث هشام بن عروة إلى 'نشاطه وكسله'؟",
+        "difficulty_score": 600,
+        "explanation": "هو الإمام أحمد بن حنبل كما ورد في النص [18].",
+        "choices": [
+            { "choice_text": "الإمام الشافعي", "is_correct": false },
+            { "choice_text": "الإمام أحمد بن حنبل", "is_correct": true },
+            { "choice_text": "الإمام البخاري", "is_correct": false },
+            { "choice_text": "ابن حبان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة التي تمنح علم الحديث أهميته الحقيقية؟",
+        "difficulty_score": 150,
+        "explanation": "الغوص في دقائق الصنعة وتطبيقات المحدثين العملية التي تميز الخطأ من الصواب [19].",
+        "choices": [
+            { "choice_text": "مجرد جمع الأسانيد", "is_correct": false },
+            { "choice_text": "تطبيقات المحدثين العملية والدقيقة", "is_correct": true },
+            { "choice_text": "الوعظ والإرشاد فقط", "is_correct": false },
+            { "choice_text": "معرفة قصص الرواة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية لم يذكرها الشارح كمصدر للتوسع في هذه المسائل؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر مقاصد ابن الصلاح وشرح العلل ونزهة النظر، ولم يذكر 'توجيه النظر' للجزائري [20].",
+        "choices": [
+            { "choice_text": "مقاصد ابن الصلاح", "is_correct": false },
+            { "choice_text": "شرح علل الترمذي", "is_correct": false },
+            { "choice_text": "توجيه النظر", "is_correct": true },
+            { "choice_text": "شرح نزهة النظر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد بـ 'التكرار في ثبات' في بيت الناظم؟",
+        "difficulty_score": 350,
+        "explanation": "يقصد بها المداومة على مراجعة مراتب الثقات لترسخ في الذهن [13].",
+        "choices": [
+            { "choice_text": "تكرار رواية الحديث", "is_correct": false },
+            { "choice_text": "إدمان مراجعة مراتب الثقات لترسيخها", "is_correct": true },
+            { "choice_text": "تكرار الرحلة في طلب الحديث", "is_correct": false },
+            { "choice_text": "تعدد مخارج الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أكمل بيت الناظم: 'والحافظ ابن رجب قد جمع...'",
+        "difficulty_score": 200,
+        "explanation": "تكملة البيت هي 'مراتباً لحفظهم فأبدع' [14].",
+        "choices": [
+            { "choice_text": "أحاديثاً بطرقها فأسمع", "is_correct": false },
+            { "choice_text": "مراتباً لحفظهم فأبدع", "is_correct": true },
+            { "choice_text": "مسائلاً في عللٍ فأقنع", "is_correct": false },
+            { "choice_text": "قواعداً للنقد قد ترفع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'فخذه بالسداد والرشاد' في سياق المنظومة؟",
+        "difficulty_score": 100,
+        "explanation": "دعوة لطالب العلم لتبني هذا المنهج القويم في النقد [10].",
+        "choices": [
+            { "choice_text": "دعوة لترك طلب الحديث", "is_correct": false },
+            { "choice_text": "دعوة لتبني المنهج الصحيح في النقد", "is_correct": true },
+            { "choice_text": "دعوة للكتابة بسرعة", "is_correct": false },
+            { "choice_text": "دعوة لحفظ القرآن أولاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر الشارح أن الفصل الحالي هو 'أهم فصل في النظم'؟",
+        "difficulty_score": 300,
+        "explanation": "لأنه يغوص في 'أعماق الصنعة الحديثية العملية الحقيقية' [19].",
+        "choices": [
+            { "choice_text": "لأنه يتحدث عن الصلاة", "is_correct": false },
+            { "choice_text": "لأنه يغوص في أعماق الصنعة العملية", "is_correct": true },
+            { "choice_text": "لأنه أسهل فصل في الحفظ", "is_correct": false },
+            { "choice_text": "لأنه يتحدث عن سِيَر الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عند وقوع الخلاف، ماذا يسمى تقديم 'الأكثر ضبطاً' على 'الأكثر عدداً'؟",
+        "difficulty_score": 600,
+        "explanation": "هذا من تقديم 'الكيف' (الضبط والإتقان) على 'الكم' (العدد) [6].",
+        "choices": [
+            { "choice_text": "تقديم الشذوذ", "is_correct": false },
+            { "choice_text": "تقديم الكيف على الكم في الترجيح", "is_correct": true },
+            { "choice_text": "تقديم الضعيف على الثقة", "is_correct": false },
+            { "choice_text": "تقديم المتأخر على المتقدم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الإفادة التي يجب أن تكون في 'زيادة المتن' لتدخل في محل البحث؟",
+        "difficulty_score": 500,
+        "explanation": "يجب أن تكون زيادة 'مؤثرة' يترتب عليها حكم فقهي أو معنى جديد [10, 21].",
+        "choices": [
+            { "choice_text": "زيادة في عدد الكلمات فقط", "is_correct": false },
+            { "choice_text": "زيادة مؤثرة يترتب عليها حكم أو معنى", "is_correct": true },
+            { "choice_text": "زيادة في اسم الراوي", "is_correct": false },
+            { "choice_text": "زيادة تفسيرية واضحة جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الصبر' في هذا العلم كما ذكر في الخاتمة؟",
+        "difficulty_score": 200,
+        "explanation": "الصبر خير زاد لطالب العلم للتمكن من هذه الصناعة الدقيقة [18].",
+        "choices": [
+            { "choice_text": "الصبر على قلة المال فقط", "is_correct": false },
+            { "choice_text": "الصبر كزاد أساسي للتمكن من الصناعة", "is_correct": true },
+            { "choice_text": "الصبر حتى ينتهي وقت الدرس", "is_correct": false },
+            { "choice_text": "لا حاجة للصبر مع الذكاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي طبقة من الثقات يُقدم قولها عند التعارض في حديث واحد؟",
+        "difficulty_score": 400,
+        "explanation": "تُقدم الطبقة 'العليا' من الثقات على من هم دونهم في الرتبة [3].",
+        "choices": [
+            { "choice_text": "الطبقة الأقل حفظاً", "is_correct": false },
+            { "choice_text": "الطبقة العليا الأكثر إتقاناً", "is_correct": true },
+            { "choice_text": "الطبقة المتأخرة زماناً", "is_correct": false },
+            { "choice_text": "كل الطبقات سواء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المثال العملي' الذي ساقه الشارح لزيادة ثقة مقبولة في الصحيح؟",
+        "difficulty_score": 450,
+        "explanation": "زيادة مالك 'من المسلمين' في حديث زكاة الفطر [22].",
+        "choices": [
+            { "choice_text": "زيادة 'في الصلاة' في حديث السهو", "is_correct": false },
+            { "choice_text": "زيادة 'من المسلمين' لمالك", "is_correct": true },
+            { "choice_text": "زيادة 'يوم الجمعة' في حديث الغسل", "is_correct": false },
+            { "choice_text": "زيادة 'وهو محرم' في حديث النكاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'نرده لهيبة الثقات'؟",
+        "difficulty_score": 750,
+        "explanation": "تعني استبعاد صحة تفرد الواحد بزيادة غفل عنها جمع كبير من الثقات المتقنين [10].",
+        "choices": [
+            { "choice_text": "الخوف من الثقات", "is_correct": false },
+            { "choice_text": "رد التفرد لاستبعاد غفلة المتقنين الجماعة", "is_correct": true },
+            { "choice_text": "احترام رأي الثقات الضعفاء", "is_correct": false },
+            { "choice_text": "قبول كل ما يرويه الثقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في النظم، ما هو 'أعلى رتبة' أدركها طالب العلم؟",
+        "difficulty_score": 300,
+        "explanation": "هي إدراك ومعرفة مراتب الثقات بدقة [2].",
+        "choices": [
+            { "choice_text": "حفظ الكتب الستة", "is_correct": false },
+            { "choice_text": "معرفة مراتب الثقات", "is_correct": true },
+            { "choice_text": "الرواية عن شيوخ كثر", "is_correct": false },
+            { "choice_text": "تصحيح الأحاديث الضعيفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط بين 'شرح العلل' و'أبهى الحلل' في المنظومة؟",
+        "difficulty_score": 250,
+        "explanation": "وصف الشارح كتاب ابن رجب (شرح العلل) بأنه ألبس هذا العلم أبهى الحلل [14].",
+        "choices": [
+            { "choice_text": "أنه كتاب في الزينة والملابس", "is_correct": false },
+            { "choice_text": "جمال عرضه واتقانه لهذا العلم", "is_correct": true },
+            { "choice_text": "كثرة الصور فيه", "is_correct": false },
+            { "choice_text": "أنه كتاب في اللغة والشعر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد بـ 'التتبع لنبينا في أقواله وهديه' في الخاتمة؟",
+        "difficulty_score": 150,
+        "explanation": "دعوة للتمسك بالسنة النبوية كمنهج حياة وكهدف لهذا العلم [23].",
+        "choices": [
+            { "choice_text": "تتبع أثر قدم النبي", "is_correct": false },
+            { "choice_text": "التمسك بالسنة وهدي النبي ﷺ", "is_correct": true },
+            { "choice_text": "كتابة التاريخ فقط", "is_correct": false },
+            { "choice_text": "حفظ الأقوال دون الأفعال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو حكم الحديث الذي فيه 'خلل من الشيخ' وليس من الرواة عنه؟",
+        "difficulty_score": 650,
+        "explanation": "يُحكم بصحة الوجهين عنه إذا كان ثقة ضابطاً يرويه على حالين [8, 18].",
+        "choices": [
+            { "choice_text": "يُحكم بضعفه مطلقاً", "is_correct": false },
+            { "choice_text": "يُحكم بصحة الوجهين (محفوظ عنه)", "is_correct": true },
+            { "choice_text": "يُرد الوصل ويُقبل الإرسال", "is_correct": false },
+            { "choice_text": "يُحذف الحديث من كتب الصحاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه القرائن تُستخدم 'لتقديم أحد الطرفين'؟",
+        "difficulty_score": 350,
+        "explanation": "المرجحات مثل الحفظ، الملازمة، والعدد [1, 5, 6].",
+        "choices": [
+            { "choice_text": "وسامة الراوي", "is_correct": false },
+            { "choice_text": "قرائن الحفظ والملازمة والعدد", "is_correct": true },
+            { "choice_text": "ثراء الشيخ", "is_correct": false },
+            { "choice_text": "طول الرحلة دون حفظ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الشارح عن 'النشاط والكسل' عند الشيخ؟",
+        "difficulty_score": 450,
+        "explanation": "النشاط يجعله 'يجود' الإسناد فيصله، والكسل يجعله يختصره فيرسله [18].",
+        "choices": [
+            { "choice_text": "أنه دليل على مرض الشيخ", "is_correct": false },
+            { "choice_text": "سبب لتغير حال الإسناد وصحة الوجهين", "is_correct": true },
+            { "choice_text": "دليل على سوء حفظه", "is_correct": false },
+            { "choice_text": "أنه خاص بشيوخ الكوفة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ختم الشارح المحاضرة بالدعاء بـ 'يا رب بارك واستجب دعوتنا'، فما هي الدعوة؟",
+        "difficulty_score": 100,
+        "explanation": "هي دعوة لبركة العلم والاستجابة بعد زوال الجهل بالتعلم [24].",
+        "choices": [
+            { "choice_text": "دعوة لزيادة المال", "is_correct": false },
+            { "choice_text": "دعوة لبركة العلم والاستجابة", "is_correct": true },
+            { "choice_text": "دعوة للسفر للطلب", "is_correct": false },
+            { "choice_text": "دعوة لتأليف الكتب", "is_correct": false }
+        ]
+    }
+]
+    }

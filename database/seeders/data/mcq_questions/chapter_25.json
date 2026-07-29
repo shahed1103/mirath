@@ -1,0 +1,898 @@
+    {
+    "chapter_id": 25,
+    "questions": [
+        {
+        "question_text": "ما هي حركة عين الفعل في الماضي والمضارع للباب الثالث؟",
+        "difficulty_score": 100,
+        "explanation": "الباب الثالث (فَتَحَ يَفْتَحُ) تكون عينه مفتوحة في الماضي والمضارع [5].",
+        "choices": [
+            {"choice_text": "فتح - ضم", "is_correct": false},
+            {"choice_text": "فتح - فتح", "is_correct": true},
+            {"choice_text": "ضم - ضم", "is_correct": false},
+            {"choice_text": "كسر - فتح", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يمثل الباب الرابع (فَعِلَ يَفْعَلُ)؟",
+        "difficulty_score": 200,
+        "explanation": "الفعل 'عَلِمَ يَعْلَمُ' هو الموزون القياسي للباب الرابع [6].",
+        "choices": [
+            {"choice_text": "نَصَرَ", "is_correct": false},
+            {"choice_text": "حَسُنَ", "is_correct": false},
+            {"choice_text": "عَلِمَ", "is_correct": true},
+            {"choice_text": "حَسِبَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الزائد في الفعل 'أَكْرَمَ'؟",
+        "difficulty_score": 150,
+        "explanation": "الفعل 'أَكْرَمَ' أصله 'كَرُمَ'، والزيادة هي الهمزة في أوله [7].",
+        "choices": [
+            {"choice_text": "الكاف", "is_correct": false},
+            {"choice_text": "الراء", "is_correct": false},
+            {"choice_text": "الهمزة", "is_correct": true},
+            {"choice_text": "الميم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الباب الخامس (فَعُلَ يَفْعُلُ) يمتاز بأنه:",
+        "difficulty_score": 300,
+        "explanation": "الباب الخامس لا يكون إلا لازماً ولا يأتي متعدياً أبداً [8].",
+        "choices": [
+            {"choice_text": "متعدٍ دائماً", "is_correct": false},
+            {"choice_text": "لازم دائماً", "is_correct": true},
+            {"choice_text": "يأتي لازماً ومتعدياً بالتساوي", "is_correct": false},
+            {"choice_text": "ينصب مفعولين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي الكلمات التالية تجمع حروف الزيادة؟",
+        "difficulty_score": 100,
+        "explanation": "كلمة 'سألتمونيها' هي الأشهر في جمع حروف الزيادة العشرة [9].",
+        "choices": [
+            {"choice_text": "كتبتموها", "is_correct": false},
+            {"choice_text": "سألتمونيها", "is_correct": true},
+            {"choice_text": "فهمناها", "is_correct": false},
+            {"choice_text": "درستموها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'التكثير' في وزن 'فَعَّلَ'؟",
+        "difficulty_score": 400,
+        "explanation": "التكثير يعني المبالغة في الفعل أو تكراره بكثرة مثل 'غَلَّقَ' [10].",
+        "choices": [
+            {"choice_text": "المشاركة بين اثنين", "is_correct": false},
+            {"choice_text": "صيرورة الفعل لازماً", "is_correct": false},
+            {"choice_text": "المبالغة وكثرة وقوع الفعل", "is_correct": true},
+            {"choice_text": "طلب الفعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا ضُم حرف المضارعة في 'يُكْرِمُ'؟",
+        "difficulty_score": 600,
+        "explanation": "القاعدة الصرفية تقول: إذا كان الماضي غير ثلاثي (رباعياً) يُضم حرف مضارعه [11].",
+        "choices": [
+            {"choice_text": "لأنه فعل لازم", "is_correct": false},
+            {"choice_text": "لأنه من الباب الرابع", "is_correct": false},
+            {"choice_text": "لأن الفعل الماضي رباعي", "is_correct": true},
+            {"choice_text": "لأنه ينتهي بميم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'حَسِبَ' من الباب السادس ينصب:",
+        "difficulty_score": 500,
+        "explanation": "الفعل 'حَسِبَ' من أخوات ظن، وهو يتعدى لنصب مفعولين [12].",
+        "choices": [
+            {"choice_text": "مفعولاً واحداً", "is_correct": false},
+            {"choice_text": "مفعولين", "is_correct": true},
+            {"choice_text": "ثلاثة مفاعيل", "is_correct": false},
+            {"choice_text": "لا ينصب مفاعيل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو شرط الباب الثالث (فَعَلَ يَفْعَلُ)؟",
+        "difficulty_score": 450,
+        "explanation": "شرطه أن يكون عينه أو لامه حرفاً من حروف الحلق [13].",
+        "choices": [
+            {"choice_text": "أن يكون عينه مكسورة", "is_correct": false},
+            {"choice_text": "أن يكون من حروف الزيادة", "is_correct": false},
+            {"choice_text": "أن يكون عينه أو لامه حرف حلق", "is_correct": true},
+            {"choice_text": "أن يكون فعلاً لازماً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعتبر 'مزيداً بحرف واحد'؟",
+        "difficulty_score": 300,
+        "explanation": "الفعل 'قَاتَلَ' مزيد بالألف بين القاف والتاء [14].",
+        "choices": [
+            {"choice_text": "دَحْرَجَ", "is_correct": false},
+            {"choice_text": "قَاتَلَ", "is_correct": true},
+            {"choice_text": "اسْتَخْرَجَ", "is_correct": false},
+            {"choice_text": "انْكَسَرَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في جملة 'مَوَّتَ الإبلُ'، الكثرة في ماذا؟",
+        "difficulty_score": 700,
+        "explanation": "الكثرة هنا في الفاعل (الإبل) لأن الموت وقع على أعداد كثيرة منها [15].",
+        "choices": [
+            {"choice_text": "في الفعل نفسه", "is_correct": false},
+            {"choice_text": "في الفاعل", "is_correct": true},
+            {"choice_text": "في المفعول به", "is_correct": false},
+            {"choice_text": "لا يوجد تكثير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'أَصْبَحَ الرجلُ' بمعنى دخل في الصباح هو فعل:",
+        "difficulty_score": 800,
+        "explanation": "إذا جاء 'أصبح' بمعنى التوقيت الزماني فهو فعل لازم وليس من النواسخ [16].",
+        "choices": [
+            {"choice_text": "متعدٍ لمفعول واحد", "is_correct": false},
+            {"choice_text": "ناقص يرفع المبتدأ", "is_correct": false},
+            {"choice_text": "لازم", "is_correct": true},
+            {"choice_text": "متعدٍ لمفعولين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن المصدر للفعل 'فَعَّلَ'؟",
+        "difficulty_score": 250,
+        "explanation": "مصدر 'فَعَّلَ' هو 'تَفْعِيل' مثل 'تَفْرِيح' [17].",
+        "choices": [
+            {"choice_text": "إفعال", "is_correct": false},
+            {"choice_text": "تَفْعِيل", "is_correct": true},
+            {"choice_text": "مفاعلة", "is_correct": false},
+            {"choice_text": "فِعَال", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "حرف 'الغين' في الفعل 'لَغَى يَلْغَى' يجعله من الباب:",
+        "difficulty_score": 550,
+        "explanation": "بما أن الغين حرف حلق وعينه مفتوحة في الماضي والمضارع فهو من الباب الثالث [18].",
+        "choices": [
+            {"choice_text": "الأول", "is_correct": false},
+            {"choice_text": "الثاني", "is_correct": false},
+            {"choice_text": "الثالث", "is_correct": true},
+            {"choice_text": "الرابع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وزن 'فَاعَلَ' يفيد غالباً:",
+        "difficulty_score": 400,
+        "explanation": "وزن 'فَاعَلَ' مثل 'ضَارَبَ' يفيد المشاركة بين اثنين غالباً [19].",
+        "choices": [
+            {"choice_text": "التكثير", "is_correct": false},
+            {"choice_text": "المشاركة", "is_correct": true},
+            {"choice_text": "الطلب", "is_correct": false},
+            {"choice_text": "التحويل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'سَأَلَ' ثلاثياً مجرداً رغم وجود السين؟",
+        "difficulty_score": 900,
+        "explanation": "لأن السين هنا أصلية لا تسقط عند التصريف (سأل، يسأل، اسأل) [20].",
+        "choices": [
+            {"choice_text": "لأن السين حرف حلق", "is_correct": false},
+            {"choice_text": "لأنها تثبت في جميع التصريفات", "is_correct": true},
+            {"choice_text": "لأنها ليست من حروف سألتمونيها", "is_correct": false},
+            {"choice_text": "لأن الفعل لازم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه المصادر يتبع للفعل 'قَاتَلَ'؟",
+        "difficulty_score": 500,
+        "explanation": "لفعل 'فاعَلَ' ثلاثة مصادر: مُفاعلة، فِعَال، فِيعَال (مقاتلة، قتال، قيتال) [14].",
+        "choices": [
+            {"choice_text": "إقتال", "is_correct": false},
+            {"choice_text": "تقتيل", "is_correct": false},
+            {"choice_text": "قِتال", "is_correct": true},
+            {"choice_text": "تَقَاتُل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الحرف الذي زِيد في 'فَرَّحَ' هو:",
+        "difficulty_score": 750,
+        "explanation": "الزيادة هي حرف من جنس العين (الراء الثانية) وُضع بين الفاء والعين [21].",
+        "choices": [
+            {"choice_text": "همزة في الأول", "is_correct": false},
+            {"choice_text": "ألف بعد الفاء", "is_correct": false},
+            {"choice_text": "حرف من جنس العين", "is_correct": true},
+            {"choice_text": "واو في الآخر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'وَرِثَ يَرِثُ' يتبع الباب:",
+        "difficulty_score": 600,
+        "explanation": "عين الفعل مكسورة في الماضي والمضارع، فهو من الباب السادس [22].",
+        "choices": [
+            {"choice_text": "الثاني", "is_correct": false},
+            {"choice_text": "الرابع", "is_correct": false},
+            {"choice_text": "السادس", "is_correct": true},
+            {"choice_text": "الأول", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "العلماء جمعوا حروف الحلق في أوائل كلمات:",
+        "difficulty_score": 350,
+        "explanation": "البيت 'أخي هاك علماً حازه غير خاسر' يجمع حروف الحلق الستة [23].",
+        "choices": [
+            {"choice_text": "سألتمونيها", "is_correct": false},
+            {"choice_text": "أخي هاك علماً حازه غير خاسر", "is_correct": true},
+            {"choice_text": "أبجد هوز حطي", "is_correct": false},
+            {"choice_text": "قطب جد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الوزن الصرفي للفعل 'يَضَعُ' في المضارع؟",
+        "difficulty_score": 300,
+        "explanation": "الفعل 'يَضَعُ' أصله من 'وَضَعَ يَضَعُ' على وزن 'فَعَلَ يَفْعَلُ' (الباب الثالث) لوجود حرف الحلق في آخره.",
+        "choices": [
+            {"choice_text": "يَفْعُلُ", "is_correct": false},
+            {"choice_text": "يَفْعِلُ", "is_correct": false},
+            {"choice_text": "يَفْعَلُ", "is_correct": true},
+            {"choice_text": "يُفْعِلُ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعتبر لازماً دائماً ولا يأتي متعدياً؟",
+        "difficulty_score": 400,
+        "explanation": "أفعال الباب الخامس (فَعُلَ يَفْعُلُ) مثل 'حَسُنَ' و'شَرُفَ' هي أفعال السجايا والطبائع وهي لازمة دائماً.",
+        "choices": [
+            {"choice_text": "نَصَرَ", "is_correct": false},
+            {"choice_text": "فَتَحَ", "is_correct": false},
+            {"choice_text": "حَسُنَ", "is_correct": true},
+            {"choice_text": "عَلِمَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى زيادة 'الهمزة' في 'أَخْرَجَ زيدٌ خالداً'؟",
+        "difficulty_score": 500,
+        "explanation": "الهمزة في وزن 'أَفْعَلَ' تفيد 'التعدية'، أي جعل الفعل اللازم (خَرَجَ) متعدياً ينصب مفعولاً به.",
+        "choices": [
+            {"choice_text": "المشاركة", "is_correct": false},
+            {"choice_text": "التكثير", "is_correct": false},
+            {"choice_text": "التعدية", "is_correct": true},
+            {"choice_text": "الطلب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدد حروف الزيادة المجموعة في 'سألتمونيها'؟",
+        "difficulty_score": 100,
+        "explanation": "حروف الزيادة عشرة أحرف مجموعة في هذه الكلمة.",
+        "choices": [
+            {"choice_text": "8 أحرف", "is_correct": false},
+            {"choice_text": "10 أحرف", "is_correct": true},
+            {"choice_text": "12 حرفاً", "is_correct": false},
+            {"choice_text": "6 أحرف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في قوله تعالى 'وورث سليمان داوود'، الفعل 'وَرِثَ' من أي باب؟",
+        "difficulty_score": 600,
+        "explanation": "الفعل 'وَرِثَ يَرِثُ' بكسر العين في الماضي والمضارع هو من الباب السادس.",
+        "choices": [
+            {"choice_text": "الباب الثاني", "is_correct": false},
+            {"choice_text": "الباب الرابع", "is_correct": false},
+            {"choice_text": "الباب السادس", "is_correct": true},
+            {"choice_text": "الباب الخامس", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا تعتبر الميم في 'مَنْصُور' حرفاً زائداً؟",
+        "difficulty_score": 700,
+        "explanation": "لأنها تسقط في تصريفات الفعل الأخرى مثل (نَصَرَ، يَنْصُرُ)، والحرف الذي يسقط في التصريف هو الزائد.",
+        "choices": [
+            {"choice_text": "لأنها في أول الكلمة", "is_correct": false},
+            {"choice_text": "لأنها تسقط عند التصريف", "is_correct": true},
+            {"choice_text": "لأنها من حروف الحلق", "is_correct": false},
+            {"choice_text": "لأن الفعل رباعي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين 'قَتَلَ' و 'قَتَّلَ'؟",
+        "difficulty_score": 450,
+        "explanation": "وزن 'فَعَّلَ' (قَتَّلَ) يفيد التكثير والمبالغة في وقوع الفعل مقارنة بالمجرد.",
+        "choices": [
+            {"choice_text": "لا فرق في المعنى", "is_correct": false},
+            {"choice_text": "الأول للمشاركة والثاني للتعدية", "is_correct": false},
+            {"choice_text": "الثاني يفيد التكثير والمبالغة", "is_correct": true},
+            {"choice_text": "الأول لازم والثاني متعدٍ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي الكلمات التالية تصف حروف الحلق؟",
+        "difficulty_score": 200,
+        "explanation": "تسمى حروف الحلق أيضاً بـ 'حروف الإظهار' عند علماء التجويد.",
+        "choices": [
+            {"choice_text": "حروف الإدغام", "is_correct": false},
+            {"choice_text": "حروف الإظهار", "is_correct": true},
+            {"choice_text": "حروف القلقلة", "is_correct": false},
+            {"choice_text": "حروف المد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مصدر الفعل 'زَكَّى'؟",
+        "difficulty_score": 600,
+        "explanation": "الفعل على وزن 'فَعَّلَ' المعتل الآخر يكون مصدره على وزن 'تَفْعِلة' مثل 'تَزْكِيَة'.",
+        "choices": [
+            {"choice_text": "تزكيّ", "is_correct": false},
+            {"choice_text": "إزكاء", "is_correct": false},
+            {"choice_text": "تَزْكِيَة", "is_correct": true},
+            {"choice_text": "زكاة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في جملة 'غَلَّقَتِ الأبواب'، أين يقع التكثير؟",
+        "difficulty_score": 800,
+        "explanation": "التكثير هنا في المفعول به (الأبواب) لكثرة عددها التي وقع عليها فعل الغلق.",
+        "choices": [
+            {"choice_text": "في الفاعل", "is_correct": false},
+            {"choice_text": "في المفعول به", "is_correct": true},
+            {"choice_text": "في الزمان", "is_correct": false},
+            {"choice_text": "لا يوجد تكثير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'ضَرَبَ' يتبع أي باب؟",
+        "difficulty_score": 100,
+        "explanation": "ضَرَبَ يَضْرِبُ (فتح العين في الماضي وكسرها في المضارع) هو الباب الثاني.",
+        "choices": [
+            {"choice_text": "الأول", "is_correct": false},
+            {"choice_text": "الثاني", "is_correct": true},
+            {"choice_text": "الثالث", "is_correct": false},
+            {"choice_text": "الرابع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حركة حرف المضارعة في الفعل 'يُسَبِّحُ'؟",
+        "difficulty_score": 550,
+        "explanation": "بما أن الفعل الماضي (سَبَّحَ) غير ثلاثي (رباعي بالتضعيف)، فإن حرف المضارعة يجب أن يكون مضموماً.",
+        "choices": [
+            {"choice_text": "الفتحة", "is_correct": false},
+            {"choice_text": "الضمة", "is_correct": true},
+            {"choice_text": "الكسرة", "is_correct": false},
+            {"choice_text": "السكون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الحروف ليس من حروف الحلق؟",
+        "difficulty_score": 150,
+        "explanation": "حروف الحلق هي: أ، هـ، ع، ح، غ، خ. حرف القاف ليس منها.",
+        "choices": [
+            {"choice_text": "الهمزة", "is_correct": false},
+            {"choice_text": "الخاء", "is_correct": false},
+            {"choice_text": "القاف", "is_correct": true},
+            {"choice_text": "الغين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "معنى 'المشاركة' في وزن 'فَاعَلَ' (مثل ضَارَبَ) هو:",
+        "difficulty_score": 350,
+        "explanation": "المشاركة تعني وقوع الفعل من طرفين بحيث يكون كل منهما فاعلاً ومفعولاً في المعنى.",
+        "choices": [
+            {"choice_text": "وقوع الفعل من طرف واحد", "is_correct": false},
+            {"choice_text": "وقوع الفعل من طرفين", "is_correct": true},
+            {"choice_text": "تكرار الفعل كثيراً", "is_correct": false},
+            {"choice_text": "طلب وقوع الفعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الموزون القياسي للباب الأول؟",
+        "difficulty_score": 100,
+        "explanation": "الباب الأول (فَعَلَ يَفْعُلُ) موزونه الشهير 'نَصَرَ يَنْصُرُ'.",
+        "choices": [
+            {"choice_text": "ضَرَبَ", "is_correct": false},
+            {"choice_text": "نَصَرَ", "is_correct": true},
+            {"choice_text": "فَتَحَ", "is_correct": false},
+            {"choice_text": "حَسُنَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا تعد 'الياء' في 'يَضْرِبُ' زائدة وليست أصلية؟",
+        "difficulty_score": 500,
+        "explanation": "لأنها تسقط في الماضي 'ضَرَبَ'، والقاعدة أن الحرف الأصلي لا يسقط في تصريفات الفعل.",
+        "choices": [
+            {"choice_text": "لأنها حرف مضارعة", "is_correct": false},
+            {"choice_text": "لأنها تسقط في الماضي", "is_correct": true},
+            {"choice_text": "لأنها من حروف سألتمونيها", "is_correct": false},
+            {"choice_text": "كل ما سبق صحيح", "is_correct": true}
+        ]
+    },
+    {
+        "question_text": "الفعل 'حَسِبَ' ورد في القرآن بفتح العين في المضارع 'يَحْسَبُ'؛ هذه القراءة تعتبر:",
+        "difficulty_score": 900,
+        "explanation": "ذكر المصدر أنها قراءة سبعية متواترة (أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ).",
+        "choices": [
+            {"choice_text": "شاذة", "is_correct": false},
+            {"choice_text": "ضعيفة", "is_correct": false},
+            {"choice_text": "سبعية متواترة", "is_correct": true},
+            {"choice_text": "لغة غير فصيحة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي الأوزان التالية يمثل 'مزيداً بحرفين'؟",
+        "difficulty_score": 800,
+        "explanation": "الفعل 'انْكَسَرَ' أصله 'كَسَرَ'، زيد فيه الألف والنون في أوله.",
+        "choices": [
+            {"choice_text": "أَخْرَجَ", "is_correct": false},
+            {"choice_text": "قَاتَلَ", "is_correct": false},
+            {"choice_text": "انْكَسَرَ", "is_correct": true},
+            {"choice_text": "اسْتَخْرَجَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "معنى 'قَاتَلَ اللهُ الكفار' هو مفاعلة من:",
+        "difficulty_score": 850,
+        "explanation": "في هذا السياق، المفاعلة من طرف واحد (الله عز وجل) لأن البشر لا يقاتلون الله، وهذا استخدام قليل لوزن 'فَاعَلَ'.",
+        "choices": [
+            {"choice_text": "طرفين", "is_correct": false},
+            {"choice_text": "طرف واحد", "is_correct": true},
+            {"choice_text": "ثلاثة أطراف", "is_correct": false},
+            {"choice_text": "لا مفاعلة فيها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو ضابط معرفة أبواب الثلاثي المجرد؟",
+        "difficulty_score": 650,
+        "explanation": "أبواب الثلاثي المجرد سماعية، أي تُعرف بالسماع من العرب والرجوع للمعاجم والقواميس.",
+        "choices": [
+            {"choice_text": "القياس العقلي", "is_correct": false},
+            {"choice_text": "السماع والمعاجم", "is_correct": true},
+            {"choice_text": "قواعد ثابتة لا تتغير", "is_correct": false},
+            {"choice_text": "كثرة حروف الفعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الفرق الجوهري بين 'ضَرَبَ' و 'ضَارَبَ' من حيث المعنى؟",
+        "difficulty_score": 400,
+        "explanation": "الفعل 'ضَرَبَ' يدل على وقوع الفعل من طرف واحد، بينما 'ضَارَبَ' على وزن 'فَاعَلَ' يدل على المشاركة بين اثنين بحيث يكون كلاهما ضارباً ومضروباً [39، 40].",
+        "choices": [
+            {"choice_text": "لا فرق بينهما في المعنى", "is_correct": false},
+            {"choice_text": "الأول يفيد التكثير والثاني يفيد الطلب", "is_correct": false},
+            {"choice_text": "الثاني يفيد المشاركة بين اثنين", "is_correct": true},
+            {"choice_text": "الأول متعدٍ والثاني لازم دائماً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الحرف الزائد في الفعل 'فَرَّحَ' هو:",
+        "difficulty_score": 600,
+        "explanation": "الفعل 'فَرَّحَ' أصله 'فَرِحَ'، والزيادة هي حرف من جنس العين (الراء) وضع بين الفاء والعين ثم أدغم [31، 32].",
+        "choices": [
+            {"choice_text": "الهمزة في أوله", "is_correct": false},
+            {"choice_text": "الألف بعد الفاء", "is_correct": false},
+            {"choice_text": "حرف من جنس عين الفعل", "is_correct": true},
+            {"choice_text": "الياء في آخره", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مصدر الفعل 'أَخْرَجَ' قياساً؟",
+        "difficulty_score": 250,
+        "explanation": "الفعل على وزن 'أَفْعَلَ' يكون مصدره القياسي على وزن 'إِفْعَال'؛ لذا مصدر 'أَخْرَجَ' هو 'إِخْرَاج' [25، 28].",
+        "choices": [
+            {"choice_text": "تخريج", "is_correct": false},
+            {"choice_text": "إخراج", "is_correct": true},
+            {"choice_text": "خروج", "is_correct": false},
+            {"choice_text": "مخارجه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في جملة 'أَصْبَحَ الرَّجُلُ' (بمعنى دخل في وقت الصباح)، يُعرب 'الرجل':",
+        "difficulty_score": 800,
+        "explanation": "عندما تفيد 'أصبح' التوقيت الزماني للدخول في الصباح تكون فعلاً تاماً (لازماً) وما بعدها يُعرب فاعلاً [29، 30].",
+        "choices": [
+            {"choice_text": "اسم أصبح مرفوع", "is_correct": false},
+            {"choice_text": "فاعل مرفوع", "is_correct": true},
+            {"choice_text": "مفعول به منصوب", "is_correct": false},
+            {"choice_text": "خبر أصبح منصوب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "قراءة 'يَحْسَبُ' بفتح العين في المضارع للفعل 'حَسِبَ' تعتبر:",
+        "difficulty_score": 900,
+        "explanation": "ذكر المصدر أن قراءة 'أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ' بفتح السين هي قراءة سبعية متواترة [1].",
+        "choices": [
+            {"choice_text": "قراءة شاذة", "is_correct": false},
+            {"choice_text": "لغة ضعيفة", "is_correct": false},
+            {"choice_text": "قراءة سبعية متواترة", "is_correct": true},
+            {"choice_text": "خطأ صرفي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أين تقع الألف الزائدة في وزن 'فَاعَلَ'؟",
+        "difficulty_score": 500,
+        "explanation": "في وزن 'فَاعَلَ' مثل 'قَاتَلَ'، تقع الألف الزائدة بين الفاء (الحرف الأول) والعين (الحرف الثاني) [37، 38].",
+        "choices": [
+            {"choice_text": "في أول الفعل قبل الفاء", "is_correct": false},
+            {"choice_text": "بين الفاء والعين", "is_correct": true},
+            {"choice_text": "بين العين واللام", "is_correct": false},
+            {"choice_text": "في آخر الفعل بعد اللام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في المثال 'مَوَّتَتِ الإِبِلُ'، أين تكمن الكثرة (التكثير)؟",
+        "difficulty_score": 750,
+        "explanation": "التكثير هنا في الفاعل (الإبل)، لأن الفعل وقع على عدد كبير من الفاعلين (أفراد الإبل) [2].",
+        "choices": [
+            {"choice_text": "في الفعل نفسه", "is_correct": false},
+            {"choice_text": "في الفاعل", "is_correct": true},
+            {"choice_text": "في المفعول به", "is_correct": false},
+            {"choice_text": "في الزمان والمكان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في قوله تعالى 'وَغَلَّقَتِ الأَبْوَابَ'، وزن 'غَلَّقَ' يفيد:",
+        "difficulty_score": 450,
+        "explanation": "وزن 'فَعَّلَ' هنا أفاد التكثير والمبالغة في الفعل وفي المفعول به (الأبواب) [3].",
+        "choices": [
+            {"choice_text": "المشاركة", "is_correct": false},
+            {"choice_text": "التكثير", "is_correct": true},
+            {"choice_text": "الطلب", "is_correct": false},
+            {"choice_text": "الصيرورة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا ضُم حرف المضارعة في 'يُكْرِمُ' وفُتح في 'يَضْرِبُ'؟",
+        "difficulty_score": 550,
+        "explanation": "القاعدة الصرفية تنص على فتح حرف المضارعة إذا كان الماضي ثلاثياً، وضمه إذا كان غير ثلاثي (رباعياً فأكثر) [26، 27].",
+        "choices": [
+            {"choice_text": "بسبب التعدية واللزوم", "is_correct": false},
+            {"choice_text": "لأن 'يُكْرِمُ' فعل رباعي في الماضي", "is_correct": true},
+            {"choice_text": "لأن 'يَضْرِبُ' من الباب الرابع", "is_correct": false},
+            {"choice_text": "لا توجد قاعدة ثابتة لذلك", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مصدر الفعل 'أَقَامَ'؟",
+        "difficulty_score": 700,
+        "explanation": "الفعل 'أَقَامَ' حصلت فيه عملية صرفية حُذفت فيها الألف وعُوضت بتاء مربوطة في الآخر فصار 'إِقَامَة' [4].",
+        "choices": [
+            {"choice_text": "إقوام", "is_correct": false},
+            {"choice_text": "إقامة", "is_correct": true},
+            {"choice_text": "تقويم", "is_correct": false},
+            {"choice_text": "قيام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو معنى 'المشاركة للواحد' في قوله تعالى 'قَاتَلَهُمُ اللهُ'؟",
+        "difficulty_score": 850,
+        "explanation": "وزن 'فَاعَلَ' هنا جاء للواحد (الله عز وجل) لأن البشر لا يقاتلون الله، وهذا استخدام قليل للوزن يفيد وقوع الفعل من طرف واحد [40، 41].",
+        "choices": [
+            {"choice_text": "أن الكفار يقاتلون الله أيضاً", "is_correct": false},
+            {"choice_text": "أن المقاتلة من طرف الله فقط", "is_correct": true},
+            {"choice_text": "أنها تفيد كثرة القتل", "is_correct": false},
+            {"choice_text": "أنها تفيد طلب القتل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'عَلِمَ' من الباب الرابع، فهل هو متعدٍ أم لازم؟",
+        "difficulty_score": 350,
+        "explanation": "بناء الباب الرابع (فَعِلَ يَفْعَلُ) يكون للتعدية غالباً (مثل عَلِمَ زيدٌ المسألة) وقد يكون لازماً [5].",
+        "choices": [
+            {"choice_text": "لازم دائماً", "is_correct": false},
+            {"choice_text": "متعدٍ غالباً", "is_correct": true},
+            {"choice_text": "لا يأتي متعدياً أبداً", "is_correct": false},
+            {"choice_text": "ينصب ثلاثة مفاعيل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الأبواب التي تُعرف 'سماعاً' من المعاجم ولا يُقاس عليها؟",
+        "difficulty_score": 650,
+        "explanation": "أبواب الثلاثي المجرد الستة هي أبواب سماعية، بينما أبواب المزيد تعتبر قياسية [6].",
+        "choices": [
+            {"choice_text": "أبواب الثلاثي المزيد", "is_correct": false},
+            {"choice_text": "أبواب الثلاثي المجرد", "is_correct": true},
+            {"choice_text": "أبواب الرباعي المجرد", "is_correct": false},
+            {"choice_text": "كل أبواب الصرف سماعية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأوزان التالية له 'ثلاثة أشكال' للمصدر؟",
+        "difficulty_score": 500,
+        "explanation": "وزن 'فَاعَلَ' له ثلاثة مصادر قياسية هي: مُفَاعَلَة، وفِعَال، وفِيعَال [2].",
+        "choices": [
+            {"choice_text": "أَفْعَلَ", "is_correct": false},
+            {"choice_text": "فَعَّلَ", "is_correct": false},
+            {"choice_text": "فَاعَلَ", "is_correct": true},
+            {"choice_text": "فَعَلَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'مزيد الثلاثي'؟",
+        "difficulty_score": 100,
+        "explanation": "هو ما كان أصله ثلاثة أحرف أصلية ثم زيد فيه حرف أو أكثر حتى صار أربعة أو خمسة أو ستة أحرف [7].",
+        "choices": [
+            {"choice_text": "الفعل الذي كل حروفه أصلية", "is_correct": false},
+            {"choice_text": "الفعل الذي زيد فيه حرف على أصوله الثلاثة", "is_correct": true},
+            {"choice_text": "الفعل المكون من أربعة أحرف أصلية", "is_correct": false},
+            {"choice_text": "الفعل الذي سقطت فاؤه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي الكلمات التالية تجمع حروف الزيادة بطريقة أخرى غير 'سألتمونيها'؟",
+        "difficulty_score": 300,
+        "explanation": "تجمعها أيضاً عبارات مثل 'اليوم تنساه' أو 'أمان وتسهيل' [8].",
+        "choices": [
+            {"choice_text": "أبجد هوز", "is_correct": false},
+            {"choice_text": "اليوم تنساه", "is_correct": true},
+            {"choice_text": "كتبت الدرس", "is_correct": false},
+            {"choice_text": "نصر ينصر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لا توجد أفعال على وزن 'فَعُلَ' (الباب الخامس) متعدية؟",
+        "difficulty_score": 900,
+        "explanation": "لأن هذا الوزن مخصص للأفعال التي تدل على السجايا والطبائع الذاتية، وهي أفعال قاصرة (لازمة) بطبيعتها [13، 14].",
+        "choices": [
+            {"choice_text": "لأن حروفه صعبة النطق", "is_correct": false},
+            {"choice_text": "لأنه يدل على السجايا والطبائع", "is_correct": true},
+            {"choice_text": "لأنه لا يضم حرف حلق", "is_correct": false},
+            {"choice_text": "لأنه باب مهجور", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في مثال 'طَوَّفَ زَيْدٌ الكَعْبَةَ'، الكثرة في ماذا؟",
+        "difficulty_score": 750,
+        "explanation": "الكعبة واحدة وزيد واحد، فالكثرة هنا في 'الفعل' نفسه (أي كثرة الطواف وتكراره) [3].",
+        "choices": [
+            {"choice_text": "في الفاعل", "is_correct": false},
+            {"choice_text": "في المفعول به", "is_correct": false},
+            {"choice_text": "في الفعل", "is_correct": true},
+            {"choice_text": "لا يوجد تكثير هنا", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو ميزان الفعل 'تَابَعَ'؟",
+        "difficulty_score": 200,
+        "explanation": "الفعل 'تَابَعَ' على وزن 'فَاَعَلَ' بزيادة الألف بعد الحرف الأول (التاء) [37، 38].",
+        "choices": [
+            {"choice_text": "فَعَّلَ", "is_correct": false},
+            {"choice_text": "فَاَعَلَ", "is_correct": true},
+            {"choice_text": "أَفْعَلَ", "is_correct": false},
+            {"choice_text": "تَفَاعَلَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدد أبواب المزيد على الثلاثي إجمالاً؟",
+        "difficulty_score": 150,
+        "explanation": "ذكر المصنف أن أبواب المزيد على الثلاثي هي اثنا عشر باباً [18، 19].",
+        "choices": [
+            {"choice_text": "6 أبواب", "is_correct": false},
+            {"choice_text": "12 باباً", "is_correct": true},
+            {"choice_text": "35 باباً", "is_correct": false},
+            {"choice_text": "10 أبواب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الزائد في وزن 'فَاعَلَ' وأين موقعه؟",
+        "difficulty_score": 400,
+        "explanation": "الحرف الزائد في وزن 'فَاعَلَ' هو الألف، وموقعه يكون بين الفاء (الحرف الأول) والعين (الحرف الثاني) [37، 38].",
+        "choices": [
+            {"choice_text": "الهمزة في أول الفعل", "is_correct": false},
+            {"choice_text": "الألف بين الفاء والعين", "is_correct": true},
+            {"choice_text": "تضعيف حرف العين", "is_correct": false},
+            {"choice_text": "الواو قبل الحرف الأخير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يمثل 'التكثير في المفعول به'؟",
+        "difficulty_score": 700,
+        "explanation": "في جملة 'غَلَّقَ زيدٌ الأبوابَ'، التكثير يقع على الأبواب (المفعول به) لكثرة عددها [1].",
+        "choices": [
+            {"choice_text": "طَوَّفَ زيدٌ الكعبة", "is_correct": false},
+            {"choice_text": "مَوَّتَتِ الإبلُ", "is_correct": false},
+            {"choice_text": "غَلَّقَ زيدٌ الأبوابَ", "is_correct": true},
+            {"choice_text": "قَاتَلَ زيدٌ عمراً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الوزن الذي لا يأتي إلا لازماً في الثلاثي المجرد؟",
+        "difficulty_score": 300,
+        "explanation": "الباب الخامس (فَعُلَ يَفْعُلُ) هو الباب الوحيد في الثلاثي المجرد الذي لا يأتي إلا لازماً دائماً [13، 18].",
+        "choices": [
+            {"choice_text": "فَعَلَ يَفْعُلُ", "is_correct": false},
+            {"choice_text": "فَعِلَ يَفْعَلُ", "is_correct": false},
+            {"choice_text": "فَعُلَ يَفْعُلُ", "is_correct": true},
+            {"choice_text": "فَعِلَ يَفْعِلُ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا سُميت حروف الحلق بهذا الاسم عند علماء التجويد؟",
+        "difficulty_score": 200,
+        "explanation": "سُميت بذلك لأن مخرج هذه الحروف الستة يكون من الحلق [2].",
+        "choices": [
+            {"choice_text": "لأنها تُنطق من اللسان", "is_correct": false},
+            {"choice_text": "لأن مخرجها هو الحلق", "is_correct": true},
+            {"choice_text": "لأنها حروف زائدة دائماً", "is_correct": false},
+            {"choice_text": "لأنها تظهر في أول الكلمة فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مصدر الفعل 'قَاتَلَ' الذي لم يُذكر في الخيارات السابقة؟",
+        "difficulty_score": 600,
+        "explanation": "لفعل 'قَاتَلَ' ثلاثة مصادر هي: مُقَاتَلَة، وقِتَال، وقِيتَال [3].",
+        "choices": [
+            {"choice_text": "تَقْتِيل", "is_correct": false},
+            {"choice_text": "قِيتَال", "is_correct": true},
+            {"choice_text": "اقْتِتَال", "is_correct": false},
+            {"choice_text": "تَقَاتُل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "إذا كان الفعل الماضي 'أَكْرَمَ'، فما هي حركة حرف المضارعة في 'يُكْرِمُ'؟",
+        "difficulty_score": 500,
+        "explanation": "القاعدة الصرفية تقول أنه إذا كان الماضي غير ثلاثي (رباعياً فأكثر) يُضم حرف مضارعه [26، 27].",
+        "choices": [
+            {"choice_text": "الفتحة", "is_correct": false},
+            {"choice_text": "الكسرة", "is_correct": false},
+            {"choice_text": "الضمة", "is_correct": true},
+            {"choice_text": "السكون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي الأفعال التالية من الباب السادس (فَعِلَ يَفْعِلُ)؟",
+        "difficulty_score": 450,
+        "explanation": "الفعل 'حَسِبَ يَحْسِبُ' هو الموزون القياسي للباب السادس بكسر العين في الحالتين [4].",
+        "choices": [
+            {"choice_text": "نَصَرَ", "is_correct": false},
+            {"choice_text": "عَلِمَ", "is_correct": false},
+            {"choice_text": "حَسِبَ", "is_correct": true},
+            {"choice_text": "شَرُفَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى المستفاد من وزن 'أَفْعَلَ' في 'أَكْرَمَ زيدٌ عمراً'؟",
+        "difficulty_score": 550,
+        "explanation": "الغالب في بناء وزن 'أَفْعَلَ' هو 'التعدية'، أي جعل الفعل يتجاوز الفاعل إلى المفعول به [5].",
+        "choices": [
+            {"choice_text": "المشاركة", "is_correct": false},
+            {"choice_text": "التعدية", "is_correct": true},
+            {"choice_text": "التكثير", "is_correct": false},
+            {"choice_text": "الطلب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف المجموعة في عبارة 'أخي هاك علماً حازه غير خاسر'؟",
+        "difficulty_score": 250,
+        "explanation": "تجمع هذه العبارة في أوائل كلماتها حروف الحلق الستة (أ، هـ، ع، ح، غ، خ) [2].",
+        "choices": [
+            {"choice_text": "حروف الزيادة", "is_correct": false},
+            {"choice_text": "حروف الحلق", "is_correct": true},
+            {"choice_text": "حروف القلقلة", "is_correct": false},
+            {"choice_text": "حروف العلة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر الحرف الزائد 'زائداً' في علم الصرف؟",
+        "difficulty_score": 800,
+        "explanation": "يُعتبر زائداً لأنه يسقط في بعض تصريفات الفعل، بينما يثبت الحرف الأصلي في جميعها [21، 22].",
+        "choices": [
+            {"choice_text": "لأنه يأتي في وسط الكلمة دائماً", "is_correct": false},
+            {"choice_text": "لأنه يسقط عند التصريف", "is_correct": true},
+            {"choice_text": "لأنه من حروف الحلق", "is_correct": false},
+            {"choice_text": "لأنه لا يُنطق بوضوح", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'شَرُفَ' يتبع الباب الخامس، فما هو مضارعه؟",
+        "difficulty_score": 150,
+        "explanation": "الباب الخامس (فَعُلَ يَفْعُلُ) يضم العين في الماضي والمضارع، لذا مضارع 'شَرُفَ' هو 'يَشْرُفُ' [12، 13].",
+        "choices": [
+            {"choice_text": "يَشْرَفُ", "is_correct": false},
+            {"choice_text": "يَشْرِفُ", "is_correct": false},
+            {"choice_text": "يَشْرُفُ", "is_correct": true},
+            {"choice_text": "يُشَرِّفُ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في جملة 'طَوَّفَ زيدٌ الكعبة'، أين تقع الكثرة؟",
+        "difficulty_score": 750,
+        "explanation": "بما أن زيداً شخص واحد والكعبة واحدة، فإن الكثرة تقع في 'الفعل' نفسه (تكرار الطواف) [6].",
+        "choices": [
+            {"choice_text": "في الفاعل", "is_correct": false},
+            {"choice_text": "في المفعول به", "is_correct": false},
+            {"choice_text": "في الفعل", "is_correct": true},
+            {"choice_text": "لا يوجد تكثير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو عدد أبواب التصريف الإجمالية التي ذكرها المصنف؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر المصنف أن أبواب التصريف هي خمسة وثلاثون باباً [7].",
+        "choices": [
+            {"choice_text": "6 أبواب", "is_correct": false},
+            {"choice_text": "12 باباً", "is_correct": false},
+            {"choice_text": "35 باباً", "is_correct": true},
+            {"choice_text": "70 باباً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو ضابط الفعل 'الثلاثي المجرد'؟",
+        "difficulty_score": 100,
+        "explanation": "هو الفعل الذي تكون كل حروفه أصلية، وعددها ثلاثة حروف [8].",
+        "choices": [
+            {"choice_text": "ما كان فيه حرف زائد", "is_correct": false},
+            {"choice_text": "ما كانت حروفه أصلية وعددها ثلاثة", "is_correct": true},
+            {"choice_text": "ما كان على وزن أفْعَلَ", "is_correct": false},
+            {"choice_text": "ما سقط أحد حروفه في الماضي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي العبارات التالية صحيحة عن 'حروف الزيادة'؟",
+        "difficulty_score": 650,
+        "explanation": "حروف الزيادة إذا جاءت زائدة فلا بد أن تكون من مجموعة 'سألتمونيها'، لكن وجودها في الكلمة لا يعني دائماً أنها زائدة [20، 21].",
+        "choices": [
+            {"choice_text": "كل حرف من 'سألتمونيها' هو زائد دائماً", "is_correct": false},
+            {"choice_text": "الحرف الزائد لا يخرج عن حروف 'سألتمونيها'", "is_correct": true},
+            {"choice_text": "حروف الزيادة هي حروف الحلق نفسها", "is_correct": false},
+            {"choice_text": "لا يمكن معرفة الحرف الزائد إلا بالسماع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي 'عالمة' الباب الرابع (فَعِلَ يَفْعَلُ)؟",
+        "difficulty_score": 300,
+        "explanation": "عالمته هي كسر العين في الماضي وفتحها في المضارع [9].",
+        "choices": [
+            {"choice_text": "فتح العين في الماضي والمضارع", "is_correct": false},
+            {"choice_text": "كسر العين في الماضي والمضارع", "is_correct": false},
+            {"choice_text": "كسر العين في الماضي وفتحها في المضارع", "is_correct": true},
+            {"choice_text": "ضم العين في الماضي والمضارع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'المشاركة' في وزن 'فَاعَلَ'؟",
+        "difficulty_score": 400,
+        "explanation": "المشاركة تعني وقوع الفعل من طرفين غالباً، مثل 'قَاتَلَ زيدٌ عمراً' [10].",
+        "choices": [
+            {"choice_text": "وقوع الفعل من فاعلين كثيرين", "is_correct": false},
+            {"choice_text": "اشتراك طرفين في وقوع الفعل بينهما", "is_correct": true},
+            {"choice_text": "تعدية الفعل لمفعولين", "is_correct": false},
+            {"choice_text": "تحويل الفعل من اللازم للمتعدي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الزائد في 'فَرَّحَ' وبماذا يتصف؟",
+        "difficulty_score": 850,
+        "explanation": "الزيادة هي حرف من جنس 'عين' الفعل (الراء الثانية) وُضع بين الفاء والعين [31، 32].",
+        "choices": [
+            {"choice_text": "همزة في أوله", "is_correct": false},
+            {"choice_text": "ألف بعد العين", "is_correct": false},
+            {"choice_text": "حرف من جنس العين بين الفاء والعين", "is_correct": true},
+            {"choice_text": "ياء في آخره", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعتبر 'شاذّاً' إذا ورد متعدياً؟",
+        "difficulty_score": 900,
+        "explanation": "أي فعل على وزن 'فَعُلَ' (الباب الخامس) يرِد متعدياً يُحكم عليه بالشذوذ أو الضعف لأنه باب اللازم خلقةً [13، 14].",
+        "choices": [
+            {"choice_text": "نَصَرَ", "is_correct": false},
+            {"choice_text": "كَرُمَ", "is_correct": true},
+            {"choice_text": "فَتَحَ", "is_correct": false},
+            {"choice_text": "حَسِبَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو النوع الأول من أنواع 'المزيد على الثلاثي'؟",
+        "difficulty_score": 100,
+        "explanation": "النوع الأول هو ما زيد فيه حرف واحد على حروفه الأصلية الثلاثة [11].",
+        "choices": [
+            {"choice_text": "ما زيد فيه حرفان", "is_correct": false},
+            {"choice_text": "ما زيد فيه حرف واحد", "is_correct": true},
+            {"choice_text": "ما زيد فيه ثلاثة أحرف", "is_correct": false},
+            {"choice_text": "ما كانت حروفه أصلية بالكامل", "is_correct": false}
+        ]
+    },
+    {
+    "question_text": "لماذا ضُم حرف المضارعة في 'يُكْرِمُ' وفُتح في 'يَضْرِبُ'؟",
+    "difficulty_score": 550,
+    "explanation": "القاعدة الصرفية تنص على فتح حرف المضارعة إذا كان الماضي ثلاثياً، وضمه إذا كان غير ثلاثي (رباعياً فأكثر) [26، 27].",
+    "choices": [
+        {"choice_text": "بسبب التعدية واللزوم", "is_correct": false},
+        {"choice_text": "لأن 'يُكْرِمُ' فعل رباعي في الماضي", "is_correct": true},
+        {"choice_text": "لأن 'يَضْرِبُ' من الباب الرابع", "is_correct": false},
+        {"choice_text": "لا توجد قاعدة ثابتة لذلك", "is_correct": false}
+    ]
+}
+]
+
+
+    }

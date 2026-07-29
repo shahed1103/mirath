@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 24,
+    "questions": [
+        {
+        "question_text": "كم عدد أبواب التصريف الإجمالية المذكورة في مقدمة المتن؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصنف في بداية المتن أن أبواب التصريف خمسة وثلاثون باباً [1].",
+        "choices": [
+            {"choice_text": "ثلاثون باباً", "is_correct": false},
+            {"choice_text": "خمسة وثلاثون باباً", "is_correct": true},
+            {"choice_text": "ستة أبواب", "is_correct": false},
+            {"choice_text": "أربعون باباً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو عدد أبواب الثلاثي المجرد؟",
+        "difficulty_score": 150,
+        "explanation": "أبواب الثلاثي المجرد هي الأبواب الستة الأولى من أصل خمسة وثلاثين باباً [2].",
+        "choices": [
+            {"choice_text": "خمسة أبواب", "is_correct": false},
+            {"choice_text": "ستة أبواب", "is_correct": true},
+            {"choice_text": "سبعة أبواب", "is_correct": false},
+            {"choice_text": "أربعة أبواب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى كون الفعل 'ثلاثياً' في علم الصرف؟",
+        "difficulty_score": 200,
+        "explanation": "الثلاثي هو ما كان ماضيه المفرد المذكر الغائب على ثلاثة أحرف [3].",
+        "choices": [
+            {"choice_text": "أن حروفه المضارعة ثلاثة", "is_correct": false},
+            {"choice_text": "أن حروفه الأصلية والزائدة ثلاثة", "is_correct": false},
+            {"choice_text": "أن حروفه في الماضي ثلاثة أحرف", "is_correct": true},
+            {"choice_text": "أن حروفه في المصدر ثلاثة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف الفعل 'المجرد'؟",
+        "difficulty_score": 250,
+        "explanation": "المجرد هو ما كانت حروفه كلها أصلية وخالية من الزيادة [3, 13].",
+        "choices": [
+            {"choice_text": "ما خلا من حروف العلة", "is_correct": false},
+            {"choice_text": "ما كان خالياً من الزيادة وحروفه كلها أصلية", "is_correct": true},
+            {"choice_text": "ما كان على وزن فاعل", "is_correct": false},
+            {"choice_text": "ما حذف منه حرف أصلي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعتبر مثالاً للثلاثي المجرد؟",
+        "difficulty_score": 300,
+        "explanation": "فعل 'ضرب' حروفه الضاد والراء والباء كلها أصلية وموجودة في المصدر [3, 14].",
+        "choices": [
+            {"choice_text": "ضارب", "is_correct": false},
+            {"choice_text": "مضروب", "is_correct": false},
+            {"choice_text": "ضرب", "is_correct": true},
+            {"choice_text": "يضربون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الذي يقابل 'فاء الكلمة' في فعل 'نصر'؟",
+        "difficulty_score": 350,
+        "explanation": "الفاء تقابل الحرف الأول من الكلمة، وفي 'نصر' الحرف الأول هو النون [5].",
+        "choices": [
+            {"choice_text": "النون", "is_correct": true},
+            {"choice_text": "الصاد", "is_correct": false},
+            {"choice_text": "الراء", "is_correct": false},
+            {"choice_text": "الألف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في الميزان الصرفي، ماذا يسمى الحرف الأوسط من الكلمة؟",
+        "difficulty_score": 400,
+        "explanation": "اصطلح الصرفيون على تسمية الحرف الثاني أو الأوسط 'عين الكلمة' [4, 5].",
+        "choices": [
+            {"choice_text": "فاء الكلمة", "is_correct": false},
+            {"choice_text": "لام الكلمة", "is_correct": false},
+            {"choice_text": "عين الكلمة", "is_correct": true},
+            {"choice_text": "ميم الكلمة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن الباب الأول من أبواب الثلاثي المجرد؟",
+        "difficulty_score": 450,
+        "explanation": "الباب الأول هو (فَعَلَ يَفْعُلُ) بفتح العين في الماضي وضمها في المضارع [6, 7].",
+        "choices": [
+            {"choice_text": "فَعَلَ يَفْعِلُ", "is_correct": false},
+            {"choice_text": "فَعَلَ يَفْعُلُ", "is_correct": true},
+            {"choice_text": "فَعِلَ يَفْعَلُ", "is_correct": false},
+            {"choice_text": "فَعُلَ يَفْعُلُ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كلمة 'ضارب' على وزن 'فاعل'، ما هو الحرف الزائد فيها؟",
+        "difficulty_score": 500,
+        "explanation": "الحرف الزائد يوضع كما هو في الميزان، والألف في 'ضارب' لم تقابل الفاء أو العين أو اللام فهي زائدة [17].",
+        "choices": [
+            {"choice_text": "الضاد", "is_correct": false},
+            {"choice_text": "الألف", "is_correct": true},
+            {"choice_text": "الراء", "is_correct": false},
+            {"choice_text": "الباء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى أن بناء الباب الأول 'للتعدية غالباً'؟",
+        "difficulty_score": 550,
+        "explanation": "أي أن معظم أفعال هذا الباب تتعدى الفاعل إلى المفعول به، لكن قد يأتي لازماً في حالات أقل [23, 24].",
+        "choices": [
+            {"choice_text": "أن جميع أفعاله متعدية دائماً", "is_correct": false},
+            {"choice_text": "أن أكثر أفعاله متعدية وقد يكون لازماً", "is_correct": true},
+            {"choice_text": "أن جميع أفعاله لازمة", "is_correct": false},
+            {"choice_text": "أن الفعل لا فاعل له", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الجمل التالية تحتوي على فعل متعدٍ من الباب الأول؟",
+        "difficulty_score": 600,
+        "explanation": "نصر فعل متعدٍ لأنه تجاوز الفاعل 'زيد' ونصب المفعول به 'عمراً' [8].",
+        "choices": [
+            {"choice_text": "خرج زيد", "is_correct": false},
+            {"choice_text": "نصر زيد عمراً", "is_correct": true},
+            {"choice_text": "قعد عمرو", "is_correct": false},
+            {"choice_text": "جلس بكر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'خرج' يعتبر فعلاً لازماً، لماذا؟",
+        "difficulty_score": 650,
+        "explanation": "لأنه لا يتجاوز الفاعل ولا ينصب مفعولاً به بنفسه، بل يكتفي بفاعله [15, 26].",
+        "choices": [
+            {"choice_text": "لأنه ينصب مفعولين", "is_correct": false},
+            {"choice_text": "لأنه يكتفي بالفاعل ولا يتعداه للمفعول به", "is_correct": true},
+            {"choice_text": "لأنه من أفعال الزيادة", "is_correct": false},
+            {"choice_text": "لأنه مكسور العين في الماضي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الوزن الموازي لفعل 'مدَّ' في الباب الأول؟",
+        "difficulty_score": 700,
+        "explanation": "أصل 'مدَّ' هو 'مَدَدَ' على وزن 'فَعَلَ'، وهو من باب نصر [12, 21].",
+        "choices": [
+            {"choice_text": "فَعُلَ", "is_correct": false},
+            {"choice_text": "فَعَلَ", "is_correct": true},
+            {"choice_text": "فَعِلَ", "is_correct": false},
+            {"choice_text": "أَفْعَلَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كيف نصحح جملة 'خرج زيد البيت'؟",
+        "difficulty_score": 750,
+        "explanation": "بما أن 'خرج' فعل لازم ضعيف، يحتاج لحرف جر ليصل للمكان (مفعول به مجازاً) [16, 26].",
+        "choices": [
+            {"choice_text": "خرج زيد البيتَ", "is_correct": false},
+            {"choice_text": "خرج زيد من البيتِ", "is_correct": true},
+            {"choice_text": "أخرج زيد البيت", "is_correct": false},
+            {"choice_text": "خرج زيداً البيت", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو ضابط التفريق بين المتعدي واللازم باستخدام الضمائر؟",
+        "difficulty_score": 800,
+        "explanation": "الفعل المتعدي يقبل دخول ضمير الهاء (هاء المفعول به) عليه، بينما اللازم لا يقبله [9, 19].",
+        "choices": [
+            {"choice_text": "قبول تاء التأنيث", "is_correct": false},
+            {"choice_text": "قبول هاء الغائب (المفعول به)", "is_correct": true},
+            {"choice_text": "قبول ياء المخاطبة", "is_correct": false},
+            {"choice_text": "قبول واو الجماعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن الباب الثاني من أبواب الثلاثي المجرد؟",
+        "difficulty_score": 850,
+        "explanation": "الباب الثاني هو (فَعَلَ يَفْعِلُ) بكسر العين في المضارع، مثل ضرب يضرب [25, 27].",
+        "choices": [
+            {"choice_text": "فَعَلَ يَفْعُلُ", "is_correct": false},
+            {"choice_text": "فَعَلَ يَفْعِلُ", "is_correct": true},
+            {"choice_text": "فَعِلَ يَفْعَلُ", "is_correct": false},
+            {"choice_text": "فَعُلَ يَفْعُلُ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يسمى الباب الثاني بـ 'باب ضرب'؟",
+        "difficulty_score": 900,
+        "explanation": "لأن فعل 'ضرب' هو المثال الأشهر الذي يمثل وزن (فَعَلَ يَفْعِلُ) في هذا الباب [25].",
+        "choices": [
+            {"choice_text": "لأنه الباب الوحيد المتعدي", "is_correct": false},
+            {"choice_text": "كرمز للوزن الصرفي فَعَلَ يَفْعِلُ", "is_correct": true},
+            {"choice_text": "لأنه يبدأ بحرف الضاد", "is_correct": false},
+            {"choice_text": "لأنه لا يضم أفعالاً لازمة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الذي لا ينظر إليه عند تحديد باب الفعل في المضارع؟",
+        "difficulty_score": 500,
+        "explanation": "لا ينظر لياء المضارعة ولا للام الكلمة (لأنها محل إعراب)، بل ينظر لعين الكلمة [7, 10].",
+        "choices": [
+            {"choice_text": "فاء الكلمة", "is_correct": false},
+            {"choice_text": "عين الكلمة", "is_correct": false},
+            {"choice_text": "لام الكلمة وحروف المضارعة", "is_correct": true},
+            {"choice_text": "جذر الكلمة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الذي يهتم علم النحو بضبط حركته، بخلاف علم الصرف؟",
+        "difficulty_score": 100,
+        "explanation": "علم النحو يختص بحركة الحرف الأخير من الكلمة (اللام) لأغراض الإعراب، بينما الصرف يهتم بالبنية الداخلية.",
+        "choices": [
+            {"choice_text": "فاء الكلمة", "is_correct": false},
+            {"choice_text": "عين الكلمة", "is_correct": false},
+            {"choice_text": "لام الكلمة (الحرف الأخير)", "is_correct": true},
+            {"choice_text": "حروف المضارعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا سمي الفعل اللازم 'قاصراً' في اصطلاح الصرفيين؟",
+        "difficulty_score": 150,
+        "explanation": "يسمى قاصراً لأنه يقصر عن الوصول للمفعول به ويكتفي بفاعله.",
+        "choices": [
+            {"choice_text": "لأن عدد حروفه قليل", "is_correct": false},
+            {"choice_text": "لأنه يقصر عن المفعول به ولا يتجاوز الفاعل", "is_correct": true},
+            {"choice_text": "لأنه لا يقبل حروف الجر", "is_correct": false},
+            {"choice_text": "لأنه محذوف العين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو أصل فعل 'مدَّ' قبل الإدغام؟",
+        "difficulty_score": 200,
+        "explanation": "أصل 'مدَّ' هو 'مَدَدَ' بدليل أنه من باب نصر (فَعَلَ يَفْعُلُ).",
+        "choices": [
+            {"choice_text": "مَدِدَ", "is_correct": false},
+            {"choice_text": "مُدِدَ", "is_correct": false},
+            {"choice_text": "مَدَدَ", "is_correct": true},
+            {"choice_text": "مَدْدَ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في كلمة 'مفعول'، ما هي الحروف التي تقابل الأصول (ف، ع، ل)؟",
+        "difficulty_score": 250,
+        "explanation": "في الميزان الصرفي، تقابل الفاء والعين واللام الحروف الأصلية للكلمة فقط.",
+        "choices": [
+            {"choice_text": "الميم والواو", "is_correct": false},
+            {"choice_text": "الحروف الأصلية للكلمة", "is_correct": true},
+            {"choice_text": "الحروف الزائدة فقط", "is_correct": false},
+            {"choice_text": "السين والتاء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية ينتمي للباب الثاني (فَعَلَ يَفْعِلُ)؟",
+        "difficulty_score": 300,
+        "explanation": "فعل 'جلس' مضارعه 'يجلس' بكسر العين، فهو من الباب الثاني.",
+        "choices": [
+            {"choice_text": "قعد", "is_correct": false},
+            {"choice_text": "نصر", "is_correct": false},
+            {"choice_text": "جلس", "is_correct": true},
+            {"choice_text": "دخل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي علامة 'بناء' الفعل في الباب الثاني؟",
+        "difficulty_score": 350,
+        "explanation": "بناء الباب الثاني (ضرب) هو للتعدية غالباً وقد يكون لازماً.",
+        "choices": [
+            {"choice_text": "اللزوم دائماً", "is_correct": false},
+            {"choice_text": "التعدية غالباً وقد يكون لازماً", "is_correct": true},
+            {"choice_text": "المشاركة بين اثنين", "is_correct": false},
+            {"choice_text": "المبالغة في الفعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى الحرف الأول الأصلي من الكلمة في الميزان الصرفي؟",
+        "difficulty_score": 100,
+        "explanation": "اصطلح الصرفيون على تسمية الحرف الأول 'فاء الكلمة'.",
+        "choices": [
+            {"choice_text": "عين الكلمة", "is_correct": false},
+            {"choice_text": "لام الكلمة", "is_correct": false},
+            {"choice_text": "فاء الكلمة", "is_correct": true},
+            {"choice_text": "جذر الكلمة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'خرج' من الباب الأول، فما هي حركة عينه في المضارع؟",
+        "difficulty_score": 400,
+        "explanation": "الباب الأول (نصر) يتميز بضم العين في المضارع (يخرج).",
+        "choices": [
+            {"choice_text": "الفتح", "is_correct": false},
+            {"choice_text": "الضم", "is_correct": true},
+            {"choice_text": "الكسر", "is_correct": false},
+            {"choice_text": "السكون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "عند وزن كلمة 'ضارب'، لماذا نضع الألف كما هي في الميزان 'فاعل'؟",
+        "difficulty_score": 450,
+        "explanation": "القاعدة الصرفية تنص على أن الحرف الزائد ينزل في الميزان بلفظه.",
+        "choices": [
+            {"choice_text": "لأنها حرف أصلي", "is_correct": false},
+            {"choice_text": "لأنها حرف زائد نضعه كما هو", "is_correct": true},
+            {"choice_text": "لأنها تقابل فاء الكلمة", "is_correct": false},
+            {"choice_text": "لأنها حرف علة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن فعل 'يضرب'؟",
+        "difficulty_score": 500,
+        "explanation": "يضرب من الباب الثاني (فَعَلَ يَفْعِلُ)، فوزنه 'يفعِل'.",
+        "choices": [
+            {"choice_text": "يفعُل", "is_correct": false},
+            {"choice_text": "يفعَل", "is_correct": false},
+            {"choice_text": "يفعِل", "is_correct": true},
+            {"choice_text": "يفتعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كيف استدل العلماء على أن 'مدَّ' أصله 'مَدَدَ' وليس 'مَدِدَ'؟",
+        "difficulty_score": 600,
+        "explanation": "من خلال تتبع كلام العرب وقولهم إنه من 'باب نصر' المفتوح العين في الماضي.",
+        "choices": [
+            {"choice_text": "بسبب ثقل الكسرة", "is_correct": false},
+            {"choice_text": "لأنه من باب نصر المفتوح العين ماضياً", "is_correct": true},
+            {"choice_text": "لأنه فعل لازم", "is_correct": false},
+            {"choice_text": "بسبب وجود حرف التضعيف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الكلمات التالية تعتبر 'مزيداً' وليست 'مجردة'؟",
+        "difficulty_score": 200,
+        "explanation": "'مضروب' مزيد بالميم والواو، بينما الأفعال الأخرى حروفها أصلية.",
+        "choices": [
+            {"choice_text": "نصر", "is_correct": false},
+            {"choice_text": "ضرب", "is_correct": false},
+            {"choice_text": "مضروب", "is_correct": true},
+            {"choice_text": "كتب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة الأساسية من دراسة الميزان الصرفي حسب الشرح؟",
+        "explanation": "الميزان الصرفي يساعد في معرفة الأصول من الزوائد وضبط النطق الصحيح.",
+        "difficulty_score": 550,
+        "choices": [
+            {"choice_text": "معرفة إعراب الكلمة", "is_correct": false},
+            {"choice_text": "تمييز الحروف الأصلية والزائدة وضبط البنية", "is_correct": true},
+            {"choice_text": "معرفة تاريخ اللغة", "is_correct": false},
+            {"choice_text": "تحسين الخط العربي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'فرَّ' من الباب الثاني، فما هو مضارعه الصحيح؟",
+        "difficulty_score": 700,
+        "explanation": "بما أنه من الباب الثاني (فَعَلَ يَفْعِلُ)، فمضارعه 'يفِرُّ' بكسر العين.",
+        "choices": [
+            {"choice_text": "يفُرُّ", "is_correct": false},
+            {"choice_text": "يفِرُّ", "is_correct": true},
+            {"choice_text": "يفَرُّ", "is_correct": false},
+            {"choice_text": "يفررُ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى أن الفعل 'وقع في نفسه' في تعريف الفعل اللازم؟",
+        "difficulty_score": 650,
+        "explanation": "أي أن أثر الفعل لم يتجاوز الفاعل إلى مفعول به خارجي.",
+        "choices": [
+            {"choice_text": "أن الفاعل ندم على الفعل", "is_correct": false},
+            {"choice_text": "أن أثر الفعل اقتصر على الفاعل ولم يتعده", "is_correct": true},
+            {"choice_text": "أن الفعل قلبي فقط", "is_correct": false},
+            {"choice_text": "أن الفعل مجهول الفاعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يحتاج الفعل اللازم إلى 'فزعة' حرف الجر؟",
+        "difficulty_score": 750,
+        "explanation": "لأنه 'قاصر' وضعيف لا يقوى على الوصول للمفعول به بنفسه.",
+        "choices": [
+            {"choice_text": "ليتحول إلى فعل متعدٍ دائماً", "is_correct": false},
+            {"choice_text": "ليوصل معناه للمفعول به (المجرور) لضعفه", "is_correct": true},
+            {"choice_text": "لأنه لا يرفع فاعلاً", "is_correct": false},
+            {"choice_text": "ليصبح فعلاً ثلاثياً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعد مثالاً للفعل اللازم في الباب الأول؟",
+        "difficulty_score": 400,
+        "explanation": "الفعل 'خرج' من أمثلة اللازم في الباب الأول (نصر).",
+        "choices": [
+            {"choice_text": "نصر", "is_correct": false},
+            {"choice_text": "كتب", "is_correct": false},
+            {"choice_text": "خرج", "is_correct": true},
+            {"choice_text": "غزا", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو ضابط 'المتعدي' الذي ذكره ابن مالك في الألفية واستشهد به الشارح؟",
+        "difficulty_score": 800,
+        "explanation": "الضابط هو قبول الفعل لدخول ضمير الهاء (هاء المفعول به) عليه.",
+        "choices": [
+            {"choice_text": "قبول أل التعريف", "is_correct": false},
+            {"choice_text": "اتصاله بضمير الرفع المتحرك", "is_correct": false},
+            {"choice_text": "اتصاله بهاء المفعول غير المصدرية", "is_correct": true},
+            {"choice_text": "أن يكون على وزن فاعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لا يصح قولنا 'قعده' في اللغة الفصيحة؟",
+        "difficulty_score": 850,
+        "explanation": "لأن 'قعد' فعل لازم لا يتعدى للمفعول به بنفسه ولا يقبل هاء الغائب.",
+        "choices": [
+            {"choice_text": "لأنه فعل ماضٍ", "is_correct": false},
+            {"choice_text": "لأن الفعل لازم لا يقبل ضمير المفعول به", "is_correct": true},
+            {"choice_text": "بسبب ثقل النطق بالدال", "is_correct": false},
+            {"choice_text": "لأنه من الباب الخامس", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حركة العين في ماضي البابين الأول والثاني؟",
+        "difficulty_score": 300,
+        "explanation": "كلاهما يشترك في فتح العين في الماضي (فَعَلَ).",
+        "choices": [
+            {"choice_text": "الفتح في الأول والكسر في الثاني", "is_correct": false},
+            {"choice_text": "الفتح في كليهما", "is_correct": true},
+            {"choice_text": "الضم في كليهما", "is_correct": false},
+            {"choice_text": "السكون في كليهما", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأفعال ينتمي لـ 'باب ضرب' (الباب الثاني)؟",
+        "difficulty_score": 450,
+        "explanation": "فعل 'عرف' مضارعه 'يعرف' بكسر العين، فهو من الباب الثاني.",
+        "choices": [
+            {"choice_text": "كتب", "is_correct": false},
+            {"choice_text": "عرف", "is_correct": true},
+            {"choice_text": "نصر", "is_correct": false},
+            {"choice_text": "قعد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'دعا' من الباب الأول، فما هو مضارعه؟",
+        "difficulty_score": 500,
+        "explanation": "بما أنه من الباب الأول (فَعَلَ يَفْعُلُ)، فمضارعه 'يدعو' بضم العين (الواو هنا هي العين المضمومة منقلبة).",
+        "choices": [
+            {"choice_text": "يدعي", "is_correct": false},
+            {"choice_text": "يدعو", "is_correct": true},
+            {"choice_text": "يدعى", "is_correct": false},
+            {"choice_text": "يدع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق بين 'رأيته' و'ذهبت' من حيث التحليل الجسدي للفعل؟",
+        "difficulty_score": 900,
+        "explanation": "ذكر بعض العلماء أن المتعدي يحصل ببعض الأعضاء (العين)، واللازم يحصل بجميع الجسد (الذهاب).",
+        "choices": [
+            {"choice_text": "لا فرق بينهما في التحليل", "is_correct": false},
+            {"choice_text": "المتعدي يحصل ببعض الأعضاء واللازم بكل الجسد", "is_correct": true},
+            {"choice_text": "المتعدي يحتاج طاقة أكبر", "is_correct": false},
+            {"choice_text": "اللازم يحصل باللسان فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حركة العين في 'يأثِم' إذا علمنا أنه من الباب الثاني؟",
+        "difficulty_score": 600,
+        "explanation": "الباب الثاني عينه مكسورة في المضارع (يفعِل).",
+        "choices": [
+            {"choice_text": "الضم", "is_correct": false},
+            {"choice_text": "الفتح", "is_correct": false},
+            {"choice_text": "الكسر", "is_correct": true},
+            {"choice_text": "السكون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'هضم' من باب نصر في الفصحى رغم استخدامه مكسوراً في العامية؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الأصل اللغوي الفصيح 'هضم يهضُم' بضم العين في المضارع.",
+        "choices": [
+            {"choice_text": "لأنه أسهل في النطق", "is_correct": false},
+            {"choice_text": "لأن المعاجم نصت على أنه من باب نصر", "is_correct": true},
+            {"choice_text": "لأنه فعل لازم", "is_correct": false},
+            {"choice_text": "بسبب كثرة حروفه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يمثل حرف 'اللام' في كلمة 'كتب' بالنسبة للميزان الصرفي؟",
+        "difficulty_score": 200,
+        "explanation": "اللام تقابل الحرف الأخير الأصلي وهو الباء.",
+        "choices": [
+            {"choice_text": "الكاف", "is_correct": false},
+            {"choice_text": "التاء", "is_correct": false},
+            {"choice_text": "الباء", "is_correct": true},
+            {"choice_text": "الألف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "إذا كان الفعل على وزن 'فَعَلَ يَفْعُلُ'، فمن أي باب هو؟",
+        "difficulty_score": 150,
+        "explanation": "هذا الوزن خاص بالباب الأول (باب نصر).",
+        "choices": [
+            {"choice_text": "الباب الثاني", "is_correct": false},
+            {"choice_text": "الباب الأول", "is_correct": true},
+            {"choice_text": "الباب الثالث", "is_correct": false},
+            {"choice_text": "الباب الرابع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الزائد في كلمة 'مكتوب'؟",
+        "difficulty_score": 400,
+        "explanation": "الميم والواو زائدتان، بينما الكاف والتاء والباء هي الأصول.",
+        "choices": [
+            {"choice_text": "الميم فقط", "is_correct": false},
+            {"choice_text": "الواو فقط", "is_correct": false},
+            {"choice_text": "الميم والواو", "is_correct": true},
+            {"choice_text": "الكاف والتاء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف التي تسمى 'حروف المضارعة'؟",
+        "difficulty_score": 250,
+        "explanation": "حروف المضارعة هي (أ، ن، ي، ت) المجموعة في كلمة 'أنيت'.",
+        "choices": [
+            {"choice_text": "واي", "is_correct": false},
+            {"choice_text": "أنيت", "is_correct": true},
+            {"choice_text": "سألتمونيها", "is_correct": false},
+            {"choice_text": "قطب جد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى أن الفعل 'مجرد ثلاثي'؟",
+        "difficulty_score": 100,
+        "explanation": "أي حروفه الأصلية ثلاثة ولا يوجد فيه حرف زائد.",
+        "choices": [
+            {"choice_text": "حروفه ثلاثة مع الزيادة", "is_correct": false},
+            {"choice_text": "كل حروفه أصلية وعددها ثلاثة", "is_correct": true},
+            {"choice_text": "ما حذف منه حرف", "is_correct": false},
+            {"choice_text": "ما كان على وزن أفعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في الفعل 'نصر'، ماذا نسمي حرف 'الصاد'؟",
+        "difficulty_score": 200,
+        "explanation": "الصاد هي الحرف الأوسط، وتقابل العين في الميزان 'فَعَلَ'.",
+        "choices": [
+            {"choice_text": "فاء الكلمة", "is_correct": false},
+            {"choice_text": "عين الكلمة", "is_correct": true},
+            {"choice_text": "لام الكلمة", "is_correct": false},
+            {"choice_text": "حرف زيادة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن 'استخرج' بناءً على أصلها 'خرج'؟",
+        "difficulty_score": 600,
+        "explanation": "الأصول (خ، ر، ج) تقابل (ف، ع، ل)، والحروف (ا، س، ت) تنزل كما هي فيصبح الوزن 'استفعل'.",
+        "choices": [
+            {"choice_text": "انفعل", "is_correct": false},
+            {"choice_text": "استفعل", "is_correct": true},
+            {"choice_text": "افتعل", "is_correct": false},
+            {"choice_text": "تفاعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لا نعتبر 'تاء التأنيث' في 'ضربت' جزءاً من وزن الفعل الثلاثي؟",
+        "difficulty_score": 750,
+        "explanation": "لأن الميزان الصرفي ينظر للمفرد المذكر الغائب لتحديد نوع الفعل (مجرد أو مزيد).",
+        "choices": [
+            {"choice_text": "لأنها حرف أصلي", "is_correct": false},
+            {"choice_text": "لأن الضابط هو الماضي المفرد المذكر الخالي من التاء", "is_correct": true},
+            {"choice_text": "لأنها حرف علة", "is_correct": false},
+            {"choice_text": "لأنها تحول الفعل لمضارع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو البناء الغالب في الباب الأول؟",
+        "difficulty_score": 300,
+        "explanation": "الغالب في الباب الأول هو التعدية.",
+        "choices": [
+            {"choice_text": "اللزوم", "is_correct": false},
+            {"choice_text": "التعدية", "is_correct": true},
+            {"choice_text": "المطاوعة", "is_correct": false},
+            {"choice_text": "الطلب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأفعال يعتبر فعلاً 'مضعفاً' من الباب الأول؟",
+        "difficulty_score": 550,
+        "explanation": "فعل 'مدَّ' أصله 'مَدَدَ' وهو مضعف ثلاثي من الباب الأول.",
+        "choices": [
+            {"choice_text": "نصر", "is_correct": false},
+            {"choice_text": "مدَّ", "is_correct": true},
+            {"choice_text": "كتب", "is_correct": false},
+            {"choice_text": "جلس", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حركة العين في مضارع الفعل 'شكر'؟",
+        "difficulty_score": 450,
+        "explanation": "شكر من باب نصر (الأول)، فمضارعه 'يشكُر' بضم العين.",
+        "choices": [
+            {"choice_text": "الفتح", "is_correct": false},
+            {"choice_text": "الضم", "is_correct": true},
+            {"choice_text": "الكسر", "is_correct": false},
+            {"choice_text": "السكون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المقصود بـ 'عالمة' الباب في المتن؟",
+        "difficulty_score": 350,
+        "explanation": "العلامة هي ميزة الباب في حركة العين في الماضي والمضارع.",
+        "choices": [
+            {"choice_text": "عدد حروفه", "is_correct": false},
+            {"choice_text": "حركة عينه ماضياً ومضارعاً", "is_correct": true},
+            {"choice_text": "معناه البلاغي", "is_correct": false},
+            {"choice_text": "إعرابه في الجملة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'غلق' من الباب الثاني، فما هو وزنه في المضارع؟",
+        "difficulty_score": 500,
+        "explanation": "الباب الثاني وزنه 'يفعِل' بكسر العين (يغلِق).",
+        "choices": [
+            {"choice_text": "يفعُل", "is_correct": false},
+            {"choice_text": "يفعِل", "is_correct": true},
+            {"choice_text": "يفعَل", "is_correct": false},
+            {"choice_text": "يفتعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف 'الفعل المتعدي' باختصار؟",
+        "difficulty_score": 100,
+        "explanation": "هو الذي يتجاوز أثره الفاعل ويصل للمفعول به.",
+        "choices": [
+            {"choice_text": "ما لزم الفاعل", "is_correct": false},
+            {"choice_text": "ما تجاوز الفاعل للمفعول به", "is_correct": true},
+            {"choice_text": "ما كان على وزن فَعَلَ", "is_correct": false},
+            {"choice_text": "ما حذف فاعله", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا نستخدم 'فاء، عين، لام' في الميزان الصرفي؟",
+        "difficulty_score": 650,
+        "explanation": "لأن كلمة 'فعل' هي أعم الأفعال وتصلح لتمثيل كل الحركات.",
+        "choices": [
+            {"choice_text": "لأنها أول الحروف", "is_correct": false},
+            {"choice_text": "لأنها أعم الأفعال واصطلح عليها العلماء", "is_correct": true},
+            {"choice_text": "لأنها أسهل في النطق", "is_correct": false},
+            {"choice_text": "لأنها حروف علة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "إذا وجدنا فعلاً ثلاثياً في المعجم مكتوباً بجانبه (ن)، فماذا يعني ذلك؟",
+        "difficulty_score": 800,
+        "explanation": "يرمز حرف (ن) عادة إلى أن الفعل من 'باب نصر' (الباب الأول).",
+        "choices": [
+            {"choice_text": "فعل ناقص", "is_correct": false},
+            {"choice_text": "من باب نصر", "is_correct": true},
+            {"choice_text": "فعل ناسخ", "is_correct": false},
+            {"choice_text": "مبني للنيابة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي الأبواب يسمى 'باب ضرب يضرب'؟",
+        "difficulty_score": 200,
+        "explanation": "هو الباب الثاني من أبواب الثلاثي المجرد.",
+        "choices": [
+            {"choice_text": "الأول", "is_correct": false},
+            {"choice_text": "الثاني", "is_correct": true},
+            {"choice_text": "الثالث", "is_correct": false},
+            {"choice_text": "الرابع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حركة العين في ماضي الباب الرابع (سيأتي لاحقاً ولكن ذكر تلميحاً)؟",
+        "difficulty_score": 850,
+        "explanation": "الباب الرابع 'فَعِلَ' تكون عينه مكسورة في الماضي.",
+        "choices": [
+            {"choice_text": "الفتح", "is_correct": false},
+            {"choice_text": "الكسر", "is_correct": true},
+            {"choice_text": "الضم", "is_correct": false},
+            {"choice_text": "السكون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفعل 'وعد' من الباب الثاني، فما هي عينه في المضارع؟",
+        "difficulty_score": 600,
+        "explanation": "الباب الثاني عينه مكسورة، ومضارع وعد هو 'يعِد' بكسر العين.",
+        "choices": [
+            {"choice_text": "الواو المضمومة", "is_correct": false},
+            {"choice_text": "العين المكسورة", "is_correct": true},
+            {"choice_text": "الدال المفتوحة", "is_correct": false},
+            {"choice_text": "الياء المضمومة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو ضابط الفعل 'المجرد' من حيث حروف الزيادة؟",
+        "difficulty_score": 300,
+        "explanation": "المجرد هو ما خلت حروفه من جميع حروف الزيادة.",
+        "choices": [
+            {"choice_text": "ما زاد عن ثلاثة أحرف", "is_correct": false},
+            {"choice_text": "ما كانت حروفه كلها أصلية", "is_correct": true},
+            {"choice_text": "ما حذف منه حرف علة", "is_correct": false},
+            {"choice_text": "ما بدأ بحرف زائد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأفعال يعد 'متعدياً' في الباب الثاني؟",
+        "difficulty_score": 400,
+        "explanation": "فعل 'ضرب' متعدٍ، بينما 'جلس' لازم.",
+        "choices": [
+            {"choice_text": "جلس", "is_correct": false},
+            {"choice_text": "ضرب", "is_correct": true},
+            {"choice_text": "قام", "is_correct": false},
+            {"choice_text": "قعد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا نعتبر 'غزا' من الباب الأول؟",
+        "difficulty_score": 700,
+        "explanation": "لأن مضارعه 'يغزو' بضم العين (الواو)، مما يناسب وزن 'يفعُل'.",
+        "choices": [
+            {"choice_text": "لأنه مفتوح العين في الماضي", "is_correct": false},
+            {"choice_text": "لأنه مضموم العين في المضارع (يغزو)", "is_correct": true},
+            {"choice_text": "لأنه فعل لازم", "is_correct": false},
+            {"choice_text": "لأنه فعل رباعي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المقصود بـ 'الموزون' في علم الصرف؟",
+        "difficulty_score": 150,
+        "explanation": "الموزون هو الكلمة التي نطبق عليها الميزان الصرفي (مثل نصر).",
+        "choices": [
+            {"choice_text": "القاعدة الصرفية", "is_correct": false},
+            {"choice_text": "الكلمة التي تتبع الوزن", "is_correct": true},
+            {"choice_text": "الفاعل في الجملة", "is_correct": false},
+            {"choice_text": "حرف الزيادة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة المجموعة في كلمة واحدة؟",
+        "difficulty_score": 500,
+        "explanation": "حروف الزيادة مجموعة في كلمة 'سألتمونيها'.",
+        "choices": [
+            {"choice_text": "أنيت", "is_correct": false},
+            {"choice_text": "سألتمونيها", "is_correct": true},
+            {"choice_text": "واي", "is_correct": false},
+            {"choice_text": "حروف العلة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لا يعد 'يضرب' فعلاً مزيداً بالياء؟",
+        "difficulty_score": 800,
+        "explanation": "لأن ياء المضارعة لا تعد من حروف الزيادة التي تنقل الفعل من المجرد للمزيد.",
+        "choices": [
+            {"choice_text": "لأنها حرف أصلي", "is_correct": false},
+            {"choice_text": "لأن حروف المضارعة لا تدخل في حساب الزيادة الصرفية للبنية", "is_correct": true},
+            {"choice_text": "لأن الياء حرف علة", "is_correct": false},
+            {"choice_text": "لأنه فعل ماضٍ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن 'مستغفر'؟",
+        "difficulty_score": 750,
+        "explanation": "مستغفر من 'غفر' (فعل)، نزيد الميم والسين والتاء فيصبح 'مستفعل'.",
+        "choices": [
+            {"choice_text": "منفعل", "is_correct": false},
+            {"choice_text": "مستفعل", "is_correct": true},
+            {"choice_text": "متفاعل", "is_correct": false},
+            {"choice_text": "مفتعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "إذا كان الفعل 'جلس' لازماً، فكيف نجعله يصل للمفعول به؟",
+        "difficulty_score": 350,
+        "explanation": "نستخدم حرف الجر (جلس على الكرسي).",
+        "choices": [
+            {"choice_text": "بزيادة ألف في آخره", "is_correct": false},
+            {"choice_text": "باستخدام حرف الجر", "is_correct": true},
+            {"choice_text": "بتغيير حركته للضم", "is_correct": false},
+            {"choice_text": "بحذف الفاعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يعتبر فعلاً رباعياً مجرداً (ذكر في المقدمة)؟",
+        "difficulty_score": 900,
+        "explanation": "ذكر المصنف أن هناك أبواباً للرباعي المجرد (مثل دحرج)، وسيفصلها لاحقاً.",
+        "choices": [
+            {"choice_text": "نصر", "is_correct": false},
+            {"choice_text": "دحرج", "is_correct": true},
+            {"choice_text": "استخرج", "is_correct": false},
+            {"choice_text": "قاتل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي أهمية حركة 'العين' في علم الصرف؟",
+        "difficulty_score": 550,
+        "explanation": "هي الحرف المتغير الذي يحدد باب الفعل ووزنه بدقة.",
+        "choices": [
+            {"choice_text": "لأنها آخر الكلمة", "is_correct": false},
+            {"choice_text": "لأنها محل التغيير الذي يميز الأبواب", "is_correct": true},
+            {"choice_text": "لأنها حرف علة دائماً", "is_correct": false},
+            {"choice_text": "لا أهمية لها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مضارع الفعل 'ملك'؟",
+        "difficulty_score": 400,
+        "explanation": "ملك من الباب الثاني، فمضارعه 'يملِك' بكسر العين.",
+        "choices": [
+            {"choice_text": "يملُك", "is_correct": false},
+            {"choice_text": "يملِك", "is_correct": true},
+            {"choice_text": "يملَك", "is_correct": false},
+            {"choice_text": "يتمالك", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي الجمل التالية صحيحة نحوياً وصرفياً للفعل اللازم؟",
+        "difficulty_score": 600,
+        "explanation": "الفعل اللازم 'نام' يحتاج حرف جر ليصل للمكان 'السرير'.",
+        "choices": [
+            {"choice_text": "نام زيد السريرَ", "is_correct": false},
+            {"choice_text": "نام زيد على السريرِ", "is_correct": true},
+            {"choice_text": "نام زيداً السرير", "is_correct": false},
+            {"choice_text": "أنام زيد السرير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم عدد أبواب الثلاثي المزيد (تلميحاً من المقدمة)؟",
+        "difficulty_score": 850,
+        "explanation": "بما أن الإجمالي 35 والمجرد 6، فالباقي (29) موزع على المزيد والرباعي وملحقاتهما.",
+        "choices": [
+            {"choice_text": "6 أبواب", "is_correct": false},
+            {"choice_text": "12 باباً للمزيد (حسب التفصيل اللاحق)", "is_correct": true},
+            {"choice_text": "35 باباً", "is_correct": false},
+            {"choice_text": "لا يوجد مزيد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وزن 'منصور'؟",
+        "difficulty_score": 400,
+        "explanation": "على وزن 'مفعول' بزيادة الميم والواو.",
+        "choices": [
+            {"choice_text": "فاعل", "is_correct": false},
+            {"choice_text": "مفعول", "is_correct": true},
+            {"choice_text": "مفعل", "is_correct": false},
+            {"choice_text": "فعول", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما معنى 'بناء الكلمة'؟",
+        "difficulty_score": 300,
+        "explanation": "يقصد به هيئة الكلمة وحركاتها وسكناتها وعدد حروفها.",
+        "choices": [
+            {"choice_text": "إعراب الكلمة", "is_correct": false},
+            {"choice_text": "هيئة الكلمة وتركيبها الصرفي", "is_correct": true},
+            {"choice_text": "معنى الكلمة في القاموس", "is_correct": false},
+            {"choice_text": "موقعها من الإعراب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يسمى الباب الأول 'باب نصر'؟",
+        "difficulty_score": 100,
+        "explanation": "لأنه الفعل الأشهر الذي يمثل وزن (فَعَلَ يَفْعُلُ).",
+        "choices": [
+            {"choice_text": "لأنه يبدأ بحرف النون", "is_correct": false},
+            {"choice_text": "لأنه المثال المعتمد لتمثيل الباب", "is_correct": true},
+            {"choice_text": "لأنه فعل ديني", "is_correct": false},
+            {"choice_text": "لأنه أقدم فعل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الحرف الذي يقابل 'عين الكلمة' في 'ضرب'؟",
+        "difficulty_score": 100,
+        "explanation": "الراء هي الحرف الثاني الأصلي.",
+        "choices": [
+            {"choice_text": "الضاد", "is_correct": false},
+            {"choice_text": "الراء", "is_correct": true},
+            {"choice_text": "الباء", "is_correct": false},
+            {"choice_text": "الألف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأوزان ليس من أبواب الثلاثي المجرد الستة؟",
+        "difficulty_score": 500,
+        "explanation": "'أفعل' وزن مزيد وليس مجرداً.",
+        "choices": [
+            {"choice_text": "فَعَلَ يَفْعُلُ", "is_correct": false},
+            {"choice_text": "أَفْعَلَ", "is_correct": true},
+            {"choice_text": "فَعَلَ يَفْعِلُ", "is_correct": false},
+            {"choice_text": "فَعِلَ يَفْعَلُ", "is_correct": false}
+        ]
+    }
+]
+    }

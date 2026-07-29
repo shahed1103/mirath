@@ -1,0 +1,886 @@
+    {
+    "chapter_id": 55,
+    "questions": [
+        {
+        "question_text": "ما هو المرض الذي تسبب في وفاة أسعد بن زرارة رضي الله عنه؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن أسعد بن زرارة توفي بمرض يسمى 'الذُّبحة' في السنة الأولى من الهجرة [1].",
+        "choices": [
+            { "choice_text": "الحمى", "is_correct": false },
+            { "choice_text": "الذُّبحة", "is_correct": true },
+            { "choice_text": "الطاعون", "is_correct": false },
+            { "choice_text": "الجذام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف استغل اليهود وفاة أسعد بن زرارة؟",
+        "difficulty_score": 400,
+        "explanation": "حاولوا التشكيك في نبوة النبي ﷺ قائلين: 'لو كان هذا النبي صادقاً ما مات صاحبه' [6].",
+        "choices": [
+            { "choice_text": "حزنوا لوفاته", "is_correct": false },
+            { "choice_text": "قالوا إنه لو كان نبياً ما مات صاحبه", "is_correct": true },
+            { "choice_text": "طالبوا بدية مقتله", "is_correct": false },
+            { "choice_text": "عرضوا الإسلام على قبيلته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى تم بناء النبي ﷺ بالسيدة عائشة في المدينة؟",
+        "difficulty_score": 200,
+        "explanation": "تم الزواج والدخول بها في السنة الأولى للهجرة بعد بناء المسجد والمؤاخاة [16].",
+        "choices": [
+            { "choice_text": "السنة الأولى للهجرة", "is_correct": true },
+            { "choice_text": "قبل الهجرة بسنتين", "is_correct": false },
+            { "choice_text": "بعد معركة بدر", "is_correct": false },
+            { "choice_text": "السنة الخامسة للهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر عقلية السيدة عائشة رضي الله عنها؟",
+        "difficulty_score": 300,
+        "explanation": "وصفها المصدر بأنها كانت 'امرأة نبيهة وذكية' [17].",
+        "choices": [
+            { "choice_text": "الزهد المطلق", "is_correct": false },
+            { "choice_text": "النباهة والذكاء", "is_correct": true },
+            { "choice_text": "القوة البدنية", "is_correct": false },
+            { "choice_text": "كثرة الصمت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان الصحابة يتحرّون عند تقديم الهدايا للنبي ﷺ؟",
+        "difficulty_score": 400,
+        "explanation": "كانوا يتحرون يوم عائشة رضي الله عنها لعلمهم بمكانتها عند النبي ﷺ وطيب نفسه في يومها [10].",
+        "choices": [
+            { "choice_text": "يوم الجمعة", "is_correct": false },
+            { "choice_text": "يوم الاثنين", "is_correct": false },
+            { "choice_text": "يوم عائشة رضي الله عنها", "is_correct": true },
+            { "choice_text": "أوقات الغنائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أخو عائشة الذي دخل بسواك في لحظات وفاة النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "هو عبد الرحمن بن أبي بكر رضي الله عنه [18].",
+        "choices": [
+            { "choice_text": "محمد بن أبي بكر", "is_correct": false },
+            { "choice_text": "عبد الرحمن بن أبي بكر", "is_correct": true },
+            { "choice_text": "عبد الله بن أبي بكر", "is_correct": false },
+            { "choice_text": "أبان بن أبي بكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الكلمة التي كررها النبي ﷺ قبل أن يقبض؟",
+        "difficulty_score": 300,
+        "explanation": "كرر قوله: 'اللهم الرفيق الأعلى' حتى توفي ﷺ [18].",
+        "choices": [
+            { "choice_text": "الصلاة الصلاة", "is_correct": false },
+            { "choice_text": "اللهم الرفيق الأعلى", "is_correct": true },
+            { "choice_text": "أستغفر الله", "is_correct": false },
+            { "choice_text": "لا إله إلا الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نزلت آية التيمم بسبب حادثة عِقد عائشة؟",
+        "difficulty_score": 400,
+        "explanation": "لأن الجيش حبس للبحث عن العقد في مكان لا ماء فيه، فأنزل الله الرخصة [8].",
+        "choices": [
+            { "choice_text": "صحيح", "is_correct": true },
+            { "choice_text": "خطأ، نزلت في الخندق", "is_correct": false },
+            { "choice_text": "خطأ، نزلت بسبب مرض أحد الصحابة", "is_correct": false },
+            { "choice_text": "خطأ، نزلت في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الذين أرسلهم النبي ﷺ في السرايا الأولى لاعتراض القوافل؟",
+        "difficulty_score": 500,
+        "explanation": "بدأ النبي ﷺ بالمهاجرين فقط، ولم يرسل الأنصار في البداية مراعاة للعهد [11].",
+        "choices": [
+            { "choice_text": "الأنصار فقط", "is_correct": false },
+            { "choice_text": "المهاجرين والأنصار معاً", "is_correct": false },
+            { "choice_text": "المهاجرين فقط", "is_correct": true },
+            { "choice_text": "أهل مكة المؤمنين المتبقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو قائد السرية التي وصل فيها حمزة إلى 'سيف البحر'؟",
+        "difficulty_score": 600,
+        "explanation": "قائدها حمزة بن عبد المطلب، ووصل فيها لجهة العيص بموازاة ينبع [19].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'مجدي بن عمرو الجهني'؟",
+        "difficulty_score": 800,
+        "explanation": "كان حليفاً للطرفين (قريش والمسلمين)، وحجز بين حمزة وأبي جهل ومنع القتال [3].",
+        "choices": [
+            { "choice_text": "مشرك قتله حمزة", "is_correct": false },
+            { "choice_text": "صحابي شهد بدراً", "is_correct": false },
+            { "choice_text": "حليف للطرفين حجز بينهما", "is_correct": true },
+            { "choice_text": "تاجر قريش الأكبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي التهمة التي رفعها أهل الكوفة ضد سعد بن أبي وقاص لعمر بن الخطاب؟",
+        "difficulty_score": 500,
+        "explanation": "زعموا باطلاً أنه 'لا يحسن يصلي' [20].",
+        "choices": [
+            { "choice_text": "أنه يسرق المال", "is_correct": false },
+            { "choice_text": "أنه لا يحسن يصلي", "is_correct": true },
+            { "choice_text": "أنه يظلم الضعفاء", "is_correct": false },
+            { "choice_text": "أنه يوالي المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وصف الرجل الذي كذب على سعد بن أبي وقاص في الكوفة؟",
+        "difficulty_score": 600,
+        "explanation": "قال عنه سعد: 'كان عبدك هذا كاذباً، قام رياءً وسمعة' [5].",
+        "choices": [
+            { "choice_text": "صادق مخلص", "is_correct": false },
+            { "choice_text": "كاذب قام رياءً وسمعة", "is_correct": true },
+            { "choice_text": "مجتهد أخطأ", "is_correct": false },
+            { "choice_text": "لم يذكر المصدر وصفه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان الشيخ المفتون (الذي كذب على سعد) يفعل بالجواري؟",
+        "difficulty_score": 700,
+        "explanation": "أصابته دعوة سعد فصار يغمزهن في الطرق ويقول أصابتني دعوة سعد [5].",
+        "choices": [
+            { "choice_text": "كان يعلمهن القرآن", "is_correct": false },
+            { "choice_text": "كان يغمزهن في الطرق", "is_correct": true },
+            { "choice_text": "كان يطلب منهن الصدقة", "is_correct": false },
+            { "choice_text": "كان يطردهن من المسجد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي خطورة الجرأة على كبار الصحابة مثل أبي بكر وعمر؟",
+        "difficulty_score": 900,
+        "explanation": "وصفها المصدر بأنها 'كارثة' و'قدر مخيف' يؤدي للانحراف والضلال [25، 26].",
+        "choices": [
+            { "choice_text": "مجرد خلاف تاريخي", "is_correct": false },
+            { "choice_text": "حرية رأي", "is_correct": false },
+            { "choice_text": "كارثة قدرية وانحراف عظيم", "is_correct": true },
+            { "choice_text": "أمر مستحب في البحث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا حدث في 'بطن نخلة' قديماً قبل سرية عبد الله بن جحش؟",
+        "difficulty_score": 600,
+        "explanation": "شهد المكان حادثة استماع الجن للقرآن الكريم [7].",
+        "choices": [
+            { "choice_text": "نزول الوحي الأول", "is_correct": false },
+            { "choice_text": "استماع الجن للقرآن", "is_correct": true },
+            { "choice_text": "تحويل القبلة", "is_correct": false },
+            { "choice_text": "وفاة والد النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى أُمر عبد الله بن جحش بفتح الكتاب الذي سلمه إياه النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "أمره النبي ﷺ ألا يفتحه إلا بعد يومين من المسير [21].",
+        "choices": [
+            { "choice_text": "فور خروجه من المدينة", "is_correct": false },
+            { "choice_text": "بعد يومين من الطريق", "is_correct": true },
+            { "choice_text": "عند رؤية القافلة", "is_correct": false },
+            { "choice_text": "بعد العودة للمدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يشارك سعد بن أبي وقاص في القتال الفعلي لسرية نخلة؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه وزميله ضلا بعيرهما وانشغلا بتتبعه ورجعا [22].",
+        "choices": [
+            { "choice_text": "لأنه مرض", "is_correct": false },
+            { "choice_text": "لأنه ضل بعيره", "is_correct": true },
+            { "choice_text": "لأنه اعترض على القتال", "is_correct": false },
+            { "choice_text": "بأمر من النبي ﷺ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي شهر وقع قتال سرية نخلة؟",
+        "difficulty_score": 400,
+        "explanation": "وقع في آخر يوم من شهر رجب، وهو شهر حرام [23].",
+        "choices": [
+            { "choice_text": "رمضان", "is_correct": false },
+            { "choice_text": "رجب", "is_correct": true },
+            { "choice_text": "محرم", "is_correct": false },
+            { "choice_text": "شوال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا رد القرآن على تعيير المشركين للمسلمين بسبب القتال في الشهر الحرام؟",
+        "difficulty_score": 600,
+        "explanation": "أكد القرآن أن الصد عن سبيل الله والكفر به أكبر عند الله من القتال في الشهر الحرام [24].",
+        "choices": [
+            { "choice_text": "أنكر وقوع القتال", "is_correct": false },
+            { "choice_text": "اعتذر للمشركين", "is_correct": false },
+            { "choice_text": "بين أن جرائم المشركين أكبر", "is_correct": true },
+            { "choice_text": "أمر بمعاقبة السرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'منهج التوازن' الذي ذكره المصدر في التعامل مع أخطاء المصلحين؟",
+        "difficulty_score": 800,
+        "explanation": "عدم السماح للعدو بالتركيز على خطأ الداعية للتغطية على جرائم العدو الأكبر [34، 35].",
+        "choices": [
+            { "choice_text": "إخفاء الخطأ تماماً", "is_correct": false },
+            { "choice_text": "الاعتراف بالخطأ مع تذكير العدو بجرائمه الكبرى", "is_correct": true },
+            { "choice_text": "ترك العمل الإصلاحي عند الخطأ", "is_correct": false },
+            { "choice_text": "توبيخ المصلح أمام العدو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا عيّر فرعون موسى عليه السلام؟",
+        "difficulty_score": 500,
+        "explanation": "ذكّره بقتله للقبطي {وفعلت فعلتك التي فعلت} [25].",
+        "choices": [
+            { "choice_text": "بفقره", "is_correct": false },
+            { "choice_text": "بقتله للقبطي", "is_correct": true },
+            { "choice_text": "بأنه سحر الناس", "is_correct": false },
+            { "choice_text": "بأنه هرب من المعركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أول غزوة خرج فيها النبي ﷺ بنفسه؟",
+        "difficulty_score": 300,
+        "explanation": "هي غزوة الأبواء، وتسمى أيضاً غزوة ودان [26].",
+        "choices": [
+            { "choice_text": "بدر الكبرى", "is_correct": false },
+            { "choice_text": "الأبواء (ودان)", "is_correct": true },
+            { "choice_text": "بواط", "is_correct": false },
+            { "choice_text": "أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الطريق الذي كان يسلكه النبي ﷺ غالباً في حجه وعمرته؟",
+        "difficulty_score": 700,
+        "explanation": "كان يتوجه إلى طريق ينبع، وليس الطريق السريع المعروف اليوم [27].",
+        "choices": [
+            { "choice_text": "الطريق السريع الحالي", "is_correct": false },
+            { "choice_text": "طريق ينبع", "is_correct": true },
+            { "choice_text": "طريق الطائف", "is_correct": false },
+            { "choice_text": "طريق خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المنطقة التي أخبر النبي ﷺ أن عيسى بن مريم سيهل منها حاجاً؟",
+        "difficulty_score": 600,
+        "explanation": "هي منطقة 'فج الروحاء' [28].",
+        "choices": [
+            { "choice_text": "ذي الحليفة", "is_correct": false },
+            { "choice_text": "فج الروحاء", "is_correct": true },
+            { "choice_text": "بدر", "is_correct": false },
+            { "choice_text": "الصفراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم غزوة خرج فيها النبي ﷺ في غضون شهرين فقط (صفر وربيع الأول)؟",
+        "difficulty_score": 400,
+        "explanation": "خرج في ثلاث غزوات: الأبواء، بواط، وبدر الأولى [4].",
+        "choices": [
+            { "choice_text": "غزوة واحدة", "is_correct": false },
+            { "choice_text": "ثلاث غزوات", "is_correct": true },
+            { "choice_text": "خمس غزوات", "is_correct": false },
+            { "choice_text": "لم يخرج في أي غزوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يحمل جيش قريش المتجه لبدر لاستعراض القوة؟",
+        "difficulty_score": 500,
+        "explanation": "كان معهم القيان (المغنيات) والطبول والخمور [29].",
+        "choices": [
+            { "choice_text": "كتباً ومؤلفات", "is_correct": false },
+            { "choice_text": "القيان والطبول والخمور", "is_correct": true },
+            { "choice_text": "فيلة حربية", "is_correct": false },
+            { "choice_text": "منجنيقات", "is_correct": false }
+        ]
+    },
+    {
+        "difficulty_score": 300,
+        "question_text": "بأي اسم سمى الله يوم معركة بدر في القرآن الكريم؟",
+        "explanation": "سماه الله تعالى 'يوم الفرقان' [30].",
+        "choices": [
+            { "choice_text": "يوم الفتح", "is_correct": false },
+            { "choice_text": "يوم الأحزاب", "is_correct": false },
+            { "choice_text": "يوم الفرقان", "is_correct": true },
+            { "choice_text": "يوم النصر الكوني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين استعرض النبي ﷺ الجيش قبل الانطلاق لمعركة بدر؟",
+        "difficulty_score": 600,
+        "explanation": "في منطقة قريبة من المسجد تسمى 'العنبرية' (محطة القطار حالياً) [31].",
+        "choices": [
+            { "choice_text": "في جبل أحد", "is_correct": false },
+            { "choice_text": "في العنبرية", "is_correct": true },
+            { "choice_text": "في قباء", "is_correct": false },
+            { "choice_text": "في البقيع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي استُصغر يوم بدر فبكى فأجازه النبي ﷺ؟",
+        "difficulty_score": 800,
+        "explanation": "هو عُمير بن أبي وقاص (أخو سعد)، وكان عمره 16 عاماً واستشهد فيها [31].",
+        "choices": [
+            { "choice_text": "أسامة بن زيد", "is_correct": false },
+            { "choice_text": "عُمير بن أبي وقاص", "is_correct": true },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "البراء بن عازب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المحطة التي استشار فيها النبي ﷺ أصحابه وعلم فيها بمجيء جيش مكة؟",
+        "difficulty_score": 700,
+        "explanation": "هي محطة 'ذفران' [49، 54].",
+        "choices": [
+            { "choice_text": "الروحاء", "is_correct": false },
+            { "choice_text": "ذفران", "is_correct": true },
+            { "choice_text": "بواط", "is_correct": false },
+            { "choice_text": "الصفراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو سيد قريش الذي أصر على المسير لبدر رغم نجاة القافلة؟",
+        "difficulty_score": 400,
+        "explanation": "هو أبو جهل، الذي أراد نحر الجزر وشرب الخمر لتسمع به العرب [29].",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "أبو جهل", "is_correct": true },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال علي رضي الله عنه عن حال النبي ﷺ ليلة بدر؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'ما كان فينا إلا نائم إلا رسول الله ﷺ تحت شجرة يصلي ويبكي حتى أصبح' [32].",
+        "choices": [
+            { "choice_text": "كان يضع خطة الحرب", "is_correct": false },
+            { "choice_text": "كان يصلي ويبكي تحت شجرة", "is_correct": true },
+            { "choice_text": "كان نائماً كبقية الجيش", "is_correct": false },
+            { "choice_text": "كان يوزع السلاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استغاث النبي ﷺ في دعائه يوم بدر؟",
+        "difficulty_score": 500,
+        "explanation": "دعا الله ألا تهلك هذه العصبة المؤمنة لكي يُعبد في الأرض [33].",
+        "choices": [
+            { "choice_text": "بطلب الذهب والفضة", "is_correct": false },
+            { "choice_text": "بطلب هلاك العصبة المؤمنة", "is_correct": false },
+            { "choice_text": "بألا تهلك العصبة لكي يُعبد في الأرض", "is_correct": true },
+            { "choice_text": "بطلب العودة للمدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من القائل: 'لا نقول كما قالت بنو إسرائيل لموسى.. ولكن اذهب أنت وربك فقاتلا إنا معكما مقاتلون'؟",
+        "difficulty_score": 500,
+        "explanation": "هو المقداد بن الأسود رضي الله عنه [55، 56].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "المقداد بن الأسود", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أشرق وجه النبي ﷺ سروراً في استشارة بدر؟",
+        "difficulty_score": 600,
+        "explanation": "أشرق وجهه بكلام المقداد بن الأسود وتأييده المطلق [9].",
+        "choices": [
+            { "choice_text": "بخبر نجاة القافلة", "is_correct": false },
+            { "choice_text": "بكلام المقداد بن الأسود", "is_correct": true },
+            { "choice_text": "برؤية جيش قريش", "is_correct": false },
+            { "choice_text": "بنزول المطر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو سيد الأنصار الذي أعلن اتباع النبي ﷺ ولو ضرب أكباد الإبل لبرك الغماد؟",
+        "difficulty_score": 400,
+        "explanation": "هو سعد بن معاذ رضي الله عنه [34].",
+        "choices": [
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "سعد بن معاذ", "is_correct": true },
+            { "choice_text": "أسيد بن حضير", "is_correct": false },
+            { "choice_text": "أنس بن مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو المشرك الذي استضاف سعد بن معاذ في مكة قبل معركة بدر؟",
+        "difficulty_score": 700,
+        "explanation": "هو أمية بن خلف، وكان بينهما صداقة قديمة [35].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": true },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا هدد سعد بن معاذ أبا جهل حين منعه من الطواف؟",
+        "difficulty_score": 800,
+        "explanation": "هدده بقطع طريق تجارته إلى الشام [15].",
+        "choices": [
+            { "choice_text": "بالمبارزة", "is_correct": false },
+            { "choice_text": "بقطع طريق تجارته إلى الشام", "is_correct": true },
+            { "choice_text": "بهدم الكعبة", "is_correct": false },
+            { "choice_text": "بقتله في الحرم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل أمية بن خلف عندما أخبره سعد بن معاذ أن النبي ﷺ يزعم أنه سيقتله؟",
+        "difficulty_score": 500,
+        "explanation": "فزع فزعاً شديداً وقال: 'والله ما يكذب محمد إذا حدّث' [13].",
+        "choices": [
+            { "choice_text": "ضحك واستهزأ", "is_correct": false },
+            { "choice_text": "فزع وقال إن محمداً لا يكذب", "is_correct": true },
+            { "choice_text": "لم يصدق سعداً", "is_correct": false },
+            { "choice_text": "هدد بقتل سعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الغزوة التي تسمى أيضاً 'غزوة سفوان'؟",
+        "difficulty_score": 400,
+        "explanation": "هي غزوة بدر الأولى [36].",
+        "choices": [
+            { "choice_text": "بدر الكبرى", "is_correct": false },
+            { "choice_text": "الأبواء", "is_correct": false },
+            { "choice_text": "بدر الأولى", "is_correct": true },
+            { "choice_text": "العشيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو المشرك الذي أغار على مواشي المدينة قبل بدر الأولى؟",
+        "difficulty_score": 700,
+        "explanation": "هو كرز بن جابر الفهري [36].",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "كرز بن جابر الفهري", "is_correct": true },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": false },
+            { "choice_text": "صفوان بن أمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'سَحْري ونَحْري' في حديث عائشة عن وفاة النبي؟",
+        "difficulty_score": 900,
+        "explanation": "تعني الرئة والصدر، أي توفي وهو مستند إلى صدرها [2].",
+        "choices": [
+            { "choice_text": "بين يدي وخلفي", "is_correct": false },
+            { "choice_text": "بين صدري ورقبتي", "is_correct": true },
+            { "choice_text": "في بيتي ومسجدي", "is_correct": false },
+            { "choice_text": "في الصباح والمساء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سنة للهجرة توفيت والدة النبي ﷺ كما ذُكر في سياق المواقع الجغرافية؟",
+        "difficulty_score": 300,
+        "explanation": "توفيت في الأبواء وهي في طريقها للمدينة قبل الهجرة بسنوات طويلة [26].",
+        "choices": [
+            { "choice_text": "السنة الأولى للهجرة", "is_correct": false },
+            { "choice_text": "في الجاهلية (قبل الإسلام)", "is_correct": true },
+            { "choice_text": "السنة الثانية للهجرة", "is_correct": false },
+            { "choice_text": "بعد فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين تقع منطقة 'الأبواء' بالنسبة للمدينة؟",
+        "difficulty_score": 600,
+        "explanation": "تقع من جهة الساحل (جهة رابغ) [26].",
+        "choices": [
+            { "choice_text": "شرق المدينة", "is_correct": false },
+            { "choice_text": "جهة الساحل (رابغ)", "is_correct": true },
+            { "choice_text": "على طريق الطائف", "is_correct": false },
+            { "choice_text": "شمالاً جهة خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الآخر لمنطقة 'المسيجيد'؟",
+        "difficulty_score": 800,
+        "explanation": "كانت تسمى قديماً 'المنصرف' [41، 42].",
+        "choices": [
+            { "choice_text": "المنصرف", "is_correct": true },
+            { "choice_text": "الروحاء", "is_correct": false },
+            { "choice_text": "بدر", "is_correct": false },
+            { "choice_text": "ودان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد جيش المسلمين الذين خرجوا لبدر؟",
+        "difficulty_score": 200,
+        "explanation": "كانوا ثلاثمائة وأربعة عشر رجلاً (أو بضعة عشر) [31].",
+        "choices": [
+            { "choice_text": "100 رجل", "is_correct": false },
+            { "choice_text": "314 رجلاً", "is_correct": true },
+            { "choice_text": "1000 رجل", "is_correct": false },
+            { "choice_text": "50 رجل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قدم السواك لعائشة لتهيئه للنبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "هو عبد الرحمن بن أبي بكر، وقد مضغته عائشة لترطبه للنبي ﷺ [37].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عبد الرحمن بن أبي بكر", "is_correct": true },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا وجد الصحابة تحت البعير بعد انتهاضه في قصة العِقد المفقود؟",
+        "difficulty_score": 400,
+        "explanation": "وجدوا العِقد تحته [38].",
+        "choices": [
+            { "choice_text": "ماءً", "is_correct": false },
+            { "choice_text": "العِقد المفقود", "is_correct": true },
+            { "choice_text": "رسالة سرية", "is_correct": false },
+            { "choice_text": "خنجراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي نغز عائشة في خاصرتها غضباً لحبسها الجيش؟",
+        "difficulty_score": 600,
+        "explanation": "هو والدها أبو بكر الصديق رضي الله عنه [8].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "النبي ﷺ", "is_correct": false },
+            { "choice_text": "أسامة بن زيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم التاريخي لغزوة الأبواء؟",
+        "difficulty_score": 500,
+        "explanation": "تسمى غزوة ودان [26].",
+        "choices": [
+            { "choice_text": "بواط", "is_correct": false },
+            { "choice_text": "ودان", "is_correct": true },
+            { "choice_text": "سفوان", "is_correct": false },
+            { "choice_text": "ذات الرقاع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي شهر كانت غزوة بواط؟",
+        "difficulty_score": 700,
+        "explanation": "كانت في شهر ربيع الأول من السنة الثانية [39].",
+        "choices": [
+            { "choice_text": "صفر", "is_correct": false },
+            { "choice_text": "ربيع الأول", "is_correct": true },
+            { "choice_text": "رمضان", "is_correct": false },
+            { "choice_text": "محرم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من قُتل في سرية نخلة من المشركين؟",
+        "difficulty_score": 500,
+        "explanation": "قُتل عمرو بن الحضرمي (وهو أول قتيل للمشركين) [31، 32].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "عمرو بن الحضرمي", "is_correct": true },
+            { "choice_text": "أمية بن خلف", "is_correct": false },
+            { "choice_text": "أبو سفيان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الأسرى في سرية نخلة؟",
+        "difficulty_score": 400,
+        "explanation": "أُسر اثنان وهرب الرابع [23].",
+        "choices": [
+            { "choice_text": "واحد", "is_correct": false },
+            { "choice_text": "اثنان", "is_correct": true },
+            { "choice_text": "عشرة", "is_correct": false },
+            { "choice_text": "لم يؤسر أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو رد فعل النبي ﷺ الأولي على غنائم سرية نخلة؟",
+        "difficulty_score": 600,
+        "explanation": "عظّم عليهم قتالهم في الشهر الحرام ولم يأخذ من الغنيمة شيئاً حتى نزل الوحي [40].",
+        "choices": [
+            { "choice_text": "فرح بها ووزعها", "is_correct": false },
+            { "choice_text": "عظّم عليهم فعلهم وانتظر الوحي", "is_correct": true },
+            { "choice_text": "أمر بإعادة الغنائم لمكة", "is_correct": false },
+            { "choice_text": "غضب وأمر بقتل السرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الفتنة' التي هي أكبر من القتل في آية البقرة؟",
+        "difficulty_score": 600,
+        "explanation": "هي الكفر والشرك والصد عن سبيل الله [41].",
+        "choices": [
+            { "choice_text": "النميمة", "is_correct": false },
+            { "choice_text": "الكفر والصد عن سبيل الله", "is_correct": true },
+            { "choice_text": "السرقة", "is_correct": false },
+            { "choice_text": "الكذب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا رد موسى عليه السلام على فرعون عندما ذكّره بنعمة التربية في بيته؟",
+        "difficulty_score": 800,
+        "explanation": "قال له إن هذه النعمة تمنّها عليّ لأنك استعبدت بني إسرائيل {أن عبّدت بني إسرائيل} [42].",
+        "choices": [
+            { "choice_text": "شكر فرعون", "is_correct": false },
+            { "choice_text": "قال له إنك استعبدت قومي", "is_correct": true },
+            { "choice_text": "أنكر أنه تربى عنده", "is_correct": false },
+            { "choice_text": "عرض عليه المال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي منطقة تقع يسار الذاهب من المدينة لمكة وهي منطقة القوافل؟",
+        "difficulty_score": 700,
+        "explanation": "منطقة المسيجيد (المنصرف) حيث يأخذ طريق القوافل يساراً [28].",
+        "choices": [
+            { "choice_text": "أحد", "is_correct": false },
+            { "choice_text": "المسيجيد", "is_correct": true },
+            { "choice_text": "خيبر", "is_correct": false },
+            { "choice_text": "بدر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما اسم الوادي الطويل الذي يصل إلى الأبواء؟",
+        "difficulty_score": 900,
+        "explanation": "وادي القاحة [43].",
+        "choices": [
+            { "choice_text": "وادي العقيق", "is_correct": false },
+            { "choice_text": "وادي القاحة", "is_correct": true },
+            { "choice_text": "وادي فاطمة", "is_correct": false },
+            { "choice_text": "وادي الرمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا خرج النبي ﷺ لغزوة بواط؟",
+        "difficulty_score": 500,
+        "explanation": "لاعتراض قافلة لقريش [39].",
+        "choices": [
+            { "choice_text": "لفتح مكة", "is_correct": false },
+            { "choice_text": "لاعتراض قافلة قريش", "is_correct": true },
+            { "choice_text": "لحرب اليهود", "is_correct": false },
+            { "choice_text": "للهرب من المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يحمل اللواء مع حمزة بن عبد المطلب في السرايا؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر المصدر أن حمزة كان له شأن عجيب وكان لواءه معه [19]. (توضيح: لم يذكر المصدر اسماً آخر للواء بل ركز على حمزة).",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "حمزة نفسه", "is_correct": true },
+            { "choice_text": "زيد بن حارثة", "is_correct": false },
+            { "choice_text": "مصعب بن عمير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الركب' الذي كان 'أسفل منكم' يوم بدر؟",
+        "difficulty_score": 600,
+        "explanation": "هي القافلة التي كان يقودها أبو سفيان جهة الساحل [44].",
+        "choices": [
+            { "choice_text": "جيش قريش", "is_correct": false },
+            { "choice_text": "قافلة أبو سفيان", "is_correct": true },
+            { "choice_text": "الأنصار", "is_correct": false },
+            { "choice_text": "أهل خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى أن قريش خرجت 'بطراً ورئاء الناس'؟",
+        "difficulty_score": 400,
+        "explanation": "خرجوا فخراً واستعراضاً للقوة أمام العرب [29].",
+        "choices": [
+            { "choice_text": "خرجوا خوفاً", "is_correct": false },
+            { "choice_text": "خرجوا فخراً واستعراضاً", "is_correct": true },
+            { "choice_text": "خرجوا للتجارة فقط", "is_correct": false },
+            { "choice_text": "خرجوا هرباً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي دعا عليه سعد بن أبي وقاص؟",
+        "difficulty_score": 600,
+        "explanation": "رجل من أهل الكوفة كذب عليه وزعم أنه لا يعدل [5].",
+        "choices": [
+            { "choice_text": "مشرك من مكة", "is_correct": false },
+            { "choice_text": "رجل كاذب من الكوفة", "is_correct": true },
+            { "choice_text": "عبد الله بن أبي", "is_correct": false },
+            { "choice_text": "أبو جهل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عمر سعد بن أبي وقاص تقريباً عندما أسلم؟",
+        "difficulty_score": 700,
+        "explanation": "كان عمره قرابة 16 أو 17 سنة [20].",
+        "choices": [
+            { "choice_text": "10 سنوات", "is_correct": false },
+            { "choice_text": "16 أو 17 سنة", "is_correct": true },
+            { "choice_text": "30 سنة", "is_correct": false },
+            { "choice_text": "40 سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي وُلّي على الكوفة بعد عزل سعد؟",
+        "difficulty_score": 900,
+        "explanation": "هو عمار بن ياسر رضي الله عنه [45].",
+        "choices": [
+            { "choice_text": "أبو موسى الأشعري", "is_correct": false },
+            { "choice_text": "عمار بن ياسر", "is_correct": true },
+            { "choice_text": "المغيرة بن شعبة", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا لُقّب يوم بدر في الحديث عن عظمة أحداثه؟",
+        "difficulty_score": 300,
+        "explanation": "لُقّب بـ 'يوم الفرقان' لأنه فرق بين الحق والباطل [30].",
+        "choices": [
+            { "choice_text": "يوم الفتح", "is_correct": false },
+            { "choice_text": "يوم الفرقان", "is_correct": true },
+            { "choice_text": "يوم الملحمة", "is_correct": false },
+            { "choice_text": "يوم الأحزاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي شهد استشارة بدر وقال للنبي 'أحب أن أكون صاحب هذا المشهد'؟",
+        "difficulty_score": 600,
+        "explanation": "هو ابن مسعود متحدثاً عن مشهد المقداد بن الأسود [46].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "ابن مسعود", "is_correct": true },
+            { "choice_text": "أبو بكر", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل النبي ﷺ ليلة معركة بدر؟",
+        "difficulty_score": 500,
+        "explanation": "كان يصلي ويبكي تحت شجرة حتى الصباح [32].",
+        "choices": [
+            { "choice_text": "كان يحفر خندقاً", "is_correct": false },
+            { "choice_text": "كان يصلي ويبكي تحت شجرة", "is_correct": true },
+            { "choice_text": "كان ينام ليرتاح", "is_correct": false },
+            { "choice_text": "كان يجمع الحطب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النبوءة التي أخاف بها سعد بن معاذ أمية بن خلف؟",
+        "difficulty_score": 500,
+        "explanation": "أخبره أن محمداً ﷺ يزعم أنه سيقتله [13].",
+        "choices": [
+            { "choice_text": "أنه سيفلس", "is_correct": false },
+            { "choice_text": "أن النبي سيقتله", "is_correct": true },
+            { "choice_text": "أن مكة ستفتح", "is_correct": false },
+            { "choice_text": "أن ولده سيسلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا خرج أمية بن خلف لبدر رغم فزعه من نبوءة مقتله؟",
+        "difficulty_score": 700,
+        "explanation": "لأن أبا جهل استحثه وقال له إنك من أشراف الوادي فسر يوماً أو يومين [13].",
+        "choices": [
+            { "choice_text": "لأنه لم يصدق النبوءة", "is_correct": false },
+            { "choice_text": "لأن أبا جهل أحرجه واستحثه", "is_correct": true },
+            { "choice_text": "لأنه أراد حماية ماله", "is_correct": false },
+            { "choice_text": "بسبب ضغط زوجته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين قُتل أمية بن خلف؟",
+        "difficulty_score": 200,
+        "explanation": "قُتل في معركة بدر [47].",
+        "choices": [
+            { "choice_text": "في مكة", "is_correct": false },
+            { "choice_text": "في بدر", "is_correct": true },
+            { "choice_text": "في المدينة", "is_correct": false },
+            { "choice_text": "في الطائف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو قائد سرية نخلة؟",
+        "difficulty_score": 300,
+        "explanation": "هو عبد الله بن جحش رضي الله عنه [7].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت تفاصيل خروج النبي ﷺ من بيته لبدر؟",
+        "difficulty_score": 400,
+        "explanation": "سورة الأنفال {كما أخرجك ربك من بيتك بالحق} [48].",
+        "choices": [
+            { "choice_text": "البقرة", "is_correct": false },
+            { "choice_text": "الأنفال", "is_correct": true },
+            { "choice_text": "آل عمران", "is_correct": false },
+            { "choice_text": "التوبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي رمى أول سهم في سبيل الله؟",
+        "difficulty_score": 200,
+        "explanation": "هو سعد بن أبي وقاص رضي الله عنه [3].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": true },
+            { "choice_text": "الزبير بن العوام", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سنة للهجرة كانت غزوة العشيرة؟",
+        "difficulty_score": 600,
+        "explanation": "كانت في السنة الثانية للهجرة قبل بدر الكبرى [4].",
+        "choices": [
+            { "choice_text": "السنة الأولى", "is_correct": false },
+            { "choice_text": "السنة الثانية", "is_correct": true },
+            { "choice_text": "السنة الثالثة", "is_correct": false },
+            { "choice_text": "السنة الخامسة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي حجز بين حمزة وأبي جهل في سرية سيف البحر؟",
+        "difficulty_score": 800,
+        "explanation": "مجدي بن عمرو الجهني [19].",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "مجدي بن عمرو الجهني", "is_correct": true },
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "عبد الله بن جحش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصفت عائشة بركتها وآل أبي بكر؟",
+        "difficulty_score": 500,
+        "explanation": "وصفها أسيد بن حضير قائلاً: 'ما هي بأول بركتكم يا آل أبي بكر' [8].",
+        "choices": [
+            { "choice_text": "بأنها قليلة", "is_correct": false },
+            { "choice_text": "بأنها ليست أول بركتهم", "is_correct": true },
+            { "choice_text": "بأنها بركة السفر", "is_correct": false },
+            { "choice_text": "بأنها بركة العلم فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي زوجة النبي ﷺ التي كانت تفتخر بأن ريقها جمع مع ريقه في آخر لحظاته؟",
+        "difficulty_score": 300,
+        "explanation": "عائشة رضي الله عنها من خلال تليينها للسواك بريقها [37].",
+        "choices": [
+            { "choice_text": "خديجة رضي الله عنها", "is_correct": false },
+            { "choice_text": "عائشة رضي الله عنها", "is_correct": true },
+            { "choice_text": "سودة رضي الله عنها", "is_correct": false },
+            { "choice_text": "حفصة رضي الله عنها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي اختص بها المهاجرون في السرايا الأولى؟",
+        "difficulty_score": 500,
+        "explanation": "هم الوحيدون الذين كُلّفوا بالمهمات العسكرية الأولى خارج المدينة [11].",
+        "choices": [
+            { "choice_text": "القوة البدنية", "is_correct": false },
+            { "choice_text": "القيادة العسكرية الأولى خارج المدينة", "is_correct": true },
+            { "choice_text": "كثرة المال", "is_correct": false },
+            { "choice_text": "معرفتهم بطرق المدينة", "is_correct": false }
+        ]
+    }
+]
+
+    }

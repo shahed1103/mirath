@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 28,
+    "questions": [
+        {
+        "question_text": "كم عدد أقسام الفعل التي تنحصر فيها الأبواب الخمسة والثلاثون كما ذكر المصنف في بداية المجلس؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصنف أن الفعل ينحصر في ثمانية أقسام رئيسية (ثلاثي/رباعي، مجرد/مزيد، سالم/غير سالم) [1، 6].",
+        "choices": [
+            { "choice_text": "خمسة أقسام", "is_correct": false },
+            { "choice_text": "سبعة أقسام", "is_correct": false },
+            { "choice_text": "ثمانية أقسام", "is_correct": true },
+            { "choice_text": "عشرة أقسام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على الشرح، لماذا يُصنف الفعل 'كرم' كـ 'ثلاثي مجرد سالم'؟",
+        "difficulty_score": 150,
+        "explanation": "هو ثلاثي لأن أصله ثلاثة أحرف، ومجرد لخلوه من الزيادة، وسالم لأن حروفه الأصلية سلمت من حروف العلة والهمزة والتضعيف [1].",
+        "choices": [
+            { "choice_text": "لأنه يبدأ بحرف صحيح", "is_correct": false },
+            { "choice_text": "لأن حروفه الأصلية سلمت من التغيير وحروف العلة والهمزة والتضعيف", "is_correct": true },
+            { "choice_text": "لأن عينه ولامه من جنس واحد", "is_correct": false },
+            { "choice_text": "لأنه على وزن 'فَعُلَ' بضم العين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب في اعتبار الفعل 'وعد' غير سالم عند الصرفيين؟",
+        "difficulty_score": 200,
+        "explanation": "الفعل 'وعد' يعتبر غير سالم لوجود حرف علة (الواو) في مقابلة فائه [2].",
+        "choices": [
+            { "choice_text": "لأنه فعل متعدٍ", "is_correct": false },
+            { "choice_text": "لوجود الهمزة في عينه", "is_correct": false },
+            { "choice_text": "لوجود حرف علة في فائه", "is_correct": true },
+            { "choice_text": "لأنه مضعف اللام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يُصنف فعل 'وسوس' في أقسام الفعل الثمانية؟",
+        "difficulty_score": 300,
+        "explanation": "هو رباعي مجرد (أربعة أحرف أصلية)، لكنه غير سالم بسبب التضعيف (تكرار الفاء واللام الأولى) [3، 4].",
+        "choices": [
+            { "choice_text": "رباعي مجرد سالم", "is_correct": false },
+            { "choice_text": "رباعي مزيد فيه غير سالم", "is_correct": false },
+            { "choice_text": "رباعي مجرد غير سالم", "is_correct": true },
+            { "choice_text": "ثلاثي مزيد بحرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر الفعل 'أكرم' سالماً رغم وجود الهمزة في بدايته؟",
+        "difficulty_score": 450,
+        "explanation": "لأن العبرة بالحروف التي تقابل الفاء والعين واللام الأصلية (ك، ر، م)، وهي حروف سلمت من العلة والهمزة، والهمزة الأولى زائدة وليست أصلية [4، 5].",
+        "choices": [
+            { "choice_text": "لأن الهمزة حرف صحيح دائماً", "is_correct": false },
+            { "choice_text": "لأن حروفه الأصلية المقابلة للميزان سلمت من موانع الصحة", "is_correct": true },
+            { "choice_text": "لأنه فعل ثلاثي مجرد", "is_correct": false },
+            { "choice_text": "لأنه لا يحتوي على تضعيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف المصنف (صاحب المتن) من التفريق بين 'الصحيح' و 'السالم'؟",
+        "difficulty_score": 250,
+        "explanation": "أشار الشارح إلى أن المصنف لا يفرق بينهما، فكل سالم عنده صحيح وكل صحيح سالم [3].",
+        "choices": [
+            { "choice_text": "يفرق بينهما تفريقاً دقيقاً", "is_correct": false },
+            { "choice_text": "الصحيح عنده أعم من السالم", "is_correct": false },
+            { "choice_text": "لا يفرق بينهما ويعتبرهما بنفس المعنى", "is_correct": true },
+            { "choice_text": "يعتبر السالم قسماً من المعتل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الخيارات التالية يمثل 'حروف العلة والموانع' التي تسلب الصحة عن الفعل عند المصنف؟",
+        "difficulty_score": 200,
+        "explanation": "حدد المصنف موانع الصحة في خمسة أمور: الواو، الياء، الألف، الهمزة، والتضعيف [4].",
+        "choices": [
+            { "choice_text": "الواو والياء والألف فقط", "is_correct": false },
+            { "choice_text": "الهمزة والتضعيف فقط", "is_correct": false },
+            { "choice_text": "الواو والياء والألف والهمزة والتضعيف", "is_correct": true },
+            { "choice_text": "حروف 'نأيت' فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'يسر' يُصنف صرفياً على أنه:",
+        "difficulty_score": 350,
+        "explanation": "يُسمى 'مثالاً' لأن حرف العلة (الياء) وقع في مقابلة الفاء [10، 11].",
+        "choices": [
+            { "choice_text": "أجوف", "is_correct": false },
+            { "choice_text": "ناقص", "is_correct": false },
+            { "choice_text": "مثال", "is_correct": true },
+            { "choice_text": "لفيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف نستدل على أن أصل الألف في فعل 'قال' هو الواو؟",
+        "difficulty_score": 400,
+        "explanation": "يُعرف أصل حرف العلة في الأجوف بالرجوع للمضارع، فمضارع 'قال' هو 'يقول' حيث ظهرت الواو [5].",
+        "choices": [
+            { "choice_text": "عن طريق المصدر فقط", "is_correct": false },
+            { "choice_text": "بالنظر إلى حركة الفاء", "is_correct": false },
+            { "choice_text": "بالرجوع إلى الفعل المضارع (يقول)", "is_correct": true },
+            { "choice_text": "بالنظر إلى وزن 'فعلتُ'", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف الفعل 'الناقص'؟",
+        "difficulty_score": 200,
+        "explanation": "الناقص هو ما كان في مقابلة لامه حرف من حروف العلة [6].",
+        "choices": [
+            { "choice_text": "ما كانت فاؤه حرف علة", "is_correct": false },
+            { "choice_text": "ما كانت عينه حرف علة", "is_correct": false },
+            { "choice_text": "ما كانت لامه حرف علة", "is_correct": true },
+            { "choice_text": "ما اجتمع فيه حرفا علة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'طوى' يُعتبر مثالاً على أي نوع من أنواع اللفيف؟",
+        "difficulty_score": 300,
+        "explanation": "هو لفيف مقرون لأن عينه ولامه حرفا علة مقترنان دون فاصل صحيح [14، 16].",
+        "choices": [
+            { "choice_text": "لفيف مفروق", "is_correct": false },
+            { "choice_text": "لفيف مقرون", "is_correct": true },
+            { "choice_text": "أجوف واوي", "is_correct": false },
+            { "choice_text": "ناقص يائي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُسمى الفعل 'وقى' لفيفاً مفروقاً؟",
+        "difficulty_score": 400,
+        "explanation": "لأن حرفي العلة (الواو والألف) وقعا في الفاء واللام، وفصل بينهما حرف صحيح وهو القاف (العين) [7].",
+        "choices": [
+            { "choice_text": "لأنه يبدأ بحرف علة وينتهي بحرف صحيح", "is_correct": false },
+            { "choice_text": "لأن الفاء واللام حرفا علة وبينهما فاصل صحيح", "is_correct": true },
+            { "choice_text": "لأنه يحذف منه حرف عند الأمر", "is_correct": false },
+            { "choice_text": "لأن عينه ولامه من جنس واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف 'المضاعف' في الفعل الثلاثي؟",
+        "difficulty_score": 300,
+        "explanation": "المضاعف الثلاثي هو ما كانت عينه ولامه من جنس واحد، مثل 'مدَّ' (أصلها مدد) [8].",
+        "choices": [
+            { "choice_text": "ما تكررت فاؤه وعينه", "is_correct": false },
+            { "choice_text": "ما كانت عينه ولامه من جنس واحد", "is_correct": true },
+            { "choice_text": "ما كان فيه حرفا علة", "is_correct": false },
+            { "choice_text": "ما كان رباعياً مكرراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بتحليل عملية تحويل 'مدد' إلى 'مدَّ'، ما هي الخطوة الصرفية الأولى؟",
+        "difficulty_score": 550,
+        "explanation": "الخطوة الأولى هي سلب (حذف) حركة الدال الأولى لتسكن، تمهيداً لإدغامها في الثانية [18، 19].",
+        "choices": [
+            { "choice_text": "قلب الدال ألفاً", "is_correct": false },
+            { "choice_text": "حذف الدال الثانية", "is_correct": false },
+            { "choice_text": "حذف حركة الدال الأولى لتسكن", "is_correct": true },
+            { "choice_text": "نقل حركة الدال الثانية لما قبلها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى اللغوي لكلمة 'الإدغام'؟",
+        "difficulty_score": 100,
+        "explanation": "الإدغام لغة هو الإدخال، كقولهم 'أدغمت اللجام في الفرس' [9].",
+        "choices": [
+            { "choice_text": "الحذف", "is_correct": false },
+            { "choice_text": "الإدخال", "is_correct": true },
+            { "choice_text": "التسكين", "is_correct": false },
+            { "choice_text": "الزيادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يركز الصرفيون على 'إدغام المتجانسين' دون 'المتقاربين'؟",
+        "difficulty_score": 450,
+        "explanation": "لأن إدغام المتقاربين من تخصص علماء التجويد، بينما يبحث الصرف في بنية الكلمة والحروف المتماثلة أصلاً [9].",
+        "choices": [
+            { "choice_text": "لأن إدغام المتقاربين لا يحدث في الأفعال", "is_correct": false },
+            { "choice_text": "لأن إدغام المتقاربين من مباحث علم التجويد", "is_correct": true },
+            { "choice_text": "لصعوبة إدغام المتجانسين صرفياً", "is_correct": false },
+            { "choice_text": "لأن المتجانسين هما الأقل دوراناً في الكلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يكون الإدغام 'واجباً' حسب القاعدة الأولى المذكورة؟",
+        "difficulty_score": 600,
+        "explanation": "يكون واجباً إذا كان الحرفان المتجانسان متحركين، فيجب تسكين الأول وإدغامه [23، 24].",
+        "choices": [
+            { "choice_text": "إذا كان الأول ساكناً والثاني ساكناً", "is_correct": false },
+            { "choice_text": "إذا كان الحرفان المتجانسان متحركين", "is_correct": true },
+            { "choice_text": "إذا اتصل الفعل بضمير رفع متحرك", "is_correct": false },
+            { "choice_text": "إذا سبقت الفعل 'لم' الجازمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أصل الفعل 'يمدُّ' قبل عملية الإعلال بالنقل والإدغام؟",
+        "difficulty_score": 500,
+        "explanation": "أصله 'يمدُدُ' على وزن 'ينصر'، ثم نقلت حركة الدال للميم وأُدغم [10].",
+        "choices": [
+            { "choice_text": "يَمِدُّ", "is_correct": false },
+            { "choice_text": "يَمْدُدُ", "is_correct": true },
+            { "choice_text": "يَمُدُدْ", "is_correct": false },
+            { "choice_text": "يَمَدُّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في الفعل 'يمدُّ'، ما هو الإجراء الصرفي الذي تم للتخلص من حركة الدال الأولى؟",
+        "difficulty_score": 750,
+        "explanation": "تم 'الإعلال بالنقل'، وهو نقل ضمة الدال الأولى إلى الميم الساكنة قبلها لتسكن الدال [11].",
+        "choices": [
+            { "choice_text": "حذف الحركة تماماً دون تعويض", "is_correct": false },
+            { "choice_text": "نقل الحركة إلى حرف الدال الثاني", "is_correct": false },
+            { "choice_text": "نقل حركة الدال إلى الميم الساكنة قبلها", "is_correct": true },
+            { "choice_text": "قلب الميم دالاً لتجانسها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يمثل المصنف للصورة الثانية من الإدغام الواجب (أن يكون الأول ساكناً أصالة)؟",
+        "difficulty_score": 850,
+        "explanation": "لأن هذا النوع يتجلى بوضوح في 'المصدر' مثل 'مدّاً'، حيث الدال الأولى ساكنة أصالة في الوزن (فَعْلاً) [28، 29].",
+        "choices": [
+            { "choice_text": "لعدم وجوده في اللغة", "is_correct": false },
+            { "choice_text": "لأن هذا الإدغام ممتنع دائماً", "is_correct": false },
+            { "choice_text": "لأنه يظهر في المصادر (مثل مَدّاً) أكثر من الأفعال", "is_correct": true },
+            { "choice_text": "لأنه يتبع قاعدة المتقاربين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصورة الثانية للإدغام الواجب التي ذكرها الشارح ولم يمثل لها المصنف في الأفعال؟",
+        "difficulty_score": 650,
+        "explanation": "الصورة الثانية هي أن يكون الحرف الأول ساكناً 'أصالة' والثاني متحركاً، ومثاله في المصادر مثل 'مَدّاً' [28، 29].",
+        "choices": [
+            { "choice_text": "أن يكون الأول متحركاً والثاني ساكناً", "is_correct": false },
+            { "choice_text": "أن يكون الحرفان ساكنين معاً", "is_correct": false },
+            { "choice_text": "أن يكون الأول ساكناً أصالة والثاني متحركاً", "is_correct": true },
+            { "choice_text": "أن يكون الأول حرف علة والثاني حرفاً صحيحاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يكون الإدغام 'جائزاً' (يجوز الفك والإدغام) حسب المتن؟",
+        "difficulty_score": 500,
+        "explanation": "يكون الإدغام جائزاً إذا كان الحرف الأول من المتجانسين متحركاً والحرف الثاني ساكناً بسكون 'عارض' (بسبب الجزم) [30، 31].",
+        "choices": [
+            { "choice_text": "إذا كان السكون في الحرف الثاني أصلياً", "is_correct": false },
+            { "choice_text": "إذا كان الحرف الأول ساكناً والثاني متحركاً", "is_correct": false },
+            { "choice_text": "إذا كان الحرف الثاني ساكناً بسكون عارض", "is_correct": true },
+            { "choice_text": "إذا كان الفعل ماضياً متصلاً بتاء الفاعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في جملة 'لم يمدَّ'، لماذا نعتبر السكون على الدال سكوناً عارضاً؟",
+        "difficulty_score": 400,
+        "explanation": "لأنه سكون نتج عن دخول حرف الجزم 'لم'، وليس من أصل بنية الفعل في كل أحواله [30، 31].",
+        "choices": [
+            { "choice_text": "لأنه سكون أصلي في الفعل المضارع", "is_correct": false },
+            { "choice_text": "لأنه يظهر فقط عند الوقف", "is_correct": false },
+            { "choice_text": "لأنه جُلب بسبب دخول عامل الجزم (لم)", "is_correct": true },
+            { "choice_text": "لأنه سكون التقاء الساكنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عند إدغام 'لم يمدد' لتصبح 'لم يمدَّ'، ما هي الحركات التي يجوز تحريك الدال الثانية بها؟",
+        "difficulty_score": 700,
+        "explanation": "يجوز تحريكها بالفتحة (للخفة) أو الكسرة (لأصل التقاء الساكنين) أو الضمة (إتباعاً لضمة الميم) [33، 34].",
+        "choices": [
+            { "choice_text": "الفتحة فقط", "is_correct": false },
+            { "choice_text": "الفتحة والكسرة والضمة", "is_correct": true },
+            { "choice_text": "الفتحة والكسرة فقط", "is_correct": false },
+            { "choice_text": "الضمة فقط لمناسبة الميم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تُعتبر الفتحة هي 'أقوى' وأشهر الخيارات لتحريك الدال في 'لم يمدَّ'؟",
+        "difficulty_score": 450,
+        "explanation": "لأن الفتحة هي أخف الحركات في اللغة العربية [1].",
+        "choices": [
+            { "choice_text": "لأنها علامة النصب الأصلية", "is_correct": false },
+            { "choice_text": "لأنها أخف الحركات", "is_correct": true },
+            { "choice_text": "لأنها تشبه سكون الجزم", "is_correct": false },
+            { "choice_text": "لأن ما قبلها مفتوح دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي علة جواز 'الضم' في قولنا 'لم يمدُّ' عند من أجازها؟",
+        "difficulty_score": 800,
+        "explanation": "العلة هي 'الإتباع'؛ أي إتباع حركة الدال لحركة الميم المضمومة التي قبلها [1].",
+        "choices": [
+            { "choice_text": "لأن الفعل مرفوع في الأصل", "is_correct": false },
+            { "choice_text": "إتباعاً لحركة الميم التي قبلها", "is_correct": true },
+            { "choice_text": "لأن الواو محذوفة للجازم", "is_correct": false },
+            { "choice_text": "للتخلص من التقاء الساكنين بالضم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يكون الإدغام 'ممتنعاً' (يجب الفك)؟",
+        "difficulty_score": 600,
+        "explanation": "يكون ممتنعاً إذا كان الحرف الأول متحركاً والثاني ساكناً بسكون 'أصلي' (لازم) [34، 35].",
+        "choices": [
+            { "choice_text": "إذا كان الحرفان متحركين", "is_correct": false },
+            { "choice_text": "إذا سكن الحرف الثاني سكوناً عارضاً", "is_correct": false },
+            { "choice_text": "إذا سكن الحرف الثاني سكوناً أصلياً (لازماً)", "is_correct": true },
+            { "choice_text": "إذا كان الفعل رباعياً مضاعفاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يمثل حالة 'إدغام ممتنع'؟",
+        "difficulty_score": 500,
+        "explanation": "فعل 'مددتُ' اتصل به ضمير رفع متحرك، مما أوجب سكون الدال الثانية سكوناً أصلياً، فامتنع الإدغام [35، 36].",
+        "choices": [
+            { "choice_text": "يمدُّ", "is_correct": false },
+            { "choice_text": "مدَّ", "is_correct": false },
+            { "choice_text": "مددتُ", "is_correct": true },
+            { "choice_text": "لم يمدَّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الضابط لاتصال الفعل بضمائر الرفع التي توجب فك الإدغام؟",
+        "difficulty_score": 550,
+        "explanation": "الضابط هو كل فعل اتصل به ضمير رفع متحرك (مثل تاء الفاعل، نا الفاعلين، نون النسوة) [35، 36].",
+        "choices": [
+            { "choice_text": "ضمائر النصب المتصلة", "is_correct": false },
+            { "choice_text": "ضمير الرفع الساكن (ألف الاثنين)", "is_correct": false },
+            { "choice_text": "ضمير الرفع المتحرك", "is_correct": true },
+            { "choice_text": "إذا كان الفاعل اسماً ظاهراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يجوز الإدغام في 'مددتُ' (مثل 'متُّ') حسب الشرح؟",
+        "difficulty_score": 750,
+        "explanation": "لأن النطق بها مدغمة مع ضمير الرفع المتحرك غير مستساغ سماعاً ويخالف القواعد الصرفية للسكون الأصلي [2].",
+        "choices": [
+            { "choice_text": "لأن التاء حرف همس", "is_correct": false },
+            { "choice_text": "لأنه لا يُدغم متحرك في ساكن أصلي", "is_correct": true },
+            { "choice_text": "لأن الفعل يصبح ثنائياً", "is_correct": false },
+            { "choice_text": "لأن الدال الأولى يجب أن تكون مكسورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف 'المهموز' في الأقسام السبعة؟",
+        "difficulty_score": 250,
+        "explanation": "هو الفعل الذي يكون أحد حروفه الأصلية (الفاء أو العين أو اللام) همزة [3].",
+        "choices": [
+            { "choice_text": "ما بدأ بألف وصل", "is_correct": false },
+            { "choice_text": "ما كان أحد حروفه الأصلية همزة", "is_correct": true },
+            { "choice_text": "ما انتهى بهمزة زائدة", "is_correct": false },
+            { "choice_text": "ما اشتمل على همزة وتضعيف معاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'سأل' يُصنف على أنه:",
+        "difficulty_score": 300,
+        "explanation": "هو 'مهموز العين' لأن الهمزة وقعت في مقابلة عين الفعل [3].",
+        "choices": [
+            { "choice_text": "مهموز الفاء", "is_correct": false },
+            { "choice_text": "مهموز العين", "is_correct": true },
+            { "choice_text": "مهموز اللام", "is_correct": false },
+            { "choice_text": "سالم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'قرأ' يمثل أي نوع من المهموز؟",
+        "difficulty_score": 300,
+        "explanation": "هو 'مهموز اللام' لأن الهمزة هي الحرف الأصلي الثالث (اللام) [3].",
+        "choices": [
+            { "choice_text": "مهموز الفاء", "is_correct": false },
+            { "choice_text": "مهموز العين", "is_correct": false },
+            { "choice_text": "مهموز اللام", "is_correct": true },
+            { "choice_text": "مثال مهموز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما سبب ذكر المصنف لبيت شعري 'فارسي' في نهاية المتن؟",
+        "difficulty_score": 850,
+        "explanation": "يُحتمل أن المصنف كان فارسياً أو كان يدرس طلاباً فرساً فأراد تسهيل حفظ الأقسام السبعة عليهم [4].",
+        "choices": [
+            { "choice_text": "لأن قواعد الصرف فارسية الأصل", "is_correct": false },
+            { "choice_text": "ليثبت أن اللغة الفارسية أصل للعربية", "is_correct": false },
+            { "choice_text": "لتسهيل الحفظ على الطلاب الفرس أو لكونه فارسياً", "is_correct": true },
+            { "choice_text": "لأن البيت يحتوي على مصطلحات تجويدية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في البيت الشعري الغزلي 'فؤادي معتل وجسمي ناقص'، ماذا يقصد بـ 'ناقص' صرفياً؟",
+        "difficulty_score": 400,
+        "explanation": "يقصد الفعل الناقص، وهو ما كانت لامه حرف علة [5].",
+        "choices": [
+            { "choice_text": "الفعل الذي حُذفت عينه", "is_correct": false },
+            { "choice_text": "الفعل الذي لامه حرف علة", "is_correct": true },
+            { "choice_text": "الفعل الذي فاؤه همزة", "is_correct": false },
+            { "choice_text": "الفعل الرباعي المضعف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للبيت الشعري 'وعيناك لفيفان'، ما هما نوعا اللفيف المقصودان؟",
+        "difficulty_score": 450,
+        "explanation": "المقصود اللفيف المقرون واللفيف المفروق [5].",
+        "choices": [
+            { "choice_text": "اللفيف السالم واللفيف المعتل", "is_correct": false },
+            { "choice_text": "اللفيف المقرون واللفيف المفروق", "is_correct": true },
+            { "choice_text": "اللفيف الواوي واللفيف اليائي", "is_correct": false },
+            { "choice_text": "اللفيف الثلاثي واللفيف الرباعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم وصف الشوق بأنه 'مضاعف' في البيت الشعري (واشتياقي مضاعف)؟",
+        "difficulty_score": 500,
+        "explanation": "ربطاً بين كثرة الشوق وتكراره وبين الفعل المضاعف الذي يتكرر فيه الحرف [5].",
+        "choices": [
+            { "choice_text": "لأن الشوق حرف علة", "is_correct": false },
+            { "choice_text": "لأنه يشبه الفعل المهموز", "is_correct": false },
+            { "choice_text": "ربطاً بتكرار الحرف في الفعل المضاعف", "is_correct": true },
+            { "choice_text": "لأن الشوق فعل ثلاثي مزيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بتحليل فعل 'تدحرج'، لماذا صُنّف كـ 'رباعي مزيد فيه سالم'؟",
+        "difficulty_score": 600,
+        "explanation": "هو رباعي مزيد بحرف (التاء)، وسالم لأن حروفه الأصلية (د، ح، ر، ج) سلمت من العلة والهمزة والتضعيف [6].",
+        "choices": [
+            { "choice_text": "لأن التاء حرف علة", "is_correct": false },
+            { "choice_text": "لأن حروفه الأصلية سلمت من الموانع والتاء زائدة", "is_correct": true },
+            { "choice_text": "لأنه على وزن 'تفعَلَلَ'", "is_correct": false },
+            { "choice_text": "لأنه فعل جامد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق التحليلي بين 'وسوس' و 'توسوس' في الأقسام الثمانية؟",
+        "difficulty_score": 700,
+        "explanation": "'وسوس' رباعي مجرد غير سالم، بينما 'توسوس' رباعي مزيد فيه غير سالم [3، 6].",
+        "choices": [
+            { "choice_text": "كلاهما رباعي مجرد سالم", "is_correct": false },
+            { "choice_text": "الأول مجرد والثاني مزيد وكلاهما غير سالم", "is_correct": true },
+            { "choice_text": "الأول ثلاثي والثاني رباعي", "is_correct": false },
+            { "choice_text": "لا فرق بينهما في التصنيف الصرفي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي أعلن الشارح عن نيته شرحه في الأيام القادمة في ختام المجلس؟",
+        "difficulty_score": 200,
+        "explanation": "أعلن الشارح في الختام عن نية شرح كتاب 'لامية الأفعال' لابن مالك [7].",
+        "choices": [
+            { "choice_text": "ألفية ابن مالك", "is_correct": false },
+            { "choice_text": "لامية الأفعال", "is_correct": true },
+            { "choice_text": "شرح قطر الندى", "is_correct": false },
+            { "choice_text": "متن الآجرومية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفعل الذي يُمثل تصنيف 'مهموز الفاء' مما يلي؟",
+        "difficulty_score": 300,
+        "explanation": "فعل 'أخذ' تبدأ بنية حروفه الأصلية بالهمزة (أ، خ، ذ)، لذا يُسمى مهموز الفاء [1].",
+        "choices": [
+            { "choice_text": "سأل", "is_correct": false },
+            { "choice_text": "أخذ", "is_correct": true },
+            { "choice_text": "قرأ", "is_correct": false },
+            { "choice_text": "أكرم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يُعتبر فعل 'أكرم' مهموز الفاء في الميزان الصرفي الأساسي للأقسام السبعة؟",
+        "difficulty_score": 500,
+        "explanation": "لأن الهمزة في 'أكرم' زائدة وليست أصلية، والأقسام السبعة تعتمد على الحروف الأصلية التي تقابل الفاء والعين واللام، وحروف 'أكرم' الأصلية هي (ك، ر، م) [4، 5].",
+        "choices": [
+            { "choice_text": "لأن الهمزة حرف علة", "is_correct": false },
+            { "choice_text": "لأن الهمزة فيه زائدة وليست في مقابلة الفاء الأصلية", "is_correct": true },
+            { "choice_text": "لأنه فعل رباعي مجرد", "is_correct": false },
+            { "choice_text": "لأن الميم حرف صحيح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الضابط الصرفي للفعل 'الأجوف'؟",
+        "difficulty_score": 250,
+        "explanation": "الأجوف هو ما كان في مقابلة عينه (الحرف الثاني الأصلي) حرف من حروف العلة [2].",
+        "choices": [
+            { "choice_text": "ما كانت فاؤه حرف علة", "is_correct": false },
+            { "choice_text": "ما كانت عينه حرف علة", "is_correct": true },
+            { "choice_text": "ما كانت لامه حرف علة", "is_correct": false },
+            { "choice_text": "ما اجتمعت فيه همزة وتضعيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بتحليل فعل 'رمى'، لماذا قيل إن أصل ألفه 'ياء'؟",
+        "difficulty_score": 450,
+        "explanation": "يُعرف أصل حرف العلة بالرجوع للمضارع، ومضارع 'رمى' هو 'يرمي'، فظهرت الياء [3].",
+        "choices": [
+            { "choice_text": "لأن ما قبلها مفتوح", "is_correct": false },
+            { "choice_text": "لأنها تنطق كالياء", "is_correct": false },
+            { "choice_text": "لظهور الياء في مضارعه (يرمي)", "is_correct": true },
+            { "choice_text": "لأنها تقابل عين الفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يميز 'اللفيف' عن غيره من المعتلات؟",
+        "difficulty_score": 300,
+        "explanation": "اللفيف هو الفعل الذي يجتمع فيه حرفان من حروف العلة في أصوله [4].",
+        "choices": [
+            { "choice_text": "وجود همزة في أوله", "is_correct": false },
+            { "choice_text": "اشتماله على حرفين من حروف العلة", "is_correct": true },
+            { "choice_text": "أنه فعل خماسي دائماً", "is_correct": false },
+            { "choice_text": "أن عينه ولامه من جنس واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يمتنع الإدغام في فعل 'مددنا'؟",
+        "difficulty_score": 600,
+        "explanation": "لأن الحرف الثاني (الدال) سكن سكوناً أصلياً بسبب اتصاله بضمير رفع متحرك (نا)، والقاعدة تمنع الإدغام إذا سكن الثاني سكوناً لازماً [35، 36].",
+        "choices": [
+            { "choice_text": "لأن الميم مفتوحة", "is_correct": false },
+            { "choice_text": "لاتصاله بضمير رفع متحرك يوجب سكون ما قبله سكوناً أصلياً", "is_correct": true },
+            { "choice_text": "لأن النون حرف من حروف 'نأيت'", "is_correct": false },
+            { "choice_text": "لأن الدال الأولى مكسورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للشرح، ما هي العلة الصرفية لتسمية الفعل المعتل الفاء بـ 'المثال'؟",
+        "difficulty_score": 800,
+        "explanation": "سُمي مثالاً لأنه يماثل ويشابه الفعل الصحيح في قبول الحركات (الفتحة والضمة والكسرة) على حروفه [5].",
+        "choices": [
+            { "choice_text": "لأنه مثال يحتذى به في الصرف", "is_correct": false },
+            { "choice_text": "لمماثلته للصحيح في قبول الحركات", "is_correct": true },
+            { "choice_text": "لأنه لا يحذف منه شيء عند المضارع", "is_correct": false },
+            { "choice_text": "لأنه يبدأ بحرف علة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الخيارات التالية يمثل فعلاً 'رباعياً مزيداً فيه سالماً'؟",
+        "difficulty_score": 500,
+        "explanation": "فعل 'تدحرج' أصله 'دحرج' (رباعي مجرد)، زيدت عليه التاء، وحروفه الأصلية سلمت من العلة والهمزة والتضعيف [6].",
+        "choices": [
+            { "choice_text": "وسوس", "is_correct": false },
+            { "choice_text": "دحرج", "is_correct": false },
+            { "choice_text": "تدحرج", "is_correct": true },
+            { "choice_text": "توسوس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في تحويل 'يمدُدُ' إلى 'يمدُّ'، ماذا فعلنا بضمة الدال الأولى؟",
+        "difficulty_score": 700,
+        "explanation": "تم نقل الضمة من الدال الأولى إلى الميم الساكنة قبلها (إعلال بالنقل) لتسكن الدال ويتم الإدغام [7].",
+        "choices": [
+            { "choice_text": "حذفت الحركة تماماً", "is_correct": false },
+            { "choice_text": "نقلت إلى الميم الساكنة قبلها", "is_correct": true },
+            { "choice_text": "قلبت فتحة لخفتها", "is_correct": false },
+            { "choice_text": "بقيت كما هي وأُدغمت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تصنيف فعل 'قعد' ضمن الأقسام السبعة؟",
+        "difficulty_score": 200,
+        "explanation": "هو فعل 'صحيح' (وسالم أيضاً) لخلو فائه وعينه ولامه من حروف العلة والهمزة والتضعيف [8، 9].",
+        "choices": [
+            { "choice_text": "أجوف", "is_correct": false },
+            { "choice_text": "ناقص", "is_correct": false },
+            { "choice_text": "صحيح", "is_correct": true },
+            { "choice_text": "مهموز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'يسر' يُسمى مثالاً يائياً، لماذا؟",
+        "difficulty_score": 350,
+        "explanation": "لأن حرف العلة الموجود في مقابلة الفاء هو 'الياء' [5].",
+        "choices": [
+            { "choice_text": "لأنه ينتهي بياء", "is_correct": false },
+            { "choice_text": "لأن فاءه ياء", "is_correct": true },
+            { "choice_text": "لأن مضارعه 'ييسر'", "is_correct": false },
+            { "choice_text": "لأنه أجوف يائي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حالة الإدغام الجائز مثل 'لم يمدَّ'، لماذا يجوز تحريك الدال بالكسر؟",
+        "difficulty_score": 850,
+        "explanation": "يجوز الكسر لأنه الأصل في التخلص من 'التقاء الساكنين' في اللغة العربية [8].",
+        "choices": [
+            { "choice_text": "لأن الميم مكسورة", "is_correct": false },
+            { "choice_text": "لأنه الأصل في التقاء الساكنين", "is_correct": true },
+            { "choice_text": "للتخفيف فقط", "is_correct": false },
+            { "choice_text": "لإتباع حركة ما قبلها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق بين المضعف الثلاثي والمضعف الرباعي في الحكم الصرفي 'للسلامة'؟",
+        "difficulty_score": 750,
+        "explanation": "كلاهما غير سالم؛ الثلاثي لتكرار العين واللام (مدَّ)، والرباعي لتكرار الفاء واللام الأولى (وسوس) [4، 17].",
+        "choices": [
+            { "choice_text": "الثلاثي سالم والرباعي غير سالم", "is_correct": false },
+            { "choice_text": "كلاهما يُعتبر غير سالم عند المصنف", "is_correct": true },
+            { "choice_text": "الرباعي فقط هو غير السالم", "is_correct": false },
+            { "choice_text": "التضعيف لا يؤثر على السلامة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُصنف فعل 'دعا' كفعل غير صحيح؟",
+        "difficulty_score": 300,
+        "explanation": "لوجود حرف علة (الألف/الواو) في آخره (لام الفعل)، مما يجعله ناقصاً [9].",
+        "choices": [
+            { "choice_text": "لوجود الهمزة", "is_correct": false },
+            { "choice_text": "لوجود حرف العلة في آخره", "is_correct": true },
+            { "choice_text": "لأنه مضعف", "is_correct": false },
+            { "choice_text": "لأنه يبدأ بحرف علة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'استخرج' يُعتبر 'ثلاثياً مزيداً فيه سالماً'، فما هي حروفه الأصلية؟",
+        "difficulty_score": 600,
+        "explanation": "حروفه الأصلية هي (خ، ر، ج) وهي تخلو من العلة والهمزة والتضعيف، والألف والسين والتاء زائدة [10].",
+        "choices": [
+            { "choice_text": "استخر", "is_correct": false },
+            { "choice_text": "خرج", "is_correct": true },
+            { "choice_text": "تخرج", "is_correct": false },
+            { "choice_text": "خج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في البيت الشعري 'فؤادي معتل وجسمي ناقص'، ماذا يرمز 'المعتل'؟",
+        "difficulty_score": 400,
+        "explanation": "يرمز إلى الفعل الذي يحتوي على حرف علة في أحد أصوله [11].",
+        "choices": [
+            { "choice_text": "الفعل الصحيح", "is_correct": false },
+            { "choice_text": "الفعل الذي فيه حرف علة", "is_correct": true },
+            { "choice_text": "الفعل المهموز", "is_correct": false },
+            { "choice_text": "الفعل المضاعف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يندرج 'وسوس' تحت مسمى 'السالم' رغم قوة حروفه؟",
+        "difficulty_score": 450,
+        "explanation": "لأن 'التضعيف' (تكرار الحروف) هو أحد موانع السلامة عند الصرفيين [10].",
+        "choices": [
+            { "choice_text": "لأنه رباعي", "is_correct": false },
+            { "choice_text": "لوجود التضعيف فيه", "is_correct": true },
+            { "choice_text": "لوجود حرف الواو الزائد", "is_correct": false },
+            { "choice_text": "لأن عينه همزة", "is_correct": false }
+        ]
+    },
+    {
+        "choice_text": "ما هو الوزن الأصلي لمضارع الفعل 'مدَّ' قبل الإدغام؟",
+        "question_text": "ما هو الوزن الأصلي لمضارع الفعل 'مدَّ' قبل الإدغام؟",
+        "difficulty_score": 500,
+        "explanation": "الوزن الأصلي هو 'يفعلُ' (يمدُدُ) مثل 'ينصرُ' [12].",
+        "choices": [
+            { "choice_text": "يَفْعِلُ", "is_correct": false },
+            { "choice_text": "يَفْعَلُ", "is_correct": false },
+            { "choice_text": "يَفْعُلُ", "is_correct": true },
+            { "choice_text": "يُفَعِّلُ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة إسناد فعل 'مدَّ' إلى نون النسوة؟",
+        "difficulty_score": 650,
+        "explanation": "يجب فك الإدغام لتصبح 'يمدُدْن'، لأن نون النسوة ضمير رفع متحرك يوجب سكون ما قبله [13].",
+        "choices": [
+            { "choice_text": "يمدُّن", "is_correct": false },
+            { "choice_text": "يمدُدْن", "is_correct": true },
+            { "choice_text": "يمدنَّ", "is_correct": false },
+            { "choice_text": "يُمددْن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الصرفي للفعل 'وعد'؟",
+        "difficulty_score": 200,
+        "explanation": "يُلقب بـ 'المثال' لوقوع حرف العلة في فائه [14].",
+        "choices": [
+            { "choice_text": "أجوف", "is_correct": false },
+            { "choice_text": "ناقص", "is_correct": false },
+            { "choice_text": "مثال", "is_correct": true },
+            { "choice_text": "لفيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يمتنع الإدغام في فعل 'مددتُ' ويجب الفك؟",
+        "difficulty_score": 600,
+        "explanation": "يمتنع الإدغام لأن الفعل اتصل به ضمير رفع متحرك (تاء الفاعل)، مما أوجب سكون الدال الثانية سكوناً أصلياً لازماً، والقاعدة تمنع إدغام المتحرك في ساكن سكونه أصلي [35، 36].",
+        "choices": [
+            { "choice_text": "لأن الدال الأولى مكسورة", "is_correct": false },
+            { "choice_text": "لاتصاله بضمير رفع متحرك يسكن ما قبله سكوناً لازماً", "is_correct": true },
+            { "choice_text": "لأن الفعل من باب 'نصر ينصر'", "is_correct": false },
+            { "choice_text": "للتخفيف عند النطق بالتاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يمثل حالة 'الإدغام الجائز'؟",
+        "difficulty_score": 400,
+        "explanation": "يكون الإدغام جائزاً في مثل 'لم يمدَّ' لأن سكون الحرف الثاني عارض بسبب دخول حرف الجزم، فيجوز الفك (لم يمدد) والإدغام (لم يمدَّ) [30، 31].",
+        "choices": [
+            { "choice_text": "مدَّ", "is_correct": false },
+            { "choice_text": "مددتُ", "is_correct": false },
+            { "choice_text": "لم يمدَّ", "is_correct": true },
+            { "choice_text": "يمدُّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحركة التي اعتبرها المصنف 'الأقوى' والأشهر لتحريك الدال في 'لم يمدَّ'؟",
+        "difficulty_score": 300,
+        "explanation": "الفتحة هي الأقوى لأنها أخف الحركات، ولذلك قدمها المصنف في الذكر [33، 34].",
+        "choices": [
+            { "choice_text": "الضمة", "is_correct": false },
+            { "choice_text": "الكسرة", "is_correct": false },
+            { "choice_text": "الفتحة", "is_correct": true },
+            { "choice_text": "السكون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بتحليل الفعل 'وقى'، لماذا يُصنف 'لفيفاً مفروقاً'؟",
+        "difficulty_score": 450,
+        "explanation": "لأن فيه حرفي علة (الواو والياء/الألف) في فائه ولامه، وقد فرق بينهما حرف صحيح وهو القاف التي تقابل العين [16، 17].",
+        "choices": [
+            { "choice_text": "لأن عينه ولامه حرفا علة", "is_correct": false },
+            { "choice_text": "لوجود حرف علة واحد في أوله", "is_correct": false },
+            { "choice_text": "لوجود حرفي علة مفترقين بحرف صحيح", "is_correct": true },
+            { "choice_text": "لأنه فعل ثلاثي مجرد سالم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف التي تمنع وصف الفعل بـ 'الصحة' عند المصنف؟",
+        "difficulty_score": 200,
+        "explanation": "الصحيح عند المصنف هو ما سلمت فاؤه وعينه ولامه من الواو والياء والألف والهمزة والتضعيف [1].",
+        "choices": [
+            { "choice_text": "الواو والياء والألف فقط", "is_correct": false },
+            { "choice_text": "الهمزة والتضعيف فقط", "is_correct": false },
+            { "choice_text": "الواو والياء والألف والهمزة والتضعيف", "is_correct": true },
+            { "choice_text": "حروف المضارعة (أنيت)", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في تحويل 'يمدُدُ' إلى 'يمدُّ'، ما اسم العملية الصرفية التي جرت على ضمة الدال الأولى؟",
+        "difficulty_score": 700,
+        "explanation": "تسمى 'الإعلال بالنقل'؛ حيث نُقلت حركة الدال الأولى إلى الميم الساكنة قبلها لتسكن الدال تمهيداً للإدغام [27، 28].",
+        "choices": [
+            { "choice_text": "الإعلال بالحذف", "is_correct": false },
+            { "choice_text": "الإعلال بالقلب", "is_correct": false },
+            { "choice_text": "الإعلال بالنقل", "is_correct": true },
+            { "choice_text": "الإبدال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي فعل مما يلي يُصنف كـ 'مهموز العين'؟",
+        "difficulty_score": 250,
+        "explanation": "الفعل 'سأل' هو مهموز العين لأن الهمزة تقع في مقابلة عين الفعل في الميزان الصرفي [2].",
+        "choices": [
+            { "choice_text": "أخذ", "is_correct": false },
+            { "choice_text": "سأل", "is_correct": true },
+            { "choice_text": "قرأ", "is_correct": false },
+            { "choice_text": "وعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يفرق المصنف بين 'الصحيح' و 'السالم'؟",
+        "difficulty_score": 500,
+        "explanation": "أشار الشارح إلى أن المصنف يعتبرهما بنفس المعنى؛ فما سلم من العلل والهمزة والتضعيف هو صحيح وسالم عنده [3].",
+        "choices": [
+            { "choice_text": "لأنهما يختلفان في الميزان", "is_correct": false },
+            { "choice_text": "لأنه لا يرى الهمزة مانعاً للصحة", "is_correct": false },
+            { "choice_text": "لأنه يعتبر السالم والصحيح مترادفين في مذهبه الصرفي", "is_correct": true },
+            { "choice_text": "لأن السالم يختص بالأفعال الرباعية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأصل الصرفي لفعل 'مدَّ' قبل الإدغام؟",
+        "difficulty_score": 150,
+        "explanation": "أصل 'مدَّ' هو 'مدد' على وزن 'فعل'، ثم سُكنت الدال الأولى وأُدغمت [17، 18].",
+        "choices": [
+            { "choice_text": "مادَّ", "is_correct": false },
+            { "choice_text": "مدد", "is_correct": true },
+            { "choice_text": "مُدِدَ", "is_correct": false },
+            { "choice_text": "أمدَّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم الإدغام إذا كان الحرف الأول ساكناً 'أصالة' والثاني متحركاً؟",
+        "difficulty_score": 750,
+        "explanation": "الحكم هو وجوب الإدغام، ومثاله في المصدر 'مَدّاً' حيث الدال الأولى ساكنة بأصل وضعها في الوزن 'فَعْلاً' [28، 29].",
+        "choices": [
+            { "choice_text": "جائز", "is_correct": false },
+            { "choice_text": "ممتنع", "is_correct": false },
+            { "choice_text": "واجب", "is_correct": true },
+            { "choice_text": "مستحب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'غزا' يُصنف ضمن الأقسام السبعة كـ:",
+        "difficulty_score": 300,
+        "explanation": "هو فعل 'ناقص' لأن لامه (الحرف الأخير الأصلي) حرف علة [4].",
+        "choices": [
+            { "choice_text": "مثال", "is_correct": false },
+            { "choice_text": "أجوف", "is_correct": false },
+            { "choice_text": "ناقص", "is_correct": true },
+            { "choice_text": "لفيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما العلة في جواز 'الكسر' في 'لم يمدِّ'؟",
+        "difficulty_score": 800,
+        "explanation": "العلة هي القاعدة النحوية التي تقول إن 'الساكن إذا حُرك حُرك بالكسر' للتخلص من التقاء الساكنين [33، 85].",
+        "choices": [
+            { "choice_text": "لأن الدال الأولى كانت مكسورة", "is_correct": false },
+            { "choice_text": "لأنه الأصل عند التقاء الساكنين", "is_correct": true },
+            { "choice_text": "لمناسبة ياء المضارعة", "is_correct": false },
+            { "choice_text": "للتفرقة بين الفاعل والمفعول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأفعال يُعتبر 'رباعياً مجرداً غير سالم'؟",
+        "difficulty_score": 350,
+        "explanation": "فعل 'وسوس' هو رباعي مجرد، لكنه غير سالم بسبب التضعيف (تكرار الفاء واللام الأولى) [3، 4].",
+        "choices": [
+            { "choice_text": "دحرج", "is_correct": false },
+            { "choice_text": "تدحرج", "is_correct": false },
+            { "choice_text": "وسوس", "is_correct": true },
+            { "choice_text": "توسوس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يركز الصرفيون على إدغام 'المتجانسين' فقط؟",
+        "difficulty_score": 550,
+        "explanation": "لأن إدغام المتقاربين مبحث تجويدي يخص مخارج الحروف، بينما يبحث الصرف في بنية الكلمة وتماثل حروفها الأصلية [21، 22].",
+        "choices": [
+            { "choice_text": "لأن إدغام المتقاربين مستحيل صرفياً", "is_correct": false },
+            { "choice_text": "لأن التجانس هو تخصص علماء التجويد فقط", "is_correct": false },
+            { "choice_text": "لأن الصرف يبحث في تماثل الأصول، والمتقارب من شأن التجويد", "is_correct": true },
+            { "choice_text": "لعدم وجود حروف متقاربة في الأفعال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من قول الشاعر 'واشتياقي مضاعف' في سياق الأقسام السبعة؟",
+        "difficulty_score": 400,
+        "explanation": "يُستنتج منه الإشارة إلى 'الفعل المضاعف'، وهو الذي تكرر فيه الحرف الواحد مثل 'مدَّ' [5].",
+        "choices": [
+            { "choice_text": "أن الشوق حرف علة", "is_correct": false },
+            { "choice_text": "الإشارة إلى تكرار الحروف في الفعل المضاعف", "is_correct": true },
+            { "choice_text": "أن الشوق فعل ناقص", "is_correct": false },
+            { "choice_text": "أن الفعل المضاعف هو الأجوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف نحدد أصل الألف في الفعل الأجوف 'كال'؟",
+        "difficulty_score": 450,
+        "explanation": "بالرجوع للمضارع 'يكيل' نجد أن الألف أصلها ياء [12، 13].",
+        "choices": [
+            { "choice_text": "بالرجوع للمضارع 'يكول'", "is_correct": false },
+            { "choice_text": "بالرجوع للمضارع 'يكيل'", "is_correct": true },
+            { "choice_text": "بالنظر لحركة الكاف", "is_correct": false },
+            { "choice_text": "لأنها تقابل فاء الفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف 'اللفيف المقرون'؟",
+        "difficulty_score": 250,
+        "explanation": "هو ما اجتمع فيه حرفا علة في مقابلة عينه ولامه دون فاصل صحيح بينهما، مثل 'طوى' [6].",
+        "choices": [
+            { "choice_text": "ما كانت فاؤه ولامه حرفي علة", "is_correct": false },
+            { "choice_text": "ما اجتمع فيه حرفا علة في العين واللام", "is_correct": true },
+            { "choice_text": "ما خلت حروفه من العلة", "is_correct": false },
+            { "choice_text": "ما كان فيه همزة وتضعيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بتحليل الفعل 'أكرم'، لماذا حكم عليه المصنف بـ 'السلامة' رغم وجود الهمزة؟",
+        "difficulty_score": 850,
+        "explanation": "لأن القواعد الصرفية تنظر للحروف الأصلية (ك، ر، م) التي تقابل الفاء والعين واللام، وهذه سلمت، أما الهمزة فهي زائدة والزائد لا يسلب الصحة [4، 5، 10].",
+        "choices": [
+            { "choice_text": "لأن الهمزة دائماً حرف صحيح", "is_correct": false },
+            { "choice_text": "لأن الحكم بالسلامة يتبع الحروف الأصلية فقط", "is_correct": true },
+            { "choice_text": "لأن الفعل ثلاثي مجرد", "is_correct": false },
+            { "choice_text": "لأن الهمزة في أوله وليست في آخره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي كتاب ينوي الشيخ شرحه بعد الفراغ من متن البناء؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر الشيخ في ختام المجلس أنه سينتقل لشرح 'لامية الأفعال' لابن مالك [7].",
+        "choices": [
+            { "choice_text": "متن الآجرومية", "is_correct": false },
+            { "choice_text": "ألفية ابن مالك", "is_correct": false },
+            { "choice_text": "لامية الأفعال", "is_correct": true },
+            { "choice_text": "شذا العرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو ضابط 'الأقسام الثمانية' للفعل؟",
+        "difficulty_score": 900,
+        "explanation": "هو تقسيم الفعل بناءً على (ثلاثي/رباعي)، و(مجرد/مزيد)، و(سالم/غير سالم)، لينتج ثماني تركيبات محتملة [1، 6].",
+        "choices": [
+            { "choice_text": "تقسيم الفعل حسب الزمن (ماضٍ، مضارع، أمر)", "is_correct": false },
+            { "choice_text": "تقسيم الفعل حسب الصحة والاعتلال فقط", "is_correct": false },
+            { "choice_text": "دمج تصنيفات العدد والزيادة والسلامة في ثمانية أنواع", "is_correct": true },
+            { "choice_text": "تقسيم الفعل حسب الإعراب والبناء", "is_correct": false }
+        ]
+    }]
+    }

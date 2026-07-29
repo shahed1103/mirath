@@ -2,30 +2,37 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Seeder;
 use App\Models\OpenQuestion;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\File;
 
 class OpenQuestionSeeder extends Seeder
 {
     public function run(): void
     {
-        $data = [];
+        $files = File::files(database_path('seeders/data/open_questions'));
 
-        for ($chapterId = 1; $chapterId <= 6; $chapterId++) {
+        foreach ($files as $file) {
 
-            for ($order = 1; $order <= 5; $order++) {
+            $data = json_decode(File::get($file), true);
 
-                $data[] = [
-                    'chapter_id' => $chapterId,
-                    'question_text' => "سؤال مفتوح رقم {$order} للباب رقم {$chapterId}",
-                    'answer' => "هذه إجابة السؤال رقم {$order} في الباب رقم {$chapterId}. يمكن استبدال هذا النص بالإجابة الحقيقية لاحقاً.",
-                    'order_number' => $order,
-                    'created_at' => now(),
-                    'updated_at' => now(),
-                ];
+            if (
+                !$data ||
+                !isset($data['chapter_id']) ||
+                !isset($data['questions'])
+            ) {
+                continue;
+            }
+
+            foreach ($data['questions'] as $question) {
+
+                OpenQuestion::create([
+                    'chapter_id'    => $data['chapter_id'],
+                    'question_text' => $question['question_text'],
+                    'answer'        => $question['answer'],
+                    'order_number'  => $question['order_number'],
+                ]);
             }
         }
-
-        OpenQuestion::insert($data);
     }
 }

@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 31,
+    "questions": [
+        {
+        "question_text": "ما هي النسبة التي ضربها المؤلف كمثال لترجيح الإمام أحمد لصحة حديث قد يراه يحيى بن معين ضعيفاً؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن التفاوت يكون نسبياً، فقد يترجح عند أحمد بنسبة 65% وعند ابن معين لا يصح بنسبة 55% [8].",
+        "choices": [
+            { "choice_text": "100%", "is_correct": false },
+            { "choice_text": "65%", "is_correct": true },
+            { "choice_text": "90%", "is_correct": false },
+            { "choice_text": "50%", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا ينكر الإمام أحمد على من يصلي خلفه وهو آكل للحم الإبل ولا يتوضأ؟",
+        "difficulty_score": 500,
+        "explanation": "لأن الأحاديث في هذه المسألة، وإن صححها أحمد، إلا أنها ليست في أعلى درجات الصحة ولغيره فيها كلام [9, 10].",
+        "choices": [
+            { "choice_text": "لأنه يرى أن المسألة اختيارية", "is_correct": false },
+            { "choice_text": "لأن الحديث ضعيف عنده", "is_correct": false },
+            { "choice_text": "لأن المسألة قابلة والاختلاف فيها سائغ", "is_correct": true },
+            { "choice_text": "لعدم وجود نص صريح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي قال عنه المؤلف إنه 'ليس له معرفة ونظر كأهل الشأن' في نقد الحديث؟",
+        "difficulty_score": 400,
+        "explanation": "أشار المؤلف إلى أن ابن حزم له قواعد معينة طبقها وهي عند أهل المعرفة خطأ [8].",
+        "choices": [
+            { "choice_text": "البخاري", "is_correct": false },
+            { "choice_text": "ابن حزم", "is_correct": true },
+            { "choice_text": "أحمد بن حنبل", "is_correct": false },
+            { "choice_text": "ابن المديني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يترتب على معرفة أن 'الحسن لغيره' قد يُرد حسب الحال؟",
+        "difficulty_score": 700,
+        "explanation": "هذا يجعله في حكم الضعيف عند المعارضة بما هو أقوى منه، ولا يُعامل كالمقبول مطلقاً [11, 28].",
+        "choices": [
+            { "choice_text": "أنه يصبح صحيحاً لذاته", "is_correct": false },
+            { "choice_text": "أنه يجب العمل به دائماً", "is_correct": false },
+            { "choice_text": "أنه يخرج عن قسم المقبول عند المعارضة", "is_correct": true },
+            { "choice_text": "أنه لا قيمة له إطلاقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف المحدثين من 'جمود الظاهرية' و 'إغراق الحنفية في التأويل'؟",
+        "difficulty_score": 600,
+        "explanation": "يرفض المحدثون المنهجين؛ فجمود الظاهرية ممجوج، وإغراق الحنفية في التأويل مرفوض [33].",
+        "choices": [
+            { "choice_text": "يقبلون الظاهرية فقط", "is_correct": false },
+            { "choice_text": "كلاهما عندهم مذموم", "is_correct": true },
+            { "choice_text": "يميلون إلى التأويل دائماً", "is_correct": false },
+            { "choice_text": "يقبلون المنهجين معاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث الشفعة، ما هي القطعة التي اعتبرها أبو حاتم 'مدرجة'؟",
+        "difficulty_score": 850,
+        "explanation": "أبو حاتم أعلّ قوله: 'فإذا وقعت الحدود وصرفت الطرق فلا شفعة' واعتبرها من كلام الراوي [20, 21].",
+        "choices": [
+            { "choice_text": "جعل رسول الله الشفعة في كل مال", "is_correct": false },
+            { "choice_text": "الشفعة في الأرض", "is_correct": false },
+            { "choice_text": "فإذا وقعت الحدود وصرفت الطرق", "is_correct": true },
+            { "choice_text": "قضى بالشفعة فيما لم يقسم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو العالم المعاصر الذي انتقده المؤلف بشدة لقوله بوجوب قتل شارب الخمر في الرابعة؟",
+        "difficulty_score": 550,
+        "explanation": "انتقد المؤلف الشيخ أحمد شاكر لقوله بأن أحاديث قتل شارب الخمر محكمة، واعتبر ذلك باطلاً لمخالفة إجماع الأمة [34].",
+        "choices": [
+            { "choice_text": "الألباني", "is_correct": false },
+            { "choice_text": "أحمد شاكر", "is_correct": true },
+            { "choice_text": "ابن باز", "is_correct": false },
+            { "choice_text": "ابن تيمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الرئيسي الذي يمنع الأمة من الاتفاق على ترك حديث صحيح؟",
+        "difficulty_score": 450,
+        "explanation": "المقطوع به أن الأمة لا تترك حديثاً صحيحاً إلا لوجود 'نسخ'، وإن لم يُروَ الناسخ أحياناً [24, 25].",
+        "choices": [
+            { "choice_text": "النسيان", "is_correct": false },
+            { "choice_text": "النسخ", "is_correct": true },
+            { "choice_text": "ضعف الرواة", "is_correct": false },
+            { "choice_text": "كراهية الحكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في منهج المحدثين، النظر في صحة الحديث يكون لـ:",
+        "difficulty_score": 300,
+        "explanation": "النقاد المحدثون يشغلهم الإسناد والمتن جميعاً عند الحكم بالصحة [35, 36].",
+        "choices": [
+            { "choice_text": "الإسناد فقط", "is_correct": false },
+            { "choice_text": "المتن فقط", "is_correct": false },
+            { "choice_text": "الإسناد والمتن معاً", "is_correct": true },
+            { "choice_text": "عدد الرواة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي تصف طبيعة نقد الحديث عند الجهابذة؟",
+        "difficulty_score": 900,
+        "explanation": "المسألة ليست رياضيات حدية، بل هي 'ملكة وحس وذوق' مع نظر شمولي [4].",
+        "choices": [
+            { "choice_text": "عملية حسابية دقيقة", "is_correct": false },
+            { "choice_text": "ملكة وحس وذوق", "is_correct": true },
+            { "choice_text": "مجرد نقل للأسانيد", "is_correct": false },
+            { "choice_text": "قواعد جامدة لا تتغير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التوقف' عند الأصوليين في باب التعارض؟",
+        "difficulty_score": 200,
+        "explanation": "التوقف هو المرتبة الرابعة، وهو أمر نسبي يعني عدم ظهور وجه مرجح للناظر [5].",
+        "choices": [
+            { "choice_text": "إبطال النصين", "is_correct": false },
+            { "choice_text": "أمر نسبي", "is_correct": true },
+            { "choice_text": "العمل بالضعيف", "is_correct": false },
+            { "choice_text": "الوجوب القطعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يُقدم 'الجمع' دائماً على 'النسخ'؟",
+        "difficulty_score": 750,
+        "explanation": "إذا دل الدليل على النسخ الكلي، فلا يُصار للنسخ الجزئي (الجمع) لأن النسخ أقوى دلالة في الإبطال [5, 23].",
+        "choices": [
+            { "choice_text": "لأن الجمع أصعب", "is_correct": false },
+            { "choice_text": "لأن النسخ أيسر", "is_correct": false },
+            { "choice_text": "إذا علم دليل النسخ الكلي وجب المصير إليه", "is_correct": true },
+            { "choice_text": "لأن المذاهب ترفض الجمع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأئمة كان البخاري ومسلم يراجعان أحاديثهما ويعرضانها عليه (في عقلهما ومنهجهما)؟",
+        "difficulty_score": 650,
+        "explanation": "أشار المؤلف إلى أن البخاري وأحمد ويحيى وغيرهم كانوا يعرضون الأحاديث ويفككونها [37].",
+        "choices": [
+            { "choice_text": "ابن حزم", "is_correct": false },
+            { "choice_text": "أحمد ويحيى بن معين", "is_correct": true },
+            { "choice_text": "أبو ثور", "is_correct": false },
+            { "choice_text": "ابن حجر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعليق الإمام أحمد على مسألة ذكرت له عن أبي ثور؟",
+        "difficulty_score": 800,
+        "explanation": "قال: 'أبو ثور في هذه المسألة كاسمه!'، وهو نوع من التوبيخ للاستغراب من قوله [38].",
+        "choices": [
+            { "choice_text": "وافق رأيه تماماً", "is_correct": false },
+            { "choice_text": "قال إنه إمام محدث", "is_correct": false },
+            { "choice_text": "أبو ثور في هذه المسألة كاسمه", "is_correct": true },
+            { "choice_text": "سكت ولم يعلق", "is_correct": false }
+        ]
+    },
+    {
+        "order_number": 15,
+        "question_text": "من هو الإمام الذي استدل بحديث الأعمى 'أجب' ثم تركه في حالة عدم وجود قائد؟",
+        "difficulty_score": 500,
+        "explanation": "الفقهاء عامة، ومنهم المحدثون، استدلوا به على وجوب الجماعة لكنهم استثنوا الأعمى بحديث عتبان [4, 15].",
+        "choices": [
+            { "choice_text": "ابن حزم", "is_correct": false },
+            { "choice_text": "أهل العلم قاطبة", "is_correct": true },
+            { "choice_text": "أهل الرأي فقط", "is_correct": false },
+            { "choice_text": "الشافعي وحده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأصل في العمل بالحديث الصحيح عند المحدثين بغض النظر عن موطن خروجه؟",
+        "difficulty_score": 100,
+        "explanation": "القاعدة المتقررة هي وجوب العمل بالحديث الصحيح أياً كان مخرجه (حجازياً، عراقياً، إلخ).",
+        "choices": [
+            { "choice_text": "يُقدم الحديث الحجازي دائماً", "is_correct": false },
+            { "choice_text": "يجب العمل به أياً كان مخرجه", "is_correct": true },
+            { "choice_text": "يُعمل به إذا وافق مذهب أهل المدينة فقط", "is_correct": false },
+            { "choice_text": "يُقدم الحديث العراقي في المعاملات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ وصف المؤلف منهج ابن حزم في نقد الحديث؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المؤلف أن ابن حزم ليس له معرفة ونظر كأهل الشأن في النقد، بل له قواعد معينة طبقها.",
+        "choices": [
+            { "choice_text": "إمام يُقتدى به في العلل", "is_correct": false },
+            { "choice_text": "ليس له معرفة ونظر كأهل الشأن", "is_correct": true },
+            { "choice_text": "أعلم الناس بالأسانيد", "is_correct": false },
+            { "choice_text": "منهجه مطابق لمنهج البخاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكون التصحيح عند المتقدمين ليس 'حداً فاصلاً'؟",
+        "difficulty_score": 500,
+        "explanation": "التصحيح درجات متفاوتة كدرجات النجاح الدراسي (A+ و D)، وليس مجرد حكم مطلق بالصحة أو الضعف.",
+        "choices": [
+            { "choice_text": "أن الحديث إما صحيح 100% أو باطل", "is_correct": false },
+            { "choice_text": "أن التصحيح درجات متفاوتة في القوة", "is_correct": true },
+            { "choice_text": "أن كل الأحاديث الصحيحة متساوية في القوة", "is_correct": false },
+            { "choice_text": "أن الضعيف يُعامل كالصحيح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يشدد الإمام أحمد في الإنكار على من لا يرى وجوب الغسل من الجماع بلا إنزال؟",
+        "difficulty_score": 600,
+        "explanation": "لأن الأحاديث فيها صحيحة، وقد وقع اتفاق الصحابة عليها بعد الاختلاف، فأصبحت مسألة لا تقبل النقاش.",
+        "choices": [
+            { "choice_text": "لوجود نص قرآني صريح", "is_correct": false },
+            { "choice_text": "لاتفاق الصحابة عليها بعد الاختلاف", "is_correct": true },
+            { "choice_text": "لأن الحديث متواتر", "is_correct": false },
+            { "choice_text": "لأنها مسألة تعبدية لا تعقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو رأي ابن حزم في إفادة أخبار الآحاد للعلم؟",
+        "difficulty_score": 300,
+        "explanation": "يرى ابن حزم أن أخبار الآحاد تفيد 'القطع واليقين'، وهو ما انتقده المؤلف.",
+        "choices": [
+            { "choice_text": "تفيد الظن فقط", "is_correct": false },
+            { "choice_text": "تفيد القطع واليقين", "is_correct": true },
+            { "choice_text": "لا يُعمل بها في العقائد", "is_correct": false },
+            { "choice_text": "تفيد العلم الإجمالي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يؤثر 'المؤيد' (المتابع) في الحكم على الحديث عند المتقدمين؟",
+        "difficulty_score": 700,
+        "explanation": "النقاد يستصحبون المؤيد والمعارض عند الحكم، مما يجعل نظرهم شمولياً للباب كله لا جزئياً.",
+        "choices": [
+            { "choice_text": "لا أثر له في الصحة", "is_correct": false },
+            { "choice_text": "له أثر في الحكم الشمولي على الحديث", "is_correct": true },
+            { "choice_text": "يُكتفى به عن النظر في الإسناد", "is_correct": false },
+            { "choice_text": "يُستخدم فقط في الأحاديث الضعيفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المقولة المشهورة للإمام أحمد بخصوص الحديث الضعيف؟",
+        "difficulty_score": 200,
+        "explanation": "عبارته المشهورة: 'الحديث الضعيف أحب إلي من رأي الرجال'.",
+        "choices": [
+            { "choice_text": "الضعيف لا يُعمل به مطلقاً", "is_correct": false },
+            { "choice_text": "الحديث الضعيف أحب إلي من رأي الرجال", "is_correct": true },
+            { "choice_text": "رأي الرجال مقدم على الضعيف", "is_correct": false },
+            { "choice_text": "الضعيف نوع من الكذب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الإشكال الذي ذكره المؤلف في تقسيم ابن الصلاح للحديث الحسن؟",
+        "difficulty_score": 800,
+        "explanation": "الإشكال في جعل 'الحسن لغيره' قسماً مقبولاً مطلقاً، بينما ممارسة المتقدمين تقتضي أنه قد يُرد حسب الحال.",
+        "choices": [
+            { "choice_text": "أنه تقسيم معقد جداً", "is_correct": false },
+            { "choice_text": "جعله الحسن لغيره مقبولاً دائماً", "is_correct": true },
+            { "choice_text": "أنه لم يذكر الحديث الضعيف", "is_correct": false },
+            { "choice_text": "مخالفته لترتيب البخاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر الإمام أحمد حديث 'جمع النبي في المدينة من غري خوف ولا سفر'؟",
+        "difficulty_score": 500,
+        "explanation": "حمله الإمام أحمد على 'المرض'، كونه تأويلاً يسوغه الدليل ولا يعطل نصوص التوقيت.",
+        "choices": [
+            { "choice_text": "حمله على المطر", "is_correct": false },
+            { "choice_text": "حمله على الحاجة المطلقة", "is_correct": false },
+            { "choice_text": "حمله على المرض", "is_correct": true },
+            { "choice_text": "رآه حديثاً منسوخاً بالكلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف المحدثين من 'رواية الحديث بالمعنى' عند التعارض؟",
+        "difficulty_score": 750,
+        "explanation": "يردون الروايات لأصلها (اللفظ)، لأن الرواية بالمعنى قد توهم تعارضاً غير موجود حقيقة.",
+        "choices": [
+            { "choice_text": "يقبلونها دون بحث عن الأصل", "is_correct": false },
+            { "choice_text": "يردون الرواية بالمعنى لأصلها لزوال التعارض", "is_correct": true },
+            { "choice_text": "يرفضون كل حديث روي بالمعنى", "is_correct": false },
+            { "choice_text": "يقدمون الرواية بالمعنى على اللفظ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو العالم المعاصر الذي وُصف منهجه بـ 'الجريء جداً' كابن حزم؟",
+        "difficulty_score": 450,
+        "explanation": "وصف المؤلف الشيخ أحمد شاكر بأنه جريء كابن حزم، خاصة في رأيه بوجوب قتل شارب الخمر.",
+        "choices": [
+            { "choice_text": "الألباني", "is_correct": false },
+            { "choice_text": "أحمد شاكر", "is_correct": true },
+            { "choice_text": "ابن عثيمين", "is_correct": false },
+            { "choice_text": "ابن حجر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي مرتبة 'الجمع' بين النصوص عند الأصوليين؟",
+        "difficulty_score": 200,
+        "explanation": "الجمع هو المرتبة الأولى في درجات النظر بين النصوص المتعارضة.",
+        "choices": [
+            { "choice_text": "المرتبة الثالثة", "is_correct": false },
+            { "choice_text": "المرتبة الأولى", "is_correct": true },
+            { "choice_text": "المرتبة الأخيرة", "is_correct": false },
+            { "choice_text": "لا يعتبر مرتبة عندهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المؤلف أن 'الجمع' أحياناً يكون نوعاً من النسخ؟",
+        "difficulty_score": 850,
+        "explanation": "لأن تخصيص العام بالخاص يُفقد العام جزءاً من أفراده، وهو 'نسخ جزئي' لهذا المعنى.",
+        "choices": [
+            { "choice_text": "لأنه يؤدي لإبطال الحديثين", "is_correct": false },
+            { "choice_text": "لأنه نسخ جزئي لعموم النص", "is_correct": true },
+            { "choice_text": "لأنه يعتمد على الهوى", "is_correct": false },
+            { "choice_text": "لأن الأصوليين يكرهون الجمع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أبو حاتم عن زيادة 'فإذا وقعت الحدود وصرفت الطرق' في حديث الشفعة؟",
+        "difficulty_score": 900,
+        "explanation": "أعلّ الزيادة بأنها 'مدرجة' من كلام الراوي وليست من قول النبي ﷺ.",
+        "choices": [
+            { "choice_text": "قال إنها صحيحة غاية", "is_correct": false },
+            { "choice_text": "قال إنها مدرجة من كلام الراوي", "is_correct": true },
+            { "choice_text": "قال إنها منسوخة", "is_correct": false },
+            { "choice_text": "وافق البخاري في تصحيحها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ يشتهر كتاب 'العلل' بخصوص نوعية الأحاديث التي يذكرها؟",
+        "difficulty_score": 650,
+        "explanation": "أغلب أحاديثه 'معلولة' لأن السائل (إمام) يسأل عن 'المواضع المشكلة' فقط وليس الأحاديث النظيفة.",
+        "choices": [
+            { "choice_text": "كل أحاديثه صحيحة", "is_correct": false },
+            { "choice_text": "أغلبها معلولة لأن السؤال عن المشكلات", "is_correct": true },
+            { "choice_text": "يجمع الأحاديث المتواترة", "is_correct": false },
+            { "choice_text": "مخصص للأحاديث الحجازية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المقولة التي تعبر عن استمرار طلب العلم عند الأئمة؟",
+        "difficulty_score": 150,
+        "explanation": "مقولة الإمام أحمد: 'من المحبرة إلى المقبرة'.",
+        "choices": [
+            { "choice_text": "العلم صيد والكتابة قيد", "is_correct": false },
+            { "choice_text": "من المحبرة إلى المقبرة", "is_correct": true },
+            { "choice_text": "اطلبوا العلم ولو في الصين", "is_correct": false },
+            { "choice_text": "كفى بالمرء جهلاً أن يترك العلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يرى المؤلف إمكانية 'الاجتهاد المطلق' في هذا الزمان؟",
+        "difficulty_score": 550,
+        "explanation": "يرى (تبعاً لابن رجب) أن الاجتهاد المطلق 'طوي فراشه' لعدم تأهل أحد له، لكن يسوغ في مسائل جزئية.",
+        "choices": [
+            { "choice_text": "واجب على كل طالب علم", "is_correct": false },
+            { "choice_text": "ممتنع لعدم التأهل بعد الأئمة", "is_correct": true },
+            { "choice_text": "سهل بوجود برامج الحاسب", "is_correct": false },
+            { "choice_text": "لا يجوز حتى في الجزئيات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الانتقاد الموجه لابن حزم بخصوص حديث 'المعازف'؟",
+        "difficulty_score": 800,
+        "explanation": "أنه تناقض؛ فرده بحجة 'التعليق' رغم أنه يقبل رواية 'المدلس' إذا قال 'قال'.",
+        "choices": [
+            { "choice_text": "أنه لم يطلع على الحديث", "is_correct": false },
+            { "choice_text": "أنه تناقض في قواعد قبول الرواية", "is_correct": true },
+            { "choice_text": "أنه صححه ثم ضعفه", "is_correct": false },
+            { "choice_text": "أنه اعتمد على العقل فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد بـ 'الملكة والذوق' في نقد الحديث؟",
+        "difficulty_score": 700,
+        "explanation": "هي قدرة الناقد على تمييز الخطأ في الحديث بمجرد سماعه، نتيجة طول الممارسة والاستقراء.",
+        "choices": [
+            { "choice_text": "حفظ أسماء الرواة فقط", "is_correct": false },
+            { "choice_text": "قدرة الناقد على تمييز الخطأ بالحس العلمي", "is_correct": true },
+            { "choice_text": "اتباع القواعد الحسابية بدقة", "is_correct": false },
+            { "choice_text": "موافقة الحديث للعقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث 'الشفعة'، لماذا اعتبر أبو حاتم كلمة 'قضى' دليلاً على الإدراج؟",
+        "difficulty_score": 900,
+        "explanation": "لأن 'قضى' فعل يحكي قصة، والزيادة بعدها جاءت بصيغة 'فإذا' التي تشبه كلام الرواة التفسيري.",
+        "choices": [
+            { "choice_text": "لأنها تدل على الوجوب", "is_correct": false },
+            { "choice_text": "لأنها حكاية قضاء والزيادة تفسير من الراوي", "is_correct": true },
+            { "choice_text": "لأنها لم ترد في القرآن", "is_correct": false },
+            { "choice_text": "لأن الراوي ضعيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الحقيقي لترك الأمة لحديث 'قتل شارب الخمر في الرابعة'؟",
+        "difficulty_score": 400,
+        "explanation": "اتفاق المسلمين على ترك العمل به لكونه منسوخاً، ولا تجتمع الأمة على ضلالة.",
+        "choices": [
+            { "choice_text": "ضعف إسناده", "is_correct": false },
+            { "choice_text": "كونه منسوخاً باتفاق الأمة", "is_correct": true },
+            { "choice_text": "لأنه يخالف العقل", "is_correct": false },
+            { "choice_text": "لأنه خاص بالصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي قال عنه المؤلف إنه 'ليس له من آلة الاجتهاد كبير شيء' بمقياس السابقين؟",
+        "difficulty_score": 600,
+        "explanation": "يقصد 'معشر المتفقهين في هذا الزمان' الذين يلبسون لبوس الاجتهاد دون امتلاك آلاته.",
+        "choices": [
+            { "choice_text": "ابن رجب", "is_correct": false },
+            { "choice_text": "المتفقهون في العصر الحديث", "is_correct": true },
+            { "choice_text": "الشوكاني", "is_correct": false },
+            { "choice_text": "البخاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو رأي المؤلف في 'تحسين الأحاديث بمجرد المتابعات' (المسلك المفتوح)؟",
+        "difficulty_score": 750,
+        "explanation": "اعتبره مسلكاً غير مستقيم نتج عنه جعل 'الحسن لغيره' مقبولاً دائماً بخلاف منهج المتقدمين.",
+        "choices": [
+            { "choice_text": "أنه المسلك الصحيح الوحيد", "is_correct": false },
+            { "choice_text": "أنه مسلك غير مستقيم يوسع دائرة القبول", "is_correct": true },
+            { "choice_text": "أنه لا أثر له في الفقه", "is_correct": false },
+            { "choice_text": "أنه منهج الإمام أحمد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'التوقف' عند تعارض النصوص؟",
+        "difficulty_score": 350,
+        "explanation": "هو عدم ظهور وجه ترجيح للناظر في المسألة، وهو أمر نسبي يختلف من عالم لآخر.",
+        "choices": [
+            { "choice_text": "إبطال العمل بالنصين نهائياً", "is_correct": false },
+            { "choice_text": "عدم ظهور وجه ترجيح للناظر", "is_correct": true },
+            { "choice_text": "تحريم الفتوى في المسألة", "is_correct": false },
+            { "choice_text": "الرجوع لرأي الجمهور دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'فقه الحديث' أوسع من مجرد معرفة الإسناد؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه يشمل استيعاب طرق الحديث، وفهم القرآن، وآثار الصحابة، ومعرفة منازل المسائل.",
+        "choices": [
+            { "choice_text": "لأنه يحتاج لحفظ أسماء الرواة فقط", "is_correct": false },
+            { "choice_text": "لأنه يستوعب كل جوانب الاستدلال والآثار", "is_correct": true },
+            { "choice_text": "لأنه يعتمد على الرأي المحض", "is_correct": false },
+            { "choice_text": "لأنه لا يهتم بصحة الإسناد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعليق المؤلف على قصة 'مراجعة البخاري لأحاديثه بالليل'؟",
+        "difficulty_score": 300,
+        "explanation": "استشهد بها لبيان أن علم الحديث كان 'شغلهم ليل نهار' وتفكيكاً دائماً للأسانيد.",
+        "choices": [
+            { "choice_text": "أنه كان يعاني من الأرق", "is_correct": false },
+            { "choice_text": "بيان تفانيه وتفكيكه المستمر للأحاديث", "is_correct": true },
+            { "choice_text": "ليثبت أنه لا ينام", "is_correct": false },
+            { "choice_text": "ليؤلف كتاباً جديداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الجهابذة' الذين تبرأ المؤلف من نسب الأخطاء المعاصرة إليهم؟",
+        "difficulty_score": 650,
+        "explanation": "هم فقهاء المحدثين الأوائل كأحمد والبخاري، الذين يُلبس بعض المتأخرين أخطاءهم عليهم.",
+        "choices": [
+            { "choice_text": "المستشرقون", "is_correct": false },
+            { "choice_text": "فقهاء المحدثين الأوائل", "is_correct": true },
+            { "choice_text": "علماء الكلام", "is_correct": false },
+            { "choice_text": "المقلدون من الفقهاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يُقصد بـ 'تحرير صحة الحديث' عند التعارض؟",
+        "difficulty_score": 800,
+        "explanation": "مراعاة وجود المعارض له أثر في الحكم بالصحة؛ فالنقاد ينظرون للإسناد والمتن معاً.",
+        "choices": [
+            { "choice_text": "التأكد من أسماء الرواة فقط", "is_correct": false },
+            { "choice_text": "مراعاة المعارض والمؤيد في حكم الصحة", "is_correct": true },
+            { "choice_text": "قبول أي حديث في الصحيحين بلا نظر", "is_correct": false },
+            { "choice_text": "عرض الحديث على العقل المجرد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في منهج المحدثين، متى يُصار إلى 'النسخ' مباشرة دون 'الجمع'؟",
+        "difficulty_score": 850,
+        "explanation": "إذا علم دليل النسخ الكلي، فلا يوصل للنسخ الجزئي (الجمع) لتقديم الأقوى.",
+        "choices": [
+            { "choice_text": "إذا كان الجمع صعباً", "is_correct": false },
+            { "choice_text": "إذا علم دليل النسخ الكلي وجب المصير إليه", "is_correct": true },
+            { "choice_text": "إذا كان أحد الحديثين ضعيفاً", "is_correct": false },
+            { "choice_text": "لا يُصار للنسخ أبداً قبل الجمع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعليق المؤلف على كتاب 'النكت' للعراقي؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر أن استكثاره من الأمثلة والمرجحات الذهنية لا طائل كبير منه مقارنة بعمق نظر المتقدمين.",
+        "choices": [
+            { "choice_text": "أنه أفضل كتاب في العلل", "is_correct": false },
+            { "choice_text": "أن الاستكثار من مرجحاته الذهنية لا طائل منه", "is_correct": true },
+            { "choice_text": "أنه يطابق منهج البخاري تماماً", "is_correct": false },
+            { "choice_text": "أنه كتاب ضعيف لا يُعتمد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل المؤلف على أن 'الشذوذ' يقع في المتن كما في الإسناد؟",
+        "difficulty_score": 550,
+        "explanation": "بكون المتن هو ميدان الاستنباط والتفقه، وهو أيضاً ميدان العلة والشذوذ.",
+        "choices": [
+            { "choice_text": "بأقوال علماء الكلام", "is_correct": false },
+            { "choice_text": "بكون المتن ميدان التفقه والعلة", "is_correct": true },
+            { "choice_text": "لأن الرواة يخطئون دائماً", "is_correct": false },
+            { "choice_text": "لعدم وجود قواعد للأسانيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'نوازل العصور' وعلاقتها بمدرسة المتقدمين؟",
+        "difficulty_score": 450,
+        "explanation": "النوازل تحتاج حكماً شرعياً، والرجوع للمتقدمين يعني تحرير أصول الاستدلال لهذه النوازل.",
+        "choices": [
+            { "choice_text": "لا حكم لها عند المتقدمين", "is_correct": false },
+            { "choice_text": "تُحرر أصول استدلالها على نهج المتقدمين", "is_correct": true },
+            { "choice_text": "تُترك لآراء المعاصرين فقط", "is_correct": false },
+            { "choice_text": "يُحرم الكلام فيها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'خطأ الثقة' من أصعب ما يدركه النقاد؟",
+        "difficulty_score": 900,
+        "explanation": "لأن الثقة ليس معصوماً، وبيان خطئه لا يدرك إلا بـ 'الموازنة' وعرض حديثه على غيره.",
+        "choices": [
+            { "choice_text": "لأن الثقة لا يخطئ أبداً", "is_correct": false },
+            { "choice_text": "لأن إدراكه يحتاج للموازنة الدقيقة", "is_correct": true },
+            { "choice_text": "لأن الضعفاء أحفظ منه", "is_correct": false },
+            { "choice_text": "لأنه لا توجد قواعد لضبط الثقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو رأي ابن رجب في 'اتباع المذاهب الأربعة'؟",
+        "difficulty_score": 600,
+        "explanation": "يرى أن الاجتهاد المطلق ممتنع، ولذلك كتب كتاباً في وجوب اتباع المذاهب الأربعة.",
+        "choices": [
+            { "choice_text": "أنه بدعة", "is_correct": false },
+            { "choice_text": "أنه ضروري لعدم تأهل الناس للاجتهاد", "is_correct": true },
+            { "choice_text": "أنه خاص بالعامة فقط", "is_correct": false },
+            { "choice_text": "أنه يسبب تفرق الأمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ وُصف 'جولد تسهير' في المصدر؟",
+        "difficulty_score": 350,
+        "explanation": "مستشرق حاول إسقاط أئمة الحديث (كالزهري) من أعين المسلمين عبر محاضراته.",
+        "choices": [
+            { "choice_text": "محدث كبير", "is_correct": false },
+            { "choice_text": "مستشرق حاول إسقاط الأئمة", "is_correct": true },
+            { "choice_text": "تلميذ للإمام أحمد", "is_correct": false },
+            { "choice_text": "مؤرخ منصف للسنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الاستيعاب الشمولي' الذي كان يتمتع به الإمام أحمد؟",
+        "difficulty_score": 750,
+        "explanation": "استحضار الإسناد، والقرآن، وآثار الصحابة والتابعين في ذهنه عند الكلام في أي مسألة.",
+        "choices": [
+            { "choice_text": "حفظ الكتب الستة فقط", "is_correct": false },
+            { "choice_text": "استحضار كل جوانب النص والآثار ليل نهار", "is_correct": true },
+            { "choice_text": "معرفة اللغة العربية ببراعة", "is_correct": false },
+            { "choice_text": "القدرة على المناظرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يكفي 'الجمع اللفظي' بين الأحاديث المتعارضة؟",
+        "difficulty_score": 800,
+        "explanation": "لأن النظر اللفظي قد يغفل العلل، أو كون الحديث مروياً بالمعنى، أو مدرجاً.",
+        "choices": [
+            { "choice_text": "لأنه سهل جداً", "is_correct": false },
+            { "choice_text": "لأنه قد يغفل العلل وإرجاع الرواية لأصلها", "is_correct": true },
+            { "choice_text": "لأن الألفاظ لا قيمة لها", "is_correct": false },
+            { "choice_text": "لأنه مذهب الظاهرية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف 'ترك العمل بالحديث' الوارد في القاعدة الخامسة؟",
+        "difficulty_score": 250,
+        "explanation": "ألا يوجد أحد من الصحابة أو الأئمة السابقين قال بمقتضى هذا الحديث.",
+        "choices": [
+            { "choice_text": "نسيان الحديث بالكلية", "is_correct": false },
+            { "choice_text": "عدم وجود سابق قائل بمقتضاه", "is_correct": true },
+            { "choice_text": "ضعف الرواة الذين نقلوه", "is_correct": false },
+            { "choice_text": "كراهية الناس للحكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الترمذي عن الأحاديث التي لم يُعمل بها في كتابه؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر أن كل ما في كتابه عُمل به إلا حديثين (أو ثلاثة حسب بعض النسخ والشروح).",
+        "choices": [
+            { "choice_text": "كل أحاديثه لم يُعمل بها", "is_correct": false },
+            { "choice_text": "كلها عُمل بها إلا حديثين أو ثلاثة", "is_correct": true },
+            { "choice_text": "نصف أحاديثه ضعيفة", "is_correct": false },
+            { "choice_text": "لم يذكر شيئاً عن العمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التعليق على حديث 'من رمى وحلق... رجع محرماً'؟",
+        "difficulty_score": 850,
+        "explanation": "اعتبره المؤلف حديثاً منكراً، وانتقد الألباني لتصحيحه والعمل به لمخالفته أصول الباب.",
+        "choices": [
+            { "choice_text": "حديث صحيح غاية", "is_correct": false },
+            { "choice_text": "حديث منكر لم يعمل به كبير أحد", "is_correct": true },
+            { "choice_text": "حديث متواتر", "is_correct": false },
+            { "choice_text": "حديث حجازي صحيح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الطريقة الصحيحة لحفظ السنة اليوم حسب نصيحة المؤلف؟",
+        "difficulty_score": 300,
+        "explanation": "حفظ المتن، والصحابي، والمخرج، ومعرفة العلة إن وجدت، والبدء بالمختصرات.",
+        "choices": [
+            { "choice_text": "حفظ الأسانيد كاملة كما فعل المتقدمون", "is_correct": false },
+            { "choice_text": "حفظ المتن والصحابي والمخرج مع الفهم", "is_correct": true },
+            { "choice_text": "حفظ البخاري ومسلم من أولهما", "is_correct": false },
+            { "choice_text": "قراءة الكتب دون حفظ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يرى المحدثون أن 'جمود الظاهرية' بعيد عن طريقتهم؟",
+        "difficulty_score": 600,
+        "explanation": "لأن الظاهرية يفتقرون لملكة فقهاء المحدثين في جمع الروايات وتحرير العلل، ويكتفون بظاهر اللفظ.",
+        "choices": [
+            { "choice_text": "لأنهم يكرهون ابن حزم", "is_correct": false },
+            { "choice_text": "لافتقارهم لملكة العلل وتحرير الروايات", "is_correct": true },
+            { "choice_text": "لأنهم يقبلون الضعيف", "is_correct": false },
+            { "choice_text": "لأنهم يغرقون في التأويل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر المؤلف 'تناقض ابن حزم' في مواضع كثيرة؟",
+        "difficulty_score": 750,
+        "explanation": "بسبب سيره على 'غير التركيب الصحيح' للقواعد؛ فتارة يصيب وتارة يخطئ.",
+        "choices": [
+            { "choice_text": "لأنه كان ينسى كتبه", "is_correct": false },
+            { "choice_text": "لسيره على غير التركيب الصحيح للقواعد", "is_correct": true },
+            { "choice_text": "لأنه كان يقلد غيره", "is_correct": false },
+            { "choice_text": "لأنه غيّر مذهبه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الترجيح' عند تعارض حديث 'كالشمس' مع حديث 'مرجح الصحة'؟",
+        "difficulty_score": 800,
+        "explanation": "يُقدم الثابت المقطوع بصحته، ويصعب إبطال عمومه بحديث دونه في القوة.",
+        "choices": [
+            { "choice_text": "يُصار للجمع بينهما دائماً", "is_correct": false },
+            { "choice_text": "يُقدم الأقوى (الذي كالشمس)", "is_correct": true },
+            { "choice_text": "يُترك الحديثان", "is_correct": false },
+            { "choice_text": "يُقدم الأحدث تاريخياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القصة التي تدل على 'الرحلة في طلب العلم' المذكورة في الخاتمة؟",
+        "difficulty_score": 400,
+        "explanation": "الأئمة مشوا على أرجلهم، وذاقوا الفقر، وأنفقوا أموالهم لتبليغ سنة النبي ﷺ.",
+        "choices": [
+            { "choice_text": "قصة ملكة سبأ", "is_correct": false },
+            { "choice_text": "تضحيات الأئمة بالمال والبدن لطلب السنة", "is_correct": true },
+            { "choice_text": "رحلة المستشرقين للقاهرة", "is_correct": false },
+            { "choice_text": "رحلة ابن حزم للأندلس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى قوله ﷺ: 'أراد ألا يحرج أمته' في حديث الجمع؟",
+        "difficulty_score": 650,
+        "explanation": "تدل على أن الجمع كان 'للحاجة والضرورة' وليس إطلاقاً لكل حال، وهو ما يزيل التعارض مع نصوص التوقيت.",
+        "choices": [
+            { "choice_text": "جواز الجمع مطلقاً", "is_correct": false },
+            { "choice_text": "أن الجمع مقيد بالحاجة والضرورة", "is_correct": true },
+            { "choice_text": "نسخ صلوات الجماعة", "is_correct": false },
+            { "choice_text": "أنها خاصة بأهل المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يُقبل 'تحريف النصوص' نصرة للمذهب؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه يؤدي لفساد النتائج، وقد وُصف فعل بعضهم بـ 'لي أعناق النصوص'.",
+        "choices": [
+            { "choice_text": "لأنه يحتاج مهارة كبيرة", "is_correct": false },
+            { "choice_text": "لأنه يؤدي لنتائج فاسدة تخالف الحق", "is_correct": true },
+            { "choice_text": "لأن المذاهب لا تحتاج لنصوص", "is_correct": false },
+            { "choice_text": "لأنه مسموح فقط للمتقدمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال ابن حجر عن 'مرجحات المحدثين' في النزهة؟",
+        "difficulty_score": 450,
+        "explanation": "ذكر ترتيباً إجمالياً (البخاري ثم مسلم...)، لكن المؤلف يرى أن التطبيق الدقيق يختلف.",
+        "choices": [
+            { "choice_text": "أنه ترتيب قطعي لا يتغير", "is_correct": false },
+            { "choice_text": "كلام إجمالي يختلف عند التطبيق", "is_correct": true },
+            { "choice_text": "أنه ترتيب خاطئ", "is_correct": false },
+            { "choice_text": "أنه مخصص للمتأخرين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من معرفة 'اختصار الرواة للحديث'؟",
+        "difficulty_score": 850,
+        "explanation": "تساعد في كشف العلل، حيث قد يُسقط الراوي قطعة تغير المعنى أو توهم التعارض.",
+        "choices": [
+            { "choice_text": "تسهيل الحفظ فقط", "is_correct": false },
+            { "choice_text": "كشف العلل وتغير المعنى الناتج عن السقط", "is_correct": true },
+            { "choice_text": "لا فائدة منها", "is_correct": false },
+            { "choice_text": "إطالة الإسناد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا اشتهر 'ابن رجب' في الجمع بين الفنون؟",
+        "difficulty_score": 550,
+        "explanation": "جمع بين الفقه والحديث ببراعة، وهو ما يظهر في كتابه 'القواعد' و 'فتح الباري'.",
+        "choices": [
+            { "choice_text": "جمع بين الحديث والطب", "is_correct": false },
+            { "choice_text": "جمع بين الفقه والحديث بتميز", "is_correct": true },
+            { "choice_text": "جمع بين النحو والحديث", "is_correct": false },
+            { "choice_text": "كان محدثاً فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف الإمام أحمد من الصلاة خلف من 'لا يرى الوضوء من مس الذكر'؟",
+        "difficulty_score": 700,
+        "explanation": "يصلي خلفه لأن المسألة فيها اختلاف سائغ، بخلاف المسائل المجمع عليها كغسل الجنابة.",
+        "choices": [
+            { "choice_text": "لا يصلي خلفه أبداً", "is_correct": false },
+            { "choice_text": "يصلي خلفه لأن الخلاف فيها سائغ", "is_correct": true },
+            { "choice_text": "يوجب عليه إعادة الصلاة", "is_correct": false },
+            { "choice_text": "لم يُروَ عنه شيء في ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التكلف والتعسف' في الجمع بين الحديثين؟",
+        "difficulty_score": 750,
+        "explanation": "افتراض أمور غير معتادة أو بعيدة لمحاولة التوفيق بين النصوص نصرة للمذهب.",
+        "choices": [
+            { "choice_text": "هو الجمع المبني على الدليل", "is_correct": false },
+            { "choice_text": "افتراض أمور بعيدة ليوافق الحديث المذهب", "is_correct": true },
+            { "choice_text": "هو مذهب البخاري في الجمع", "is_correct": false },
+            { "choice_text": "هو التأويل السائغ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أبو ثور في مسألة استغربها الإمام أحمد؟",
+        "difficulty_score": 300,
+        "explanation": "قال أحمد: 'أبو ثور في هذه المسألة كاسمه'، تعبيراً عن استغرابه من قوله.",
+        "choices": [
+            { "choice_text": "وافق أبا ثور", "is_correct": false },
+            { "choice_text": "أبو ثور في هذه المسألة كاسمه", "is_correct": true },
+            { "choice_text": "أبو ثور أعلم الناس", "is_correct": false },
+            { "choice_text": "سكت أحمد ولم يعلق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يرى المؤلف أن 'خرب الآحاد' يوجب العمل ولا يلزم منه العلم اليقيني؟",
+        "difficulty_score": 650,
+        "explanation": "لموافقته منصوص الإمام أحمد، ولأن اليقين لا يستقيم مع وجود التفاوت النسبي في التصحيح.",
+        "choices": [
+            { "choice_text": "لأنه ضعيف دائماً", "is_correct": false },
+            { "choice_text": "لموافقة منصوص أحمد ولطبيعة التصحيح النسبي", "is_correct": true },
+            { "choice_text": "لأنه لا يفيد شيئاً", "is_correct": false },
+            { "choice_text": "لأنه خاص بالمعاملات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المعترك' في باب الشفعة حسب النص؟",
+        "difficulty_score": 900,
+        "explanation": "هو تحرير لفظ الحديث (هل الزيادة من كلام النبي أم مدرجة؟) ليبنى عليها الحكم الفقهي.",
+        "choices": [
+            { "choice_text": "تحديد قيمة المبيع", "is_correct": false },
+            { "choice_text": "تحرير لفظ النص ومدى إدراجه", "is_correct": true },
+            { "choice_text": "معرفة مكان الأرض", "is_correct": false },
+            { "choice_text": "الاتفاق على عدالة الرواة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المؤلف 'إغراق الحنفية في التأويل'؟",
+        "difficulty_score": 400,
+        "explanation": "وصفه بأنه 'مرفوض' ومذموم عند أهل الحديث، كجمود الظاهرية.",
+        "choices": [
+            { "choice_text": "أنه قمة الفقه", "is_correct": false },
+            { "choice_text": "أنه مرفوض ومذموم", "is_correct": true },
+            { "choice_text": "أنه ضروري لفهم النصوص", "is_correct": false },
+            { "choice_text": "أنه منهج أحمد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'النظر الشمولي' في العلل علماً دقيقاً؟",
+        "difficulty_score": 800,
+        "explanation": "لأنه يجمع كل ما في الباب من روايات، وآثار، وقرائن محتفة لترجيح إحداها.",
+        "choices": [
+            { "choice_text": "لأنه يحتاج مجهراً", "is_correct": false },
+            { "choice_text": "لأنه يجمع كل الروايات والقرائن للترجيح", "is_correct": true },
+            { "choice_text": "لأنه يعتمد على الحفظ الآلي", "is_correct": false },
+            { "choice_text": "لأنه خاص بالأحاديث الطويلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'قرصة الأذن' التي وجهها أحمد لأبي ثور؟",
+        "difficulty_score": 550,
+        "explanation": "مقولته عنه لبيان استغرابه من ابتعاده عن منهج أهل الحديث في مسألة معينة.",
+        "choices": [
+            { "choice_text": "ضربه بيده", "is_correct": false },
+            { "choice_text": "مقولة نقدية استغراباً لقوله", "is_correct": true },
+            { "choice_text": "منعه من التدريس", "is_correct": false },
+            { "choice_text": "طرده من الحلقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'القرائن المحتفة' في تقديم حديث على آخر؟",
+        "difficulty_score": 700,
+        "explanation": "تستخدم لتقوية أحد الحديثين، كالشهرة، أو موافقة الأصول العامة، أو عمل الجمهور.",
+        "choices": [
+            { "choice_text": "لا قيمة لها في الترجيح", "is_correct": false },
+            { "choice_text": "تستخدم لتقوية الحديث وموافقة الأصول", "is_correct": true },
+            { "choice_text": "تغني عن صحة الإسناد", "is_correct": false },
+            { "choice_text": "تستخدم فقط في الضعيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المؤلف بـ 'لبوس الاجتهاد' في العصر الحالي؟",
+        "difficulty_score": 500,
+        "explanation": "ادعاء القدرة على الترجيح والاجتهاد دون امتلاك الأدوات العلمية الكافية.",
+        "choices": [
+            { "choice_text": "لبس ملابس العلماء", "is_correct": false },
+            { "choice_text": "ادعاء الاجتهاد دون امتلاك آلاته", "is_correct": true },
+            { "choice_text": "كتابة بحوث فقهية", "is_correct": false },
+            { "choice_text": "العمل بالحديث الصحيح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يُنكر الإمام أحمد في 'مسائل الاختلاف السائغ'؟",
+        "difficulty_score": 450,
+        "explanation": "لأنها مسائل لم يجمع عليها، والأحاديث فيها قابلة للنقاش وليست في أعلى درجات الصحة.",
+        "choices": [
+            { "choice_text": "لأنه لا يحب المشاكل", "is_correct": false },
+            { "choice_text": "لأنها مسائل قابلة للنظر ولم يقع إجماع عليها", "is_correct": true },
+            { "choice_text": "لأنه يرى أن كل الأقوال صحيحة", "is_correct": false },
+            { "choice_text": "لعدم وجود نصوص فيها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المعياران الرئيسيان' للمقارنة بين متنين متعارضين؟",
+        "difficulty_score": 850,
+        "explanation": "ذكر المؤلف أن المعيارين هما 'الصحة' و 'قوة الدلالة'.",
+        "choices": [
+            { "choice_text": "طول الإسناد وكثرة الرواة", "is_correct": false },
+            { "choice_text": "الصحة وقوة الدلالة", "is_correct": true },
+            { "choice_text": "العقل والإجماع", "is_correct": false },
+            { "choice_text": "موافقة المذهب والقياس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال ابن حجر في النزهة عن تقديم ما في الصحيحين؟",
+        "difficulty_score": 400,
+        "explanation": "أنه من مرجحات المحدثين أن يُقدم ما اتفق عليه البخاري ومسلم.",
+        "choices": [
+            { "choice_text": "أنه خطأ", "is_correct": false },
+            { "choice_text": "أنه من المرجحات الإجمالية المذكورة", "is_correct": true },
+            { "choice_text": "أنه لا يُعمل به", "is_correct": false },
+            { "choice_text": "أنه خاص بالعبادات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبه المؤلف نقد الحديث عند الجهابذة؟",
+        "difficulty_score": 750,
+        "explanation": "شبهه بـ 'الذوق' و 'الحس'، حيث يدركون العلة كما يدرك الصيرفي الزيف في المعدن.",
+        "choices": [
+            { "choice_text": "بالعملية الحسابية", "is_correct": false },
+            { "choice_text": "بالذوق والحس العلمي الرفيع", "is_correct": true },
+            { "choice_text": "بالقراءة الآلية", "is_correct": false },
+            { "choice_text": "بالهوى المجرد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق الجوهري بين السابقين والمتأخرين في نقد المتون؟",
+        "difficulty_score": 800,
+        "explanation": "السابقون يستوعبون كل الآثار والقرائن في أذهانهم، بينما المتأخرون قد يختزلونها في جزئيات.",
+        "choices": [
+            { "choice_text": "لا يوجد فرق", "is_correct": false },
+            { "choice_text": "الاستيعاب الشمولي للآثار عند السابقين", "is_correct": true },
+            { "choice_text": "المتأخرون أحفظ للأسانيد", "is_correct": false },
+            { "choice_text": "السابقون اعتمدوا على العقل أكثر", "is_correct": false }
+        ]
+    }]
+    }

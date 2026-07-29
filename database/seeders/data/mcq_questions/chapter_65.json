@@ -1,0 +1,645 @@
+    {
+    "chapter_id": 65,
+    "questions": [
+        {
+        "question_text": "ما السورة القرآنية التي نزلت كاملة في شأن صلح الحديبية ووصفته بالفتح؟",
+        "difficulty_score": 100,
+        "explanation": "ذكرت المصادر أن الله أنزل سورة كاملة تسمى 'سورة الفتح' بيانًا لفضل هذا الحدث [8].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة الفتح", "is_correct": true },
+            { "choice_text": "سورة النصر", "is_correct": false },
+            { "choice_text": "سورة الأنفال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي صلى الله عليه وسلم الصحابة الذين حضروا الحديبية في حديثه بصحيح مسلم؟",
+        "difficulty_score": 200,
+        "explanation": "ثبت في صحيح مسلم قول النبي صلى الله عليه وسلم لهم: 'أنتم خير أهل الأرض' [2].",
+        "choices": [
+            { "choice_text": "أنتم أنصار الله", "is_correct": false },
+            { "choice_text": "أنتم جند الله المخلصون", "is_correct": false },
+            { "choice_text": "أنتم خير أهل الأرض", "is_correct": true },
+            { "choice_text": "أنتم السابقون الأولون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار الذي يعتمد عليه الإسلام في تسمية القضايا والأوصاف كما ظهر في صلح الحديبية؟",
+        "difficulty_score": 500,
+        "explanation": "أوضحت المصادر أن التسميات في الإسلام تُعطى بمعيار 'المآل' (ما سينتج عنها مستقبلاً) وليس بمعيار 'الحال' فقط [7].",
+        "choices": [
+            { "choice_text": "معيار القوة المادية", "is_correct": false },
+            { "choice_text": "معيار المآل", "is_correct": true },
+            { "choice_text": "معيار الربح الفوري", "is_correct": false },
+            { "choice_text": "معيار الكثرة العددية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان الفارق العددي في جيش المسلمين بين الحديبية وفتح مكة الذي حدث بعد سنتين؟",
+        "difficulty_score": 400,
+        "explanation": "انتقل العدد من 1400 في الحديبية إلى 10,000 في فتح مكة خلال سنتين فقط [1].",
+        "choices": [
+            { "choice_text": "من 1000 إلى 5000", "is_correct": false },
+            { "choice_text": "من 1400 إلى 10,000", "is_correct": true },
+            { "choice_text": "من 313 إلى 3000", "is_correct": false },
+            { "choice_text": "من 1500 إلى 20,000", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أرسله النبي صلى الله عليه وسلم لقتل 'سلام بن أبي الحقيق'؟",
+        "difficulty_score": 600,
+        "explanation": "أرسل النبي صلى الله عليه وسلم عبد الله بن أبي رافع مع مجموعة من الأنصار لقتله في حصنه بخيبر [9].",
+        "choices": [
+            { "choice_text": "عبد الله بن أبي رافع", "is_correct": true },
+            { "choice_text": "سلمة بن الأكوع", "is_correct": false },
+            { "choice_text": "أبو قتادة الأنصاري", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما السبب الذي جعل الله يغفر لأهل بدر 'ما عملوا وما سيعملون' حسب المصادر؟",
+        "explanation": "لأن يوم بدر كان يوم الفرقان الذي قطعت فيه دابر الكافرين وعلت فيه كلمة المسلمين لأول مرة بصدق وثبات [10].",
+        "difficulty_score": 400,
+        "choices": [
+            { "choice_text": "لكثرة صلاتهم وصيامهم", "is_correct": false },
+            { "choice_text": "لصدق مواقفهم في نصرة الدين يوم الفرقان", "is_correct": true },
+            { "choice_text": "لأنهم كانوا من قريش فقط", "is_correct": false },
+            { "choice_text": "لأنهم هاجروا مرتين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة التربوية المستخلصة من عدم دخول أحد ممن بايع تحت الشجرة النار؟",
+        "difficulty_score": 700,
+        "explanation": "الجزاء من جنس العمل؛ فالموقف العظيم الذي قاموا به لله في وقت الشدة والقلة حفظه الله لهم وغفر لهم به [4، 5].",
+        "choices": [
+            { "choice_text": "أن البيعة تسقط التكاليف", "is_correct": false },
+            { "choice_text": "أهمية الصبر والثبات والصدق مع الله في المواقف الحرجة", "is_correct": true },
+            { "choice_text": "أن الشجر له قدسية خاصة", "is_correct": false },
+            { "choice_text": "أن دخول الجنة يكون بالعدد والكثرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا رد النبي صلى الله عليه وسلم على عمر بن الخطاب حين تساءل مستنكراً: 'أوَفتحٌ هو؟'؟",
+        "difficulty_score": 300,
+        "explanation": "أكد النبي صلى الله عليه وسلم لعمر رضي الله عنه أن هذا الصلح هو الفتح الحقيقي رغم مظاهره [7، 8].",
+        "choices": [
+            { "choice_text": "نعم، هو فتح عظيم", "is_correct": false },
+            { "choice_text": "نعم، هو الفتح", "is_correct": true },
+            { "choice_text": "سيكون فتحاً مستقبلاً", "is_correct": false },
+            { "choice_text": "اصبر يا عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر العلماء فتح خيبر ثواباً لمن حضر الحديبية؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الآية {وأثابهم فتحاً قريباً} جاءت مباشرة بعد ذكر الرضا عن أهل الشجرة، فكانت خيبر هي هذا الفتح القريب الموعود [12، 13].",
+        "choices": [
+            { "choice_text": "لأن خيبر كانت قريبة جغرافياً من الحديبية", "is_correct": false },
+            { "choice_text": "لأنهم هم من فتحوها وحدهم دون غيرهم", "is_correct": false },
+            { "choice_text": "لأنها كانت منحة إلهية لصدق قلوبهم في البيعة", "is_correct": true },
+            { "choice_text": "لأن قريشاً كانت حليفة لخيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'تاجر أهل الحجاز' الذي أعلنت ناعيته في الفجر بعد مقتل ابن أبي الحقيق؟",
+        "difficulty_score": 500,
+        "explanation": "نادى المنادي بموت سلام بن أبي الحقيق ووصفه بتاجر أهل الحجاز [6].",
+        "choices": [
+            { "choice_text": "أبو سفيان بن حرب", "is_correct": false },
+            { "choice_text": "سلام بن أبي الحقيق", "is_correct": true },
+            { "choice_text": "حُيي بن أخطب", "is_correct": false },
+            { "choice_text": "كعب بن الأشرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما اسم الغزوة التي وقعت بين الحديبية وخيبر واسترد فيها المسلمون إبل النبي؟",
+        "difficulty_score": 300,
+        "explanation": "تسمى غزوة 'ذي قرد' أو غزوة 'الغابة' [11].",
+        "choices": [
+            { "choice_text": "غزوة خيبر", "is_correct": false },
+            { "choice_text": "غزوة ذي قرد", "is_correct": true },
+            { "choice_text": "غزوة الأحزاب", "is_correct": false },
+            { "choice_text": "غزوة تبوك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة سلمة بن الأكوع، من هو الذي أغار على إبل النبي وقتل راعيه؟",
+        "difficulty_score": 600,
+        "explanation": "ذكرت المصادر أن المغير هو عبد الرحمن الفزاري [21، 22].",
+        "choices": [
+            { "choice_text": "عُيينة بن حصن", "is_correct": false },
+            { "choice_text": "عبد الرحمن الفزاري", "is_correct": true },
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي صيغة الإنذار التي نادى بها سلمة بن الأكوع من فوق الأكمة لتنبيه المدينة؟",
+        "difficulty_score": 200,
+        "explanation": "نادى سلمة ثلاثاً بصوته العالي: 'يا صباحاه!' وهي صيغة إنذار الحرب [12].",
+        "choices": [
+            { "choice_text": "حي على الجهاد", "is_correct": false },
+            { "choice_text": "يا خيل الله اركبي", "is_correct": false },
+            { "choice_text": "يا صباحاه", "is_correct": true },
+            { "choice_text": "الله أكبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "حلل سبب ضحك النبي صلى الله عليه وسلم حين أراد سلمة مطاردة المشركين بمئة رجل.",
+        "difficulty_score": 900,
+        "explanation": "ضحك النبي صلى الله عليه وسلم من شدة حماسة سلمة، ومعرفته صلى الله عليه وسلم أن المشركين قد وصلوا لعمق ديار غطفان وهم الآن 'يُقرون' (يُضيفون) هناك، مما يجعل المطاردة بلا جدوى [5].",
+        "choices": [
+            { "choice_text": "لأنه لم يكن يثق بقدرة سلمة", "is_correct": false },
+            { "choice_text": "لأن سلمة لم يكن يملك المئة رجل", "is_correct": false },
+            { "choice_text": "إعجاباً بحماسته مع علم النبي بوصولهم لديارهم وأمنهم", "is_correct": true },
+            { "choice_text": "لأن النبي أراد العودة للمدينة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يقول سلمة بن الأكوع أثناء رميه للأعداء بالنبل؟",
+        "difficulty_score": 400,
+        "explanation": "كان يرتجز ويقول: 'أنا ابن الأكوع، واليوم يوم الرضع' [12].",
+        "choices": [
+            { "choice_text": "الله أكبر ولله الحمد", "is_correct": false },
+            { "choice_text": "أنا ابن الأكوع واليوم يوم الرضع", "is_correct": true },
+            { "choice_text": "خيبر خيبر يا يهود", "is_correct": false },
+            { "choice_text": "لبيك يا رسول الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف استطاع سلمة بن الأكوع إعاقة خيل المشركين وهو يمشي على قدميه؟",
+        "difficulty_score": 700,
+        "explanation": "كان يسبق الخيل ويختبئ خلف الأشجار ويرميها، فإذا تضايق الجبل علا فوقه ورماهم بالحجارة [24، 25].",
+        "choices": [
+            { "choice_text": "بوضع الفخاخ في الطريق", "is_correct": false },
+            { "choice_text": "باستخدام تكتيك الرماية من الجبال والأشجار", "is_correct": true },
+            { "choice_text": "بمساعدة مجموعة من الأنصار", "is_correct": false },
+            { "choice_text": "بالهجوم المباشر بالسيف", "is_correct": false }
+        ]
+    },
+    { "question_text": "بماذا وصف النبي صلى الله عليه وسلم سلمة بن الأكوع بعد المعركة؟", "difficulty_score": 100, "explanation": "قال النبي صلى الله عليه وسلم: 'خير رجالتنا سلمة' [13].", "choices": [ { "choice_text": "سيف الله المسلول", "is_correct": false }, { "choice_text": "أمين هذه الأمة", "is_correct": false }, { "choice_text": "خير رجالتنا سلمة", "is_correct": true }, { "choice_text": "فارس الإسلام", "is_correct": false } ] },
+    { "question_text": "ماذا أعطى النبي صلى الله عليه وسلم لسلمة بن الأكوع من الغنيمة؟", "difficulty_score": 500, "explanation": "أعطاه سهمين: سهم الراجل وسهم الفارس، تقديراً لجهده الذي عادل جهد فرقة كاملة [13].", "choices": [ { "choice_text": "سهم الفارس فقط", "is_correct": false }, { "choice_text": "سهماً واحداً", "is_correct": false }, { "choice_text": "سهمين (الراجل والفارس)", "is_correct": true }, { "choice_text": "سيفاً وناقة", "is_correct": false } ] },
+    { "question_text": "من هو 'خير فرساننا' الذي سماه النبي صلى الله عليه وسلم في غزوة ذي قرد؟", "difficulty_score": 400, "explanation": "وصف النبي صلى الله عليه وسلم أبا قتادة بأنه خير الفرسان في ذلك اليوم [13].", "choices": [ { "choice_text": "المقداد بن الأسود", "is_correct": false }, { "choice_text": "أبو قتادة", "is_correct": true }, { "choice_text": "عمر بن الخطاب", "is_correct": false }, { "choice_text": "علي بن أبي طالب", "is_correct": false } ] },
+    { "question_text": "في أي سنة تقريباً كانت المسافة الزمنية بين الحديبية وفتح مكة؟", "difficulty_score": 300, "explanation": "كانت المدة سنتين فقط، وهي فترة الهدنة التي استثمرها المسلمون في الدعوة [1].", "choices": [ { "choice_text": "خمس سنوات", "is_correct": false }, { "choice_text": "سنتان", "is_correct": true }, { "choice_text": "عشر سنوات", "is_correct": false }, { "choice_text": "سنة واحدة", "is_correct": false } ] },
+    { "question_text": "ماذا فعل المشركون عندما استيقظوا ورأوا غبار جيش المسلمين قادماً؟", "difficulty_score": 400, "explanation": "خرجوا هاربين من شدة الخوف الذي ألقاه الله في قلوبهم [5].", "choices": [ { "choice_text": "ثبتوا للقتال", "is_correct": false }, { "choice_text": "طلبوا الصلح", "is_correct": false }, { "choice_text": "خرجوا هاربين", "is_correct": true }, { "choice_text": "استسلموا جميعاً", "is_correct": false } ] },
+    { "question_text": "كيف كرم النبي صلى الله عليه وسلم سلمة بن الأكوع في طريق العودة للمدينة؟", "difficulty_score": 300, "explanation": "أردفه خلفه على ناقته العضباء، وهو تشريف عظيم [13].", "choices": [ { "choice_text": "جعله يقود الجيش", "is_correct": false }, { "choice_text": "أردفه خلفه على العضباء", "is_correct": true }, { "choice_text": "أعطاه راية النصر", "is_correct": false }, { "choice_text": "وهبه أرضاً في المدينة", "is_correct": false } ] },
+    { "question_text": "ما الذي قاله الرجل الأنصاري وهو يتحدى المسلمين في الجري؟", "difficulty_score": 200, "explanation": "كان يقول مراراً: 'ألا مسابق إلى المدينة؟ هل من مسابق؟' [14].", "choices": [ { "choice_text": "أنا أسرعكم قاطبة", "is_correct": false }, { "choice_text": "ألا مسابق إلى المدينة؟", "is_correct": true }, { "choice_text": "لا يسبقني أحد اليوم", "is_correct": false }, { "choice_text": "من يسبقني فله غنيمتي", "is_correct": false } ] },
+    { "question_text": "بماذا استأذن سلمة بن الأكوع النبي صلى الله عليه وسلم لمسابقة الأنصاري؟", "difficulty_score": 600, "explanation": "قال: 'يا رسول الله، بأبي وأمي، ذرني فلأُسابق الرجل' [14].", "choices": [ { "choice_text": "دعني أريه قوتي", "is_correct": false }, { "choice_text": "ذرني فلأسابق الرجل", "is_correct": true }, { "choice_text": "اسمح لي بالعدو خلفه", "is_correct": false }, { "choice_text": "دعني آخذ حقي منه", "is_correct": false } ] },
+    { "question_text": "ما هي نتيجة السباق بين سلمة بن الأكوع والرجل الأنصاري؟", "difficulty_score": 200, "explanation": "سبقه سلمة بن الأكوع حتى وصل المدينة قبله [15].", "choices": [ { "choice_text": "تعادلا في السباق", "is_correct": false }, { "choice_text": "سبقه سلمة بن الأكوع", "is_correct": true }, { "choice_text": "سبقه الرجل الأنصاري", "is_correct": false }, { "choice_text": "توقف السباق بسبب التعب", "is_correct": false } ] },
+    { "question_text": "كم كانت المدة التي مكثها المسلمون في المدينة بعد غزوة ذي قرد وقبل الخروج لخيبر؟", "difficulty_score": 500, "explanation": "مكثوا ثلاث ليالٍ فقط، مما يدل على تلاحم الأحداث وبركة الوقت [37، 38].", "choices": [ { "choice_text": "شهر كامل", "is_correct": false }, { "choice_text": "ثلاث ليالٍ", "is_correct": true }, { "choice_text": "أسبوعان", "is_correct": false }, { "choice_text": "ليلة واحدة", "is_correct": false } ] },
+    { "question_text": "من هو 'عامر' الذي دعا له النبي صلى الله عليه وسلم بالمغفرة في طريق خيبر؟", "difficulty_score": 600, "explanation": "هو عامر بن الأكوع، عم سلمة بن الأكوع، الذي كان يرتجز بالقوم [16].", "choices": [ { "choice_text": "عامر بن الفهيرة", "is_correct": false }, { "choice_text": "عامر بن الأكوع", "is_correct": true }, { "choice_text": "عامر بن ياسر", "is_correct": false }, { "choice_text": "عامر بن ربيعة", "is_correct": false } ] },
+    { "question_text": "ماذا قال عمر بن الخطاب عندما سمع النبي يدعو لعامر بالمغفرة؟", "difficulty_score": 700, "explanation": "قال: 'لولا ما متعتنا بعامر'، لأنه علم أن النبي لا يخص أحداً بالمغفرة في هذا الموقف إلا استشهد [17].", "choices": [ { "choice_text": "آمين يا رب", "is_correct": false }, { "choice_text": "لولا ما متعتنا بعامر", "is_correct": true }, { "choice_text": "ادعُ لنا معه", "is_correct": false }, { "choice_text": "استزد له من الدعاء", "is_correct": false } ] },
+    { "question_text": "حلل سبب تسمية السيرة بـ 'المغازي' عند بعض العلماء رغم شموليتها.", "difficulty_score": 800, "explanation": "لأن الجهاد والمغازي كانت تستغرق وقتاً طويلاً وجهداً كبيراً، ولكن السيرة في الحقيقة تشمل التعليم والدعوة والأحكام أيضاً [39، 40].", "choices": [ { "choice_text": "لأن النبي لم يفعل غير الحرب", "is_correct": false }, { "choice_text": "تغليباً للجانب الجهادي لكثرة أحداثه", "is_correct": true }, { "choice_text": "لأنها كانت تهدف لإرهاب العدو فقط", "is_correct": false }, { "choice_text": "لأن هذا هو الاسم الذي ورد في القرآن", "is_correct": false } ] },
+    { "question_text": "ما هو الدرس المستفاد من كثرة زوجات النبي صلى الله عليه وسلم في سنوات الجهاد؟", "difficulty_score": 900, "explanation": "يُظهر ذلك أن حياته صلى الله عليه وسلم كانت مليئة بالعمل والمسؤوليات المتعددة في وقت واحد، ولم يكن هناك انفصال بين حياته الشخصية وواجبات الدعوة والجهاد [18].", "choices": [ { "choice_text": "أنه كان متفرغاً لحياته الخاصة", "is_correct": false }, { "choice_text": "بركة الوقت والقدرة على الجمع بين مهام عظيمة", "is_correct": true }, { "choice_text": "أن الزواج كان عائقاً عن الجهاد", "is_correct": false }, { "choice_text": "أنه لم يكن يخرج للغزوات كثيراً", "is_correct": false } ] },
+    { "question_text": "أي قبيلة من القبائل التالية أسلم أفرادها مبكراً وكانوا مصدر أمان للمدينة؟", "difficulty_score": 400, "explanation": "ذكرت المصادر قبيلتي 'أسلم' و'غفار' [19].", "choices": [ { "choice_text": "قريش", "is_correct": false }, { "choice_text": "غطفان", "is_correct": false }, { "choice_text": "أسلم وغفار", "is_correct": true }, { "choice_text": "هوازن", "is_correct": false } ] },
+    { "question_text": "لماذا كان الصحابة يحرصون على عد المهاجرين والأنصار في كل غزوة؟", "difficulty_score": 600, "explanation": "لدقة التوثيق التاريخي ومعرفة أهل الفضل والمبادرة [17، 18].", "choices": [ { "choice_text": "للمفاخرة بالأعداد", "is_correct": false }, { "choice_text": "لمعرفة ترتيب أهل الفضل والمكانة", "is_correct": true }, { "choice_text": "لتقسيم الطعام فقط", "is_correct": false }, { "choice_text": "خوفاً من المنافقين", "is_correct": false } ] },
+    { "question_text": "ما العبارة التي قالها النبي صلى الله عليه وسلم بعد فتح مكة بخصوص الهجرة؟", "difficulty_score": 200, "explanation": "قال صلى الله عليه وسلم: 'لا هجرة بعد الفتح' [20].", "choices": [ { "choice_text": "هاجروا إلى الحبشة", "is_correct": false }, { "choice_text": "لا هجرة بعد الفتح", "is_correct": true }, { "choice_text": "الهجرة واجبة للأبد", "is_correct": false }, { "choice_text": "الفتح هو الهجرة الكبرى", "is_correct": false } ] },
+    { "question_text": "ماذا فعل سلمة بن الأكوع عندما تضايق الجبل بالأعداء؟", "difficulty_score": 400, "explanation": "علا فوق الجبل وجعل يرميهم بالحجارة [21].", "choices": [ { "choice_text": "نزل إليهم بالسيف", "is_correct": false }, { "choice_text": "رماهم بالحجارة من فوق الجبل", "is_correct": true }, { "choice_text": "انتظر قدوم الجيش", "is_correct": false }, { "choice_text": "طلب منهم الاستسلام", "is_correct": false } ] },
+    { "question_text": "كم عدد البرد والرامات التي تركها المشركون وراءهم بسبب مطاردة سلمة؟", "difficulty_score": 700, "explanation": "تركوا أكثر من ثلاثين بردة وثلاثين رمحاً ليتخففوا من الثقل ويهربوا [22].", "choices": [ { "choice_text": "عشر برد", "is_correct": false }, { "choice_text": "أكثر من ثلاثين بردة ورمحاً", "is_correct": true }, { "choice_text": "مئة بردة", "is_correct": false }, { "choice_text": "لم يتركوا شيئاً", "is_correct": false } ] },
+    { "question_text": "لماذا كان سلمة يضع 'آراماً' (علامات) من الحجارة على ما يتركه العدو؟", "difficulty_score": 800, "explanation": "ليعرفها رسول الله صلى الله عليه وسلم وأصحابه عند قدومهم ويستردوها [22].", "choices": [ { "choice_text": "ليخيف بها العدو", "is_correct": false }, { "choice_text": "علامات ليهتدي بها الجيش للمسروقات", "is_correct": true }, { "choice_text": "ليتذكر مكان هروبهم", "is_correct": false }, { "choice_text": "كانت نوعاً من العبادة", "is_correct": false } ] },
+    { "question_text": "من هو الفارس الذي استشهد في مواجهة عبد الرحمن الفزاري؟", "difficulty_score": 600, "explanation": "هو الأخرم الأسدي رضي الله عنه [29، 30].", "choices": [ { "choice_text": "أبو قتادة", "is_correct": false }, { "choice_text": "الأخرم الأسدي", "is_correct": true }, { "choice_text": "المقداد بن الأسود", "is_correct": false }, { "choice_text": "عامر بن الأكوع", "is_correct": false } ] },
+    { "question_text": "ماذا فعل أبو قتادة عندما رأى استشهاد الأخرم؟", "difficulty_score": 500, "explanation": "لحق بعبد الرحمن الفزاري وطعنه فقتله [11].", "choices": [ { "choice_text": "انسحب للجيش", "is_correct": false }, { "choice_text": "لحق بعبد الرحمن الفزاري وقتله", "is_correct": true }, { "choice_text": "بكى على الأخرم ولم يقاتل", "is_correct": false }, { "choice_text": "أسر عبد الرحمن الفزاري", "is_correct": false } ] },
+    { "question_text": "ما اسم الماء الذي أراد المشركون الشرب منه ومنعهم سلمة؟", "difficulty_score": 600, "explanation": "ماء يسمى 'ذو قرد' [11].", "choices": [ { "choice_text": "بئر معونة", "is_correct": false }, { "choice_text": "ذو قرد", "is_correct": true }, { "choice_text": "عين خيبر", "is_correct": false }, { "choice_text": "بئر بدر", "is_correct": false } ] },
+    { "question_text": "حلل أهمية التكريم 'المعنوي' الذي قام به النبي لسلمة بقوله: 'خير رجالتنا سلمة'.", "difficulty_score": 800, "explanation": "هذا التكريم يرفع الروح المعنوية، ويقدر الجهود الفردية العظيمة، ويبني ثقة الجندي بنفسه أمام المجتمع [13].", "choices": [ { "choice_text": "لأنه لم يكن يملك مالاً ليعطيه", "is_correct": false }, { "choice_text": "لتقدير الجهود المبذولة وحث الآخرين على الاقتداء", "is_correct": true }, { "choice_text": "لأن سلمة طلب منه ذلك", "is_correct": false }, { "choice_text": "لأنه كان قريبه في النسب", "is_correct": false } ] }
+, {
+        "question_text": "لماذا حرصت قبيلة الخزرج على قتل 'سلام بن أبي الحقيق' تحديداً؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه كان من سادات اليهود الذين حرضوا الأحزاب ضد المدينة، ولأن الأوس قتلوا قبله كعب بن الأشرف، فأرادت الخزرج مساواتهم في الفضل [13، 14].",
+        "choices": [
+            { "choice_text": "لأنه سرق إبل النبي", "is_correct": false },
+            { "choice_text": "رغبة في مساواة الأوس في الفضل والمبادرة", "is_correct": true },
+            { "choice_text": "لأنه كان يقود جيش خيبر", "is_correct": false },
+            { "choice_text": "بسبب نزاع على التجارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف استطاع عبد الله بن أبي رافع الدخول إلى حصن ابن أبي الحقيق؟",
+        "difficulty_score": 600,
+        "explanation": "استخدم حيلة ذكية حيث انتظر قرب الباب وتسلل للداخل لحظة إغلاق الأبواب في المساء [1].",
+        "choices": [
+            { "choice_text": "بتسلق أسوار الحصن", "is_correct": false },
+            { "choice_text": "عن طريق نفق سري", "is_correct": false },
+            { "choice_text": "بالتسلل وقت إغلاق الأبواب بحيلة", "is_correct": true },
+            { "choice_text": "بالهجوم المباشر مع الجيش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الإصابة التي تعرض لها عبد الله بن أبي رافع أثناء خروجه من الحصن؟",
+        "difficulty_score": 400,
+        "explanation": "تعثر أثناء نزوله من الدرج فظن أنه وصل للأرض فانكسرت قدمه [1].",
+        "choices": [
+            { "choice_text": "جرح في يده بالسيف", "is_correct": false },
+            { "choice_text": "كسر في قدمه بسبب التعثر", "is_correct": true },
+            { "choice_text": "إصابة بعينه من سهم", "is_correct": false },
+            { "choice_text": "لم يصب بأي أذى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم لمداواة قدم عبد الله بن أبي رافع المكسورة؟",
+        "difficulty_score": 300,
+        "explanation": "مسح النبي صلى الله عليه وسلم عليها بيده المباركة فبرأت في الحال [2].",
+        "choices": [
+            { "choice_text": "أمر بوضع جبيرة عليها", "is_correct": false },
+            { "choice_text": "مسح عليها بيده فبرأت", "is_correct": true },
+            { "choice_text": "أعطاه دواءً ليشربه", "is_correct": false },
+            { "choice_text": "طلب منه الاستراحة شهراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي منطقة كانت تعتبر 'متنزهاً' للمدينة ووقع فيها الهجوم على إبل النبي؟",
+        "difficulty_score": 500,
+        "explanation": "الهجوم وقع في منطقة 'الغابة' وهي تقع شمال المدينة [3].",
+        "choices": [
+            { "choice_text": "منطقة قباء", "is_correct": false },
+            { "choice_text": "منطقة الغابة", "is_correct": true },
+            { "choice_text": "وادي العقيق", "is_correct": false },
+            { "choice_text": "منطقة خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تكتيك سلمة بن الأكوع حينما كان الفرسان المشركون يرجعون إليه لمواجهته؟",
+        "difficulty_score": 700,
+        "explanation": "كان يجلس في أصل شجرة ويرميهم بالنبل ليعقر خيولهم، مستغلاً كونه راجلاً وهم فرسان [4].",
+        "choices": [
+            { "choice_text": "يختبئ في حفرة بالأرض", "is_correct": false },
+            { "choice_text": "يجلس في أصل شجرة ويرميهم بالنبل", "is_correct": true },
+            { "choice_text": "يهجم عليهم بالسيف مباشرة", "is_correct": false },
+            { "choice_text": "يهرب نحو المدينة طلباً للمدد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما العبارة التي قالها سلمة بن الأكوع للرجل الذي أصابه بسهم في كتفه؟",
+        "difficulty_score": 400,
+        "explanation": "قال له: 'خذها وأنا ابن الأكوع، واليوم يوم الرضع' [23، 31].",
+        "choices": [
+            { "choice_text": "الموت للكافرين", "is_correct": false },
+            { "choice_text": "خذها وأنا ابن الأكوع واليوم يوم الرضع", "is_correct": true },
+            { "choice_text": "هذا جزاء من يسرق الإبل", "is_correct": false },
+            { "choice_text": "الله أكبر نصرني الله عليك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان المشركون يلقون بـ 'البرد' و 'الرماح' خلفهم أثناء مطاردة سلمة لهم؟",
+        "difficulty_score": 600,
+        "explanation": "كانوا يلقونها 'يستخفون' أي ليتخففوا من وزنها ويسرعوا في الهرب من نبل سلمة [5].",
+        "choices": [
+            { "choice_text": "كفدية ليتركهم سلمة", "is_correct": false },
+            { "choice_text": "لتكون فخاً في طريق سلمة", "is_correct": false },
+            { "choice_text": "ليتخففوا من أحمالهم ويسرعوا بالهرب", "is_correct": true },
+            { "choice_text": "لأنها تلفت وأصبحت بلا فائدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي قال للمشركين: 'ما هذا الذي أرى؟' عندما رأى سلمة يطاردهم؟",
+        "difficulty_score": 500,
+        "explanation": "هو فلان بن بدر الفزاري الذي جاء كمدد للمشركين ورأى سلمة فوق الجبل [5].",
+        "choices": [
+            { "choice_text": "عُيينة بن حصن", "is_correct": false },
+            { "choice_text": "فلان بن بدر الفزاري", "is_correct": true },
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "الأخرم الأسدي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا تحدى سلمة بن الأكوع الرجال الأربعة الذين صعدوا إليه في الجبل؟",
+        "difficulty_score": 800,
+        "explanation": "تحداهم بقدرته على إدراك أي منهم إذا هرب، وعجز أي منهم عن إدراكه إذا هرب هو [27، 28].",
+        "choices": [
+            { "choice_text": "تحدّاهم في مصارعة اليد", "is_correct": false },
+            { "choice_text": "تحدّاهم في سرعة الجري واللحاق والنجاة", "is_correct": true },
+            { "choice_text": "تحدّاهم في الرماية من بعيد", "is_correct": false },
+            { "choice_text": "تحدّاهم في معرفة الأنساب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الثلاثة الأوائل الذين وصلوا من جيش المسلمين لنجدة سلمة؟",
+        "difficulty_score": 600,
+        "explanation": "هم الأخرم الأسدي، ثم أبو قتادة الأنصاري، ثم المقداد بن الأسود الكندي [6].",
+        "choices": [
+            { "choice_text": "عمر وعلي وعثمان", "is_correct": false },
+            { "choice_text": "الأخرم وأبو قتادة والمقداد", "is_correct": true },
+            { "choice_text": "خالد بن الوليد وعمرو بن العاص", "is_correct": false },
+            { "choice_text": "بلال وعمار وزيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الكلمة التي قالها الأخرم الأسدي لسلمة قبل أن يلقى حتفه؟",
+        "difficulty_score": 900,
+        "explanation": "ناشده بصدق إيمانه بالجنة والنار ألا يحول بينه وبين نيل الشهادة [7].",
+        "choices": [
+            { "choice_text": "أنا أحق بالقتال منك يا سلمة", "is_correct": false },
+            { "choice_text": "لا تحل بيني وبين الشهادة إن كنت تؤمن بالجنة", "is_correct": true },
+            { "choice_text": "انتظر قدوم رسول الله", "is_correct": false },
+            { "choice_text": "أعطني نبلك لأرمي القوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف منع سلمة المشركين من الشرب من ماء 'ذي قرد'؟",
+        "difficulty_score": 500,
+        "explanation": "ظل يطاردهم ويرميهم بالنبل حتى أجلاهم عن الماء ولم يذوقوا منه قطرة [8].",
+        "choices": [
+            { "choice_text": "بوضع السم في الماء", "is_correct": false },
+            { "choice_text": "بمطاردتهم بالنبل ومنعهم من الاقتراب", "is_correct": true },
+            { "choice_text": "بهدم البئر وردمه", "is_correct": false },
+            { "choice_text": "بمساعدة جيش من الملائكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى عبارة 'اليوم يوم الرضع' التي استخدمها سلمة؟",
+        "difficulty_score": 700,
+        "explanation": "يقصد بها اليوم الذي يذل فيه اللئام أو من لا حيلة لهم كالأطفال الرضع أمام الرجال [23، 31].",
+        "choices": [
+            { "choice_text": "يوم إكرام الأطفال", "is_correct": false },
+            { "choice_text": "يوم هلاك اللئام وضعفاء الشأن", "is_correct": true },
+            { "choice_text": "يوم توزيع الحليب على الجيش", "is_correct": false },
+            { "choice_text": "يوم الاحتفال بالمواليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل النبي صلى الله عليه وسلم حين وصل إليه سلمة في نهاية المعركة؟",
+        "difficulty_score": 400,
+        "explanation": "كان قد استرد الإبل، وكان بلال قد نحر ناقة ويشوي من كبدها وسنامها للنبي [9].",
+        "choices": [
+            { "choice_text": "كان يخطب في الصحابة", "is_correct": false },
+            { "choice_text": "كان يجهز للسفر إلى خيبر", "is_correct": false },
+            { "choice_text": "كان بلال يشوي له من كبد وسنام الناقة", "is_correct": true },
+            { "choice_text": "كان نائماً من التعب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ضحك النبي حتى بدت نواجذه عندما طلب سلمة مئة رجل لمطاردة القوم؟",
+        "difficulty_score": 900,
+        "explanation": "ضحك إعجاباً بيقين سلمة وقوته، مع علمه أن العدو قد وصل فعلياً لأرض غطفان وأمن هناك [10].",
+        "choices": [
+            { "choice_text": "لأنه ظن سلمة يمزح", "is_correct": false },
+            { "choice_text": "إعجاباً بقوة يقين سلمة وشجاعته", "is_correct": true },
+            { "choice_text": "لأنه رأى المشركين يستسلمون", "is_correct": false },
+            { "choice_text": "بسبب نكتة قالها بلال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخبر الذي نقله الرجل الغطفاني للمشركين عن غبار جيش المسلمين؟",
+        "difficulty_score": 600,
+        "explanation": "أخبرهم أنهم ذبحوا جزوراً (ناقة) وعندما كشفوا جلدها رأوا غبار الجيش قادماً فهربوا [10].",
+        "choices": [
+            { "choice_text": "أن الجيش عاد للمدينة", "is_correct": false },
+            { "choice_text": "أنهم رأوا غبار الجيش قادماً وهم يسلخون ناقتهم", "is_correct": true },
+            { "choice_text": "أن النبي يطلب الصلح", "is_correct": false },
+            { "choice_text": "أن هناك عاصفة رملية قادمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كرم النبي صلى الله عليه وسلم سلمة بن الأكوع في طريق العودة للمدينة؟",
+        "difficulty_score": 300,
+        "explanation": "أردفه خلفه على الناقة 'العضباء' تكريماً وتشريفاً له [11].",
+        "choices": [
+            { "choice_text": "أعطاه ذهباً كثيراً", "is_correct": false },
+            { "choice_text": "أردفه خلفه على ناقته العضباء", "is_correct": true },
+            { "choice_text": "جعله والياً على خيبر", "is_correct": false },
+            { "choice_text": "أعتقه من العبودية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان لا يسبق 'شداً' (جرياً) في المدينة؟",
+        "difficulty_score": 400,
+        "explanation": "رجل من الأنصار كان معروفاً بأنه لا يسبقه أحد في الجري [12].",
+        "choices": [
+            { "choice_text": "أبو قتادة", "is_correct": false },
+            { "choice_text": "رجل من الأنصار", "is_correct": true },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "زيد بن ثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما العبارة التي قالها سلمة للأنصاري عندما تحداه بالسباق؟",
+        "difficulty_score": 600,
+        "explanation": "قال له: 'أما تكرم كريماً، ولا تهاب شريفاً؟' مستنكراً تكرار التحدي [13].",
+        "choices": [
+            { "choice_text": "أنا أسرع منك يقيناً", "is_correct": false },
+            { "choice_text": "أما تكرم كريماً ولا تهاب شريفاً؟", "is_correct": true },
+            { "choice_text": "دعنا نتسابق أمام النبي", "is_correct": false },
+            { "choice_text": "لا طاقة لي بالسباق اليوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الاستثناء الوحيد الذي ذكره الأنصاري لمن يمكن أن يسبقه في الجري؟",
+        "difficulty_score": 700,
+        "explanation": "قال إنه لا يسبقه أحد 'إلا أن يكون رسول الله صلى الله عليه وسلم' [13].",
+        "choices": [
+            { "choice_text": "إلا سلمة بن الأكوع", "is_correct": false },
+            { "choice_text": "إلا أن يكون رسول الله", "is_correct": true },
+            { "choice_text": "إلا من كان يركب فرساً", "is_correct": false },
+            { "choice_text": "لا أحد على الإطلاق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف سلمة بن الأكوع طريقته في الجري لمسابقة الأنصاري؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر أنه كان يربط على صدره (أو شرفاً أو شرفين) ليستبقي نفسه ثم يعدو بقوة حتى لحقه [14].",
+        "choices": [
+            { "choice_text": "جرى بكل قوته من البداية", "is_correct": false },
+            { "choice_text": "استبقى نفسه (نفسه) في البداية ثم انطلق بقوة", "is_correct": true },
+            { "choice_text": "استخدم حذاءً خاصاً للجري", "is_correct": false },
+            { "choice_text": "دفع الأنصاري ليسقط ويسبقه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم مكث المسلمون في المدينة بعد العودة من ذي قرد وقبل الخروج لخيبر؟",
+        "difficulty_score": 400,
+        "explanation": "مكثوا ثلاث ليالٍ فقط [37، 38].",
+        "choices": [
+            { "choice_text": "ليلة واحدة", "is_correct": false },
+            { "choice_text": "ثلاث ليالٍ", "is_correct": true },
+            { "choice_text": "شهر كامل", "is_correct": false },
+            { "choice_text": "عشرة أيام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الأبيات التي كان عامر بن الأكوع يرتجز بها في طريق خيبر؟",
+        "difficulty_score": 500,
+        "explanation": "أبيات تقول: 'تالله لولا الله ما اهتدينا، ولا تصدقنا ولا صلينا..' [15].",
+        "choices": [
+            { "choice_text": "نحن الذين بايعوا محمداً", "is_correct": false },
+            { "choice_text": "تالله لولا الله ما اهتدينا ولا تصدقنا ولا صلينا", "is_correct": true },
+            { "choice_text": "أنا ابن الأكوع واليوم يوم الرضع", "is_correct": false },
+            { "choice_text": "لبيك اللهم لبيك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حزن عمر بن الخطاب عندما دعا النبي لعامر بالمغفرة؟",
+        "difficulty_score": 800,
+        "explanation": "لأنه عرف من عادة النبي أنه لا يخص أحداً بالدعاء بالمغفرة في هذا الموطن إلا استشهد، فتمنى لو متعوا بحياته أكثر [16].",
+        "choices": [
+            { "choice_text": "لأن عامر كان صديقه المقرب", "is_correct": false },
+            { "choice_text": "لأنه علم أن عامراً سيستشهد قريباً", "is_correct": true },
+            { "choice_text": "لأنه لم يدعُ لعمر بالمثل", "is_correct": false },
+            { "choice_text": "لأن الأبيات لم تعجب عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الملاحظة العامة التي ذكرها المحاضر عن حياة النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "أنها كانت 'حياة لا فراغات فيها'، كلها عمل متواصل وجهاد وتعليم [39، 40].",
+        "choices": [
+            { "choice_text": "أنها كانت حياة هادئة جداً", "is_correct": false },
+            { "choice_text": "أنها كانت حياة لا فراغات فيها ومليئة بالعمل", "is_correct": true },
+            { "choice_text": "أنها كانت تركز على التجارة فقط", "is_correct": false },
+            { "choice_text": "أنها كانت حياة مليئة بالعطلات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي فترة زمنية تزوج النبي صلى الله عليه وسلم أكثر زوجاته؟",
+        "difficulty_score": 700,
+        "explanation": "تزوج أكثر زوجاته في السنوات المليئة بالمغازي والقتال بين أحد والحديبية وما بعدها [17].",
+        "choices": [
+            { "choice_text": "قبل البعثة في مكة", "is_correct": false },
+            { "choice_text": "في سنوات القتال والجهاد المكثف", "is_correct": true },
+            { "choice_text": "بعد فتح مكة بالكامل", "is_correct": false },
+            { "choice_text": "في السنة الأولى من الهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "حلل سبب تسمية السيرة بـ 'المغازي' رغم أنها تشمل التعليم والأحكام.",
+        "difficulty_score": 800,
+        "explanation": "بسبب كثرة وكثافة الأحداث الجهادية التي استغرقت وقتاً طويلاً وجهداً كبيراً، فغلب عليها هذا الاسم [39، 40].",
+        "choices": [
+            { "choice_text": "لأن النبي لم يعلم الصحابة شيئاً", "is_correct": false },
+            { "choice_text": "بسبب كثافة الأحداث العسكرية وغلبتها زمنياً", "is_correct": true },
+            { "choice_text": "لأن القرآن سماها كذلك", "is_correct": false },
+            { "choice_text": "لأن الصحابة كانوا يحبون الحرب فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من 'أمن الناس واختلاطهم' بعد صلح الحديبية؟",
+        "difficulty_score": 500,
+        "explanation": "سمح ذلك للناس بسماع القرآن والتعرف على أخلاق المسلمين، مما أدى لدخولهم في الدين بأعداد غفيرة [10، 12].",
+        "choices": [
+            { "choice_text": "زيادة التجارة والربح المادي فقط", "is_correct": false },
+            { "choice_text": "تمكين الناس من سماع القرآن والدخول في الإسلام", "is_correct": true },
+            { "choice_text": "إضعاف هيبة قريش أمام العرب", "is_correct": false },
+            { "choice_text": "بناء حصون جديدة للمسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى حدثت قصة أبي سفيان مع هرقل ملك الروم؟",
+        "difficulty_score": 400,
+        "explanation": "حدثت في فترة الهدنة التي أعقبت صلح الحديبية [18].",
+        "choices": [
+            { "choice_text": "قبل الهجرة للمدينة", "is_correct": false },
+            { "choice_text": "في فترة الهدنة بعد الحديبية", "is_correct": true },
+            { "choice_text": "بعد فتح مكة مباشرة", "is_correct": false },
+            { "choice_text": "أثناء غزوة الخندق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما العبارة التي قالها أبو سفيان عن صدق النبي صلى الله عليه وسلم أمام هرقل؟",
+        "difficulty_score": 600,
+        "explanation": "قال إنه لم يجد كلمة يدخل فيها شيئاً ينقص من قدر النبي إلا قوله 'نحن منه في مدة لا ندري ما هو صانع فيها' [11، 12].",
+        "choices": [
+            { "choice_text": "إنه رجل كاذب", "is_correct": false },
+            { "choice_text": "لم أجد ثغرة أذمه بها إلا قولي 'نحن في مدة لا ندري ما صانع'", "is_correct": true },
+            { "choice_text": "إنه ساحر ومجنون", "is_correct": false },
+            { "choice_text": "إنه يريد الملك والمال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من عبارة 'والذي كرم وجه محمد' التي كررها سلمة؟",
+        "difficulty_score": 300,
+        "explanation": "تستنتج شدة محبة الصحابة للنبي صلى الله عليه وسلم وتعظيمه والقسم بما كرمه الله به [27، 30].",
+        "choices": [
+            { "choice_text": "أنها مجرد عادة كلامية", "is_correct": false },
+            { "choice_text": "تدل على عمق المحبة والتعظيم للنبي في قلوبهم", "is_correct": true },
+            { "choice_text": "أن سلمة كان يكره المشركين فقط", "is_correct": false },
+            { "choice_text": "أنها دعاء للنبي بالجمال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المحاضر أن فتح خيبر كان 'هبة إلهية'؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه جاء ثواباً عاجلاً بفتح وغنائم لمن صبر وثبت في الحديبية كما نص القرآن [12، 13].",
+        "choices": [
+            { "choice_text": "لأن المسلمين لم يقاتلوا فيها", "is_correct": false },
+            { "choice_text": "لأنها كانت ثواباً مباشراً لأهل الحديبية", "is_correct": true },
+            { "choice_text": "لأن اليهود سلموها دون حرب", "is_correct": false },
+            { "choice_text": "لأن الغنائم كانت ذهباً فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة 'البدنية' التي اشتهر بها سلمة بن الأكوع في التاريخ؟",
+        "difficulty_score": 200,
+        "explanation": "اشتهر بأنه من أسرع العدائين وأكثرهم قوة في الجري [19].",
+        "choices": [
+            { "choice_text": "قوة المصارعة", "is_correct": false },
+            { "choice_text": "السرعة الفائقة في الجري والركض", "is_correct": true },
+            { "choice_text": "القدرة على السباحة", "is_correct": false },
+            { "choice_text": "براعة ركوب الخيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد المسلمين الذين شاركوا في 'بيعة الرضوان'؟",
+        "difficulty_score": 100,
+        "explanation": "كان عددهم 1400 صحابي [9، 21].",
+        "choices": [
+            { "choice_text": "313 صحابي", "is_correct": false },
+            { "choice_text": "1400 صحابي", "is_correct": true },
+            { "choice_text": "10,000 صحابي", "is_correct": false },
+            { "choice_text": "3000 صحابي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "حلل أثر 'سورة الفتح' على معنويات المسلمين بعد العودة من الحديبية.",
+        "difficulty_score": 800,
+        "explanation": "حولت مشاعر الضيق بسبب بنود الصلح إلى يقين بالنصر والفتح والرضا الإلهي [1، 6].",
+        "choices": [
+            { "choice_text": "زادت من حزنهم لأنها لم تذكر القتال", "is_correct": false },
+            { "choice_text": "حولت ضيقهم إلى يقين بالفتح والرضا الإلهي", "is_correct": true },
+            { "choice_text": "لم يكن لها أثر يذكر", "is_correct": false },
+            { "choice_text": "أمرتهم بالعودة لمكة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الآخر لغزوة ذي قرد؟",
+        "difficulty_score": 200,
+        "explanation": "تسمى أيضاً غزوة 'الغابة' [22، 30].",
+        "choices": [
+            { "choice_text": "غزوة الخندق", "is_correct": false },
+            { "choice_text": "غزوة الغابة", "is_correct": true },
+            { "choice_text": "غزوة بني قريظة", "is_correct": false },
+            { "choice_text": "غزوة دومة الجندل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يقول سلمة عندما يدركه فارس من المشركين؟",
+        "difficulty_score": 500,
+        "explanation": "كان ينحرف إلى أصل شجرة ويقول: 'أنا ابن الأكوع، واليوم يوم الرضع' ثم يرميه [4].",
+        "choices": [
+            { "choice_text": "اركب خلفي أيها الفارس", "is_correct": false },
+            { "choice_text": "أنا ابن الأكوع واليوم يوم الرضع", "is_correct": true },
+            { "choice_text": "يا خيل الله اركبي", "is_correct": false },
+            { "choice_text": "أنا فارس الإسلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المحاضر بركة الوقت في حياة النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 600,
+        "explanation": "بأنها حياة مباركة مليئة بالأعمال المتعددة والمتداخلة دون ضياع للأوقات [40، 41].",
+        "choices": [
+            { "choice_text": "أنها كانت حياة بطيئة الأحداث", "is_correct": false },
+            { "choice_text": "أنها حياة مباركة ومنظمة لا يضيع فيها الوقت", "is_correct": true },
+            { "choice_text": "أنها كانت تعتمد على الحظ", "is_correct": false },
+            { "choice_text": "أن الوقت كان عدوه الأول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفائدة التربوية من 'ضحك النبي' في المواقف الصعبة؟",
+        "difficulty_score": 900,
+        "explanation": "يدل على طلاقة وجه القائد، وتقديره لمشاعر أتباعه، وبث الطمأنينة والإعجاب بالبطولة في نفوسهم [10].",
+        "choices": [
+            { "choice_text": "للسخرية من الأعداء فقط", "is_correct": false },
+            { "choice_text": "لبث الطمأنينة وتقدير بطولات الصحابة وتشجيعهم", "is_correct": true },
+            { "choice_text": "لأنه لم يكن يهتم بالمعركة", "is_correct": false },
+            { "choice_text": "لإظهار القوة الجسدية", "is_correct": false }
+        ]
+    }
+]
+    }

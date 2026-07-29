@@ -1,0 +1,884 @@
+{
+    "chapter_id": 18,
+    "questions": [
+    {
+        "question_text": "ما الفرق الجوهري بين 'الهم' و'الغم' كما ورد في تصنيف المصدر؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن الغم يكون عما مضى من أحداث، بينما الهم يتعلق بما يستقبله الإنسان في مستقبله.",
+        "choices": [
+            { "choice_text": "الغم للمستقبل والهم للماضي", "is_correct": false },
+            { "choice_text": "الغم للماضي والهم للمستقبل", "is_correct": true },
+            { "choice_text": "الهم خاص بالدين والغم خاص بالدنيا", "is_correct": false },
+            { "choice_text": "لا فرق بينهما في الاصطلاح الشرعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من دوائر الهم التالية اعتبرها المصدر 'الأقل تأثيراً' على الحالة النفسية للنبي ﷺ رغم عظمها؟",
+        "difficulty_score": 450,
+        "explanation": "أوضح المصدر أن حزمة 'كيد الأعداء' كانت أقل تأثيراً على النبي ﷺ مقارنة بهمه على استجابة الناس للدين.",
+        "choices": [
+            { "choice_text": "دائرة كيد الأعداء", "is_correct": true },
+            { "choice_text": "دائرة أعباء الرسالة", "is_correct": false },
+            { "choice_text": "دائرة هم الأصحاب", "is_correct": false },
+            { "choice_text": "دائرة الهم الإصلاحي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم الأصناف الذين شملتهم حزمة 'كيد الأعداء' في حياة النبي ﷺ بحسب المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر خمس حزم: المنافقون، واليهود، وقريش، وبقية الجزيرة، والروم.",
+        "choices": [
+            { "choice_text": "قريش واليهود فقط", "is_correct": false },
+            { "choice_text": "المنافقون واليهود وقريش وبقية العرب والروم", "is_correct": true },
+            { "choice_text": "الفرس والروم وقريش", "is_correct": false },
+            { "choice_text": "كفار مكة والمدنيين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الرئيسي لـ 'الهم الإصلاحي' المرتبط بتكذيب الناس في قلب النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "كان النبي ﷺ يشفق عليهم من عاقبة العذاب، فالتكذيب يعني هلاكهم في النار، وهذا ما كان يؤلمه.",
+        "choices": [
+            { "choice_text": "الخوف من ضياع ملكه وسلطته", "is_correct": false },
+            { "choice_text": "الحرص عليهم والخوف عليهم من عاقبة العذاب", "is_correct": true },
+            { "choice_text": "الرغبة في زيادة عدد الأتباع للمفاخرة", "is_correct": false },
+            { "choice_text": "الغضب الشخصي من إهانة القوم له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي موقف قال النبي ﷺ أنه لقي فيه 'أشد مما لقي يوم أحد'؟",
+        "difficulty_score": 400,
+        "explanation": "أجاب النبي ﷺ عائشة رضي الله عنها بأن أشد ما لقيه كان يوم العقبة عندما عرض نفسه على ابن عبد ياليل.",
+        "choices": [
+            { "choice_text": "يوم حنين", "is_correct": false },
+            { "choice_text": "يوم العقبة (الطائف)", "is_correct": true },
+            { "choice_text": "يوم الخندق", "is_correct": false },
+            { "choice_text": "يوم فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين استفاق النبي ﷺ بعد خروجه مهموماً من عند ابن عبد ياليل في الطائف؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر الحديث أن النبي ﷺ مشى مسافة طويلة وهو مهموم ولم يستفق إلا بـ 'قرن الثعالب'.",
+        "choices": [
+            { "choice_text": "وادي وج", "is_correct": false },
+            { "choice_text": "قرن الثعالب", "is_correct": true },
+            { "choice_text": "جبل أحد", "is_correct": false },
+            { "choice_text": "بئر معونة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من رفض النبي ﷺ إطباق الأخشبين على أهل مكة؟",
+        "difficulty_score": 700,
+        "explanation": "يدل ذلك على نظرته المستقبلية والحلم والرحمة، حيث طمع أن يخرج من أصلابهم من يعبد الله.",
+        "choices": [
+            { "choice_text": "عدم قدرته على التحكم في ملك الجبال", "is_correct": false },
+            { "choice_text": "حلمه ونظرته المستقبلية الإصلاحية", "is_correct": true },
+            { "choice_text": "خوفه من انتقام بقية العرب", "is_correct": false },
+            { "choice_text": "أنه لم يكن يملك حق القرار في ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان الله تعالى يؤنس النبي ﷺ عند اشتداد وقع تكذيب الناس عليه؟",
+        "difficulty_score": 600,
+        "explanation": "كان الله يؤنسه بذكر قصص الأنبياء السابقين لإشعاره بأن ما يمر به هو سنة جارية عليهم.",
+        "choices": [
+            { "choice_text": "بالوعد بالنصر المادي السريع", "is_correct": false },
+            { "choice_text": "بإنزال قصص الأنبياء قبله وتثبيت فؤاده بها", "is_correct": true },
+            { "choice_text": "بإهلاك المكذبين فوراً أمام عينيه", "is_correct": false },
+            { "choice_text": "بالأمر بالاعتزال التام للناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر قوله تعالى 'قد نعلم إنه ليحزنك الذي يقولون' على النبي ﷺ بحسب تحليل المصدر؟",
+        "difficulty_score": 750,
+        "explanation": "هذه الآية تمثل 'جبر خاطر' إلهي، حيث يسقط الهم إذا شعر الشخص أن هناك من يشعر به ويسانده.",
+        "choices": [
+            { "choice_text": "الأمر بالصبر الجميل فقط", "is_correct": false },
+            { "choice_text": "إشعار النبي بأن الله يراه ويسمعه ويشعر به", "is_correct": true },
+            { "choice_text": "توبيخ النبي على حزنه الزائد", "is_correct": false },
+            { "choice_text": "إخبار النبي بأن كلامهم لا قيمة له مطلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'التكذيب' أشد ألماً على النفس الشريفة من 'التخطئة'؟",
+        "difficulty_score": 850,
+        "explanation": "لأن التكذيب يطعن في صدق المخبر وأمانته، بينما التخطئة تحتمل الرأي والاجتهاد، والنبي ﷺ أتى بخبر يقيني من الله.",
+        "choices": [
+            { "choice_text": "لأن التخطئة تعني الجهل والتكذيب يعني العناد", "is_correct": false },
+            { "choice_text": "لأن التكذيب يمس جوهر الأمانة والصدق الذي هو أساس النبوة", "is_correct": true },
+            { "choice_text": "لا يوجد فرق بينهما في التأثير النفسي", "is_correct": false },
+            { "choice_text": "لأن التخطئة تكون في الأمور الدنيوية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'القول الثقيل' في قوله تعالى 'إنا سنلقي عليك قولاً ثقيلاً'؟",
+        "explanation": "المقصود ثقل الوحي حساً ومعنى، وأعباء الرسالة ومسؤولية التبليغ العظيمة.",
+        "difficulty_score": 400,
+        "choices": [
+            { "choice_text": "الكلام الصعب الفهم", "is_correct": false },
+            { "choice_text": "أمانة الرسالة وثقل الوحي النفسي والجسدي", "is_correct": true },
+            { "choice_text": "صوت جبريل المرتفع", "is_correct": false },
+            { "choice_text": "كثرة الأوامر والنواهي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي نزل فيه الاستثناء 'غير أولي الضرر'؟",
+        "difficulty_score": 250,
+        "explanation": "نزل الاستثناء بعد أن سأل عبد الله بن أم مكتوم النبي ﷺ عن حاله وهو ضرير لا يستطيع الجهاد.",
+        "choices": [
+            { "choice_text": "بلال بن رباح", "is_correct": false },
+            { "choice_text": "عبد الله بن أم مكتوم", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو عبيدة بن الجراح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل النبي ﷺ في اليوم شديد البرد عند نزول الوحي؟",
+        "difficulty_score": 300,
+        "explanation": "كان جبينه يتفصد عرقاً من ثقل ما ينزل عليه حتى في الأيام الباردة.",
+        "choices": [
+            { "choice_text": "يرتجف من البرد", "is_correct": false },
+            { "choice_text": "يتفصد جبينه عرقاً من ثقل الوحي", "is_correct": true },
+            { "choice_text": "ينام نوماً عميقاً", "is_correct": false },
+            { "choice_text": "يخرج للمشي في الخلاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة فهم منها ابن عباس أنها 'نعي' للنبي ﷺ؟",
+        "difficulty_score": 550,
+        "explanation": "فهم ابن عباس من سورة النصر (إذا جاء نصر الله والفتح) أن أعباء الرسالة قد تمت واقترب الأجل.",
+        "choices": [
+            { "choice_text": "سورة الضحى", "is_correct": false },
+            { "choice_text": "سورة النصر", "is_correct": true },
+            { "choice_text": "سورة الكوثر", "is_correct": false },
+            { "choice_text": "سورة الشرح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الأجزاء التي تضمنتها دائرة 'هم الأصحاب الحالي'؟",
+        "difficulty_score": 450,
+        "explanation": "شملت التحديات الحياتية كالفقر والجوع، والحوادث الأليمة كبئر معونة وقتل الأصحاب.",
+        "choices": [
+            { "choice_text": "الخوف من كفرهم بعد موته", "is_correct": false },
+            { "choice_text": "تحديات الفقر والجوع وأذى المشركين لهم", "is_correct": true },
+            { "choice_text": "الخوف من منافستهم له في القيادة", "is_correct": false },
+            { "choice_text": "الخوف عليهم من نعيم الدنيا فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي تسبب في تغير وجه النبي ﷺ في حديث جرير بن عبد الله؟",
+        "difficulty_score": 400,
+        "explanation": "رؤيته لقوم من 'مضر' حفاة عراة مجتابي النمار من شدة الفقر والحاجة.",
+        "choices": [
+            { "choice_text": "تلقيه خبراً بهزيمة عسكرية", "is_correct": false },
+            { "choice_text": "رؤية فقر وحاجة القوم الذين قدموا من مضر", "is_correct": true },
+            { "choice_text": "غضبه من معصية أحد الأصحاب", "is_correct": false },
+            { "choice_text": "سماعه لكلام مؤذٍ من أحد المنافقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد القراء الذين قتلوا في حادثة 'بئر معونة'؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أنهم كانوا سبعين من القراء الذين خرجوا لتعليم الناس.",
+        "choices": [
+            { "choice_text": "عشرة", "is_correct": false },
+            { "choice_text": "سبعون", "is_correct": true },
+            { "choice_text": "مائة", "is_correct": false },
+            { "choice_text": "خمسون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال حرام بن ملحان (خال أنس) عندما طُعن في بئر معونة؟",
+        "difficulty_score": 350,
+        "explanation": "عندما أنفذ الرمح أحشاءه، قال: 'فزت ورب الكعبة'.",
+        "choices": [
+            { "choice_text": "الله أكبر", "is_correct": false },
+            { "choice_text": "فزت ورب الكعبة", "is_correct": true },
+            { "choice_text": "اللهم تقبل مني", "is_correct": false },
+            { "choice_text": "يا لثارات المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي أطول مدة قنت فيها النبي ﷺ للدعاء على قتلة أصحابه؟",
+        "difficulty_score": 300,
+        "explanation": "قنت النبي ﷺ شهراً كاملاً يدعو على رعل وذكوان لغدرهم بأصحابه في بئر معونة.",
+        "choices": [
+            { "choice_text": "أسبوعاً", "is_correct": false },
+            { "choice_text": "شهراً كاملاً", "is_correct": true },
+            { "choice_text": "ثلاثة أيام", "is_correct": false },
+            { "choice_text": "سنة كاملة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يخشى النبي ﷺ على أصحابه في 'المستقبل'؟",
+        "difficulty_score": 500,
+        "explanation": "كان يخشى عليهم من 'زهرة الدنيا' وأن يتنافسوا فيها فتهلكهم كما أهلكت من قبلهم.",
+        "choices": [
+            { "choice_text": "الفقر الشديد", "is_correct": false },
+            { "choice_text": "التنافس على الدنيا وزهرتها", "is_correct": true },
+            { "choice_text": "عودة عبادة الأصنام فوراً", "is_correct": false },
+            { "choice_text": "هجوم الروم والفرس الكاسح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي جعل النبي ﷺ يبتسم 'سروراً' في آخر يوم من حياته؟",
+        "difficulty_score": 650,
+        "explanation": "عندما كشف الستر ورأى الصحابة خلف أبي بكر في صلاة الفجر، فاطمأن على استقامتهم ووحدتهم.",
+        "choices": [
+            { "choice_text": "شفائه من المرض المفاجئ", "is_correct": false },
+            { "choice_text": "رؤيته لاستقامة الأصحاب ووحدتهم خلف إمام واحد", "is_correct": true },
+            { "choice_text": "وصول أخبار بفتح جديد", "is_correct": false },
+            { "choice_text": "رؤيته لجبريل يبشره بالجنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي دائرة تضمنت دعاء النبي ﷺ 'اللهم أمتي أمتي'؟",
+        "difficulty_score": 400,
+        "explanation": "هذه هي الدائرة السابعة: دائرة هم الأمة من بعده (غير الصحابة).",
+        "choices": [
+            { "choice_text": "دائرة الأصحاب الحالي", "is_correct": false },
+            { "choice_text": "دائرة هم الأمة من بعده", "is_correct": true },
+            { "choice_text": "دائرة كيد الأعداء", "is_correct": false },
+            { "choice_text": "دائرة أهل بيته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي دلالة أحاديث 'لا تقوم الساعة حتى..' في سياق الهم النبوي؟",
+        "difficulty_score": 800,
+        "explanation": "دلالتها هي شدة 'الاهتمام' والحرص على توجيه الأمة للنجاة من الفتن المستقبلية.",
+        "choices": [
+            { "choice_text": "مجرد إخبار غيبي للمستقبل", "is_correct": false },
+            { "choice_text": "دليل على اهتمامه وحرصه على توجيه أمته", "is_correct": true },
+            { "choice_text": "تخويف الناس من المستقبل", "is_correct": false },
+            { "choice_text": "إظهار قدرته على معرفة الغيب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث عبد الله بن عمرو، بماذا وصف النبي ﷺ 'عافية' هذه الأمة؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر الحديث أن عافية هذه الأمة جعلت في أولها، وأن آخرها سيصيبه بلاء وأمور ينكرونها.",
+        "choices": [
+            { "choice_text": "أنها مستمرة إلى قيام الساعة", "is_correct": false },
+            { "choice_text": "أن عافيتها في أولها وبلاؤها في آخرها", "is_correct": true },
+            { "choice_text": "أن عافيتها مرتبطة بكثرة المال", "is_correct": false },
+            { "choice_text": "أنها أمة لا تصاب بالبلاء أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'البلسم' الذي يعالج جراح المهموم المحزون بحسب حديث 'ما يصيب المسلم من نصب..'؟",
+        "difficulty_score": 450,
+        "explanation": "البلسم هو إدراك أن كل هم أو حزن أو حتى شوكة يشاكها هي كفارة للخطايا.",
+        "choices": [
+            { "choice_text": "الصبر السلبي فقط", "is_correct": false },
+            { "choice_text": "إدراك أن الهموم كفارات للخطايا ورفع للدرجات", "is_correct": true },
+            { "choice_text": "نسيان الماضي تماماً", "is_correct": false },
+            { "choice_text": "البحث عن ملذات الدنيا لتناسي الألم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا عوض الله العبد الذي يصبر على فقد 'حبيبتيه' (عينيه)؟",
+        "difficulty_score": 200,
+        "explanation": "ورد في الحديث القدسي أن من قبض الله حبيبتيه فصبر، فجزاؤه الجنة.",
+        "choices": [
+            { "choice_text": "المال الوفير", "is_correct": false },
+            { "choice_text": "الجنة", "is_correct": true },
+            { "choice_text": "القوة البدنية", "is_correct": false },
+            { "choice_text": "حب الناس له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم اختصار صفات عباد الرحمن في القرآن بكلمة 'صبروا' في الخاتمة؟",
+        "difficulty_score": 900,
+        "explanation": "لأن الصبر يشمل كل الدين: صبر على الطاعة، وعن المعصية، وعلى الأقدار؛ فهو جوهر الاستقامة.",
+        "choices": [
+            { "choice_text": "لأنها أسهل كلمة في الحفظ", "is_correct": false },
+            { "choice_text": "لأن الصبر هو الجامع لكل طاعات وحياة المؤمن", "is_correct": true },
+            { "choice_text": "لأنهم لم يفعلوا شيئاً سوى الصبر", "is_correct": false },
+            { "choice_text": "إشارة إلى قلة عددهم فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المنهجية الثلاثية في حديث 'احرص على ما ينفعك..'؟",
+        "difficulty_score": 700,
+        "explanation": "المنهجية هي: المبادرة (احرص)، التفويض (استعن بالله)، وعدم الاستسلام للقعود النفسي (لا تعجز).",
+        "choices": [
+            { "choice_text": "الصلاة والصيام والزكاة", "is_correct": false },
+            { "choice_text": "الحرص والاستعانة بالله وعدم العجز", "is_correct": true },
+            { "choice_text": "السكوت والرضا والانتظار", "is_correct": false },
+            { "choice_text": "العمل الشاق ونسيان الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يفتح العبد 'عمل الشيطان' بحسب الحديث؟",
+        "difficulty_score": 500,
+        "explanation": "عندما يكثر من قول 'لو' (لو أني فعلت كذا)، لأنها تفتح باب الندم والاعتراض على القدر.",
+        "choices": [
+            { "choice_text": "عند البدء بالعمل", "is_correct": false },
+            { "choice_text": "عند قول 'لو' اعتراضاً على القدر", "is_correct": true },
+            { "choice_text": "عند الفشل في التجارة", "is_correct": false },
+            { "choice_text": "عند نسيان الأذكار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين يُشرع الاحتجاج بالقدر بحسب مناظرة آدم وموسى؟",
+        "difficulty_score": 850,
+        "explanation": "يُشرع عند 'المصائب' (كالخروج من الجنة) لتسكن النفس، ولا يُشرع عند 'المعاصي' للتهرب من الذنب.",
+        "choices": [
+            { "choice_text": "عند فعل المعصية", "is_correct": false },
+            { "choice_text": "عند وقوع المصيبة", "is_correct": true },
+            { "choice_text": "في كل الأحوال دون استثناء", "is_correct": false },
+            { "choice_text": "لا يجوز الاحتجاج بالقدر أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء الذي كان خادم النبي ﷺ (أنس) يسمعه يكثر منه؟",
+        "difficulty_score": 250,
+        "explanation": "هو: 'اللهم إني أعوذ بك من الهم والحزن والعجز والكسل'.",
+        "choices": [
+            { "choice_text": "اللهم آتنا في الدنيا حسنة", "is_correct": false },
+            { "choice_text": "اللهم إني أعوذ بك من الهم والحزن والعجز والكسل", "is_correct": true },
+            { "choice_text": "يا مقلب القلوب ثبت قلبي", "is_correct": false },
+            { "choice_text": "اللهم اغفر لي خطيئتي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبه النبي ﷺ الدنيا لبيان قصر مدتها وهوان همومها؟",
+        "difficulty_score": 750,
+        "explanation": "شبهها بـ 'راكب استظل تحت شجرة ثم راح وتركها'، لبيان أنها لحظة عبور.",
+        "choices": [
+            { "choice_text": "بالبحر الهائج", "is_correct": false },
+            { "choice_text": "براكب استظل بظل شجرة ثم تركها", "is_correct": true },
+            { "choice_text": "بالجبل الراسخ", "is_correct": false },
+            { "choice_text": "بالقصر المشيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي قيمة الدنيا عند الله بحسب حديث 'الجدي الأسك الميت'؟",
+        "difficulty_score": 400,
+        "explanation": "الدنيا 'أهون على الله' من هوان هذا الجدي الميت المعيب على أصحابه.",
+        "choices": [
+            { "choice_text": "تساوي جناح بعوضة", "is_correct": false },
+            { "choice_text": "أهون على الله من الجدي الأسك الميت على أهله", "is_correct": true },
+            { "choice_text": "مكرمة عند الله", "is_correct": false },
+            { "choice_text": "لا قيمة لها إلا للمؤمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصديق الذي ضرب به المصدر مثلاً في 'مواساة' النبي ﷺ؟",
+        "difficulty_score": 200,
+        "explanation": "هو أبو بكر الصديق الذي قال عنه النبي ﷺ: 'صدقت، وواساني بنفسه وأهله وماله'.",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما أثر وجود 'الصديق الصالح العاقل' على الهم النفسي؟",
+        "difficulty_score": 500,
+        "explanation": "وجوده يمنع الإنسان من أن يعين الهم على نفسه بوحدته، ويخفف عنه ثقل الأزمات.",
+        "choices": [
+            { "choice_text": "يزيد من هموم الإنسان", "is_correct": false },
+            { "choice_text": "يخفف الهم ويساعد على التجاوز", "is_correct": true },
+            { "choice_text": "لا يؤثر في المشاعر النفسية", "is_correct": false },
+            { "choice_text": "يجعل الإنسان يتواكل على غيره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الزوجة الصالحة' (كخديجة) في سياق الهموم كما وصفها المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "تعتبر من أعظم المواقف في تخفيف الأحزان، وهي تدخل في باب 'الصحبة والمواساة'.",
+        "choices": [
+            { "choice_text": "مجرد رعاية منزلية", "is_correct": false },
+            { "choice_text": "ركن أساسي في تخفيف الأحزان والمواساة", "is_correct": true },
+            { "choice_text": "لا علاقة لها بالهموم الدعوية", "is_correct": false },
+            { "choice_text": "مصدر لزيادة الهموم العائلية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا بكى عمر بن الخطاب عندما رأى النبي ﷺ نائماً على الحصير؟",
+        "difficulty_score": 450,
+        "explanation": "بكى لأن ملوك كسرى والروم في نعيم، ورسول الله ﷺ يؤثر الحصير في جنبه.",
+        "choices": [
+            { "choice_text": "خوفاً من الموت", "is_correct": false },
+            { "choice_text": "مقارنة بين حال ملوك الدنيا وحال النبي ﷺ", "is_correct": true },
+            { "choice_text": "بسبب شدة الحر", "is_correct": false },
+            { "choice_text": "لأنه لم يجد مكاناً يجلس فيه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أجاب النبي ﷺ عمر بن الخطاب عندما رآه يبكي على حاله؟",
+        "difficulty_score": 650,
+        "explanation": "قال له: 'أما ترضى أن تكون لهم الدنيا ولنا الآخرة؟'، ترسيخاً لظرفية الدنيا.",
+        "choices": [
+            { "choice_text": "سأبني قصراً قريباً", "is_correct": false },
+            { "choice_text": "أما ترضى أن تكون لهم الدنيا ولنا الآخرة؟", "is_correct": true },
+            { "choice_text": "لا تبكِ يا عمر", "is_correct": false },
+            { "choice_text": "الدنيا سجن المؤمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'فُيَدقّق بعضها لبعض' في وصف الفتن المستقبلية؟",
+        "difficulty_score": 900,
+        "explanation": "أي أن الفتنة اللاحقة تكون عظيمة لدرجة تجعل الفتنة السابقة تبدو صغيرة (دقيقة) بجانبها.",
+        "choices": [
+            { "choice_text": "أن الفتن تصبح أسهل", "is_correct": false },
+            { "choice_text": "أن الفتنة الجديدة تجعل ما قبلها يبدو صغيراً لعظمها", "is_correct": true },
+            { "choice_text": "أن الناس يفهمون الفتن بدقة", "is_correct": false },
+            { "choice_text": "أن الفتن تنتهي بسرعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النصيحة النبوية لمن أراد النجاة عند وقوع 'الفتنة المهلِكة'؟",
+        "difficulty_score": 700,
+        "explanation": "النصيحة هي التمسك بالأصول: 'فلتدركه منيته وهو مؤمن بالله واليوم الآخر'.",
+        "choices": [
+            { "choice_text": "الهرب إلى الجبال فقط", "is_correct": false },
+            { "choice_text": "الثبات على الإيمان بالله واليوم الآخر حتى الموت", "is_correct": true },
+            { "choice_text": "الانضمام لأقوى فريق", "is_correct": false },
+            { "choice_text": "ترك الصلاة والعبادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المكافأة التي وعد بها النبي ﷺ المرأة السوداء التي كانت تُصرع إذا هي صبرت؟",
+        "difficulty_score": 200,
+        "explanation": "ورد في المصدر أن النبي ﷺ خيرها بين الدعاء لها بالشفاء وبين الصبر ولها الجنة، فاختارت الصبر والجنة [1].",
+        "choices": [
+            { "choice_text": "الشفاء الفوري", "is_correct": false },
+            { "choice_text": "الجنة", "is_correct": true },
+            { "choice_text": "طول العمر", "is_correct": false },
+            { "choice_text": "المال الوفير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا يُسمى البيت الذي يُبنى في الجنة لمن حمد الله واسترجع عند فقد ولده؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر حديثاً يشير إلى بناء بيت في الجنة يسمى 'بيت الحمد' لمن صبر وحمد الله في المصيبة [1].",
+        "choices": [
+            { "choice_text": "بيت الصابرين", "is_correct": false },
+            { "choice_text": "بيت الحمد", "is_correct": true },
+            { "choice_text": "بيت الرضا", "is_correct": false },
+            { "choice_text": "بيت الشاكرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى قوله تعالى 'إن عذابها كان غراماً' كما فسرها المصدر في سياق مقارنة هموم الدنيا والآخرة؟",
+        "difficulty_score": 450,
+        "explanation": "فسر المصدر كلمة 'غراماً' بأنها تعني الملازم الذي لا ينتهي، وهي صفة لعذاب الآخرة بخلاف هموم الدنيا التي تنتهي [2].",
+        "choices": [
+            { "choice_text": "شديداً ومؤلماً", "is_correct": false },
+            { "choice_text": "ملازماً لا ينتهي", "is_correct": true },
+            { "choice_text": "مفاجئاً", "is_correct": false },
+            { "choice_text": "مضاعفاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الظرف الزماني' الذي تدور فيه كل مشاكل وهموم الإنسان بحسب المصدر؟",
+        "difficulty_score": 350,
+        "explanation": "أكد المصدر أن كل الهموم تقع في 'مربع الحياة الدنيا'، واستحضار هذا الظرف يساعد على التصبر [3].",
+        "choices": [
+            { "choice_text": "ظرف الدنيا", "is_correct": true },
+            { "choice_text": "ظرف البرزخ", "is_correct": false },
+            { "choice_text": "ظرف الآخرة", "is_correct": false },
+            { "choice_text": "ظرف العقل الباطن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف النبي ﷺ سرعة انقضاء الدنيا في تمثيله بالراكب والشجرة؟",
+        "difficulty_score": 500,
+        "explanation": "شبهها براكب استظل تحت شجرة في وقت ظهيرة، ثم قام وتركها؛ للدلالة على أنها مجرد 'لحظة عبور' [4].",
+        "choices": [
+            { "choice_text": "سفر طويل وشاق", "is_correct": false },
+            { "choice_text": "لحظة عبور (استظلال تحت شجرة ثم رحيل)", "is_correct": true },
+            { "choice_text": "بناء لا يزول", "is_correct": false },
+            { "choice_text": "بحر لا ساحل له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان النبي ﷺ يبتسم في وجه جرير بن عبد الله البجلي دائماً؟",
+        "difficulty_score": 250,
+        "explanation": "ذكر جرير أن النبي ﷺ ما رآه إلا تبسم في وجهه، وهو ما اعتبره المصدر نموذجاً لعظمة نفس النبي ﷺ رغم همومه [5].",
+        "choices": [
+            { "choice_text": "لأنه كان يذكره بفتح مكة", "is_correct": false },
+            { "choice_text": "كخلق أصيل وتأليف لقلوب الأصحاب", "is_correct": true },
+            { "choice_text": "لأنه كان يحمل أخباراً مفرحة", "is_correct": false },
+            { "choice_text": "لأنه كان قريباً من عائلته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في الدائرة السادسة، ما هو 'أشد ما خافه' النبي ﷺ على أصحابه في المستقبل؟",
+        "difficulty_score": 600,
+        "explanation": "نص المصدر على أن النبي ﷺ قال: 'ولكني أخاف عليكم الدنيا أن تنافسوا فيها'، فخشي عليهم من الهلاك بسبب التنافس الدنيوي [6].",
+        "choices": [
+            { "choice_text": "الفقر والجوع", "is_correct": false },
+            { "choice_text": "الشرك بالله", "is_correct": false },
+            { "choice_text": "التنافس على الدنيا", "is_correct": true },
+            { "choice_text": "الهزيمة العسكرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة كثرة أحاديث 'لا تقوم الساعة حتى..' في سياق الهم النبوي؟",
+        "difficulty_score": 700,
+        "explanation": "دلالتها هي 'الاهتمام'؛ أي حرص النبي ﷺ الشديد على توجيه أمته وتحذيرهم مما سيحدث للنجاة [7].",
+        "choices": [
+            { "choice_text": "التنبؤ العلمي فقط", "is_correct": false },
+            { "choice_text": "الاهتمام والحرص على نجاة الأمة", "is_correct": true },
+            { "choice_text": "تخويف الناس من المستقبل", "is_correct": false },
+            { "choice_text": "إظهار الإعجاز الغيبي وحده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قال عنه النبي ﷺ 'فهل أنتم تاركو لي صاحبي'؟",
+        "difficulty_score": 400,
+        "explanation": "قيلت في حق أبي بكر الصديق عندما غضب النبي ﷺ من موقف حدث مع عمر، تقديراً لمواساته وتبكيره بالإسلام [8].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الوسائل التالية اعتبرها المصدر 'أعظم مدخرات الهموم' في الحياة الاجتماعية؟",
+        "difficulty_score": 550,
+        "explanation": "اعتبر المصدر وجود 'الصديق الصالح الراشد العاقل' من أعظم النعم والمدخرات لمواجهة هموم الحياة [9].",
+        "choices": [
+            { "choice_text": "كثرة المال", "is_correct": false },
+            { "choice_text": "الصديق الصالح الراشد العاقل", "is_correct": true },
+            { "choice_text": "الشهرة والجاه", "is_correct": false },
+            { "choice_text": "الانعزال عن الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور خديجة رضي الله عنها في حياة النبي ﷺ كما حلله المصدر؟",
+        "difficulty_score": 650,
+        "explanation": "وصفها المصدر بأنها كانت أعظم المواقف في تخفيف الأحزان والهموم، وهي تدخل في باب 'الزوجة الصالحة الصاحبة' [10].",
+        "choices": [
+            { "choice_text": "دورها كان اقتصادياً فقط", "is_correct": false },
+            { "choice_text": "أعظم المواقف في تخفيف الأحزان والمواساة", "is_correct": true },
+            { "choice_text": "اقتصر دورها على رعاية الأبناء", "is_correct": false },
+            { "choice_text": "لم تُذكر في سياق الهموم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا بكى عمر بن الخطاب عندما رأى النبي ﷺ ينام على الحصير؟",
+        "difficulty_score": 450,
+        "explanation": "لأنه قارن بين حال كسرى والروم في النعيم، وحال رسول الله ﷺ الذي أثر الحصير في جنبه [11].",
+        "choices": [
+            { "choice_text": "بسبب شدة المرض على النبي", "is_correct": false },
+            { "choice_text": "بسبب المقارنة بين نعيم الملوك وتواضع حال النبي", "is_correct": true },
+            { "choice_text": "لأنه لم يجد مكاناً للجلوس", "is_correct": false },
+            { "choice_text": "بسبب فراق أحد الأصحاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'عافية هذه الأمة جعلت في أولها'؟",
+        "difficulty_score": 800,
+        "explanation": "تشير إلى أن المراحل التاريخية الأولى للإسلام كانت مراحل استقرار وعافية، بينما سيصيب آخرها البلاء والفتن [12].",
+        "choices": [
+            { "choice_text": "أن الصحابة لم يمرضوا أبداً", "is_correct": false },
+            { "choice_text": "أن الاستقرار الديني والسياسي كان في الصدر الأول", "is_correct": true },
+            { "choice_text": "أن الأمة ستنتهي سريعاً", "is_correct": false },
+            { "choice_text": "أن الغنى المادي كان في البداية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر 'التكذيب' الذي واجهه النبي ﷺ من قومه؟",
+        "difficulty_score": 850,
+        "explanation": "وصفه بأنه أصعب من 'التخطئة' لأنه يطعن في الصدق والأمانة، وهو أمر شاق على الإنسان الشريف [13].",
+        "choices": [
+            { "choice_text": "مجرد اختلاف في الرأي", "is_correct": false },
+            { "choice_text": "طعن في الصدق والأمانة وهو أشد من التخطئة", "is_correct": true },
+            { "choice_text": "أمر طبيعي لا يؤلم النفس", "is_correct": false },
+            { "choice_text": "شيء يسهل تجاوزه بالنسيان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث 'احرص على ما ينفعك'، ماذا يقصد بـ 'لا تعجز'؟",
+        "difficulty_score": 750,
+        "explanation": "يقصد بها عدم الاستسلام للقعود النفسي والخواطر السيئة والهموم التي تمنع من العمل [14].",
+        "choices": [
+            { "choice_text": "القوة البدنية فقط", "is_correct": false },
+            { "choice_text": "عدم الاستسلام للقعود النفسي والهموم", "is_correct": true },
+            { "choice_text": "سرعة الحركة", "is_correct": false },
+            { "choice_text": "كثرة الكلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'البلسم' الذي ذكره المصدر لعلاج جراح المهموم؟",
+        "difficulty_score": 300,
+        "explanation": "هو إدراك أن كل ما يصيب المسلم حتى الشوكة هي كفارة للخطايا ورفع للدرجات [15].",
+        "choices": [
+            { "choice_text": "العقاقير الطبية", "is_correct": false },
+            { "choice_text": "إدراك أن الهموم كفارات للخطايا", "is_correct": true },
+            { "choice_text": "الاعتزال التام", "is_correct": false },
+            { "choice_text": "البكاء الطويل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سُميت الدنيا 'دنيا' في سياق الحديث عن هوانها؟",
+        "difficulty_score": 900,
+        "explanation": "للدلالة على دنوها وهوانها، وأنها مجرد محطة عبور لا تساوي عند الله جناح بعوضة [16].",
+        "choices": [
+            { "choice_text": "لجمالها وزينتها", "is_correct": false },
+            { "choice_text": "لدنوها وهوانها وقرب فنائها", "is_correct": true },
+            { "choice_text": "لأنها مكان الاختبار الوحيد", "is_correct": false },
+            { "choice_text": "لا علاقة للتسمية بالمعنى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال حرام بن ملحان عندما أنفذ الرمح أحشاءه في بئر معونة؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'فزت ورب الكعبة'، وهو تعبير عن اليقين بالثواب رغم القتل [17].",
+        "choices": [
+            { "choice_text": "صبراً يا آل ياسر", "is_correct": false },
+            { "choice_text": "فزت ورب الكعبة", "is_correct": true },
+            { "choice_text": "الله أكبر", "is_correct": false },
+            { "choice_text": "حسبي الله ونعم الوكيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم القراء الذين غدر بهم المشركون في بئر معونة؟",
+        "difficulty_score": 350,
+        "explanation": "هم سبعون من خيار الصحابة خرجوا لتعليم الناس القرآن فغدر بهم المشركون [18].",
+        "choices": [
+            { "choice_text": "عشرة تجار", "is_correct": false },
+            { "choice_text": "سبعون من القراء المتعلمين", "is_correct": true },
+            { "choice_text": "جيش من ألف مقاتل", "is_correct": false },
+            { "choice_text": "وفد سياسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ بعد حادثة بئر معونة تعبيراً عن حزنه؟",
+        "difficulty_score": 400,
+        "explanation": "قنت شهراً كاملاً يدعو على القتلة (رعل وذكوان) تعبيراً عن شدة همه لمصاب أصحابه [17].",
+        "choices": [
+            { "choice_text": "اعتزل الناس شهراً", "is_correct": false },
+            { "choice_text": "قنت شهراً كاملاً يدعو على القتلة", "is_correct": true },
+            { "choice_text": "أعلن الحرب الفورية", "is_correct": false },
+            { "choice_text": "لم يفعل شيئاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من قصص الأنبياء في القرآن كما بينها المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "تثبيت فؤاد النبي ﷺ وإيناسه بأنه ليس بدعاً من الرسل في المعاناة [19].",
+        "choices": [
+            { "choice_text": "للتسلية التاريخية", "is_correct": false },
+            { "choice_text": "لتثبيت فؤاد النبي وإيناسه", "is_correct": true },
+            { "choice_text": "لإظهار قوة الأنبياء الجسدية", "is_correct": false },
+            { "choice_text": "لتحذير الكفار فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يؤثر 'الاحتجاج بالقدر' عند وقوع المصيبة على نفس المؤمن؟",
+        "difficulty_score": 750,
+        "explanation": "يورث السكينة والرضا ويقطع باب 'لو' التي تفتح عمل الشيطان وتجدد الأحزان [20].",
+        "choices": [
+            { "choice_text": "يؤدي إلى اليأس", "is_correct": false },
+            { "choice_text": "يورث السكينة والرضا ويمنع الندم المذموم", "is_correct": true },
+            { "choice_text": "يشجع على إهمال العمل", "is_correct": false },
+            { "choice_text": "لا تأثير له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان شعور النبي ﷺ عندما رأى الصحابة مجتمعين خلف أبي بكر في صلاتهم؟",
+        "difficulty_score": 550,
+        "explanation": "شعر بالسرور والرضا والارتياح التام، مما يدل على أن هم استقامتهم كان من أعظم همومه [21].",
+        "choices": [
+            { "choice_text": "القلق من غيابه", "is_correct": false },
+            { "choice_text": "السرور والرضا لاطمئنانه على استقامتهم", "is_correct": true },
+            { "choice_text": "الغضب لتأخره عنهم", "is_correct": false },
+            { "choice_text": "الخوف من الفتنة الفورية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء الجامع الذي ذكره أنس كأكثر ما كان النبي ﷺ يدعو به؟",
+        "difficulty_score": 300,
+        "explanation": "هو: 'اللهم آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار' [22].",
+        "choices": [
+            { "choice_text": "اللهم اغفر لي", "is_correct": false },
+            { "choice_text": "اللهم آتنا في الدنيا حسنة وفي الآخرة حسنة", "is_correct": true },
+            { "choice_text": "اللهم انصرنا", "is_correct": false },
+            { "choice_text": "اللهم ارحمنا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر أن 'الهم الإصلاحي' دليل على رحمة النبي ﷺ؟",
+        "difficulty_score": 800,
+        "explanation": "لأن همه كان نابعاً من خوفه عليهم من العذاب وحرصه على نجاتهم، لا من أجل مصلحة شخصية [23].",
+        "choices": [
+            { "choice_text": "لأنه أراد كثرة الأتباع", "is_correct": false },
+            { "choice_text": "لأنه نبع من الشفقة والحرص على نجاة الناس", "is_correct": true },
+            { "choice_text": "لأنه أراد هزيمة قريش", "is_correct": false },
+            { "choice_text": "لأنه كان يحب الجدال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'تأثر النبي ﷺ بحال قوم مضر'؟",
+        "difficulty_score": 400,
+        "explanation": "تغير وجهه ﷺ اهتماماً وحزناً لما رأى من فقرهم الشديد وحاجتهم [24].",
+        "choices": [
+            { "choice_text": "غضب من كفرهم", "is_correct": false },
+            { "choice_text": "تغير وجهه حزناً لشدة فقرهم وحاجتهم", "is_correct": true },
+            { "choice_text": "فرح بقدومهم", "is_correct": false },
+            { "choice_text": "لم يتأثر بهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المنهجية التي اتبعها النبي ﷺ في 'معالجة الناس' الجفاة؟",
+        "difficulty_score": 650,
+        "explanation": "الحلم والصبر والتبسم، كما فعل مع الأعرابي الذي جذب رداءه [5].",
+        "choices": [
+            { "choice_text": "العقاب الفوري", "is_correct": false },
+            { "choice_text": "الحلم والصبر والتبسم والعطاء", "is_correct": true },
+            { "choice_text": "الإعراض عنهم تماماً", "is_correct": false },
+            { "choice_text": "الزجر الشديد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'زهرة الدنيا' التي خافها النبي ﷺ على أصحابه؟",
+        "difficulty_score": 700,
+        "explanation": "يقصد بها فتن الدنيا ومتاعها الذي قد يغرهم ويؤدي إلى تنافسهم واختلافهم [6].",
+        "choices": [
+            { "choice_text": "جمال الحدائق", "is_correct": false },
+            { "choice_text": "فتن الدنيا ومتاعها الزائل", "is_correct": true },
+            { "choice_text": "كثرة الأبناء", "is_correct": false },
+            { "choice_text": "السفر للتجارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر حال النبي ﷺ في سياق 'سوية المؤمن'؟",
+        "difficulty_score": 850,
+        "explanation": "أنه رغم كثرة الهموم (الدوائر السبع) كان أطيب الناس نفساً وأكثرهم تبسماً [5].",
+        "choices": [
+            { "choice_text": "كان دائم العبوس", "is_correct": false },
+            { "choice_text": "كان أطيب الناس نفساً وأكثرهم تبسماً رغم الهموم", "is_correct": true },
+            { "choice_text": "كان ينعزل عن الناس كثيراً", "is_correct": false },
+            { "choice_text": "كان يشكو همه لكل أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر تذكر 'الثواب الأخروي' على دفع الهم؟",
+        "difficulty_score": 500,
+        "explanation": "يعتبر بلسماً يمسح ألم المصيبة ويهون ثقل الهم على النفس [15].",
+        "choices": [
+            { "choice_text": "يزيد من الرغبة في الموت", "is_correct": false },
+            { "choice_text": "يهون ثقل الهم ويمسح ألم المصيبة", "is_correct": true },
+            { "choice_text": "لا أثر له في الواقع", "is_correct": false },
+            { "choice_text": "يجعل الإنسان يترك العمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الاستقواء بالقدر' في مواجهة المصائب؟",
+        "difficulty_score": 900,
+        "explanation": "هو استخدام اليقين بأن ما أصابك لم يكن ليخطئك لتعزيز الصمود النفسي [25].",
+        "choices": [
+            { "choice_text": "التواكل التام", "is_correct": false },
+            { "choice_text": "تعزيز الصمود النفسي باليقين بالقدر", "is_correct": true },
+            { "choice_text": "إلقاء اللوم على الله", "is_correct": false },
+            { "choice_text": "ترك اتخاذ الأسباب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة قول أنس 'خدمت النبي ﷺ عشر سنين فما قال لي أف' في سياق الهموم؟",
+        "difficulty_score": 600,
+        "explanation": "دليل على عظمة خلقه وسعة صدره ﷺ رغم أعباء الرسالة والهموم المحيطة به [5].",
+        "choices": [
+            { "choice_text": "أن النبي لم يكن يهتم بالعمل", "is_correct": false },
+            { "choice_text": "دليل على سعة صدره وعظمة خلقه رغم الهموم", "is_correct": true },
+            { "choice_text": "أن أنس كان لا يخطئ أبداً", "is_correct": false },
+            { "choice_text": "أن الحياة كانت سهلة جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف تعامل النبي ﷺ مع 'إعراض أهل الطائف'؟",
+        "difficulty_score": 450,
+        "explanation": "بالصبر والاحتساب والدعاء لهم بالهداية بدلاً من الانتقام [26].",
+        "choices": [
+            { "choice_text": "بمقاتلتهم فوراً", "is_correct": false },
+            { "choice_text": "بالصبر والدعاء لهم بالهداية", "is_correct": true },
+            { "choice_text": "بالدعاء عليهم بالهلاك", "is_correct": false },
+            { "choice_text": "بالهروب منهم واليأس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من إدراك أن 'الدنيا نقطة في زمن طويل'؟",
+        "difficulty_score": 800,
+        "explanation": "تجعل المصيبة تبدو صغيرة جداً وغير قادرة على تحطيم نفسية المؤمن [27].",
+        "choices": [
+            { "choice_text": "الاستخفاف بالحياة", "is_correct": false },
+            { "choice_text": "تصغير المصيبة في العين ومنع انكسار النفس", "is_correct": true },
+            { "choice_text": "إهمال التخطيط للمستقبل", "is_correct": false },
+            { "choice_text": "الشعور بالعدمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'الصاحب' الذي واسى النبي ﷺ بنفسه وأهله وماله؟",
+        "difficulty_score": 200,
+        "explanation": "هو أبو بكر الصديق رضي الله عنه [8].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'عمل الشيطان' الذي يفتحه قول 'لو'؟",
+        "difficulty_score": 500,
+        "explanation": "هو الندم المذموم والاعتراض على القدر الذي يجدد الأحزان ويضعف الإرادة [20].",
+        "choices": [
+            { "choice_text": "السرقة والنهب", "is_correct": false },
+            { "choice_text": "الندم المذموم والاعتراض على القدر", "is_correct": true },
+            { "choice_text": "النسيان", "is_correct": false },
+            { "choice_text": "الكذب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر أن 'وحدة المؤمن' تزيد من همه؟",
+        "difficulty_score": 750,
+        "explanation": "لأن الانفراد بالهم دون صديق يواسي أو يشعر بالألم يجعل الثقل النفسي مضاعفاً [28].",
+        "choices": [
+            { "choice_text": "لأنها تساعد على التفكير", "is_correct": false },
+            { "choice_text": "لأنها تضاعف الثقل النفسي للهم", "is_correct": true },
+            { "choice_text": "لأنها علامة على الكبر", "is_correct": false },
+            { "choice_text": "لا تزيد الهم بل تنقصه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة ابتسامة النبي ﷺ في لحظات موته الأخيرة؟",
+        "difficulty_score": 650,
+        "explanation": "دليل على اطمئنانه التام لوفاء الأصحاب واستمرار الرسالة بعده [21].",
+        "choices": [
+            { "choice_text": "فرح بلقاء ملك الموت", "is_correct": false },
+            { "choice_text": "اطمئنانه لاستقامة الأمة بعده", "is_correct": true },
+            { "choice_text": "فرح بالشفاء", "is_correct": false },
+            { "choice_text": "مجرد حركة لا إرادية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نتعلم من منهج النبي ﷺ في مواجهة 'كيد الأعداء'؟",
+        "difficulty_score": 900,
+        "explanation": "أن التوكل على الله يجعل كيد الأعداء أقل الهموم تأثيراً على النفس المستقيمة [29].",
+        "choices": [
+            { "choice_text": "الخوف الدائم منهم", "is_correct": false },
+            { "choice_text": "أن التوكل يقلل من أثر كيدهم النفسي", "is_correct": true },
+            { "choice_text": "تجاهلهم تماماً وعدم الحذر", "is_correct": false },
+            { "choice_text": "مداهنتهم لكسب ودهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة في التعامل مع الهموم بحسب المصدر؟",
+        "difficulty_score": 800,
+        "explanation": "الجمع بين الصبر، واتخاذ الأسباب، واليقين بالآخرة، والصحبة الصالحة [53، 88].",
+        "choices": [
+            { "choice_text": "ترك الدنيا والاعتزال", "is_correct": false },
+            { "choice_text": "الجمع بين الصبر والأسباب واليقين والصحبة", "is_correct": true },
+            { "choice_text": "الاستسلام للواقع", "is_correct": false },
+            { "choice_text": "الاعتماد على القوة المادية فقط", "is_correct": false }
+        ]
+    }
+]}

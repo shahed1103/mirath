@@ -1,0 +1,884 @@
+    {
+    "chapter_id": 29,
+    "questions": [
+         {
+        "question_text": "ما هو الارتباط الأساسي لـ (فقهاء المحدثين) كما ذكر في المقدمة؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن هذا المعنى مرتبط بسنة النبي صلى الله عليه وسلم رواية ودراية [1].",
+        "choices": [
+            {"choice_text": "بعلم الكلام والمنطق", "is_correct": false},
+            {"choice_text": "بالفلسفة اليونانية", "is_correct": false},
+            {"choice_text": "بسنة النبي صلى الله عليه وسلم رواية ودراية", "is_correct": true},
+            {"choice_text": "بعلم التاريخ فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في حديث أبي موسى، ما هي صفة الأرض التي (قبلت الماء فأنبتت الكلأ والعشب الكثير)؟",
+        "difficulty_score": 200,
+        "explanation": "الأرض النقية هي التي قبلت الماء وأنبتت الزرع، وهي تمثل من فقه في دين الله [2].",
+        "choices": [
+            {"choice_text": "الأرض الأجادب", "is_correct": false},
+            {"choice_text": "الأرض النقية", "is_correct": true},
+            {"choice_text": "الأرض القيعان", "is_correct": false},
+            {"choice_text": "الأرض الصخرية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يطلق على الذين يحفظون الحديث ويؤدونه كما سمعوه دون تعمق في فهمه؟",
+        "difficulty_score": 300,
+        "explanation": "يسمون بالنقلة، وهم حلقة وصل مهمة في وصول السنة لمن بعدهم [4].",
+        "choices": [
+            {"choice_text": "النقلة", "is_correct": true},
+            {"choice_text": "النقاد الصيارفة", "is_correct": false},
+            {"choice_text": "أهل الرأي", "is_correct": false},
+            {"choice_text": "الأصوليون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي اختص بـ (فقه الحديث) أكثر من غيره بين أقرانه الأربعة؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن الإمام أحمد اختص بفقه الحديث أكثر من علي بن المديني ويحيى بن معين وغيرهم [9].",
+        "choices": [
+            {"choice_text": "يحيى بن معين", "is_correct": false},
+            {"choice_text": "علي بن المديني", "is_correct": false},
+            {"choice_text": "الإمام أحمد", "is_correct": true},
+            {"choice_text": "أبو عبيد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأئمة التاليين كان (أكثر رواية وعلماً) من إبراهيم النخعي في الكوفة؟",
+        "difficulty_score": 500,
+        "explanation": "الشعبي كان أكثر رواية وعلماً من إبراهيم النخعي، وكان إبراهيم يعمد إلى الرأي كثيراً [5].",
+        "choices": [
+            {"choice_text": "حماد بن أبي سليمان", "is_correct": false},
+            {"choice_text": "الشعبي", "is_correct": true},
+            {"choice_text": "أبو حنيفة", "is_correct": false},
+            {"choice_text": "القاضي شريح", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المعلم الأول من معالم فقه المحدثين كما ورد في النص؟",
+        "difficulty_score": 300,
+        "explanation": "المعلم الأول والظاهر جداً فيهم هو تعظيم النصوص والتمسك بها [6].",
+        "choices": [
+            {"choice_text": "التوسع في القياس", "is_correct": false},
+            {"choice_text": "تقديم العقل على النقل", "is_correct": false},
+            {"choice_text": "تعظيم النصوص والتمسك بها", "is_correct": true},
+            {"choice_text": "إهمال المتن والاهتمام بالسند", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا كان الإمام مالك يتوقف في بعض الأحاديث الصحيحة التي لم يعرفها أهل المدينة؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه كان يرى أن المدينة هي دار الهجرة ومأوى المؤمنين، فإذا لم يعرف أهلها العلم توقف فيه [14].",
+        "choices": [
+            {"choice_text": "لأنه يضعفها", "is_correct": false},
+            {"choice_text": "لأنها تخالف القياس", "is_correct": false},
+            {"choice_text": "بسبب اعتماده على عمل أهل المدينة", "is_correct": true},
+            {"choice_text": "لعدم وجود أسانيد لها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي وصفه المصدر بأنه (أعظم أثر لمالك بأيدينا) وهو كتاب حديث؟",
+        "difficulty_score": 200,
+        "explanation": "كتاب الموطأ هو أعظم كتاب للإمام مالك وهو كتاب حديث [38].",
+        "choices": [
+            {"choice_text": "المدونة", "is_correct": false},
+            {"choice_text": "الموطأ", "is_correct": true},
+            {"choice_text": "الرسالة", "is_correct": false},
+            {"choice_text": "الأم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يسرد الحديث (سرداً) وأنكرت عليه عائشة ذلك؟",
+        "difficulty_score": 400,
+        "explanation": "أبو هريرة رضي الله عنه كان يسرد الأحاديث، وقالت عائشة ما كان النبي يسرد كسردكم [39].",
+        "choices": [
+            {"choice_text": "ابن عمر", "is_correct": false},
+            {"choice_text": "أبو هريرة", "is_correct": true},
+            {"choice_text": "ابن عباس", "is_correct": false},
+            {"choice_text": "ابن مسعود", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المدرسة الفقهية التي تعتبر (مدرسة أهل الرأي) في مقابل مدارس المحدثين؟",
+        "difficulty_score": 300,
+        "explanation": "المذاهب الثلاثة (مالك، الشافعي، أحمد) ترجع للمحدثين، بينما يرجع مذهب أبي حنيفة لأهل الرأي [40, 41].",
+        "choices": [
+            {"choice_text": "الشافعية", "is_correct": false},
+            {"choice_text": "المالكية", "is_correct": false},
+            {"choice_text": "الحنفية", "is_correct": true},
+            {"choice_text": "الحنابلة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا امتاز الإمام أحمد في جمعه بين مدرسة الشافعي ومدرسته؟",
+        "difficulty_score": 700,
+        "explanation": "جمع بين سعة الرواية جداً (مليون حديث) وعمق المعرفة والتمييز للصحيح من الضعيف وفقهها [42].",
+        "choices": [
+            {"choice_text": "بالتوسع في القياس فقط", "is_correct": false},
+            {"choice_text": "بالجمع بين سعة الرواية وعمق التمييز والفقه", "is_correct": true},
+            {"choice_text": "بالاكتفاء بموطأ مالك", "is_correct": false},
+            {"choice_text": "بترك العمل بالحديث الضعيف مطلقاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل أبو بكر رضي الله عنه إذا جاءت مسألة ليس لديه فيها علم من الكتاب والسنة؟",
+        "difficulty_score": 500,
+        "explanation": "كان يجمع الناس ويسألهم إن كان أحد لديه علم من النبي صلى الله عليه وسلم، كما فعل في ميراث الجدة [43].",
+        "choices": [
+            {"choice_text": "يقيسها على غيرها فوراً", "is_correct": false},
+            {"choice_text": "يفتي برأيه مباشرة", "is_correct": false},
+            {"choice_text": "يجمع الناس ويسألهم عما لديهم من أثر", "is_correct": true},
+            {"choice_text": "يتوقف ولا يحكم فيها أبداً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في مسألة (المفوضة) في الكوفة، ما الذي جعل ابن مسعود يفتي برأيه؟",
+        "difficulty_score": 600,
+        "explanation": "بعد أن اعتذر مراراً ولم يجد أثراً، استجمع أمره وأفتى برأيه، ثم تبين لاحقاً موافقته لقضاء النبي [43, 44].",
+        "choices": [
+            {"choice_text": "لأنه يحب الرأي", "is_correct": false},
+            {"choice_text": "لعدم وجود الصحابة في الكوفة", "is_correct": false},
+            {"choice_text": "لأنه لم يجد سبيلاً إلا أن يفتي بعد طول اعتذار", "is_correct": true},
+            {"choice_text": "بسبب ضغط الناس عليه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو موقف أهل الحديث من (التأويل)؟",
+        "difficulty_score": 700,
+        "explanation": "لا يقبلون التأويل بلا حجة (كالحنفية)، ولا يجمدون على الظاهر (كالظاهرية)، بل يأخذون بالتأويل بدليله من النص [26, 27].",
+        "choices": [
+            {"choice_text": "يرفضونه مطلقاً", "is_correct": false},
+            {"choice_text": "يقبلونه بالهوى", "is_correct": false},
+            {"choice_text": "يأخذون به إذا قام عليه دليل من النص", "is_correct": true},
+            {"choice_text": "يوافقون الحنفية فيه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي قيل عنه: (كان ينهى أن يكتب عنه شيء)؟",
+        "difficulty_score": 500,
+        "explanation": "الإمام أحمد بن حنبل كان ينهى عن تدوين كلامه وفقهه حرصاً على الاتباع [42].",
+        "choices": [
+            {"choice_text": "الشافعي", "is_correct": false},
+            {"choice_text": "مالك", "is_correct": false},
+            {"choice_text": "الإمام أحمد", "is_correct": true},
+            {"choice_text": "البخاري", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا ذم الذهبي بعض أهل الحديث في زمنه؟",
+        "difficulty_score": 800,
+        "explanation": "بسبب مبالغتهم في جمع طرق الأحاديث الغريبة والساقطة التي لا قيمة لها [30].",
+        "choices": [
+            {"choice_text": "لتركهم الرواية", "is_correct": false},
+            {"choice_text": "لمبالغتهم في جمع طرق لا حاجة لها", "is_correct": true},
+            {"choice_text": "لاشتغالهم بالفقه", "is_correct": false},
+            {"choice_text": "لضعف حفظهم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو العيب الذي ذكره المصدر في فقه الغزالي (حجة الإسلام)؟",
+        "difficulty_score": 700,
+        "explanation": "إعوازه الشديد في الحديث، حيث لم يرجع لصحيح البخاري إلا عند موته [18].",
+        "choices": [
+            {"choice_text": "صعوبة أسلوبه", "is_correct": false},
+            {"choice_text": "عدم معرفته باللغة", "is_correct": false},
+            {"choice_text": "الإعواز الحديثي في فقهه", "is_correct": true},
+            {"choice_text": "تعصبه للمذهب الحنبلي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الذي يميز (أبي عبيد) بين أئمة الحديث النقاد؟",
+        "difficulty_score": 600,
+        "explanation": "تميز واختص بـ (غريب الحديث) أكثر من غيره [9].",
+        "choices": [
+            {"choice_text": "علم الرجال", "is_correct": false},
+            {"choice_text": "علل الحديث", "is_correct": false},
+            {"choice_text": "غريب الحديث", "is_correct": true},
+            {"choice_text": "كثرة السرد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة تداخل مدرسة الرأي والأثر عند الشافعي؟",
+        "difficulty_score": 800,
+        "explanation": "تلاقح المدرستين وظهور مذهب الشافعية الذي انفصل به عن مالك وأهل الرأي [16].",
+        "choices": [
+            {"choice_text": "ضعف مذهبه", "is_correct": false},
+            {"choice_text": "تلاقح المدرستين وتميز الشافعية", "is_correct": true},
+            {"choice_text": "عودته لمذهب مالك تماماً", "is_correct": false},
+            {"choice_text": "ترك الحديث تماماً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو (علم الآلة) الذي يضبط الاستدلال الفقهي؟",
+        "difficulty_score": 400,
+        "explanation": "أصول الفقه هو علم الآلة الذي يضبط الاستدلال [45].",
+        "choices": [
+            {"choice_text": "علم النحو", "is_correct": false},
+            {"choice_text": "أصول الفقه", "is_correct": true},
+            {"choice_text": "علم التاريخ", "is_correct": false},
+            {"choice_text": "علم العروض", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي قال عنه الحميدي: (إن فاتك عقل هذا الفتى فلا تدركه مرة ثانية)؟",
+        "difficulty_score": 600,
+        "explanation": "كان يقصد الإمام الشافعي، وحث أحمد على الجلوس إليه [21].",
+        "choices": [
+            {"choice_text": "مالك", "is_correct": false},
+            {"choice_text": "ابن عيينة", "is_correct": false},
+            {"choice_text": "الشافعي", "is_correct": true},
+            {"choice_text": "أبو حنيفة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الحقيقي للانشقاق بين المحدثين والفقهاء عند المتأخرين؟",
+        "difficulty_score": 900,
+        "explanation": "الضعف في التخصص الثاني عند كل طائفة (ضعف الفقهاء في الحديث وضعف المحدثين في الفقه) [35].",
+        "choices": [
+            {"choice_text": "اختلاف العقيدة", "is_correct": false},
+            {"choice_text": "التنافس على المناصب", "is_correct": false},
+            {"choice_text": "الضعف في التخصص المقابل عند كل منهما", "is_correct": true},
+            {"choice_text": "تباعد البلاد والأقاليم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية يعد (مصدراً ثرياً) لفقه الأموال عند المحدثين؟",
+        "difficulty_score": 500,
+        "explanation": "كتاب الأموال لأبي عبيد هو مصدر ثري في فقه الأموال [33].",
+        "choices": [
+            {"choice_text": "الموطأ", "is_correct": false},
+            {"choice_text": "كتاب الأموال لأبي عبيد", "is_correct": true},
+            {"choice_text": "صحيح مسلم", "is_correct": false},
+            {"choice_text": "سنن النسائي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر أن تصحيح السيوطي في الجامع الصغير (لا قيمة له علمياً) في الوقت الحالي؟",
+        "difficulty_score": 900,
+        "explanation": "لأنه يبني على ظاهر إسناد واحد دون الاطلاع على بقية الطرق وكلام الأئمة النقاد المتقدمين [25, 46].",
+        "choices": [
+            {"choice_text": "لأنه كان متعصباً", "is_correct": false},
+            {"choice_text": "لضياع كتبه", "is_correct": false},
+            {"choice_text": "لأنه يعتمد على ظاهر الإسناد ويغفل كلام النقاد المتقدمين", "is_correct": true},
+            {"choice_text": "لأنه لم يكن حافظاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الفتوى التي ذكرها المصدر كمثال على مخالفة المتأخرين لنصوص إمامهم (أحمد)؟",
+        "difficulty_score": 800,
+        "explanation": "مسألة خلو المرأة بالماء، حيث ذكر المتأخرون أحاديث ضعيفة بينما نص الإمام على المسألة بناءً على أثر الصحابة [47, 48].",
+        "choices": [
+            {"choice_text": "ميراث الجدة", "is_correct": false},
+            {"choice_text": "خلو المرأة بالماء", "is_correct": true},
+            {"choice_text": "الطلاق البدعي", "is_correct": false},
+            {"choice_text": "صلاة الجماعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الارتباط الأساسي لـ (فقهاء المحدثين) كما ذكر في المقدمة؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن هذا المعنى مرتبط بسنة النبي صلى الله عليه وسلم رواية ودراية [1].",
+        "choices": [
+            {"choice_text": "بعلم الكلام والمنطق", "is_correct": false},
+            {"choice_text": "بالفلسفة اليونانية", "is_correct": false},
+            {"choice_text": "بسنة النبي صلى الله عليه وسلم رواية ودراية", "is_correct": true},
+            {"choice_text": "بعلم التاريخ فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في حديث أبي موسى، ما هي صفة الأرض التي (قبلت الماء فأنبتت الكلأ والعشب الكثير)؟",
+        "difficulty_score": 200,
+        "explanation": "الأرض النقية هي التي قبلت الماء وأنبتت الزرع، وهي تمثل من فقه في دين الله [2].",
+        "choices": [
+            {"choice_text": "الأرض الأجادب", "is_correct": false},
+            {"choice_text": "الأرض النقية", "is_correct": true},
+            {"choice_text": "الأرض القيعان", "is_correct": false},
+            {"choice_text": "الأرض الصخرية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يطلق على الذين يحفظون الحديث ويؤدونه كما سمعوه دون تعمق في فهمه؟",
+        "difficulty_score": 300,
+        "explanation": "يسمون بالنقلة، وهم حلقة وصل مهمة في وصول السنة لمن بعدهم [4].",
+        "choices": [
+            {"choice_text": "النقلة", "is_correct": true},
+            {"choice_text": "النقاد الصيارفة", "is_correct": false},
+            {"choice_text": "أهل الرأي", "is_correct": false},
+            {"choice_text": "الأصوليون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي اختص بـ (فقه الحديث) أكثر من غيره بين أقرانه الأربعة؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن الإمام أحمد اختص بفقه الحديث أكثر من علي بن المديني ويحيى بن معين وغيرهم [9].",
+        "choices": [
+            {"choice_text": "يحيى بن معين", "is_correct": false},
+            {"choice_text": "علي بن المديني", "is_correct": false},
+            {"choice_text": "الإمام أحمد", "is_correct": true},
+            {"choice_text": "أبو عبيد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الأئمة التاليين كان (أكثر رواية وعلماً) من إبراهيم النخعي في الكوفة؟",
+        "difficulty_score": 500,
+        "explanation": "الشعبي كان أكثر رواية وعلماً من إبراهيم النخعي، وكان إبراهيم يعمد إلى الرأي كثيراً [5].",
+        "choices": [
+            {"choice_text": "حماد بن أبي سليمان", "is_correct": false},
+            {"choice_text": "الشعبي", "is_correct": true},
+            {"choice_text": "أبو حنيفة", "is_correct": false},
+            {"choice_text": "القاضي شريح", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المعلم الأول من معالم فقه المحدثين كما ورد في النص؟",
+        "difficulty_score": 300,
+        "explanation": "المعلم الأول والظاهر جداً فيهم هو تعظيم النصوص والتمسك بها [6].",
+        "choices": [
+            {"choice_text": "التوسع في القياس", "is_correct": false},
+            {"choice_text": "تقديم العقل على النقل", "is_correct": false},
+            {"choice_text": "تعظيم النصوص والتمسك بها", "is_correct": true},
+            {"choice_text": "إهمال المتن والاهتمام بالسند", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا كان الإمام مالك يتوقف في بعض الأحاديث الصحيحة التي لم يعرفها أهل المدينة؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه كان يرى أن المدينة هي دار الهجرة ومأوى المؤمنين، فإذا لم يعرف أهلها العلم توقف فيه [14].",
+        "choices": [
+            {"choice_text": "لأنه يضعفها", "is_correct": false},
+            {"choice_text": "لأنها تخالف القياس", "is_correct": false},
+            {"choice_text": "بسبب اعتماده على عمل أهل المدينة", "is_correct": true},
+            {"choice_text": "لعدم وجود أسانيد لها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي وصفه المصدر بأنه (أعظم أثر لمالك بأيدينا) وهو كتاب حديث؟",
+        "difficulty_score": 200,
+        "explanation": "كتاب الموطأ هو أعظم كتاب للإمام مالك وهو كتاب حديث [38].",
+        "choices": [
+            {"choice_text": "المدونة", "is_correct": false},
+            {"choice_text": "الموطأ", "is_correct": true},
+            {"choice_text": "الرسالة", "is_correct": false},
+            {"choice_text": "الأم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يسرد الحديث (سرداً) وأنكرت عليه عائشة ذلك؟",
+        "difficulty_score": 400,
+        "explanation": "أبو هريرة رضي الله عنه كان يسرد الأحاديث، وقالت عائشة ما كان النبي يسرد كسردكم [39].",
+        "choices": [
+            {"choice_text": "ابن عمر", "is_correct": false},
+            {"choice_text": "أبو هريرة", "is_correct": true},
+            {"choice_text": "ابن عباس", "is_correct": false},
+            {"choice_text": "ابن مسعود", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المدرسة الفقهية التي تعتبر (مدرسة أهل الرأي) في مقابل مدارس المحدثين؟",
+        "difficulty_score": 300,
+        "explanation": "المذاهب الثلاثة (مالك، الشافعي، أحمد) ترجع للمحدثين، بينما يرجع مذهب أبي حنيفة لأهل الرأي [40, 41].",
+        "choices": [
+            {"choice_text": "الشافعية", "is_correct": false},
+            {"choice_text": "المالكية", "is_correct": false},
+            {"choice_text": "الحنفية", "is_correct": true},
+            {"choice_text": "الحنابلة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا امتاز الإمام أحمد في جمعه بين مدرسة الشافعي ومدرسته؟",
+        "difficulty_score": 700,
+        "explanation": "جمع بين سعة الرواية جداً (مليون حديث) وعمق المعرفة والتمييز للصحيح من الضعيف وفقهها [42].",
+        "choices": [
+            {"choice_text": "بالتوسع في القياس فقط", "is_correct": false},
+            {"choice_text": "بالجمع بين سعة الرواية وعمق التمييز والفقه", "is_correct": true},
+            {"choice_text": "بالاكتفاء بموطأ مالك", "is_correct": false},
+            {"choice_text": "بترك العمل بالحديث الضعيف مطلقاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل أبو بكر رضي الله عنه إذا جاءت مسألة ليس لديه فيها علم من الكتاب والسنة؟",
+        "difficulty_score": 500,
+        "explanation": "كان يجمع الناس ويسألهم إن كان أحد لديه علم من النبي صلى الله عليه وسلم، كما فعل في ميراث الجدة [43].",
+        "choices": [
+            {"choice_text": "يقيسها على غيرها فوراً", "is_correct": false},
+            {"choice_text": "يفتي برأيه مباشرة", "is_correct": false},
+            {"choice_text": "يجمع الناس ويسألهم عما لديهم من أثر", "is_correct": true},
+            {"choice_text": "يتوقف ولا يحكم فيها أبداً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في مسألة (المفوضة) في الكوفة، ما الذي جعل ابن مسعود يفتي برأيه؟",
+        "difficulty_score": 600,
+        "explanation": "بعد أن اعتذر مراراً ولم يجد أثراً، استجمع أمره وأفتى برأيه، ثم تبين لاحقاً موافقته لقضاء النبي [43, 44].",
+        "choices": [
+            {"choice_text": "لأنه يحب الرأي", "is_correct": false},
+            {"choice_text": "لعدم وجود الصحابة في الكوفة", "is_correct": false},
+            {"choice_text": "لأنه لم يجد سبيلاً إلا أن يفتي بعد طول اعتذار", "is_correct": true},
+            {"choice_text": "بسبب ضغط الناس عليه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو موقف أهل الحديث من (التأويل)؟",
+        "difficulty_score": 700,
+        "explanation": "لا يقبلون التأويل بلا حجة (كالحنفية)، ولا يجمدون على الظاهر (كالظاهرية)، بل يأخذون بالتأويل بدليله من النص [26, 27].",
+        "choices": [
+            {"choice_text": "يرفضونه مطلقاً", "is_correct": false},
+            {"choice_text": "يقبلونه بالهوى", "is_correct": false},
+            {"choice_text": "يأخذون به إذا قام عليه دليل من النص", "is_correct": true},
+            {"choice_text": "يوافقون الحنفية فيه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي قيل عنه: (كان ينهى أن يكتب عنه شيء)؟",
+        "difficulty_score": 500,
+        "explanation": "الإمام أحمد بن حنبل كان ينهى عن تدوين كلامه وفقهه حرصاً على الاتباع [42].",
+        "choices": [
+            {"choice_text": "الشافعي", "is_correct": false},
+            {"choice_text": "مالك", "is_correct": false},
+            {"choice_text": "الإمام أحمد", "is_correct": true},
+            {"choice_text": "البخاري", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا ذم الذهبي بعض أهل الحديث في زمنه؟",
+        "difficulty_score": 800,
+        "explanation": "بسبب مبالغتهم في جمع طرق الأحاديث الغريبة والساقطة التي لا قيمة لها [30].",
+        "choices": [
+            {"choice_text": "لتركهم الرواية", "is_correct": false},
+            {"choice_text": "لمبالغتهم في جمع طرق لا حاجة لها", "is_correct": true},
+            {"choice_text": "لاشتغالهم بالفقه", "is_correct": false},
+            {"choice_text": "لضعف حفظهم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو العيب الذي ذكره المصدر في فقه الغزالي (حجة الإسلام)؟",
+        "difficulty_score": 700,
+        "explanation": "إعوازه الشديد في الحديث، حيث لم يرجع لصحيح البخاري إلا عند موته [18].",
+        "choices": [
+            {"choice_text": "صعوبة أسلوبه", "is_correct": false},
+            {"choice_text": "عدم معرفته باللغة", "is_correct": false},
+            {"choice_text": "الإعواز الحديثي في فقهه", "is_correct": true},
+            {"choice_text": "تعصبه للمذهب الحنبلي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما الذي يميز (أبي عبيد) بين أئمة الحديث النقاد؟",
+        "difficulty_score": 600,
+        "explanation": "تميز واختص بـ (غريب الحديث) أكثر من غيره [9].",
+        "choices": [
+            {"choice_text": "علم الرجال", "is_correct": false},
+            {"choice_text": "علل الحديث", "is_correct": false},
+            {"choice_text": "غريب الحديث", "is_correct": true},
+            {"choice_text": "كثرة السرد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة تداخل مدرسة الرأي والأثر عند الشافعي؟",
+        "difficulty_score": 800,
+        "explanation": "تلاقح المدرستين وظهور مذهب الشافعية الذي انفصل به عن مالك وأهل الرأي [16].",
+        "choices": [
+            {"choice_text": "ضعف مذهبه", "is_correct": false},
+            {"choice_text": "تلاقح المدرستين وتميز الشافعية", "is_correct": true},
+            {"choice_text": "عودته لمذهب مالك تماماً", "is_correct": false},
+            {"choice_text": "ترك الحديث تماماً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو (علم الآلة) الذي يضبط الاستدلال الفقهي؟",
+        "difficulty_score": 400,
+        "explanation": "أصول الفقه هو علم الآلة الذي يضبط الاستدلال [45].",
+        "choices": [
+            {"choice_text": "علم النحو", "is_correct": false},
+            {"choice_text": "أصول الفقه", "is_correct": true},
+            {"choice_text": "علم التاريخ", "is_correct": false},
+            {"choice_text": "علم العروض", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي قال عنه الحميدي: (إن فاتك عقل هذا الفتى فلا تدركه مرة ثانية)؟",
+        "difficulty_score": 600,
+        "explanation": "كان يقصد الإمام الشافعي، وحث أحمد على الجلوس إليه [21].",
+        "choices": [
+            {"choice_text": "مالك", "is_correct": false},
+            {"choice_text": "ابن عيينة", "is_correct": false},
+            {"choice_text": "الشافعي", "is_correct": true},
+            {"choice_text": "أبو حنيفة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الحقيقي للانشقاق بين المحدثين والفقهاء عند المتأخرين؟",
+        "difficulty_score": 900,
+        "explanation": "الضعف في التخصص الثاني عند كل طائفة (ضعف الفقهاء في الحديث وضعف المحدثين في الفقه) [35].",
+        "choices": [
+            {"choice_text": "اختلاف العقيدة", "is_correct": false},
+            {"choice_text": "التنافس على المناصب", "is_correct": false},
+            {"choice_text": "الضعف في التخصص المقابل عند كل منهما", "is_correct": true},
+            {"choice_text": "تباعد البلاد والأقاليم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية يعد (مصدراً ثرياً) لفقه الأموال عند المحدثين؟",
+        "difficulty_score": 500,
+        "explanation": "كتاب الأموال لأبي عبيد هو مصدر ثري في فقه الأموال [33].",
+        "choices": [
+            {"choice_text": "الموطأ", "is_correct": false},
+            {"choice_text": "كتاب الأموال لأبي عبيد", "is_correct": true},
+            {"choice_text": "صحيح مسلم", "is_correct": false},
+            {"choice_text": "سنن النسائي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر أن تصحيح السيوطي في الجامع الصغير (لا قيمة له علمياً) في الوقت الحالي؟",
+        "difficulty_score": 900,
+        "explanation": "لأنه يبني على ظاهر إسناد واحد دون الاطلاع على بقية الطرق وكلام الأئمة النقاد المتقدمين [25, 46].",
+        "choices": [
+            {"choice_text": "لأنه كان متعصباً", "is_correct": false},
+            {"choice_text": "لضياع كتبه", "is_correct": false},
+            {"choice_text": "لأنه يعتمد على ظاهر الإسناد ويغفل كلام النقاد المتقدمين", "is_correct": true},
+            {"choice_text": "لأنه لم يكن حافظاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الفتوى التي ذكرها المصدر كمثال على مخالفة المتأخرين لنصوص إمامهم (أحمد)؟",
+        "difficulty_score": 800,
+        "explanation": "مسألة خلو المرأة بالماء، حيث ذكر المتأخرون أحاديث ضعيفة بينما نص الإمام على المسألة بناءً على أثر الصحابة [47, 48].",
+        "choices": [
+            {"choice_text": "ميراث الجدة", "is_correct": false},
+            {"choice_text": "خلو المرأة بالماء", "is_correct": true},
+            {"choice_text": "الطلاق البدعي", "is_correct": false},
+            {"choice_text": "صلاة الجماعة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه المصدر على الغزالي عند مناقشة موقعه في الفقه الشافعي؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن الغزالي يلقب بـ 'حجة الإسلام' ويُعتبر من أئمة المرحلة الثانية في المذهب الشافعي [1].",
+        "choices": [
+            {"choice_text": "شيخ الإسلام", "is_correct": false},
+            {"choice_text": "حجة الإسلام", "is_correct": true},
+            {"choice_text": "ناصر السنة", "is_correct": false},
+            {"choice_text": "إمام الحرمين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في حديث أبي موسى، ما هي صفة الأرض 'الأجادب'؟",
+        "difficulty_score": 200,
+        "explanation": "الأجادب هي التي أمسكت الماء فنفع الله بها الناس، وهي تمثل الحفاظ الذين نقلوا العلم [2].",
+        "choices": [
+            {"choice_text": "أنبتت الكلأ والعشب", "is_correct": false},
+            {"choice_text": "أمسكت الماء فنفع الله بها الناس", "is_correct": true},
+            {"choice_text": "لا تمسك ماء ولا تنبت كلأ", "is_correct": false},
+            {"choice_text": "قبلت الماء فأنبتت الزرع", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي دعا له النبي ﷺ بقوله: 'اللهم فقهه في الدين وعلمه التأويل'؟",
+        "difficulty_score": 100,
+        "explanation": "دعا النبي ﷺ بهذا الدعاء لابن عباس رضي الله عنه، فكانت خصيصة له في الفقه [3].",
+        "choices": [
+            {"choice_text": "ابن عمر", "is_correct": false},
+            {"choice_text": "ابن مسعود", "is_correct": false},
+            {"choice_text": "ابن عباس", "is_correct": true},
+            {"choice_text": "زيد بن ثابت", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم انتظر ابن عباس من الزمن ليسأل عمر بن الخطاب عن المرأتين اللتين تظاهرتا على النبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر ابن عباس أنه انتظر سنتين ليسأل عمر رضي الله عنه هيبةً له [4].",
+        "choices": [
+            {"choice_text": "شهر واحد", "is_correct": false},
+            {"choice_text": "سنة واحدة", "is_correct": false},
+            {"choice_text": "سنتين", "is_correct": true},
+            {"choice_text": "خمس سنوات", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وصف الشعبي لإبراهيم النخعي كما ورد في النص؟",
+        "difficulty_score": 400,
+        "explanation": "كان الشعبي يمر بإبراهيم ويقول: 'أنا أفقه منك حياً وأنت أفقه مني ميتاً' [5].",
+        "choices": [
+            {"choice_text": "أنه أحفظ منه للحديث", "is_correct": false},
+            {"choice_text": "أنه أفقه منه حياً وميتاً", "is_correct": false},
+            {"choice_text": "أنه أفقه منه حياً وإبراهيم أفقه ميتاً", "is_correct": true},
+            {"choice_text": "أنه لا علم له بالرأي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي كانت بضاعته في الحديث أقل من إبراهيم النخعي واشتهر بعده في الكوفة؟",
+        "difficulty_score": 500,
+        "explanation": "حماد بن أبي سليمان اشتهر بعد إبراهيم وكانت بضاعته في الحديث وضبطه له أقل [17، 18].",
+        "choices": [
+            {"choice_text": "أبو حنيفة", "is_correct": false},
+            {"choice_text": "حماد بن أبي سليمان", "is_correct": true},
+            {"choice_text": "سفيان الثوري", "is_correct": false},
+            {"choice_text": "شعبة بن الحجاج", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المعلم الثالث من معالم فقه المحدثين؟",
+        "difficulty_score": 300,
+        "explanation": "المعلم الثالث هو البعد عن الرأي والتقليل من القياس [6].",
+        "choices": [
+            {"choice_text": "تعظيم النصوص", "is_correct": false},
+            {"choice_text": "العناية بالرواية", "is_correct": false},
+            {"choice_text": "البعد عن الرأي والتقليل من القياس", "is_correct": true},
+            {"choice_text": "تعدد المصنفات", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المذاهب التي وصفها المصدر بأنها ترجع في الأصل لفقهاء المحدثين؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن المذاهب الثلاثة (المالكية والشافعية والحنابلة) ترجع لفقهاء المحدثين [18، 19].",
+        "choices": [
+            {"choice_text": "الحنفية والمالكية", "is_correct": false},
+            {"choice_text": "الشافعية والحنفية", "is_correct": false},
+            {"choice_text": "المالكية والشافعية والحنابلة", "is_correct": true},
+            {"choice_text": "الظاهرية والحنفية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي ألفه الخطيب البغدادي في آداب الفقيه والمحدث؟",
+        "difficulty_score": 400,
+        "explanation": "ألف الخطيب البغدادي كتاب 'الفقيه والمتفقه' [7].",
+        "choices": [
+            {"choice_text": "جامع بيان العلم وفضله", "is_correct": false},
+            {"choice_text": "الفقيه والمتفقه", "is_correct": true},
+            {"choice_text": "كتاب الأموال", "is_correct": false},
+            {"choice_text": "تاريخ بغداد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لم يكتب الحنابلة أصول فقه مستقلة في البداية حسب قول الدكتور آل بورنو؟",
+        "difficulty_score": 600,
+        "explanation": "لم يكتبوا لأنهم لم يحتاجوا لذلك، حيث كانت أصول الإمام أحمد واضحة ومعتمدة على 'الرسالة' للشافعي [61، 62].",
+        "choices": [
+            {"choice_text": "لعدم قدرتهم على التدوين", "is_correct": false},
+            {"choice_text": "لأنهم لم يحتاجوا لذلك بوضوح أصول إمامهم", "is_correct": true},
+            {"choice_text": "بسبب منع الإمام أحمد للكتابة", "is_correct": false},
+            {"choice_text": "لأنهم اعتمدوا على مذهب أبي حنيفة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كان موقف الإمام أحمد من كتاب 'الرسالة' للشافعي؟",
+        "difficulty_score": 500,
+        "explanation": "احتفى الإمام أحمد بكتاب 'الرسالة' وسار عليه وكان به حفياً [8].",
+        "choices": [
+            {"choice_text": "انتقده بشدة", "is_correct": false},
+            {"choice_text": "احتفى به وسار عليه", "is_correct": true},
+            {"choice_text": "أمر بحرقه", "is_correct": false},
+            {"choice_text": "لم يقرأه أبداً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي قال عنه الشافعي: 'إذا صح الحديث فأخبروني'؟",
+        "difficulty_score": 400,
+        "explanation": "سلم الشافعي القياد للإمام أحمد في الرواية وقال له ذلك [9].",
+        "choices": [
+            {"choice_text": "مالك بن أنس", "is_correct": false},
+            {"choice_text": "يحيى بن معين", "is_correct": false},
+            {"choice_text": "الإمام أحمد", "is_correct": true},
+            {"choice_text": "علي بن المديني", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه المدارس الفقهية اندثرت ولم تبقَ كالمذاهب الأربعة؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر مدارس اندثرت كالثورية والأوزاعية والليثية [10].",
+        "choices": [
+            {"choice_text": "الثورية", "is_correct": true},
+            {"choice_text": "المالكية", "is_correct": false},
+            {"choice_text": "الشافعية", "is_correct": false},
+            {"choice_text": "الحنفية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الرئيسي الذي جعل أهل الحديث يذمون 'مجمع الأسانيد' في القرون المتأخرة؟",
+        "difficulty_score": 700,
+        "explanation": "لأنهم استكثروا من جمع طرق غريبة وساقطة لا قيمة لها علمياً [11].",
+        "choices": [
+            {"choice_text": "لأنها أحاديث مكذوبة فقط", "is_correct": false},
+            {"choice_text": "لأنها تشغل عن العمل بالقرآن", "is_correct": false},
+            {"choice_text": "لاستكثارهم من جمع طرق غريبة وساقطة لا حاجة لها", "is_correct": true},
+            {"choice_text": "لأنها تخالف القياس", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المعلم الرابع لفقه المحدثين؟",
+        "difficulty_score": 400,
+        "explanation": "المعلم الرابع هو أن فقه المحدثين فقه ثري ومادته متوفرة [12].",
+        "choices": [
+            {"choice_text": "اعتماد الرأي", "is_correct": false},
+            {"choice_text": "الجمود على الظاهر", "is_correct": false},
+            {"choice_text": "ثراء المادة الفقهية وتوفرها", "is_correct": true},
+            {"choice_text": "ترك المصنفات", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل الصحابة عندما يأتي أعرابي يسأل النبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يفرحون ويستمعون لسؤاله لأنهم كانوا يهابون سؤال النبي ﷺ أحياناً [38، 39].",
+        "choices": [
+            {"choice_text": "يمنعونه من السؤال", "is_correct": false},
+            {"choice_text": "يفرحون ويستمعون لسؤاله", "is_correct": true},
+            {"choice_text": "يسخرون منه", "is_correct": false},
+            {"choice_text": "يغادرون المجلس", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي كتاب مما يلي يُعد مصدراً ثرياً لمعرفة فقه المحدثين من خلال التبويب؟",
+        "difficulty_score": 500,
+        "explanation": "صحيح البخاري ومصنف ابن أبي شيبة والنسائي مليئة بالفقه من خلال تبويباتها [13].",
+        "choices": [
+            {"choice_text": "صحيح البخاري", "is_correct": true},
+            {"choice_text": "كتاب العلم للغزالي", "is_correct": false},
+            {"choice_text": "المدونة الكبرى", "is_correct": false},
+            {"choice_text": "تاريخ الطبري", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الانتقاد الذي وجهه الذهبي لبعض محدثي زمانه؟",
+        "difficulty_score": 800,
+        "explanation": "انتقدهم لاستغراقهم في جمع طرق حديث واحد مثل 'إنما الأعمال بالنيات' بأعداد كبيرة دون فائدة [11].",
+        "choices": [
+            {"choice_text": "تركهم للرواية بالمرة", "is_correct": false},
+            {"choice_text": "استغراقهم في جمع طرق لا قيمة لها", "is_correct": true},
+            {"choice_text": "اشتغالهم بالسياسة", "is_correct": false},
+            {"choice_text": "ضعف حفظهم للمتون", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة 'إعواز الفقه المتأخر' عند الغزالي كما يرى المؤلف؟",
+        "difficulty_score": 900,
+        "explanation": "أدى ذلك لبناء ترجيحاته وآرائه دون استناد لنصوص كافية لضعف بضاعته الحديثية [1].",
+        "choices": [
+            {"choice_text": "قوة مذهبه الفقهي", "is_correct": false},
+            {"choice_text": "بناء الترجيحات دون استناد لنصوص كافية", "is_correct": true},
+            {"choice_text": "اتباعه لمنهج المتقدمين", "is_correct": false},
+            {"choice_text": "ترك القياس تماماً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي انتقل من الشافعية إلى الحنفية وأثر في مذهبهم بالرواية؟",
+        "difficulty_score": 600,
+        "explanation": "الطحاوي انتقل من الشافعية للحنفية وأثر أثراً إيجابياً بإثرائهم بالنصوص [14].",
+        "choices": [
+            {"choice_text": "أبو يعلى", "is_correct": false},
+            {"choice_text": "الطحاوي", "is_correct": true},
+            {"choice_text": "البيهقي", "is_correct": false},
+            {"choice_text": "الجصاص", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المسألة التي استشهد بها المصدر لبيان مخالفة المتأخرين لنص الإمام أحمد؟",
+        "difficulty_score": 700,
+        "explanation": "مسألة طهارة الرجل بفضل (بقايا) ماء وضوء المرأة [15].",
+        "choices": [
+            {"choice_text": "البيع بالتقسيط", "is_correct": false},
+            {"choice_text": "طهارة الرجل بفضل ماء المرأة", "is_correct": true},
+            {"choice_text": "مسح الخفين", "is_correct": false},
+            {"choice_text": "أوقات الصلاة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "على ماذا اعتمد الإمام أحمد في فتواه بمنع تطهر الرجل بفضل ماء المرأة؟",
+        "difficulty_score": 800,
+        "explanation": "اعتمد على ما جاء عن الصحابة رضي الله عنهم، رغم تضعيفه للأحاديث المرفوعة في الباب [15].",
+        "choices": [
+            {"choice_text": "على الأحاديث المرفوعة الضعيفة", "is_correct": false},
+            {"choice_text": "على الرأي المحض", "is_correct": false},
+            {"choice_text": "على آثار الصحابة", "is_correct": true},
+            {"choice_text": "على القياس", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو 'علم الآلة' الذي يضبط الاستدلال الفقهي؟",
+        "difficulty_score": 400,
+        "explanation": "أصول الفقه يُعتبر علم آلة يضبط الاستدلال [16].",
+        "choices": [
+            {"choice_text": "علم المنطق", "is_correct": false},
+            {"choice_text": "أصول الفقه", "is_correct": true},
+            {"choice_text": "علم العروض", "is_correct": false},
+            {"choice_text": "علم الحساب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا قدم الإمام أحمد الشافعي على ابن عيينة رغم علو إسناد الأخير؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه وجد عند الشافعي الفقه والعقل الذي لا يُدرك مرة ثانية [62، 63].",
+        "choices": [
+            {"choice_text": "لأن الشافعي كان أكبر سناً", "is_correct": false},
+            {"choice_text": "لأن الشافعي كان أكثر حديثاً", "is_correct": false},
+            {"choice_text": "لأنه وجد عنده الفقه والملكة الاستنباطية", "is_correct": true},
+            {"choice_text": "بسبب قرابته من النبي ﷺ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة 'الضعف في التخصص الثاني' عند المتأخرين؟",
+        "difficulty_score": 900,
+        "explanation": "أدى ذلك إلى اتساع الشقة والانشقاق بين المعتنين بالحديث والمعتنين بالفقه [64، 65].",
+        "choices": [
+            {"choice_text": "ظهور مذهب جديد", "is_correct": false},
+            {"choice_text": "اتساع الشقة والانشقاق بين المدرستين", "is_correct": true},
+            {"choice_text": "قوة البحث العلمي", "is_correct": false},
+            {"choice_text": "سهولة الإفتاء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر الإمام أحمد في سياق العودة لمنهج المتقدمين؟",
+        "difficulty_score": 500,
+        "explanation": "وصفه بأنه 'النجم' والعمدة في معرفة منهج أهل الحديث المتقدمين [17].",
+        "choices": [
+            {"choice_text": "النجم", "is_correct": true},
+            {"choice_text": "البحر", "is_correct": false},
+            {"choice_text": "الجبل", "is_correct": false},
+            {"choice_text": "القمر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي كتاب لأبي عبيد يُعد مصدراً ثرياً في 'فقه الطهارة'؟",
+        "difficulty_score": 300,
+        "explanation": "كتاب 'الطهور' لأبي عبيد مصدر ثري في هذا الباب [18].",
+        "choices": [
+            {"choice_text": "الطهور", "is_correct": true},
+            {"choice_text": "الأموال", "is_correct": false},
+            {"choice_text": "الناسخ والمنسوخ", "is_correct": false},
+            {"choice_text": "الغريب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو موقف أهل الحديث من 'القياس'؟",
+        "difficulty_score": 600,
+        "explanation": "هم ليسوا منكرين للقياس بالكلية، بل يقللون منه ويقدمون النص عليه [6].",
+        "choices": [
+            {"choice_text": "ينكرونه مطلقاً", "is_correct": false},
+            {"choice_text": "يقللون منه ويقدمون النص", "is_correct": true},
+            {"choice_text": "يفضلونه على الحديث الضعيف", "is_correct": false},
+            {"choice_text": "يوافقون الحنفية في التوسع فيه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل ابن مسعود عندما يحدّث عن النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "كان يحمر وجهه ويصفر ويتغير لونه هيبةً وتعظيماً للحديث [19].",
+        "choices": [
+            {"choice_text": "يضحك ويمزح", "is_correct": false},
+            {"choice_text": "يتغير لونه وتظهر عليه الهيبة", "is_correct": true},
+            {"choice_text": "يسرد الأحاديث بسرعة", "is_correct": false},
+            {"choice_text": "يفتي برأيه فوراً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يقارعه ابن عباس في 'تغاطس الماء' (السباحة)؟",
+        "difficulty_score": 400,
+        "explanation": "عمر بن الخطاب رضي الله عنه كان يتغاطس مع ابن عباس في الماء [20].",
+        "choices": [
+            {"choice_text": "أبو هريرة", "is_correct": false},
+            {"choice_text": "عمر بن الخطاب", "is_correct": true},
+            {"choice_text": "علي بن أبي طالب", "is_correct": false},
+            {"choice_text": "ابن عمر", "is_correct": false}
+        ]
+    }]
+    }

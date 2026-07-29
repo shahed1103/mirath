@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 33,
+    "questions": [
+        {
+        "question_text": "ما هو التشبيه الذي استخدمه المحاضر لوصف علوم مصادر التلقي؟",
+        "difficulty_score": 100,
+        "explanation": "المحاضر وصفها بالبوابات التي تفتح سيول المعرفة إذا أُحكمت، أو تغلقها إذا لم تُحكم [2].",
+        "choices": [
+            {"choice_text": "المصابيح المنيرة", "is_correct": false},
+            {"choice_text": "البوابات المنهجية", "is_correct": true},
+            {"choice_text": "السفن الجارية", "is_correct": false},
+            {"choice_text": "الجبال الراسخة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "عدم وضوح مصادر التلقي يؤدي بالإنسان إلى:",
+        "difficulty_score": 200,
+        "explanation": "يؤدي إلى الشتات وكثرة التقلبات وضياع حصيلة سنوات من التعلم [2].",
+        "choices": [
+            {"choice_text": "الشتات وكثرة التقلبات", "is_correct": true},
+            {"choice_text": "السرعة في الفهم", "is_correct": false},
+            {"choice_text": "زيادة الإنتاج العلمي", "is_correct": false},
+            {"choice_text": "الثبات المنهجي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في آية النساء (59)، جاء الأمر بطاعة أولي الأمر:",
+        "difficulty_score": 400,
+        "explanation": "لم يكرر فعل 'أطيعوا' مع أولي الأمر، مما يدل على أن طاعتهم تابعة وغير مستقلة [14].",
+        "choices": [
+            {"choice_text": "بفعل أمر مستقل (أطيعوا)", "is_correct": false},
+            {"choice_text": "مقيداً بطاعة الله والرسول", "is_correct": true},
+            {"choice_text": "مطلقاً في كل شيء", "is_correct": false},
+            {"choice_text": "مقدماً على طاعة الرسول", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المرجعية التي يجب الرد إليها عند التنازع في شيء؟",
+        "difficulty_score": 150,
+        "explanation": "الآية صريحة في الرد إلى الله والرسول عند وجود أي تنازع [33].",
+        "choices": [
+            {"choice_text": "رأي الأغلبية", "is_correct": false},
+            {"choice_text": "العلماء فقط", "is_correct": false},
+            {"choice_text": "الله والرسول", "is_correct": true},
+            {"choice_text": "الحاكم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "معنى 'التأويل' في قوله تعالى (وأحسن تأويلاً) حسب سياق الآية هو:",
+        "difficulty_score": 500,
+        "explanation": "التأويل هنا يعني العاقبة والمآل الذي ينتهي إليه الأمر [15].",
+        "choices": [
+            {"choice_text": "تفسير الكلام", "is_correct": false},
+            {"choice_text": "صرف اللفظ عن ظاهره", "is_correct": false},
+            {"choice_text": "العاقبة والمآل", "is_correct": true},
+            {"choice_text": "الرؤيا والمنام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "استدل بعض العلماء بآية التنازع على حجية الإجماع من خلال دلالة:",
+        "difficulty_score": 700,
+        "explanation": "الاستدلال المشهور بالإجماع هنا هو من باب دلالة المفهوم (إذا لم يحصل تنازع فالأمر مرضي) [23]، [24].",
+        "choices": [
+            {"choice_text": "المنطوق", "is_correct": false},
+            {"choice_text": "المفهوم", "is_correct": true},
+            {"choice_text": "الإشارة", "is_correct": false},
+            {"choice_text": "الاقتضاء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي سورة وصفت بأن مفتتحها مركزي جداً في باب المرجعية وتأسيس مرجعية الوحي؟",
+        "difficulty_score": 300,
+        "explanation": "سورة الحجرات هي التي تفتتح بالنهي عن التقدم بين يدي الله ورسوله [32].",
+        "choices": [
+            {"choice_text": "سورة البقرة", "is_correct": false},
+            {"choice_text": "سورة النساء", "is_correct": false},
+            {"choice_text": "سورة الحجرات", "is_correct": true},
+            {"choice_text": "سورة الفاتحة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الخلاف الحقيقي في التاريخ الإسلامي (حسب المصدر) يعود إلى:",
+        "difficulty_score": 800,
+        "explanation": "الخلاف الحقيقي في اعتبار المحركات والدوافع الأساسية (المرجعيات) وليس في مجرد تفسير الآيات [21].",
+        "choices": [
+            {"choice_text": "النزاع التفصيلي في تأويل الآيات", "is_correct": false},
+            {"choice_text": "اعتبار المحركات والمرجعيات الأساسية", "is_correct": true},
+            {"choice_text": "عدم معرفة اللغة العربية", "is_correct": false},
+            {"choice_text": "اختلاف الروايات الحديثية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'رفع الصوت المعنوي' فوق صوت النبي ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "هو تقديم المرجعيات الأخرى (عقلية، ذوقية، سياسية) على مرجعية الرسول ﷺ [13].",
+        "choices": [
+            {"choice_text": "الصراخ عند القبر الشريف", "is_correct": false},
+            {"choice_text": "تقديم المرجعيات الأخرى على مرجعيته", "is_correct": true},
+            {"choice_text": "تجاوز الآداب العامة", "is_correct": false},
+            {"choice_text": "رفع صوت الأذان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "إثبات حجية القرآن باعتبار صدق مبلغه يعتمد أساساً على:",
+        "difficulty_score": 400,
+        "explanation": "يعتمد على دراسة سيرة النبي ﷺ وصدقه وكماله الأخلاقي [34].",
+        "choices": [
+            {"choice_text": "البلاغة اللغوية فقط", "is_correct": false},
+            {"choice_text": "سيرة وصدق وكمال النبي ﷺ", "is_correct": true},
+            {"choice_text": "الاكتشافات العلمية", "is_correct": false},
+            {"choice_text": "اتفاق المستشرقين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كلما تضخمت الدعوة، فإن كشف صدق المدعي من كذبه يصبح:",
+        "difficulty_score": 450,
+        "explanation": "الدعوة الضخمة تجعل مطابقة حال الشخص لها أمراً يسهل فحصه وكشفه [10].",
+        "choices": [
+            {"choice_text": "أصعب", "is_correct": false},
+            {"choice_text": "أسهل", "is_correct": true},
+            {"choice_text": "مستحيلاً", "is_correct": false},
+            {"choice_text": "لا يتغير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو مؤلف كتاب 'النبأ العظيم'؟",
+        "difficulty_score": 250,
+        "explanation": "الكتاب من تأليف الشيخ محمد عبدالله دراز [6].",
+        "choices": [
+            {"choice_text": "الباقلاني", "is_correct": false},
+            {"choice_text": "الجرجاني", "is_correct": false},
+            {"choice_text": "محمد عبدالله دراز", "is_correct": true},
+            {"choice_text": "فاضل السامرائي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الطريق الثاني لإثبات حجية القرآن هو باعتبار:",
+        "difficulty_score": 350,
+        "explanation": "الطريق الثاني يركز على مضمون القرآن وعظمته في نفسه [35].",
+        "choices": [
+            {"choice_text": "صدق مبلغه", "is_correct": false},
+            {"choice_text": "مضمون القرآن وذاته", "is_correct": true},
+            {"choice_text": "تواتر النقل فقط", "is_correct": false},
+            {"choice_text": "كتابة المصحف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا عجز العرب عن معارضة القرآن (حسب السؤال الثاني في الطريق الثاني)؟",
+        "difficulty_score": 550,
+        "explanation": "هذا السؤال هو المحتوى الذي يُثبت به إعجاز القرآن في ذاته [36].",
+        "choices": [
+            {"choice_text": "لأنهم لم يصلهم التحدي", "is_correct": false},
+            {"choice_text": "بسبب انشغالهم بالحروب", "is_correct": false},
+            {"choice_text": "بسبب محتوى القرآن وإعجازه الذاتي", "is_correct": true},
+            {"choice_text": "لأنهم فقدوا مهارة الشعر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "نشأ علم البلاغة العربية بسبب سؤال:",
+        "difficulty_score": 300,
+        "explanation": "البلاغة نشأت للبحث في سر عجز العرب عن معارضة القرآن [12].",
+        "choices": [
+            {"choice_text": "كيف نكتب الشعر؟", "is_correct": false},
+            {"choice_text": "لماذا عجز العرب عن معارضة القرآن؟", "is_correct": true},
+            {"choice_text": "ما هي قواعد النحو؟", "is_correct": false},
+            {"choice_text": "كيف نترجم العلوم؟", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كتاب 'دلائل الإعجاز' هو من تأليف:",
+        "difficulty_score": 200,
+        "explanation": "كتاب دلائل الإعجاز هو أشهر كتب عبدالقاهر الجرجاني [25].",
+        "choices": [
+            {"choice_text": "الخطابي", "is_correct": false},
+            {"choice_text": "الجرجاني", "is_correct": true},
+            {"choice_text": "الباقلاني", "is_correct": false},
+            {"choice_text": "ابن القيم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "جوهر الإعجاز عند الجرجاني يكمن في:",
+        "difficulty_score": 750,
+        "explanation": "الجرجاني يرى الإعجاز في 'النظم' أي كيفية تركيب الكلمات [25].",
+        "choices": [
+            {"choice_text": "الاستعارة", "is_correct": false},
+            {"choice_text": "الكناية", "is_correct": false},
+            {"choice_text": "النظم في التركيب", "is_correct": true},
+            {"choice_text": "الكلمات المفردة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى محمد دراز 'التناسق الصوتي والوزني' في القرآن؟",
+        "difficulty_score": 650,
+        "explanation": "سماها القشرة الخارجية للإعجاز لأنها تدرك بمجرد السماع [37].",
+        "choices": [
+            {"choice_text": "جوهر الإعجاز", "is_correct": false},
+            {"choice_text": "القشرة الخارجية للإعجاز", "is_correct": true},
+            {"choice_text": "سر النظم", "is_correct": false},
+            {"choice_text": "اللطائف البيانية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في سورة مريم، يتغير وزن الآيات عند:",
+        "difficulty_score": 700,
+        "explanation": "يتغير الوزن في السورة عند الانتقال من قصص الأنبياء إلى تقرير العقيدة [27].",
+        "choices": [
+            {"choice_text": "نهاية كل صفحة", "is_correct": false},
+            {"choice_text": "تقرير العقيدة وفصل القصص", "is_correct": true},
+            {"choice_text": "ذكر أسماء الله الحسنى", "is_correct": false},
+            {"choice_text": "كل آية سجدة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "صاحب مقولة 'أعيذك بالله من أن تسمع ما يُدهش ولا تندهش' هو:",
+        "difficulty_score": 900,
+        "explanation": "هذه المقولة لمحمد محمد أبو موسى في سياق الحديث عن أثر القرآن [38]، [20].",
+        "choices": [
+            {"choice_text": "محمود شاكر", "is_correct": false},
+            {"choice_text": "فاضل السامرائي", "is_correct": false},
+            {"choice_text": "محمد محمد أبو موسى", "is_correct": true},
+            {"choice_text": "عبدالقاهر الجرجاني", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية اختصر كتاب الباقلاني في الإعجاز؟",
+        "difficulty_score": 850,
+        "explanation": "كتاب 'خلاصة البرهان' للدكتور العواجي هو اختصار لكتاب الباقلاني [5].",
+        "choices": [
+            {"choice_text": "الرسالة الشافية", "is_correct": false},
+            {"choice_text": "خلاصة البرهان", "is_correct": true},
+            {"choice_text": "إعجاز القرآن للأعجمي", "is_correct": false},
+            {"choice_text": "الكلمة في التعبير القرآني", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو العلم الذي يهتم بـ 'إعجاز القرآن في أعجمي القرآن'؟",
+        "difficulty_score": 800,
+        "explanation": "هو بحث قدمه الدكتور محمد رؤوف أبو سعدة حول دلالة الأسماء الأعجمية في القرآن [39]، [18].",
+        "choices": [
+            {"choice_text": "علم القراءات", "is_correct": false},
+            {"choice_text": "علم النحو", "is_correct": false},
+            {"choice_text": "بحث محمد رؤوف أبو سعدة", "is_correct": true},
+            {"choice_text": "تفسير الطبري", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "تميز سياق سورة الأنعام بتقديم صفة 'الخالق' على 'المرجع' لأنها:",
+        "difficulty_score": 900,
+        "explanation": "لأن السياق كان يتحدث عن الشركاء ونفي الولد، فكان ذكر الخلق أنسب [40]، [41].",
+        "choices": [
+            {"choice_text": "تتحدث عن الموت", "is_correct": false},
+            {"choice_text": "تتحدث عن نفي الشركاء والولد", "is_correct": true},
+            {"choice_text": "تتحدث عن أحكام الصلاة", "is_correct": false},
+            {"choice_text": "تتحدث عن قصص الأمم السابقة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "المقصود بـ 'الرد إلى الله' بعد وفاته ﷺ هو الرد إلى:",
+        "difficulty_score": 100,
+        "explanation": "الرد إلى الله هو الرد إلى كتابه القرآن [42].",
+        "choices": [
+            {"choice_text": "ذاته سبحانه", "is_correct": false},
+            {"choice_text": "كتابه القرآن", "is_correct": true},
+            {"choice_text": "الإلهام", "is_correct": false},
+            {"choice_text": "العلماء", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الشك الفكري اليوم (حسب المحاضرة) وصل إلى:",
+        "difficulty_score": 300,
+        "explanation": "وصل إلى الدوائر القريبة وحتى داخل البيوت الإسلامية المحافظة [17].",
+        "choices": [
+            {"choice_text": "العلماء فقط", "is_correct": false},
+            {"choice_text": "الدوائر القريبة والشباب", "is_correct": true},
+            {"choice_text": "المستشرقين فقط", "is_correct": false},
+            {"choice_text": "السياسيين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "آية 'إن كنتم تؤمنون بالله واليوم الآخر' تدل على أن الرد للوحي:",
+        "difficulty_score": 400,
+        "explanation": "الآية جعلت الرد للوحي شرطاً ومقتضى للإيمان بالله واليوم الآخر [33].",
+        "choices": [
+            {"choice_text": "مستحب", "is_correct": false},
+            {"choice_text": "شرط ومقتضى للإيمان", "is_correct": true},
+            {"choice_text": "خيار إضافي", "is_correct": false},
+            {"choice_text": "للعلماء فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لا توجد 'نفس بشرية' في القرآن؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الآيات تتكلم من مقام الربوبية والألوهية المباشر، عكس كلام البشر الذي يظهر فيه الضعف والحاجة [20].",
+        "choices": [
+            {"choice_text": "لأن النبي ﷺ لم يفهمه", "is_correct": false},
+            {"choice_text": "لأنه يتكلم بمقام الألوهية", "is_correct": true},
+            {"choice_text": "لأنه مكتوب بكلمات صعبة", "is_correct": false},
+            {"choice_text": "لأنه نزل دفعة واحدة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من الطرق المساعدة في إثبات صدق المبلغ (الطريق الأول):",
+        "difficulty_score": 500,
+        "explanation": "المبشرات به في الكتب السابقة هي أحد الأدلة المساعدة في إثبات نبوته ﷺ [43].",
+        "choices": [
+            {"choice_text": "الاكتشافات الطبية", "is_correct": false},
+            {"choice_text": "المبشرات في الكتب السابقة", "is_correct": true},
+            {"choice_text": "قوة العرب العسكرية", "is_correct": false},
+            {"choice_text": "جمال الخط العربي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كتاب 'الرسالة الشافية' للجرجاني ناقش فيه سؤال:",
+        "difficulty_score": 600,
+        "explanation": "ناقش فيه السؤال الأول: 'هل عجز العرب عن معارضته؟' [44].",
+        "choices": [
+            {"choice_text": "هل عجز العرب؟", "is_correct": true},
+            {"choice_text": "ما هي معاني الأسماء؟", "is_correct": false},
+            {"choice_text": "كيف نجمع القرآن؟", "is_correct": false},
+            {"choice_text": "من هم أولو الأمر؟", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الرد إلى الرسول ﷺ بعد وفاته يكون بـ:",
+        "difficulty_score": 150,
+        "explanation": "يكون بالرد إلى سنته ﷺ [42].",
+        "choices": [
+            {"choice_text": "الرد إلى قبره", "is_correct": false},
+            {"choice_text": "الرد إلى سنته", "is_correct": true},
+            {"choice_text": "الرد إلى آراء الصحابة فقط", "is_correct": false},
+            {"choice_text": "الرد إلى العقل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وصف المحاضر علم إعجاز القرآن عند المتقدمين بأنه:",
+        "difficulty_score": 400,
+        "explanation": "وصفه بأنه علم شريف جداً لكنه للأسف مهمل اليوم في برامج طلاب العلم [45].",
+        "choices": [
+            {"choice_text": "سهل جداً", "is_correct": false},
+            {"choice_text": "شريف ومهمل حالياً", "is_correct": true},
+            {"choice_text": "غير ضروري", "is_correct": false},
+            {"choice_text": "مقتصر على اللغة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في قوله (فلا تعجب) أو (ما العجب) من اختيار الرسول، يشير المحاضر إلى:",
+        "difficulty_score": 450,
+        "explanation": "يشير إلى أن من أثبت أن الله خالق، فليس بعجيب أن يختار من عباده رسولاً يبلغه كلامه [46]، [47].",
+        "choices": [
+            {"choice_text": "صعوبة الرسالة", "is_correct": false},
+            {"choice_text": "أن الإيمان بالخالق يستلزم إمكانية النبوة", "is_correct": true},
+            {"choice_text": "ذكاء النبي ﷺ", "is_correct": false},
+            {"choice_text": "جمال مكة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء اهتم بتفسير 'اللطائف' والتشابه البياني في العصر الحديث؟",
+        "difficulty_score": 200,
+        "explanation": "الدكتور فاضل السامرائي مشهور بكتبه وفيديوهاته حول اللطائف البيانية [48].",
+        "choices": [
+            {"choice_text": "سيد قطب", "is_correct": false},
+            {"choice_text": "فاضل السامرائي", "is_correct": true},
+            {"choice_text": "الشعراوي", "is_correct": false},
+            {"choice_text": "يوسف القرضاوي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو 'التجرد الإصلاحي' الذي ذكره أحد الطلاب؟",
+        "difficulty_score": 750,
+        "explanation": "المقصود به عدم التكسب الذاتي من الرسالة، وهو دليل على صدق المبلغ [49].",
+        "choices": [
+            {"choice_text": "ترك الدنيا تماماً", "is_correct": false},
+            {"choice_text": "عدم التكسب الذاتي من الرسالة", "is_correct": true},
+            {"choice_text": "العزلة في الغار", "is_correct": false},
+            {"choice_text": "تأليف الكتب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كتاب 'شرح الأصبهانية' ذكر كمرجع في مسألة:",
+        "difficulty_score": 800,
+        "explanation": "ذكر كمرجع في دائرة علاقة صدق المخبر بأدلة النبوة [43].",
+        "choices": [
+            {"choice_text": "النحو والصرف", "is_correct": false},
+            {"choice_text": "صدق المخبر وأدلة النبوة", "is_correct": true},
+            {"choice_text": "تاريخ مكة", "is_correct": false},
+            {"choice_text": "صفات الله", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفرق بين 'واشتعل الشيب في الرأس' و'واشتعل شيب الرأس' هو:",
+        "difficulty_score": 850,
+        "explanation": "الثانية (النص القرآني) تدل على شمول البياض لكل الرأس، وهذا من سر النظم [25]، [26].",
+        "choices": [
+            {"choice_text": "لا فرق بينهما", "is_correct": false},
+            {"choice_text": "الأولى أبلغ", "is_correct": false},
+            {"choice_text": "الثانية تدل على الشمول والاستيعاب", "is_correct": true},
+            {"choice_text": "الثانية أسهل نطقاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في سورة الفجر، وزن الآيات عند ذكر العذاب يوصف بأنه:",
+        "difficulty_score": 600,
+        "explanation": "يوصف بأنه 'قرع' يقرع أذن السامع ليتناسب مع شدة التهديد [28].",
+        "choices": [
+            {"choice_text": "هادئ ومنساب", "is_correct": false},
+            {"choice_text": "قرع مخيف", "is_correct": true},
+            {"choice_text": "طويل وممل", "is_correct": false},
+            {"choice_text": "غير منتظم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "تجميع الأحرف المقطعة في 'نص حكيم له سر قاطع' هو من باب:",
+        "difficulty_score": 550,
+        "explanation": "هي من اللطائف التكميلية التي ذكرها العلماء حول فواتح السور [50].",
+        "choices": [
+            {"choice_text": "أصل الإعجاز", "is_correct": false},
+            {"choice_text": "الأشياء اللطيفة التكميلية", "is_correct": true},
+            {"choice_text": "تفسير القرآن بالعقل", "is_correct": false},
+            {"choice_text": "الرد على المستشرقين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو 'أب الوليد' الذي ذُكر في قصة سماع القرآن؟",
+        "difficulty_score": 400,
+        "explanation": "هو عتبة بن ربيعة الذي ذهب ليفاوض النبي ﷺ فذهل من سماع القرآن [38].",
+        "choices": [
+            {"choice_text": "أبو جهل", "is_correct": false},
+            {"choice_text": "عتبة بن ربيعة", "is_correct": true},
+            {"choice_text": "الوليد بن المغيرة", "is_correct": false},
+            {"choice_text": "أبو لهب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الآية (لا تقدموا بين يدي الله ورسوله) تعني منهجياً:",
+        "difficulty_score": 500,
+        "explanation": "تعني عدم تقديم أي قول أو فكر أو مذهب على قول الله ورسوله [32]، [51].",
+        "choices": [
+            {"choice_text": "عدم المشي أمام النبي ﷺ", "is_correct": false},
+            {"choice_text": "عدم تقديم المرجعيات البشرية على الوحي", "is_correct": true},
+            {"choice_text": "الصمت في المسجد", "is_correct": false},
+            {"choice_text": "سرعة الاستجابة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "يعتبر إنكار خروج رجل في مكة يدعى محمد ﷺ أتى بهذا القرآن من قبيل:",
+        "difficulty_score": 100,
+        "explanation": "ذكر المحاضر أن هذا القدر التاريخي مجمع عليه من المسلم والملحد، وإنكاره هو نوع من السفسطة المجردة، [1].",
+        "choices": [
+            {"choice_text": "وجهة نظر تاريخية", "is_correct": false},
+            {"choice_text": "السفسطة", "is_correct": true},
+            {"choice_text": "البحث العلمي", "is_correct": false},
+            {"choice_text": "النقد الموضوعي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر إثبات صدق المبلغ كافياً وحده لإثبات أن القرآن من عند الله؟",
+        "difficulty_score": 500,
+        "explanation": "لأن نسبة القرآن إلى الله هي باب خبري محض، فإذا ثبت صدق المخبر وامتناع كذبه ثبت بالضرورة صدق الخبر، [2].",
+        "choices": [
+            {"choice_text": "لأن القرآن كتاب لغوي", "is_correct": false},
+            {"choice_text": "لأن القرآن باب خبري يعتمد على صدق الناقل", "is_correct": true},
+            {"choice_text": "لأن النبي ﷺ كان شاعراً", "is_correct": false},
+            {"choice_text": "لأن العرب لم يعارضوه", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي القاعدة التي ذكرها ابن أبي العز الحنفي بخصوص ادعاء النبوة؟",
+        "difficulty_score": 800,
+        "explanation": "القاعدة هي أن النبوة لا يدعيها إلا أصدق الصادقين أو أكذب الكاذبين، ولا يلتبس هذا بهذا إلا على أجهل الجاهلين، [3].",
+        "choices": [
+            {"choice_text": "النبوة هبة يهبها الله لمن يشاء", "is_correct": false},
+            {"choice_text": "لا يلتبس أصدق الصادقين بأكذب الكاذبين في ادعاء النبوة", "is_correct": true},
+            {"choice_text": "كل إنسان يمكنه ادعاء النبوة", "is_correct": false},
+            {"choice_text": "النبوة تثبت بالمعجزات الحسية فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وصف الشيخ دراز 'الطريق الثاني' في إثبات حجية القرآن من خلال افتراض وجوده في:",
+        "difficulty_score": 300,
+        "explanation": "افترض دراز وجود القرآن ملقى في صحراء دون معرفة مبلغه، ليثبت أن مضمونه وحده كافٍ لإثبات مصدره السماوي، [4].",
+        "choices": [
+            {"choice_text": "مكتبة قديمة", "is_correct": false},
+            {"choice_text": "غار حراء", "is_correct": false},
+            {"choice_text": "صحراء قاحلة", "is_correct": true},
+            {"choice_text": "بيت أحد المستشرقين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "السؤال الثاني في 'الطريق الثاني' هو 'لماذا عجز العرب عن معارضته؟' وهو يمثل:",
+        "difficulty_score": 450,
+        "explanation": "هذا السؤال هو المحتوى الحقيقي الذي يثبت به إعجاز القرآن في ذاته، [5].",
+        "choices": [
+            {"choice_text": "مقدمة للبحث", "is_correct": false},
+            {"choice_text": "محتوى إثبات حجية القرآن بذاته", "is_correct": true},
+            {"choice_text": "سؤالاً تكميلياً", "is_correct": false},
+            {"choice_text": "اعتراضاً مستبعداً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "انتقد الخطابي مسيلمة الكذاب في قوله (والفيل وما أدراك ما الفيل) بسبب:",
+        "difficulty_score": 600,
+        "explanation": "انتقده لأن كلامه تحصيل حاصل لا فائدة منه (له مشفر طويل وذنب قصير)، وهو كلام يدركه كل أحد، [6].",
+        "choices": [
+            {"choice_text": "ضعف اللغة النحوية", "is_correct": false},
+            {"choice_text": "أنه كلام يصف الواضحات دون إعجاز", "is_correct": true},
+            {"choice_text": "عدم استخدامه للقافية", "is_correct": false},
+            {"choice_text": "استخدامه لألفاظ أعجمية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو وجه التفريق الذي ذكره الباقلاني بين القرآن وشعر امرئ القيس؟",
+        "difficulty_score": 750,
+        "explanation": "أثبت الباقلاني أن أعلى ما أنتجه العرب (المعلقات) ينزل مستواه عند النقد، بينما القرآن يحافظ على ذروة البلاغة، [7].",
+        "choices": [
+            {"choice_text": "أن امرأ القيس لم يكن بليغاً", "is_correct": false},
+            {"choice_text": "أن القرآن نزل بمستوى واحد من العظمة البلاغية", "is_correct": true},
+            {"choice_text": "أن القرآن استخدم بحوراً شعرية جديدة", "is_correct": false},
+            {"choice_text": "أن امرأ القيس كان يقلد القرآن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "يتميز القرآن عن كلام الشعراء (حسب الباقلاني) بأنه:",
+        "difficulty_score": 550,
+        "explanation": "الشاعر يجيد في باب واحد (مدح أو هجاء)، أما القرآن فهو في أعلى مستويات البلاغة في كل موضوعاته (أحكام، قصص، وعيد)، [8].",
+        "choices": [
+            {"choice_text": "يستخدم القافية دائماً", "is_correct": false},
+            {"choice_text": "يسير على نفس مستوى العظمة في كل أبوابه", "is_correct": true},
+            {"choice_text": "أقصر من القصائد العربية", "is_correct": false},
+            {"choice_text": "يتحدث عن المستقبل فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "عند قراءة آيات مثل (إنني أنا الله لا إله إلا أنا)، يلاحظ المتلقي:",
+        "difficulty_score": 850,
+        "explanation": "يلاحظ غياب 'النفس البشرية' وتحدث النص من مقام الألوهية العظيم، وهو ما لا يستطيع بشر محاكاته، [9].",
+        "choices": [
+            {"choice_text": "بلاغة التشبيه", "is_correct": false},
+            {"choice_text": "انعدام النفس البشرية ووجود عظمة إلهية", "is_correct": true},
+            {"choice_text": "سهولة الألفاظ", "is_correct": false},
+            {"choice_text": "كثرة المترادفات", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في محاولة الشاب ذو الـ 15 عاماً معارضة القرآن، أين وقع خطؤه اللغوي الأول؟",
+        "difficulty_score": 400,
+        "explanation": "أخطأ في قواعد النحو حيث رفع المفعول به، [10].",
+        "choices": [
+            {"choice_text": "في اختيار الوزن", "is_correct": false},
+            {"choice_text": "في رفع المفعول به", "is_correct": true},
+            {"choice_text": "في استخدام الكناية", "is_correct": false},
+            {"choice_text": "في القافية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو اللفظ الذي استخدمه رجل سمع النبي ﷺ يخطب (إن الحمد لله نحمده..) فوصفه به؟",
+        "difficulty_score": 900,
+        "explanation": "قال الرجل: 'لقد بلغن ناعوس البحر'، دلالة على عظمة الكلمات وعمقها، [11].",
+        "choices": [
+            {"choice_text": "سحر ساحر", "is_correct": false},
+            {"choice_text": "كلام الشعراء", "is_correct": false},
+            {"choice_text": "بلغن ناعوس البحر", "is_correct": true},
+            {"choice_text": "قول الكهان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "يرى الجرجاني أن (الاستعارة والكناية) هي:",
+        "difficulty_score": 650,
+        "explanation": "يرى أنها محسنات ووجوه بلاغية عظيمة لكنها ليست 'أصل' الإعجاز، [11].",
+        "choices": [
+            {"choice_text": "جوهر الإعجاز القرآني", "is_correct": false},
+            {"choice_text": "محسنات وليست هي أصل الإعجاز", "is_correct": true},
+            {"choice_text": "موجودة في القرآن فقط", "is_correct": false},
+            {"choice_text": "من موانع فهم القرآن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الفرق الجوهري بين (واشتعل الشيب في الرأس) وبين الآية (واشتعل الرأس شيباً) هو:",
+        "difficulty_score": 850,
+        "explanation": "التركيب القرآني (الرأس شيباً) يفيد شمول الشيب لكل الرأس واستيعابه، وهو من أسرار النظم، [12].",
+        "choices": [
+            {"choice_text": "لا يوجد فرق معنوي", "is_correct": false},
+            {"choice_text": "الأولى تدل على الكثرة فقط", "is_correct": false},
+            {"choice_text": "الثانية تدل على الشمول والاستيعاب لكل الرأس", "is_correct": true},
+            {"choice_text": "الأولى أبلغ لغوياً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "التناسق في توزع الأحرف والوزن يسمى عند دراز بـ:",
+        "difficulty_score": 500,
+        "explanation": "سماها القشرة الخارجية للإعجاز لأنها تدرك بالحس السمعي مباشرة، [13].",
+        "choices": [
+            {"choice_text": "لب الإعجاز", "is_correct": false},
+            {"choice_text": "القشرة الخارجية للإعجاز", "is_correct": true},
+            {"choice_text": "إعجاز النظم", "is_correct": false},
+            {"choice_text": "الإعجاز الغيبي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "يتغير وزن الآيات في سورة مريم عند الانتقال إلى:",
+        "difficulty_score": 600,
+        "explanation": "يتغير الوزن (من حرف الياء إلى غيره) عند الفواصل بين قصة مريم وقصة إبراهيم وفي تقرير العقيدة، [14].",
+        "choices": [
+            {"choice_text": "بداية السورة", "is_correct": false},
+            {"choice_text": "تقرير العقيدة وفصل القصص", "is_correct": true},
+            {"choice_text": "ذكر أسماء الأنبياء", "is_correct": false},
+            {"choice_text": "وصف الجنة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "تكرار (دكاً دكاً) و(صفاً صفاً) في سورة الفجر يعطي شعوراً بـ:",
+        "difficulty_score": 700,
+        "explanation": "يعطي شعوراً بالزلزلة والقرع الشديد الذي يناسب مشهد القيامة، [15].",
+        "choices": [
+            {"choice_text": "السكينة والهدوء", "is_correct": false},
+            {"choice_text": "الزلزلة والقرع", "is_correct": true},
+            {"choice_text": "الرحمة والمغفرة", "is_correct": false},
+            {"choice_text": "البشارة والسرور", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وفقاً لبحث أبو سعدة، اسم 'يحيى' في أصله الأعجمي يشير إلى:",
+        "difficulty_score": 800,
+        "explanation": "يشير إلى معنى 'حنان الرب'، والقرآن أشار لذلك بقوله (وحناناً من لدنا)، [16].",
+        "choices": [
+            {"choice_text": "الحياة الدائمة", "is_correct": false},
+            {"choice_text": "حنان الرب", "is_correct": true},
+            {"choice_text": "طول العمر", "is_correct": false},
+            {"choice_text": "القوة والشدة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "اسم 'زكريا' في معناه الأصلي يعني 'ذاكر الرب'، وقد أشار القرآن لذلك بـ:",
+        "difficulty_score": 850,
+        "explanation": "أشار إليه في افتتاح سورة مريم (ذكر رحمت ربك عبده زكريا)، [16].",
+        "choices": [
+            {"choice_text": "بقوله 'فنادته الملائكة'", "is_correct": false},
+            {"choice_text": "بقوله 'ذكر رحمت ربك'", "is_correct": true},
+            {"choice_text": "بقوله 'وكان جباراً عصياً'", "is_correct": false},
+            {"choice_text": "بقوله 'وآتيناه الحكم صبياً'", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط اللطيف الذي ذكره السامرائي بين سورة الحج وكلمة 'العاكفين'؟",
+        "difficulty_score": 900,
+        "explanation": "ذكر أن سورة الحج لا ذكر فيها للاعتكاف، فجاء اللفظ 'والقائمين'، بينما سورة البقرة فيها ذكر للاعتكاف فجاء 'والعاكفين'، [17].",
+        "choices": [
+            {"choice_text": "لا يوجد رابط محدد", "is_correct": false},
+            {"choice_text": "سورة الحج ليس فيها اعتكاف فاستبعد اللفظ", "is_correct": true},
+            {"choice_text": "سورة البقرة أطول فناسبها الاعتكاف", "is_correct": false},
+            {"choice_text": "الكلمتان مترادفتان تماماً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "الجملة (نص حكيم له سر قاطع) هي تجميع لـ:",
+        "difficulty_score": 550,
+        "explanation": "هي تجميع للأحرف المقطعة في أوائل السور، وتعتبر من اللطائف التكميلية، [17].",
+        "choices": [
+            {"choice_text": "أول آية نزلت", "is_correct": false},
+            {"choice_text": "الأحرف المقطعة في فواتح السور", "is_correct": true},
+            {"choice_text": "دعاء مأثور", "is_correct": false},
+            {"choice_text": "أسماء الله الحسنى", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا قدمت سورة الأنعام (خالق كل شيء) على (لا إله إلا هو) في موضع معين؟",
+        "difficulty_score": 900,
+        "explanation": "لأن السياق كان ينفي اتخاذ الولد والشركاء، فكان التذكير بالخلق أسبق في الحجة، [18].",
+        "choices": [
+            {"choice_text": "بسبب طول الآية", "is_correct": false},
+            {"choice_text": "لتناسب السياق في نفي الشركاء والولد", "is_correct": true},
+            {"choice_text": "بسبب الترتيب الهجائي", "is_correct": false},
+            {"choice_text": "لأنها سورة مكية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كتاب 'ثلاث رسائل في إعجاز القرآن' يضم رسائل لكل من:",
+        "difficulty_score": 750,
+        "explanation": "يضم رسائل الرماني، والخطابي، والجرجاني، [19, 20].",
+        "choices": [
+            {"choice_text": "الباقلاني والدراز والجرجاني", "is_correct": false},
+            {"choice_text": "الرماني والخطابي والجرجاني", "is_correct": true},
+            {"choice_text": "ابن القيم وابن تيمية والطبري", "is_correct": false},
+            {"choice_text": "السامرائي وأبو موسى وشاكر", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو العالم المعاصر الذي وصف المحاضر لغته في تحقيق 'دلائل الإعجاز' بأنها 'عالية وفخمة'؟",
+        "difficulty_score": 350,
+        "explanation": "هو العلامة محمود شاكر، [21].",
+        "choices": [
+            {"choice_text": "فاضل السامرائي", "is_correct": false},
+            {"choice_text": "محمد دراز", "is_correct": false},
+            {"choice_text": "محمود شاكر", "is_correct": true},
+            {"choice_text": "طه حسين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "يصنف كتاب 'إعجاز القرآن في أعجمي القرآن' ضمن:",
+        "difficulty_score": 600,
+        "explanation": "يصنف ضمن القسم التكميلي للإعجاز الذي يثبت جمال وتفاصيل القرآن، [22].",
+        "choices": [
+            {"choice_text": "القسم الأساسي للإعجاز", "is_correct": false},
+            {"choice_text": "القسم التكميلي للإعجاز", "is_correct": true},
+            {"choice_text": "كتب النحو الصرف", "is_correct": false},
+            {"choice_text": "كتب التاريخ والجغرافيا", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المرجعية الثانية التي سيتم الحديث عنها في اللقاءات القادمة؟",
+        "difficulty_score": 100,
+        "explanation": "المرجعية الثانية بعد القرآن هي السنة النبوية، [23].",
+        "choices": [
+            {"choice_text": "الإجماع", "is_correct": false},
+            {"choice_text": "القياس", "is_correct": false},
+            {"choice_text": "السنة النبوية", "is_correct": true},
+            {"choice_text": "قول الصحابي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "المنطقة 'الساخنة' في الخلاف الفكري (حسب المصدر) هي:",
+        "difficulty_score": 800,
+        "explanation": "ليست في تأويل الآية، بل في المرجعية التي أدت لهذا التأويل، [24].",
+        "choices": [
+            {"choice_text": "تفسير معاني الكلمات", "is_correct": false},
+            {"choice_text": "المرجعية الأساسية المحركة للفهم", "is_correct": true},
+            {"choice_text": "معرفة أسباب النزول", "is_correct": false},
+            {"choice_text": "عدد القراءات القرآنية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "علاقة 'صدق المبلغ' بالقرآن في إثبات الحجية هي علاقة:",
+        "difficulty_score": 500,
+        "explanation": "علاقة تكاملية؛ فالطريقان يكملان بعضهما ولا يستغني أحدهما عن الآخر، [25].",
+        "choices": [
+            {"choice_text": "تناقض", "is_correct": false},
+            {"choice_text": "تكامل", "is_correct": true},
+            {"choice_text": "تضاد", "is_correct": false},
+            {"choice_text": "لا توجد علاقة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "استخدام القرآن للفظ 'بصيراً' مع النهار في سورة غافر يدل على:",
+        "difficulty_score": 700,
+        "explanation": "يدل على دقة الترتيب البياني والمقام الذي يناسب الامتنان بالرؤية، [26].",
+        "choices": [
+            {"choice_text": "النهار يرى الناس", "is_correct": false},
+            {"choice_text": "دقة الترتيب البياني والمقام", "is_correct": true},
+            {"choice_text": "مجرد صدفة لغوية", "is_correct": false},
+            {"choice_text": "أن الشمس بصرية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى السلطان العميري 'عدم التكسب الذاتي من الرسالة'؟",
+        "difficulty_score": 850,
+        "explanation": "سماها 'التجرد الإصلاحي'، وهي دليل على صدق النبي ﷺ، [27].",
+        "choices": [
+            {"choice_text": "الزهد الاختياري", "is_correct": false},
+            {"choice_text": "التجرد الإصلاحي", "is_correct": true},
+            {"choice_text": "العفة المالية", "is_correct": false},
+            {"choice_text": "النزاهة الوظيفية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا نشأ علم البلاغة العربية في الأصل؟",
+        "difficulty_score": 400,
+        "explanation": "نشأ كاستجابة لمحاولة فهم سر عجز العرب عن معارضة القرآن، [28].",
+        "choices": [
+            {"choice_text": "لتحسين جودة الشعر", "is_correct": false},
+            {"choice_text": "للبحث في سر الإعجاز القرآني", "is_correct": true},
+            {"choice_text": "لترجمة الكتب اليونانية", "is_correct": false},
+            {"choice_text": "لتعليم الأعاجم العربية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الكتب يعد من أصعب الكتب لغة وأفخمها في باب الإعجاز؟",
+        "difficulty_score": 300,
+        "explanation": "كتاب 'دلائل الإعجاز' للجرجاني وصفه المحاضر بأنه صعب وفخم، [12].",
+        "choices": [
+            {"choice_text": "بيان إعجاز القرآن", "is_correct": false},
+            {"choice_text": "دلائل الإعجاز", "is_correct": true},
+            {"choice_text": "النبأ العظيم", "is_correct": false},
+            {"choice_text": "خلاصة البرهان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في سورة الفجر، توصف آية 'يا أيتها النفس المطمئنة' بأنها:",
+        "difficulty_score": 650,
+        "explanation": "توصف بأنها تنقل المتلقي إلى حالة من الراحة والسكينة بعد آيات القرع والزلزلة، [15].",
+        "choices": [
+            {"choice_text": "آية وعيد", "is_correct": false},
+            {"choice_text": "آية سكينة وراحة", "is_correct": true},
+            {"choice_text": "آية تعليمية", "is_correct": false},
+            {"choice_text": "آية قصصية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "استخدم المحاضر قصة (عتبة بن ربيعة) لبيان أثر:",
+        "difficulty_score": 500,
+        "explanation": "لبيان أثر سماع القرآن على العرب وكيف كان يذهلهم، [29].",
+        "choices": [
+            {"choice_text": "قوة قريش العسكرية", "is_correct": false},
+            {"choice_text": "أثر سماع القرآن على البلغاء", "is_correct": true},
+            {"choice_text": "تاريخ مكة القديم", "is_correct": false},
+            {"choice_text": "أساليب التجارة عند العرب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وصف المحاضر 'اللطائف البيانية' بأنها:",
+        "difficulty_score": 400,
+        "explanation": "وصفها بأنها أشياء لطيفة تكميلية وليست هي أصل الإعجاز الذي أسقط العرب، [17].",
+        "choices": [
+            {"choice_text": "جوهر الإيمان", "is_correct": false},
+            {"choice_text": "أشياء لطيفة تكميلية", "is_correct": true},
+            {"choice_text": "تفسيرات مرفوضة", "is_correct": false},
+            {"choice_text": "أساطير قديمة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "إهمال علم إعجاز القرآن في برامج طلاب العلم يعتبره المحاضر:",
+        "difficulty_score": 250,
+        "explanation": "يعتبره نقصاً كبيراً لأن هذا العلم هو أصل في تأسيس الحجية، [28].",
+        "choices": [
+            {"choice_text": "أمراً عادياً", "is_correct": false},
+            {"choice_text": "نقصاً كبيراً", "is_correct": true},
+            {"choice_text": "تطوراً منهجياً", "is_correct": false},
+            {"choice_text": "خياراً شخصياً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من إلحاق (ذلك خير وأحسن تأويلاً) بالأمر بالرد للوحي؟",
+        "difficulty_score": 600,
+        "explanation": "لبيان أن اتباع الوحي ليس مجرد أوامر مجردة، بل هو الأفضل للعاقبة والمآل، [30].",
+        "choices": [
+            {"choice_text": "لزيادة طول الآية", "is_correct": false},
+            {"choice_text": "لبيان حسن العاقبة في اتباع الوحي", "is_correct": true},
+            {"choice_text": "لتحذير المخالفين فقط", "is_correct": false},
+            {"choice_text": "لشرح معنى الإيمان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في نقاش الشاب مع المحاضر، سأل الشاب: 'ما هو الدليل أنه نبي؟'، وهذا يقع ضمن:",
+        "difficulty_score": 300,
+        "explanation": "يقع ضمن 'الطريق الأول' في إثبات الحجية (صدق المبلغ)، [31].",
+        "choices": [
+            {"choice_text": "الطريق الثاني", "is_correct": false},
+            {"choice_text": "الطريق الأول", "is_correct": true},
+            {"choice_text": "باب الفقه", "is_correct": false},
+            {"choice_text": "باب الأخلاق", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وصف المحاضر علوم مصادر التلقي بأنها:",
+        "difficulty_score": 150,
+        "explanation": "وصفها بالعلوم المنهجية التي تؤسس لكل المعرفة اللاحقة، [32].",
+        "choices": [
+            {"choice_text": "علوم تكميلية", "is_correct": false},
+            {"choice_text": "علوم منهجية", "is_correct": true},
+            {"choice_text": "علوم لغوية فقط", "is_correct": false},
+            {"choice_text": "علوم فلسفية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يحبط العمل عند رفع الصوت المعنوي فوق صوت النبي ﷺ؟",
+        "difficulty_score": 850,
+        "explanation": "لأن فيه تقديماً لغير الوحي على الوحي، وهو فعل دائم ومستمر بخلاف رفع الصوت الحسي المؤقت، [33].",
+        "choices": [
+            {"choice_text": "بسبب الإزعاج", "is_correct": false},
+            {"choice_text": "لأنه تقديم للمرجعيات البشرية على مرجعية الرسول", "is_correct": true},
+            {"choice_text": "لأنه مخالف لآداب المجلس", "is_correct": false},
+            {"choice_text": "بسبب قوة الصوت", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "خاتمة المحاضرة ركزت على الاستعاذة من:",
+        "difficulty_score": 400,
+        "explanation": "الاستعاذة من (أن تسمع ما يُدهش ولا تندهش)، دعوةً لإيقاظ القلوب تجاه عظمة القرآن، [9].",
+        "choices": [
+            {"choice_text": "الجهل باللغة", "is_correct": false},
+            {"choice_text": "أن تسمع ما يُدهش ولا تندهش", "is_correct": true},
+            {"choice_text": "مخالطة الملحدين", "is_correct": false},
+            {"choice_text": "نسيان القرآن", "is_correct": false}
+        ]
+    }
+]
+    }

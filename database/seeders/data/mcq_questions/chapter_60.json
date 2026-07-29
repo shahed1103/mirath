@@ -1,0 +1,1845 @@
+    {
+    "chapter_id": 60,
+    "questions": [
+         {
+        "question_text": "ما هو الدرس المنهجي الأول الذي يُستفاد من حياة النبي صلى الله عليه وسلم بين غزوتي أحد والخندق؟",
+        "difficulty_score": 200,
+        "explanation": "المصادر تؤكد أن السيرة النبوية لا يوجد فيها مراحل فراغ، بل هي سلسلة متصلة من الأحداث والإصلاح [13].",
+        "choices": [
+            {
+                "choice_text": "أهمية الاستراحة الطويلة بعد الهزيمة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عدم وجود فراغ في حياة المصلح",
+                "is_correct": true
+            },
+            {
+                "choice_text": "التركيز فقط على العبادة دون الجهاد",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تجنب المواجهة بعد خسارة أحد",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كم كانت المدة التقريبية التي مكثها أبو سلمة رضي الله عنه بعد أحد قبل أن يرسله النبي صلى الله عليه وسلم في سرية؟",
+        "difficulty_score": 400,
+        "explanation": "تذكر المصادر أن النبي صلى الله عليه وسلم أرسل سرية أبي سلمة بعد أحد بحوالي شهرين أو ثلاثة [15].",
+        "choices": [
+            {
+                "choice_text": "أسبوع واحد",
+                "is_correct": false
+            },
+            {
+                "choice_text": "شهرين أو ثلاثة أشهر",
+                "is_correct": true
+            },
+            {
+                "choice_text": "سنة كاملة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "خمسة أيام",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا توفي أبو سلمة رضي الله عنه بعد عودته من سريته؟",
+        "difficulty_score": 300,
+        "explanation": "المصادر تشير إلى أن جرحه الذي أصيب به في أحد انتقض عليه بعد خروجه في السرية وعودته [15].",
+        "choices": [
+            {
+                "choice_text": "بسبب كبر سنه",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بسبب انتقاض جرحه الذي أصيب به في أحد",
+                "is_correct": true
+            },
+            {
+                "choice_text": "قتل في المعركة مباشرة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بسبب مرض مفاجئ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هم 'القراء' في سياق حادثة بئر معونة؟",
+        "difficulty_score": 250,
+        "explanation": "القراء كانوا مجموعة من خيار الصحابة المتخصصين في القرآن والعبادة والتعليم [3, 4].",
+        "choices": [
+            {
+                "choice_text": "مجموعة من التجار",
+                "is_correct": false
+            },
+            {
+                "choice_text": "نخبة من الصحابة المتعلمين والعبّاد",
+                "is_correct": true
+            },
+            {
+                "choice_text": "فرسان متخصصون في المبارزة فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "مجموعة من المنافقين",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو النشاط الذي كان يقوم به 'القراء' خلال يومهم وليلهم؟",
+        "difficulty_score": 500,
+        "explanation": "كانوا يُعرفون بأنهم يحتطبون بالنهار (للعمل والصدقة) ويصلون بالليل [4].",
+        "choices": [
+            {
+                "choice_text": "التجارة بالنهار والنوم بالليل",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الاحتطاب بالنهار والصلاة بالليل",
+                "is_correct": true
+            },
+            {
+                "choice_text": "التدريب العسكري المستمر",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حراسة المدينة فقط",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصادر، ما هي أهمية دراسة السيرة النبوية للمصلحين؟",
+        "difficulty_score": 150,
+        "explanation": "السيرة النبوية هي المرجع الأساسي للاقتداء في التعبد والتزكية والتربية ونصرة الدين [34].",
+        "choices": [
+            {
+                "choice_text": "لمعرفة القصص التاريخية المسلية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لاستخراج الفوائد المنهجية والإصلاحية للاقتداء بها",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لحفظ أسماء المعارك فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنها بديل عن دراسة العقيدة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة كان النبي صلى الله عليه وسلم يُقدمه كثيراً في قيادة السرايا؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أن زيد بن حارثة رضي الله عنه أُمّر على قرابة تسع أو إحدى عشرة سرية [4].",
+        "choices": [
+            {
+                "choice_text": "زيد بن حارثة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "حرام بن ملحان",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أبو بكر الصديق",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عمرو بن أمية",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الحادثة التي اعتبرها المصدر 'مصيبة' فقد فيها النبي خيار أصحابه وعلمائهم؟",
+        "difficulty_score": 300,
+        "explanation": "حادثة بئر معونة التي قُتل فيها سبعون من القراء غدراً [1, 18].",
+        "choices": [
+            {
+                "choice_text": "غزوة أحد",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حادثة بئر معونة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "فتح مكة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "غزوة حمراء الأسد",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هو 'سيد القراء' الذي استشهد في بئر معونة وهو يقول 'فزت ورب الكعبة'؟",
+        "difficulty_score": 200,
+        "explanation": "هو حرام بن ملحان رضي الله عنه [1].",
+        "choices": [
+            {
+                "choice_text": "عامر بن الطفيل",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حرام بن ملحان",
+                "is_correct": true
+            },
+            {
+                "choice_text": "المنذر بن عمرو",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عمرو بن أمية",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "بماذا دعا النبي صلى الله عليه وسلم في صلاته بعد حادثة بئر معونة؟",
+        "difficulty_score": 450,
+        "explanation": "قنت النبي صلى الله عليه وسلم شهراً يدعو على قبائل رعل وذكوان الذين غدروا بأصحابه [30].",
+        "choices": [
+            {
+                "choice_text": "دعا لقريش بالهداية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "قنت شهراً يدعو على رعل وذكوان",
+                "is_correct": true
+            },
+            {
+                "choice_text": "دعا بطلب الرزق للمسلمين",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لم يدعُ بشيء مخصص",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي القبائل التي اعترضت القراء وغدرت بهم في بئر معونة؟",
+        "difficulty_score": 550,
+        "explanation": "هم رعل وذكوان وعصية من بني سليم [30, 35].",
+        "choices": [
+            {
+                "choice_text": "بنو النضير",
+                "is_correct": false
+            },
+            {
+                "choice_text": "رعل وذكوان (من بني سليم)",
+                "is_correct": true
+            },
+            {
+                "choice_text": "قريش",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بنو قريظة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هو رئيس المشركين الذي فعل الأفاعيل بالصحابة في بئر معونة؟",
+        "difficulty_score": 650,
+        "explanation": "عامر بن الطفيل هو الذي قاد عملية الغدر والقتل [7].",
+        "choices": [
+            {
+                "choice_text": "أبو سفيان",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حيي بن أخطب",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عامر بن الطفيل",
+                "is_correct": true
+            },
+            {
+                "choice_text": "كعب بن الأشرف",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل حرام بن ملحان بالدم الناضح من جرحه؟",
+        "difficulty_score": 700,
+        "explanation": "أخذه ونضحه (نثره) على وجهه ورأسه وهو يقول فزت ورب الكعبة [1].",
+        "choices": [
+            {
+                "choice_text": "حاول تضميده بيده",
+                "is_correct": false
+            },
+            {
+                "choice_text": "نثره على وجهه ورأسه",
+                "is_correct": true
+            },
+            {
+                "choice_text": "مسحه بالأرض",
+                "is_correct": false
+            },
+            {
+                "choice_text": "ألقاه على عدوه",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كم شخصاً نجا من مجموعة السبعين في موقع الحادثة ب بئر معونة (بقي به رمق)؟",
+        "difficulty_score": 600,
+        "explanation": "شخص واحد فقط روي أنه كان به رمق وظُن أنه من القتلى ثم قام ووصل للنبي [1].",
+        "choices": [
+            {
+                "choice_text": "عشرة أشخاص",
+                "is_correct": false
+            },
+            {
+                "choice_text": "شخص واحد فقط",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لم ينجُ أحد",
+                "is_correct": false
+            },
+            {
+                "choice_text": "جميعهم نجوا",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قال 'والله لا تطيب لي الحياة بعد قتل المنذر' ونزل فقاتل حتى قُتل؟",
+        "difficulty_score": 800,
+        "explanation": "هو زميل عمرو بن أمية الضمري الذي كان معه يرعى الإبل [7].",
+        "choices": [
+            {
+                "choice_text": "عمرو بن أمية الضمري",
+                "is_correct": false
+            },
+            {
+                "choice_text": "زميل عمرو بن أمية (الأنصاري)",
+                "is_correct": true
+            },
+            {
+                "choice_text": "حمزة بن عبد المطلب",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أبو سلمة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا أعتق عامر بن الطفيل الصحابي عمرو بن أمية الضمري؟",
+        "difficulty_score": 750,
+        "explanation": "زعم عامر أن على أمه رقبة (نذر) فأعتقه عنها وجز ناصيته [7].",
+        "choices": [
+            {
+                "choice_text": "خوفاً من النبي صلى الله عليه وسلم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنه كان صديقاً له",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بسبب رقبة كانت على أمه فجز ناصيته وأعتقه",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأنه دفع فدية كبيرة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما الخطأ الذي وقع فيه عمرو بن أمية الضمري في طريق عودته للمدينة؟",
+        "difficulty_score": 500,
+        "explanation": "لقي رجلين من بني عامر (قبيلة الغادرين) فقتلهما وهو يظن أنه يأخذ بثأر الصحابة، وكان لهما عهد من النبي [8].",
+        "choices": [
+            {
+                "choice_text": "ضاع في الطريق",
+                "is_correct": false
+            },
+            {
+                "choice_text": "قتل رجلين معاهدين خطأً ظناً منه أنه يثأر",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أضاع سلاحه",
+                "is_correct": false
+            },
+            {
+                "choice_text": "دخل مكة بالخطأ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل النبي صلى الله عليه وسلم عندما علم بقتل الرجلين العامريين؟",
+        "difficulty_score": 400,
+        "explanation": "قال لعمرو بن أمية: 'لقد قتلت قتيلين لأدينهما' أي سأدفع ديتهما لأنهما مؤمنان (معاهدان) [8].",
+        "choices": [
+            {
+                "choice_text": "شجعه على ذلك",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أمره بدفع الدية من ماله الخاص",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أكد على وجوب دفع ديتهما لالتزامه بالعهد",
+                "is_correct": true
+            },
+            {
+                "choice_text": "غضب منه وطرده من المدينة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "أي آية نزلت في حق شهداء بئر معونة ثم نُسخت؟",
+        "difficulty_score": 850,
+        "explanation": "كان فيها قرآن نزل: 'ألا أبلغوا عنا قومنا أن قد لقينا ربنا فرضي عنا وأرضانا' ثم نُسخ [31].",
+        "choices": [
+            {
+                "choice_text": "آية الكرسي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "آية 'ألا أبلغوا عنا قومنا أن قد لقينا ربنا...'",
+                "is_correct": true
+            },
+            {
+                "choice_text": "آية المداينة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "آية الحجاب",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "وفقاً لحديث سعد بن أبي وقاص، من هم أشد الناس بلاءً؟",
+        "difficulty_score": 100,
+        "explanation": "الحديث الصحيح يقول: 'الأنبياء، ثم الصالحون، ثم الأمثل فالأمثل' [19].",
+        "choices": [
+            {
+                "choice_text": "الأغنياء",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الأنبياء",
+                "is_correct": true
+            },
+            {
+                "choice_text": "المنافقون",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عامة الناس",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يُلقب بـ 'حِب رسول الله' وقدمه النبي في سرايا كثيرة؟",
+        "difficulty_score": 400,
+        "explanation": "زيد بن حارثة رضي الله عنه كان يلقب بحب رسول الله [21].",
+        "choices": [
+            {
+                "choice_text": "علي بن أبي طالب",
+                "is_correct": false
+            },
+            {
+                "choice_text": "زيد بن حارثة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "جعفر بن أبي طالب",
+                "is_correct": false
+            },
+            {
+                "choice_text": "خالد بن الوليد",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هم الثلاثة الذين قدمهم النبي صلى الله عليه وسلم للمبارزة في بدر من أقاربه؟",
+        "difficulty_score": 600,
+        "explanation": "هم علي بن أبي طالب، وحمزة بن عبد المطلب، وعبيدة بن الحارث [21].",
+        "choices": [
+            {
+                "choice_text": "أبو بكر وعمر وعثمان",
+                "is_correct": false
+            },
+            {
+                "choice_text": "علي وحمزة وعبيدة بن الحارث",
+                "is_correct": true
+            },
+            {
+                "choice_text": "خالد والزبير وطلحة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سعد وسعيد وبلال",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصادر، أي نوع من الابتلاء كان النبي صلى الله عليه وسلم يعانيه بوضوح؟",
+        "difficulty_score": 500,
+        "explanation": "كان يُبتلى بفقد أحبابه من الأبناء والأصحاب، ومع ذلك كان يقدمهم في سبيل الله [19, 20].",
+        "choices": [
+            {
+                "choice_text": "الابتلاء بالفقر الشديد دائماً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الابتلاء في فقد الأحباب",
+                "is_correct": true
+            },
+            {
+                "choice_text": "الابتلاء بمرض مزمن",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الابتلاء بالهزيمة المستمرة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من تقديم النبي لأقاربه في الميدان الصعب؟",
+        "difficulty_score": 350,
+        "explanation": "الاقتداء به في تقديم الغايات الأخروية ومرضاة الله على محاب النفوس [23].",
+        "choices": [
+            {
+                "choice_text": "أن القائد يجب أن يحمي أهله أولاً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تقديم مرضاة الله على عواطف القرابة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أن الحروب للأقارب فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لا يوجد درس محدد",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "إلى من ذهب النبي صلى الله عليه وسلم ليستعين بهم في دية العامريين؟",
+        "difficulty_score": 200,
+        "explanation": "ذهب إلى يهود بني النضير بموجب الحلف الذي كان بينهم [9].",
+        "choices": [
+            {
+                "choice_text": "قريش",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بنو النضير",
+                "is_correct": true
+            },
+            {
+                "choice_text": "بنو قريظة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بنو قينقاع",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي المؤامرة التي خطط لها بنو النضير عند مجيء النبي إليهم؟",
+        "difficulty_score": 400,
+        "explanation": "حاولوا إلقاء حجر 'رحى' عليه من فوق جدار وهو جالس مستند إليه [10].",
+        "choices": [
+            {
+                "choice_text": "تسميم طعامه",
+                "is_correct": false
+            },
+            {
+                "choice_text": "إلقاء حجر (رحى) عليه من فوق الجدار",
+                "is_correct": true
+            },
+            {
+                "choice_text": "الهجوم عليه بالسيوف فجأة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حبسه في الدار",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كيف علم النبي صلى الله عليه وسلم بمؤامرة بني النضير؟",
+        "difficulty_score": 300,
+        "explanation": "أوحى الله إليه بما كادت به اليهود، فقام فجأة وتوجه للمدينة [24, 25].",
+        "choices": [
+            {
+                "choice_text": "أخبره أحد الصحابة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أوحى الله إليه بذلك",
+                "is_correct": true
+            },
+            {
+                "choice_text": "سمعهم يتوشوشون",
+                "is_correct": false
+            },
+            {
+                "choice_text": "رأى الحجر يسقط",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كم كانت مدة حصار بني النضير وفقاً لبعض الروايات؟",
+        "difficulty_score": 450,
+        "explanation": "قيل ستة أيام وقيل خمسة عشر يوماً [11].",
+        "choices": [
+            {
+                "choice_text": "شهر كامل",
+                "is_correct": false
+            },
+            {
+                "choice_text": "من ستة أيام إلى خمسة عشر يوماً",
+                "is_correct": true
+            },
+            {
+                "choice_text": "يوم واحد فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "ثلاثة أشهر",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الإجراء الذي اتخذه المسلمون للضغط على بني النضير مادياً؟",
+        "difficulty_score": 500,
+        "explanation": "قطعوا النخل المتعلق بهم وأحرقوه [11].",
+        "choices": [
+            {
+                "choice_text": "منعوا عنهم الماء تماماً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "قطعوا نخلهم وأحرقوه",
+                "is_correct": true
+            },
+            {
+                "choice_text": "هدموا جدران الحصن بالمجانيق",
+                "is_correct": false
+            },
+            {
+                "choice_text": "صادروا أغنامهم",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'اللينة' في قوله تعالى 'ما قطعتم من لينة'؟",
+        "difficulty_score": 900,
+        "explanation": "اللينة هي النخل، سواء كانت أنواعاً معينة أو عموم النخل سوى العجوة [6, 36].",
+        "choices": [
+            {
+                "choice_text": "الأرض السهلة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "النخل",
+                "is_correct": true
+            },
+            {
+                "choice_text": "السيوف اللينة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الثياب الناعمة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما الفرق الذي وضحه المصدر بين الإذن 'الكوني' والإذن 'الشرعي'؟",
+        "difficulty_score": 900,
+        "explanation": "الإذن الكوني قد يقع لشيء يكرهه الله (مثل قتل الأولياء)، أما الشرعي فهو ما يحبه الله ويرضاه [12, 36].",
+        "choices": [
+            {
+                "choice_text": "لا يوجد فرق بينهما",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الكوني يقع قدراً والشرعي يقع حباً ورضاً",
+                "is_correct": true
+            },
+            {
+                "choice_text": "الشرعي للعبادات فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الكوني للمشركين والشرعي للمؤمنين",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "على ماذا اتفق بنو النضير مع النبي صلى الله عليه وسلم للجلاء؟",
+        "difficulty_score": 400,
+        "explanation": "على أن يخرجوا ولا يحملوا معهم السلاح، ولهم ما حملت الإبل من الممتلكات [12].",
+        "choices": [
+            {
+                "choice_text": "البقاء في بيوتهم مقابل الجزية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الجلاء وحمل ما تستطيعه الإبل من متاع دون سلاح",
+                "is_correct": true
+            },
+            {
+                "choice_text": "تسليم كل أموالهم والخروج مشاة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "القتال حتى الموت",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا كان يهود بني النضير يخربون بيوتهم بأيديهم؟",
+        "difficulty_score": 600,
+        "explanation": "ليأخذوا أجزاء منها كالأبواب، وبسبب الرعب والشح لكي لا ينتفع بها المؤمنون [12, 28].",
+        "choices": [
+            {
+                "choice_text": "لإعادة بنائها في خيبر",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بسبب الرعب ولأخذ الأبواب وحرمان المؤمنين منها",
+                "is_correct": true
+            },
+            {
+                "choice_text": "بأمر من النبي صلى الله عليه وسلم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنها كانت قديمة جداً",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الفيء' كما عُرف في المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "هو ما يصل إليه المسلمون من أموال الكفار بالرعب ودون قتال أو إيجاف خيل وركاب [26].",
+        "choices": [
+            {
+                "choice_text": "الأموال المأخوذة في ساحة المعركة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "ما وصل للمسلمين بلا قتال (كما في بني النضير)",
+                "is_correct": true
+            },
+            {
+                "choice_text": "الزكاة المفروضة على المسلمين",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الجزية السنوية",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "إلى من وُزعت أموال بني النضير (الفيء) بشكل أساسي؟",
+        "difficulty_score": 550,
+        "explanation": "وزعت على المهاجرين لفقرهم وحاجتهم، ولم يُعطَ من الأنصار إلا رجلين [27].",
+        "choices": [
+            {
+                "choice_text": "وزعت بالتساوي على كل أهل المدينة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "خص بها المهاجرين لحاجتهم الشديدة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أخذها النبي صلى الله عليه وسلم لنفسه فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "وزعت على قبائل العرب كافة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هما الأنصاريان اللذان أُعطيا من فيء بني النضير لحاجتهما؟",
+        "difficulty_score": 900,
+        "explanation": "هما أبو دجانة وسهل بن حنيف رضي الله عنهما [لم يذكر النص الاسم صراحة لكنه أشار لوجود رجلين، والتاريخ يثبت الأسماء، ولكن بالاعتماد على النص: رجلين فقط لحاجتهما] [27].",
+        "choices": [
+            {
+                "choice_text": "سعد بن معاذ وسعد بن عبادة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "رجلين من الأنصار بسبب فقرهما",
+                "is_correct": true
+            },
+            {
+                "choice_text": "بلال وعمار",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كل فقراء الأنصار",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يُعطَ عامة الأنصار من فيء بني النضير؟",
+        "difficulty_score": 600,
+        "explanation": "لأنهم كانوا أهل بلد ونخل ولديهم كفاية، بينما المهاجرون خرجوا بلا شيء [27].",
+        "choices": [
+            {
+                "choice_text": "عقاباً لهم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأن المهاجرين كانوا أحوج وبلا ديار أو نخل",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأن الأنصار رفضوا أخذها",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأن النبي لم يحبهم",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف المنافقين تجاه بني النضير كما ذكره القرآن؟",
+        "difficulty_score": 300,
+        "explanation": "وعدوهم بالنصرة واللحوق بهم إذا أُخرجوا، لكنهم كانوا يكذبون [16, 17].",
+        "choices": [
+            {
+                "choice_text": "حاربوهم مع النبي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "وعدوهم كذباً بالنصرة والخروج معهم",
+                "is_correct": true
+            },
+            {
+                "choice_text": "بقوا على الحياد تماماً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "توسطوا للصلح بين الطرفين",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف القرآن وعود المنافقين لليهود؟",
+        "difficulty_score": 450,
+        "explanation": "وصفها بأنها وعود كاذبة، وأنهم لن ينصروهم ولو نصروهم لولوا الأدبار [17].",
+        "choices": [
+            {
+                "choice_text": "وعود صادقة وقوية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "وعود كاذبة نابعة من الجبن",
+                "is_correct": true
+            },
+            {
+                "choice_text": "وعود مشروطة بدفع المال",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لم يذكرها القرآن",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي استعرضت بالتفصيل صفات المنافقين في غزوة بني النضير؟",
+        "difficulty_score": 250,
+        "explanation": "سورة الحشر [16].",
+        "choices": [
+            {
+                "choice_text": "سورة البقرة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سورة الحشر",
+                "is_correct": true
+            },
+            {
+                "choice_text": "سورة يوسف",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سورة الإسراء",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الخلاف العلمي الذي أشار إليه المصدر بشأن توقيت غزوة بني النضير؟",
+        "difficulty_score": 600,
+        "explanation": "يرى ابن إسحاق أنها كانت بعد أحد، بينما يرى الزهري وعروة بن الزبير أنها كانت قبل أحد (بعد بدر).",
+        "choices": [
+            {
+                "choice_text": "هل كانت قبل الهجرة أم بعدها؟",
+                "is_correct": false
+            },
+            {
+                "choice_text": "هل وقعت قبل أحد (بعد بدر) أم بعد أحد؟",
+                "is_correct": true
+            },
+            {
+                "choice_text": "هل وقعت في مكة أم في المدينة؟",
+                "is_correct": false
+            },
+            {
+                "choice_text": "هل وقعت في رمضان أم في شوال؟",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "وفقاً لابن إسحاق، ما هو الرابط السببي بين حادثة بئر معونة وغزوة بني النضير؟",
+        "difficulty_score": 500,
+        "explanation": "قتل عمرو بن أمية لرجلين من بني عامر (قبيلة الغادرين في بئر معونة) استوجب دية، فذهب النبي لبني النضير لطلب المساعدة فيها.",
+        "choices": [
+            {
+                "choice_text": "لا يوجد أي رابط بينهما",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الحاجة لجمع دية الرجلين اللذين قتلهما عمرو بن أمية",
+                "is_correct": true
+            },
+            {
+                "choice_text": "رغبة اليهود في الثأر لقتلى بئر معونة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تحالف بني عامر مع بني النضير عسكرياً",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة المنهجية التي استنبطها المصدر من وجود 'القراء' كمجموعة متخصصة؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر يؤكد على أهمية 'تنوع التخصصات' في العمل الإصلاحي وعدم ضرورة تماثل الجميع في المهام.",
+        "choices": [
+            {
+                "choice_text": "ضرورة أن يكون كل الصحابة مقاتلين فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أهمية وجود تخصصات متنوعة (علمية، عسكرية) في المجتمع",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أن العلم يغني عن الجهاد تماماً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تفضيل الأنصار على المهاجرين في العلم",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كيف كان النبي صلى الله عليه وسلم يختار قادة السرايا والغزوات حسب المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "كان يختار أُناساً بأعيانهم بناءً على كفاءتهم وتخصصهم، وليس لمجرد جبر الخواطر أو المداورة.",
+        "choices": [
+            {
+                "choice_text": "عن طريق القرعة بين الصحابة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "اختيار أناس بأعيانهم بناءً على الأهلية والتخصص",
+                "is_correct": true
+            },
+            {
+                "choice_text": "كان يعطي القيادة للأكبر سناً دائماً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كان يختار من لم يخرج في السرية السابقة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأوصاف ينطبق على 'القراء' السبعين الذين أُرسلوا إلى بئر معونة؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا من أفاضل وخيار الصحابة، معروفين بالعلم والعبادة.",
+        "choices": [
+            {
+                "choice_text": "كانوا حديثي عهد بالإسلام",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كانوا من خيار الصحابة وأفاضلهم",
+                "is_correct": true
+            },
+            {
+                "choice_text": "كانوا مجموعة من الأسرى",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كانوا غريبين عن أهل المدينة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما الذي استدل به بعض الباحثين على أن مهمة بئر معونة كانت 'تعليمية' وليست قتالية؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الروايات ذكرت طلب 'القراء' ليعلموا القوم، ولقلة عددهم مقارنة بجيوش الحرب.",
+        "choices": [
+            {
+                "choice_text": "لأنهم لم يحملوا معهم سيوفاً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأن الرواية في صحيح مسلم ذكرت طلب المعونة لتعليم القوم",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأن النبي لم يأمرهم بالقتال",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنهم خرجوا في وقت السلم",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل حرام بن ملحان رضي الله عنه عندما أدركه الرمح؟",
+        "difficulty_score": 450,
+        "explanation": "أخذ الدم ونثره على وجهه ورأسه تعبيراً عن فرحه بالشهادة.",
+        "choices": [
+            {
+                "choice_text": "سقط مغشياً عليه مباشرة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "نضح الدم على وجهه وقال 'فزت ورب الكعبة'",
+                "is_correct": true
+            },
+            {
+                "choice_text": "حاول الهروب من المشركين",
+                "is_correct": false
+            },
+            {
+                "choice_text": "دعا على من قتله بالاسم",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كيف اكتشف عمرو بن أمية الضمري وصاحبه مقتل أصحابهما في بئر معونة؟",
+        "difficulty_score": 650,
+        "explanation": "رأيا الطير تحوم فوق موقع المعسكر فعرفا أن هناك شأناً.",
+        "choices": [
+            {
+                "choice_text": "سمعا صراخ الصحابة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "رأيا الطير تحوم على جثث الصحابة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أخبرهما أحد المشركين",
+                "is_correct": false
+            },
+            {
+                "choice_text": "وجدا رسالة مكتوبة في المكان",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف رفيق عمرو بن أمية (الأنصاري) عندما رأى مقتل الصحابة؟",
+        "difficulty_score": 750,
+        "explanation": "رفض العودة للمدينة وآثر القتال حتى يُقتل في سبيل الله ثأراً لأصحابه.",
+        "choices": [
+            {
+                "choice_text": "هرب مسرعاً ليخبر النبي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "قاتل حتى قُتل لعدم رغبته في الحياة بعدهم",
+                "is_correct": true
+            },
+            {
+                "choice_text": "اختبأ خلف الجبال",
+                "is_correct": false
+            },
+            {
+                "choice_text": "استسلم للمشركين مباشرة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يدرك عمرو بن أمية أن الرجلين اللذين قتلهما كان لهما عهد أمان؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه رآهما ينتميان لنفس القبيلة الغادرة وظن أن قتلهما أخذٌ بالثأر.",
+        "choices": [
+            {
+                "choice_text": "لأنه تعمد مخالفته لأمر النبي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لعدم علمه بكتاب الأمان الذي كان معهما",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأنهما هاجماه أولاً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنه كان يريد سرقة مالهما",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي نُسخت تلاوتها وكانت تخبر عن رضا الله عن شهداء بئر معونة؟",
+        "difficulty_score": 900,
+        "explanation": "الآية المنسوخة هي: 'ألا أبلغوا عنا قومنا أن قد لقينا ربنا فرضي عنا وأرضانا'.",
+        "choices": [
+            {
+                "choice_text": "آية المواريث",
+                "is_correct": false
+            },
+            {
+                "choice_text": "آية 'ألا أبلغوا عنا قومنا أن قد لقينا ربنا...'",
+                "is_correct": true
+            },
+            {
+                "choice_text": "آية الرجم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "آية تحويل القبلة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "أي من الأنبياء أشار الحديث إلى أنه 'أشد الناس بلاءً'؟",
+        "difficulty_score": 100,
+        "explanation": "الحديث صريح في أن الأنبياء هم أشد الناس بلاءً ثم الصالحون.",
+        "choices": [
+            {
+                "choice_text": "كل الأنبياء",
+                "is_correct": true
+            },
+            {
+                "choice_text": "نبي الله يوسف فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "نبي الله أيوب فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أولو العزم فقط",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كيف كان النبي صلى الله عليه وسلم يتعامل مع 'أحب الناس إليه' في الميدان العسكري؟",
+        "difficulty_score": 400,
+        "explanation": "لم يكن يستأثر بهم بعيداً عن المخاطر، بل كان يقدمهم في قيادة السرايا والمبارزات.",
+        "choices": [
+            {
+                "choice_text": "كان يبقيهم في المدينة للحماية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كان يقدمهم في المواقف الصعبة والقيادة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "كان يعفيهم من القتال تماماً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كان يرسلهم في المهام السهلة فقط",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الملقب بـ 'حب رسول الله' الذي قُتل في مؤتة؟",
+        "difficulty_score": 250,
+        "explanation": "زيد بن حارثة رضي الله عنه.",
+        "choices": [
+            {
+                "choice_text": "أسامة بن زيد",
+                "is_correct": false
+            },
+            {
+                "choice_text": "زيد بن حارثة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "جعفر الطيار",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عبد الله بن رواحة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة المنهجية من تقديم النبي صلى الله عليه وسلم لأقاربه في مبارزة بدر؟",
+        "difficulty_score": 600,
+        "explanation": "إظهار الصدق في الدعوة، حيث لم يجنب أهله الموت بل قدمهم في سبيل الله.",
+        "choices": [
+            {
+                "choice_text": "لأنهم كانوا أقوى المقاتلين فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تقديم مرضاة الله على محاب النفوس والقرابة",
+                "is_correct": true
+            },
+            {
+                "choice_text": "بسبب قلة عدد المقاتلين في ذلك الوقت",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بناءً على طلب المشركين لمبارزة الأكفاء من قريش",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الأداة التي حاول يهود بني النضير استخدامها لاغتيال النبي؟",
+        "difficulty_score": 350,
+        "explanation": "حجر كبير يُعرف بالـ 'رحى'.",
+        "choices": [
+            {
+                "choice_text": "السيف",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الرحى (حجر الطحن)",
+                "is_correct": true
+            },
+            {
+                "choice_text": "السم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "القوس والسهم",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان مع النبي وخرج يبحث عنه في المدينة بعد تركه لمجلس بني النضير؟",
+        "difficulty_score": 800,
+        "explanation": "أشارت المصادر إلى أن أبا بكر رضي الله عنه وجماعة من الصحابة كانوا معه واستبطأوا عودته.",
+        "choices": [
+            {
+                "choice_text": "عمر بن الخطاب",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أبو بكر الصديق",
+                "is_correct": true
+            },
+            {
+                "choice_text": "عثمان بن عفان",
+                "is_correct": false
+            },
+            {
+                "choice_text": "علي بن أبي طالب",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يستطع المشركون واليهود في تلك الفترة التنبؤ بتحركات النبي المفاجئة؟",
+        "difficulty_score": 700,
+        "explanation": "بسبب عنصر 'الوحي' الذي كان يتدخل لإحباط مؤامراتهم الخفية.",
+        "choices": [
+            {
+                "choice_text": "بسبب قوة استخبارات الصحابة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بسبب التدخل الإلهي عبر الوحي المباشر",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأن اليهود كانوا ضعفاء عسكرياً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بسبب كثرة الجواسيس المسلمين",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف القرآني لحصون يهود بني النضير؟",
+        "difficulty_score": 450,
+        "explanation": "وصفها بأنهم ظنوا أنها 'مانعتهم من الله'.",
+        "choices": [
+            {
+                "choice_text": "جدران واهية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حصون مانعتهم من الله (في ظنهم)",
+                "is_correct": true
+            },
+            {
+                "choice_text": "خيام في الصحراء",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حصون لا يمكن رؤيتها",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الإذن الشرعي' في سياق قطع نخل بني النضير؟",
+        "difficulty_score": 900,
+        "explanation": "هو ما يحبه الله ويرضاه وأذن فيه تشريعاً لإخزاء الكافرين.",
+        "choices": [
+            {
+                "choice_text": "مجرد وقوع الأمر قدراً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "ما أذن الله فيه حباً ورضاً وتشريعاً",
+                "is_correct": true
+            },
+            {
+                "choice_text": "إذن أصدره النبي وحده",
+                "is_correct": false
+            },
+            {
+                "choice_text": "قانون وضعي وضعه الصحابة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا سمى ابن عباس سورة الحشر بـ 'سورة بني النضير'؟",
+        "difficulty_score": 300,
+        "explanation": "لأن معظم أحداث السورة نزلت في شأن إخراج هذه القبيلة اليهودية وتفاصيل غزوتهم.",
+        "choices": [
+            {
+                "choice_text": "لأنهم هم من كتبوها",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنها نزلت في شأن غزوتهم وتفاصيل إخراجهم",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأنها تمدح بني النضير",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنها نزلت قبل الهجرة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الرعب' في الحديث النبوي كما ظهر في غزوة بني النضير؟",
+        "difficulty_score": 500,
+        "explanation": "هو سلاح معنوي نُصر به النبي بمسيرة شهر، يقذفه الله في قلوب أعدائه.",
+        "choices": [
+            {
+                "choice_text": "الخوف العادي من القتال",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سلاح معنوي إلهي يُقذف في قلوب الأعداء",
+                "is_correct": true
+            },
+            {
+                "choice_text": "الخوف من الجوع",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الرعب الناتج عن كثرة السلاح",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هم الذين عابوا على المسلمين قطع النخل أثناء الحصار؟",
+        "difficulty_score": 600,
+        "explanation": "اليهود هم من عابوا ذلك لزعزعة ثقة المسلمين، فأنزل الله الآية لتثبيتهم.",
+        "choices": [
+            {
+                "choice_text": "المهاجرون",
+                "is_correct": false
+            },
+            {
+                "choice_text": "اليهود لغرض التشكيك والاعتراض",
+                "is_correct": true
+            },
+            {
+                "choice_text": "الأنصار",
+                "is_correct": false
+            },
+            {
+                "choice_text": "أهل مكة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الفارق الجوهري بين 'الغنيمة' و 'الفيء'؟",
+        "difficulty_score": 850,
+        "explanation": "الغنيمة تُؤخذ بقتال وتوزع على المقاتلين، أما الفيء فيُؤخذ بلا قتال ويوضع في المصالح العامة.",
+        "choices": [
+            {
+                "choice_text": "لا فرق بينهما في اللغة أو الاصطلاح",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الفيء ما أُخذ بلا قتال والغنيمة ما أُخذ بقتال",
+                "is_correct": true
+            },
+            {
+                "choice_text": "الغنيمة للفقراء فقط والفيء للأغنياء",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الفيء خاص بأهل مكة والغنيمة لأهل المدينة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا تم تخصيص أموال بني النضير للمهاجرين بالأساس؟",
+        "difficulty_score": 400,
+        "explanation": "ليحدث نوع من الاكتفاء المادي للمهاجرين الذين تركوا أموالهم بمكة.",
+        "choices": [
+            {
+                "choice_text": "بسبب تفضيلهم العرقي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لحاجتهم الشديدة وتركهم ديارهم وأموالهم",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأنهم هم من حاصروا الحصن وحدهم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأن الأنصار رفضوا أخذ الأموال",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الحادثة التي ذكرها المصدر عن 'إرجاع النخل' للأنصار؟",
+        "difficulty_score": 800,
+        "explanation": "بعد أن استغنى المهاجرون بفيء بني النضير وبني قريظة، بدأوا يردون ما كان الأنصار يمنحونهم إياه من ثمار النخل.",
+        "choices": [
+            {
+                "choice_text": "سرقة النخل من الأنصار",
+                "is_correct": false
+            },
+            {
+                "choice_text": "رد المهاجرين للنخل الذي أعاره لهم الأنصار سابقاً",
+                "is_correct": true
+            },
+            {
+                "choice_text": "احتراق نخل المدينة بالكامل",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تحريم أكل التمر على المهاجرين",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف القرآني لوعود المنافقين لليهود في سورة الحشر؟",
+        "difficulty_score": 550,
+        "explanation": "قالوا: 'لئن أخرجتم لنخرجن معكم ولا نطيع فيكم أحداً أبداً'.",
+        "choices": [
+            {
+                "choice_text": "سنقاتل معكم حتى النهاية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لئن أُخرجتم لنخرجن معكم (وعد كاذب)",
+                "is_correct": true
+            },
+            {
+                "choice_text": "سندفع عنكم الجزية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سنرحل نحن وتبقى أنتم",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "لماذا وصف المصدر وعود المنافقين بأنها تشبه 'بيت العنكبوت'؟",
+        "difficulty_score": 750,
+        "explanation": "لأنها وعود واهية لا حقيقة لها، تنهار عند أول مواجهة حقيقية.",
+        "choices": [
+            {
+                "choice_text": "لأنهم يسكنون في بيوت قديمة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأنها وعود واهية تنهار عند اشتداد الأمر",
+                "is_correct": true
+            },
+            {
+                "choice_text": "لأنهم ينسجون المؤامرات ببطء",
+                "is_correct": false
+            },
+            {
+                "choice_text": "لأن عددهم قليل جداً",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "في أي سورة ورد ذكر انخزال المنافقين وتآمرهم مع أهل الكتاب؟",
+        "difficulty_score": 200,
+        "explanation": "سورة الحشر.",
+        "choices": [
+            {
+                "choice_text": "سورة النساء",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سورة الحشر",
+                "is_correct": true
+            },
+            {
+                "choice_text": "سورة المنافقون",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سورة التوبة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس التربوي المستفاد من قوله تعالى 'فاعتبروا يا أولي الأبصار' في سياق بني النضير؟",
+        "difficulty_score": 650,
+        "explanation": "الاتعاظ بمصير من يشاقق الله ورسوله، وكيف أن القوة المادية لا تمنع عذاب الله.",
+        "choices": [
+            {
+                "choice_text": "تعلم كيفية بناء الحصون",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الاتعاظ والاعتبار بمصير الظالمين",
+                "is_correct": true
+            },
+            {
+                "choice_text": "البحث عن الأبصار القوية",
+                "is_correct": false
+            },
+            {
+                "choice_text": "دراسة التاريخ اليهودي فقط",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة المنهجية لـ 'الاهتداء الشمولي' الذي ذكره المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "الجمع بين دراسة وقائع السيرة وبين الآيات القرآنية التي نزلت فيها لفهم التوجيه الرباني.",
+        "choices": [
+            {
+                "choice_text": "الاقتصار على الكتب التاريخية فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "الربط بين السيرة والقرآن لفهم المقاصد الإلهية",
+                "is_correct": true
+            },
+            {
+                "choice_text": "دراسة اللغة العربية فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "التركيز على قصص الأنبياء السابقين",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كيف انتهت أحداث غزوة بني النضير للمسلمين؟",
+        "difficulty_score": 150,
+        "explanation": "انتهت بنصر مؤزر، وعزة، وغنائم (فيء)، وإخلاء المدينة من غدرهم.",
+        "choices": [
+            {
+                "choice_text": "بهزيمة للمسلمين",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بنصر وعزة وفيء للمؤمنين",
+                "is_correct": true
+            },
+            {
+                "choice_text": "بصلح مؤقت دون رحيلهم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "بقتال عنيف استمر سنوات",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "من هو رئيس المشركين الذي أعتق عمرو بن أمية الضمري؟",
+        "difficulty_score": 500,
+        "explanation": "عامر بن الطفيل.",
+        "choices": [
+            {
+                "choice_text": "أبو جهل",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عامر بن الطفيل",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أبو لهب",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عقبة بن أبي معيط",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي كان فيها 'القرّاء' قبل خروجهم للمهمة؟",
+        "difficulty_score": 350,
+        "explanation": "كانوا أهل عبادة وعلم وتفقه في الدين.",
+        "choices": [
+            {
+                "choice_text": "كانوا يبحثون عن المال",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كانوا منشغلين بالقرآن والعبادة والتعليم",
+                "is_correct": true
+            },
+            {
+                "choice_text": "كانوا غاضبين من النبي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كانوا يريدون الهجرة إلى الحبشة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الصحابة الذين استشهدوا في بئر معونة؟",
+        "difficulty_score": 250,
+        "explanation": "سبعون صحابياً.",
+        "choices": [
+            {
+                "choice_text": "عشرة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "سبعون",
+                "is_correct": true
+            },
+            {
+                "choice_text": "ألف",
+                "is_correct": false
+            },
+            {
+                "choice_text": "ثلاثمائة",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو أثر دراسة السيرة على 'طالب العلم'؟",
+        "difficulty_score": 450,
+        "explanation": "تعتبر السيرة مركزية في تكوينه، وبدونها تظل تنشئته العلمية ناقصة.",
+        "choices": [
+            {
+                "choice_text": "لا أثر لها على العلم الشرعي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تعتبر مركزية في تكوينه ونضجه المنهجي",
+                "is_correct": true
+            },
+            {
+                "choice_text": "تجعله ينسى علوم الفقه",
+                "is_correct": false
+            },
+            {
+                "choice_text": "هي مجرد مادة تكميلية غير ضرورية",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي أعطيت لليهود عند رحيلهم عن المدينة؟",
+        "difficulty_score": 600,
+        "explanation": "سُمح لهم بحمل ما تستطيعه الإبل من أمتعة وممتلكات (باستثناء السلاح).",
+        "choices": [
+            {
+                "choice_text": "البقاء في مزارعهم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "حمل ما حملت الإبل من متاع غير السلاح",
+                "is_correct": true
+            },
+            {
+                "choice_text": "أخذ خيول المسلمين معهم",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عدم الرحيل والجزية",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ماذا كان شعور النبي صلى الله عليه وسلم تجاه أصحاب بئر معونة مقارنة بوفاة أبنائه؟",
+        "difficulty_score": 900,
+        "explanation": "طرح المصدر تساؤلاً للتفكر يشير إلى أن حزنه عليهم كان شديداً جداً وقد يفوق أحياناً المصائب الشخصية بسبب الرابطة الإيمانية.",
+        "choices": [
+            {
+                "choice_text": "لم يحزن عليهم أبداً",
+                "is_correct": false
+            },
+            {
+                "choice_text": "كان حزنه عليهم عميقاً جداً لدرجة القنوت شهراً",
+                "is_correct": true
+            },
+            {
+                "choice_text": "كان حزناً عادياً كأي وفاة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "فرح لشهادتهم ولم يحزن",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المنهجي من سرية أبي سلمة؟",
+        "difficulty_score": 500,
+        "explanation": "سرعة المبادرة وعدم الاستسلام لجراح المعارك السابقة (أحد).",
+        "choices": [
+            {
+                "choice_text": "أهمية المال في السرايا",
+                "is_correct": false
+            },
+            {
+                "choice_text": "عدم التوقف عن العطاء الإصلاحي رغم المصائب",
+                "is_correct": true
+            },
+            {
+                "choice_text": "ضرورة القتال في الليل فقط",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تجنب السفر الطويل",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "question_text": "ما هي العاقبة التي توعد الله بها من 'يشاق الله ورسوله'؟",
+        "difficulty_score": 300,
+        "explanation": "أن الله شديد العقاب.",
+        "choices": [
+            {
+                "choice_text": "المغفرة الدائمة",
+                "is_correct": false
+            },
+            {
+                "choice_text": "شدة العقاب كما حدث لبني النضير",
+                "is_correct": true
+            },
+            {
+                "choice_text": "النجاح الدنيوي",
+                "is_correct": false
+            },
+            {
+                "choice_text": "تجاهل أفعالهم",
+                "is_correct": false
+            }
+        ]
+    }
+]
+    }

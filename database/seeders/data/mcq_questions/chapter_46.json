@@ -1,0 +1,887 @@
+    {
+    "chapter_id": 46,
+    "questions": [
+        {
+        "question_text": "في أي مرحلة من مراحل الدعوة يقع اللقاء الثامن الذي يتحدث عن الصبر وبشارات النصر؟",
+        "difficulty_score": 100,
+        "explanation": "المصدر يوضح أن الكلام يدور حول السنة الرابعة والخامسة من بعثة النبي، وهي بداية الدعوة الجهرية [1].",
+        "choices": [
+            { "choice_text": "المرحلة السرية الأولى", "is_correct": false },
+            { "choice_text": "بداية المرحلة الجهرية (السنة 4-5)", "is_correct": true },
+            { "choice_text": "بعد الهجرة إلى المدينة", "is_correct": false },
+            { "choice_text": "عام الحزن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحدث الذي اعتبره المصدر 'الحدث الثاني' المهم لأبي بكر الصديق في السنوات الأولى؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن الحدث الأول كان إسلام سادات على يديه، والحدث الثاني هو إنقاذ المعذبين المستضعفين [7].",
+        "choices": [
+            { "choice_text": "مرافقة النبي في الهجرة", "is_correct": false },
+            { "choice_text": "إنقاذ المعذبين المستضعفين وعتقهم", "is_correct": true },
+            { "choice_text": "التبرع بكل ماله في غزوة تبوك", "is_correct": false },
+            { "choice_text": "بناء مسجد في فناء داره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا عاتب بعض القوم أبا بكر الصديق عندما كان يشتري العبيد المعذبين؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يرون أنه يشتري ناساً ضعفاء لا نفع منهم ولا منعة لهم، وكانوا يفضلون أن يشتري أقوياء [8].",
+        "choices": [
+            { "choice_text": "لأنه كان يشتري بأسعار عالية", "is_correct": false },
+            { "choice_text": "لأنه كان يعتقهم دون مقابل", "is_correct": false },
+            { "choice_text": "لأنهم ضعفاء مضطهدون لا يفيدونه بشيء", "is_correct": true },
+            { "choice_text": "لأنهم كانوا غرباء عن مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لحديث خباب بن الأرت، ماذا كان يفعل النبي صلى الله عليه وسلم عندما جاءه يشتكي الأذى؟",
+        "difficulty_score": 200,
+        "explanation": "الحديث يصف النبي بأنه كان متوسداً بردة له في ظل الكعبة [2].",
+        "choices": [
+            { "choice_text": "كان يصلي عند مقام إبراهيم", "is_correct": false },
+            { "choice_text": "كان متوسداً بردة في ظل الكعبة", "is_correct": true },
+            { "choice_text": "كان يطوف بالبيت", "is_correct": false },
+            { "choice_text": "كان مجتمعاً بأصحابه في دار الأرقم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي البشارة المستقبلية التي ذكرها النبي صلى الله عليه وسلم لخباب لتثبيته؟",
+        "difficulty_score": 400,
+        "explanation": "أقسم النبي أن الله سيتم هذا الأمر حتى يسير الراكب من صنعاء إلى حضرموت لا يخاف إلا الله [9].",
+        "choices": [
+            { "choice_text": "فتح خيبر وغنائمها", "is_correct": false },
+            { "choice_text": "سير الراكب من صنعاء إلى حضرموت بأمن تام", "is_correct": true },
+            { "choice_text": "هزيمة الروم في بضع سنين", "is_correct": false },
+            { "choice_text": "دخول الناس في دين الله أفواجاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفائدة التي يستفيدها المصلحون من قصص الأنبياء والصالحين في القرآن؟",
+        "difficulty_score": 300,
+        "explanation": "القصص تعمل كنموذج ومثل يستمد منه المصلح الصبر والثبات في طريق الدعوة [11، 12].",
+        "choices": [
+            { "choice_text": "معرفة التواريخ القديمة فقط", "is_correct": false },
+            { "choice_text": "اتخاذها نموذجاً للصبر والثبات", "is_correct": true },
+            { "choice_text": "التسلية في وقت الشدة", "is_correct": false },
+            { "choice_text": "معرفة أسماء الأمم السابقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قوله تعالى {فليمدد بسبب إلى السماء}، ما هو التفسير الذي رجحه المصدر لكلمة 'السماء' و 'السبب'؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أن السماء هنا تعني سقف البيت، والسبب هو الحبل الذي يُشنق به [10].",
+        "choices": [
+            { "choice_text": "السماء هي الغلاف الجوي والسبب هو السلم", "is_correct": false },
+            { "choice_text": "السماء هي سقف البيت والسبب هو الحبل", "is_correct": true },
+            { "choice_text": "السماء هي العلو والسبب هو الدعاء", "is_correct": false },
+            { "choice_text": "السماء هي الوحي والسبب هو القلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'سلى جزور' التي وُضعت على ظهر النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 500,
+        "explanation": "هي مشيمة الناقة التي تُذبح أو تُنحر، وتكون مليئة بالأوساخ [11].",
+        "choices": [
+            { "choice_text": "جلد البعير الجاف", "is_correct": false },
+            { "choice_text": "مشيمة الناقة المذبوحة", "is_correct": true },
+            { "choice_text": "دم الذبيحة", "is_correct": false },
+            { "choice_text": "روث الدواب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أشقى القوم' الذي انبعث ليضع الأذى على ظهر النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر يذكر في الرواية أنه عقبة بن أبي معيط [12].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": false },
+            { "choice_text": "عقبة بن أبي معيط", "is_correct": true },
+            { "choice_text": "شيبة بن ربيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل المشركون بينما كان النبي صلى الله عليه وسلم ساجداً والأذى على ظهره؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يضحكون ويُميل بعضهم على بعض من شدة الضحك [3].",
+        "choices": [
+            { "choice_text": "كانوا يراقبون بصمت", "is_correct": false },
+            { "choice_text": "كانوا يضحكون ويتمایلون", "is_correct": true },
+            { "choice_text": "كانوا يهددون الصحابة", "is_correct": false },
+            { "choice_text": "كانوا يلقون الحجارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا شقَّ على قريش دعاء النبي صلى الله عليه وسلم عليهم؟",
+        "difficulty_score": 400,
+        "explanation": "لأنهم كانوا يعتقدون أن الدعوة في ذلك البلد (مكة) مستجابة [13].",
+        "choices": [
+            { "choice_text": "لأنهم كانوا يحبون النبي", "is_correct": false },
+            { "choice_text": "لخوفهم من الاستجابة في مكة", "is_correct": true },
+            { "choice_text": "لأن الدعاء كان طويلاً", "is_correct": false },
+            { "choice_text": "لأنهم خافوا من الفضيحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين رأى ابن مسعود صرعى المشركين الذين دعا عليهم النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "رآهم صرعى في قليب (بئر) بدر بعد سنوات من الحادثة [14].",
+        "choices": [
+            { "choice_text": "في شعاب مكة", "is_correct": false },
+            { "choice_text": "في القليب يوم بدر", "is_correct": true },
+            { "choice_text": "في يوم الفتح", "is_correct": false },
+            { "choice_text": "تحت جبل أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'يعفر محمد وجهه' في قول أبي جهل؟",
+        "difficulty_score": 500,
+        "explanation": "التعفير هو وضع الوجه في التراب أثناء السجود [15].",
+        "choices": [
+            { "choice_text": "يغسل وجهه بالماء", "is_correct": false },
+            { "choice_text": "يضع وجهه في التراب ساجداً", "is_correct": true },
+            { "choice_text": "يلطم وجهه", "is_correct": false },
+            { "choice_text": "يغطي وجهه بالثياب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا رأى أبو جهل عندما حاول أن يطأ رقبة النبي صلى الله عليه وسلم وهو يصلي؟",
+        "difficulty_score": 600,
+        "explanation": "رأى خندقاً من نار وهولاً وأجنحة (الملائكة) تمنعه [15].",
+        "choices": [
+            { "choice_text": "رأى أسوداً ضارية", "is_correct": false },
+            { "choice_text": "رأى خندقاً من نار وأجنحة", "is_correct": true },
+            { "choice_text": "رأى جداراً حديدياً", "is_correct": false },
+            { "choice_text": "رأى الصحابة يحيطون به", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة قرآنية نزلت لتعلق على محاولة أبي جهل منع النبي من الصلاة؟",
+        "difficulty_score": 400,
+        "explanation": "نزلت آيات من سورة العلق: {أرأيت الذي ينهى عبداً إذا صلى} [16].",
+        "choices": [
+            { "choice_text": "سورة الماعون", "is_correct": false },
+            { "choice_text": "سورة العلق", "is_correct": true },
+            { "choice_text": "سورة القلم", "is_correct": false },
+            { "choice_text": "سورة الليل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أنقذ النبي صلى الله عليه وسلم عندما خنقه عقبة بن أبي معيط بثوبه؟",
+        "difficulty_score": 300,
+        "explanation": "هو أبو بكر الصديق، وقال: 'أتقتلون رجلاً أن يقول ربي الله' [25، 26].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي قرأها أبو بكر الصديق مدافعاً عن النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 500,
+        "explanation": "قرأ الآية من سورة غافر: {أتقتلون رجلاً أن يقول ربي الله} [17].",
+        "choices": [
+            { "choice_text": "{فأما من أعطى واتقى}", "is_correct": false },
+            { "choice_text": "{أتقتلون رجلاً أن يقول ربي الله}", "is_correct": true },
+            { "choice_text": "{فلا تطع الكافرين وجاهدهم به}", "is_correct": false },
+            { "choice_text": "{سبح اسم ربك الأعلى}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر تأمل الآيات القرآنية التي نزلت في تلك المرحلة مهماً لفهم السيرة؟",
+        "difficulty_score": 700,
+        "explanation": "لأنها تبين كيف كان الله يعالج نفوس المؤمنين في تلك المرحلة ويرسم لهم منهج المواجهة [18].",
+        "choices": [
+            { "choice_text": "لمعرفة ترتيب السور فقط", "is_correct": false },
+            { "choice_text": "لأنها توثق أسماء المشركين", "is_correct": false },
+            { "choice_text": "لفهم كيفية معالجة الله لنفوس المؤمنين", "is_correct": true },
+            { "choice_text": "لحفظ القرآن بشكل أسرع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التشابه الملحوظ بين ختام سورة القلم وختام سورة التكوير؟",
+        "difficulty_score": 800,
+        "explanation": "كلتاهما تختمان بآية تدل على عالمية القرآن: {إن هو إلا ذكر للعالمين} [29، 30].",
+        "choices": [
+            { "choice_text": "كلاهما يتحدث عن الصلاة", "is_correct": false },
+            { "choice_text": "كلاهما ينتهي بآية {إن هو إلا ذكر للعالمين}", "is_correct": true },
+            { "choice_text": "كلاهما يبدأ بالقسم بالخيل", "is_correct": false },
+            { "choice_text": "كلاهما يتحدث عن قصص الأنبياء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان المشركون يركزون على تهمة 'الجنون' ضد النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 600,
+        "explanation": "لأنها كلمة لها دوي كبير في المجتمع وتهدف لإسقاط مصداقية صاحب الرسالة أمام القبائل [19].",
+        "choices": [
+            { "choice_text": "لأنهم كانوا يصدقون ذلك فعلاً", "is_correct": false },
+            { "choice_text": "لتشويه صورته وإسقاط مصداقيته", "is_correct": true },
+            { "choice_text": "لأن النبي كان يطيل الصمت", "is_correct": false },
+            { "choice_text": "بسبب كثرة سجوده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي موضوع ركزت عليه سورة 'الأعلى' كأولوية للمؤمنين في مكة؟",
+        "difficulty_score": 500,
+        "explanation": "ركزت على تعظيم الله سبحانه وتعالى والانشغال بذكره [20].",
+        "choices": [
+            { "choice_text": "أحكام المواريث", "is_correct": false },
+            { "choice_text": "تعظيم الله والانشغال بذكره", "is_correct": true },
+            { "choice_text": "قصة آدم وإبليس", "is_correct": false },
+            { "choice_text": "صفات المنافقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب المركزي الذي يذكره القرآن لإنكار المشركين وتكذيبهم؟",
+        "difficulty_score": 600,
+        "explanation": "يذكر القرآن أن إنكار الساعة (البعث) وعدم الإيمان بالغيب هو السبب الجذري [21].",
+        "choices": [
+            { "choice_text": "الفقر والحاجة", "is_correct": false },
+            { "choice_text": "إنكار الساعة وعدم الإيمان بالغيب", "is_correct": true },
+            { "choice_text": "الجهل بالقراءة والكتابة", "is_correct": false },
+            { "choice_text": "الخوف من ملوك الفرس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هما القضيتان المركزيتان اللتان يربطهما القرآن بتكذيب الساعة؟",
+        "difficulty_score": 700,
+        "explanation": "هما الاستكبار والهوى، كما في سورة الفرقان [34، 35].",
+        "choices": [
+            { "choice_text": "الجهل والتقليد", "is_correct": false },
+            { "choice_text": "الاستكبار والهوى", "is_correct": true },
+            { "choice_text": "البخل والطمع", "is_correct": false },
+            { "choice_text": "الخوف والضعف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أذن النبي صلى الله عليه وسلم للصحابة بالهجرة إلى الحبشة؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب اشتداد العذاب والتعذيب لدرجة لا تطاق، ولأن فيها ملكاً عادلاً [6].",
+        "choices": [
+            { "choice_text": "لبناء جيش قوي هناك", "is_correct": false },
+            { "choice_text": "للتجارة وتنمية الأموال", "is_correct": false },
+            { "choice_text": "فراراً من الظلم والتعذيب وحماية لدينهم", "is_correct": true },
+            { "choice_text": "لأن أهل الحبشة طلبوا ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي صفة ملك الحبشة التي ذكرها النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "وصفه بأنه ملك عادل لا يُظلم عنده أحد [6].",
+        "choices": [
+            { "choice_text": "ملك غني جداً", "is_correct": false },
+            { "choice_text": "ملك عادل لا يُظلم عنده أحد", "is_correct": true },
+            { "choice_text": "ملك يحب العرب", "is_correct": false },
+            { "choice_text": "ملك قوي عسكرياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو سيد 'القارة' الذي التقى بأبي بكر وهو خارج للمهاجرة إلى الحبشة؟",
+        "difficulty_score": 500,
+        "explanation": "هو ابن الدغنة، وهو سيد قبيلة القارة [22].",
+        "choices": [
+            { "choice_text": "أبو سفيان", "is_correct": false },
+            { "choice_text": "ابن الدغنة", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا برر ابن الدغنة رفضه لخروج أبي بكر من مكة؟",
+        "difficulty_score": 600,
+        "explanation": "بأن مثله من ذوي الأخلاق العالية (يكسب المعدوم، يصل الرحم) لا يخرج ولا يُخرج [4].",
+        "choices": [
+            { "choice_text": "لأنه كان مديناً له بالمال", "is_correct": false },
+            { "choice_text": "لأنه يحتاجه في الحرب", "is_correct": false },
+            { "choice_text": "لأن مثله لا يخرج ولا يُخرج لفضل أخلاقه", "is_correct": true },
+            { "choice_text": "خوفاً من غضب النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشرط الذي وضعته قريش لابن الدغنة لتقبل بجوار أبي بكر؟",
+        "difficulty_score": 700,
+        "explanation": "أن يعبد ربه في داره، ولا يستعلن بالصلاة والقراءة حتى لا يفتن أبناءهم ونساءهم [23].",
+        "choices": [
+            { "choice_text": "أن يدفع جزية سنوية", "is_correct": false },
+            { "choice_text": "أن يترك دين محمد", "is_correct": false },
+            { "choice_text": "أن يعبد ربه في داره ولا يستعلن بصلاته", "is_correct": true },
+            { "choice_text": "أن يهاجر إلى مكان آخر غير الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا خشي أشراف قريش من قراءة أبي بكر للقرآن في فناء داره؟",
+        "difficulty_score": 700,
+        "explanation": "بسبب 'سطوة القرآن' وتأثيره العاطفي، خاصة وأن أبا بكر كان رجلاً بكاءً [24].",
+        "choices": [
+            { "choice_text": "لأنه كان يسب آلهتهم", "is_correct": false },
+            { "choice_text": "بسبب صوته العالي المزعج", "is_correct": false },
+            { "choice_text": "بسبب قوة تأثير القرآن على أبنائهم ونسائهم", "is_correct": true },
+            { "choice_text": "لأنه كان يجتمع فيه مع النبي سراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل أبو بكر عندما خيَّره ابن الدغنة بين الالتزام بالشرط أو رد الذمة؟",
+        "difficulty_score": 600,
+        "explanation": "ردَّ عليه جواره، وقال: 'إني أرد إليك جوارك، وأرضى بجوار الله' [25].",
+        "choices": [
+            { "choice_text": "وافق على الشرط وتوقف عن الجهر", "is_correct": false },
+            { "choice_text": "ردَّ إليه جواره واختار جوار الله", "is_correct": true },
+            { "choice_text": "طلب مهلة للتفكير", "is_correct": false },
+            { "choice_text": "خرج من مكة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الموقف الذي وصفه المصدر بأنه يوضح 'سطوة القرآن' على المشركين أنفسهم؟",
+        "difficulty_score": 800,
+        "explanation": "هو سجود المشركين عندما قرأ النبي صلى الله عليه وسلم سورة النجم [48، 50].",
+        "choices": [
+            { "choice_text": "إسلام عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "سجود المشركين عند سماع سورة النجم", "is_correct": true },
+            { "choice_text": "هجرة الصحابة للحبشة", "is_correct": false },
+            { "choice_text": "فتح مكة وتحطيم الأصنام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في سورة النجم، ما هي الآية التي وصفها المصدر بأنها 'توقف القلب'؟",
+        "difficulty_score": 900,
+        "explanation": "هي قوله تعالى: {أزفت الآزفة * ليس لها من دون الله كاشفة} [5].",
+        "choices": [
+            { "choice_text": "{فأوحى إلى عبده ما أوحي}", "is_correct": false },
+            { "choice_text": "{أزفت الآزفة * ليس لها من دون الله كاشفة}", "is_correct": true },
+            { "choice_text": "{فاسجدوا لله واعبدوا}", "is_correct": false },
+            { "choice_text": "{ما كذب الفؤاد ما رأى}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'إخفار الذمة' في ثقافة العرب القديمة؟",
+        "difficulty_score": 700,
+        "explanation": "تعني خيانة العهد أو نقض الأمان الذي أعطاه السيد لشخص ما، وكان العرب يأنفون من ذلك [26].",
+        "choices": [
+            { "choice_text": "إعطاء المال للفقراء", "is_correct": false },
+            { "choice_text": "نقض العهد وخيانة الأمان", "is_correct": true },
+            { "choice_text": "الدفاع عن القبيلة", "is_correct": false },
+            { "choice_text": "استضافة الضيوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو نوع الجهاد الذي ذكره المصدر في الآية {وجاهدهم به جهاداً كبيراً}؟",
+        "difficulty_score": 500,
+        "explanation": "المقصود هو الجهاد بالقرآن في تلك المرحلة المكية [27].",
+        "choices": [
+            { "choice_text": "الجهاد بالسيف", "is_correct": false },
+            { "choice_text": "الجهاد بالمال", "is_correct": false },
+            { "choice_text": "الجهاد بالقرآن", "is_correct": true },
+            { "choice_text": "الجهاد بالصوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للختام، ما هي الوظيفة الأساسية للقرآن في طريق المصلح؟",
+        "difficulty_score": 800,
+        "explanation": "بناء المفاهيم والأفكار والعقيدة وتثبيت القلب والاعتزاز بالدين [28].",
+        "choices": [
+            { "choice_text": "حفظ القصص التاريخية فقط", "is_correct": false },
+            { "choice_text": "بناء المفاهيم والعقيدة وتثبيت القلب", "is_correct": true },
+            { "choice_text": "تعلم اللغة العربية وفنونها", "is_correct": false },
+            { "choice_text": "تحصيل الثواب بالقراءة المجردة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل أبو بكر في 'المسجد' الذي بناه في فناء داره؟",
+        "difficulty_score": 400,
+        "explanation": "كان يصلي فيه ويقرأ القرآن، مما جعل الناس يزدحمون حوله [29].",
+        "choices": [
+            { "choice_text": "كان يعقد اجتماعات سرية", "is_correct": false },
+            { "choice_text": "كان يصلي ويقرأ القرآن علانية", "is_correct": true },
+            { "choice_text": "كان يوزع الصدقات", "is_correct": false },
+            { "choice_text": "كان يعلم الأطفال الكتابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قالت عائشة رضي الله عنها عن إدراكها لأبويها في الدين؟",
+        "difficulty_score": 600,
+        "explanation": "قالت: 'لم أعقل أبوي قط إلا وهما يدينان الدين'، مما يدل على سبقهما للإسلام [30].",
+        "choices": [
+            { "choice_text": "إنهما أسلما بعد الهجرة", "is_correct": false },
+            { "choice_text": "إنهما كانا يشركان بالله في صغرها", "is_correct": false },
+            { "choice_text": "لم تعقل أبويها إلا وهما يدينان الدين", "is_correct": true },
+            { "choice_text": "إن أباها أسلم قبل أمها بسنوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث خباب، ما هو الأذى الذي كان يُفعل بالمؤمنين قبلهم؟",
+        "difficulty_score": 600,
+        "explanation": "كان الرجل يُؤخذ فيُحفر له في الأرض فيُجعل فيها، ثم يؤتى بالمنشار فيوضع على رأسه فيجعل نصفين [31].",
+        "choices": [
+            { "choice_text": "كانوا يُطردون من بيوتهم", "is_correct": false },
+            { "choice_text": "كانوا يُنشرون بالمناشير وتُمشط أجسادهم بالحديد", "is_correct": true },
+            { "choice_text": "كانوا يُمنعون من الطعام والشراب", "is_correct": false },
+            { "choice_text": "كانوا يُسجنون في آبار عميقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'يتقصف عليه' في وصف عائشة لتجمع الناس حول أبي بكر؟",
+        "difficulty_score": 700,
+        "explanation": "تعني يزدحمون ويتجمعون بكثافة شديدة حوله [29].",
+        "choices": [
+            { "choice_text": "يهجمون عليه بالأذى", "is_correct": false },
+            { "choice_text": "يزدحمون ويتجمعون حوله", "is_correct": true },
+            { "choice_text": "يرمون عليه الحجارة", "is_correct": false },
+            { "choice_text": "يسخرون من صوته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة النهائية التي رآها ابن مسعود لأولئك الذين وضعوا الأذى على ظهر النبي؟",
+        "difficulty_score": 400,
+        "explanation": "رأى جثثهم صرعى في بئر بدر (القليب) [20، 21].",
+        "choices": [
+            { "choice_text": "أسلموا جميعاً في فتح مكة", "is_correct": false },
+            { "choice_text": "ماتوا في طاعون عمواس", "is_correct": false },
+            { "choice_text": "رآهم صرعى في قليب بدر", "is_correct": true },
+            { "choice_text": "هاجروا إلى الحبشة نادمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف ابن الدغنة أبا بكر الصديق في رواية عائشة؟",
+        "difficulty_score": 600,
+        "explanation": "وصفه ابن الدغنة بأوصاف تشبه تماماً ما وصفت به خديجة النبي صلى الله عليه وسلم، ومنها 'تحمل الكل وتكسب المعدوم' [1].",
+        "choices": [
+            { "choice_text": "بأنه شجاع لا يهاب أحداً", "is_correct": false },
+            { "choice_text": "بأنه يحمل الكل ويكسب المعدوم ويصل الرحم", "is_correct": true },
+            { "choice_text": "بأنه أعلم قريش بالأنساب", "is_correct": false },
+            { "choice_text": "بأنه حكيم العرب ومستشارها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القبيلة التي كان ابن الدغنة سيداً لها؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المصدر صراحة أن ابن الدغنة هو سيد قبيلة 'القارة' [2].",
+        "choices": [
+            { "choice_text": "بنو مخزوم", "is_correct": false },
+            { "choice_text": "قبيلة القارة", "is_correct": true },
+            { "choice_text": "بنو أمية", "is_correct": false },
+            { "choice_text": "بنو أسد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لعائشة رضي الله عنها، كم مرة كان النبي صلى الله عليه وسلم يزور أبا بكر في بيته؟",
+        "difficulty_score": 400,
+        "explanation": "قالت عائشة: 'ولم يمر علينا يوم إلا يأتينا فيه رسول الله صلى الله عليه وسلم طرفي النهار: بكرة وعشية' [2].",
+        "choices": [
+            { "choice_text": "مرة واحدة في الأسبوع", "is_correct": false },
+            { "choice_text": "مرتين في اليوم (بكرة وعشية)", "is_correct": true },
+            { "choice_text": "فقط في الليل سراً", "is_correct": false },
+            { "choice_text": "مرة كل شهر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي 'أفزع أشراف قريش' من فعل أبي بكر في فناء داره؟",
+        "difficulty_score": 700,
+        "explanation": "أفزعهم جهرة أبي بكر بالصلاة والقراءة وتجمع النساء والأبناء حوله، فخافوا أن يفتنهم [3].",
+        "choices": [
+            { "choice_text": "بناؤه لمسجد حجري ضخم", "is_correct": false },
+            { "choice_text": "جهره بالصلاة والقراءة وتأثيره على النساء والأبناء", "is_correct": true },
+            { "choice_text": "توزيعه للأموال علانية", "is_correct": false },
+            { "choice_text": "دعمه العسكري للحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل المشركين بعد سماع سورة النجم كاملة؟",
+        "difficulty_score": 300,
+        "explanation": "المصدر يذكر أنهم سجدوا جميعاً لشدة وقع الآيات على نفوسهم [4].",
+        "choices": [
+            { "choice_text": "قاموا برجم النبي بالحجارة", "is_correct": false },
+            { "choice_text": "سجدوا لله جميعاً", "is_correct": true },
+            { "choice_text": "أعلنوا إسلامهم الدائم", "is_correct": false },
+            { "choice_text": "انصرفوا وهم يصفرون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قوله تعالى {أزفت الآزفة} بسورة النجم، ما المعنى المقصود بـ 'الآزفة'؟",
+        "difficulty_score": 800,
+        "explanation": "الآزفة هي اسم من أسماء القيامة، ومعناها القريبة التي اقترب وقتها [4].",
+        "choices": [
+            { "choice_text": "العاصفة الشديدة", "is_correct": false },
+            { "choice_text": "القيامة القريبة", "is_correct": true },
+            { "choice_text": "الموت المفاجئ", "is_correct": false },
+            { "choice_text": "الهجرة الوشيكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الزاد الأول والأساسي' للمصلح في طريقه كما ورد في خاتمة اللقاء؟",
+        "difficulty_score": 400,
+        "explanation": "أكد المصدر أن القرآن الكريم يجب أن يكون هو الزاد الأول للمصلح لبناء مفاهيمه وعقيدته [5].",
+        "choices": [
+            { "choice_text": "المال والعتاد", "is_correct": false },
+            { "choice_text": "القرآن الكريم", "is_correct": true },
+            { "choice_text": "العلاقات الاجتماعية", "is_correct": false },
+            { "choice_text": "الذكاء السياسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أيُّ سورة ختمت بآية {إن هو إلا ذكر للعالمين} بالإضافة لسورة القلم؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أن سورة التكوير ختمت بنفس الآية التي ختمت بها سورة القلم [29، 30].",
+        "choices": [
+            { "choice_text": "سورة النجم", "is_correct": false },
+            { "choice_text": "سورة التكوير", "is_correct": true },
+            { "choice_text": "سورة الأعلى", "is_correct": false },
+            { "choice_text": "سورة العلق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'يَنكُصُ على عَقِبَيْه' التي وُصفت بها حالة أبي جهل؟",
+        "difficulty_score": 700,
+        "explanation": "تعني يرجع إلى الوراء منهزماً أو خائفاً، وهي الحالة التي أصابته عند رؤية النار والملائكة [6].",
+        "choices": [
+            { "choice_text": "يصرخ بصوت عالٍ", "is_correct": false },
+            { "choice_text": "يرجع القهقرى إلى الوراء", "is_correct": true },
+            { "choice_text": "يغشى عليه من الخوف", "is_correct": false },
+            { "choice_text": "يهجم بشراسة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان المصلحون الأوائل يركزون على قصص الأنبياء السابقين؟",
+        "difficulty_score": 500,
+        "explanation": "لأنها وسيلة قرآنية لتثبيت الفؤاد وربط الصبر باليقين في النصر النهائي [11، 12].",
+        "choices": [
+            { "choice_text": "للتسلية في أوقات الفراغ", "is_correct": false },
+            { "choice_text": "لتثبيت الفؤاد واستلهام الصبر", "is_correct": true },
+            { "choice_text": "لمعرفة أخبار الملوك", "is_correct": false },
+            { "choice_text": "لتعلم فنون القتال القديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكلمة 'بِسببٍ' في آية سورة الحج وفقاً لأحد التفسيرات التي ذكرها المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "فسرها المصدر بأنها 'الحبل' الذي يربطه اليائس ليشنق نفسه [14، 15].",
+        "choices": [
+            { "choice_text": "الدافع المعنوي", "is_correct": false },
+            { "choice_text": "الحبل", "is_correct": true },
+            { "choice_text": "الطريق الواضح", "is_correct": false },
+            { "choice_text": "السلم الخشبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي دلالة قوله تعالى {أرأيت الذي ينهى عبداً إذا صلى}؟",
+        "difficulty_score": 400,
+        "explanation": "نزلت في أبي جهل عندما حاول منع النبي صلى الله عليه وسلم من الصلاة عند الكعبة [7].",
+        "choices": [
+            { "choice_text": "تتحدث عن الوليد بن المغيرة", "is_correct": false },
+            { "choice_text": "تتحدث عن أبا جهل ومنعه للصلاة", "is_correct": true },
+            { "choice_text": "تتحدث عن هجرة الحبشة", "is_correct": false },
+            { "choice_text": "تتحدث عن فضل قيام الليل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول من خرج من المسلمين مهاجراً إلى الحبشة وفقاً للمصدر؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المصدر أن عثمان بن عفان رضي الله عنه كان من أوائل من خرجوا [8].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "عبد الرحمن بن عوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التحدي' الذي برز في الآيات المكية المبكرة رغم الاستضعاف المادي؟",
+        "difficulty_score": 800,
+        "explanation": "كان القرآن يتحدى المشركين بأن النصر آتٍ لا محالة وأن كيدهم سيذهب سدى رغم انعدام المستندات الحسية حينها [13، 14].",
+        "choices": [
+            { "choice_text": "التحدي بجمع الأموال", "is_correct": false },
+            { "choice_text": "التحدي بقدوم النصر رغم الاستضعاف", "is_correct": true },
+            { "choice_text": "التحدي بمبارزة الفرسان", "is_correct": false },
+            { "choice_text": "التحدي ببناء القصور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القضية الأخلاقية التي يربطها القرآن بتكذيب يوم الدين في سورة املاعون؟",
+        "difficulty_score": 600,
+        "explanation": "يربط القرآن بين التكذيب بالدين (الجزاء) وبين سوء معاملة اليتيم (يدع اليتيم) وعدم إطعام المسكين [9].",
+        "choices": [
+            { "choice_text": "الكذب في الحديث", "is_correct": false },
+            { "choice_text": "قهر اليتيم وعدم إطعام المسكين", "is_correct": true },
+            { "choice_text": "الغش في التجارة", "is_correct": false },
+            { "choice_text": "الفرار من المعركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي أبو بكر بـ 'الأتقى' في سورة الليل وفقاً لأسباب النزول؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه كان ينفق ماله في عتق العبيد الضعفاء ابتغاء وجه الله وحده [10].",
+        "choices": [
+            { "choice_text": "لكثرة صلاته في المسجد", "is_correct": false },
+            { "choice_text": "لإنفاقه ماله في عتق الضعفاء لله", "is_correct": true },
+            { "choice_text": "لأنه هاجر أول الناس", "is_correct": false },
+            { "choice_text": "لأنه كان لا ينام الليل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال ابن مسعود عن وضع يده لمساعدة النبي أثناء حادثة سلى الجزور؟",
+        "difficulty_score": 700,
+        "explanation": "قال: 'وأنا أنظر لا أغني شيئاً، لو كان لي منعة'، مما يدل على شدة الاستضعاف [11].",
+        "choices": [
+            { "choice_text": "إنه قام وأزاح الأذى فوراً", "is_correct": false },
+            { "choice_text": "إنه لم يستطع فعل شيء لعدم وجود منعة له", "is_correct": true },
+            { "choice_text": "إنه هرب من المكان خوفاً", "is_correct": false },
+            { "choice_text": "إنه نادى عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'سطوة القرآن' التي أشار إليها المصدر في سياق سيرة المصلحين؟",
+        "difficulty_score": 800,
+        "explanation": "هي القوة التأثيرية الزلزالية التي يمتلكها القرآن على القلوب المؤمنة والكافرة على حد سواء [42، 50].",
+        "choices": [
+            { "choice_text": "قوته في تشريع الأحكام الجنائية", "is_correct": false },
+            { "choice_text": "قوته الزلزالية في التأثير على القلوب", "is_correct": true },
+            { "choice_text": "عدد صفحاته وآياته", "is_correct": false },
+            { "choice_text": "فصاحته اللغوية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قوله {ما كذب الفؤاد ما رأى}، ما هو الحدث الذي تشير إليه سورة النجم؟",
+        "difficulty_score": 600,
+        "explanation": "تشير إلى رؤية النبي صلى الله عليه وسلم لجبريل أو ما رأى في رحلة المعراج [12].",
+        "choices": [
+            { "choice_text": "رؤية المشركين في بدر", "is_correct": false },
+            { "choice_text": "رؤية آيات ربه الكبرى والمعراج", "is_correct": true },
+            { "choice_text": "رؤية الكعبة من بعيد", "is_correct": false },
+            { "choice_text": "رؤية ملك الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المنشار' المذكور في حديث خباب بن الأرت؟",
+        "difficulty_score": 400,
+        "explanation": "أداة تعذيب كانت تستخدم لنشر المؤمنين القدامى من رؤوسهم حتى أقدامهم لاختبار ثباتهم [13].",
+        "choices": [
+            { "choice_text": "أداة لقطع الأشجار", "is_correct": false },
+            { "choice_text": "أداة لتعذيب المؤمنين السابقين بالنشْر", "is_correct": true },
+            { "choice_text": "رمز لقطع صلة الرحم", "is_correct": false },
+            { "choice_text": "أداة لبناء السفن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'كسب المعدوم' في وصف أبي بكر؟",
+        "difficulty_score": 700,
+        "explanation": "تعني أنه يعطي الفقير الذي لا يملك شيئاً أو يوفر للناس ما فقدوه من خير [1].",
+        "choices": [
+            { "choice_text": "ربح المال الوفير في التجارة", "is_correct": false },
+            { "choice_text": "إعطاء الفقير وتوفير ما يفتقده الناس", "is_correct": true },
+            { "choice_text": "البحث عن الذهب في الصحراء", "is_correct": false },
+            { "choice_text": "شراء العبيد الأقوياء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أيُّ سورة ركزت على أن القرآن هو 'ذكر للعالمين' رداً على تهمة الجنون؟",
+        "difficulty_score": 600,
+        "explanation": "سورتي القلم والتكوير ركزتا على عالمية الرسالة ونفي الجنون [29، 30].",
+        "choices": [
+            { "choice_text": "سورة الماعون", "is_correct": false },
+            { "choice_text": "سورتي القلم والتكوير", "is_correct": true },
+            { "choice_text": "سورة الأعلى", "is_correct": false },
+            { "choice_text": "سورة العلق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'القارة' الذين نُسب إليهم ابن الدغنة؟",
+        "difficulty_score": 500,
+        "explanation": "قبيلة عربية كانت تشتهر بالرماية، وكان ابن الدغنة سيدهم [2].",
+        "choices": [
+            { "choice_text": "فرسان مكة", "is_correct": false },
+            { "choice_text": "قبيلة ابن الدغنة المشهورة بالرماية", "is_correct": true },
+            { "choice_text": "تجار من اليمن", "is_correct": false },
+            { "choice_text": "حراس الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'قليب بدر'؟",
+        "difficulty_score": 300,
+        "explanation": "البئر القديمة في منطقة بدر التي أُلقي فيها جثث صناديد قريش بعد المعركة [20، 21].",
+        "choices": [
+            { "choice_text": "اسم جبل في مكة", "is_correct": false },
+            { "choice_text": "البئر التي ألقي فيها قتلى المشركين ببدر", "is_correct": true },
+            { "choice_text": "مكان إقامة النبي في المدينة", "is_correct": false },
+            { "choice_text": "طريق الهجرة إلى الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة الآية {أفمن هذا الحديث تعجبون وتضحكون ولا تبكون}؟",
+        "difficulty_score": 800,
+        "explanation": "عتاب للمشركين الذين يسخرون من القرآن بدلاً من التأثر به والبكاء من خشيته [4].",
+        "choices": [
+            { "choice_text": "تحث على الفرح والسرور", "is_correct": false },
+            { "choice_text": "تعاتب المشركين على سخريتهم من القرآن", "is_correct": true },
+            { "choice_text": "تتحدث عن فضل الضحك في الإسلام", "is_correct": false },
+            { "choice_text": "تصف أحوال أهل الجنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الوسيلة' التي سألها المصلح للنبي في نهاية اللقاء؟",
+        "difficulty_score": 400,
+        "explanation": "هي المنزلة العالية في الجنة التي لا تنبغي إلا لعبد واحد، ويُسأل الله أن تكون للنبي [14].",
+        "choices": [
+            { "choice_text": "وسيلة النقل إلى المدينة", "is_correct": false },
+            { "choice_text": "المنزلة العالية في الجنة", "is_correct": true },
+            { "choice_text": "طريقة للدعوة والتبليغ", "is_correct": false },
+            { "choice_text": "وسيلة لحفظ القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف المشركين من 'الجوار' الذي أعطاه ابن الدغنة لأبي بكر؟",
+        "difficulty_score": 700,
+        "explanation": "قبلوه بشرط عدم الجهر بالصلاة والقراءة خوفاً من تأثيرها على نسائهم وأبنائهم [15].",
+        "choices": [
+            { "choice_text": "رفضوه فوراً", "is_correct": false },
+            { "choice_text": "قبلوه بشرط عدم الجهر بالعبادة", "is_correct": true },
+            { "choice_text": "اشترطوا أن يدفع أبو بكر ضريبة", "is_correct": false },
+            { "choice_text": "طردوا ابن الدغنة من مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'المنعة' في سياق قول ابن مسعود؟",
+        "difficulty_score": 600,
+        "explanation": "القوة والقبيلة التي تحمي الشخص وتمنع عنه الأذى [11].",
+        "choices": [
+            { "choice_text": "الصحة البدنية", "is_correct": false },
+            { "choice_text": "القوة القبلية الحامية", "is_correct": true },
+            { "choice_text": "المال الكثير", "is_correct": false },
+            { "choice_text": "العلم الغزير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أيُّ آية استخدمها أبو بكر الصديق للرد على عقبة بن أبي معيط؟",
+        "difficulty_score": 500,
+        "explanation": "استخدم آية مؤمن آل فرعون: {أتقتلون رجلاً أن يقول ربي الله} [25، 26].",
+        "choices": [
+            { "choice_text": "{قل هو الله أحد}", "is_correct": false },
+            { "choice_text": "{أتقتلون رجلاً أن يقول ربي الله}", "is_correct": true },
+            { "choice_text": "{إنا أعطيناك الكوثر}", "is_correct": false },
+            { "choice_text": "{والعصر إن الإنسان لفي خسر}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الحَرّتان' المذكورتان في حديث الهجرة؟",
+        "difficulty_score": 900,
+        "explanation": "هما منطقتان ذات حجارة سوداء تحيط بالمدينة المنورة من جهتين [16].",
+        "choices": [
+            { "choice_text": "جبلان في مكة", "is_correct": false },
+            { "choice_text": "منطقتان بركانيتان بالمدينة", "is_correct": true },
+            { "choice_text": "بئران في الحبشة", "is_correct": false },
+            { "choice_text": "سوقان في الطائف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سميت سورة الأعلى بهذا الاسم؟",
+        "difficulty_score": 200,
+        "explanation": "لأنها تبدأ بتنزيه الله 'الأعلى' جل جلاله [17].",
+        "choices": [
+            { "choice_text": "لأنها نزلت في مكان عالٍ", "is_correct": false },
+            { "choice_text": "لأنها تبدأ بـ {سبح اسم ربك الأعلى}", "is_correct": true },
+            { "choice_text": "لأنها تتحدث عن النجوم", "is_correct": false },
+            { "choice_text": "لأنها تخاطب علية القوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل أبو بكر عندما كان يقرأ القرآن في مسجده الصغير؟",
+        "difficulty_score": 400,
+        "explanation": "كان يبكي بكاءً شديداً لشدة تأثره، وهو ما كان يجذب الناس إليه [3].",
+        "choices": [
+            { "choice_text": "كان يصرخ بالوعيد", "is_correct": false },
+            { "choice_text": "كان يبكي بشدة من خشية الله", "is_correct": true },
+            { "choice_text": "كان يقرأ بسرعة كبيرة", "is_correct": false },
+            { "choice_text": "كان يوزع الطعام على الحاضرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'أخفرت الذمة'؟",
+        "difficulty_score": 700,
+        "explanation": "خيانة العهد الذي أعطاه المجير للمستجير به [45، 46].",
+        "choices": [
+            { "choice_text": "أوفيت بالوعد", "is_correct": false },
+            { "choice_text": "خنت العهد والأمان", "is_correct": true },
+            { "choice_text": "دفعت الدية", "is_correct": false },
+            { "choice_text": "أعلنت الحرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي 'الجويرية الصغير' التي أزاحت الأذى عن النبي؟",
+        "difficulty_score": 300,
+        "explanation": "هي فاطمة بنت النبي صلى الله عليه وسلم رضي الله عنها [18].",
+        "choices": [
+            { "choice_text": "عائشة بنت أبي بكر", "is_correct": false },
+            { "choice_text": "فاطمة بنت محمد", "is_correct": true },
+            { "choice_text": "أسماء بنت أبي بكر", "is_correct": false },
+            { "choice_text": "أم كلثوم بنت محمد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'جهاداً كبيراً' بالقرآن؟",
+        "difficulty_score": 600,
+        "explanation": "تعني استخدام الحجة والبيان القرآني لمواجهة الباطل وتثبيت الحق [19].",
+        "choices": [
+            { "choice_text": "القتال بالسيوف الضخمة", "is_correct": false },
+            { "choice_text": "الجهاد بالحجة والبيان القرآني", "is_correct": true },
+            { "choice_text": "الجهاد ضد الروم والفرس", "is_correct": false },
+            { "choice_text": "الجهاد بالنفس فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرسالة الأساسية من قصة خباب بن الأرت للمصلحين؟",
+        "difficulty_score": 500,
+        "explanation": "أن طريق الإصلاح محفوف بالبلاء، وأن الصبر هو مفتاح النصر الموعود [10، 11].",
+        "choices": [
+            { "choice_text": "أن الراحة هي سمة المصلح", "is_correct": false },
+            { "choice_text": "أن الصبر على البلاء مفتاح النصر", "is_correct": true },
+            { "choice_text": "أن الهجرة هي الحل الوحيد دائماً", "is_correct": false },
+            { "choice_text": "أن كثرة الشكوى تسرع بالفرج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'بُكرة وعشية'؟",
+        "difficulty_score": 200,
+        "explanation": "أول النهار وآخره [2].",
+        "choices": [
+            { "choice_text": "منتصف الليل", "is_correct": false },
+            { "choice_text": "أول النهار وآخره", "is_correct": true },
+            { "choice_text": "يوم الجمعة والسبت", "is_correct": false },
+            { "choice_text": "وقت الظهيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو شعور المشركين تجاه 'يوم الحساب' وفقاً لسورة الماعون؟",
+        "difficulty_score": 700,
+        "explanation": "التكذيب والاستهانة به، وهو ما دفعهم لظلم الضعفاء [9].",
+        "choices": [
+            { "choice_text": "الخوف الشديد", "is_correct": false },
+            { "choice_text": "التكذيب والاستهانة", "is_correct": true },
+            { "choice_text": "الانتظار بشوق", "is_correct": false },
+            { "choice_text": "الجهل التام بوجوده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أيُّ الأوصاف التالية لم يذكره ابن الدغنة لأبي بكر؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر صلة الرحم، وحمل الكل، وقرى الضيف، لكنه لم يذكر 'قيادة الجيوش' في ذلك الموقف [1].",
+        "choices": [
+            { "choice_text": "تصل الرحم", "is_correct": false },
+            { "choice_text": "تقري الضيف", "is_correct": false },
+            { "choice_text": "تقود الجيوش الكبيرة", "is_correct": true },
+            { "choice_text": "تعين على نوائب الحق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا دعا المصلح في ختام لقائه للسيرة النبوية؟",
+        "difficulty_score": 400,
+        "explanation": "دعا بأن يحيينا الله على سنة النبي صلى الله عليه وسلم ويميتنا عليها [14].",
+        "choices": [
+            { "choice_text": "بزيادة الأموال والأولاد", "is_correct": false },
+            { "choice_text": "بالحياة والموت على سنة النبي", "is_correct": true },
+            { "choice_text": "بفتح البلاد البعيدة", "is_correct": false },
+            { "choice_text": "بإهلاك الأعداء فوراً", "is_correct": false }
+        ]
+    }
+]
+
+        
+    }

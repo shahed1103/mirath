@@ -1,0 +1,883 @@
+    {
+    "chapter_id": 26,
+    "questions": [
+        {
+        "question_text": "ما هو وزن الفعل 'انكسر' في علم الصرف؟",
+        "difficulty_score": 100,
+        "explanation": "وزن 'انكسر' هو 'انفعل'، حيث زيدت الهمزة والنون في أوله على الحروف الأصلية (ك، س، ر) [6]، [32].",
+        "choices": [
+            { "choice_text": "افتعل", "is_correct": false },
+            { "choice_text": "انفعل", "is_correct": true },
+            { "choice_text": "تفاعل", "is_correct": false },
+            { "choice_text": "استفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المعنى الذي يفيده باب 'انفعل' غالباً؟",
+        "difficulty_score": 200,
+        "explanation": "بناء هذا الباب يكون للمطاوعة، وهي موافقة الفاعل لأثر الفعل المتعدي الواقع عليه [33]، [1].",
+        "choices": [
+            { "choice_text": "المشاركة", "is_correct": false },
+            { "choice_text": "المبالغة", "is_correct": false },
+            { "choice_text": "المطاوعة", "is_correct": true },
+            { "choice_text": "الطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في الفعل 'اجتمع'، ما هي الحروف الزائدة؟",
+        "difficulty_score": 300,
+        "explanation": "الفعل 'اجتمع' على وزن 'افتعل'، والحروف الزائدة هي الهمزة في أوله والتاء بعد الفاء (الحرف الثالث) [8]، [9].",
+        "choices": [
+            { "choice_text": "الهمزة والنون", "is_correct": false },
+            { "choice_text": "الهمزة والتاء", "is_correct": true },
+            { "choice_text": "التاء والألف", "is_correct": false },
+            { "choice_text": "السين والتاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يتبع باب 'افعلَّ' (بزيادة الهمزة وتكرار اللام)؟",
+        "difficulty_score": 400,
+        "explanation": "الفعل 'احمرَّ' هو مثال لباب 'افعلَّ'، حيث زيدت فيه الهمزة وكررت الراء (اللام) [34]، [35].",
+        "choices": [
+            { "choice_text": "انكسر", "is_correct": false },
+            { "choice_text": "تكلم", "is_correct": false },
+            { "choice_text": "احمرَّ", "is_correct": true },
+            { "choice_text": "تباعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق الدلالي بين 'حمر زيد' و 'احمرَّ زيد'؟",
+        "difficulty_score": 500,
+        "explanation": "باب 'افعلَّ' يفيد مبالغة الفعل اللازم؛ فـ 'احمرَّ' تدل على زيادة في اللون عما يفيده الفعل المجرد 'حمر' [16]، [36].",
+        "choices": [
+            { "choice_text": "'احمرَّ' تفيد الطلب", "is_correct": false },
+            { "choice_text": "'احمرَّ' تفيد المبالغة", "is_correct": true },
+            { "choice_text": "'احمرَّ' تفيد المشاركة", "is_correct": false },
+            { "choice_text": "لا فرق بينهما في المعنى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'التكلف' في باب 'تفعّل' (مثل تعلمتُ العلم)؟",
+        "difficulty_score": 600,
+        "explanation": "التكلف هو تحصيل المطلوب شيئاً بعد شيء بمشقة، كتحصيل العلم مسألة بعد مسألة [23]، [18].",
+        "choices": [
+            { "choice_text": "فعل الشيء دفعة واحدة", "is_correct": false },
+            { "choice_text": "تحصيل المطلوب تدريجياً بمشقة", "is_correct": true },
+            { "choice_text": "مشاركة الآخرين في الفعل", "is_correct": false },
+            { "choice_text": "طلب الشيء من الآخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يشترط في باب 'تفاعل' (مثل تصالح القوم) وجود اثنين فصاعداً؟",
+        "difficulty_score": 700,
+        "explanation": "لأن بناء هذا الباب موضوع للمشاركة بين الاثنين فصاعداً، ولا يتصور وقوع المشاركة من شخص واحد بمفرده [10]، [11].",
+        "choices": [
+            { "choice_text": "لأنه يفيد المبالغة", "is_correct": false },
+            { "choice_text": "لأنه يفيد المطاوعة", "is_correct": false },
+            { "choice_text": "لأنه يفيد المشاركة", "is_correct": true },
+            { "choice_text": "لأنه يفيد التكلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في باب 'تفعّل'، أين يقع الحرف الزائد الذي من جنس العين؟",
+        "difficulty_score": 800,
+        "explanation": "الزيادة تكون بحرف من جنس عين الفعل بين الفاء والعين، مثل تكرار اللام في 'تكلم' [29]، [23].",
+        "choices": [
+            { "choice_text": "قبل الفاء", "is_correct": false },
+            { "choice_text": "بعد اللام", "is_correct": false },
+            { "choice_text": "بين الفاء والعين", "is_correct": true },
+            { "choice_text": "بعد العين واللام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأبواب التالية لا يأتي إلا لازماً دائماً؟",
+        "difficulty_score": 900,
+        "explanation": "باب 'انفعل' (مثل انكسر) وباب 'افعلَّ' (مثل احمرَّ) هما فعلان لازمان دائماً ولا يتعديان إلى مفعول به [21]، [29].",
+        "choices": [
+            { "choice_text": "استفعل", "is_correct": false },
+            { "choice_text": "انفعل", "is_correct": true },
+            { "choice_text": "تفعّل", "is_correct": false },
+            { "choice_text": "افتعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد أبواب النوع الثالث من الثلاثي المزيد؟",
+        "difficulty_score": 100,
+        "explanation": "النوع الثالث وهو ما زيد فيه ثلاثة أحرف يضم أربعة أبواب هي: استفعل، افعوعل، افعولّ، وافعالّ [29، 46].",
+        "choices": [
+            { "choice_text": "ثلاثة أبواب", "is_correct": false },
+            { "choice_text": "أربعة أبواب", "is_correct": true },
+            { "choice_text": "خمسة أبواب", "is_correct": false },
+            { "choice_text": "ستة أبواب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في باب 'استخرج'؟",
+        "difficulty_score": 200,
+        "explanation": "في باب 'استفعل'، الحروف المزيدة هي الهمزة والسين والتاء في أول الفعل [30، 31].",
+        "choices": [
+            { "choice_text": "الألف والنون والتاء", "is_correct": false },
+            { "choice_text": "الهمزة والسين والتاء", "is_correct": true },
+            { "choice_text": "الهمزة والواو والسين", "is_correct": false },
+            { "choice_text": "التاء والألف والسين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الغالب في بناء باب 'استفعل' من حيث التعدية واللزوم؟",
+        "difficulty_score": 300,
+        "explanation": "بناء باب 'استفعل' يأتي للتعدية غالباً (مثل استخرج زيد المال) وقد يأتي لازماً نادراً [31، 32].",
+        "choices": [
+            { "choice_text": "يأتي لازماً دائماً", "is_correct": false },
+            { "choice_text": "يأتي للتعدية غالباً", "is_correct": true },
+            { "choice_text": "يأتي للمشاركة دائماً", "is_correct": false },
+            { "choice_text": "لا يأتي إلا للمطاوعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يفيد الفعل 'استحجر' في جملة 'استحجر الطين'؟",
+        "difficulty_score": 400,
+        "explanation": "يفيد الصيرورة أو التحول، أي صار الطين حجراً، وهو من الأمثلة التي يأتي فيها 'استفعل' لازماً [4].",
+        "choices": [
+            { "choice_text": "طلب الفعل", "is_correct": false },
+            { "choice_text": "المبالغة", "is_correct": false },
+            { "choice_text": "الصيرورة (التحول)", "is_correct": true },
+            { "choice_text": "المشاركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في كلمة 'استغفر'، ما المعنى الذي أضافته الزيادة؟",
+        "difficulty_score": 500,
+        "explanation": "تفيد الزيادة في 'استغفر' طلب الفعل، أي طلب المغفرة من الله تعالى [33، 34].",
+        "choices": [
+            { "choice_text": "التكلف", "is_correct": false },
+            { "choice_text": "الطلب", "is_correct": true },
+            { "choice_text": "المطاوعة", "is_correct": false },
+            { "choice_text": "المبالغة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي حروف الزيادة في باب 'افعوعل' (مثل اعشوشب)؟",
+        "difficulty_score": 600,
+        "explanation": "الزيادة هي الهمزة في أوله، وحرف من جنس العين، وواو بين العين واللام [34، 35].",
+        "choices": [
+            { "choice_text": "الهمزة والسين والواو", "is_correct": false },
+            { "choice_text": "الهمزة والتاء والألف", "is_correct": false },
+            { "choice_text": "الهمزة وحرف من جنس العين وواو", "is_correct": true },
+            { "choice_text": "الهمزة وواوان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تحولت الواو إلى ياء في مصدر 'اعشوشب' (اعشيشاباً)؟",
+        "difficulty_score": 700,
+        "explanation": "قلبت الواو ياءً لوقوعها بعد كسرة (كسر الشين الأولى في المصدر) [9].",
+        "choices": [
+            { "choice_text": "بسبب الإدغام", "is_correct": false },
+            { "choice_text": "لوقوعها بعد كسرة", "is_correct": true },
+            { "choice_text": "لأنها حرف أصلي", "is_correct": false },
+            { "choice_text": "للتخفيف فقط دون قاعدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وزن الفعل 'اجلوَّذ'؟",
+        "difficulty_score": 800,
+        "explanation": "وزنه 'افعولَّ'، حيث زيدت الهمزة وواوان بين العين واللام وأدغمتا [40، 41].",
+        "choices": [
+            { "choice_text": "افعوعل", "is_correct": false },
+            { "choice_text": "افعالَّ", "is_correct": false },
+            { "choice_text": "افعولَّ", "is_correct": true },
+            { "choice_text": "استفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي صيغة تدل على مبالغة أكثر في اللون؟",
+        "difficulty_score": 900,
+        "explanation": "صيغة 'احمارَّ' (افعالَّ) أبلغ في المعنى من 'احمرَّ' (افعلَّ) نظراً لزيادة المبنى (الألف الإضافية) [43، 45].",
+        "choices": [
+            { "choice_text": "حمر (المجرد)", "is_correct": false },
+            { "choice_text": "احمرَّ (خماسي)", "is_correct": false },
+            { "choice_text": "احمارَّ (سداسي)", "is_correct": true },
+            { "choice_text": "جميعها متساوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى الفعل 'اجلوَّذ' في وصف سير الإبل؟",
+        "difficulty_score": 450,
+        "explanation": "يعني استمرار السير بسرعة مبالغ فيها، وهو مثال لمبالغة الفعل اللازم في باب 'افعولَّ' [14].",
+        "choices": [
+            { "choice_text": "توقف عن السير", "is_correct": false },
+            { "choice_text": "سار سيراً بطيئاً", "is_correct": false },
+            { "choice_text": "استمر في السير بسرعة", "is_correct": true },
+            { "choice_text": "سار مع قطيع آخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف الأصلية للفعل 'اعشوشب'؟",
+        "difficulty_score": 350,
+        "explanation": "الحروف الأصلية هي (ع، ش، ب) على وزن (ف، ع، ل)، وما عداها زائد [35، 36].",
+        "choices": [
+            { "choice_text": "ع، ش، ب", "is_correct": true },
+            { "choice_text": "ع، ش، و", "is_correct": false },
+            { "choice_text": "ش، و، ب", "is_correct": false },
+            { "choice_text": "ا، ع، ش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناء باب 'افعالَّ' (مثل احمارَّ) يختص بـ:",
+        "difficulty_score": 550,
+        "explanation": "يختص بالألوان والعيوب لمبالغة الفعل اللازم [19، 44].",
+        "choices": [
+            { "choice_text": "الأفعال المتعدية فقط", "is_correct": false },
+            { "choice_text": "الألوان والعيوب", "is_correct": true },
+            { "choice_text": "طلب الفعل", "is_correct": false },
+            { "choice_text": "المشاركة بين اثنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو عدد الأبواب الإجمالي في النوع الثالث (ما زيد فيه ثلاثة أحرف)؟",
+        "difficulty_score": 100,
+        "explanation": "النوع الثالث يضم أربعة أبواب هي: استفعل، افعوعل، افعولّ، وافعالّ [1].",
+        "choices": [
+            { "choice_text": "ثلاثة أبواب", "is_correct": false },
+            { "choice_text": "أربعة أبواب", "is_correct": true },
+            { "choice_text": "خمسة أبواب", "is_correct": false },
+            { "choice_text": "ستة أبواب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوزن الصرفي للفعل 'استخرج'؟",
+        "difficulty_score": 100,
+        "explanation": "وزن 'استخرج' هو 'استفعل' بزيادة الهمزة والسين والتاء في أوله [2].",
+        "choices": [
+            { "choice_text": "انفعل", "is_correct": false },
+            { "choice_text": "استفعل", "is_correct": true },
+            { "choice_text": "افعوعل", "is_correct": false },
+            { "choice_text": "افتعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من المعاني التالية يفيدها باب 'استفعل' في قولنا 'استحجر الطين'؟",
+        "difficulty_score": 400,
+        "explanation": "يفيد باب 'استفعل' هنا الصيرورة، أي صار الطين حجراً [3].",
+        "choices": [
+            { "choice_text": "الطلب", "is_correct": false },
+            { "choice_text": "الصيرورة (التحول)", "is_correct": true },
+            { "choice_text": "المشاركة", "is_correct": false },
+            { "choice_text": "المطاوعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف المزيدة في باب 'افعوعل' (مثل اعشوشب)؟",
+        "difficulty_score": 600,
+        "explanation": "الحروف المزيدة هي الهمزة في أوله، وحرف من جنس العين، وواو بين العين واللام [34، 35].",
+        "choices": [
+            { "choice_text": "الهمزة والسين والتاء", "is_correct": false },
+            { "choice_text": "الهمزة وحرف من جنس العين والواو", "is_correct": true },
+            { "choice_text": "الهمزة والواو والتاء", "is_correct": false },
+            { "choice_text": "الهمزة والياء والنون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا قلبت الواو ياءً في مصدر 'اعشوشب' ليصبح 'اعشيشاباً'؟",
+        "difficulty_score": 700,
+        "explanation": "قلبت الواو ياءً لوقوعها بعد كسرة الحرف الذي يسبقها في صيغة المصدر [4].",
+        "choices": [
+            { "choice_text": "لأنها حرف علة مطلقاً", "is_correct": false },
+            { "choice_text": "بسبب وقوعها بعد كسرة", "is_correct": true },
+            { "choice_text": "لالتقاء الساكنين", "is_correct": false },
+            { "choice_text": "للتخفيف الصوتي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو معنى الفعل 'اجلوَّذ' في سياق سير الإبل؟",
+        "difficulty_score": 800,
+        "explanation": "يفيد المبالغة في سرعة السير واستمراره [40، 42].",
+        "choices": [
+            { "choice_text": "السير ببطء شديد", "is_correct": false },
+            { "choice_text": "الاستمرار في السير بسرعة", "is_correct": true },
+            { "choice_text": "التوقف المفاجئ عن السير", "is_correct": false },
+            { "choice_text": "السير في جماعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأبواب التالية هو الأبلغ في الدلالة على شدة اللون؟",
+        "difficulty_score": 900,
+        "explanation": "باب 'افعالَّ' (مثل احمارَّ) أبلغ من 'افعلَّ' (مثل احمرَّ) لزيادة حروف المبنى فيه [43، 45].",
+        "choices": [
+            { "choice_text": "افعلَّ", "is_correct": false },
+            { "choice_text": "افعالَّ", "is_correct": true },
+            { "choice_text": "فعل (المجرد)", "is_correct": false },
+            { "choice_text": "استفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي علامة بناء باب 'افعولَّ'؟",
+        "difficulty_score": 500,
+        "explanation": "علامته أن يكون ماضيه على ستة أحرف بزيادة الهمزة في أوله وواوين مدغمتين بين العين واللام [5].",
+        "choices": [
+            { "choice_text": "زيادة الهمزة والسين والتاء", "is_correct": false },
+            { "choice_text": "زيادة الهمزة وواوين بين العين واللام", "is_correct": true },
+            { "choice_text": "زيادة التاء والألف", "is_correct": false },
+            { "choice_text": "تكرار العين واللام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا يختص باب 'افعالَّ' من حيث المعنى؟",
+        "difficulty_score": 300,
+        "explanation": "يختص بمبالغة الفعل اللازم في الألوان والعيوب [6].",
+        "choices": [
+            { "choice_text": "المشاركة بين اثنين", "is_correct": false },
+            { "choice_text": "الطلب والصيرورة", "is_correct": false },
+            { "choice_text": "الألوان والعيوب", "is_correct": true },
+            { "choice_text": "التعدية للمفعول به", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف الأصلية للفعل 'اعشوشب'؟",
+        "difficulty_score": 200,
+        "explanation": "أصله من 'عشب' (العين والشين والباء) [35، 36].",
+        "choices": [
+            { "choice_text": "ع، ش، ب", "is_correct": true },
+            { "choice_text": "ع، ش، و", "is_correct": false },
+            { "choice_text": "ش، و، ب", "is_correct": false },
+            { "choice_text": "ع، و، ب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'زيادة المبنى تدل على زيادة المعنى' عند المقارنة بين 'احمرَّ' و 'احمارَّ'؟",
+        "difficulty_score": 850,
+        "explanation": "بما أن 'احمارَّ' سداسي و 'احمرَّ' خماسي، فإن زيادة الألف في 'احمارَّ' تعطي قوة مبالغة أكبر في المعنى [7].",
+        "choices": [
+            { "choice_text": "أن الفعلين متساويان في المعنى", "is_correct": false },
+            { "choice_text": "أن الفعل السداسي أبلغ في المعنى من الخماسي", "is_correct": true },
+            { "choice_text": "أن الفعل الخماسي أبلغ من السداسي", "is_correct": false },
+            { "choice_text": "أن الزيادة لا علاقة لها بالمعنى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المعنى المستفاد من 'استغفر الله'؟",
+        "difficulty_score": 150,
+        "explanation": "تفيد صيغة 'استفعل' هنا طلب الفعل، أي طلب المغفرة [33، 34].",
+        "choices": [
+            { "choice_text": "المبالغة", "is_correct": false },
+            { "choice_text": "الطلب", "is_correct": true },
+            { "choice_text": "التحول", "is_correct": false },
+            { "choice_text": "الموافقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية يتبع باب 'افعولَّ'؟",
+        "difficulty_score": 450,
+        "explanation": "'اجلوَّذ' هو المثال المذكور لهذا الباب في متن البناء [8].",
+        "choices": [
+            { "choice_text": "اعشوشب", "is_correct": false },
+            { "choice_text": "اجلوَّذ", "is_correct": true },
+            { "choice_text": "احمارَّ", "is_correct": false },
+            { "choice_text": "استخرج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وزن المصدر للفعل 'احمارَّ'؟",
+        "difficulty_score": 350,
+        "explanation": "مصدر 'احمارَّ' هو 'احميراراً' على وزن 'افعِيالاً' [9].",
+        "choices": [
+            { "choice_text": "احمرار", "is_correct": false },
+            { "choice_text": "احميرار", "is_correct": true },
+            { "choice_text": "مُحمار", "is_correct": false },
+            { "choice_text": "تحامر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تفيد السين في باب 'استفعل' غالباً؟",
+        "difficulty_score": 550,
+        "explanation": "تدل السين مع الهمزة والتاء غالباً على معنى الطلب (طلب وقوع الفعل) [10].",
+        "choices": [
+            { "choice_text": "التكلف", "is_correct": false },
+            { "choice_text": "المطاوعة", "is_correct": false },
+            { "choice_text": "الطلب", "is_correct": true },
+            { "choice_text": "المشاركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم مجموع أبواب الثلاثي المزيد (الأنواع الثلاثة)؟",
+        "difficulty_score": 650,
+        "explanation": "المجموع هو 12 باباً: 3 في النوع الأول، 5 في النوع الثاني، و4 في النوع الثالث [11].",
+        "choices": [
+            { "choice_text": "10 أبواب", "is_correct": false },
+            { "choice_text": "12 باباً", "is_correct": true },
+            { "choice_text": "14 باباً", "is_correct": false },
+            { "choice_text": "15 باباً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق بين 'اعشوشب' و 'عشب' من حيث المعنى؟",
+        "difficulty_score": 750,
+        "explanation": "اعشوشب تفيد كثرة ظهور العشب ومبالغته مقارنة بالفعل المجرد 'عشب' [37، 39].",
+        "choices": [
+            { "choice_text": "لا فرق بينهما", "is_correct": false },
+            { "choice_text": "'اعشوشب' تفيد المبالغة والكثافة", "is_correct": true },
+            { "choice_text": "'عشب' أبلغ في المعنى", "is_correct": false },
+            { "choice_text": "'اعشوشب' تفيد طلب العشب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي باب زيد فيه حرف من جنس العين وواو بين العين واللام؟",
+        "difficulty_score": 800,
+        "explanation": "هذا هو وصف باب 'افعوعل' (مثل اعشوشب) [12].",
+        "choices": [
+            { "choice_text": "استفعل", "is_correct": false },
+            { "choice_text": "افعولَّ", "is_correct": false },
+            { "choice_text": "افعوعل", "is_correct": true },
+            { "choice_text": "افعالَّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف المزيدة في 'احمارَّ'؟",
+        "difficulty_score": 400,
+        "explanation": "الحروف المزيدة هي الهمزة في أوله، والألف بين العين واللام، وحرف من جنس اللام في آخره [43، 44].",
+        "choices": [
+            { "choice_text": "الهمزة والسين والتاء", "is_correct": false },
+            { "choice_text": "الهمزة والألف وتكرار اللام", "is_correct": true },
+            { "choice_text": "التاء والألف وتكرار العين", "is_correct": false },
+            { "choice_text": "الهمزة والنون وتكرار اللام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في جملة 'استنوق الجمل'، ماذا تفيد صيغة استفعل؟",
+        "difficulty_score": 600,
+        "explanation": "تفيد الصيرورة، أي صار الجمل في طباعه كالناقة [3].",
+        "choices": [
+            { "choice_text": "الطلب", "is_correct": false },
+            { "choice_text": "المبالغة", "is_correct": false },
+            { "choice_text": "الصيرورة", "is_correct": true },
+            { "choice_text": "المشاركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف الأصلية للفعل 'تكلم'؟",
+        "difficulty_score": 100,
+        "explanation": "الأصل الثلاثي هو (ك، ل، م) على وزن (ف، ع، ل)، والزيادة بالتاء وتضعيف اللام [20، 22].",
+        "choices": [
+            { "choice_text": "ت، ك، ل", "is_correct": false },
+            { "choice_text": "ك، ل، م", "is_correct": true },
+            { "choice_text": "ت، ل، م", "is_correct": false },
+            { "choice_text": "ك، ل، م، ا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في باب 'تفاعل'، هل يمكن أن يقع الفعل من شخص واحد؟",
+        "difficulty_score": 300,
+        "explanation": "لا، لأن بناء 'تفاعل' موضوع للمشاركة بين اثنين فصاعداً، مثل 'تصارع' [27، 28].",
+        "choices": [
+            { "choice_text": "نعم، إذا كان للمبالغة", "is_correct": false },
+            { "choice_text": "نعم، في حالات نادرة", "is_correct": false },
+            { "choice_text": "لا، يشترط وجود اثنين فصاعداً", "is_correct": true },
+            { "choice_text": "نعم، لأنه فعل لازم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق المعنوي بين 'عشب' و 'اعشوشب'؟",
+        "difficulty_score": 500,
+        "explanation": "الفعل 'عشب' يخبر بظهور العشب، بينما 'اعشوشب' تفيد كثرته ومبالغته في المكان [37، 39].",
+        "choices": [
+            { "choice_text": "لا فرق في المعنى", "is_correct": false },
+            { "choice_text": "'اعشوشب' تفيد المبالغة والكثافة", "is_correct": true },
+            { "choice_text": "'عشب' أبلغ من 'اعشوشب'", "is_correct": false },
+            { "choice_text": "'اعشوشب' تفيد طلب العشب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحروف الأصلية للفعل 'اجلوَّذ'؟",
+        "difficulty_score": 400,
+        "explanation": "أصل الفعل هو (ج، ل، ذ) على وزن (ف، ع، ل) [1].",
+        "choices": [
+            { "choice_text": "ج، ل، و", "is_correct": false },
+            { "choice_text": "ج، ل، ذ", "is_correct": true },
+            { "choice_text": "ل، و، ذ", "is_correct": false },
+            { "choice_text": "ج، و، ذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي فعل يعبر عن تحول الجمل في طباعه إلى ناقة؟",
+        "difficulty_score": 600,
+        "explanation": "يستخدم الفعل 'استنوق' في باب 'استفعل' للدلالة على الصيرورة والتحول [2].",
+        "choices": [
+            { "choice_text": "تنوّق", "is_correct": false },
+            { "choice_text": "استنوق", "is_correct": true },
+            { "choice_text": "انتاق", "is_correct": false },
+            { "choice_text": "تاوق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل التخرج يحصل 'ليلة وضحاها' بناءً على شرح باب 'تفعّل'؟",
+        "difficulty_score": 200,
+        "explanation": "لا، لأن التخرج من باب 'تفعّل' الذي يفيد التكلف، وهو تحصيل الشيء شيئاً بعد شيء بمشقة [3].",
+        "choices": [
+            { "choice_text": "نعم، لبساطة الفعل", "is_correct": false },
+            { "choice_text": "لا، لأنه يتطلب تدرجاً وتكلفاً", "is_correct": true },
+            { "choice_text": "نعم، إذا كان الطالب ذكياً", "is_correct": false },
+            { "choice_text": "لا، لأنه فعل مشاركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وزن المصدر للفعل 'اصفرَّ'؟",
+        "difficulty_score": 350,
+        "explanation": "مصدر 'اصفرَّ' هو 'اصفراراً' على وزن 'افعلالاً' [4].",
+        "choices": [
+            { "choice_text": "تصفير", "is_correct": false },
+            { "choice_text": "اصفرار", "is_correct": true },
+            { "choice_text": "اصفيرار", "is_correct": false },
+            { "choice_text": "مصفرّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد أحرف الفعل الماضي في النوع الثالث من المزيد؟",
+        "difficulty_score": 100,
+        "explanation": "النوع الثالث هو ما زيد فيه ثلاثة أحرف على الثلاثي، فيكون المجموع ستة أحرف [5].",
+        "choices": [
+            { "choice_text": "أربعة أحرف", "is_correct": false },
+            { "choice_text": "خمسة أحرف", "is_correct": false },
+            { "choice_text": "ستة أحرف", "is_correct": true },
+            { "choice_text": "سبعة أحرف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما وظيفة 'الفاء' في 'فتحت الباب فانفتح'؟",
+        "difficulty_score": 450,
+        "explanation": "تفيد الترتيب والتعقيب والسببية، لربط الفعل بنتيجته (المطاوعة) [8، 13].",
+        "choices": [
+            { "choice_text": "الاستئناف", "is_correct": false },
+            { "choice_text": "الترتيب والتعقيب", "is_correct": true },
+            { "choice_text": "الشك", "is_correct": false },
+            { "choice_text": "الغاية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يفيد باب 'تفعّل' في مثال 'تعلمتُ العلم'؟",
+        "difficulty_score": 550,
+        "explanation": "يفيد التكلف، وهو تحصيل العلم مسألة بعد مسألة بمشقة وممارسة [22، 24].",
+        "choices": [
+            { "choice_text": "المشاركة", "is_correct": false },
+            { "choice_text": "التكلف", "is_correct": true },
+            { "choice_text": "الطلب", "is_correct": false },
+            { "choice_text": "الصيرورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأفعال التالية لا يمكن أن يقوم به شخص بمفرده؟",
+        "difficulty_score": 700,
+        "explanation": "الفعل 'تباعد' من باب 'تفاعل' يقتضي المشاركة بين اثنين على الأقل [6].",
+        "choices": [
+            { "choice_text": "استخرج", "is_correct": false },
+            { "choice_text": "تباعد", "is_correct": true },
+            { "choice_text": "تعلم", "is_correct": false },
+            { "choice_text": "احمرَّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في باب 'افعولَّ' (اجلوَّذ)، هل الواوان زائدتان؟",
+        "difficulty_score": 800,
+        "explanation": "نعم، الزيادة هي الهمزة في الأول وواوان مدغمتان بين العين واللام [1].",
+        "choices": [
+            { "choice_text": "واحدة أصلية وواحدة زائدة", "is_correct": false },
+            { "choice_text": "كلاهما زائدتان", "is_correct": true },
+            { "choice_text": "كلاهما أصليتان", "is_correct": false },
+            { "choice_text": "الواو حرف علة وليست زيادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما وزن المصدر للفعل 'انطلق'؟",
+        "difficulty_score": 200,
+        "explanation": "وزنه 'انفعالاً' (انطلاقاً) لأنه من باب 'انفعل' [7].",
+        "choices": [
+            { "choice_text": "تفعيل", "is_correct": false },
+            { "choice_text": "انفعال", "is_correct": true },
+            { "choice_text": "افتعال", "is_correct": false },
+            { "choice_text": "مُفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يستخدم باب 'اعورَّ' (افعلَّ)؟",
+        "difficulty_score": 400,
+        "explanation": "يستخدم لمبالغة الفعل اللازم في العيوب والألوان [17، 19].",
+        "choices": [
+            { "choice_text": "للتعدية", "is_correct": false },
+            { "choice_text": "للعيوب والألوان", "is_correct": true },
+            { "choice_text": "للطلب", "is_correct": false },
+            { "choice_text": "للمشاركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما معنى 'تعلُّم العلم'؟",
+        "difficulty_score": 300,
+        "explanation": "تحصيله تدريجياً، أي مسألة بعد مسألة [3].",
+        "choices": [
+            { "choice_text": "حفظه بسرعة", "is_correct": false },
+            { "choice_text": "تحصيله تدريجياً مسألة بعد مسألة", "is_correct": true },
+            { "choice_text": "نسيانه سريعاً", "is_correct": false },
+            { "choice_text": "تعليمه للآخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في جملة 'استخرج زيدٌ المال'، هل الفعل لازم أم متعدي؟",
+        "difficulty_score": 250,
+        "explanation": "هو فعل متعدي لأن أثر الفعل (الاستخراج) وقع على مفعول به وهو المال [31، 32].",
+        "choices": [
+            { "choice_text": "لازم", "is_correct": false },
+            { "choice_text": "متعدي", "is_correct": true },
+            { "choice_text": "مطاوع", "is_correct": false },
+            { "choice_text": "رباعي مجرد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الفعل 'انفتح' هو مطاوع لأي فعل؟",
+        "difficulty_score": 350,
+        "explanation": "هو مطاوع للفعل المتعدي 'فتحتُ'، فنقول 'فتحت الباب فانفتح' [9، 14].",
+        "choices": [
+            { "choice_text": "استفتح", "is_correct": false },
+            { "choice_text": "فتحتُ", "is_correct": true },
+            { "choice_text": "تفتح", "is_correct": false },
+            { "choice_text": "فاتح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد أبواب النوع الثاني من الثلاثي المزيد؟",
+        "difficulty_score": 150,
+        "explanation": "النوع الثاني (ما زيد فيه حرفان) يضم خمسة أبواب [1، 25].",
+        "choices": [
+            { "choice_text": "3 أبواب", "is_correct": false },
+            { "choice_text": "4 أبواب", "is_correct": false },
+            { "choice_text": "5 أبواب", "is_correct": true },
+            { "choice_text": "6 أبواب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وزن الفعل 'اختار'؟",
+        "difficulty_score": 600,
+        "explanation": "وزنه 'افتعل'، وأصله 'اختير' ثم قلبت الياء ألفاً [8].",
+        "choices": [
+            { "choice_text": "افعلَّ", "is_correct": false },
+            { "choice_text": "تفاعل", "is_correct": false },
+            { "choice_text": "افتعل", "is_correct": true },
+            { "choice_text": "استفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في الفعل 'اجتمع'، أين زيدت التاء؟",
+        "difficulty_score": 500,
+        "explanation": "زيدت التاء بعد فاء الفعل (الجيم) وقبل عينه (الميم) في وزن 'افتعل' [10، 11].",
+        "choices": [
+            { "choice_text": "في أوله", "is_correct": false },
+            { "choice_text": "بعد الفاء", "is_correct": true },
+            { "choice_text": "بعد العين", "is_correct": false },
+            { "choice_text": "في آخره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين 'الزائد' و 'الأصل' في 'انكسر'؟",
+        "difficulty_score": 300,
+        "explanation": "الأصل (ك، س، ر) والزوائد هي الهمزة والنون في الأول [3، 4].",
+        "choices": [
+            { "choice_text": "الهمزة والكاف زائدتان", "is_correct": false },
+            { "choice_text": "الهمزة والنون زائدتان", "is_correct": true },
+            { "choice_text": "النون والسين زائدتان", "is_correct": false },
+            { "choice_text": "الراء زائدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم حرف راء موجود في نطق وكتابة 'احمرَّ'؟",
+        "difficulty_score": 200,
+        "explanation": "موجود راءان مدغمتان؛ واحدة أصلية (اللام) والثانية زائدة من جنسها [15، 16].",
+        "choices": [
+            { "choice_text": "راء واحدة", "is_correct": false },
+            { "choice_text": "راءان", "is_correct": true },
+            { "choice_text": "ثلاث راءات", "is_correct": false },
+            { "choice_text": "أربع راءات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'استعاذ' في قوله 'استعاذ بالله'؟",
+        "difficulty_score": 450,
+        "explanation": "تفيد الطلب، أي طلب العوذ والحماية من الله [33، 34].",
+        "choices": [
+            { "choice_text": "المبالغة", "is_correct": false },
+            { "choice_text": "الطلب", "is_correct": true },
+            { "choice_text": "الصيرورة", "is_correct": false },
+            { "choice_text": "المشاركة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل كلمة 'اجلوَّذ' شائعة الاستعمال أم غريبة؟",
+        "difficulty_score": 850,
+        "explanation": "تعتبر من الكلمات الغريبة النادرة في الاستعمال المعاصر [9].",
+        "choices": [
+            { "choice_text": "شائعة جداً", "is_correct": false },
+            { "choice_text": "غريبة ونادرة", "is_correct": true },
+            { "choice_text": "تستخدم في العلوم فقط", "is_correct": false },
+            { "choice_text": "تستخدم للألوان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مصدر الفعل 'احمارَّ'؟",
+        "difficulty_score": 650,
+        "explanation": "مصدره 'احميراراً' على وزن 'افعِيالاً' [43، 44].",
+        "choices": [
+            { "choice_text": "احمرار", "is_correct": false },
+            { "choice_text": "احميرار", "is_correct": true },
+            { "choice_text": "تحامر", "is_correct": false },
+            { "choice_text": "محمارّ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'تصارع القوم'؟",
+        "difficulty_score": 200,
+        "explanation": "وقوع الصراع بينهم جميعاً كمشاركة [27، 28].",
+        "choices": [
+            { "choice_text": "أحدهم صارع نفسه", "is_correct": false },
+            { "choice_text": "وقع الصراع كمشاركة بينهم", "is_correct": true },
+            { "choice_text": "طلبوا الصراع", "is_correct": false },
+            { "choice_text": "صاروا صرعى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وزن 'استفسار'؟",
+        "difficulty_score": 100,
+        "explanation": "وزنه 'استفعال' لأنه مصدر للفعل 'استفسر' [10].",
+        "choices": [
+            { "choice_text": "انفعال", "is_correct": false },
+            { "choice_text": "استفعال", "is_correct": true },
+            { "choice_text": "تفاعل", "is_correct": false },
+            { "choice_text": "افتعال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "جملة 'قطعت الحبل فانقطع'، ما نوع الفعل 'انقطع'؟",
+        "difficulty_score": 300,
+        "explanation": "هو فعل لازم مطاوع للفعل المتعدي 'قطع' [11].",
+        "choices": [
+            { "choice_text": "متعدي", "is_correct": false },
+            { "choice_text": "لازم مطاوع", "is_correct": true },
+            { "choice_text": "رباعي", "is_correct": false },
+            { "choice_text": "طلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وزن الفعل 'تعامل'؟",
+        "difficulty_score": 200,
+        "explanation": "وزنه 'تفاعل' بزيادة التاء والألف [12].",
+        "choices": [
+            { "choice_text": "تفعّل", "is_correct": false },
+            { "choice_text": "تفاعل", "is_correct": true },
+            { "choice_text": "افتعل", "is_correct": false },
+            { "choice_text": "انفعل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وزن المصدر للفعل 'اشتقَّ'؟",
+        "difficulty_score": 500,
+        "explanation": "وزنه 'افتعال' (اشتقاقاً) لأن أصله من باب 'افتعل' [8].",
+        "choices": [
+            { "choice_text": "تفعيل", "is_correct": false },
+            { "choice_text": "انفعال", "is_correct": false },
+            { "choice_text": "افتعال", "is_correct": true },
+            { "choice_text": "استفعال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الهمزة في أول 'انكسر' هي همزة:",
+        "difficulty_score": 100,
+        "explanation": "هي همزة وصل تسقط في درج الكلام [13].",
+        "choices": [
+            { "choice_text": "قطع", "is_correct": false },
+            { "choice_text": "وصل", "is_correct": true },
+            { "choice_text": "استفهام", "is_correct": false },
+            { "choice_text": "أصلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي زيادة تدل على المشاركة في باب 'تفاعل'؟",
+        "difficulty_score": 400,
+        "explanation": "التاء في أوله والألف بين الفاء والعين [25، 26].",
+        "choices": [
+            { "choice_text": "الهمزة والنون", "is_correct": false },
+            { "choice_text": "التاء والألف", "is_correct": true },
+            { "choice_text": "السين والتاء", "is_correct": false },
+            { "choice_text": "الواو والتاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في باب 'افعوعل'، أين توضع الهمزة المزيدة؟",
+        "difficulty_score": 150,
+        "explanation": "توضع في أول الفعل كهمزة وصل [34، 36].",
+        "choices": [
+            { "choice_text": "في آخره", "is_correct": false },
+            { "choice_text": "بعد العين", "is_correct": false },
+            { "choice_text": "في أوله", "is_correct": true },
+            { "choice_text": "بين العين واللام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل باب 'استفعل' يفيد التحول من حال إلى حال؟",
+        "difficulty_score": 400,
+        "explanation": "نعم، يفيد الصيرورة (التحول) مثل 'استحجر الطين' [32، 33].",
+        "choices": [
+            { "choice_text": "لا، للطلب فقط", "is_correct": false },
+            { "choice_text": "نعم، يفيد الصيرورة", "is_correct": true },
+            { "choice_text": "لا، للمشاركة فقط", "is_correct": false },
+            { "choice_text": "نعم، للمطاوعة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين يقع التضعيف في باب 'تفعّل'؟",
+        "difficulty_score": 200,
+        "explanation": "يقع على عين الفعل، فنقول 'تفعَّل' [21، 22].",
+        "choices": [
+            { "choice_text": "على الفاء", "is_correct": false },
+            { "choice_text": "على العين", "is_correct": true },
+            { "choice_text": "على اللام", "is_correct": false },
+            { "choice_text": "على التاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التصنيف العام لأبواب (استفعل، افعوعل، افعولَّ، افعالَّ)؟",
+        "difficulty_score": 100,
+        "explanation": "هي أبواب النوع الثالث من الثلاثي المزيد (ما زيد فيه ثلاثة أحرف) [5].",
+        "choices": [
+            { "choice_text": "ثلاثي مجرد", "is_correct": false },
+            { "choice_text": "مزيد بحرفين", "is_correct": false },
+            { "choice_text": "مزيد بثلاثة أحرف", "is_correct": true },
+            { "choice_text": "رباعي مجرد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم مجموع أنواع الثلاثي المزيد المذكورة في المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "ثلاثة أنواع: مزيد بحرف، مزيد بحرفين، ومزيد بثلاثة أحرف [1، 25، 29].",
+        "choices": [
+            { "choice_text": "نوع واحد", "is_correct": false },
+            { "choice_text": "نوعان", "is_correct": false },
+            { "choice_text": "ثلاثة أنواع", "is_correct": true },
+            { "choice_text": "أربعة أنواع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفائدة الكبرى من علم الصرف كما ذكر الشارح؟",
+        "difficulty_score": 500,
+        "explanation": "تبيين مادة الكلمة وأصلها وحروف الزيادة فيها [14].",
+        "choices": [
+            { "choice_text": "الإعراب فقط", "is_correct": false },
+            { "choice_text": "تبيين أصل مادة الكلمة", "is_correct": true },
+            { "choice_text": "معرفة معاني الأدوات", "is_correct": false },
+            { "choice_text": "ضبط أواخر الكلمات", "is_correct": false }
+        ]
+    },
+ { 
+    "question_text": "ما هو أصل الفعل 'اخشوشن' الوارد في المصادر الصرفية كقولهم 'اخشوشنوا فإن النعمة لا تدوم'؟", 
+    "difficulty_score": 750, 
+    "explanation": "الفعل 'اخشوشن' هو فعل سداسي من باب 'افعوعل' (النوع الثالث المزيد بثلاثة أحرف)، وأصله الثلاثي المجرد هو 'خشن' المكون من الحروف (خ، ش، ن)", 
+"choices": [ { "choice_text": "خشن", "is_correct": true }, 
+{ "choice_text": "خشوشب", "is_correct": false }, 
+{ "choice_text": "أخشن", "is_correct": false }, 
+{ "choice_text": "خشّن", "is_correct": false } ] 
+} 
+]
+    }

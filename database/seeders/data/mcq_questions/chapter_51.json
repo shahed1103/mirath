@@ -1,0 +1,886 @@
+    {
+    "chapter_id": 51,
+    "questions": [
+        {
+        "question_text": "كم سنة لبث النبي صلى الله عليه وسلم في مكة يدعو الناس ويصبر على أذاهم قبل الانتقال للمدينة؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن النبي صلى الله عليه وسلم صبر عليهم في مكة عشر سنوات يتردد على القبائل ويدعوهم.",
+        "choices": [
+            { "choice_text": "خمس سنوات", "is_correct": false },
+            { "choice_text": "عشر سنوات", "is_correct": true },
+            { "choice_text": "ثلاث سنوات", "is_correct": false },
+            { "choice_text": "ثلاث عشرة سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد الذي تلقاه النبي صلى الله عليه وسلم من عتبة بن ربيعة عندما قرأ عليه سورة فصلت؟",
+        "answer_text": "ناشده الله والرحم أن يتوقف",
+        "difficulty_score": 200,
+        "explanation": "عندما بلغ النبي قوله تعالى (فإن أعرضوا فقل أنذرتكم صاعقة مثل صاعقة عاد وثمود)، خاف عتبة وناشده الله والرحم أن يصمت.",
+        "choices": [
+            { "choice_text": "أعلن إسلامه مباشرة", "is_correct": false },
+            { "choice_text": "ناشده الله والرحم أن يتوقف", "is_correct": true },
+            { "choice_text": "قام بضربه", "is_correct": false },
+            { "choice_text": "استهزأ بالآيات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأسواق التالية لم يُذكر في المصدر كأحد أسواق العرب الكبرى التي قصدها النبي للدعوة؟",
+        "difficulty_score": 100,
+        "explanation": "الأسواق المذكورة هي عكاظ، مجنة، وذو المجاز.",
+        "choices": [
+            { "choice_text": "عكاظ", "is_correct": false },
+            { "choice_text": "مجنة", "is_correct": false },
+            { "choice_text": "ذو المجاز", "is_correct": false },
+            { "choice_text": "بدر", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما المعنى الأعمق لجملة 'يعرض نفسه' التي وردت في وصف فعل النبي بالموسم؟",
+        "difficulty_score": 300,
+        "explanation": "الكلمة تعني أنه يقدم نفسه وما يختلج في صدره طلباً للإيواء والنصرة لتبليغ الرسالة.",
+        "choices": [
+            { "choice_text": "يعرض بضاعته للتجارة", "is_correct": false },
+            { "choice_text": "يظهر شجاعته في المبارزة", "is_correct": false },
+            { "choice_text": "يقدم نفسه للإيواء والنصرة لتبليغ كلام الله", "is_correct": true },
+            { "choice_text": "يعرف الناس بنسبه الشريف فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بجوار من دخل النبي صلى الله عليه وسلم مكة بعد عودته من الطائف؟",
+        "difficulty_score": 200,
+        "explanation": "دخل النبي صلى الله عليه وسلم مكة بإجارة المطعم بن عدي.",
+        "choices": [
+            { "choice_text": "أبي جهل", "is_correct": false },
+            { "choice_text": "المطعم بن عدي", "is_correct": true },
+            { "choice_text": "أبي لهب", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يقول النبي صلى الله عليه وسلم في سوق ذي المجاز كما رواه ربيعة بن عباد؟",
+        "difficulty_score": 200,
+        "explanation": "كان يقول: 'يا أيها الناس، قولوا: لا إله إلا الله، تفلحوا'.",
+        "choices": [
+            { "choice_text": "يا أيها الناس أعينوني على قريش", "is_correct": false },
+            { "choice_text": "يا أيها الناس، قولوا: لا إله إلا الله، تفلحوا", "is_correct": true },
+            { "choice_text": "يا أيها الناس اتبعوني أكن ملكاً عليكم", "is_correct": false },
+            { "choice_text": "يا قوم اتركوا عبادة الأصنام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وصف المصدر الرجل الذي كان يتبع النبي في السوق ويكذبه بأنه 'أحول وضِيء الوجه'. من هو؟",
+        "difficulty_score": 200,
+        "explanation": "هذا الوصف أطلقه ربيعة بن عباد على أبي لهب عم النبي.",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أبو لهب", "is_correct": true },
+            { "choice_text": "أمية بن خلف", "is_correct": false },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي قبيلة من العرب كانت استجابتها 'أقبح رد' على النبي صلى الله عليه وسلم حسب ابن إسحاق؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر ابن إسحاق أن بني حنيفة لم يكن أحد من العرب أقبح رداً عليه منهم.",
+        "choices": [
+            { "choice_text": "بنو عامر", "is_correct": false },
+            { "choice_text": "بنو كلب", "is_correct": false },
+            { "choice_text": "بنو حنيفة", "is_correct": true },
+            { "choice_text": "بنو تميم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يخبر الله نبيه مسبقاً أن النصرة ستكون عند الأنصار؟",
+        "difficulty_score": 500,
+        "explanation": "حتى يبذل النبي الأسباب ويجتهد ويتخذ الوسائل المتاحة ليكون قدوة للمصلحين.",
+        "choices": [
+            { "choice_text": "لأن الله لم يكن يعلم ذلك حينها", "is_correct": false },
+            { "choice_text": "حتى يتخذ النبي الأسباب ويبذل الجهد البشري الممكن", "is_correct": true },
+            { "choice_text": "حتى يفاجئ النبي بالأنصار في الموسم", "is_correct": false },
+            { "choice_text": "لأن الأنصار لم يكونوا قد ولدوا بعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى أي قبيلة كبرى ينتمي الأوس والخزرج (الأنصار)؟",
+        "difficulty_score": 300,
+        "explanation": "الأنصار هم من قبيلة الأزد التي تفرقت من اليمن بعد سيل العرم.",
+        "choices": [
+            { "choice_text": "قريش", "is_correct": false },
+            { "choice_text": "تميم", "is_correct": false },
+            { "choice_text": "الأزد", "is_correct": true },
+            { "choice_text": "كنانة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان اليهود يقولون لمشركي يثرب قبل مجيء النبي؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يستفتحون عليهم ويقولون: 'أوشك زمن نبي يأتي فإذا جاء سنقاتلكم معه ونستنصر به عليكم'.",
+        "choices": [
+            { "choice_text": "أنتم شعب الله المختار", "is_correct": false },
+            { "choice_text": "سنقاتلكم مع النبي القادم ونستنصر به عليكم", "is_correct": true },
+            { "choice_text": "لا نبي بعد موسى", "is_correct": false },
+            { "choice_text": "اتركوا عبادة الأوثان واتبعوا ديننا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الأنصار في اللقاء الذي يُعرف ببيعة العقبة الثانية؟",
+        "difficulty_score": 300,
+        "explanation": "كان عددهم سبعين رجلاً (أو بضعة وسبعين) ومعهم امرأتان.",
+        "choices": [
+            { "choice_text": "ستة رجال", "is_correct": false },
+            { "choice_text": "اثنا عشر رجلاً", "is_correct": false },
+            { "choice_text": "سبعون رجلاً وامرأتان", "is_correct": true },
+            { "choice_text": "مئة رجل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يفتخر ببيعة العقبة ويقول 'ما أحب أن لي بها مشهد بدر'؟",
+        "difficulty_score": 400,
+        "explanation": "هو كعب بن مالك، وكان يعتز بها جداً لمكانتها التأسيسية.",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "كعب بن مالك", "is_correct": true },
+            { "choice_text": "أنس بن النضر", "is_correct": false },
+            { "choice_text": "عبد الله بن عمرو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي وقت من الليل تسلل الأنصار لميعاد النبي في العقبة؟",
+        "difficulty_score": 400,
+        "explanation": "تسللوا في ثلث الليل الآخر مستخفين من قومهم المشركين.",
+        "choices": [
+            { "choice_text": "بعد العشاء مباشرة", "is_correct": false },
+            { "choice_text": "عند الفجر", "is_correct": false },
+            { "choice_text": "بعد مضي ثلث الليل", "is_correct": true },
+            { "choice_text": "في وضح النهار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي 'سيد بني سلمة' الذي أسلم وشهد العقبة وكان الأنصار يكتمون إسلامه عن قومه المشركين؟",
+        "difficulty_score": 600,
+        "explanation": "هو عبد الله بن عمرو بن حرام (أبو جابر)، دعاه الأنصار للإسلام فأسلم وشهد العقبة.",
+        "choices": [
+            { "choice_text": "البراء بن معرور", "is_correct": false },
+            { "choice_text": "عبد الله بن عمرو بن حرام", "is_correct": true },
+            { "choice_text": "أسعد بن زرارة", "is_correct": false },
+            { "choice_text": "سعد بن الربيع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي حضر مع النبي صلى الله عليه وسلم في بيعة العقبة الثانية ليتوثق لابن أخيه وهو يومئذ على دين قومه؟",
+        "difficulty_score": 400,
+        "explanation": "هو العباس بن عبد المطلب، حضر ليتأكد من صدق الأنصار في حماية ابن أخيه.",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "العباس بن عبد المطلب", "is_correct": true },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو بند البيعة الذي اعترض عليه أبو الهيثم بن التيهان متسائلاً عن إمكانية ترك النبي لهم مستقبلاً؟",
+        "difficulty_score": 700,
+        "explanation": "تساءل عما إذا كان النبي سيعود لقومه ويترك الأنصار إذا أظهره الله.",
+        "choices": [
+            { "choice_text": "النفقة في العسر واليسر", "is_correct": false },
+            { "choice_text": "الأمر بالمعروف والنهي عن المنكر", "is_correct": false },
+            { "choice_text": "بقاء النبي معهم بعد النصر وعدم تركهم", "is_correct": true },
+            { "choice_text": "القتال مع النبي ضد العرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى جملة 'الدم الدم، والهدم الهدم' التي قالها النبي؟",
+        "difficulty_score": 600,
+        "explanation": "تعني: دمي مع دمكم، وهدمي (ما يهدم من عهود) مع هدمكم، أي أنا منكم وأنتم مني.",
+        "choices": [
+            { "choice_text": "دعوة لسفك دماء الأعداء", "is_correct": false },
+            { "choice_text": "أنا منكم وأنتم مني في السلم والحرب", "is_correct": true },
+            { "choice_text": "تحذير من هدم الكعبة", "is_correct": false },
+            { "choice_text": "المطالبة بدماء القتلى في الحروب السابقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد النقباء الذين اختارهم الأنصار في بيعة العقبة الثانية؟",
+        "difficulty_score": 300,
+        "explanation": "طلب النبي منهم إخراج اثني عشر نقيباً يكونون على قومهم.",
+        "choices": [
+            { "choice_text": "عشرة نقباء", "is_correct": false },
+            { "choice_text": "اثنا عشر نقيباً", "is_correct": true },
+            { "choice_text": "سبعون نقيباً", "is_correct": false },
+            { "choice_text": "ستة نقباء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "توزع النقباء الاثنا عشر بين الأوس والخزرج بنسبة:",
+        "difficulty_score": 700,
+        "explanation": "كانوا تسعة من الخزرج وثلاثة من الأوس.",
+        "choices": [
+            { "choice_text": "ستة من الأوس وستة من الخزرج", "is_correct": false },
+            { "choice_text": "تسعة من الخزرج وثلاثة من الأوس", "is_correct": true },
+            { "choice_text": "عشرة من الخزرج واثنان من الأوس", "is_correct": false },
+            { "choice_text": "كلهم من الخزرج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أصغر' الأنصار الذي أخذ بيده النبي وبايعه، وحذر قومه من تبعات البيعة للتأكد من صدقهم؟",
+        "difficulty_score": 800,
+        "explanation": "ورد في رواية جابر أن أسعد بن زرارة (وهو من أصغرهم) أخذ بيد النبي وحذر قومه ليعلموا أن اتباعه هو مفارقة العرب كافة.",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "أسعد بن زرارة", "is_correct": true },
+            { "choice_text": "جابر بن عبد الله", "is_correct": false },
+            { "choice_text": "معاذ بن جبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ استحق الأنصار هذا اللقب (الأنصار) حسب المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب تعهدهم بنصرة النبي صلى الله عليه وسلم في بيعة العقبة.",
+        "choices": [
+            { "choice_text": "بسبب أصلهم اليمني", "is_correct": false },
+            { "choice_text": "بسبب كثرة عددهم", "is_correct": false },
+            { "choice_text": "بسبب تعهدهم بنصرة النبي وحمايته", "is_correct": true },
+            { "choice_text": "لأنهم سكنوا المدينة قبل المهاجرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المبدأ القرآني الذي يفرق بين من أنفق وقاتل قبل الفتح ومن فعل ذلك بعده؟",
+        "difficulty_score": 500,
+        "explanation": "المبدأ هو أن الذين بذلوا في وقت الشدة أعظم درجة ممن بذلوا في وقت التمكين.",
+        "choices": [
+            { "choice_text": "المساواة الكاملة بينهم", "is_correct": false },
+            { "choice_text": "التفضيل لمن بذل في وقت الشدة (قبل الفتح)", "is_correct": true },
+            { "choice_text": "التفضيل للأغنياء فقط", "is_correct": false },
+            { "choice_text": "لا فرق في الدرجة طالما العمل واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الأنصار الذين استشهدوا وهم يحمون النبي في معركة أحد قبل أن يقول النبي 'ما أنصفنا أصحابنا'؟",
+        "difficulty_score": 800,
+        "explanation": "قتل سبعة (أو تسعة في بعض الروايات) من الأنصار واحداً تلو الآخر وهم يدافعون عن النبي.",
+        "choices": [
+            { "choice_text": "رجل واحد", "is_correct": false },
+            { "choice_text": "سبعة أو تسعة رجال", "is_correct": true },
+            { "choice_text": "عشرون رجلاً", "is_correct": false },
+            { "choice_text": "لم يقتل أحد من الأنصار في ذلك الموقف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قال 'واهاً لريح الجنة أجدها دون أحد'؟",
+        "difficulty_score": 600,
+        "explanation": "هو أنس بن النضر، اندفع للقتال في أحد بشوق عظيم للجنة.",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "أنس بن النضر", "is_correct": true },
+            { "choice_text": "مصعب بن عمير", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم تعرف أخت أنس بن النضر جثته إلا ببنانه؟",
+        "difficulty_score": 500,
+        "explanation": "بسبب كثرة الطعنات والضربات التي شوهت جثته (أكثر من ثمانين ضربة).",
+        "choices": [
+            { "choice_text": "لأنه كان يلبس درعاً غريباً", "is_correct": false },
+            { "choice_text": "بسبب كثرة ما به من ضربات وطعنات بالسيوف والسهام", "is_correct": true },
+            { "choice_text": "لأنه كان بعيداً عنها", "is_correct": false },
+            { "choice_text": "لأنه كان يغطي وجهه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الخيارات التالية 'ليس' من بنود بيعة العقبة الثانية المذكورة في رواية جابر؟",
+        "difficulty_score": 600,
+        "explanation": "البنود المذكورة هي السمع والطاعة، النفقة، الأمر بالمعروف، القول في الله، ونصرة النبي.",
+        "choices": [
+            { "choice_text": "السمع والطاعة في النشاط والكسل", "is_correct": false },
+            { "choice_text": "النفقة في العسر واليسر", "is_correct": false },
+            { "choice_text": "احتلال مكة بقوة السلاح فوراً", "is_correct": true },
+            { "choice_text": "الأمر بالمعروف والنهي عن المنكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الجواب الذي أعطاه النبي للأنصار عندما سألوا 'ما لنا إن نحن وفينا بذلك'؟",
+        "difficulty_score": 300,
+        "explanation": "كان الجواب كلمة واحدة هي 'الجنة'.",
+        "choices": [
+            { "choice_text": "الغنائم والأموال", "is_correct": false },
+            { "choice_text": "الجنة", "is_correct": true },
+            { "choice_text": "ملك العرب", "is_correct": false },
+            { "choice_text": "الحماية من قريش فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي دلالة إرسال النبي لمصعب بن عمير للمدينة بدلاً من الانتقال هو مباشرة؟",
+        "difficulty_score": 500,
+        "explanation": "لتهيئة المجتمع واستصلاح النفوس وبناء قاعدة فكرية ودينية قبل الانتقال السياسي.",
+        "choices": [
+            { "choice_text": "لأن النبي كان خائفاً من الهجرة", "is_correct": false },
+            { "choice_text": "لبناء النفوس وتهيئة بيئة المدينة لاستقبال الدعوة", "is_correct": true },
+            { "choice_text": "لأن مصعب كان يعرف طرق المدينة أكثر", "is_correct": false },
+            { "choice_text": "للتخلص من مصعب في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سيد من سادات الأوس أسلم على يدي مصعب بن عمير وأدى إسلامه لإسلام قبيلته؟",
+        "difficulty_score": 400,
+        "explanation": "هو سعد بن معاذ، وبإسلامه أسلمت بنو عبد الأشهل.",
+        "choices": [
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "سعد بن معاذ", "is_correct": true },
+            { "choice_text": "أسيد بن حضير", "is_correct": false },
+            { "choice_text": "سعد بن الربيع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحديث الذي وصفه النبي صلى الله عليه وسلم بأنه 'آية الإيمان'؟",
+        "difficulty_score": 400,
+        "explanation": "الحديث هو: 'آية الإيمان حب الأنصار، وآية النفاق بغض الأنصار'.",
+        "choices": [
+            { "choice_text": "حب العرب", "is_correct": false },
+            { "choice_text": "حب الأنصار", "is_correct": true },
+            { "choice_text": "حب المهاجرين فقط", "is_correct": false },
+            { "choice_text": "بغض الكفار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي الأنصار بهذا الاسم رغم أنهم كانوا قبائل أوس وخزرج؟",
+        "difficulty_score": 400,
+        "explanation": "سماهم الله بهذا الاسم في القرآن الكريم بناءً على فعلهم في نصرة الدين.",
+        "choices": [
+            { "choice_text": "لأن النبي اختار لهم هذا الاسم اعتباطاً", "is_correct": false },
+            { "choice_text": "لأن الله سماهم به في كتابه", "is_correct": true },
+            { "choice_text": "لأنهم هم من اختاروا هذا الاسم لأنفسهم", "is_correct": false },
+            { "choice_text": "لأنهم كانوا يسكنون منطقة تسمى النصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة التي ركز عليها المصدر في خاتمته للمصلحين اليوم؟",
+        "difficulty_score": 500,
+        "explanation": "ركز على ضرورة التضحية بالوقت والمكتسبات الدنيوية والعمل البنائي العميق للإسلام.",
+        "choices": [
+            { "choice_text": "جمع التبرعات المالية فقط", "is_correct": false },
+            { "choice_text": "التضحية والعمل البنائي العميق واستصلاح النفوس", "is_correct": true },
+            { "choice_text": "انتظار المعجزات دون عمل", "is_correct": false },
+            { "choice_text": "الانشغال بالخلافات الجانبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في معركة أحد، عندما قال النبي 'من يردهم عنا وله الجنة؟' من الذي تقدم؟",
+        "difficulty_score": 600,
+        "explanation": "تقدم سبعة من الأنصار واحداً تلو الآخر حتى استشهدوا جميعاً.",
+        "choices": [
+            { "choice_text": "رجل من المهاجرين", "is_correct": false },
+            { "choice_text": "رجل من الأنصار", "is_correct": true },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين وقعت بيعة العقبة الثانية مكانياً؟",
+        "difficulty_score": 200,
+        "explanation": "وقعت في منى، عند شعب العقبة.",
+        "choices": [
+            { "choice_text": "في المسجد الحرام", "is_correct": false },
+            { "choice_text": "عند شعب العقبة بمنى", "is_correct": true },
+            { "choice_text": "في دار الأرقم", "is_correct": false },
+            { "choice_text": "في المدينة المنورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أسعد بن زرارة عن البيعة ليؤكد خطورتها؟",
+        "difficulty_score": 700,
+        "explanation": "قال إنها تعني 'مفارقة العرب كافة وقتل خياركم'.",
+        "choices": [
+            { "choice_text": "إنها طريق سهل للسيادة", "is_correct": false },
+            { "choice_text": "إنها تعني مفارقة العرب كافة وقتل خياركم وتنهشكم السيوف", "is_correct": true },
+            { "choice_text": "إنها مجرد عهد كلامي لا يترتب عليه شيء", "is_correct": false },
+            { "choice_text": "إن النبي سيكفيكم كل المؤن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الأنصار في اللقاء الأول الذي أسلم فيه ستة أشخاص؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أنهم كانوا ستة أشخاص كلهم من الخزرج.",
+        "choices": [
+            { "choice_text": "رجلان", "is_correct": false },
+            { "choice_text": "ستة أشخاص", "is_correct": true },
+            { "choice_text": "عشرة أشخاص", "is_correct": false },
+            { "choice_text": "اثنا عشر شخصاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي المرأتان اللتان شهدتا بيعة العقبة الثانية؟",
+        "difficulty_score": 500,
+        "explanation": "هما نسيبة بنت كعب (أم عمارة) وأسماء بنت عمرو (أم منيع).",
+        "choices": [
+            { "choice_text": "عائشة وفاطمة", "is_correct": false },
+            { "choice_text": "نسيبة بنت كعب وأسماء بنت عمرو", "is_correct": true },
+            { "choice_text": "خديجة وأسماء بنت أبي بكر", "is_correct": false },
+            { "choice_text": "هند بنت عتبة وأروى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة قول الأنصار 'لعل الله أن يجمعنا بك'؟",
+        "difficulty_score": 600,
+        "explanation": "تشير إلى حالة التفرق والحروب التي كانت تنهكهم (مثل بعاث) ورغبتهم في الوحدة تحت قيادته.",
+        "choices": [
+            { "choice_text": "رغبتهم في الهجرة لمكة", "is_correct": false },
+            { "choice_text": "أملهم في أن ينهي النبي شقاقهم ويجمع كلمتهم", "is_correct": true },
+            { "choice_text": "طلبهم للمال من النبي", "is_correct": false },
+            { "choice_text": "خوفهم من الروم والفرس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا لقب النبي صلى الله عليه وسلم أبا الهيثم بن التيهان والآخرين الذين بايعوه؟",
+        "difficulty_score": 900,
+        "explanation": "لم يُذكر لقب خاص في النص سوى أنهم أصبحوا 'أنصاراً' وأنهم اختاروا 'نقباء'.",
+        "choices": [
+            { "choice_text": "الملوك", "is_correct": false },
+            { "choice_text": "النقباء (للاثني عشر منهم)", "is_correct": true },
+            { "choice_text": "الحواريون", "is_correct": false },
+            { "choice_text": "الوزراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي كان المشركون يوصون بها القادمين للموسم للتحذير من النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يقولون للقادمين: 'احذر غلام قريش لا يفتننك'، إمعاناً في التشويه والتحذير [1].",
+        "choices": [
+            { "choice_text": "احذر الساحر الكذاب", "is_correct": false },
+            { "choice_text": "احذر غلام قريش لا يفتننك", "is_correct": true },
+            { "choice_text": "لا تستمع لمن يدعي النبوة", "is_correct": false },
+            { "choice_text": "ابتعد عن شعب أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف جابر بن عبد الله حال النبي صلى الله عليه وسلم وهو يمشي بين المشركين في المواسم؟",
+        "difficulty_score": 400,
+        "explanation": "وصفه بأنه يمشي بين رجالهم وهم يشيرون إليه بالأصابع استهزاءً وسخرية [2].",
+        "choices": [
+            { "choice_text": "كانوا يرمونه بالحجارة", "is_correct": false },
+            { "choice_text": "كانوا يشيرون إليه بالأصابع استهزاءً", "is_correct": true },
+            { "choice_text": "كانوا يهربون منه", "is_correct": false },
+            { "choice_text": "كانوا يغلقون آذانهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية القرآنية التي ذكرها المصدر في سياق وصف استهزاء المشركين بالنبي في المواسم؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر قوله تعالى: (وإذ رآك الذين كفروا إن يتخذونك إلا هزواً أهذا الذي بعث الله رسولاً) [1].",
+        "choices": [
+            { "choice_text": "فاصدع بما تؤمر", "is_correct": false },
+            { "choice_text": "أهذا الذي بعث الله رسولاً؟", "is_correct": true },
+            { "choice_text": "إن شانئك هو الأبتر", "is_correct": false },
+            { "choice_text": "تبت يدا أبي لهب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف كعب بن مالك بيعة العقبة الثانية مقارنة بغزوة بدر؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'ما أحب أن لي بها مشهد بدر، وإن كانت بدر أذكر في الناس منها'، لتأكيد أهميتها التأسيسية [24، 25].",
+        "choices": [
+            { "choice_text": "بدر أهم بكثير من العقبة", "is_correct": false },
+            { "choice_text": "العقبة وبدر متساويتان تماماً", "is_correct": false },
+            { "choice_text": "لا يحب أن له بالعقبة مشهد بدر", "is_correct": true },
+            { "choice_text": "تمنى لو حضر بدراً ولم يحضر العقبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'سيد بني سلمة' الذي لقيه كعب بن مالك والأنصار في المسجد الحرام مع العباس؟",
+        "difficulty_score": 600,
+        "explanation": "هو البراء بن معرور، وكان سيد قومه وشهد العقبة [3].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "أسعد بن زرارة", "is_correct": false },
+            { "choice_text": "البراء بن معرور", "is_correct": true },
+            { "choice_text": "عبد الله بن عمرو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف استطاع الأنصار التعرف على النبي صلى الله عليه وسلم في المسجد وهو جالس مع العباس؟",
+        "difficulty_score": 500,
+        "explanation": "لم يكونوا يعرفونه قبلاً، فسألوا رجلاً من أهل مكة عنه فدلهما عليه بوصفه الرجل الجالس مع العباس [26، 27].",
+        "choices": [
+            { "choice_text": "من خلال نوره الظاهر", "is_correct": false },
+            { "choice_text": "رأوا صورته في الكتب القديمة", "is_correct": false },
+            { "choice_text": "سألوا عنه ودُلوا عليه بجلسة العباس", "is_correct": true },
+            { "choice_text": "النبي نادى عليهم بأسمائهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصفة التي أطلقها النبي صلى الله عليه وسلم على كعب بن مالك عندما عرفه العباس به؟",
+        "difficulty_score": 600,
+        "explanation": "عندما ذكره العباس، سأل النبي: 'الشاعر؟' فأكدوا له ذلك [4].",
+        "choices": [
+            { "choice_text": "الفارس", "is_correct": false },
+            { "choice_text": "الشاعر", "is_correct": true },
+            { "choice_text": "الخطيب", "is_correct": false },
+            { "choice_text": "التاجر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان الأنصار يكتمون أمر إسلام عبد الله بن عمرو بن حرام (أبو جابر) عن المشركين؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه كان سيداً شريفاً من سادتهم، وأرادوا إسلامه وحضوره العقبة ليتمكن من حماية الدعوة في قومه [5].",
+        "choices": [
+            { "choice_text": "خوفاً من أن تقتله قريش", "is_correct": false },
+            { "choice_text": "لأنه كان مريضاً جداً", "is_correct": false },
+            { "choice_text": "ليتمكن من حضور العقبة كمسلم شريف", "is_correct": true },
+            { "choice_text": "خوفاً من مصادرة أمواله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبه المصدر طريقة تسلل الأنصار من فراشهم لميعاد النبي في العقبة؟",
+        "difficulty_score": 700,
+        "explanation": "وصفهم بأنهم 'يتسللون تسلل القطا' (نوع من الطيور) كناية عن الخفة والسرية [6].",
+        "choices": [
+            { "choice_text": "تسلل الأسود", "is_correct": false },
+            { "choice_text": "تسلل القطا", "is_correct": true },
+            { "choice_text": "تسلل الغزلان", "is_correct": false },
+            { "choice_text": "تسلل الظلال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور العباس بن عبد المطلب في بيعة العقبة الثانية حسب المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "كان أول متكلم، وطلب من الأنصار التوثق لابن أخيه والتأكد من قدرتهم على حمايته [31، 32].",
+        "choices": [
+            { "choice_text": "كان هو من يكتب بنود البيعة", "is_correct": false },
+            { "choice_text": "كان يراقب الطريق فقط", "is_correct": false },
+            { "choice_text": "تحدث ليؤكد على ضرورة حماية النبي", "is_correct": true },
+            { "choice_text": "بايع النبي مع الأنصار في نفس الوقت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال البراء بن معرور مؤكداً وفاء الأنصار بالبيعة؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'نحن أهل الحروب وأهل الحلقة (السلاح)، ورثناها كابراً عن كابر' [7].",
+        "choices": [
+            { "choice_text": "نحن أهل التجارة والمال", "is_correct": false },
+            { "choice_text": "نحن أهل الحروب وأهل الحلقة", "is_correct": true },
+            { "choice_text": "نحن أهل الصبر والسكينة", "is_correct": false },
+            { "choice_text": "نحن أكثر العرب عدداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التساؤل 'السياسي' المهم الذي طرحه أبو الهيثم بن التيهان على النبي؟",
+        "difficulty_score": 700,
+        "explanation": "سأل عما إذا كان النبي سيعود لقريش ويتركهم إذا نصره الله وأظهره [8].",
+        "choices": [
+            { "choice_text": "كيف سنقاتل قريشاً؟", "is_correct": false },
+            { "choice_text": "هل ستعود لقومك وتدعنا إذا أظهرك الله؟", "is_correct": true },
+            { "choice_text": "ما هي الغنائم التي سنحصل عليها؟", "is_correct": false },
+            { "choice_text": "متى ستهاجر إلينا؟", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف رد النبي صلى الله عليه وسلم على تخوف الأنصار من تركه لهم مستقبلاً؟",
+        "difficulty_score": 500,
+        "explanation": "تبسم وقال: 'بل الدم الدم، والهدم الهدم، أنا منكم وأنتم مني' [9].",
+        "choices": [
+            { "choice_text": "وعدهم بكنوز كسرى", "is_correct": false },
+            { "choice_text": "أنا منكم وأنتم مني، الدم الدم والهدم الهدم", "is_correct": true },
+            { "choice_text": "قال إنه سيبقى في مكة دائماً", "is_correct": false },
+            { "choice_text": "لم يرد عليهم بشيء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد نقباء الخزرج ونقباء الأوس على التوالي؟",
+        "difficulty_score": 600,
+        "explanation": "كانوا تسعة من الخزرج وثلاثة من الأوس [9].",
+        "choices": [
+            { "choice_text": "ستة وستة", "is_correct": false },
+            { "choice_text": "عشرة واثنان", "is_correct": false },
+            { "choice_text": "تسعة وثلاثة", "is_correct": true },
+            { "choice_text": "ثمانية وأربعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو بند البيعة المتعلق بـ 'الكلمة' وقول الحق؟",
+        "difficulty_score": 500,
+        "explanation": "هو 'أن نقول في الله لا نخاف لومة لائم' [10].",
+        "choices": [
+            { "choice_text": "كتمان الأسرار دائماً", "is_correct": false },
+            { "choice_text": "أن نقول في الله لا نخاف لومة لائم", "is_correct": true },
+            { "choice_text": "عدم التحدث مع المشركين", "is_correct": false },
+            { "choice_text": "مدح قريش في غيابهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الذي أخذ بيد النبي وحذر قومه قائلاً: 'رويداً يا أهل يثرب'؟",
+        "difficulty_score": 700,
+        "explanation": "هو أسعد بن زرارة، أراد التأكد من وعيهم بتبعات مفارقة العرب كافة [11].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "أسعد بن زرارة", "is_correct": true },
+            { "choice_text": "جابر بن عبد الله", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحقيقة المرة التي واجه بها أسعد بن زرارة الأنصار قبل البيعة؟",
+        "difficulty_score": 800,
+        "explanation": "قال إن إخراجه يعني 'مفارقة العرب كافة، وقتل خياركم، وأن تعضكم السيوف' [37، 38].",
+        "choices": [
+            { "choice_text": "أن التجارة ستزدهر", "is_correct": false },
+            { "choice_text": "أن العرب سيسالمونهم فوراً", "is_correct": false },
+            { "choice_text": "أن البيعة تعني قتل خيارهم ومواجهة السيوف", "is_correct": true },
+            { "choice_text": "أن الرحلة للمدينة سهلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا شدد أسعد بن زرارة على الأنصار بتبعات البيعة الصعبة؟",
+        "difficulty_score": 600,
+        "explanation": "ليكون ذلك 'أعذر لهم عند الله' وللتأكد من صدقهم التام وصبرهم على البلاء المتوقع [12].",
+        "choices": [
+            { "choice_text": "لأنه كان يريد منعهم من البيعة", "is_correct": false },
+            { "choice_text": "للتأكد من صدقهم وصبرهم وبناءً على الوضوح التام", "is_correct": true },
+            { "choice_text": "لأنه كان يكره النبي صلى الله عليه وسلم", "is_correct": false },
+            { "choice_text": "لأنه أراد أن يكون هو الزعيم الوحيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر 'كلمة العهد' في تلك المرحلة؟",
+        "difficulty_score": 700,
+        "explanation": "وصفها بأنها لم تكن شيئاً سهلاً، بل كانت التزاماً يعي العرب قيمته وتبعاته [13].",
+        "choices": [
+            { "choice_text": "مجرد طقس شكلي", "is_correct": false },
+            { "choice_text": "شيء سهل يمكن التراجع عنه", "is_correct": false },
+            { "choice_text": "كلمة ثقيلة لها قيمة وتبعات مصيرية", "is_correct": true },
+            { "choice_text": "اتفاق تجاري بحت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التغيير الجذري الذي طرأ على 'الهوية الشخصية' للأفراد بعد البيعة والهجرة؟",
+        "difficulty_score": 600,
+        "explanation": "صار التعريف بالعمل (مهاجر/أنصاري) يسبق التعريف بالقبيلة (هاشمي/خزرجي) [40، 41].",
+        "choices": [
+            { "choice_text": "التمسك باللقب القبلي أكثر", "is_correct": false },
+            { "choice_text": "إلغاء الأسماء الشخصية", "is_correct": false },
+            { "choice_text": "صار التعريف بالعمل (النصرة والهجرة) هو الأساس", "is_correct": true },
+            { "choice_text": "لم يتغير شيء في الهوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية قرآنية أثبتت لقب 'الأنصار' كاسم شرعي لهم؟",
+        "difficulty_score": 400,
+        "explanation": "قوله تعالى: (والسابقون الأولون من المهاجرين والأنصار والذين اتبعوهم بإحسان) [41، 42].",
+        "choices": [
+            { "choice_text": "سورة الفتح", "is_correct": false },
+            { "choice_text": "والسابقون الأولون من المهاجرين والأنصار", "is_correct": true },
+            { "choice_text": "سورة قريش", "is_correct": false },
+            { "choice_text": "سورة الكافرون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف الله حال الأنصار تجاه المهاجرين في سورة الحشر؟",
+        "difficulty_score": 500,
+        "explanation": "قال: (يحبون من هاجر إليهم ولا يجدون في صدورهم حاجة مما أوتوا) [14].",
+        "choices": [
+            { "choice_text": "كانوا يكرهون مشاركتهم في الأموال", "is_correct": false },
+            { "choice_text": "يحبون من هاجر إليهم ويؤثرون على أنفسهم", "is_correct": true },
+            { "choice_text": "طلبوا من المهاجرين العودة لمكة", "is_correct": false },
+            { "choice_text": "عاملوهم كغرباء فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء النبوي المشهور للأنصار وأبنائهم؟",
+        "difficulty_score": 300,
+        "explanation": "دعا لهم قائلاً: 'اللهم ارحم الأنصار، وأبناء الأنصار، وأبناء أبناء الأنصار' [15].",
+        "choices": [
+            { "choice_text": "اللهم ارزق الأنصار المال", "is_correct": false },
+            { "choice_text": "اللهم ارحم الأنصار وأبناءهم وأبناء أبنائهم", "is_correct": true },
+            { "choice_text": "اللهم انصرهم على الروم", "is_correct": false },
+            { "choice_text": "اللهم افتح لهم البلاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي صلى الله عليه وسلم 'وادي الأنصار' في الحديث؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'ولو سلك الناس وادياً وشعباً، لسلكت وادي الأنصار وشعبها' [15].",
+        "choices": [
+            { "choice_text": "وادي الأنصار وادٍ مخيف", "is_correct": false },
+            { "choice_text": "لو سلك الناس وادياً لسلكت وادي الأنصار", "is_correct": true },
+            { "choice_text": "وادي الأنصار مليء بالثمار", "is_correct": false },
+            { "choice_text": "وادي الأنصار وادٍ بعيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبرة من قصة حاطب بن أبي بلتعة وأهل بدر كما ذكر المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "أن الله اطلع على أهل بدر (الذين نصروا الدين في وقت الشدة) فغفر لهم ما تقدم [16].",
+        "choices": [
+            { "choice_text": "أن العمل الصالح لا ينفع", "is_correct": false },
+            { "choice_text": "أن نصرة الدين في الأيام العظمى تحفظ للإنسان مكانته", "is_correct": true },
+            { "choice_text": "أن حاطب كان عدواً للإسلام", "is_correct": false },
+            { "choice_text": "أن أهل بدر كلهم ملوك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يحتاج الإسلام اليوم لعمل 'بنائي عميق' حسب خاتمة المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "بسبب التغيرات الثقافية وتحريف المفاهيم والحاجة لاستصلاح النفوس وإعادة مرجعية الوحي [47، 48].",
+        "choices": [
+            { "choice_text": "لأن الإسلام يحتاج للمال فقط", "is_correct": false },
+            { "choice_text": "بسبب الحاجة لاستصلاح النفوس وإعادة مرجعية الوحي", "is_correct": true },
+            { "choice_text": "لأن العمل السطحي كافٍ", "is_correct": false },
+            { "choice_text": "لمواكبة التطور التكنولوجي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي ميز الأنصار في معركة أحد عند الشعب؟",
+        "difficulty_score": 500,
+        "explanation": "ضحوا بأنفسهم واحداً تلو الآخر لحماية النبي عندما أحاط به المشركون [49، 50].",
+        "choices": [
+            { "choice_text": "أنهم هربوا من المعركة", "is_correct": false },
+            { "choice_text": "أنهم قتلوا أبا جهل", "is_correct": false },
+            { "choice_text": "أنهم تقدموا للموت دفاعاً عن النبي", "is_correct": true },
+            { "choice_text": "أنهم كانوا يلبسون ملابس حمراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي للمهاجرين بعد استشهاد الأنصار السبعة في أحد؟",
+        "difficulty_score": 800,
+        "explanation": "قال: 'ما أنصفنا أصحابنا'، في إشارة لتضحية الأنصار العظيمة بدمائهم [17].",
+        "choices": [
+            { "choice_text": "أين كنتم يا مهاجرين؟", "is_correct": false },
+            { "choice_text": "ما أنصفنا أصحابنا", "is_correct": true },
+            { "choice_text": "الأنصار قوم شجعان", "is_correct": false },
+            { "choice_text": "سنهزم المشركين الآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي نزلت في أنس بن النضر وأمثاله من الصادقين؟",
+        "difficulty_score": 600,
+        "explanation": "قوله تعالى: (من المؤمنين رجال صدقوا ما عاهدوا الله عليه) [18].",
+        "choices": [
+            { "choice_text": "سورة النصر", "is_correct": false },
+            { "choice_text": "من المؤمنين رجال صدقوا ما عاهدوا الله عليه", "is_correct": true },
+            { "choice_text": "سورة الإخلاص", "is_correct": false },
+            { "choice_text": "آية الكرسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا اعتذر أنس بن النضر لله في أحد؟",
+        "difficulty_score": 900,
+        "explanation": "اعتذر مما صنع أصحابه (المسلمون الذين فروا) وتبرأ مما صنع المشركون [19].",
+        "choices": [
+            { "choice_text": "اعتذر عن عدم حضوره بدراً", "is_correct": false },
+            { "choice_text": "اعتذر عما صنع هؤلاء (المسلمون في اختلال الصفوف)", "is_correct": true },
+            { "choice_text": "اعتذر عن جراحه الكثيرة", "is_correct": false },
+            { "choice_text": "اعتذر للنبي عن تعبه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى ماذا اندفع أنس بن النضر قبل استشهاده؟",
+        "difficulty_score": 700,
+        "explanation": "اندفع نحو المشركين وهو يقول لسعد: 'واهاً لريح الجنة أجدها دون أحد' [19].",
+        "choices": [
+            { "choice_text": "اندفع نحو المدينة هرباً", "is_correct": false },
+            { "choice_text": "اندفع نحو المشركين شوقاً للجنة", "is_correct": true },
+            { "choice_text": "اندفع ليأخذ الغنائم", "is_correct": false },
+            { "choice_text": "اندفع ليحضر الماء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستفيد من إرسال ابن أم مكتوم مع مصعب بن عمير؟",
+        "difficulty_score": 600,
+        "explanation": "نستفيد أهمية تعليم القرآن وتضافر الجهود في بناء المجتمع المسلم الجديد [20].",
+        "choices": [
+            { "choice_text": "أن ابن أم مكتوم كان قائداً عسكرياً", "is_correct": false },
+            { "choice_text": "تكامل الأدوار في الدعوة وتعليم القرآن", "is_correct": true },
+            { "choice_text": "أن المدينة كانت تحتاج لمؤذنين فقط", "is_correct": false },
+            { "choice_text": "لا توجد فائدة مذكورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر إسلام سعد بن معاذ؟",
+        "difficulty_score": 500,
+        "explanation": "وصفه بأنه حدث عظيم أدى لإسلام قبيلته بكاملها (بنو عبد الأشهل) [20].",
+        "choices": [
+            { "choice_text": "إسلام عادي لم يغير شيئاً", "is_correct": false },
+            { "choice_text": "إسلام أدى لإسلام قبيلته بكاملها", "is_correct": true },
+            { "choice_text": "إسلام أدى لطرده من القبيلة", "is_correct": false },
+            { "choice_text": "إسلام سري لم يعرفه أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'آية النفاق' المتعلقة بالأنصار؟",
+        "difficulty_score": 400,
+        "explanation": "حسب الحديث الصحيح: 'آية النفاق بغض الأنصار' [21].",
+        "choices": [
+            { "choice_text": "الكذب في الحديث", "is_correct": false },
+            { "choice_text": "بغض الأنصار", "is_correct": true },
+            { "choice_text": "خلف الوعد", "is_correct": false },
+            { "choice_text": "خيانة الأمانة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الواجب على المصلحين اليوم تجاه سيرة الأنصار؟",
+        "difficulty_score": 500,
+        "explanation": "الاقتداء بهم في التضحية بالوقت والمال والجهد لنصرة الدين [21].",
+        "choices": [
+            { "choice_text": "مجرد قراءتها للتسلية", "is_correct": false },
+            { "choice_text": "الاقتداء بتضحيتهم وعملهم البنائي", "is_correct": true },
+            { "choice_text": "حفظ أسمائهم فقط", "is_correct": false },
+            { "choice_text": "لا واجب عليهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سوق كان ربيعة بن عباد يرى النبي صلى الله عليه وسلم يدعو الناس؟",
+        "difficulty_score": 300,
+        "explanation": "رآه في سوق ذي المجاز [22].",
+        "choices": [
+            { "choice_text": "سوق عكاظ", "is_correct": false },
+            { "choice_text": "سوق مجنة", "is_correct": false },
+            { "choice_text": "سوق ذي المجاز", "is_correct": true },
+            { "choice_text": "سوق المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الرجل الذي كان ينادي خلف النبي في السوق: 'إنه صابئ كاذب'؟",
+        "difficulty_score": 300,
+        "explanation": "هو أبو لهب عمه [23].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أبو لهب", "is_correct": true },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false },
+            { "choice_text": "أبو سفيان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'صابئ' التي كان يرمي بها أبو لهب النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 600,
+        "explanation": "تعني الخارج عن دين قومه وآبائه.",
+        "choices": [
+            { "choice_text": "المجنون", "is_correct": false },
+            { "choice_text": "الخارج عن دين قومه وآبائه", "is_correct": true },
+            { "choice_text": "الساحر القوي", "is_correct": false },
+            { "choice_text": "التاجر الغني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة قول النبي 'إن قريشاً منعوني أن أبلغ كلام ربي'؟",
+        "difficulty_score": 400,
+        "explanation": "تشير إلى حالة الحصار والتضييق التي كانت تمارسها قريش لمنع انتشار الدعوة [24].",
+        "choices": [
+            { "choice_text": "أن قريشاً كانت تحبه", "is_correct": false },
+            { "choice_text": "الحصار والتضييق لمنع تبليغ الرسالة", "is_correct": true },
+            { "choice_text": "أن النبي لم يكن يريد الكلام", "is_correct": false },
+            { "choice_text": "أن قريشاً كانت تطلب منه الصمت فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى وقعت أحداث 'اللقاء الأول' مع الستة من الخزرج؟",
+        "difficulty_score": 500,
+        "explanation": "في السنة الحادية عشرة من البعثة (أو العاشرة حسب بعض الروايات) [25].",
+        "choices": [
+            { "choice_text": "السنة الأولى للبعثة", "is_correct": false },
+            { "choice_text": "السنة الخامسة للبعثة", "is_correct": false },
+            { "choice_text": "السنة الحادية عشرة للبعثة", "is_correct": true },
+            { "choice_text": "بعد الهجرة بسنة", "is_correct": false }
+        ]
+    }
+]
+    }

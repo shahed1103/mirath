@@ -25,7 +25,6 @@ class DatabaseSeeder extends Seeder
             ChapterSeeder::class,
             ChapterContentSeeder::class,
             QuestionSeeder::class,
-            QuestionChoiceSeeder::class,
             QuestionHistorySeeder::class,
             OpenQuestionSeeder::class,
             LibraryBookSeeder::class,

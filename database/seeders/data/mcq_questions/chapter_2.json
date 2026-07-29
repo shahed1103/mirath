@@ -1,0 +1,885 @@
+{
+    "chapter_id": 2,
+    "questions": [
+        {
+            "question_text": "متى بدأت مرحلة التشريع فعلياً؟",
+            "difficulty_score": 100,
+            "explanation": "مرحلة التشريع مرتبطة بإنزال الوحي الذي بدأ مع بعثة النبي صلى الله عليه وسلم [26].",
+            "choices": [
+                { "choice_text": "عند ولادة النبي صلى الله عليه وسلم", "is_correct": false },
+                { "choice_text": "ببعثة النبي ونزول الوحي عليه", "is_correct": true },
+                { "choice_text": "عند الهجرة إلى المدينة", "is_correct": false },
+                { "choice_text": "بعد فتح مكة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "بماذا تنتهي مرحلة التشريع؟",
+            "difficulty_score": 150,
+            "explanation": "ينقطع التشريع (الوحي) بوفاة النبي صلى الله عليه وسلم [1, 9].",
+            "choices": [
+                { "choice_text": "بوفاة النبي صلى الله عليه وسلم", "is_correct": true },
+                { "choice_text": "بوفاة آخر الخلفاء الراشدين", "is_correct": false },
+                { "choice_text": "بظهور المذاهب الأربعة", "is_correct": false },
+                { "choice_text": "بفتح بيت المقدس", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هو الصحابي الذي وُصف بأنه أعلم الصحابة على الإطلاق وحُكي عليه الإجماع في ذلك؟",
+            "difficulty_score": 200,
+            "explanation": "أبو بكر الصديق هو أفقه وأعلم الصحابة بإجماع أهل العلم [6].",
+            "choices": [
+                { "choice_text": "عمر بن الخطاب", "is_correct": false },
+                { "choice_text": "علي بن أبي طالب", "is_correct": false },
+                { "choice_text": "أبو بكر الصديق", "is_correct": true },
+                { "choice_text": "عبد الله بن عباس", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "كم كانت مدة خلافة أبي بكر الصديق تقريباً؟",
+            "difficulty_score": 250,
+            "explanation": "دامت خلافته سنتين وثلاثة أشهر، مما قلل حجم المنقول عنه فقهياً [8].",
+            "choices": [
+                { "choice_text": "سنة واحدة", "is_correct": false },
+                { "choice_text": "سنتين وثلاثة أشهر", "is_correct": true },
+                { "choice_text": "خمس سنوات", "is_correct": false },
+                { "choice_text": "عشر سنوات", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من الكتب التالية يعد من المصادر 'غير المسندة' لفقه الصحابة؟",
+            "difficulty_score": 300,
+            "explanation": "الكتب غير المسندة هي كتب الفقه المقارن مثل المغني لابن قدامة [5, 7].",
+            "choices": [
+                { "choice_text": "مصنف عبد الرزاق", "is_correct": false },
+                { "choice_text": "مصنف ابن أبي شيبة", "is_correct": false },
+                { "choice_text": "كتاب المغني", "is_correct": true },
+                { "choice_text": "الأوسط لابن المنذر (باعتباره مسنداً في أجزاء)", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو التركيز الأساسي للتشريع في العهد المكي؟",
+            "difficulty_score": 350,
+            "explanation": "كان التركيز في مكة على ترسيخ أصول الدين والتوحيد [9].",
+            "choices": [
+                { "choice_text": "تفاصيل أحكام المواريث", "is_correct": false },
+                { "choice_text": "أصول الدين", "is_correct": true },
+                { "choice_text": "أحكام الجهاد", "is_correct": false },
+                { "choice_text": "المعاملات المالية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هذه التشريعات يُرى أنها فُرضت في مكة أو أوائل البعثة؟",
+            "difficulty_score": 400,
+            "explanation": "يرى بعض العلماء أن الصلاة وتحريم ما لم يذكر اسم الله عليه نزلت بمكة [9, 10].",
+            "choices": [
+                { "choice_text": "الصيام", "is_correct": false },
+                { "choice_text": "الزكاة (بأنصبتها)", "is_correct": false },
+                { "choice_text": "الصلاة", "is_correct": true },
+                { "choice_text": "الحج", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "وفقاً للتقسيم التاريخي، ماذا تشمل المرحلة الثانية من مراحل الفقه؟",
+            "difficulty_score": 450,
+            "explanation": "تشمل زمن الصحابة والتابعين وبداية أتباع التابعين قبل استقرار المذاهب [2].",
+            "choices": [
+                { "choice_text": "زمن النبوة فقط", "is_correct": false },
+                { "choice_text": "زمن الصحابة والتابعين", "is_correct": true },
+                { "choice_text": "العصر العباسي المتأخر", "is_correct": false },
+                { "choice_text": "العصر الحديث", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا لم يكن النبي صلى الله عليه وسلم يستخدم القياس في التشريع؟",
+            "difficulty_score": 500,
+            "explanation": "لأن النبي يحكم بالوحي والتوقيف، واجتهاده (على قول) يرجع في النهاية للسنة النبوية والوحي [4, 14].",
+            "choices": [
+                { "choice_text": "لعدم حاجته إليه بوجود الوحي", "is_correct": true },
+                { "choice_text": "لأن القياس كان ممنوعاً", "is_correct": false },
+                { "choice_text": "لعدم وجود حوادث جديدة", "is_correct": false },
+                { "choice_text": "لأن الصحابة لم يفهموه", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما المقصود بكون الإجماع دليلاً 'متضمناً للدليل' وليس منشئاً له؟",
+            "difficulty_score": 600,
+            "explanation": "الإجماع يظهر الحكم الذي نزل به الشرع أصلاً، ولا يمكن للعلماء تحليل شيء بغير دليل من الكتاب والسنة [20, 21].",
+            "choices": [
+                { "choice_text": "أنه يخترع أحكاماً جديدة", "is_correct": false },
+                { "choice_text": "أنه يظهر الحكم الشرعي الموجود أصلاً", "is_correct": true },
+                { "choice_text": "أنه يلغي نصوص السنة", "is_correct": false },
+                { "choice_text": "أنه خاص بالمعاملات فقط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هو مؤلف كتاب 'الفكر السامي في تاريخ الفقه الإسلامي'؟",
+            "difficulty_score": 650,
+            "explanation": "المؤلف هو الثعلبي أو الحجوي [3].",
+            "choices": [
+                { "choice_text": "ابن القيم", "is_correct": false },
+                { "choice_text": "ابن حزم", "is_correct": false },
+                { "choice_text": "الحجوي", "is_correct": true },
+                { "choice_text": "عبد الرزاق الصنعاني", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "في قصة صلاة العصر في بني قريظة، أي فريق أقره النبي؟",
+            "difficulty_score": 700,
+            "explanation": "النبي صلى الله عليه وسلم لم يعنف أحداً من الطائفتين، مما يعني إقرار الفريقين [11, 15].",
+            "choices": [
+                { "choice_text": "الذين صلوا في الطريق فقط", "is_correct": false },
+                { "choice_text": "الذين صلوا في بني قريظة فقط", "is_correct": false },
+                { "choice_text": "كلا الفريقين (لم يعنف أحداً)", "is_correct": true },
+                { "choice_text": "أمرهم بإعادة الصلاة جميعاً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو عدد الفقهاء من الصحابة الذين أفتوا في زمن النبي صلى الله عليه وسلم كما ذكر بعض العلماء؟",
+            "difficulty_score": 750,
+            "explanation": "ذُكر أنهم بلغوا أربعة عشر صحابياً [24, 27].",
+            "choices": [
+                { "choice_text": "7 صحابة", "is_correct": false },
+                { "choice_text": "14 صحابياً", "is_correct": true },
+                { "choice_text": "70 صحابياً", "is_correct": false },
+                { "choice_text": "130 صحابياً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هم الصحابة الثلاثة الذين ذُكر أن لهم مذاهب مقلدة ولها أتباع يدوّنون علمهم؟",
+            "difficulty_score": 800,
+            "explanation": "هم عبد الله بن مسعود، وزيد بن ثابت، وعبد الله بن عباس [19].",
+            "choices": [
+                { "choice_text": "الخلفاء الأربعة", "is_correct": false },
+                { "choice_text": "ابن مسعود وزيد بن ثابت وابن عباس", "is_correct": true },
+                { "choice_text": "عائشة وأبو هريرة وابن عمر", "is_correct": false },
+                { "choice_text": "معاذ بن جبل وأبو موسى الأشعري", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي العلة في اعتبار جميع الصحابة مجتهدين 'بالقوة'؟",
+            "difficulty_score": 900,
+            "explanation": "بسبب شهودهم للتنزيل وسلامة لغتهم العربية وسليقتهم التي تمكنهم من الفهم المباشر للنصوص [22].",
+            "choices": [
+                { "choice_text": "لأنهم حفظوا كل الأحاديث", "is_correct": false },
+                { "choice_text": "بسبب شهودهم التنزيل وسلامة لغتهم", "is_correct": true },
+                { "choice_text": "لأن النبي نص على ذلك", "is_correct": false },
+                { "choice_text": "لأنهم كانوا حكاماً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو التاريخ التقريبي لبداية المرحلة الرابعة (العصر الحاضر) في تاريخ الفقه؟",
+            "difficulty_score": 110,
+            "explanation": "تبدأ المرحلة الرابعة تقريباً من عام 1300هـ [1].",
+            "choices": [
+            { "choice_text": "1000هـ", "is_correct": false },
+            { "choice_text": "1200هـ", "is_correct": false },
+            { "choice_text": "1300هـ", "is_correct": true },
+            { "choice_text": "1400هـ", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا تعد تواريخ مراحل الفقه (عدا الأولى) تقريبية؟",
+            "difficulty_score": 250,
+            "explanation": "لأن المذاهب ونشأتها ظهرت واستقرت شيئاً فشيئاً ولا يمكن تحديد يوم بعينه لصدورها [2].",
+            "choices": [
+            { "choice_text": "لضياع المخطوطات التاريخية", "is_correct": false },
+            { "choice_text": "لأن المذاهب تشكلت تدريجياً ولم تصدر بمرسوم محدد", "is_correct": true },
+            { "choice_text": "بسبب اختلاف التقويم الهجري والميلادي", "is_correct": false },
+            { "choice_text": "لأن العلماء لم يهتموا بالتدوين التاريخي", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي الحكمة المنزهة لله عز وجل عن ترك الخلق بلا تشريع؟",
+            "difficulty_score": 180,
+            "explanation": "ترك الخلق بلا تشريع يعد من العبث الذي ينزه الله عنه [3].",
+            "choices": [
+            { "choice_text": "العبث", "is_correct": true },
+            { "choice_text": "المشقة", "is_correct": false },
+            { "choice_text": "النسيان", "is_correct": false },
+            { "choice_text": "الظلم", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي عصر ركز فيه التشريع على 'أصول الدين' بشكل أساسي؟",
+            "difficulty_score": 120,
+            "explanation": "كان التشريع في العهد المكي يرتكز على أصول الدين والتوحيد [4].",
+            "choices": [
+            { "choice_text": "العهد المدني", "is_correct": false },
+            { "choice_text": "العهد المكي", "is_correct": true },
+            { "choice_text": "عصر التابعين", "is_correct": false },
+            { "choice_text": "عصر المذاهب", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "متى شُرع تحريم أكل ما لم يذكر اسم الله عليه؟",
+            "difficulty_score": 320,
+            "explanation": "نزل تحريم أكل ما لم يذكر اسم الله عليه في مكة [5].",
+            "choices": [
+            { "choice_text": "في مكة", "is_correct": true },
+            { "choice_text": "في السنة الثانية للهجرة", "is_correct": false },
+            { "choice_text": "بعد فتح مكة", "is_correct": false },
+            { "choice_text": "في حجة الوداع", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو عيب كتاب 'الفكر السامي' حسب ما ورد في المصادر؟",
+            "difficulty_score": 450,
+            "explanation": "الكتاب جيد في الرصد والجمع لكن لديه مآخذ في تحليل الأحداث والحكم عليها [6].",
+            "choices": [
+            { "choice_text": "ضعف اللغة العربية", "is_correct": false },
+            { "choice_text": "قلة المصادر المعتمدة", "is_correct": false },
+            { "choice_text": "المآخذ في تحليل بعض الأحداث والحكم عليها", "is_correct": true },
+            { "choice_text": "كثرة الأحاديث الضعيفة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو سبب نزول تشريع 'الظهار'؟",
+            "difficulty_score": 200,
+            "explanation": "نزل تشريع الظهار استجابة لسؤال [6].",
+            "choices": [
+            { "choice_text": "حادثة حرب", "is_correct": false },
+            { "choice_text": "سؤال وجه للنبي", "is_correct": true },
+            { "choice_text": "رؤيا منامية", "is_correct": false },
+            { "choice_text": "ابتداءً بدون سبب", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا يُعرف الإجماع بأنه اتفاق علماء العصر 'بعد النبي'؟",
+            "difficulty_score": 500,
+            "explanation": "لأن أي اتفاق في زمن النبي يكتسب حجيته من إقراره فيصبح سنة [7].",
+            "choices": [
+            { "choice_text": "لأن الصحابة لم يتفقوا أبداً في حياته", "is_correct": false },
+            { "choice_text": "لأن السنة التقريرية تغني عنه في حياته", "is_correct": true },
+            { "choice_text": "لأن الوحي كان ينزل بالاعتراض دائماً", "is_correct": false },
+            { "choice_text": "لأن الإجماع لم يكن معروفاً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "بماذا يتميز 'التشريع' عن 'الفقه' في الاصطلاح الدقيق؟",
+            "difficulty_score": 600,
+            "explanation": "التشريع بمعنى إنشاء الأحكام خاص بزمن النبوة، أما ما بعده فهو فقه واجتهاد [8].",
+            "choices": [
+            { "choice_text": "لا فرق بينهما", "is_correct": false },
+            { "choice_text": "التشريع إنشاء للأحكام والفقه اجتهاد في فهمها", "is_correct": true },
+            { "choice_text": "الفقه أعم من التشريع مطلقاً", "is_correct": false },
+            { "choice_text": "التشريع خاص بالقرآن فقط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "إلى ماذا قسم التلمساني الأدلة الشرعية؟",
+            "difficulty_score": 700,
+            "explanation": "قسمها إلى أدلة منشئة (كتاب وسنة) وأدلة متضمنة للدليل (إجماع وقول صحابي) [9].",
+            "choices": [
+            { "choice_text": "أدلة عقلية ونقلية", "is_correct": false },
+            { "choice_text": "أدلة متفق عليها ومختلف فيها", "is_correct": false },
+            { "choice_text": "أدلة منشئة وأدلة متضمنة للدليل", "is_correct": true },
+            { "choice_text": "أدلة قطعية وظنية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي الآية التي استدل بها المصدر على حجية الإجماع وعصمة الأمة؟",
+            "difficulty_score": 550,
+            "explanation": "الاستدلال بقوله تعالى: {وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ} [10].",
+            "choices": [
+            { "choice_text": "آية المائدة 3", "is_correct": false },
+            { "choice_text": "آية النساء 115", "is_correct": true },
+            { "choice_text": "آية الأنعام 91", "is_correct": false },
+            { "choice_text": "آية التوبة 100", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "في حادثة بني قريظة، ما هو التفسير الذي تبناه من صلى العصر في الطريق؟",
+            "difficulty_score": 400,
+            "explanation": "فهموا أن المقصود من النص هو الإسراع والتعجيل وليس حقيقة المكان [11].",
+            "choices": [
+            { "choice_text": "أن الوقت قد فات", "is_correct": false },
+            { "choice_text": "أن النص يقصد به الإسراع والتعجيل", "is_correct": true },
+            { "choice_text": "أن الصلاة في بني قريظة محرمة", "is_correct": false },
+            { "choice_text": "أن النبي غير رأيه", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا لم يرجع معاذ بن جبل للنبي عند كل واقعة في اليمن؟",
+            "difficulty_score": 480,
+            "explanation": "لعدم وجود وسائل اتصال مباشرة كما في العصر الحاضر [12].",
+            "choices": [
+            { "choice_text": "لأنه كان مجتهداً مطلقاً", "is_correct": false },
+            { "choice_text": "لعدم وجود وسائل اتصال مباشرة", "is_correct": true },
+            { "choice_text": "لأن النبي منعه من السؤال", "is_correct": false },
+            { "choice_text": "لبعد المسافة التي تستغرق شهوراً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "هل يجوز التدرج في 'أصل التشريع' اليوم (مثل إباحة الخمر مؤقتاً لحديث عهد)؟",
+            "difficulty_score": 650,
+            "explanation": "لا يجوز لأن التشريع اكتمل وانقطع، والتدرج يكون فقط في التبليغ والتربية [18، 19].",
+            "choices": [
+            { "choice_text": "نعم، قياساً على صدر الإسلام", "is_correct": false },
+            { "choice_text": "لا، لأن التشريع اكتمل وانقطع", "is_correct": true },
+            { "choice_text": "يجوز في بلاد الغرب فقط", "is_correct": false },
+            { "choice_text": "يجوز للضرورة القصوى", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ماذا يجب أن يُلقن من يريد الدخول في الإسلام أولاً؟",
+            "difficulty_score": 220,
+            "explanation": "يُبدأ معه بالشهادتين كما وصى النبي معاذاً [13].",
+            "choices": [
+            { "choice_text": "أحكام الصلاة", "is_correct": false },
+            { "choice_text": "وجوب الختان", "is_correct": false },
+            { "choice_text": "الشهادتان", "is_correct": true },
+            { "choice_text": "تحريم الخمر", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو حكم بقاء المرأة المسلمة تحت زوج كافر؟",
+            "difficulty_score": 380,
+            "explanation": "لا يجوز للمرأة المسلمة البقاء تحت كافر أبداً [14].",
+            "choices": [
+            { "choice_text": "جائز للمصلحة", "is_correct": false },
+            { "choice_text": "محرم ولا يجوز", "is_correct": true },
+            { "choice_text": "مكروه فقط", "is_correct": false },
+            { "choice_text": "جائز إذا كان كتابياً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "هل يصح إسلام المرأة التي ترفض ترك زوجها الكافر في بداية إسلامها؟",
+            "difficulty_score": 850,
+            "explanation": "يصح إسلامها وتأثم ببقائها، لكن بقاؤها على الكفر أعظم شراً من بقائها مع الزوج [15].",
+            "choices": [
+            { "choice_text": "لا يصح إسلامها", "is_correct": false },
+            { "choice_text": "يصح إسلامها مع الحرمة", "is_correct": true },
+            { "choice_text": "إسلامها معلق بشرط الفراق", "is_correct": false },
+            { "choice_text": "لا حرج عليها إطلاقاً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هؤلاء الصحابة أفتى في زمن النبي صلى الله عليه وسلم؟",
+            "difficulty_score": 520,
+            "explanation": "عثمان بن عفان كان ممن أفتى في زمن النبي [16].",
+            "choices": [
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "عمران بن حصين", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هو الصحابي الملقب بـ 'صاحب مدرسة فقهية' وله أتباع يدوّنون علمه؟",
+            "difficulty_score": 680,
+            "explanation": "عبد الله بن مسعود كان صاحب مدرسة ومذهب متبوع [17].",
+            "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": true },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false },
+            { "choice_text": "أنس بن مالك", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما المقصود بـ 'الفقيه بالقوة' عند وصف الصحابة؟",
+            "difficulty_score": 750,
+            "explanation": "امتلاك القدرة والملكة على الاجتهاد لشهود التنزيل وسلامة اللغة [18].",
+            "choices": [
+            { "choice_text": "الذي يفتي بقوة وحزم", "is_correct": false },
+            { "choice_text": "امتلاك الملكة والقدرة على الاستنباط", "is_correct": true },
+            { "choice_text": "الذي يحفظ القرآن كاملاً", "is_correct": false },
+            { "choice_text": "الذي شارك في الغزوات", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من الكتب التالية يعد مصنفاً 'مسنداً'؟",
+            "difficulty_score": 300,
+            "explanation": "مصنف ابن أبي شيبة من المصادر المسندة لفقه الصحابة [19].",
+            "choices": [
+            { "choice_text": "المجموع للنووي", "is_correct": false },
+            { "choice_text": "مصنف ابن أبي شيبة", "is_correct": true },
+            { "choice_text": "المغني لابن قدامة", "is_correct": false },
+            { "choice_text": "الروض المربع", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هو مؤلف كتاب 'الأوسط' الذي يروي فقه الصحابة بالإسناد؟",
+            "difficulty_score": 420,
+            "explanation": "ابن المنذر هو مؤلف كتاب الأوسط [19].",
+            "choices": [
+            { "choice_text": "ابن عبد البر", "is_correct": false },
+            { "choice_text": "ابن المنذر", "is_correct": true },
+            { "choice_text": "ابن جرير الطبري", "is_correct": false },
+            { "choice_text": "ابن حجر", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "كم عدد الصحابة المكثرين من الفتوى الذين يمكن جمع فتاويهم في 'سِفر ضخم'؟",
+            "difficulty_score": 580,
+            "explanation": "هم سبعة من الصحابة كما قرر ابن حزم [20].",
+            "choices": [
+            { "choice_text": "أربعة", "is_correct": false },
+            { "choice_text": "سبعة", "is_correct": true },
+            { "choice_text": "عشرة", "is_correct": false },
+            { "choice_text": "أربعة عشر", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هو الصحابي الذي وُصف بأنه أفقه الناس بعد أبي بكر؟",
+            "difficulty_score": 350,
+            "explanation": "عمر بن الخطاب هو أفقه الصحابة بعد أبي بكر [20].",
+            "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": true },
+            { "choice_text": "زيد بن ثابت", "is_correct": false },
+            { "choice_text": "معاذ بن جبل", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "كم استمرت خلافة عمر بن الخطاب رضي الله عنه؟",
+            "difficulty_score": 150,
+            "explanation": "امتدت خلافته عشر سنوات وستة أشهر [21].",
+            "choices": [
+            { "choice_text": "سنتين", "is_correct": false },
+            { "choice_text": "خمس سنوات", "is_correct": false },
+            { "choice_text": "عشر سنوات وستة أشهر", "is_correct": true },
+            { "choice_text": "اثنتي عشرة سنة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا نُقل عن علي بن أبي طالب فقه كثير جداً؟",
+            "difficulty_score": 620,
+            "explanation": "لأنه تأخرت وفاته فكان آخر الخلفاء موتاً مما سمح بنقل علمه [21].",
+            "choices": [
+            { "choice_text": "لأنه كتب كتباً كثيرة", "is_correct": false },
+            { "choice_text": "لأنه كان يعيش في المدينة دائماً", "is_correct": false },
+            { "choice_text": "لأنه كان آخر الخلفاء موتاً", "is_correct": true },
+            { "choice_text": "لأن النبي أوصى بذلك", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هؤلاء الصحابة كان له 'أتباع يدوّنون علمهم' حسب ابن المديني؟",
+            "difficulty_score": 720,
+            "explanation": "زيد بن ثابت كان من الثلاثة الذين لهم أتباع يدوّنون فقههم [17].",
+            "choices": [
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "زيد بن ثابت", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي أولويات الدعوة كما في حديث معاذ؟",
+            "difficulty_score": 200,
+            "explanation": "التوحيد (شهادة أن لا إله إلا الله) هو أول الأولويات [13].",
+            "choices": [
+            { "choice_text": "الصلاة", "is_correct": false },
+            { "choice_text": "التوحيد", "is_correct": true },
+            { "choice_text": "الزكاة", "is_correct": false },
+            { "choice_text": "بر الوالدين", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "هل كان النبي صلى الله عليه وسلم يُعنف المجتهدين في حياته؟",
+            "difficulty_score": 400,
+            "explanation": "لم يعنف الطائفتين في قصة بني قريظة رغم اختلاف اجتهادهما [22].",
+            "choices": [
+            { "choice_text": "نعم دائماً", "is_correct": false },
+            { "choice_text": "لا (كما في قصة بني قريظة)", "is_correct": true },
+            { "choice_text": "فقط إذا أخطأوا في النص", "is_correct": false },
+            { "choice_text": "كان يعنف من صلى في الطريق", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو مصدر التشريع الذي كان ينزل 'ابتداءً' دون سؤال؟",
+            "difficulty_score": 150,
+            "explanation": "القرآن والسنة كانا ينزلان تارة ابتداءً وتارة بسؤال [6].",
+            "choices": [
+            { "choice_text": "الإجماع", "is_correct": false },
+            { "choice_text": "القياس", "is_correct": false },
+            { "choice_text": "القرآن والسنة", "is_correct": true },
+            { "choice_text": "اجتهاد الصحابة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما معنى 'اجتهد رأيي ولا آلو' في حديث معاذ؟",
+            "difficulty_score": 550,
+            "explanation": "بمعنى أبذل قصارى جهدي في الاستنباط ولا أقصر في ذلك [12].",
+            "choices": [
+            { "choice_text": "أسأل الناس", "is_correct": false },
+            { "choice_text": "أبذل جهدي ولا أقصر", "is_correct": true },
+            { "choice_text": "أنتظر الوحي", "is_correct": false },
+            { "choice_text": "أحكم بالهوى", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا يعتبر وصف 'تاريخ الفقه' أوسع من 'تاريخ التشريع'؟",
+            "difficulty_score": 600,
+            "explanation": "لأن التشريع ينقطع بوفاة النبي، أما الفقه فيشمل كل العصور [23].",
+            "choices": [
+            { "choice_text": "لأنهما مترادفان تماماً", "is_correct": false },
+            { "choice_text": "لأن الفقه يشمل الاجتهاد البشري المستمر", "is_correct": true },
+            { "choice_text": "لأن التشريع خاص باليهود والنصارى", "is_correct": false },
+            { "choice_text": "لأن الفقه نزل قبل التشريع", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي المرحلة التي تسبق 'استقرار المذاهب'؟",
+            "difficulty_score": 300,
+            "explanation": "هي مرحلة الفقه قبل المذاهب (الصحابة والتابعين) [1].",
+            "choices": [
+            { "choice_text": "مرحلة التشريع", "is_correct": false },
+            { "choice_text": "الفقه قبل المذاهب", "is_correct": true },
+            { "choice_text": "مرحلة الجمود", "is_correct": false },
+            { "choice_text": "العصر الحديث", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هذه الممارسات تعد من 'التدرج في تبليغ التشريع' اليوم؟",
+            "difficulty_score": 700,
+            "explanation": "تعليم الناس الإسلام شيئاً فشيئاً دون تغيير الأحكام المستقرة [13].",
+            "choices": [
+            { "choice_text": "إسقاط الصلاة عن المريض بالكلية", "is_correct": false },
+            { "choice_text": "تأخير إعلام المسلم الجديد ببعض الواجبات تأليفاً لقلبه", "is_correct": true },
+            { "choice_text": "إباحة شرب الخمر في عطلة نهاية الأسبوع", "is_correct": false },
+            { "choice_text": "تقليل عدد الركعات للمبتدئين", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو الدليل الذي يعصم علماء الأمة من 'الاجتماع على الخطأ'؟",
+            "difficulty_score": 800,
+            "explanation": "دليل السنة (لا تجتمع أمتي على ضلالة) ودليل القرآن في سورة النساء [10].",
+            "choices": [
+            { "choice_text": "دليل العقل الصرف", "is_correct": false },
+            { "choice_text": "دليل القرآن والسنة", "is_correct": true },
+            { "choice_text": "دليل القياس", "is_correct": false },
+            { "choice_text": "دليل العرف", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هو مؤلف كتاب 'إعلام الموقعين' الذي نقل فيه مراتب الصحابة؟",
+            "difficulty_score": 450,
+            "explanation": "الإمام ابن القيم هو مؤلف الكتاب [24].",
+            "choices": [
+            { "choice_text": "ابن حزم", "is_correct": false },
+            { "choice_text": "ابن القيم", "is_correct": true },
+            { "choice_text": "ابن كثير", "is_correct": false },
+            { "choice_text": "ابن تيمية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا استمرت عناية التشريع في العهد المدني بأصول الدين؟",
+            "difficulty_score": 380,
+            "explanation": "لأن أصول الدين يحتاج إليها الناس في كل عهد [5].",
+            "choices": [
+            { "choice_text": "لأن أهل المدينة كانوا كفاراً", "is_correct": false },
+            { "difficulty_score": 380, "choice_text": "لأن الحاجة إليها مستمرة ودائمة", "is_correct": true },
+            { "choice_text": "لأن القرآن المكي ضاع", "is_correct": false },
+            { "choice_text": "لعدم وجود تشريعات جديدة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هذه المسائل شهدت تدرجاً في 'تشريع الحكم الواحد'؟",
+            "difficulty_score": 500,
+            "explanation": "تحريم الخمر ووجوب الجهاد مرا بعدة مراحل [25].",
+            "choices": [
+            { "choice_text": "تحريم الربا", "is_correct": false },
+            { "choice_text": "تحريم الخمر", "is_correct": true },
+            { "choice_text": "وجوب بر الوالدين", "is_correct": false },
+            { "choice_text": "حكم الصدق", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من هو الصحابي الذي ذُكر أنه أعلم الناس بالفرائض (المواريث)؟",
+            "difficulty_score": 600,
+            "explanation": "زيد بن ثابت هو المتميز في هذا الجانب وكان له مذهب متبوع [17].",
+            "choices": [
+            { "choice_text": "زيد بن ثابت", "is_correct": true },
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي الحكمة من وجود الصحابة 'المجتهدين بالفعل' والذين تصدروا للفتيا؟",
+            "difficulty_score": 420,
+            "explanation": "ليس كل الصحابة تفرغوا للفتيا والقضاء بل تصدت مجموعة منهم لذلك [19].",
+            "choices": [
+            { "choice_text": "لأن البقية كانوا أميين", "is_correct": false },
+            { "choice_text": "بسبب تفاوت اهتماماتهم وتفرغ بعضهم للعلم والقضاء", "is_correct": true },
+            { "choice_text": "لأن النبي منع البقية من الكلام", "is_correct": false },
+            { "choice_text": "لخوفهم من الوقوع في الخطأ فقط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "متى فُرضت الصلاة حسب بعض أهل العلم؟",
+            "difficulty_score": 280,
+            "explanation": "يرى بعض العلماء أنها فرضت في مكة ومن أوائل البعثة [4].",
+            "choices": [
+            { "choice_text": "في مكة", "is_correct": true },
+            { "choice_text": "بعد الهجرة مباشرة", "is_correct": false },
+            { "choice_text": "بعد فتح خيبر", "is_correct": false },
+            { "choice_text": "في السنة العاشرة للهجرة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو الدليل على وجود 'فقهاء' في زمن النبي من الأنصار؟",
+            "difficulty_score": 750,
+            "explanation": "ورد في صحيح مسلم عبارة 'فقال له فقهاء الأنصار' [16].",
+            "choices": [
+            { "choice_text": "آية في سورة البقرة", "is_correct": false },
+            { "choice_text": "حديث في صحيح مسلم", "is_correct": true },
+            { "choice_text": "كتاب لابن خلدون", "is_correct": false },
+            { "choice_text": "وثيقة المدينة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "إلى أي مرحلة ينتمي الفقه في عصر التابعين؟",
+            "difficulty_score": 180,
+            "explanation": "ينتمي للمرحلة الثانية (الفقه قبل المذاهب) [19].",
+            "choices": [
+            { "choice_text": "المرحلة الأولى", "is_correct": false },
+            { "choice_text": "المرحلة الثانية", "is_correct": true },
+            { "choice_text": "المرحلة الثالثة", "is_correct": false },
+            { "choice_text": "المرحلة الرابعة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو وصف 'أتباع المذاهب' للصحابة الثلاثة (ابن مسعود، زيد، ابن عباس)؟",
+            "difficulty_score": 850,
+            "explanation": "وصفوا بأن لهم أرباباً يقلدونهم ويدوّنون علمهم [17].",
+            "choices": [
+            { "choice_text": "مذاهب مؤقتة", "is_correct": false },
+            { "choice_text": "مذاهب مقلدة لها أتباع", "is_correct": true },
+            { "choice_text": "اجتهادات فردية لا تُتبع", "is_correct": false },
+            { "choice_text": "مذاهب خاصة بأهل المدينة فقط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ماذا يفعل المسلم إذا لم يجد نصاً في الكتاب ولا في السنة؟",
+            "difficulty_score": 350,
+            "explanation": "يجتهد رأيه بناءً على قواعد الشرع كما فعل معاذ [12].",
+            "choices": [
+            { "choice_text": "يتوقف تماماً", "is_correct": false },
+            { "choice_text": "يجتهد رأيه", "is_correct": true },
+            { "choice_text": "يحكم بالعرف المحلي حتى لو خالف الدين", "is_correct": false },
+            { "choice_text": "يسأل أهل الكتاب", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من الكتب التالية يعد مصدراً للفقه 'المقارن'؟",
+            "difficulty_score": 400,
+            "explanation": "كتاب المجموع للنووي يعد من كتب الفقه المقارن غير المسندة [24].",
+            "choices": [
+            { "choice_text": "مصنف عبد الرزاق", "is_correct": false },
+            { "choice_text": "كتاب المجموع", "is_correct": true },
+            { "choice_text": "الرسالة للشافعي", "is_correct": false },
+            { "choice_text": "موطأ مالك", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا لم يُنقل عن أبي بكر الصديق فقه كثير كعمر؟",
+            "difficulty_score": 500,
+            "explanation": "بسبب قصر مدة خلافته التي كانت سنتين وبضعة أشهر [21].",
+            "choices": [
+            { "choice_text": "لأنه لم يكن فقيهاً", "is_correct": false },
+            { "choice_text": "لقصر مدة خلافته", "is_correct": true },
+            { "choice_text": "لأنه ضاع فقهه", "is_correct": false },
+            { "choice_text": "لأنه انشغل بالحروب فقط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من الصحابة المكثرين من الفتوى: 'عائشة أم المؤمنين'، ما رتبتها؟",
+            "difficulty_score": 480,
+            "explanation": "هي من السبعة المكثرين الذين يمكن جمع فتاويهم في مجلد ضخم [20].",
+            "choices": [
+            { "choice_text": "من المتوسطين", "is_correct": false },
+            { "choice_text": "من المكثرين (السبعة)", "is_correct": true },
+            { "choice_text": "من المقلين", "is_correct": false },
+            { "choice_text": "لم تفتِ إطلاقاً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو موقف الإسلام من بقاء الكافرة تحت زوجها إذا أسلمت؟",
+            "difficulty_score": 900,
+            "explanation": "بقاؤها مع الزوج منكر ومحرم لكنه لا يبطل إسلامها، والشر أهون من بقائها كافرة [15].",
+            "choices": [
+            { "choice_text": "يجب أن تظل كافرة حتى يطلقها", "is_correct": false },
+            { "choice_text": "تسلم وتؤمر بالفراق ولكن يصح إسلامها", "is_correct": true },
+            { "choice_text": "إسلامها باطل", "is_correct": false },
+            { "choice_text": "لا يجب عليها شيء", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو المصنف الذي ألفه 'عبد الرزاق الصنعاني'؟",
+            "difficulty_score": 320,
+            "explanation": "ألف 'مصنف عبد الرزاق' وهو مرجع مسند لفقه الصحابة [19].",
+            "choices": [
+            { "choice_text": "السنن الكبرى", "is_correct": false },
+            { "choice_text": "مصنف عبد الرزاق", "is_correct": true },
+            { "choice_text": "صحيح مسلم", "is_correct": false },
+            { "choice_text": "فتح الباري", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "بماذا استدل المصدر على أن الصحابة جميعاً مجتهدون 'بالقوة'؟",
+            "difficulty_score": 780,
+            "explanation": "بشهودهم التنزيل وسليقتهم العربية التي تمكنهم من الفهم المباشر [18].",
+            "choices": [
+            { "choice_text": "بأنهم كانوا يقرأون ويكتبون", "is_correct": false },
+            { "choice_text": "بشهود التنزيل وسلامة السليقة العربية", "is_correct": true },
+            { "choice_text": "بإخبار النبي لهم بذلك", "is_correct": false },
+            { "choice_text": "بكثرة رحلاتهم التجارية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي مرحلة تسمى 'مرحلة الجمود والتقليد' عند بعض المصنفين؟",
+            "difficulty_score": 450,
+            "explanation": "بعض المصنفين يطلق هذا الوصف على الفترات المتأخرة من مرحلة المذاهب [26].",
+            "choices": [
+            { "choice_text": "مرحلة الشباب", "is_correct": false },
+            { "choice_text": "مرحلة الجمود والتقليد", "is_correct": true },
+            { "choice_text": "مرحلة النهضة", "is_correct": false },
+            { "choice_text": "مرحلة التشريع", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو التاريخ التقريبي الذي بدأت فيه المذاهب بالاستقرار؟",
+            "difficulty_score": 500,
+            "explanation": "في بدايات المرحلة الثالثة، بعد عصر الصحابة والتابعين [1].",
+            "choices": [
+            { "choice_text": "عام 10هـ", "is_correct": false },
+            { "choice_text": "في القرن الثاني والثالث الهجري", "is_correct": true },
+            { "choice_text": "في العصر الحديث", "is_correct": false },
+            { "choice_text": "في زمن النبوة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا لا يعد قول الصاحبي 'تشريعاً' بالمعنى الإنشائي؟",
+            "difficulty_score": 680,
+            "explanation": "لأن التشريع لا يكون إلا من عند الله ورسوله، وقول الصحابي فهم للكتاب والسنة [27].",
+            "choices": [
+            { "choice_text": "لأنه قد يخطئ", "is_correct": false },
+            { "choice_text": "لأن التشريع إنشائي من الله والرسول فقط", "is_correct": true },
+            { "choice_text": "لأن الصحابة لم يحبوا كلمة تشريع", "is_correct": false },
+            { "choice_text": "لأنه لم يُدون في وقته", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو الرد على من يريد إباحة المحرمات تدرجاً اليوم؟",
+            "difficulty_score": 750,
+            "explanation": "أن التدرج الانشائي انتهى، والشريعة اكتملت بآية (اليوم أكملت لكم دينكم) [18، 19].",
+            "choices": [
+            { "choice_text": "أن هذا جائز بشروط", "is_correct": false },
+            { "choice_text": "أن التشريع اكتمل ولا زيادة فيه ولا نقصان", "is_correct": true },
+            { "choice_text": "أن هذا يرجع لتقدير الحاكم", "is_correct": false },
+            { "choice_text": "أن المحرمات لم تعد موجودة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي الحكمة من 'عدم تعنيف' الطائفتين في قصة بني قريظة؟",
+            "difficulty_score": 820,
+            "explanation": "إقرار لمشروعية الاختلاف السائغ المبني على بذل الوسع في فهم النص [22].",
+            "choices": [
+            { "choice_text": "لأن الموضوع لم يكن مهماً", "is_correct": false },
+            { "choice_text": "لإقرار مبدأ الاجتهاد السائغ", "is_correct": true },
+            { "choice_text": "لأنه لم يسمع بموت أحد", "is_correct": false },
+            { "choice_text": "لأنهم كانوا متعبين", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هؤلاء الصحابة الـ 14 أفتى في زمن النبي؟",
+            "difficulty_score": 580,
+            "explanation": "أبو الدرداء كان ممن ذُكر أنهم أفتوا في زمن النبي [16].",
+            "choices": [
+            { "choice_text": "أبو الدرداء", "is_correct": true },
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "ابن عمر", "is_correct": false },
+            { "choice_text": "ابن عباس", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو التوصيف الذي اختاره المحاضر لمراحل الفقه؟",
+            "difficulty_score": 400,
+            "explanation": "التوصيف التاريخي المجرد من الأحكام (جمود/نهضة) في التقسيم الأساسي [26].",
+            "choices": [
+            { "choice_text": "مرحلة الطفولة والكهولة", "is_correct": false },
+            { "choice_text": "التوصيف التاريخي المجرد", "is_correct": true },
+            { "choice_text": "مرحلة النهضة والجمود", "is_correct": false },
+            { "choice_text": "التقسيم الجغرافي", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما معنى 'توقيف' في الأحكام الشرعية؟",
+            "difficulty_score": 600,
+            "explanation": "أي أنها متوقفة على النص من الشارع ولا مجال للرأي فيها [7].",
+            "choices": [
+            { "choice_text": "إيقاف العمل بالحكم", "is_correct": false },
+            { "choice_text": "توقف الحكم على النص", "is_correct": true },
+            { "choice_text": "تأجيل التشريع", "is_correct": false },
+            { "choice_text": "نسخ الحكم القديم", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا لم يكن هناك اختلاف فقهي كبير في عصر النبوة؟",
+            "difficulty_score": 420,
+            "explanation": "لإمكانية الرجوع للنبي صلى الله عليه وسلم وحسم الخلاف [22].",
+            "choices": [
+            { "choice_text": "لأن الصحابة كانوا نسخة واحدة", "is_correct": false },
+            { "choice_text": "لوجود المرجع النهائي (النبي) لحسم الخلاف", "is_correct": true },
+            { "choice_text": "لعدم وجود مسائل جديدة", "is_correct": false },
+            { "choice_text": "لأنهم لم يكونوا يفهمون الفقه", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هؤلاء الصحابة يعد من 'المكثرين السبعة'؟",
+            "difficulty_score": 520,
+            "explanation": "عبد الله بن عمر من المكثرين السبعة [20].",
+            "choices": [
+            { "choice_text": "عبد الله بن عمر", "is_correct": true },
+            { "choice_text": "معاذ بن جبل", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو دور الإجماع تجاه الأحكام الشرعية؟",
+            "difficulty_score": 750,
+            "explanation": "هو مظهر ومكتشف للحكم الذي نزل به الشرع وليس منشئاً له من العدم [9].",
+            "choices": [
+            { "choice_text": "إنشاء حكم جديد تماماً", "is_correct": false },
+            { "choice_text": "إظهار واكتشاف الحكم الشرعي الأصلي", "is_correct": true },
+            { "choice_text": "إلغاء نصوص الكتاب", "is_correct": false },
+            { "choice_text": "لا دور له", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما المقصود بـ 'سليقة' في سياق اجتهاد الصحابة؟",
+            "difficulty_score": 680,
+            "explanation": "الطبيعة اللغوية العربية الفطرية التي تمكنهم من فهم مراد الله [18].",
+            "choices": [
+            { "choice_text": "قوة الحفظ", "is_correct": false },
+            { "choice_text": "الفطرة اللغوية السليمة", "is_correct": true },
+            { "choice_text": "حسن الخلق", "is_correct": false },
+            { "choice_text": "كثرة المال", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من الكتب الآتية يذكر فقه الصحابة 'بدون إسناد' في الغالب؟",
+            "difficulty_score": 450,
+            "explanation": "كتب الفقه المقارن كالمغني تذكر الأقوال منسوبة دون إسناد كامل في الغالب [24].",
+            "choices": [
+            { "choice_text": "مصنف ابن أبي شيبة", "is_correct": false },
+            { "choice_text": "كتاب المغني", "is_correct": true },
+            { "choice_text": "مصنف عبد الرزاق", "is_correct": false },
+            { "choice_text": "الأوسط لابن المنذر (في أجزائه المسندة)", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو الحكم الذي نزل في مكة ويتعلق بالعبادات العمليّة؟",
+            "difficulty_score": 380,
+            "explanation": "الصلاة هي أبرز ما فُرض في مكة من العبادات العمليّة [4].",
+            "choices": [
+            { "choice_text": "الزكاة بأنصبتها", "is_correct": false },
+            { "choice_text": "الصيام", "is_correct": false },
+            { "choice_text": "الصلاة", "is_correct": true },
+            { "choice_text": "الحج", "is_correct": false }
+            ]
+        }
+    ]
+}

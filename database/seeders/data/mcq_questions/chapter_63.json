@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 63,
+    "questions": [
+        {
+        "question_text": "في أي مرحلة زمنية تركزت أحداث 'المجلس 25' من السيرة النبوية للمصلحين؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن الحديث يدور حول نهاية السنة الخامسة وبدايات السنة السادسة للهجرة [7].",
+        "choices": [
+            { "choice_text": "نهاية السنة الأولى للهجرة", "is_correct": false },
+            { "choice_text": "بداية العهد المكي", "is_correct": false },
+            { "choice_text": "نهاية السنة الخامسة وبداية السادسة للهجرة", "is_correct": true },
+            { "choice_text": "بعد فتح مكة مباشرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحدث التشريعي الذي وُصف بأنه كان 'ثقافة' عند العرب وليس مجرد شراب؟",
+        "difficulty_score": 200,
+        "explanation": "أوضح المصدر أن الخمر لم تكن مجرد شراب بل ثقافة متمحورة حول الفروسيّة والغزل [7].",
+        "choices": [
+            { "choice_text": "الربا", "is_correct": false },
+            { "choice_text": "الخمر", "is_correct": true },
+            { "choice_text": "القمار", "is_correct": false },
+            { "choice_text": "الحجاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قال: 'رأيت الخمر يسيل في سكك المدينة' عند تحريمها؟",
+        "difficulty_score": 300,
+        "explanation": "نقل المصدر عن أنس رضي الله عنه وصفه لهذا المشهد بعد صدور أمر التحريم [8].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "أنس بن مالك", "is_correct": true },
+            { "choice_text": "زيد بن أرقم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القضية المركزية التي تربى عليها الصحابة فسهلت عليهم الامتثال الفوري للتحريم؟",
+        "difficulty_score": 400,
+        "explanation": "الدرس المستفاد هو قضية 'التسليم' المطلق لله ولرسوله في كل أمر ونهي [8].",
+        "choices": [
+            { "choice_text": "قضية الشجاعة في الحروب", "is_correct": false },
+            { "choice_text": "قضية التسليم لله ولرسوله", "is_correct": true },
+            { "choice_text": "قضية الكثرة العددية", "is_correct": false },
+            { "choice_text": "قضية التفوق التجاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأطراف التالية كانت الخمر تظهر بوضوح في دواوين قصائدهم الجاهلية؟",
+        "difficulty_score": 200,
+        "explanation": "أشار المصدر إلى أن جل قصائد الجاهلية لا تخلو من التغزل بالخمر [26].",
+        "choices": [
+            { "choice_text": "شعراء الإسلام", "is_correct": false },
+            { "choice_text": "دواوين العرب في الجاهلية", "is_correct": true },
+            { "choice_text": "قصائد العصر العباسي", "is_correct": false },
+            { "choice_text": "المدائح النبوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "نزل تشريع الحجاب بالتزامن مع زواج النبي صلى الله عليه وسلم من:",
+        "difficulty_score": 300,
+        "explanation": "حدث تشريع الحجاب مع زواج النبي بصحبتنا زينب بنت جحش رضي الله عنها [2].",
+        "choices": [
+            { "choice_text": "عائشة بنت أبي بكر", "is_correct": false },
+            { "choice_text": "خديجة بنت خويلد", "is_correct": false },
+            { "choice_text": "زينب بنت جحش", "is_correct": true },
+            { "choice_text": "سودة بنت زمعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، متى بدأ 'النفاق القوي' يظهر بوضوح في العهد المدني؟",
+        "difficulty_score": 500,
+        "explanation": "بدأ النفاق القوي يرتفع ويظهر بعد غزوة بدر عندما أصبحت للإسلام قوة وشوكة [9].",
+        "choices": [
+            { "choice_text": "قبل الهجرة إلى المدينة", "is_correct": false },
+            { "choice_text": "بعد غزوة بدر", "is_correct": true },
+            { "choice_text": "بعد فتح مكة", "is_correct": false },
+            { "choice_text": "في السنة الأولى للهجرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحدث الذي أدى لانسحاب المنافقين بثلث الجيش؟",
+        "difficulty_score": 400,
+        "explanation": "ظهر نفاقهم بشكل فج عندما انسحبوا بثلث الجيش في غزوة أحد [9].",
+        "choices": [
+            { "choice_text": "غزوة بدر", "is_correct": false },
+            { "choice_text": "غزوة أحد", "is_correct": true },
+            { "choice_text": "فتح خيبر", "is_correct": false },
+            { "choice_text": "صلح الحديبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كثر الكلام عن المنافقين في سورة آل عمران أكثر من سورة الأنفال؟",
+        "difficulty_score": 600,
+        "explanation": "لأن آل عمران مرتبطة بأحد التي ظهر فيها نفاقهم، والأنفال ببدر التي لم يكن فيها منافقون في الجيش [5].",
+        "choices": [
+            { "choice_text": "لأن آل عمران نزلت في مكة", "is_correct": false },
+            { "choice_text": "لارتباط آل عمران بأحداث أحد (التي كشف نفاقهم)", "is_correct": true },
+            { "choice_text": "لأن الأنفال هي أطول سورة", "is_correct": false },
+            { "choice_text": "لأن المنافقين لم يحضروا غزوة أحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الغزوة التي وقع فيها 'سوء تفاهم' بين رجل من المهاجرين ورجل من الأنصار في الطريق؟",
+        "difficulty_score": 400,
+        "explanation": "حدث ذلك في طريق العودة أو الذهاب لغزوة بني المصطلق (المريسيع) [5, 10].",
+        "choices": [
+            { "choice_text": "بني قريظة", "is_correct": false },
+            { "choice_text": "بني المصطلق", "is_correct": true },
+            { "choice_text": "الخندق", "is_correct": false },
+            { "choice_text": "حنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف الذي أطلقه النبي صلى الله عليه وسلم على نداء 'يا للمهاجرين' و 'يا للأنصار' عند قصد التفرق؟",
+        "difficulty_score": 500,
+        "explanation": "قال عنها النبي: 'دعوها فإنها منتنة' لأنها أدت للتفرق الجاهلي [10].",
+        "choices": [
+            { "choice_text": "طيبة", "is_correct": false },
+            { "choice_text": "منتنة", "is_correct": true },
+            { "choice_text": "واجبة", "is_correct": false },
+            { "choice_text": "شريفة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا وصف النبي صلى الله عليه وسلم الأسماء الشرعية (مهاجرين وأنصار) بالمنتن في ذلك الموقف؟",
+        "difficulty_score": 700,
+        "explanation": "لأنها أصبحت داعية للتفرق والتحزب والتعصب بدلاً من الوحدة تحت مظلة الإسلام [11, 28].",
+        "choices": [
+            { "choice_text": "لأن الأسماء في ذاتها قبيحة", "is_correct": false },
+            { "choice_text": "لأنها استُخدمت كوسيلة للتفرقة والتشذرم", "is_correct": true },
+            { "choice_text": "لأن القرآن لم يذكر هذه الأسماء", "is_correct": false },
+            { "choice_text": "لأن النبي أراد إلغاء هذه المسميات تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'رأس النفاق' الذي قال: 'لئن رجعنا إلى المدينة ليخرجن الأعز منها الأذل'؟",
+        "difficulty_score": 200,
+        "explanation": "هذه المقولة الشهيرة هي لعبد الله بن أبي بن سلول [28].",
+        "choices": [
+            { "choice_text": "أبو سفيان بن حرب", "is_correct": false },
+            { "choice_text": "عبد الله بن أبي بن سلول", "is_correct": true },
+            { "choice_text": "حُيي بن أخطب", "is_correct": false },
+            { "choice_text": "مسيلمة الكذاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان موقف عمر بن الخطاب عندما سمع مقولة ابن سلول المسيئة؟",
+        "difficulty_score": 300,
+        "explanation": "طلب عمر من النبي صلى الله عليه وسلم الإذن بضرب عنق المنافق [15].",
+        "choices": [
+            { "choice_text": "سكت وتجاهله", "is_correct": false },
+            { "choice_text": "طلب الإذن بقتله", "is_correct": true },
+            { "choice_text": "ذهب لمصالحته", "is_correct": false },
+            { "choice_text": "دافع عنه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو العلم الشرعي الذي أسسه النبي صلى الله عليه وسلم برفضه قتل ابن سلول؟",
+        "difficulty_score": 800,
+        "explanation": "أسس لفقه 'الموازنة بين المصالح والمفاسد' ومراعاة مآلات الأفعال [15].",
+        "choices": [
+            { "choice_text": "علم المواريث", "is_correct": false },
+            { "choice_text": "فقه الموازنة بين المصالح والمفاسد", "is_correct": true },
+            { "choice_text": "أصول التفسير", "is_correct": false },
+            { "choice_text": "علم القراءات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشاب الصغير الذي نقل للنبي ما قاله ابن سلول؟",
+        "difficulty_score": 400,
+        "explanation": "هو زيد بن أرقم، وكان حينها من صغار شباب الصحابة [16, 29].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "زيد بن أرقم", "is_correct": true },
+            { "choice_text": "أسامة بن زيد", "is_correct": false },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل ابن سلول عندما استدعاه النبي ليسأله عما نقله زيد بن أرقم؟",
+        "difficulty_score": 500,
+        "explanation": "حلف بالله وجحد، وقال إنه لم يقل تلك الكلمة مطلقاً [29].",
+        "choices": [
+            { "choice_text": "اعترف واعتذر", "is_correct": false },
+            { "choice_text": "حلف وجحد قوله", "is_correct": true },
+            { "choice_text": "هرب من المدينة", "is_correct": false },
+            { "choice_text": "طلب المبارزة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصفت سورة المنافقون أيمانهم الكاذبة؟",
+        "difficulty_score": 600,
+        "explanation": "وصفتها بأنهم 'اتخذوا أيمانهم جنة' أي وقاية وستراً للكفر [3].",
+        "choices": [
+            { "choice_text": "جنة (وقاية)", "is_correct": true },
+            { "choice_text": "صدقاً وحقاً", "is_correct": false },
+            { "choice_text": "طريقاً للجنة", "is_correct": false },
+            { "choice_text": "وعداً صادقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي مر بها زيد بن أرقم بعد أن صدّق النبيُّ المنافقَ ظاهرياً؟",
+        "difficulty_score": 700,
+        "explanation": "أصيب بهم شديد ومقتٍ من نفسه حتى خفقت رأسه من شدة الهم [25].",
+        "choices": [
+            { "choice_text": "الفرح الشديد", "is_correct": false },
+            { "choice_text": "الهم الشديد والمقت", "is_correct": true },
+            { "choice_text": "عدم المبالاة", "is_correct": false },
+            { "choice_text": "الغضب من النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف واسى النبي صلى الله عليه وسلم زيد بن أرقم في السفر قبل نزول الوحي؟",
+        "difficulty_score": 800,
+        "explanation": "عرك أذنه وضحك في وجهه، وهي لفتة حنان وتطييب خاطر [17, 25].",
+        "choices": [
+            { "choice_text": "أعطاه مالاً", "is_correct": false },
+            { "choice_text": "عرك أذنه وضحك في وجهه", "is_correct": true },
+            { "choice_text": "نهره أمام الناس", "is_correct": false },
+            { "choice_text": "أمره بالصمت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول من بشّر زيد بن أرقم بعد تبسم النبي في وجهه؟",
+        "difficulty_score": 600,
+        "explanation": "لحق به أبو بكر الصديق وسأله، ثم لحق به عمر بن الخطاب وبشره [17].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "أبو عبيدة بن الجراح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النص القرآني الذي نزل تصديقاً لزيد بن أرقم؟",
+        "difficulty_score": 300,
+        "explanation": "هي سورة المنافقون كاملة، وتحديداً الآية التي ذكرت 'ليخرجن الأعز منها الأذل' [4].",
+        "choices": [
+            { "choice_text": "سورة الكافرون", "is_correct": false },
+            { "choice_text": "سورة المنافقون", "is_correct": true },
+            { "choice_text": "سورة الفتح", "is_correct": false },
+            { "choice_text": "سورة الحجرات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأحداث التالية وقعت أيضاً في غزوة بني المصطلق؟",
+        "difficulty_score": 400,
+        "explanation": "وقعت حادثة الإفك التي اتُهمت فيها أم المؤمنين عائشة رضي الله عنها [12].",
+        "choices": [
+            { "choice_text": "حادثة الإفك", "is_correct": true },
+            { "choice_text": "بيعة الرضوان", "is_correct": false },
+            { "choice_text": "فتح خيبر", "is_correct": false },
+            { "choice_text": "معركة مؤتة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يستمر المنافقون في 'توليد الأذى' للمسلمين كما ورد في التحليل؟",
+        "difficulty_score": 900,
+        "explanation": "لأن مهمتهم هي بث الشائعات وتفريق الصفوف وخدمة مصالح الكفار من الداخل [22, 23].",
+        "choices": [
+            { "choice_text": "بسبب جهلهم بالدين", "is_correct": false },
+            { "choice_text": "لاستهداف المصلحين وفك عضد الأمة", "is_correct": true },
+            { "choice_text": "للحصول على الغنائم فقط", "is_correct": false },
+            { "choice_text": "بسبب حبهم للنبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا يتميز 'منافقو العصر الحالي' وفقاً لرأي المحاضر؟",
+        "difficulty_score": 800,
+        "explanation": "يتميزون بخبرة أكبر وقدرة عالية على صناعة الشائعات الموجهة عبر شبكات التواصل [24].",
+        "choices": [
+            { "choice_text": "بالصدق والصراحة", "is_correct": false },
+            { "choice_text": "بالخبرة العالية في صناعة الشائعات الموجهة", "is_correct": true },
+            { "choice_text": "بقلة عددهم مقارنة بالماضي", "is_correct": false },
+            { "choice_text": "بأنهم لا يؤثرون في المجتمع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الواجب على المصلحين تجاه أساليب المنافقين الحديثة؟",
+        "difficulty_score": 700,
+        "explanation": "يجب أن يكونوا على قدر عالٍ من الوعي واليقظة لمخططاتهم وكشف أساليبهم [18, 24].",
+        "choices": [
+            { "choice_text": "التجاهل التام", "is_correct": false },
+            { "choice_text": "الوعي واليقظة بمكائدهم", "is_correct": true },
+            { "choice_text": "ترك الدعوة", "is_correct": false },
+            { "choice_text": "الانشغال بالخلافات الجانبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الصحابة في بيعة الرضوان (الحديبية)؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن عددهم كان ألفاً وأربعمائة (1400) [6].",
+        "choices": [
+            { "choice_text": "313 صحابي", "is_correct": false },
+            { "choice_text": "1400 صحابي", "is_correct": true },
+            { "choice_text": "10,000 صحابي", "is_correct": false },
+            { "choice_text": "100,000 صحابي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بعد كم سنة من بداية الدعوة وصل عدد المسلمين إلى 1400 في الحديبية؟",
+        "difficulty_score": 500,
+        "explanation": "بعد 13 سنة في مكة و6 سنوات في المدينة، أي حوالي 19 سنة [6, 30].",
+        "choices": [
+            { "choice_text": "5 سنوات", "is_correct": false },
+            { "choice_text": "19 سنة تقريباً", "is_correct": true },
+            { "choice_text": "سنتين فقط", "is_correct": false },
+            { "choice_text": "40 سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم وصل عدد المسلمين في حجة الوداع (بعد سنتين فقط من الفتح)؟",
+        "difficulty_score": 200,
+        "explanation": "وصل العدد إلى حوالي 100 ألف أو 120 ألف [13, 30].",
+        "choices": [
+            { "choice_text": "2000 صحابي", "is_correct": false },
+            { "choice_text": "100 ألف", "is_correct": true },
+            { "choice_text": "مليون صحابي", "is_correct": false },
+            { "choice_text": "50 ألف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق الجوهري بين 'أهل الحديبية' ومن أسلم بعد الفتح؟",
+        "difficulty_score": 900,
+        "explanation": "أهل الحديبية هم الصفوة الذين تربوا طويلاً وثبتوا وقت الردة، بينما الكثير ممن أسلم بعد الفتح ارتدوا [13, 14].",
+        "choices": [
+            { "choice_text": "لا يوجد فرق بينهم", "is_correct": false },
+            { "choice_text": "أهل الحديبية هم الصفوة الذين ثبتوا الأمة", "is_correct": true },
+            { "choice_text": "من أسلم بعد الفتح كانوا أكثر إيماناً", "is_correct": false },
+            { "choice_text": "الفرق في الطول والجسم فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المناطق التي ثبتت على الإسلام وقت الردة؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر مكة، المدينة، الطائف، وجواثا في البحرين [14].",
+        "choices": [
+            { "choice_text": "كل الجزيرة العربية", "is_correct": false },
+            { "choice_text": "مكة والمدينة والطائف وجواثا", "is_correct": true },
+            { "choice_text": "خيبر والشام", "is_correct": false },
+            { "choice_text": "اليمن وعمان فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو ميزان 'العبرة' الحقيقي في الصفوف الإسلامية وفقاً للمصدر؟",
+        "difficulty_score": 700,
+        "explanation": "العبرة ليست بالعدد، بل بالسمات والتربية والنوعية (الكيف لا الكم) [14].",
+        "choices": [
+            { "choice_text": "بكثرة الأموال", "is_correct": false },
+            { "choice_text": "بالسمات والنوعية والتربية", "is_correct": true },
+            { "choice_text": "بالعدد الضخم فقط", "is_correct": false },
+            { "choice_text": "بامتلاك أحدث الأسلحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى وصف المسلمين بـ 'غثاء كغثاء السيل'؟",
+        "difficulty_score": 400,
+        "explanation": "هو تشبيه للكثرة التي لا قيمة لها ولا وزن ولا تأثير [21].",
+        "choices": [
+            { "choice_text": "كثرة قوية جداً", "is_correct": false },
+            { "choice_text": "كثرة عددية بلا وزن ولا تأثير", "is_correct": true },
+            { "choice_text": "القليل من الناس", "is_correct": false },
+            { "choice_text": "الناس الصالحون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يصلح حال المسلمين اليوم بناءً على تجربة السيرة؟",
+        "difficulty_score": 800,
+        "explanation": "من خلال تكوين 'نخبة' من المصلحين المتربين على معاني الإسلام الحقيقية [21].",
+        "choices": [
+            { "choice_text": "بزيادة التعداد السكاني", "is_correct": false },
+            { "choice_text": "بتكوين نخبة صالحة ومتربية", "is_correct": true },
+            { "choice_text": "بالاعتماد على الحلول المادية فقط", "is_correct": false },
+            { "choice_text": "بانتظار المعجزات دون عمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين توجد قصة صلح الحديبية بشكل مفصل (أطول الأحاديث)؟",
+        "difficulty_score": 300,
+        "explanation": "تعد من أطول الأحاديث في صحيح البخاري [27].",
+        "choices": [
+            { "choice_text": "سنن الترمذي", "is_correct": false },
+            { "choice_text": "صحيح البخاري", "is_correct": true },
+            { "choice_text": "تفسير الطبري", "is_correct": false },
+            { "choice_text": "موطأ مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من تدرج القرآن في الحديث عن المنافقين؟",
+        "difficulty_score": 900,
+        "explanation": "كشف أحوالهم وصفاتهم حتى لا يكون المصلحون في غفلة عن شرهم [18].",
+        "choices": [
+            { "choice_text": "لتمجيدهم", "is_correct": false },
+            { "choice_text": "لكشفهم وحماية المصلحين من غائلتهم", "is_correct": true },
+            { "choice_text": "لأنهم لم يكونوا معروفين", "is_correct": false },
+            { "choice_text": "للتصالح معهم دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي أُرسل رحمة للعالمين وتحدثت السيرة عن مواقفه في المجلس؟",
+        "difficulty_score": 100,
+        "explanation": "هو محمد صلى الله عليه وسلم، كما ورد في المقدمة والخاتمة [31, 32].",
+        "choices": [
+            { "choice_text": "عيسى عليه السلام", "is_correct": false },
+            { "choice_text": "محمد صلى الله عليه وسلم", "is_correct": true },
+            { "choice_text": "موسى عليه السلام", "is_correct": false },
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي كان يفعله المنافقون عندما كان النبي يخطب الجمعة؟",
+        "difficulty_score": 500,
+        "explanation": "كانوا يحضرون معه الجمعة والخطب ويسمعون كلامه ومواعظه بينما يبطنون العداء [23].",
+        "choices": [
+            { "choice_text": "كانوا يقاطعونه", "is_correct": false },
+            { "choice_text": "كانوا يحضرون ويسمعون (نفاقاً)", "is_correct": true },
+            { "choice_text": "كانوا يمنعون الناس من الحضور", "is_correct": false },
+            { "choice_text": "كانوا يسافرون دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من حادثة الإفك بخصوص 'مصادر التلقي'؟",
+        "difficulty_score": 700,
+        "explanation": "على المسلم أن ينتبه لمصدر ما يسمع، ولا ينقل كل ما يقال دون تثبت [19].",
+        "choices": [
+            { "choice_text": "نشر كل فضيحة تصلنا", "is_correct": false },
+            { "choice_text": "التثبت من مصادر التلقي والانتباه لها", "is_correct": true },
+            { "choice_text": "تصديق الشائعات فوراً", "is_correct": false },
+            { "choice_text": "عدم قراءة القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بأي عبارة خُتم المجلس 25 من السيرة النبوية للمصلحين؟",
+        "difficulty_score": 200,
+        "explanation": "خُتم بالسلام عليكم ورحمة الله وبركاته والدعاء بالهداية [27, 32].",
+        "choices": [
+            { "choice_text": "انتهى الدرس", "is_correct": false },
+            { "choice_text": "والسلام عليكم ورحمة الله وبركاته", "is_correct": true },
+            { "choice_text": "إلى اللقاء في مكة", "is_correct": false },
+            { "choice_text": "تمت الطباعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف الذي أطلقه المصدر على 'الخمر' بالنسبة للعرب قبل الإسلام؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن الخمر لم تكن مجرد شراب، بل كانت 'ثقافة' متغلغلة في حياة العرب وفروسيتهم.",
+        "choices": [
+            { "choice_text": "تجارة عابرة", "is_correct": false },
+            { "choice_text": "ثقافة حياتية وثيقة", "is_correct": true },
+            { "choice_text": "عادة منبوذة", "is_correct": false },
+            { "choice_text": "شراب مخصص للأغنياء فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت استشكال الصحابة حول من ماتوا وهم يشربون الخمر قبل تحريمها؟",
+        "difficulty_score": 500,
+        "explanation": "أورد المصدر آية من سورة المائدة (ليس على الذين آمنوا وعملوا الصالحات جناح فيما طعموا...) كجواب على هذا الاستشكال.",
+        "choices": [
+            { "choice_text": "البقرة", "is_correct": false },
+            { "choice_text": "المائدة", "is_correct": true },
+            { "choice_text": "النساء", "is_correct": false },
+            { "choice_text": "الأعراف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عندما وقع التفرقة والتحزب في الطريق، ماذا وصف النبي صلى الله عليه وسلم هذا النوع من 'الاصطفافات'؟",
+        "difficulty_score": 400,
+        "explanation": "وصف النبي هذه الاصطفافات الجاهلية التي تفرق الصف المسلم بأنها 'منتنة'.",
+        "choices": [
+            { "choice_text": "فتنة نائمة", "is_correct": false },
+            { "choice_text": "جاهلية منتنة", "is_correct": true },
+            { "choice_text": "أمر مستحب للقوة", "is_correct": false },
+            { "choice_text": "خلاف مسموح به", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفعل الذي قام به المهاجري تجاه الأنصاري وكان سبباً في اندلاع الفتنة الكلامية؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أن المهاجري 'كسع' الأنصاري (أي ضربه بيده أو رجله على دبره).",
+        "choices": [
+            { "choice_text": "شتمه", "is_correct": false },
+            { "choice_text": "كسعه (ضربه)", "is_correct": true },
+            { "choice_text": "سرق ماله", "is_correct": false },
+            { "choice_text": "نازعه في الماء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل المصدر على أن الخمر كانت أساسية في ديوان العرب؟",
+        "difficulty_score": 400,
+        "explanation": "استدل بأن جلّ القصائد الجاهلية تتغزل بالخمر وألوانها وأوانيها.",
+        "choices": [
+            { "choice_text": "بكتب التاريخ فقط", "is_correct": false },
+            { "choice_text": "بقصائد ديوان العرب الجاهلي", "is_correct": true },
+            { "choice_text": "بآثار الأواني المكتشفة", "is_correct": false },
+            { "choice_text": "بروايات العجم عن العرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في فقه الموازنة، ما هي 'المفسدة' التي خشيها النبي لو قتل ابن سلول؟",
+        "difficulty_score": 600,
+        "explanation": "خشي النبي من مفسدة 'تحدث الناس أن محمداً يقتل أصحابه'، مما ينفر القبائل عن الدخول في الإسلام.",
+        "choices": [
+            { "choice_text": "ثورة الأنصار عليه", "is_correct": false },
+            { "choice_text": "هجوم قريش على المدينة", "is_correct": false },
+            { "choice_text": "أن يقال إن محمداً يقتل أصحابه", "is_correct": true },
+            { "choice_text": "ضياع أموال المنافقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة الجسدية التي وصف بها زيد بن أرقم نفسه من شدة الهم؟",
+        "difficulty_score": 700,
+        "explanation": "قال زيد بن أرقم: 'خفقت رأسي من الهم'، تعبيراً عن شدة ضيقه لتكذيب قوله.",
+        "choices": [
+            { "choice_text": "مرض جسده", "is_correct": false },
+            { "choice_text": "خفقت رأسه من الهم", "is_correct": true },
+            { "choice_text": "فقد بصره مؤقتاً", "is_correct": false },
+            { "choice_text": "لم يستطع المشي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر ندرة ذكر المنافقين في سورة الأنفال مقارنة بآل عمران؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الأنفال نزلت في بدر (ولم يكن هناك نفاق ظاهر)، أما آل عمران فنزلت في أحد (حيث ظهر نفاقهم بانسحاب ثلث الجيش).",
+        "choices": [
+            { "choice_text": "لأن الأنفال سورة مكية", "is_correct": false },
+            { "choice_text": "لأن النفاق لم يظهر بقوة إلا بعد انتصار بدر", "is_correct": true },
+            { "choice_text": "لأن سورة آل عمران أطول", "is_correct": false },
+            { "choice_text": "لأن المنافقين لم يشهدوا بدراً أصلاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحدث الذي اعتبره المصدر 'المصيبة الأعظم' في نفس سفر غزوة بني المصطلق؟",
+        "difficulty_score": 400,
+        "explanation": "اعتبر المصدر حادثة الإفك التي تعرضت لها السيدة عائشة المصيبة الأعظم في تلك الرحلة.",
+        "choices": [
+            { "choice_text": "موت أحد الصحابة", "is_correct": false },
+            { "choice_text": "حادثة الإفك", "is_correct": true },
+            { "choice_text": "فقدان الغنائم", "is_correct": false },
+            { "choice_text": "العطش الشديد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التشبيه الذي استخدمه النبي صلى الله عليه وسلم لوصف كثرة المسلمين حين يفقدون هيبتهم؟",
+        "difficulty_score": 100,
+        "explanation": "استخدم وصف 'غثاء كغثاء السيل' للتعبير عن الكثرة بلا وزن.",
+        "choices": [
+            { "choice_text": "كرمل البحر", "is_correct": false },
+            { "choice_text": "كغثاء السيل", "is_correct": true },
+            { "choice_text": "كذرى الجبال", "is_correct": false },
+            { "choice_text": "كجراد منتشر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'حملة الدين' الحقيقيون الذين ثبتوا بعد وفاة النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 600,
+        "explanation": "هم الصفوة (مثل الـ 1400 في الحديبية) الذين تربوا طويلاً على معاني الإسلام وصمدوا وقت الردة.",
+        "choices": [
+            { "choice_text": "كل من أسلم بعد الفتح", "is_correct": false },
+            { "choice_text": "النخبة التي تربت لسنوات طويلة", "is_correct": true },
+            { "choice_text": "الأغنياء من قريش", "is_correct": false },
+            { "choice_text": "أهل اليمن فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما الذي يجعل 'ابتسامة النبي' أغلى عند زيد بن أرقم من 'الخلد في الدنيا'؟",
+        "difficulty_score": 900,
+        "explanation": "لأن الابتسامة تضمنت تصديقاً ضمنياً له، وتطييباً لخاطره المنكسر، وبراءة من تهمة الكذب أمام رسوله.",
+        "choices": [
+            { "choice_text": "لأنها كانت نادرة", "is_correct": false },
+            { "choice_text": "لأنها حملت معنى التصديق والبراءة النفسية", "is_correct": true },
+            { "choice_text": "لأنها كانت في وقت السفر", "is_correct": false },
+            { "choice_text": "لأنها وعد بالجنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من المناطق التالية ذكر المصدر أنها ثبتت على الإسلام وقت الردة (بالإضافة لمكة والمدينة)؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المصدر: مكة، المدينة، الطائف، وجواثا في البحرين.",
+        "choices": [
+            { "choice_text": "خيبر", "is_correct": false },
+            { "choice_text": "الطائف وجواثا", "is_correct": true },
+            { "choice_text": "تبوك", "is_correct": false },
+            { "choice_text": "نجد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة التربوية من 'تدرج التحريم' (كالخمر) في حياة المسلم اليوم؟",
+        "difficulty_score": 700,
+        "explanation": "التركيز على تربية القلوب على 'التسليم' أولاً قبل فرض الأحكام الشاقة.",
+        "choices": [
+            { "choice_text": "إعطاء فرصة للاستمتاع", "is_correct": false },
+            { "choice_text": "تربية النفوس على التسليم لله", "is_correct": true },
+            { "choice_text": "تقليل المعارضة السياسية", "is_correct": false },
+            { "choice_text": "عدم الحاجة للتدرج الآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما الذي يفسد 'العمل والمصلحة' عند المصلحين اليوم؟",
+        "difficulty_score": 800,
+        "explanation": "الغفلة عن سبيل المنافقين وكيدهم وعدم كشف أحوالهم وصفاتهم.",
+        "choices": [
+            { "choice_text": "قلة الإمكانيات المادية", "is_correct": false },
+            { "choice_text": "الغفلة عن كيد المنافقين وأساليبهم", "is_correct": true },
+            { "choice_text": "كثرة الأعداء الخارجيين", "is_correct": false },
+            { "choice_text": "ضيق الوقت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي أُرسل 'رحمة للعالمين' وتناولت السيرة معاملته للمنافقين؟",
+        "difficulty_score": 100,
+        "explanation": "هو النبي محمد صلى الله عليه وسلم.",
+        "choices": [
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "محمد صلى الله عليه وسلم", "is_correct": true },
+            { "choice_text": "يوسف عليه السلام", "is_correct": false },
+            { "choice_text": "سليمان عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حادثة الإفك، هل تأثر 'أهل الفضل' من الصحابة بالشائعات؟",
+        "difficulty_score": 500,
+        "explanation": "نعم، ذكر المصدر أن الشائعة كانت قوية لدرجة أن بعض أهل الفضل من الصحابة تأثروا بها وتكلموا.",
+        "choices": [
+            { "choice_text": "لا، لم يتأثر أحد", "is_correct": false },
+            { "choice_text": "نعم، تأثر بعضهم من باب التأثر بالشائعة", "is_correct": true },
+            { "choice_text": "تأثر المنافقون فقط", "is_correct": false },
+            { "choice_text": "الصحابة كانوا معصومين من السماع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التخصص' الذي برع فيه المنافقون عبر التاريخ وحتى اليوم؟",
+        "difficulty_score": 700,
+        "explanation": "برعوا في 'صناعة الشائعات الموجهة' وبث الكذب والأراجيف لتفريق الصفوف.",
+        "choices": [
+            { "choice_text": "القتال في الصفوف الأولى", "is_correct": false },
+            { "choice_text": "صناعة الشائعات الموجهة والكذب", "is_correct": true },
+            { "choice_text": "بناء المساجد والمدارس", "is_correct": false },
+            { "choice_text": "تأليف الكتب العلمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار الحقيقي الذي ينزل بسببه نصر الله ورحمته على الصف المسلم؟",
+        "difficulty_score": 900,
+        "explanation": "وجود الثبات والصبر والتربية الإيمانية العميقة (النوعية) وليس المراهنة على الأعداد الكبيرة.",
+        "choices": [
+            { "choice_text": "امتلاك الأرقام الضخمة", "is_correct": false },
+            { "choice_text": "النوعية المتربية على الثبات والصبر", "is_correct": true },
+            { "choice_text": "الاعتماد على التقنيات الحديثة فقط", "is_correct": false },
+            { "choice_text": "سرعة الانتشار الإعلامي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من زوجات النبي صلى الله عليه وسلم ترتبط قصتها بحادثة الإفك؟",
+        "difficulty_score": 200,
+        "explanation": "هي السيدة عائشة رضي الله عنها وأرضاها.",
+        "choices": [
+            { "choice_text": "حفصة بنت عمر", "is_correct": false },
+            { "choice_text": "عائشة بنت أبي بكر", "is_correct": true },
+            { "choice_text": "صفية بنت حيي", "is_correct": false },
+            { "choice_text": "ميمونة بنت الحارث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سنة هجرية وقع صلح الحديبية الذي بدأ برؤيا نبوية؟",
+        "difficulty_score": 200,
+        "explanation": "وقع في السنة السادسة للهجرة.",
+        "choices": [
+            { "choice_text": "السنة الثالثة", "is_correct": false },
+            { "choice_text": "السنة الرابعة", "is_correct": false },
+            { "choice_text": "السنة السادسة", "is_correct": true },
+            { "choice_text": "السنة الثامنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرؤيا التي رآها النبي صلى الله عليه وسلم وكانت سبباً في خروج الصحابة للحديبية؟",
+        "difficulty_score": 300,
+        "explanation": "رأى أنه وأصحابه يطوفون بالبيت آمنين محلقين رؤوسهم ومقصرين.",
+        "choices": [
+            { "choice_text": "رأى فتح مكة بالسيف", "is_correct": false },
+            { "choice_text": "رأى الطواف بالبيت آمنين", "is_correct": true },
+            { "choice_text": "رأى هزيمة الروم", "is_correct": false },
+            { "choice_text": "رأى نزول المطر بالكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كانت المدة الزمنية تقريباً من بداية النبوة حتى وصل العدد لـ 1400 صحابي في الحديبية؟",
+        "difficulty_score": 500,
+        "explanation": "حوالي 19 سنة (13 في مكة و6 في المدينة).",
+        "choices": [
+            { "choice_text": "10 سنوات", "is_correct": false },
+            { "choice_text": "19 سنة تقريباً", "is_correct": true },
+            { "choice_text": "23 سنة", "is_correct": false },
+            { "choice_text": "سنة واحدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل المسلمون بالخمر في المدينة فور سماعهم بآية التحريم النهائية؟",
+        "difficulty_score": 400,
+        "explanation": "أراقوا الخمر في الطرقات فوراً استسلاماً لأمر الله.",
+        "choices": [
+            { "choice_text": "باعوها للمنافقين", "is_correct": false },
+            { "choice_text": "أراقوها في سكك المدينة", "is_correct": true },
+            { "choice_text": "شربوا ما بقي منها ثم توقفوا", "is_correct": false },
+            { "choice_text": "خزنوها للذكرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المقصود بكلمة 'جنة' في قوله تعالى عن المنافقين (اتخذوا أيمانهم جنة)؟",
+        "difficulty_score": 600,
+        "explanation": "المقصود بها 'وقاية' أو ستراً يتسترون به ليحموا أنفسهم من العقاب.",
+        "choices": [
+            { "choice_text": "بستاناً جميلاً", "is_correct": false },
+            { "choice_text": "وقاية وستراً", "is_correct": true },
+            { "choice_text": "وعداً بالخلد", "is_correct": false },
+            { "choice_text": "صدقاً مطلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'العم' الذي أخبر زيد بن أرقم بأن النبي صلى الله عليه وسلم كذبه وصدق المنافق؟",
+        "difficulty_score": 700,
+        "explanation": "ذكرت الرواية أن عمه (أو من كان معه) هو من عاتبه وأحزنه بهذا الكلام.",
+        "choices": [
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "عمه (الذي كان معه في السفر)", "is_correct": true },
+            { "choice_text": "أبو لهب", "is_correct": false },
+            { "choice_text": "العباس بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي حديث الحديبية بأنه من 'أطول الأحاديث' في صحيح البخاري؟",
+        "difficulty_score": 400,
+        "explanation": "لتعدد تفاصيله، ومفاوضاته، والأحداث الكبيرة التي جرت فيه.",
+        "choices": [
+            { "choice_text": "لأنه يتحدث عن الصلاة", "is_correct": false },
+            { "choice_text": "لكثرة تفاصيله ومجرياته الطويلة", "is_correct": true },
+            { "choice_text": "لأنه أخر حديث في الكتاب", "is_correct": false },
+            { "choice_text": "لأنه حديث قدسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من 'مقت' المسلمين لزيد بن أرقم قبل نزول الوحي؟",
+        "difficulty_score": 800,
+        "explanation": "يظهر كيف يمكن للشائعات والمظاهر أن تقلب المجتمع ضد الشخص الصادق قبل استجلاء الحقيقة.",
+        "choices": [
+            { "choice_text": "أن زيداً كان مخطئاً", "is_correct": false },
+            { "choice_text": "خطورة غياب التثبت وتأثير الشائعة على المجتمع", "is_correct": true },
+            { "choice_text": "أن المنافقين كانوا صادقين", "is_correct": false },
+            { "choice_text": "عدم أهمية الصدق في الحرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سياق تم ذكر مدينة 'جواثا' في المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "ذُكرت كأحد الأماكن القليلة التي ثبتت على الإسلام وقت الردة الكبرى.",
+        "choices": [
+            { "choice_text": "موقع لغزوة كبيرة", "is_correct": false },
+            { "choice_text": "مكان ثبت على الإسلام وقت الردة", "is_correct": true },
+            { "choice_text": "محل نزول آيات الحجاب", "is_correct": false },
+            { "choice_text": "طريق هجرة النبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أبو بكر الصديق لزيد بن أرقم بعد أن رأى تبسم النبي في وجهه؟",
+        "difficulty_score": 700,
+        "explanation": "لحق به وسأله: 'ما قال لك رسول الله؟' فرد زيد بأنه لم يقل شيئاً بل عرك أذنه وضحك.",
+        "choices": [
+            { "choice_text": "بشره بالجنة", "is_correct": false },
+            { "choice_text": "سأله عما قاله له النبي", "is_correct": true },
+            { "choice_text": "نصحه بالسكوت", "is_correct": false },
+            { "choice_text": "أعطاه طعاماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبرة من مقارنة 'الـ 1400' بـ 'الـ 100 ألف' في السيرة؟",
+        "difficulty_score": 900,
+        "explanation": "أن الـ 1400 هم الذين صنعوا النصر الحقيقي وثبتوا الأمة، بينما الكثرة المتأخرة كانت تابعة.",
+        "choices": [
+            { "choice_text": "أن الكثرة دائماً أفضل", "is_correct": false },
+            { "choice_text": "أن النوعية والتربية تسبق الكم العددي", "is_correct": true },
+            { "choice_text": "أن الـ 100 ألف كانوا أشجع", "is_correct": false },
+            { "choice_text": "لا توجد عبرة من المقارنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان تعامل النبي صلى الله عليه وسلم مع 'نفسيات' صغار الصحابة كزيد بن أرقم؟",
+        "difficulty_score": 800,
+        "explanation": "كان تعاملاً رحيماً يراعي خواطرهم ويجبر كسرهم بالابتسامة واللمسة الحانية.",
+        "choices": [
+            { "choice_text": "كان يتجاهلهم لصغر سنهم", "is_correct": false },
+            { "choice_text": "كان يراعي نفسياتهم ويجبر خواطرهم", "is_correct": true },
+            { "choice_text": "كان يكلفهم بما لا يطيقون", "is_correct": false },
+            { "choice_text": "كان يعاقبهم بشدة على الخطأ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من كشف الله لسبيل المنافقين في القرآن؟",
+        "difficulty_score": 500,
+        "explanation": "حتى لا يكون المصلحون في غفلة عنهم، وحتى يستبين سبيل المجرمين.",
+        "choices": [
+            { "choice_text": "لإعطائهم فرصة أكبر", "is_correct": false },
+            { "choice_text": "حتى يتقي المصلحون شرهم ويعرفوا أحوالهم", "is_correct": true },
+            { "choice_text": "لزيادة عدد صفحات القرآن", "is_correct": false },
+            { "choice_text": "لأنه لا يوجد أعداء غيرهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الآخر الذي أطلقه المصدر على غزوة 'بني المصطلق'؟",
+        "difficulty_score": 200,
+        "explanation": "تُسمى أيضاً غزوة 'المريسيع'.",
+        "choices": [
+            { "choice_text": "غزوة الخندق", "is_correct": false },
+            { "choice_text": "غزوة المريسيع", "is_correct": true },
+            { "choice_text": "غزوة الغابة", "is_correct": false },
+            { "choice_text": "غزوة ذي قرد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'زمن الفضائح' الذي أشار إليه المصدر في سياق الحديث عن الشائعات؟",
+        "difficulty_score": 600,
+        "explanation": "أشار إلى زمن شبكات التواصل الاجتماعي المعاصر الذي يسهل نشر الفضائح المفبركة.",
+        "choices": [
+            { "choice_text": "عصر النهضة", "is_correct": false },
+            { "choice_text": "زمن شبكات التواصل الاجتماعي", "is_correct": true },
+            { "choice_text": "عصور ما قبل التاريخ", "is_correct": false },
+            { "choice_text": "العصر العباسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من القائل: 'ما أردت إلا أن مقتك رسول الله وكذبك والمسلمون' لزيد بن أرقم؟",
+        "difficulty_score": 800,
+        "explanation": "هذه العبارة العاتبة وجهها عمر بن الخطاب لزيد (قبل نزول براءته).",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الواجب على المسلم تجاه 'مصادر التلقي' وفقاً لدرس حادثة الإفك؟",
+        "difficulty_score": 700,
+        "explanation": "الانتباه لمصدر الكلام وعدم جعل الأذن وعاءً لكل ما يقال دون تثبت.",
+        "choices": [
+            { "choice_text": "تصديق كل ما يسمع", "is_correct": false },
+            { "choice_text": "الانتباه لمصدر التلقي والتثبت", "is_correct": true },
+            { "choice_text": "نشر الأخبار بسرعة", "is_correct": false },
+            { "choice_text": "إغلاق الأذنين تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر وضع المنافقين في مرحلة نزول سورة المنافقون؟",
+        "difficulty_score": 900,
+        "explanation": "وصفهم بأنهم كانوا في 'الذروة' أو في مرحلة عالية جداً من الكيد والسعي.",
+        "choices": [
+            { "choice_text": "في مرحلة الضعف", "is_correct": false },
+            { "choice_text": "في ذروة كيدهم وسعيهم ومكرهم", "is_correct": true },
+            { "choice_text": "في مرحلة التوبة", "is_correct": false },
+            { "choice_text": "في مرحلة الهروب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة الأساسية التي كان النبي يبنيها في 'النخبة' من أصحابه؟",
+        "difficulty_score": 800,
+        "explanation": "قيمة التسليم، الصبر، الثبات، والتربية العميقة على معاني الإسلام.",
+        "choices": [
+            { "choice_text": "قيمة جمع الغنائم", "is_correct": false },
+            { "choice_text": "قيمة التسليم والثبات والتربية النوعية", "is_correct": true },
+            { "choice_text": "قيمة المنافسة على المناصب", "is_correct": false },
+            { "choice_text": "قيمة العزلة عن الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء الذي ختم به المحاضر المجلس في نهاية المصدر؟",
+        "difficulty_score": 100,
+        "explanation": "دعا بأن يجمعنا الله بالنبي صلى الله عليه وسلم في جنته.",
+        "choices": [
+            { "choice_text": "أن يرزقنا المال", "is_correct": false },
+            { "choice_text": "أن يجمعنا بنبيه في جنته", "is_correct": true },
+            { "choice_text": "أن يطيل أعمارنا", "is_correct": false },
+            { "choice_text": "أن نفتح بلاد الروم", "is_correct": false }
+        ]
+    }
+]
+    }

@@ -1,0 +1,884 @@
+{
+    "chapter_id": 16,
+    "questions": [
+    {
+        "question_text": "ما هو المعيار الحقيقي للقوة الذي ركزت عليه المصادر في سياق 'سوية المؤمن'؟",
+        "difficulty_score": 100,
+        "explanation": "المصادر تؤكد أن القوة الحقيقية هي قوة النفس وليست قوة العضلات الجسدية [32].",
+        "choices": [
+            { "choice_text": "القوة الجسدية وبناء العضلات", "is_correct": false },
+            { "choice_text": "قوة النفس والسيطرة الداخلية", "is_correct": true },
+            { "choice_text": "كثرة المال والجاه", "is_correct": false },
+            { "choice_text": "القدرة على صرع الآخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من المفاهيم التالية يرتبط بالضعف كما ورد في 'قاموس الضعف' بالمصدر؟",
+        "difficulty_score": 200,
+        "explanation": "المصدر أورد 'الهشاشة' كواحدة من المفاهيم المتصلة بالضعف [2].",
+        "choices": [
+            { "choice_text": "الثبات", "is_correct": false },
+            { "choice_text": "النخوة", "is_correct": false },
+            { "choice_text": "الهشاشة", "is_correct": true },
+            { "choice_text": "الحمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'مركز القوة' الذي إذا نُزع من الإنسان لا يصح وصفه بالقوي؟",
+        "difficulty_score": 350,
+        "explanation": "الانتصار على الذات هو المعنى المركزي الذي تؤكده الشريعة للقوة [1].",
+        "choices": [
+            { "choice_text": "القدرة المالية", "is_correct": false },
+            { "choice_text": "الانتصار على الذات", "is_correct": true },
+            { "choice_text": "التفوق العلمي", "is_correct": false },
+            { "choice_text": "البيان الفصيح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "اجتماع 'العلم والتجربة' يؤدي بالضرورة إلى تكوين:",
+        "difficulty_score": 450,
+        "explanation": "المصدر ينص على أن قوة الرأي لا تأتي غالباً إلا باجتماع العلم والتجربة [3].",
+        "choices": [
+            { "choice_text": "قوة العزيمة", "is_correct": false },
+            { "choice_text": "قوة الرأي", "is_correct": true },
+            { "choice_text": "قوة الجسد", "is_correct": false },
+            { "choice_text": "قوة السلطة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'الجبن' عائقاً أمام قيام الإسلام في النفس والمجتمع؟",
+        "difficulty_score": 600,
+        "explanation": "الجبن يمثل حجاباً غليظاً يمنع الثبات والانتصار على النفس والشيطان [33, 34].",
+        "choices": [
+            { "choice_text": "لأنه يقلل الموارد المالية", "is_correct": false },
+            { "choice_text": "لأنه يمنع الثبات ويؤدي للمذلة", "is_correct": true },
+            { "choice_text": "لأنه يضعف البنية الجسدية", "is_correct": false },
+            { "choice_text": "لأنه يؤدي لقلة النوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في سياق الرموز الإسلامية، ما هو السبب الحقيقي لانحراف البعض وتبني أقوال باطلة؟",
+        "difficulty_score": 750,
+        "explanation": "المصدر يوضح أن السبب هو الضعف والجبن عن تحمل نتائج الوقوف مع الحق، وليس تجدد الأدلة [16].",
+        "choices": [
+            { "choice_text": "اكتشاف أدلة شرعية جديدة", "is_correct": false },
+            { "choice_text": "تغير القناعات الفكرية المحضة", "is_correct": false },
+            { "choice_text": "الضعف والجبن عن تحمل النتائج", "is_correct": true },
+            { "choice_text": "الرغبة في التجديد الفكري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين 'الضعف المذموم' و'الضعف الممتدح' في ضوء الأحاديث النبوية؟",
+        "difficulty_score": 900,
+        "explanation": "المذموم هو خور النفس واستسلامها للهوى، أما الممتدح فهو اللين والتواضع وعدم الاستكبار [18, 35].",
+        "choices": [
+            { "choice_text": "لا يوجد فرق فكلاهما مذموم", "is_correct": false },
+            { "choice_text": "الممتدح هو ضعف البنية والمذموم ضعف العقل", "is_correct": false },
+            { "choice_text": "المذموم استسلام للهوى والممتدح لين وتواضع", "is_correct": true },
+            { "choice_text": "المذموم قلة المال والممتدح كثرة العبادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة الطبيعية لغياب 'قوة الرأي' لدى الشخص حتى لو امتلك عزيمة؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر يذكر أن فساد الرأي هو التردد، وقوة الرأي هي القاعدة التي تنطلق منها العزمية، وبدونها يفتقر العمل للأساس السليم [1, 2].",
+        "choices": [
+            { "choice_text": "النجاح السريع", "is_correct": false },
+            { "choice_text": "التردد والتخبط في القرار", "is_correct": true },
+            { "choice_text": "زيادة الثقة بالنفس", "is_correct": false },
+            { "choice_text": "الاستقرار النفسي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأوصاف التالية اعتبره المصدر 'شر ما في الرجل' بناءً على الحديث النبوي؟",
+        "difficulty_score": 200,
+        "explanation": "النبي صلى الله عليه وسلم وصف 'شح هالع وجبن خالع' بأنه شر ما في الرجل [3].",
+        "choices": [
+            { "choice_text": "الفقر والمرض", "is_correct": false },
+            { "choice_text": "الشح الهالع والجبن الخالع", "is_correct": true },
+            { "choice_text": "قلة العلم والتجربة", "is_correct": false },
+            { "choice_text": "التعب والإرهاق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر علاقة الشيطان بالفرار يوم الزحف في سورة آل عمران؟",
+        "difficulty_score": 650,
+        "explanation": "المصدر يوضح أن الشيطان هو الذي 'استزلهم' من خلال تغذية 'نهر الجبن' لديهم [4].",
+        "choices": [
+            { "choice_text": "أن الشيطان أجبرهم جسدياً على الهرب", "is_correct": false },
+            { "choice_text": "أن الشيطان وسوس لهم بضعف إمكاناتهم", "is_correct": false },
+            { "choice_text": "أنه استزلهم بذنوبهم وغذى فيهم صفة الجبن", "is_correct": true },
+            { "choice_text": "لا علاقة للشيطان بمواطن القتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'العجز الاختياري' الذي حذر منه النبي في قوله 'ولا تعجز'؟",
+        "difficulty_score": 550,
+        "explanation": "هو العجز الذي يضعه الإنسان لنفسه مثل التسويف والخوف من الخطأ رغم قدرته على الفعل [5, 6].",
+        "choices": [
+            { "choice_text": "العجز الجسدي الناتج عن المرض", "is_correct": false },
+            { "choice_text": "عدم توفر الأدوات المادية للعمل", "is_correct": false },
+            { "choice_text": "العجز الذي يصنعه الإنسان بقراره وتكاسله", "is_correct": true },
+            { "choice_text": "الجهل بالأمور العلمية المعقدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في مقارنة المصدر بين أبي عبيدة بن الجراح وخالد بن الوليد، ما هو وجه قوة أبي عبيدة الأبرز؟",
+        "difficulty_score": 700,
+        "explanation": "المصدر ذكر أن وجه القوة الأساسي لأبي عبيدة كان في 'أمانته'، وهي التي جعلت عمر يفضله للاستخلاف [7].",
+        "choices": [
+            { "choice_text": "السرعة في الكر والفر", "is_correct": false },
+            { "choice_text": "القوة الجسدية الهائلة", "is_correct": false },
+            { "choice_text": "صفة الأمانة التي تغلف القوة وتوجهها", "is_correct": true },
+            { "choice_text": "البيان والفصاحة في الخطابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ينحرف بعض 'الرموز' ويتبنون أفكاراً باطلة وفق تحليل المصدر؟",
+        "difficulty_score": 850,
+        "explanation": "السبب ليس نقص الأدلة، بل الجبن والضعف عن تحمل نتائج الوقوف مع الحق [8].",
+        "choices": [
+            { "choice_text": "بسبب اكتشاف نصوص شرعية غائبة", "is_correct": false },
+            { "choice_text": "بسبب الضعف والجبن عن تحمل تبعات الحق", "is_correct": true },
+            { "choice_text": "بسبب ضغوط مالية واقتصادية", "is_correct": false },
+            { "choice_text": "بسبب الرغبة في التجديد الفلسفي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المقصود بـ 'الضعف الممتدح' في حديث 'أهل الجنة كل ضعيف متضعف'؟",
+        "difficulty_score": 900,
+        "explanation": "هو اللين، السهولة، التواضع، وعدم التكبر، وليس خور النفس أو استسلامها للهوى [9, 10].",
+        "choices": [
+            { "choice_text": "العجز عن اتخاذ القرارات المصيرية", "is_correct": false },
+            { "choice_text": "اللين والتواضع الذي لا يحجبه الكبر عن الحق", "is_correct": true },
+            { "choice_text": "ضعف البنية الجسدية وقلة الحيلة", "is_correct": false },
+            { "choice_text": "الاستسلام للظلم دون مقاومة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه المفاهيم يعتبر 'أعظم مستمدات القوة' النفسية في مواجهة المصائب؟",
+        "difficulty_score": 500,
+        "explanation": "الإيمان بالقضاء والقدر يكف النفس عن الجزع ويمنع 'لو' السلبية [11].",
+        "choices": [
+            { "choice_text": "التدريب البدني الشاق", "is_correct": false },
+            { "choice_text": "الإيمان بالقضاء والقدر", "is_correct": true },
+            { "choice_text": "تراكم الأموال والثروات", "is_correct": false },
+            { "choice_text": "الاعتماد على الحلفاء الأقوياء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني صورة 'النملة' التي ذكرها المصدر في سياق الضعف؟",
+        "difficulty_score": 300,
+        "explanation": "تعبر عن الشخص الذي يضخم التحديات الصغيرة ويراها جبالاً (تضخيم المشكلات) [12].",
+        "choices": [
+            { "choice_text": "الاجتهاد والمثابرة في العمل", "is_correct": false },
+            { "choice_text": "تضخيم المشكلات الصغيرة ورؤيتها كعقبات كبرى", "is_correct": true },
+            { "choice_text": "العمل الجماعي والمنظم", "is_correct": false },
+            { "choice_text": "القدرة على تحمل الأعباء الثقيلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الثبات على 'أحب العمل إلى الله أدومه وإن قل' يحتاج إلى:",
+        "difficulty_score": 450,
+        "explanation": "المصدر يذكر أن المواظبة المستمرة على العمل الصالح (التطوع) تتطلب قوة نفسية [13, 14].",
+        "choices": [
+            { "choice_text": "قوة جسدية فقط", "is_correct": false },
+            { "choice_text": "قوة نفسية للمواظبة والالتزام", "is_correct": true },
+            { "choice_text": "تشجيع مستمر من الآخرين", "is_correct": false },
+            { "choice_text": "توفر وقت فراغ كبير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الركن 'القلبي العملي' في استمداد القوة من الله؟",
+        "difficulty_score": 600,
+        "explanation": "المصدر يقسم الاستمداد إلى اعتقادي (معرفة الله) وعملي (الاعتصام والتوكل) [15].",
+        "choices": [
+            { "choice_text": "حفظ أسماء الله الحسنى", "is_correct": false },
+            { "choice_text": "الاعتصام والتوكل", "is_correct": true },
+            { "choice_text": "دراسة كتب العقيدة", "is_correct": false },
+            { "choice_text": "الصيام والقيام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لابن حزم، لماذا يعتبر 'الجبن' أصلاً من أصول الرذائل؟",
+        "difficulty_score": 750,
+        "explanation": "لأن الجبان قد يخون، أو يرتد، أو يتقلب مع الأقوى لحماية نفسه [16].",
+        "choices": [
+            { "choice_text": "لأنه يؤدي إلى الفقر", "is_correct": false },
+            { "choice_text": "لأنه يمنع صاحبه من النوم ليلاً", "is_correct": false },
+            { "choice_text": "لأنه يولد سلسلة من الأخلاق السيئة كالخيانة", "is_correct": true },
+            { "choice_text": "لأنه يضعف الذاكرة والتركيز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الموقف الذي استشهد به المصدر ليوضح 'قوة التوكل' بعد هزيمة أحد؟",
+        "difficulty_score": 800,
+        "explanation": "الاستشهاد بقول الصحابة 'حسبنا الله ونعم الوكيل' عندما قيل لهم إن الناس قد جمعوا لكم [17].",
+        "choices": [
+            { "choice_text": "الانسحاب التكتيكي من المعركة", "is_correct": false },
+            { "choice_text": "قول 'حسبنا الله ونعم الوكيل' والثبات رغم الجراح", "is_correct": true },
+            { "choice_text": "طلب المدد العسكري من القبائل المجاورة", "is_correct": false },
+            { "choice_text": "البحث عن الغنائم لتعويض الخسارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تعتبر 'صحبة الأقوياء' وسيلة لكسب القوة؟",
+        "difficulty_score": 350,
+        "explanation": "لأن مخالطة ذوي الهمم تؤثر إيجابياً في النفس، بينما صحبة الخاملين تجذب الشخص للأرض [18].",
+        "choices": [
+            { "choice_text": "لأنهم يوفرون الحماية المادية", "is_correct": false },
+            { "choice_text": "لأن الهمم والعزائم تُكتسب بالمحاكاة والمخالطة", "is_correct": true },
+            { "choice_text": "لأنهم يمتلكون نفوذاً واسعاً", "is_correct": false },
+            { "choice_text": "لأنهم يوزعون الأموال على أصحابهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين كراهية الموت وبين 'الجبن' كما وضحته السيدة عائشة؟",
+        "difficulty_score": 900,
+        "explanation": "كراهية الموت فطرية وطبيعية، أما الجبن فهو الهلع والفرار الذي يعيق القوة [19].",
+        "choices": [
+            { "choice_text": "لا فرق بينهما فكلاهما ضعف", "is_correct": false },
+            { "choice_text": "الكراهية فطرية بينما الجبن هو الهلع المذموم", "is_correct": true },
+            { "choice_text": "الجبن فطري والكراهية مكتسبة", "is_correct": false },
+            { "choice_text": "كلاهما من صفات المؤمن القوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الصور تعتبر 'حجاباً غليظاً' يمنع قيام الإسلام في النفس؟",
+        "difficulty_score": 600,
+        "explanation": "المصدر ينص على أن الإسلام لا يقوم ولا يمكن الثبات عليه مع وجود صفة الجبن [4, 20].",
+        "choices": [
+            { "choice_text": "الفقر الشديد", "is_correct": false },
+            { "choice_text": "صفة الجبن", "is_correct": true },
+            { "choice_text": "قلة الأصدقاء", "is_correct": false },
+            { "choice_text": "السفر الدائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار الذي جعل 'ضعفاء القوم' أتباعاً للرسل تاريخياً؟",
+        "difficulty_score": 850,
+        "explanation": "المقصود بالضعف هنا هو التواضع واللين وعدم وجود كبر يمنعهم من اتباع الحق [21].",
+        "choices": [
+            { "choice_text": "عدم قدرتهم على التفكير المستقل", "is_correct": false },
+            { "choice_text": "فقرهم الشديد الذي أجبرهم على ذلك", "is_correct": false },
+            { "choice_text": "تواضعهم وعدم احتجابهم برؤية عظمة أنفسهم", "is_correct": true },
+            { "choice_text": "خوفهم من بطش المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، المؤمن الذي يذنب ثم يتوب ولا يستسلم لليأس يعتبر:",
+        "difficulty_score": 700,
+        "explanation": "يعتبر محافظاً على جانب القوة لأنه لم يستسلم لجاذبية 'الأرض' (الهوى) بالكامل [22, 23].",
+        "choices": [
+            { "choice_text": "ضعيفاً جداً وفاقداً للإيمان", "is_correct": false },
+            { "choice_text": "قوياً طالما أنه يقاوم ويحاول التعويض", "is_correct": true },
+            { "choice_text": "منافقاً لأنه يجمع بين الطاعة والمعصية", "is_correct": false },
+            { "choice_text": "خارجاً عن دائرة 'سوية المؤمن'", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'اليقين' في قصة طالوت كما ورد في المصادر؟",
+        "difficulty_score": 550,
+        "explanation": "اليقين بلقاء الله هو الذي أبقى الفئة القليلة ثابتة في مواجهة جالوت [24].",
+        "choices": [
+            { "choice_text": "توفير السلاح المناسب للقتال", "is_correct": false },
+            { "choice_text": "كان هو المحرك والدافع للثبات رغم القلة", "is_correct": true },
+            { "choice_text": "تحويل الماء إلى شراب منعش", "is_correct": false },
+            { "choice_text": "إقناع جالوت بالانسحاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يسقط 'الضعيف' في اختبار الأمانة وفقاً لابن تيمية؟",
+        "difficulty_score": 750,
+        "explanation": "يسقط عند ورود الشبهات أو الابتلاء في الأهل والمال لنقص يقينه [25, 26].",
+        "choices": [
+            { "choice_text": "يسقط في حالات الرخاء فقط", "is_correct": false },
+            { "choice_text": "عند الابتلاء بالشبهات أو اختبار المحبوبات", "is_correct": true },
+            { "choice_text": "بمجرد سماع المواعظ الدينية", "is_correct": false },
+            { "choice_text": "عندما يزداد ماله وجاهه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط الذي وضعه المصدر بين 'الثبات' و'اليقين' في قصة طالوت؟",
+        "difficulty_score": 500,
+        "explanation": "المصدر يذكر أن الثبات ينزع من مشكاة اليقين، واليقين بلقاء الله هو الذي ثبت الفئة القليلة [1, 2].",
+        "choices": [
+            { "choice_text": "اليقين هو نتيجة للثبات الجسدي", "is_correct": false },
+            { "choice_text": "الثبات يُستمد من مشكاة اليقين بلقاء الله", "is_correct": true },
+            { "choice_text": "اليقين يقلل من الرغبة في الثبات", "is_correct": false },
+            { "choice_text": "لا توجد علاقة بينهما في قصة طالوت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'يظنون' في آية (الذين يظنون أنهم ملاقو الله) كما فسرها المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "فسر المصدر 'يظنون' هنا بمعنى 'يوقنون'، وهو أعلى درجات العلم الدافع للثبات [2].",
+        "choices": [
+            { "choice_text": "يشكون في لقاء الله", "is_correct": false },
+            { "choice_text": "يتوقعون حدوث ذلك باحتمالية ضعيفة", "is_correct": false },
+            { "choice_text": "يوقنون بلقاء الله يقيناً تاماً", "is_correct": true },
+            { "choice_text": "يتمنون لقاء الله دون علم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يسقط 'الضعيف' في اختبار الأمانة عند ورود الشبهات؟",
+        "difficulty_score": 650,
+        "explanation": "لأنه يفتقر لليقين الذي يدفع الشبهات، ولا يملك من الحب لله ما يقدمه على أهله وماله [1, 3].",
+        "choices": [
+            { "choice_text": "لأنه لا يعرف الحكم الشرعي للأمانة", "is_correct": false },
+            { "choice_text": "لنقص يقينه وضعف محبته لله أمام المحبوبات", "is_correct": true },
+            { "choice_text": "بسبب كثرة الديون المالية عليه", "is_correct": false },
+            { "choice_text": "لأنه لا يملك القوة الجسدية الكافية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الوجه الأساسي' لقوة أبي عبيدة بن الجراح التي جعلت عمر يختاره للاستخلاف؟",
+        "difficulty_score": 700,
+        "explanation": "المصدر يوضح أن أمانته كانت هي وجه قوته الأساسي، رغم أن خالداً قد يتفوق عليه في الإقدام [4].",
+        "choices": [
+            { "choice_text": "مهارته الفائقة في المبارزة", "is_correct": false },
+            { "choice_text": "أمانته التي توجه قوته وتكملها", "is_correct": true },
+            { "choice_text": "قدرته على تنظيم الجيوش", "is_correct": false },
+            { "choice_text": "بلاغته في إقناع الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يرى ابن حزم 'الجبن' في كتابه (مداواة النفوس)؟",
+        "difficulty_score": 750,
+        "explanation": "يعتبره أصلاً من أصول الرذائل لأنه يؤدي لذنوب كبرى كالفرار والارتداد والتقلب مع الأقوى [4, 5].",
+        "choices": [
+            { "choice_text": "خصلة فطرية لا يحاسب عليها الإنسان", "is_correct": false },
+            { "choice_text": "أصل من أصول الرذائل والذنوب الكبرى", "is_correct": true },
+            { "choice_text": "ضعف مؤقت يزول بالتدريب الجسدي", "is_correct": false },
+            { "choice_text": "صفة ممدوحة في مواطن السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الضعيف' في حديث (أهل الجنة كل ضعيف متضعف)؟",
+        "difficulty_score": 900,
+        "explanation": "المصدر يوضح أنه اللين السهل المتواضع الذي لا تحجبه رؤيته لنفسه عن الحق [6, 7].",
+        "choices": [
+            { "choice_text": "فاقد الإرادة والعزيمة أمام الهوى", "is_correct": false },
+            { "choice_text": "اللين المتواضع القريب من الناس", "is_correct": true },
+            { "choice_text": "ضعيف العقل وقليل الحيلة", "is_correct": false },
+            { "choice_text": "الذي لا يقدر على العمل الصالح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'ضعفاؤنا' الذين ذكرهم هرقل في حواره مع أبي سفيان؟",
+        "difficulty_score": 800,
+        "explanation": "هم أتباع الرسل، والمقصود بهم الذين لا يستكبرون عن اتباع الحق [8, 9].",
+        "choices": [
+            { "choice_text": "المرضى والعجزة في المجتمع", "is_correct": false },
+            { "choice_text": "الذين لا يملكون رأياً مستقلاً", "is_correct": false },
+            { "choice_text": "الفئة المتواضعة غير المستكبرة عن الحق", "is_correct": true },
+            { "choice_text": "الخائفون من بطش المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هما الركنان اللذان يمثلان 'الاستمداد من القوي' (الله عز وجل)؟",
+        "difficulty_score": 600,
+        "explanation": "هما: أمر اعتقادي (المعرفة اليقينية) وأمر قلبي عملي (الاعتصام والتوكل) [10, 11].",
+        "choices": [
+            { "choice_text": "الصلاة والصيام فقط", "is_correct": false },
+            { "choice_text": "المعرفة اليقينية والاعتصام والتوكل", "is_correct": true },
+            { "choice_text": "القوة الجسدية والمالية", "is_correct": false },
+            { "choice_text": "الذكاء والخبرة الدنيوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو تعريف 'الاعتصام' في مقام الالتجاء؟",
+        "difficulty_score": 850,
+        "explanation": "هو الالتجاء إلى الله عند مواجهة الفتن أو مراودة النفس، كما في قصة يوسف عليه السلام [12].",
+        "choices": [
+            { "choice_text": "التمسك بالحبال المتينة", "is_correct": false },
+            { "choice_text": "الالتجاء الصادق لله في مواطن الفتنة", "is_correct": true },
+            { "choice_text": "الامتناع عن الأكل والشرب", "is_correct": false },
+            { "choice_text": "الاعتزال الكلي عن الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر الإيمان بـ 'حسن العاقبة بعد الموت' مصدراً للقوة؟",
+        "difficulty_score": 550,
+        "explanation": "لأنه يجعل الإنسان لا يرى الموت كنهاية، بل كبداية لعالم أوسع وأجمل [13, 14].",
+        "choices": [
+            { "choice_text": "لأنه يشجع على التهور وعدم المبالاة", "is_correct": false },
+            { "choice_text": "لأنه يزيل خوف الهلع والجزع من الموت", "is_correct": true },
+            { "choice_text": "لأنه يقلل من قيمة العمل في الدنيا", "is_correct": false },
+            { "choice_text": "لأنه يجعل الإنسان يكره الحياة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين 'كراهية الموت' و'الجبن' كما وضح المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "كراهية الموت فطرية طبيعية، أما الجبن فهو الهلع الذي يمنع من العمل والثبات [15].",
+        "choices": [
+            { "choice_text": "لا فرق بينهما في المعنى الشرعي", "is_correct": false },
+            { "choice_text": "الجبن فطري والكراهية مكتسبة", "is_correct": false },
+            { "choice_text": "الكراهية طبيعية والجبن هلع مذموم", "is_correct": true },
+            { "choice_text": "كلاهما من علامات ضعف الإيمان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يكتسب الإنسان 'الشجاعة' كجزء من القوة النفسية؟",
+        "difficulty_score": 350,
+        "explanation": "تكتسب بجزء فطري وجزء كسبي من خلال مخالطة الشجعان والقراءة عنهم [16, 17].",
+        "choices": [
+            { "choice_text": "بالتدريبات الرياضية القاسية فقط", "is_correct": false },
+            { "choice_text": "بالمخالطة والاقتداء بذوي العزائم", "is_correct": true },
+            { "choice_text": "بشرب الأدوية المقوية للأعصاب", "is_correct": false },
+            { "choice_text": "بالانعزال عن الناس والتفكير العميق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر صحبة 'الخاملين' على قوة النفس؟",
+        "difficulty_score": 250,
+        "explanation": "تجعل النفس تلتصق بالأرض وتفقد طموحها، لأن مداهم لا يتجاوز الشهوات [17].",
+        "choices": [
+            { "choice_text": "تزيد من هدوء الإنسان النفسي", "is_correct": false },
+            { "choice_text": "تساعد على التركيز في العبادة", "is_correct": false },
+            { "choice_text": "تجذب النفس للأسفل وتضعف الهمة", "is_correct": true },
+            { "choice_text": "لا تؤثر على المؤمن القوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'السوية النفسية' كما عرفها الشيخ في المصدر؟",
+        "difficulty_score": 750,
+        "explanation": "هي البيئة التي تجعل النفس قابلة لغرس معاني القوة والفضائل فيها [18].",
+        "choices": [
+            { "choice_text": "هي القوة ذاتها", "is_correct": false },
+            { "choice_text": "القدرة على كبت المشاعر بالكامل", "is_correct": false },
+            { "choice_text": "بيئة تجعل النفس قابلة لغرس المعاني الشريفة", "is_correct": true },
+            { "choice_text": "التخلص من جميع المخاوف الفطرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'السر العجيب' الذي يجعل البعض يتجاوز التحديات الكبرى في حياتهم؟",
+        "difficulty_score": 500,
+        "explanation": "هو وضع حاجز بينه وبين آلام الأمس وعدم استجلاب الناحية السلبية [19].",
+        "choices": [
+            { "choice_text": "نسيان الماضي بالكامل", "is_correct": false },
+            { "choice_text": "عدم الالتفات للوراء والانطلاق من الحاضر", "is_correct": true },
+            { "choice_text": "امتلاك ثروة مالية ضخمة", "is_correct": false },
+            { "choice_text": "الاعتماد على الحظ فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الإيمان بالقدر هو 'الكافّ' الذي يمنع النفس من:",
+        "difficulty_score": 450,
+        "explanation": "يمنعها من الجزع والتسخط عند وقوع المصائب [20, 21].",
+        "choices": [
+            { "choice_text": "العمل والاجتهاد", "is_correct": false },
+            { "choice_text": "الجزع والتسخط وقول 'لو'", "is_correct": true },
+            { "choice_text": "الفرح والسرور", "is_correct": false },
+            { "choice_text": "التواصل مع الآخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يعتبر الشخص 'قوياً' رغم سقوطه في بعض الشهوات؟",
+        "difficulty_score": 850,
+        "explanation": "طالما لم يستسلم لليأس ويحاول التعويض بالعمل الصالح ويحافظ على مبادئ 'السماء' [21, 22].",
+        "choices": [
+            { "choice_text": "إذا كان يسقط دائماً دون محاولة", "is_correct": false },
+            { "choice_text": "طالما يصارع ولا يستسلم ويحاول التعويض", "is_correct": true },
+            { "choice_text": "بمجرد نطق الشهادتين", "is_correct": false },
+            { "choice_text": "إذا كان يملك قوة جسدية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الأرض' التي حذر المصدر من الانجذاب إليها بالكامل؟",
+        "difficulty_score": 600,
+        "explanation": "ترمز للهوى، والنفس، والجبن، والخور، والضعف [22].",
+        "choices": [
+            { "choice_text": "العمل الزراعي المهني", "is_correct": false },
+            { "choice_text": "الهوى والنفس والجبن والخور", "is_correct": true },
+            { "choice_text": "الاهتمام بالعمران والبناء", "is_correct": false },
+            { "choice_text": "حب الأوطان والانتماء إليها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار المركزي لوصف الإنسان بأنه 'شديد' نبوياً؟",
+        "difficulty_score": 200,
+        "explanation": "المعيار هو ملك النفس عند الغضب والسيطرة على الانفعال [23].",
+        "choices": [
+            { "choice_text": "القدرة على صرع الرجال", "is_correct": false },
+            { "choice_text": "امتلاك عضلات قوية", "is_correct": false },
+            { "choice_text": "أن يملك نفسه عند الغضب", "is_correct": true },
+            { "choice_text": "الانتصار في الحروب فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من المفاهيم التالية يعتبر نقيضاً لـ 'الثبات' كما ورد في المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "المصدر ذكر 'التذبذب' و'التقلب' و'الاضطراب' كصور للضعف [24].",
+        "choices": [
+            { "choice_text": "الكرامة", "is_correct": false },
+            { "choice_text": "التذبذب والتقلب", "is_correct": true },
+            { "choice_text": "الصبر الجميل", "is_correct": false },
+            { "choice_text": "النخوة والشهامة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر 'اليقين' على مواجهة الشائعات كما حدث بعد أحد؟",
+        "difficulty_score": 750,
+        "explanation": "اليقين حوّل الخوف من العدو (فاخشوهم) إلى زيادة في الإيمان والتوكل [25, 26].",
+        "choices": [
+            { "choice_text": "أدى للهروب من المواجهة", "is_correct": false },
+            { "choice_text": "زاد الإيمان ودفع لقول 'حسبنا الله ونعم الوكيل'", "is_correct": true },
+            { "choice_text": "جعلم يطلبون الصلح مع المشركين", "is_correct": false },
+            { "choice_text": "لم يكن له أثر في تلك الحادثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمى النبي الدنيا 'سجناً' في سياق الحديث عن القوة؟",
+        "difficulty_score": 550,
+        "explanation": "بالمقارنة مع فساحة وانطلاق الروح في العالم الآخر والجنة [14].",
+        "choices": [
+            { "choice_text": "لأن المؤمن يعذب فيها دائماً", "is_correct": false },
+            { "choice_text": "لضيقها مقارنة بفسحة الآخرة والجنة", "is_correct": true },
+            { "choice_text": "لأنها مليئة بالقوانين الصعبة", "is_correct": false },
+            { "choice_text": "بسبب كثرة الحروب والنزاعات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يفعله 'الضعيف' عندما يتبنى رأياً باطلاً ليحمي نفسه؟",
+        "difficulty_score": 800,
+        "explanation": "يلبس عجز وجبنه 'جبة الحكمة' ليبرر موقفه أمام الناس [27, 28].",
+        "choices": [
+            { "choice_text": "يعترف بضعفه أمام الجميع", "is_correct": false },
+            { "choice_text": "يلبس العجز 'جبة الحكمة' والتلبيس", "is_correct": true },
+            { "choice_text": "يترك العلم والتعلم بالكامل", "is_correct": false },
+            { "choice_text": "يستمر في الدفاع عن الحق سراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي نوع من 'الرضى' لا يأتي إلا بالقوة النفسية والتحكم بالذات؟",
+        "difficulty_score": 450,
+        "explanation": "الرضى الممتزج بالعزة والقدرة على السيطرة على النفس [29].",
+        "choices": [
+            { "choice_text": "الرضى الناتج عن كثرة المال", "is_correct": false },
+            { "choice_text": "الرضى الممتزج بالعزة والتحكم بالنفس", "is_correct": true },
+            { "choice_text": "الرضى بالواقع والفقر", "is_correct": false },
+            { "choice_text": "الرضى الناتج عن المدح والثناء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور الشيطان في 'هنر الجبن' وفقاً لسورة آل عمران؟",
+        "difficulty_score": 700,
+        "explanation": "الشيطان يغذي الجبن من خلال تخويف الناس بأوليائه [30].",
+        "choices": [
+            { "choice_text": "يضعف عضلات المحاربين جسدياً", "is_correct": false },
+            { "choice_text": "يغذي الجبن عبر تخويف الإنسان بأولياء الشيطان", "is_correct": true },
+            { "choice_text": "يمنع وصول الإمدادات العسكرية", "is_correct": false },
+            { "choice_text": "لا دور له في القضايا النفسية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يتطلبه 'الثبات على أحب العمل أدومه وإن قل'؟",
+        "difficulty_score": 400,
+        "explanation": "يتطلب قوة نفسية للمواظبة الطويلة التي قد تصل لعقود [31, 32].",
+        "choices": [
+            { "choice_text": "حماساً عابراً بعد موعظة", "is_correct": false },
+            { "choice_text": "قوة نفسية للمواظبة والالتزام الدائم", "is_correct": true },
+            { "choice_text": "تفريغ الوقت بالكامل للعبادة", "is_correct": false },
+            { "choice_text": "صحة جسدية استثنائية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'قاموس الضعف' المذكور في المصدر فيما يتعلق بالشخصية الأنثوية؟",
+        "difficulty_score": 900,
+        "explanation": "المصدر أشار لآية الزخرف كوصيف لحالة الضعف البياني (في الخصام غير مبين) وليس ذماً [33, 34].",
+        "choices": [
+            { "choice_text": "أنه ضعف في التفكير المنطقي", "is_correct": false },
+            { "choice_text": "أنه ضعف في الإفصاح عن النفس عند الخصام", "is_correct": true },
+            { "choice_text": "أنه ضعف في التحمل الجسدي", "is_correct": false },
+            { "choice_text": "أنه رغبة في الترف والزينة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يفرق المصدر بين 'التردد المحمود' و'التردد المذموم'؟",
+        "difficulty_score": 650,
+        "explanation": "المحمود ناتج عن تفكير وتأنٍ، والمذموم ناتج عن عجز وخوف من الغلط [34].",
+        "choices": [
+            { "choice_text": "لا يوجد تردد محمود أبداً", "is_correct": false },
+            { "choice_text": "المحمود تأنٍ فكري والمذموم خوف ناتج عن عجز", "is_correct": true },
+            { "choice_text": "المذموم هو التأني والمحمود هو التسرع", "is_correct": false },
+            { "choice_text": "كلاهما ناتج عن ضعف الشخصية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'جاذبية الأرض' التي تمنع الإنسان من الطيران نحو القوة؟",
+        "difficulty_score": 500,
+        "explanation": "هي الركون للهوى، والجبن، والعجز الاختياري [22].",
+        "choices": [
+            { "choice_text": "الجاذبية الفيزيائية للأرض", "is_correct": false },
+            { "choice_text": "الركون للهوى والجبن والعجز", "is_correct": true },
+            { "choice_text": "حب السفر والتنقل", "is_correct": false },
+            { "choice_text": "العمل في التجارة والعقارات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استعاذ النبي من 'الجبن الخالع' تحديداً؟",
+        "difficulty_score": 750,
+        "explanation": "لأنه يخلع القلب من مكانه ويمنع أي ثبات أو عمل صالح [35].",
+        "choices": [
+            { "choice_text": "لأنه يؤدي لخلع المفاصل جسدياً", "is_correct": false },
+            { "choice_text": "لأنه يخلع ثبات النفس ويقينها بالكلية", "is_correct": true },
+            { "choice_text": "لأنه صفة تخص المحاربين فقط", "is_correct": false },
+            { "choice_text": "لأنه يؤدي للفقر والحاجة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'رافد المعرفة القلبي' المستمد من أسماء الله؟",
+        "difficulty_score": 350,
+        "explanation": "إدراك أن الله هو مالك الملك، مدبر الأمر، مقدر الأقدار [10].",
+        "choices": [
+            { "choice_text": "حفظ الحروف الهجائية للأسماء", "is_correct": false },
+            { "choice_text": "إدراك هيمنة الله وتقديره لكل شيء", "is_correct": true },
+            { "choice_text": "استخدام الأسماء في السحر", "is_correct": false },
+            { "choice_text": "معرفة معاني الأسماء لغوياً فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'القوة البيانية' التي تمنى المصدر لو ذُكرت كمصدر قوة؟",
+        "difficulty_score": 850,
+        "explanation": "هي القدرة على التعبير عن الحق والوضوح في الحجة [20].",
+        "choices": [
+            { "choice_text": "القدرة على كتابة الشعر", "is_correct": false },
+            { "choice_text": "القدرة على التعبير عن الحق بوضوح", "is_correct": true },
+            { "choice_text": "سرعة الكلام والخطابة", "is_correct": false },
+            { "choice_text": "حفظ القواميس اللغوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، المؤمن القوي هو من يملك 'قوة النفس' التي تعني:",
+        "difficulty_score": 100,
+        "explanation": "العزيمة، الإرادة، الثبات، والقدرة على التحمل [28, 36].",
+        "choices": [
+            { "choice_text": "الغنى والجاه", "is_correct": false },
+            { "choice_text": "العزيمة والإرادة والثبات", "is_correct": true },
+            { "choice_text": "كثرة الأولاد والعشيرة", "is_correct": false },
+            { "choice_text": "المنصب السياسي الرفيع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة الطبيعية لـ 'العجز الاختياري' المستمر؟",
+        "difficulty_score": 400,
+        "explanation": "فقدان فرص المبادرة والإنجاز والعيش في دائرة الخوف (لو) [34, 37].",
+        "choices": [
+            { "choice_text": "الراحة النفسية والهدوء", "is_correct": false },
+            { "choice_text": "ضياع فرص المبادرة والوقوع في الخور", "is_correct": true },
+            { "choice_text": "اكتساب حكمة الشيوخ", "is_correct": false },
+            { "choice_text": "تجنب المشاكل الاجتماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'اليقين' قاعدة لكل محطات الآخرة؟",
+        "difficulty_score": 600,
+        "explanation": "لأن كل محطة (ثبات، صبر، توكل) تنزع وتستمد قوتها من اليقين [1].",
+        "choices": [
+            { "choice_text": "لأنه أسهل العبادات", "is_correct": false },
+            { "choice_text": "لأنه يمد كل الفضائل بالطاقة النفسية اللازمة", "is_correct": true },
+            { "choice_text": "لأنه لا يحتاج إلى عمل جسدي", "is_correct": false },
+            { "choice_text": "لأنه يضمن الجنة بدون حساب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'منظار النملة' في التعامل مع المشكلات؟",
+        "difficulty_score": 200,
+        "explanation": "رؤية التحديات الصغيرة كجبال ضخمة تمنع الحركة [38].",
+        "choices": [
+            { "choice_text": "الدقة المتناهية في العمل", "is_correct": false },
+            { "choice_text": "تضخيم المشكلات الصغيرة ورؤيتها كعقبات جبلية", "is_correct": true },
+            { "choice_text": "التعاون مع الآخرين بذكاء", "is_correct": false },
+            { "choice_text": "الادخار للمستقبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يواجه المؤمن القوي 'الهزيمة' النفسية؟",
+        "difficulty_score": 800,
+        "explanation": "بحسن الظن بالله، وزيادة الإيمان، والتوكل (حسبنا الله ونعم الوكيل) [26, 39].",
+        "choices": [
+            { "choice_text": "باليأس والانعزال", "is_correct": false },
+            { "choice_text": "بالتوكل وحسن الظن بالله وزيادة العمل", "is_correct": true },
+            { "choice_text": "بلوم الآخرين على الفشل", "is_correct": false },
+            { "choice_text": "بترك الطريق بالكامل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق المركزي بين 'القوة الجزئية' و'القوة الشمولية'؟",
+        "difficulty_score": 900,
+        "explanation": "الجزئية تقتصر على جانب (كالقتال)، والشمولية تشمل قيادة النفس والثبات على الحق واليقين [11, 12].",
+        "choices": [
+            { "choice_text": "لا يوجد فرق بينهما", "is_correct": false },
+            { "choice_text": "الشمولية تشمل قيادة النفس والثبات الشامل", "is_correct": true },
+            { "choice_text": "الجزئية هي قوة العقل والشمولية قوة الجسد", "is_correct": false },
+            { "choice_text": "الشمولية هي كثرة المعلومات والجزئية قلة التجربة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأوصاف التالية تعبر عن 'القلب القوي' عند الفتن؟",
+        "difficulty_score": 500,
+        "explanation": "القلب الذي لديه من اليقين ما يدفع الشبهات ومن الحب لله ما يقدمه على المحبوبات [1, 3].",
+        "choices": [
+            { "choice_text": "القلب القاسي الذي لا يرحم", "is_correct": false },
+            { "choice_text": "القلب الممتلئ يقيناً ومحبة لله", "is_correct": true },
+            { "choice_text": "القلب الخالي من المشاعر", "is_correct": false },
+            { "choice_text": "القلب الذي لا يبالي بالنتائج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرسالة الختامية للمصدر حول 'سوية المؤمن'؟",
+        "difficulty_score": 300,
+        "explanation": "أن يظل المؤمن محافظاً وقريباً من مفاهيم 'السماء' (يقين، ثبات، اعتصام) [22].",
+        "choices": [
+            { "choice_text": "التركيز على القوة الجسدية فقط", "is_correct": false },
+            { "choice_text": "المحافظة على مفاهيم السماء كاليقين والثبات", "is_correct": true },
+            { "choice_text": "تجنب الصراعات مع النفس والآخرين", "is_correct": false },
+            { "choice_text": "السعي وراء السعادة الدنيوية المحضة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الركن الذي وصفه المصدر بأنه 'عنوان للقدرة على السيطرة على النفس'؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر يعتبر أن ملك النفس عند الغضب هو العنوان الأكبر والأوضح للسيطرة الداخلية والقوة [1, 2].",
+        "choices": [
+            { "choice_text": "القدرة على كسب المال", "is_correct": false },
+            { "choice_text": "السيطرة على النفس عند الغضب", "is_correct": true },
+            { "choice_text": "التفوق في النقاشات العلمية", "is_correct": false },
+            { "choice_text": "كثرة الأصدقاء والمؤيدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا تأتي مفاهيم مثل 'الكرم' و'النخوة' إلا بوجود القوة؟",
+        "difficulty_score": 600,
+        "explanation": "لأن هذه المفاهيم تتطلب طاقة نفسية وقدرة على العطاء والمواجهة، وهي تنهار إذا نُزعت منها القوة [3].",
+        "choices": [
+            { "choice_text": "لأنها تحتاج إلى ثروة مالية فقط", "is_correct": false },
+            { "choice_text": "لأنها مفاهيم شريفة تفتقر للضعف في طبيعتها", "is_correct": true },
+            { "choice_text": "لأنها صفات وراثية لا علاقة لها بالنفس", "is_correct": false },
+            { "choice_text": "لأن المجتمع لا يحترم إلا الأقوياء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يمثل 'عبادة الجمهور والإعجابات' في قاموس المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "المصدر يدرج عبادة الجمهور والإعجابات ضمن مفاهيم الضعف وانقلاب المعايير [3].",
+        "choices": [
+            { "choice_text": "نوع من أنواع النجاح الاجتماعي", "is_correct": false },
+            { "choice_text": "صورة من صور الضعف المقيتة", "is_correct": true },
+            { "choice_text": "وسيلة ضرورية لنشر الحق", "is_correct": false },
+            { "choice_text": "دليل على قوة التأثير الشخصي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يرى الشخص 'النملة' الصعوبات والتحديات؟",
+        "difficulty_score": 300,
+        "explanation": "المصدر يذكر أن صاحب 'منظار النملة' يرى الحجر الصغير كأنه جبل عظيم، مما يعكس ضعف التحمل [4].",
+        "choices": [
+            { "choice_text": "يراها فرصاً للنمو والتعلم", "is_correct": false },
+            { "choice_text": "يضخمها ويراها عقبات مستحيلة (كالجبال)", "is_correct": true },
+            { "choice_text": "يتجاهلها تماماً ولا يهتم بها", "is_correct": false },
+            { "choice_text": "يواجهها بشجاعة النمل في العمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الشر الحقيقي' الكامن وراء الضعف والجبن وفقاً للمصدر؟",
+        "difficulty_score": 700,
+        "explanation": "المصدر يوضح أن كل الشرور والانحرافات عن الحق تكون ناتجة عن هذا الضعف والجبن [5].",
+        "choices": [
+            { "choice_text": "نقص الموارد الطبيعية", "is_correct": false },
+            { "choice_text": "الفقر والجهل العام", "is_correct": false },
+            { "choice_text": "أنه يولد سلسلة من التلبيس والباطل", "is_correct": true },
+            { "choice_text": "تغير الظروف السياسية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الضعف البياني' للمرأة في آية سورة الزخرف؟",
+        "difficulty_score": 850,
+        "explanation": "المقصود هو عدم القدرة على الإفصاح الكامل عن الحجة في مواطن الخصام، وهو تصوير لحالة ضعف بشري لا ذم فيه [6].",
+        "choices": [
+            { "choice_text": "نقص في المعلومات والذكاء", "is_correct": false },
+            { "choice_text": "عدم القدرة على الإفصاح عن النفس عند الخصام", "is_correct": true },
+            { "choice_text": "كره الجدال والنقاش العلمي", "is_correct": false },
+            { "choice_text": "ضعف الصوت والقدرة الكلامية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعد الإيمان بـ 'حسن العاقبة' من أقوى مستمدات القوة؟",
+        "difficulty_score": 550,
+        "explanation": "لأنه يجعل الموت انتقالاً لعالم أوسع، مما يزيل 'خوف الهلع' الذي يعطل الإنسان [7, 8].",
+        "choices": [
+            { "choice_text": "لأنه يضمن الربح المادي في الدنيا", "is_correct": false },
+            { "choice_text": "لأنه يجعل الموت بداية لعالم أجمل وأسعد", "is_correct": true },
+            { "choice_text": "لأنه يقلل من قيمة العمل الدنيوي", "is_correct": false },
+            { "choice_text": "لأنه يمنح الإنسان شهرة تاريخية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما الذي يمنع الإنسان من أن يكون 'قوياً' في مواجهة الموت؟",
+        "difficulty_score": 650,
+        "explanation": "الذي يمنعه هو 'خوف الهلع والجزع' الذي يرى الموت نهاية لكل شيء، وليس الكراهية الفطرية [8].",
+        "choices": [
+            { "choice_text": "الكراهية الطبيعية للموت", "is_correct": false },
+            { "choice_text": "خوف الهلع والجزع واعتباره نهاية كل شيء", "is_correct": true },
+            { "choice_text": "حب الحياة والعمل فيها", "is_correct": false },
+            { "choice_text": "الخوف على الأبناء والمال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصفة التي تكتسب بجزء فطري وجزء كسبي وتعتبر من أجزاء القوة؟",
+        "difficulty_score": 450,
+        "explanation": "المصدر يذكر أن الشجاعة جزء منها فطري وجزء منها كسبي ينمو بالممارسة [9].",
+        "choices": [
+            { "choice_text": "الذكاء الحاد", "is_correct": false },
+            { "choice_text": "الشجاعة", "is_correct": true },
+            { "choice_text": "قوة البصر", "is_correct": false },
+            { "choice_text": "القدرة المالية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي لمخالطة 'ذوي الهمم والعزائم'؟",
+        "difficulty_score": 350,
+        "explanation": "المخالطة تؤثر إيجابياً وتدفع الإنسان للصبر والمبادرة والإنجاز [10].",
+        "choices": [
+            { "choice_text": "تزيد من الشعور بالنقص", "is_correct": false },
+            { "choice_text": "تؤثر إيجابياً وتدفع للمبادرة والصبر", "is_correct": true },
+            { "choice_text": "تؤدي للتوتر والقلق الدائم", "is_correct": false },
+            { "choice_text": "ليس لها أثر حقيقي على النفس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الكافّ' الذي يمنع النفس من التسخط والجزع عند وقوع ما يكره؟",
+        "difficulty_score": 500,
+        "explanation": "المصدر ينص على أن الإيمان بالقدر هو الكاف الذي يمنع النفس من قول 'لو' السلبية [11, 12].",
+        "choices": [
+            { "choice_text": "كثرة الاستغفار فقط", "is_correct": false },
+            { "choice_text": "الإيمان بالقضاء والقدر", "is_correct": true },
+            { "choice_text": "النسيان بمرور الزمن", "is_correct": false },
+            { "choice_text": "الانشغال بالعمل المرهق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يفقد الإنسان 'جانب القوة' بالكامل وفقاً للخاتمة؟",
+        "difficulty_score": 900,
+        "explanation": "يفقدها عندما تجذبه 'الأرض' (الهوى والجبن) بالكامل ويصبح هذا هو أصله وحاله الدائم [13].",
+        "choices": [
+            { "choice_text": "عندما يخطئ مرة واحدة", "is_correct": false },
+            { "choice_text": "عندما تجذبه الأرض (الهوى والجبن) وتصبح هي أصله", "is_correct": true },
+            { "choice_text": "عندما يفقد ماله أو وظيفته", "is_correct": false },
+            { "choice_text": "عندما يتقدم في السن ويضعف جسده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'البيئة النفسية' التي تسبق غرس معاني القوة والفضائل؟",
+        "difficulty_score": 750,
+        "explanation": "المصدر يصف 'السوية النفسية' بأنها البيئة التي تجعل النفس قابلة لغرس المعاني الشريفة [14].",
+        "choices": [
+            { "choice_text": "البيئة المادية المريحة", "is_correct": false },
+            { "choice_text": "السوية النفسية", "is_correct": true },
+            { "choice_text": "البيئة العلمية المعقدة", "is_correct": false },
+            { "choice_text": "البيئة الاجتماعية الصارمة", "is_correct": false }
+        ]
+    }
+]}

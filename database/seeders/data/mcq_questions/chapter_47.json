@@ -1,0 +1,886 @@
+    {
+    "chapter_id": 47,
+    "questions": [
+        {
+        "question_text": "ما هو الهدف الأساسي من نزول القرآن على المؤمنين في المرحلة المكية كما ذكر المصدر؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن القرآن كان ينزل ليعالج نفوس المؤمنين، ويثبتهم، ويزيدهم يقيناً وطمأنينة لمواجهة المشركين [34].",
+        "choices": [
+            { "choice_text": "تعليم أحكام المواريث", "is_correct": false },
+            { "choice_text": "تثبيت المؤمنين ومعالجة نفوسهم", "is_correct": true },
+            { "choice_text": "شرح تفاصيل غزوة بدر", "is_correct": false },
+            { "choice_text": "تنظيم شؤون الدولة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف الله سبحانه وتعالى نفسه في مطلع سورة الفرقان؟",
+        "difficulty_score": 200,
+        "explanation": "الآيات الأولى من سورة الفرقان تؤكد أن الله له ملك السماوات والأرض، ولم يتخذ ولداً، وخلق كل شيء فقدره تقديراً [8, 9].",
+        "choices": [
+            { "choice_text": "أنه شريك في الملك مع آلهة أخرى", "is_correct": false },
+            { "choice_text": "أنه اتخذ ولداً ليكون نذيراً", "is_correct": false },
+            { "choice_text": "أنه الذي له ملك السماوات والأرض وخلق كل شيء", "is_correct": true },
+            { "choice_text": "أنه يحتاج لمساعدة الملائكة في الخلق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخطأ المعاصر في فهم 'الحكمة في الدعوة' كما ورد في المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "ينتقد المصدر ظن البعض أن الحكمة تعني 'تخفيف الحقائق الدينية' وجعلها ناعمة لتقبلها الثقافة العامة [16].",
+        "choices": [
+            { "choice_text": "استخدام اللين في الكلام", "is_correct": false },
+            { "choice_text": "تخفيف الحقائق الدينية لتناسب الذوق العام", "is_correct": true },
+            { "choice_text": "تجنب الجدال بالتي هي أحسن", "is_correct": false },
+            { "choice_text": "الإحسان إلى الجار غير المسلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ لعمرو بن عبسة عندما سأله: 'ما أنت؟'؟",
+        "difficulty_score": 200,
+        "explanation": "في حديث صحيح مسلم، أجاب النبي ﷺ عمرو بن عبسة بكلمة واحدة موجزة: 'أنا نبي' [2].",
+        "choices": [
+            { "choice_text": "أنا رسول من قريش", "is_correct": false },
+            { "choice_text": "أنا نبي", "is_correct": true },
+            { "choice_text": "أنا مصلح اجتماعي", "is_correct": false },
+            { "choice_text": "أنا ملك العرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من كان مع النبي ﷺ من المؤمنين عندما قابله عمرو بن عبسة في مكة؟",
+        "difficulty_score": 400,
+        "explanation": "عندما سأل عمرو: 'فمن معك على هذا؟'، قال النبي ﷺ: 'حر وعبد'، وكان يقصد أبا بكر وبلالاً رضي الله عنهما [2].",
+        "choices": [
+            { "choice_text": "عمر وعثمان", "is_correct": false },
+            { "choice_text": "حمزة والعباس", "is_correct": false },
+            { "choice_text": "أبو بكر وبلال", "is_correct": true },
+            { "choice_text": "علي وزيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي إحدى الشبهات التي طرحها المشركون حول شخص النبي ﷺ في سورة الفرقان؟",
+        "difficulty_score": 300,
+        "explanation": "اعترض المشركون على بشرية الرسول متسائلين: 'ما لهذا الرسول يأكل الطعام ويمشي في الأسواق' [20].",
+        "choices": [
+            { "choice_text": "أنه لا يتحدث العربية بطلاقة", "is_correct": false },
+            { "choice_text": "أنه يأكل الطعام ويمشي في الأسواق", "is_correct": true },
+            { "choice_text": "أنه يرفض مرافقة الفقراء", "is_correct": false },
+            { "choice_text": "أنه يدعي ملكية الكنوز", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان المشركون يطالبون بنزول القرآن 'جملة واحدة'؟",
+        "difficulty_score": 500,
+        "explanation": "ورد في المصدر أن هذا كان من باب التعنت وتوليد الاعتراضات كلما نزل شيء جديد، وليس رغبة في الإيمان [13].",
+        "choices": [
+            { "choice_text": "ليسهل عليهم حفظه", "is_correct": false },
+            { "choice_text": "لأنه أسهل في القراءة", "is_correct": false },
+            { "choice_text": "من باب التعنت وتوليد الاعتراضات", "is_correct": true },
+            { "choice_text": "لأن الكتب السابقة نزلت هكذا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال المشركون لبعضهم البعض عندما سمعوا كلام النبي ﷺ، كما صورت سورة الفرقان؟",
+        "difficulty_score": 600,
+        "explanation": "قالوا: 'إن كاد ليضلنا عن آلهتنا لولا أن صبرنا عليها'، مما يدل على تأثرهم بكلامه رغم استكبارهم [35, 36].",
+        "choices": [
+            { "choice_text": "إنه ساحر مجنون فقط", "is_correct": false },
+            { "choice_text": "إن كلامه لا يؤثر فينا أبداً", "is_correct": false },
+            { "choice_text": "كاد ليضلنا عن آلهتنا لولا صبرنا", "is_correct": true },
+            { "choice_text": "يجب أن نتبعه الآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الرجال في الهجرة الأولى إلى الحبشة تقريباً؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر أن العدد في الانطلاقة الأولى كان اثني عشر رجلاً وأربع نسوة [5].",
+        "choices": [
+            { "choice_text": "سبعون رجلاً", "is_correct": false },
+            { "choice_text": "اثنا عشر رجلاً", "is_correct": true },
+            { "choice_text": "عشرون رجلاً", "is_correct": false },
+            { "choice_text": "مائة رجل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى عاد جعفر بن أبي طالب ومن معه من الحبشة؟",
+        "difficulty_score": 400,
+        "explanation": "عاد جعفر ومن بقي في الحبشة في السنة السابعة من الهجرة، ووافق ذلك فتح خيبر [37, 38].",
+        "choices": [
+            { "choice_text": "بعد غزوة بدر مباشرة", "is_correct": false },
+            { "choice_text": "في السنة السابعة للهجرة (وقت فتح خيبر)", "is_correct": true },
+            { "choice_text": "قبل الهجرة للمدينة بأشهر", "is_correct": false },
+            { "choice_text": "بعد فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الصحابية التي زارت حفصة رضي الله عنها فدخل عليهما عمر بن الخطاب؟",
+        "difficulty_score": 500,
+        "explanation": "هي أسماء بنت عميس، زوجة جعفر بن أبي طالب، والتي قدمت مع أهل السفينة من الحبشة [39].",
+        "choices": [
+            { "choice_text": "أم سلمة", "is_correct": false },
+            { "choice_text": "أم حبيبة", "is_correct": false },
+            { "choice_text": "أسماء بنت عميس", "is_correct": true },
+            { "choice_text": "فاطمة بنت الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف عمر بن الخطاب هجرة أسماء بنت عميس ومن معها في الحبشة؟",
+        "difficulty_score": 500,
+        "explanation": "قال لها: 'سبقناكم بالهجرة، فنحن أحق برسول الله ﷺ منكم'، مما أدى لغضبها [23, 39].",
+        "choices": [
+            { "choice_text": "أنها أفضل هجرة في الإسلام", "is_correct": false },
+            { "choice_text": "أنها هجرة باطلة", "is_correct": false },
+            { "choice_text": "أن المقيمين مع النبي ﷺ أحق به منهم", "is_correct": true },
+            { "choice_text": "أنهم هربوا من المواجهة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد الذي قاله النبي ﷺ لأسماء بنت عميس ليُطيب خاطرها؟",
+        "difficulty_score": 400,
+        "explanation": "قال لها: 'ليس بأحق بي منكم، وله ولأصحابه هجرة واحدة، ولكم أنتم أهل السفينة هجرتان' [24, 40].",
+        "choices": [
+            { "choice_text": "إن عمر هو الأفضل دائماً", "is_correct": false },
+            { "choice_text": "لكم أنتم أهل السفينة هجرتان", "is_correct": true },
+            { "choice_text": "لا فرق بين الهجرتين", "is_correct": false },
+            { "choice_text": "يجب أن تعودوا للحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كانت تفتخر أسماء بنت عميس وأهل السفينة بعد سماع حديث النبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "ذكرت أسماء أن أهل السفينة كانوا يأتون إليها أرسالاً يسألونها عن هذا الحديث، ولم يكن شيء في الدنيا أفرح لهم منه [24].",
+        "choices": [
+            { "choice_text": "بالكنوز التي جلبوها", "is_correct": false },
+            { "choice_text": "بقول النبي ﷺ 'لكم هجرتان'", "is_correct": true },
+            { "choice_text": "بمصاهرة عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "بفتح خيبر فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي كان 'يُنازع' النجاشي على ملكه كما ورد في قصة المهاجرين؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر حدوث حرب بين النجاشي وشخص آخر نازعه الملك، وكان المهاجرون يترقبون النتيجة بقلق [25, 41].",
+        "choices": [
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "ملك العرب", "is_correct": false },
+            { "choice_text": "شخص آخر نازعه الملك في الحبشة", "is_correct": true },
+            { "choice_text": "أبو جهل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي سبح في النهر ليشاهد معركة النجاشي ويُبشر المؤمنين؟",
+        "difficulty_score": 800,
+        "explanation": "هو الزبير (بن العوام)، حيث نفخ قربة وسبح بها حتى حضر الوقعة ثم عاد ليبشرهم بانتصار النجاشي [41].",
+        "choices": [
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "الزبير", "is_correct": true },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا رأت أم سلمة وأم حبيبة في الحبشة وذكرتاه للنبي ﷺ في مرضه؟",
+        "difficulty_score": 400,
+        "explanation": "ذكرتا كنيسة رأينها في الحبشة تسمى 'مارية' وفيها تصاوير [42].",
+        "choices": [
+            { "choice_text": "جيشاً عظيماً", "is_correct": false },
+            { "choice_text": "كنيسة فيها تصاوير", "is_correct": true },
+            { "choice_text": "بساتين العنب", "is_correct": false },
+            { "choice_text": "قصوراً ذهبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ أولئك الذين يبنون المساجد على القبور ويصورون فيها الصور؟",
+        "difficulty_score": 500,
+        "explanation": "قال النبي ﷺ: 'أولئك شرار الخلق عند الله يوم القيامة' [4].",
+        "choices": [
+            { "choice_text": "أنهم مجتهدون مخطئون", "is_correct": false },
+            { "choice_text": "أنهم شرار الخلق عند الله", "is_correct": true },
+            { "choice_text": "أنهم أهل كتاب معذورون", "is_correct": false },
+            { "choice_text": "أنهم بنوا معابد جميلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قال عنه سعيد بن زيد: 'لقد رأيتني وإن عمر لموثقي على الإسلام'؟",
+        "difficulty_score": 600,
+        "explanation": "كان سعيد بن زيد يتحدث عن نفسه، حيث كان عمر (قبل إسلامه) قد ربطه هو وزوجته (أخت عمر) بسبب إسلامهما [26].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "سعيد بن زيد", "is_correct": true },
+            { "choice_text": "خباب بن الأرت", "is_correct": false },
+            { "choice_text": "بلال بن رباح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التغيير الذي طرأ على الصلاة بعد عودة ابن مسعود من الحبشة؟",
+        "difficulty_score": 700,
+        "explanation": "اكتشف ابن مسعود أن الكلام في الصلاة قد نُسخ ومُنع، بعد أن كان مسموحاً به في بداية الإسلام [27, 43].",
+        "choices": [
+            { "choice_text": "زيادة عدد الركعات", "is_correct": false },
+            { "choice_text": "منع الكلام في الصلاة", "is_correct": true },
+            { "choice_text": "تغيير القبلة", "is_correct": false },
+            { "choice_text": "فرض الوضوء", "is_correct": false }
+        ]
+    },
+    {
+        "order_number": 21,
+        "question_text": "ماذا كان يفعل المشركون عند دار عمر بن الخطاب بعد إسلامه؟",
+        "difficulty_score": 400,
+        "explanation": "اجتمعوا عند داره وقالوا 'صبأ عمر' وكانوا يريدون قتله، ووصف ابن عمر المشهد بأن 'الناس سال بهم الوادي' [32, 33].",
+        "choices": [
+            { "choice_text": "جاؤوا للمباركة له", "is_correct": false },
+            { "choice_text": "جاؤوا ليقتلوه لتغيير دينه", "is_correct": true },
+            { "choice_text": "جاؤوا لطلب معونة مالية", "is_correct": false },
+            { "choice_text": "جاؤوا ليدعوه لوليمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الرجل الذي أجار عمر بن الخطاب وصرف عنه جموع المشركين؟",
+        "difficulty_score": 500,
+        "explanation": "هو العاص بن وائل السهمي، الذي كان حليفاً لبني عدي (قوم عمر) في الجاهلية [28, 32].",
+        "choices": [
+            { "choice_text": "أبو سفيان بن حرب", "is_correct": false },
+            { "choice_text": "العاص بن وائل السهمي", "is_correct": true },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي كررها العاص بن وائل للمشركين ليتركوا عمر؟",
+        "difficulty_score": 600,
+        "explanation": "قال لهم: 'لا سبيل إليه'، بمعنى أنه في جواري وحمايتي ولا يمكنكم الوصول إليه [32, 33].",
+        "choices": [
+            { "choice_text": "إنه لم يسلم حقاً", "is_correct": false },
+            { "choice_text": "اتركوه فهو ضعيف", "is_correct": false },
+            { "choice_text": "لا سبيل إليه", "is_correct": true },
+            { "choice_text": "سنقتله غداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان يشعر المهاجرون في الحبشة تجاه المقيمين في مكة مع النبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يشعرون بأن المقيمين في مكة يحظون بوعظ النبي ﷺ وإطعامه لجائعهم بينما هم في 'دار البعداء' [23, 25].",
+        "choices": [
+            { "choice_text": "بالغيرة والحسد", "is_correct": false },
+            { "choice_text": "بنوع من الحرمان والتوتر", "is_correct": true },
+            { "choice_text": "بالراحة التامة والرفاهية", "is_correct": false },
+            { "choice_text": "بالرغبة في عدم العودة أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'البناء العميق' في حياة المصلحين كما أشار المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "الهدف هو إنشاء تربية إيمانية جادة وقوية تجعل الإنسان يثبت في الأزمات والغربة حتى لو انقطع عن المربي لسنوات [19].",
+        "choices": [
+            { "choice_text": "تعلم فنون الخطابة", "is_correct": false },
+            { "choice_text": "البناء الإيماني العميق للثبات في الغربة", "is_correct": true },
+            { "choice_text": "حفظ تواريخ الغزوات فقط", "is_correct": false },
+            { "choice_text": "جمع التبرعات للمهاجرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا وصفت سورة الفرقان حال الكفار يوم القيامة عند رؤية الملائكة؟",
+        "difficulty_score": 400,
+        "explanation": "تقول الآية: 'يوم يرون الملائكة لا بشرى يومئذ للمجرمين ويقولون حجراً محجوراً' [13].",
+        "choices": [
+            { "choice_text": "يستبشرون خيراً", "is_correct": false },
+            { "choice_text": "يقولون حجراً محجوراً (لا بشرى لهم)", "is_correct": true },
+            { "choice_text": "يطلبون الشفاعة فوراً", "is_correct": false },
+            { "choice_text": "يهربون إلى الجبال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى ماذا تتحول أعمال الكفار يوم القيامة كما في سورة الفرقان؟",
+        "difficulty_score": 200,
+        "explanation": "تقول الآية: 'وقدمنا إلى ما عملوا من عمل فجعلناه هباءً منثوراً' [13].",
+        "choices": [
+            { "choice_text": "جبالاً من ذهب", "is_correct": false },
+            { "choice_text": "هباءً منثوراً", "is_correct": true },
+            { "choice_text": "كتباً بيضاء", "is_correct": false },
+            { "choice_text": "شفاعة لأهلهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'عباد الرحمن' الذين ذُكروا في نهاية سورة الفرقان؟",
+        "difficulty_score": 300,
+        "explanation": "هم المؤمنون الذين أثنى الله على صفاتهم ووعدهم بأن يُجزون الغرفة بما صبروا [44].",
+        "choices": [
+            { "choice_text": "الملائكة المقربون", "is_correct": false },
+            { "choice_text": "الأنبياء فقط", "is_correct": false },
+            { "choice_text": "المؤمنون المتصفون بالصبر والعبادة", "is_correct": true },
+            { "choice_text": "أهل الكتاب الذين آمنوا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'يُجزون الغرفة' للمؤمنين في سورة الفرقان؟",
+        "difficulty_score": 500,
+        "explanation": "الغرفة هي المكانة العالية في الجنة التي ينالونها بصبرهم على البلاء والتمسك بالدين [44].",
+        "choices": [
+            { "choice_text": "بيت صغير في مكة", "is_correct": false },
+            { "choice_text": "المكانة العالية في الجنة", "is_correct": true },
+            { "choice_text": "الخروج من السجن", "is_correct": false },
+            { "choice_text": "غرفة في الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة التربوية لنزول القرآن 'منجماً' (مفرقاً)؟",
+        "difficulty_score": 700,
+        "explanation": "الخلاصة هي أن القرآن يعالج أثر الصعوبات والشدائد ويصحح الأفهام بمواكبة الأحداث، مما يزيد الثبات [15].",
+        "choices": [
+            { "choice_text": "تسهيل القراءة ليلاً", "is_correct": false },
+            { "choice_text": "مواكبة الأحداث لتثبيت القلوب وتصحيح الأفهام", "is_correct": true },
+            { "choice_text": "إعطاء المشركين فرصة أطول للهرب", "is_correct": false },
+            { "choice_text": "تقليل كمية الورق المستخدم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة اختارها المصدر كمثال على معالجة الواقع الإسلامي في مكة؟",
+        "difficulty_score": 200,
+        "explanation": "اختار المصدر سورة الفرقان لأنها تعالج قضايا التثبيت والرد على المشركين وتصحيح المعايير [8, 45].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة الفرقان", "is_correct": true },
+            { "choice_text": "سورة آل عمران", "is_correct": false },
+            { "choice_text": "سورة الفاتحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الرصيد الكبير' الذي كان يُبنى في نفوس المؤمنين من خلال القرآن المكي؟",
+        "difficulty_score": 600,
+        "explanation": "هو الرصيد المعرفي بصفات الله وعظمته، ليكون لديهم يقين كامل عند دعوتهم لعبادة الله وحده [10].",
+        "choices": [
+            { "choice_text": "رصيد من المال والذهب", "is_correct": false },
+            { "choice_text": "رصيد معرفي بصفات الله وعظمته", "is_correct": true },
+            { "choice_text": "رصيد من التحالفات القبلية", "is_correct": false },
+            { "choice_text": "رصيد من الأشعار العربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر فهم المشركين للدين مقارنة ببعض الناس اليوم؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر أن المشركين كانوا 'أفهم' للقضية وجوهر الدين من كثير من الناس اليوم، لأنهم أدركوا فوراً ما يطلبه الدين منهم [18].",
+        "choices": [
+            { "choice_text": "أنهم كانوا جهلة تماماً", "is_correct": false },
+            { "choice_text": "أنهم كانوا يفهمون حقيقة الدين ومطالبه بدقة", "is_correct": true },
+            { "choice_text": "أنهم لم يهتموا أبداً بما يقوله النبي ﷺ", "is_correct": false },
+            { "choice_text": "أن فهمهم كان سطحياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يُعِد المشركون دعوة النبي ﷺ لترك الأوثان؟",
+        "difficulty_score": 300,
+        "explanation": "كانوا يعتبرونها 'إساءة واعتداءً' على حقهم التعبدي ومقدساتهم [10].",
+        "choices": [
+            { "choice_text": "تطوراً فكرياً", "is_correct": false },
+            { "choice_text": "إساءة واعتداءً على حقهم التعبدي", "is_correct": true },
+            { "choice_text": "مزحة عابرة", "is_correct": false },
+            { "choice_text": "خرافة قديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الغش' في الدعوة كما وصفه المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "الغش هو إيهام الكافر أو المشرك بأنه لا يوجد اختلاف كبير بيننا وبينه، بدلاً من توضيح الحقائق لإنقاذه من النار [17].",
+        "choices": [
+            { "choice_text": "الكذب في البيع والشراء", "is_correct": false },
+            { "choice_text": "إيهام الآخرين بعدم وجود اختلاف جوهري في العقيدة", "is_correct": true },
+            { "choice_text": "السرقة من أموال المشركين", "is_correct": false },
+            { "choice_text": "رفض السلام على غير المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي استشهد بها المصدر لبيان دور النبي ﷺ في الرحمة؟",
+        "difficulty_score": 200,
+        "explanation": "استشهد بقوله تعالى: 'وما أرسلناك إلا رحمة للعالمين' [18].",
+        "choices": [
+            { "choice_text": "'إنا أعطيناك الكوثر'", "is_correct": false },
+            { "choice_text": "'وما أرسلناك إلا رحمة للعالمين'", "is_correct": true },
+            { "choice_text": "'قل هو الله أحد'", "is_correct": false },
+            { "choice_text": "'اقرأ باسم ربك الذي خلق'", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا طلب النبي ﷺ من عمرو بن عبسة العودة إلى أهله؟",
+        "difficulty_score": 400,
+        "explanation": "لأن حال النبي ﷺ والناس في مكة (الاستضعاف) لم يكن يسمح لعمرو بالبقاء واتباعه علانية [46].",
+        "choices": [
+            { "choice_text": "لأنه لم يعجب بكلامه", "is_correct": false },
+            { "choice_text": "بسبب حالة الاستضعاف وتسلط المشركين", "is_correct": true },
+            { "choice_text": "لأنه أراد منه التجارة", "is_correct": false },
+            { "choice_text": "لأنه لم يكن مسلماً بعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى طلب النبي ﷺ من عمرو بن عبسة أن يأتيه؟",
+        "difficulty_score": 400,
+        "explanation": "قال له: 'إذا سمعت بي قد ظهرت فأتني'، والمقصود عندما ينتصر الدين وتتحسن الأحوال [46].",
+        "choices": [
+            { "choice_text": "في اليوم التالي", "is_correct": false },
+            { "choice_text": "عندما يظهر أمره وينتصر", "is_correct": true },
+            { "choice_text": "في موسم الحج القادم", "is_correct": false },
+            { "choice_text": "لا تأتني أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أهل يثرب لعمرو بن عبسة عندما سألهم عن النبي ﷺ في المدينة؟",
+        "difficulty_score": 300,
+        "explanation": "قالوا له: 'الناس إليه سراع'، في إشارة إلى كثرة الداخلين في الإسلام وسرعة انتشار الدين هناك [47].",
+        "choices": [
+            { "choice_text": "إنه قد مات", "is_correct": false },
+            { "choice_text": "الناس إليه سراع", "is_correct": true },
+            { "choice_text": "لقد طرده قومه فقط", "is_correct": false },
+            { "choice_text": "لا نعرف من هو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل النبي ﷺ عندما رأى عمرو بن عبسة في المدينة؟",
+        "difficulty_score": 400,
+        "explanation": "تعرف عليه النبي ﷺ وقال: 'نعم، أنت الذي لقيتني بمكة' [47].",
+        "choices": [
+            { "choice_text": "لم يتذكره أبداً", "is_correct": false },
+            { "choice_text": "تعرف عليه فوراً وذكره بلقائهما بمكة", "is_correct": true },
+            { "choice_text": "سأله عن اسمه مرة أخرى", "is_correct": false },
+            { "choice_text": "غضب منه لتأخره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم بلغ عدد النساء تقريباً في الهجرة الثانية إلى الحبشة؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن الهجرة الثانية ضمت ما يربو على ثمانين رجلاً وما يقارب تسع عشرة امرأة [1].",
+        "choices": [
+            { "choice_text": "أربع نسوة", "is_correct": false },
+            { "choice_text": "تسع عشرة امرأة", "is_correct": true },
+            { "choice_text": "خمسون امرأة", "is_correct": false },
+            { "choice_text": "عشر نسوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو زوج رقية ابنة النبي ﷺ الذي هاجر معها إلى الحبشة؟",
+        "difficulty_score": 100,
+        "explanation": "نص المصدر على أن رقية هاجرت مع زوجها عثمان بن عفان رضي الله عنه [2].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصعوبة المنهجية التي واجهت مهاجري الحبشة فيما يتعلق بالوحي؟",
+        "difficulty_score": 600,
+        "explanation": "أشار المصدر إلى أنهم انقطعوا عن النبي ﷺ وعن الوحي الذي ينزل ويتجدد وعن تجدد الأحكام لسنوات طويلة [3].",
+        "choices": [
+            { "choice_text": "فقدان المصاحف المكتوبة", "is_correct": false },
+            { "choice_text": "الانقطاع عن الوحي المتجدد وتطور الأحكام", "is_correct": true },
+            { "choice_text": "عدم قدرتهم على حفظ القرآن", "is_correct": false },
+            { "choice_text": "اختلاف اللغة في الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى فُرضت الصلوات الخمس وتحديد ركعاتها؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أن تحديد الصلوات الخمس جاء لاحقاً في رحلة المعراج، بينما كانت الصلاة قبل ذلك ركعتين بالغداة وركعتين بالعشي [3].",
+        "choices": [
+            { "choice_text": "في السنة الأولى للبعثة", "is_correct": false },
+            { "choice_text": "في رحلة المعراج", "is_correct": true },
+            { "choice_text": "بعد الهجرة للمدينة", "is_correct": false },
+            { "choice_text": "يوم فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الزاد' الذي مكن مهاجري الحبشة من الثبات لسنوات رغم الغربة؟",
+        "difficulty_score": 700,
+        "explanation": "بين المصدر أن قوة ما أخذوه من التوحيد والإيمان والتربية الجادة من النبي ﷺ كانت الزاد الكافي لثباتهم [4].",
+        "choices": [
+            { "choice_text": "الدعم المالي من النجاشي", "is_correct": false },
+            { "choice_text": "قوة التربية الإيمانية والتوحيد التي تلقوها أولاً", "is_correct": true },
+            { "choice_text": "كثرة عددهم وقوتهم العسكرية", "is_correct": false },
+            { "choice_text": "انشغال قريش بحروب أخرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قدم من اليمن مع أخويه مهاجراً ووافق جعفر بن أبي طالب في الحبشة؟",
+        "difficulty_score": 800,
+        "explanation": "هو أبو موسى الأشعري، الذي ركب سفينة ألقتهم عند النجاشي فوافقوا جعفراً وأصحابه [5, 6].",
+        "choices": [
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "أبو موسى الأشعري", "is_correct": true },
+            { "choice_text": "معاذ بن جبل", "is_correct": false },
+            { "choice_text": "أبو ذر الغفاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصفت أسماء بنت عميس حال المهاجرين في الحبشة في حوارها مع عمر؟",
+        "difficulty_score": 500,
+        "explanation": "وصفتها بأنها 'دار البعداء البغضاء'، وأنهم كانوا يُؤذون ويخافون في الله وفي رسوله [7, 8].",
+        "choices": [
+            { "choice_text": "دار الأمان والرفاهية", "is_correct": false },
+            { "choice_text": "دار البعداء البغضاء حيث الأذى والخوف", "is_correct": true },
+            { "choice_text": "أفضل من مكة في كل شيء", "is_correct": false },
+            { "choice_text": "دار العلم والتعلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان أهل السفينة (مهاجرو الحبشة) يفرحون بحديث 'لكم هجرتان'؟",
+        "difficulty_score": 300,
+        "explanation": "لأن الحديث أزال شعورهم بالحرمان وطمأنهم بفضل هجرتهم ومكانتهم عند النبي ﷺ [9].",
+        "choices": [
+            { "choice_text": "لأنه أعطاهم حقاً في الغنائم مرتين", "is_correct": false },
+            { "choice_text": "لأنه طمأن نفوسهم وأثبت فضل مكانتهم", "is_correct": true },
+            { "choice_text": "لأنه سمح لهم بالعودة للحبشة", "is_correct": false },
+            { "choice_text": "لأنه ميزهم عن أبي بكر الصديق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الملحوظة المنهجية التي ذكرها المصدر حول قبول أخبار السيرة؟",
+        "difficulty_score": 900,
+        "explanation": "أشار المصدر إلى أن علماء الحديث يتسامحون في إيراد أخبار السيرة (مثل مراسيل التابعين) ما لا يتسامحون في أحاديث الأحكام [10].",
+        "choices": [
+            { "choice_text": "وجوب تطبيق شروط أحاديث الأحكام حرفياً", "is_correct": false },
+            { "choice_text": "التسامح في قبول أخبار السيرة لقوة ثبوتها العام", "is_correct": true },
+            { "choice_text": "رفض أي خبر لم يرد في البخاري", "is_correct": false },
+            { "choice_text": "اعتبار السيرة مجرد قصص لا تُدرس أسانيدها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان أحد العشرة المبشرين وزوج أخت عمر بن الخطاب؟",
+        "difficulty_score": 300,
+        "explanation": "هو سعيد بن زيد رضي الله عنه [10].",
+        "choices": [
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "سعيد بن زيد", "is_correct": true },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة ابن مسعود: 'ما زلنا أعزة منذ أسلم عمر'؟",
+        "difficulty_score": 600,
+        "explanation": "تعني أن إسلام عمر منح المؤمنين قوة نفسية داخلية وشعوراً بالمنعة والظهور [50، 55].",
+        "choices": [
+            { "choice_text": "أن قريشاً توقفت عن تعذيبهم فوراً", "is_correct": false },
+            { "choice_text": "أن إسلامه شكل إضافة معنوية وقوة للمؤمنين", "is_correct": true },
+            { "choice_text": "أن عمر أصبح ملكاً على مكة", "is_correct": false },
+            { "choice_text": "أن المسلمين أصبحوا أكثر عدداً من المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحكم الشرعي الذي اكتشف ابن مسعود نسخه عند عودته من الحبشة؟",
+        "difficulty_score": 700,
+        "explanation": "اكتشف أن رد السلام والكلام في الصلاة قد مُنع (نسخ)، لقوله ﷺ: 'إن في الصلاة لشغلاً' [11, 12].",
+        "choices": [
+            { "choice_text": "جواز الصلاة دون وضوء", "is_correct": false },
+            { "choice_text": "المنع من الكلام في الصلاة", "is_correct": true },
+            { "choice_text": "تغيير عدد ركعات الفجر", "is_correct": false },
+            { "choice_text": "وجوب الصلاة سراً دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان حال عمر بن الخطاب في بيته فور إعلانه إسلامه؟",
+        "difficulty_score": 500,
+        "explanation": "كان في داره خائفاً يترقب، واجتمع الناس عند بابه يريدون قتله وصاحوا 'صبأ عمر' [13, 14].",
+        "choices": [
+            { "choice_text": "كان يحتفل مع الصحابة", "is_correct": false },
+            { "choice_text": "كان خائفاً يترقب من جموع المشركين", "is_correct": true },
+            { "choice_text": "كان يخطب في الناس في الكعبة", "is_correct": false },
+            { "choice_text": "غادر مكة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أبو عمرو' الذي دخل على عمر وجاء في حلة حبرة وقميص مكفوف بحرير؟",
+        "difficulty_score": 800,
+        "explanation": "هو العاص بن وائل السهمي، والد عمرو بن العاص [13].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "العاص بن وائل", "is_correct": true },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false },
+            { "choice_text": "أميّة بن خلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تفرق الناس عن عمر بعد تدخل العاص بن وائل؟",
+        "difficulty_score": 600,
+        "explanation": "لأن العاص أعلن حمايته لعمر (الجوار)، ولأن الناس كانوا يحترمون تحالفات الجاهلية وأشرافها [14].",
+        "choices": [
+            { "choice_text": "لأنهم خافوا من قوة عمر الشخصية", "is_correct": false },
+            { "choice_text": "بسبب إعلان العاص حمايته لعمر (نظام الجوار)", "is_correct": true },
+            { "choice_text": "لأن وقت الصلاة قد حان", "is_correct": false },
+            { "choice_text": "لأن النبي ﷺ تدخل بنفسه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحقيقة التي أكدها المصدر بشأن حالة المسلمين بعد إسلام عمر وحمزة؟",
+        "difficulty_score": 700,
+        "explanation": "رغم القوة التي أضافاها، إلا أن سطوة المشركين ظلت عالية وقوية والمسلمون ظلوا قلة في مكة [15].",
+        "choices": [
+            { "choice_text": "انتهى التعذيب والاضطهاد تماماً", "is_correct": false },
+            { "choice_text": "ظلت سطوة المشركين عالية والمسلمون قلة", "is_correct": true },
+            { "choice_text": "أصبح المسلمون حكام مكة", "is_correct": false },
+            { "choice_text": "هاجر جميع المشركين من مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء الذي ختم به المصدر لقاءه فيما يخص الفتن؟",
+        "difficulty_score": 200,
+        "explanation": "دعا بأن يجنبهم الفتن المضلة، ويحبب إليهم الإيمان ويزينه في قلوبهم [16].",
+        "choices": [
+            { "choice_text": "طلب الزيادة في المال", "is_correct": false },
+            { "choice_text": "أن يزين الله الإيمان في قلوبهم ويجنبهم الفتن", "is_correct": true },
+            { "choice_text": "أن يفتح لهم بلاد الروم", "is_correct": false },
+            { "choice_text": "أن يهلك جميع أعدائهم فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد القرآني في سورة الفرقان على قول المشركين 'أساطير الأولين اكتتبها'؟",
+        "difficulty_score": 400,
+        "explanation": "جاء الرد: 'قل أنزله الذي يعلم السر في السماوات والأرض' [17, 18].",
+        "choices": [
+            { "choice_text": "أن محمداً ﷺ شاعر مبدع", "is_correct": false },
+            { "choice_text": "أنه منزل من الله الذي يعلم السر", "is_correct": true },
+            { "choice_text": "أنها قصص حقيقية ليست أساطير", "is_correct": false },
+            { "choice_text": "أن المشركين لا يحسنون القراءة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الوظيفة الأساسية لتصحيح المعايير في القرآن المكي؟",
+        "difficulty_score": 600,
+        "explanation": "إبطال المعايير الزائفة للمشركين (مثل طلب الكنوز والقصور للرسل) واستبدالها بمعايير الحق والوحي [19].",
+        "choices": [
+            { "choice_text": "تعريف الناس بكيفية بناء القصور", "is_correct": false },
+            { "choice_text": "إبطال المعايير المادية الزائفة للنبوة", "is_correct": true },
+            { "choice_text": "تشجيع الناس على طلب الثراء", "is_correct": false },
+            { "choice_text": "شرح قواعد التجارة في الأسواق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو سبب استكبار المشركين كما وضحت سورة الفرقان؟",
+        "difficulty_score": 500,
+        "explanation": "ذكرت الآيات أن عدم رجاء لقاء الله هو السبب الأساسي لاستكبارهم: 'وقال الذين لا يرجون لقاءنا...' [20].",
+        "choices": [
+            { "choice_text": "الفقر الشديد", "is_correct": false },
+            { "choice_text": "عدم رجاء لقاء الله (إنكار البعث)", "is_correct": true },
+            { "choice_text": "كثرة العلم والمعرفة", "is_correct": false },
+            { "choice_text": "حبهم للنبي ﷺ سراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي لوصف المشركين بأنهم 'أضل سبيلاً من الأنعام' على المؤمن المستضعف؟",
+        "difficulty_score": 900,
+        "explanation": "يمنحه شعوراً بالاستعلاء الإيماني والعزة، بحيث لا يرى سادة قريش عظماء بل يراهم كائنات معطلة العقل [21, 22].",
+        "choices": [
+            { "choice_text": "يشعره بالخوف منهم", "is_correct": false },
+            { "choice_text": "يمنحه العزة والاستعلاء الإيماني عليهم", "is_correct": true },
+            { "choice_text": "يدفعه للسخرية من الحيوانات", "is_correct": false },
+            { "choice_text": "يشعره بالندم على إسلامه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط بين آيات خلق السماوات والأرض وآيات الرد على المشركين في سورة الفرقان؟",
+        "difficulty_score": 700,
+        "explanation": "الربط هو أن الذي خلق هذا الكون العظيم هو وحده المستحق للعبادة، فكيف يُشرك به من لا يخلق شيئاً؟ [5، 26].",
+        "choices": [
+            { "choice_text": "لا يوجد أي رابط بينهما", "is_correct": false },
+            { "choice_text": "إثبات عظمة الخالق لاستحقاق التوحيد وبطلان الشرك", "is_correct": true },
+            { "choice_text": "تذكير المشركين برحلاتهم التجارية", "is_correct": false },
+            { "choice_text": "شرح ظواهر الطبيعة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان المشركون يقولون: 'إن كاد ليضلنا عن آلهتنا لولا أن صبرنا عليها'؟",
+        "difficulty_score": 800,
+        "explanation": "يدل ذلك على قوة تأثير كلام النبي ﷺ وجذب الحق لنفوسهم، فكانوا يتواصون بالصبر على الباطل لمقاومته [23, 24].",
+        "choices": [
+            { "choice_text": "لأنهم لم يفهموا كلامه أبداً", "is_correct": false },
+            { "choice_text": "بسبب قوة تأثير الحق الذي جاء به النبي ﷺ", "is_correct": true },
+            { "choice_text": "لأن آلهتهم كانت تأمرهم بالصبر", "is_correct": false },
+            { "choice_text": "لأنهم أرادوا الضحك عليه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الاستعلاء المنهجي' الذي ذكره المصدر كقضية حساسة؟",
+        "difficulty_score": 800,
+        "explanation": "هو أن يشعر المؤمن بقيمة ما لديه من الحق والوحي، فيستعلي به على ضلالات أهل الباطل مهما كانت قوتهم المادية [1, 25].",
+        "choices": [
+            { "choice_text": "التكبر على الفقراء من المسلمين", "is_correct": false },
+            { "choice_text": "الاستعلاء بالحق والوحي على أهل الباطل", "is_correct": true },
+            { "choice_text": "طلب المناصب العليا في الدولة", "is_correct": false },
+            { "choice_text": "رفض التحدث مع غير المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو القائد 'المحتمل' لمجموعة المهاجرين المكلف من النبي ﷺ؟",
+        "difficulty_score": 400,
+        "explanation": "أشار المصدر إلى أن جعفر بن أبي طالب كان أشبه ما يكون بقائد المجموعة ومسؤولاً عنها [2, 26].",
+        "choices": [
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": true },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا شددت أسماء بنت عميس على أنها لن تأكل أو تشرب حتى تخبر النبي ﷺ بقول عمر؟",
+        "difficulty_score": 600,
+        "explanation": "بسبب شدة تأثرها النفسي وحرصها على معرفة حقيقة منزلتهم عند الله ورسوله بعد كلام عمر الجارح لها [7, 8].",
+        "choices": [
+            { "choice_text": "لأنها كانت صائمة أصلاً", "is_correct": false },
+            { "choice_text": "لشدة تأثرها وحرصها على تبيان الحق من النبي ﷺ", "is_correct": true },
+            { "choice_text": "لأنها لم تجد طعاماً في مكة", "is_correct": false },
+            { "choice_text": "لأنها أرادت معاقبة عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل أبو موسى الأشعري بحديث 'لكم هجرتان'؟",
+        "difficulty_score": 500,
+        "explanation": "كان يستعيده من أسماء بنت عميس مراراً فرحاً به، فما كان شيء في الدنيا أفرح لهم منه [9].",
+        "choices": [
+            { "choice_text": "كان يحاول تكذيبه", "is_correct": false },
+            { "choice_text": "كان يستعيده ويطلبه منها مراراً لفرحه به", "is_correct": true },
+            { "choice_text": "كان يكتبه في كتاب خاص", "is_correct": false },
+            { "choice_text": "كان يخبر به النجاشي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أثر الاحتكاك بالدين النصراني في الحبشة كما أشار المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "تطلب الأمر قدراً من الثبات، وظهر ذلك في تذكر المهاجرين لمظاهر الكنائس والتصاوير والتحذير النبوي منها [27, 28].",
+        "choices": [
+            { "choice_text": "دخول جميع المسلمين في النصرانية", "is_correct": false },
+            { "choice_text": "تطلبه قدراً من الثبات والوعي بالفرق العقدية", "is_correct": true },
+            { "choice_text": "تغيير القبلة نحو الحبشة", "is_correct": false },
+            { "choice_text": "بناء مساجد تشبه الكنائس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سنة من البعثة يُقدّر فيها إسلام عمر بن الخطاب وحمزة؟",
+        "difficulty_score": 400,
+        "explanation": "يُقدر في السنة الخامسة أو السادسة من البعثة النبوية [29].",
+        "choices": [
+            { "choice_text": "السنة الأولى", "is_correct": false },
+            { "choice_text": "السنة الخامسة أو السادسة", "is_correct": true },
+            { "choice_text": "بعد الهجرة للمدينة بسنة", "is_correct": false },
+            { "choice_text": "العام العاشر للبعثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'موثقي على الإسلام' في قول سعيد بن زيد عن عمر؟",
+        "difficulty_score": 600,
+        "explanation": "أي كان يربطه ويقيده ليمنعه من الإسلام ويصده عنه قبل أن يسلم عمر نفسه [30].",
+        "choices": [
+            { "choice_text": "يشهد لي بالصدق", "is_correct": false },
+            { "choice_text": "كان يربطني ويقيدني لصدي عن الدين", "is_correct": true },
+            { "choice_text": "كان يعلمني القرآن", "is_correct": false },
+            { "choice_text": "كان يحميني من المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف ابن عمر حالة المشركين الذين تجمعوا عند دار أبيه؟",
+        "difficulty_score": 500,
+        "explanation": "وصفهم بأنهم 'سائل بهم الوادي'، تعبيراً عن كثرتهم واندفاعهم الشديد [13].",
+        "choices": [
+            { "choice_text": "أنهم كانوا قلة قليلة", "is_correct": false },
+            { "choice_text": "أنهم سائل بهم الوادي (كثيرون جداً)", "is_correct": true },
+            { "choice_text": "أنهم كانوا يحملون الورود", "is_correct": false },
+            { "choice_text": "أنهم هربوا فور رؤيته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوصيف الذي أطلقه المشركون على عمر بعد إسلامه؟",
+        "difficulty_score": 300,
+        "explanation": "قالوا 'صبأ عمر'، وهي الكلمة التي كانوا يطلقونها على من ترك دين آبائه ودخل في الإسلام [14].",
+        "choices": [
+            { "choice_text": "جن عمر", "is_correct": false },
+            { "choice_text": "صبأ عمر", "is_correct": true },
+            { "choice_text": "مات عمر", "is_correct": false },
+            { "choice_text": "ارتقى عمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي منحه إسلام عمر للمسلمين وفقاً لتحليل المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "منحهم قوة في 'التقوية الداخلية' والشخصية، وزاد من معنوياتهم في مواجهة المجتمع [15].",
+        "choices": [
+            { "choice_text": "أسلحة متطورة", "is_correct": false },
+            { "choice_text": "تقوية داخلية ومعنوية وشخصية", "is_correct": true },
+            { "choice_text": "اتفاقية سلام دائم مع قريش", "is_correct": false },
+            { "choice_text": "مبنى خاص للصلاة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'القصد' الذي سأله النبي ﷺ في دعائه الوارد في الختام؟",
+        "difficulty_score": 800,
+        "explanation": "سأل الله 'القصد في الفقر والغنى'، وهو الاعتدال والتوسط في جميع الأحوال [16].",
+        "choices": [
+            { "choice_text": "طلب الغنى فقط", "is_correct": false },
+            { "choice_text": "القصد (الاعتدال) في الفقر والغنى", "is_correct": true },
+            { "choice_text": "الهجرة إلى بلد بعيد", "is_correct": false },
+            { "choice_text": "تحقيق الأهداف التجارية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'لذة النظر' التي وردت في الدعاء الختامي؟",
+        "difficulty_score": 300,
+        "explanation": "هي 'لذة النظر إلى وجهك والشوق إلى لقائك' [16].",
+        "choices": [
+            { "choice_text": "لذة النظر إلى الجنان", "is_correct": false },
+            { "choice_text": "لذة النظر إلى وجه الله الكريم", "is_correct": true },
+            { "choice_text": "لذة النظر إلى انتصار المسلمين", "is_correct": false },
+            { "choice_text": "لذة النظر إلى الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر أهمية تدبر القرآن في سياق السيرة؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر أن استحضار المرحلة والأحوال التي نزلت فيها السور يجعل التدبر مختلفاً وأعمق [31, 32].",
+        "choices": [
+            { "choice_text": "أنه مجرد حفظ للكلمات", "is_correct": false },
+            { "choice_text": "أن استحضار سياق السيرة يغير ويُعمق فهم القرآن", "is_correct": true },
+            { "choice_text": "أنه غير ضروري لفهم السيرة", "is_correct": false },
+            { "choice_text": "أنه مقتصر على علماء اللغة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل المشركون كلما أتاهم النبي ﷺ بـ 'مثل'؟",
+        "difficulty_score": 500,
+        "explanation": "كان الله يأتي النبي ﷺ بالحق وأحسن تفسيراً رداً على أمثالهم: 'ولا يأتونك بمثل إلا جئناك بالحق...' [33].",
+        "choices": [
+            { "choice_text": "يؤمنون فوراً", "is_correct": false },
+            { "choice_text": "يأتي القرآن بالحق وأحسن تفسيراً رداً عليهم", "is_correct": true },
+            { "choice_text": "يصمتون ولا يردون", "is_correct": false },
+            { "choice_text": "يطلبون المزيد من الأمثال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'حجراً محجوراً' الذي يقوله المجرمون يوم القيامة؟",
+        "difficulty_score": 700,
+        "explanation": "هي عبارة تعبر عن اليأس وطلب الحماية والمنع من العذاب حين يرون الملائكة [34].",
+        "choices": [
+            { "choice_text": "طلب لبناء بيوت حجرية", "is_correct": false },
+            { "choice_text": "تعبير عن اليأس وطلب المنع من العذاب", "is_correct": true },
+            { "choice_text": "اسم لمكان في الجنة", "is_correct": false },
+            { "choice_text": "دعاء بالرحمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قدم الله للمؤمنين في سورة الفرقان كبديل عن مستقر الكفار؟",
+        "difficulty_score": 400,
+        "explanation": "وصف مستقر المؤمنين بأنه 'حسنت مستقراً ومقاماً' و 'خير مستقراً وأحسن مقيلاً' [31].",
+        "choices": [
+            { "choice_text": "بيوتاً في الدنيا", "is_correct": false },
+            { "choice_text": "خير مستقر وأحسن مقيل في الجنة", "is_correct": true },
+            { "choice_text": "جبالاً من الحجر", "is_correct": false },
+            { "choice_text": "لا شيء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة التي انتهى إليها اللقاء حول دور المربي؟",
+        "difficulty_score": 900,
+        "explanation": "ضرورة البناء العميق والتربية الجادة التي تجعل المتربي يثبت في الأزمات والشدائد حتى لو انقطع عن المربي [4].",
+        "choices": [
+            { "choice_text": "تلقين المعلومات فقط", "is_correct": false },
+            { "choice_text": "البناء الإيماني العميق للثبات في الأزمات", "is_correct": true },
+            { "choice_text": "التركيز على الجوانب المادية", "is_correct": false },
+            { "choice_text": "تقليل زمن التربية", "is_correct": false }
+        ]
+    }
+]
+    }

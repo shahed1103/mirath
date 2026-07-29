@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 72,
+    "questions": [
+         {
+        "question_text": "ينقسم الحديث من حيث القبول والرد إلى:",
+        "difficulty_score": 100,
+        "explanation": "أوضح الناظم في مستهل الفصل أن قسما الحديث هما مقبول ومردود [1].",
+        "choices": [
+            { "choice_text": "صحيح وحسن وضعيف", "is_correct": false },
+            { "choice_text": "مقبول ومردود", "is_correct": true },
+            { "choice_text": "متصل ومنقطع", "is_correct": false },
+            { "choice_text": "مشهور وآحاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل تقسيم الحديث من حيث (الصحة والضعف) يساوي تماماً تقسيمه من حيث (القبول والرد)؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر الشارح أن التقسيمين لا يتساويان، فقد يكون الحديث ضعيفاً ولكنه مقبول (للاعتبار) [1].",
+        "choices": [
+            { "choice_text": "نعم، هما متطابقان", "is_correct": false },
+            { "choice_text": "لا، المقبول أوسع من الصحيح", "is_correct": true },
+            { "choice_text": "لا، المردود أوسع من الضعيف", "is_correct": false },
+            { "choice_text": "نعم، في اصطلاح المتقدمين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأقسام التالية يندرج تحت 'المقبول'؟",
+        "difficulty_score": 200,
+        "explanation": "ينقسم المقبول إلى مقبول للاحتجاج ومقبول للاعتبار [15].",
+        "choices": [
+            { "choice_text": "مقبول للاحتجاج فقط", "is_correct": false },
+            { "choice_text": "مقبول للاعتبار فقط", "is_correct": false },
+            { "choice_text": "مقبول للاحتجاج ومقبول للاعتبار", "is_correct": true },
+            { "choice_text": "الصحيح لذاته فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الحد الأعلى' للمقبول الذي ذكره الناظم؟",
+        "difficulty_score": 400,
+        "explanation": "الحد الأعلى هو ما كملت فيه شروط الاتصال والعدالة والضبط وعدم العلة والشذوذ، وهو المقبول للاحتجاج [4]، [8].",
+        "choices": [
+            { "choice_text": "ما لم يتبين خطؤه", "is_correct": false },
+            { "choice_text": "الحديث الحسن لغيره", "is_correct": false },
+            { "choice_text": "قسم الاحتجاج وهو ما قد كملت شروطه", "is_correct": true },
+            { "choice_text": "ما سكت عنه أبو داود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "المقبول للاحتجاج يشمل نوعين عند المحدثين هما:",
+        "difficulty_score": 200,
+        "explanation": "أدخل المتقدمون الصحيح والحسن في جملة المقبول للاحتجاج [2].",
+        "choices": [
+            { "choice_text": "الصحيح والحسن", "is_correct": true },
+            { "choice_text": "الصحيح والضعيف", "is_correct": false },
+            { "choice_text": "المسند والمرسل", "is_correct": false },
+            { "choice_text": "المرفوع والموقوف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا يُعرف 'المقبول لالعتبار' في الجملة؟",
+        "difficulty_score": 300,
+        "explanation": "المقبول للاعتبار هو الحديث الذي فيه ضعف يسير لم يتبين خطؤه [21].",
+        "choices": [
+            { "choice_text": "الحديث الذي اتصل سنده", "is_correct": false },
+            { "choice_text": "الحديث الضعيف ضعفاً يسيراً", "is_correct": true },
+            { "choice_text": "الحديث الذي رواه الكذابون", "is_correct": false },
+            { "choice_text": "الحديث المنكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الرواة التاليين يدخل حديثه في قسم 'الاعتبار'؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر الناظم أن 'اللين' (الراوي اللين) أو المرسل يدخلان في الاعتبار [21].",
+        "choices": [
+            { "choice_text": "الراوي الكذاب", "is_correct": false },
+            { "choice_text": "الراوي المتروك", "is_correct": false },
+            { "choice_text": "الراوي اللين (لين الراوي)", "is_correct": true },
+            { "choice_text": "الراوي العدل الضابط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم الحديث 'المردود' من حيث الاستشهاد به؟",
+        "difficulty_score": 400,
+        "explanation": "المردود (شديد الضعف) لا يقبل احتجاجاً ولا اعتباراً ولا يُستشهد به [15].",
+        "choices": [
+            { "choice_text": "يُستشهد به إذا جاء من طريق آخر", "is_correct": false },
+            { "choice_text": "يُقبل في فضائل الأعمال فقط", "is_correct": false },
+            { "choice_text": "لا يُستشهد به ولا يُجبر أبداً", "is_correct": true },
+            { "choice_text": "يُعتبر به عند الضرورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الجملة التي تصف 'الحد الأدنى' للمقبول؟",
+        "difficulty_score": 400,
+        "explanation": "الجملة التي تراعي الحد الأدنى ليدخل فيها الاعتبار هي: 'الحديث الذي لم يتبين خطؤه' [4].",
+        "choices": [
+            { "choice_text": "الحديث الذي صح سنده", "is_correct": false },
+            { "choice_text": "الحديث الذي لم يتبين خطؤه", "is_correct": true },
+            { "choice_text": "الحديث الذي رواه العدل", "is_correct": false },
+            { "choice_text": "الحديث الذي ليس فيه شذوذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا نحكم بتبين الخطأ في رواية الضعيف (سوء الحفظ) مباشرة؟",
+        "difficulty_score": 600,
+        "explanation": "لأن سوء الحفظ لا يعني أن الراوي يخطئ دائماً، بل يعني أنه يخطئ كثيراً، فلا نحكم على كل مروياته بالخطأ قطعاً [22].",
+        "choices": [
+            { "choice_text": "لأنه ثقة في الأصل", "is_correct": false },
+            { "choice_text": "لأن سوء الحفظ لا يعني عدم الإصابة أبداً", "is_correct": true },
+            { "choice_text": "لأن الحديث المنقطع أقوى منه", "is_correct": false },
+            { "choice_text": "لأن الضبط ليس شرطاً في القبول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين يُوضع حديث الضعيف (ضعفاً يسيراً) عند المحدثين؟",
+        "difficulty_score": 500,
+        "explanation": "يوضع في خانة الاختبار والاحتفاظ لعل له عاضداً يشد منه [3].",
+        "choices": [
+            { "choice_text": "في خانة المردود مباشرة", "is_correct": false },
+            { "choice_text": "في خانة الاحتجاج المستقل", "is_correct": false },
+            { "choice_text": "في خانة الاعتبار (الاختبار)", "is_correct": true },
+            { "choice_text": "في خانة الموضوعات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو العالم الذي عُرف بأن مرسلاته هي أقوى المراسيل؟",
+        "difficulty_score": 300,
+        "explanation": "نص الشارح على أن أقوى المراسيل مراسيل سعيد بن المسيب [10].",
+        "choices": [
+            { "choice_text": "الحسن البصري", "is_correct": false },
+            { "choice_text": "سعيد بن المسيب", "is_correct": true },
+            { "choice_text": "ابن شهاب الزهري", "is_correct": false },
+            { "choice_text": "قتادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما سبب قوة مراسيل سعيد بن المسيب كما ورد في المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "لأن القرائن تدل على أنه لا يسقط من روايته شخصاً كذاباً أو شديد الضعف [10].",
+        "choices": [
+            { "choice_text": "لأنه لا يروي إلا عن الصحابة فقط", "is_correct": false },
+            { "choice_text": "لأن القرائن تدل على أن الساقط في روايته ليس شديد الضعف", "is_correct": true },
+            { "choice_text": "لأن مروياته متصلة في الحقيقة", "is_correct": false },
+            { "choice_text": "لأن الإمام أحمد صحح كل مرسلاته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المتقدمون بقولهم 'حسن' عن حديث فيه ضعف؟",
+        "difficulty_score": 800,
+        "explanation": "تحسينهم لا يعني أنه في درجة بين الصحيح والضعيف دائماً، بل قد يقصدون أن فيه ضعفاً يسيراً لم يتبين خطؤه [16]، [17].",
+        "choices": [
+            { "choice_text": "أنه حديث صحيح تماماً", "is_correct": false },
+            { "choice_text": "أن فيه ضعفاً لكنه لم يتبين خطؤه", "is_correct": true },
+            { "choice_text": "أنه حديث منكر", "is_correct": false },
+            { "choice_text": "أنه مسند متصل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ابن عبد البر قد يصف حديثاً بأنه 'حسن جداً' مع أنه:",
+        "difficulty_score": 700,
+        "explanation": "ذكر الشارح مثالاً لحديث حسنه ابن عبد البر وليس له إسناد، وذلك لحسن معناه [11].",
+        "choices": [
+            { "choice_text": "ليس له إسناد", "is_correct": true },
+            { "choice_text": "رواه كذاب", "is_correct": false },
+            { "choice_text": "منقطع السند فقط", "is_correct": false },
+            { "choice_text": "شديد الشذوذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'المنكر' في قول الإمام أحمد 'والمنكر أبداً منكر'؟",
+        "difficulty_score": 500,
+        "explanation": "يقصد بالمنكر هنا 'المردود' الذي لا يقوى ولا يُستشهد به [13].",
+        "choices": [
+            { "choice_text": "الحديث الغريب", "is_correct": false },
+            { "choice_text": "الحديث المردود", "is_correct": true },
+            { "choice_text": "الحديث الذي رواه الثقة", "is_correct": false },
+            { "choice_text": "الحديث الحسن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يكون تحسين الترمذي للحديث دليلاً على وجود 'إشكال' فيه؟",
+        "difficulty_score": 600,
+        "explanation": "عندما يقول الترمذي 'حسن' ولا يقول 'صحيح'، فالأصل أن في الحديث إشكالاً لا يصل لدرجة الرد الكلي [13].",
+        "choices": [
+            { "choice_text": "دائماً", "is_correct": false },
+            { "choice_text": "عندما لا يصفه بالصحة أيضاً", "is_correct": true },
+            { "choice_text": "عندما يرويه من وجه واحد", "is_correct": false },
+            { "choice_text": "إذا كان الراوي ثقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الإشكال المحتمل في حديث حسنه الترمذي؟",
+        "difficulty_score": 600,
+        "explanation": "قد يكون الإشكال اختلاف في الأسانيد، أو راوٍ فيه ضعف يسير، أو انقطاع يسير [18].",
+        "choices": [
+            { "choice_text": "وجود راوٍ كذاب", "is_correct": false },
+            { "choice_text": "انقطاع يسير أو ضعف يسير", "is_correct": true },
+            { "choice_text": "نكارة شديدة في المتن", "is_correct": false },
+            { "choice_text": "مخالفة صريحة للقرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث دخول المسجد، وصفه الترمذي بأنه 'حسن' رغم أنه:",
+        "difficulty_score": 700,
+        "explanation": "وصفه بالحسن رغم أن إسناده منقطع (غير متصل) [7].",
+        "choices": [
+            { "choice_text": "موضوع", "is_correct": false },
+            { "choice_text": "منقطع السند", "is_correct": true },
+            { "choice_text": "شديد النكارة", "is_correct": false },
+            { "choice_text": "رواه كذاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "مراد الإمام أحمد بـ 'الضعيف' (في قوله الضعيف أحب إلي...) يقارب مراد الترمذي بـ:",
+        "difficulty_score": 600,
+        "explanation": "ذكر ابن رجب أن مراد أحمد بالضعيف قريب من مراد الترمذي بالحسن [14].",
+        "choices": [
+            { "choice_text": "الصحيح", "is_correct": false },
+            { "choice_text": "الحسن", "is_correct": true },
+            { "choice_text": "المنكر", "is_correct": false },
+            { "choice_text": "الموضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عندما يسكت أبو داود عن حديث في سننه، فماذا نطلق عليه وفق النظم؟",
+        "difficulty_score": 500,
+        "explanation": "يسمى 'صالحاً'، والصالح للاعتبار كأدنى حد [9].",
+        "choices": [
+            { "choice_text": "صحيح", "is_correct": false },
+            { "choice_text": "حسن لذاته", "is_correct": false },
+            { "choice_text": "صالح", "is_correct": true },
+            { "choice_text": "ضعيف جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق بين 'صالح' عند أبي داود و 'حسن' عند المتأخرين؟",
+        "difficulty_score": 800,
+        "explanation": "الصلاحية أعم، فقد تعني صالحاً للاحتجاج أو صالحاً للاعتبار، بينما الحسن عند المتأخرين قالب أضيق [9].",
+        "choices": [
+            { "choice_text": "لا فرق بينهما", "is_correct": false },
+            { "choice_text": "الصالح أضيق من الحسن", "is_correct": false },
+            { "choice_text": "الصالح يعني المقبول عموماً (احتجاجاً أو اعتباراً)", "is_correct": true },
+            { "choice_text": "الحسن أقوى دائماً من الصالح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'مقارب الحديث' عند البخاري؟",
+        "difficulty_score": 700,
+        "explanation": "تعني أنه قريب من طبقة المقبول للاعتبار أو الحسن [19].",
+        "choices": [
+            { "choice_text": "أنه ثقة ثبت", "is_correct": false },
+            { "choice_text": "أنه قريب من طبقة الاعتبار", "is_correct": true },
+            { "choice_text": "أنه كذاب", "is_correct": false },
+            { "choice_text": "أنه منكر الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل المقبول للاعتبار مرتبة واحدة؟",
+        "difficulty_score": 400,
+        "explanation": "لا، بل هو مراتب، فبعضه يقارب الضعف وبعضه يقارب الصحيح [19].",
+        "choices": [
+            { "choice_text": "نعم، هو درجة واحدة ثابتة", "is_correct": false },
+            { "choice_text": "لا، له مراتب متفاوتة", "is_correct": true },
+            { "choice_text": "نعم، هو نفسه الحديث الحسن", "is_correct": false },
+            { "choice_text": "لا، هو مرتبتان فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحد الأدنى لقبول الحديث كما لخصه الشارح؟",
+        "difficulty_score": 400,
+        "explanation": "الحد الأدنى هو ألا يتبين خطأ الحديث [4].",
+        "choices": [
+            { "choice_text": "اتصال السند", "is_correct": false },
+            { "choice_text": "عدم تبين الخطأ", "is_correct": true },
+            { "choice_text": "رواية الثقة عن الثقة", "is_correct": false },
+            { "choice_text": "موافقة المشهور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُحتفظ بحديث الراوي الضعيف (سوء الحفظ)؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه قد يتبين لاحقاً وجود إسناد آخر يوافقه ويعضده [3].",
+        "choices": [
+            { "choice_text": "للتبرك به", "is_correct": false },
+            { "choice_text": "لاحتمال وجود عاضد يقويه", "is_correct": true },
+            { "choice_text": "لأنه حجة بنفسه", "is_correct": false },
+            { "choice_text": "لأنه لا يخطئ أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الشروط ليس من شروط 'المقبول للاحتجاج'؟",
+        "difficulty_score": 300,
+        "explanation": "شروط الاحتجاج هي العدالة والضبط والاتصال وعدم العلة والشذوذ. (كثرة الرواة ليست شرطاً) [2]، [8].",
+        "choices": [
+            { "choice_text": "ضبط الرواة", "is_correct": false },
+            { "choice_text": "اتصال الإسناد", "is_correct": false },
+            { "choice_text": "كثرة الرواة", "is_correct": true },
+            { "choice_text": "عدم العلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وصف الحديث الذي سقط منه الصحابي عند المتأخرين (البيقونية)؟",
+        "difficulty_score": 200,
+        "explanation": "يسمونه 'مرسلاً'، وإن كان الشارح يراه تعريفاً غير دقيق [5].",
+        "choices": [
+            { "choice_text": "معضل", "is_correct": false },
+            { "choice_text": "مرسل", "is_correct": true },
+            { "choice_text": "منقطع", "is_correct": false },
+            { "choice_text": "مدلس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا نفترض أن الساقط في المرسل 'صحابي' دائماً فنصححه؟",
+        "difficulty_score": 600,
+        "explanation": "لأننا لا نعلم حقيقة من سقط، فقد يكون تابعياً ضعيفاً أو كذاباً [6].",
+        "choices": [
+            { "choice_text": "لأن الصحابة ليسوا كلهم عدولاً", "is_correct": false },
+            { "choice_text": "لأن الساقط مجهول وقد يكون غير ثقة", "is_correct": true },
+            { "choice_text": "لأن التابعي لا يروي عن صحابي", "is_correct": false },
+            { "choice_text": "لأن المرسل مردود قولاً واحداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "رواية الثقة عن شخص مسمى لا نعرف حاله:",
+        "difficulty_score": 700,
+        "explanation": "قد تفيد في حال كان الثقة لا يروي إلا عن ثقة، لكنها بشكل عام لا توثق المروي عنه تلقائياً [16].",
+        "choices": [
+            { "choice_text": "تعتبر توثيقاً مطلقاً", "is_correct": false },
+            { "choice_text": "تعتبر تضعيفاً مطلقاً", "is_correct": false },
+            { "choice_text": "قد تفيد إذا كان الثقة لا يروي إلا عن ثقة", "is_correct": true },
+            { "choice_text": "لا فائدة منها أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى لفظ 'فلتئد' في قول الناظم: (قسما الحديث فلتئد لتعلم)؟",
+        "difficulty_score": 300,
+        "explanation": "التؤدة هي التأني وعدم العجلة لضبط العلم [1].",
+        "choices": [
+            { "choice_text": "أسرع", "is_correct": false },
+            { "choice_text": "تأنَّ", "is_correct": true },
+            { "choice_text": "احفظ", "is_correct": false },
+            { "choice_text": "اكتب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من القائل 'ابن الصالح حده فلتعقلوا'؟",
+        "difficulty_score": 200,
+        "explanation": "يشير الناظم إلى تعريف ابن الصالح للحديث الصحيح [2].",
+        "choices": [
+            { "choice_text": "البخاري", "is_correct": false },
+            { "choice_text": "ابن الصلاح", "is_correct": true },
+            { "choice_text": "مسلم", "is_correct": false },
+            { "choice_text": "الترمذي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكلمة 'كمال' في (وهو ما قد كمال)؟",
+        "difficulty_score": 400,
+        "explanation": "أي اكتملت فيه صفات القبول الخمسة [2].",
+        "choices": [
+            { "choice_text": "كثرة الطرق", "is_correct": false },
+            { "choice_text": "تمام الشروط", "is_correct": true },
+            { "choice_text": "علو الإسناد", "is_correct": false },
+            { "choice_text": "جمال اللفظ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا تبين خطأ الحديث يقيناً، فإنه يُصنف ضمن:",
+        "difficulty_score": 300,
+        "explanation": "الحديث الذي تبين خطؤه هو المردود [15]، [8].",
+        "choices": [
+            { "choice_text": "المقبول لالعتبار", "is_correct": false },
+            { "choice_text": "المقبول للاحتجاج", "is_correct": false },
+            { "choice_text": "المردود", "is_correct": true },
+            { "choice_text": "الحسن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الواو في قول الناظم (وأحمد قد قال...) هل هي عاطفة؟",
+        "difficulty_score": 900,
+        "explanation": "أوضح الشارح أنها واو استئنافية وليست عطفاً لبيان استقلال قول الإمام أحمد [7].",
+        "choices": [
+            { "choice_text": "نعم، عاطفة", "is_correct": false },
+            { "choice_text": "لا، استئنافية", "is_correct": true },
+            { "choice_text": "واو المعية", "is_correct": false },
+            { "choice_text": "واو الحال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الحديث المنقطع عند الحفاظ الأوائل يسمى غالباً:",
+        "difficulty_score": 400,
+        "explanation": "يسمونه مرسلاً بالمعنى العام الشامل لأي انقطاع [5]، [6].",
+        "choices": [
+            { "choice_text": "معضلاً", "is_correct": false },
+            { "choice_text": "مرسلاً", "is_correct": true },
+            { "choice_text": "موقوفاً", "is_correct": false },
+            { "choice_text": "مسنداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من الاحتفاظ بالحديث الضعيف (يسير الضعف)؟",
+        "difficulty_score": 500,
+        "explanation": "الفائدة هي استخدامه في الاعتبار والاختبار [3]، [9].",
+        "choices": [
+            { "choice_text": "إثبات الأحكام الشرعية به منفرداً", "is_correct": false },
+            { "choice_text": "الاعتبار به عند البحث عن الأسانيد", "is_correct": true },
+            { "choice_text": "رد الأحاديث الصحيحة به", "is_correct": false },
+            { "choice_text": "لا فائدة منه مطلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ يصف المحدثون الراوي الذي 'خف ضبطه'؟",
+        "difficulty_score": 300,
+        "explanation": "يسمى حديثه 'حسناً' [2].",
+        "choices": [
+            { "choice_text": "صحيح", "is_correct": false },
+            { "choice_text": "حسن", "is_correct": true },
+            { "choice_text": "ضعيف", "is_correct": false },
+            { "choice_text": "متروك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كتاب 'المراسيل' المشهور هو لـ:",
+        "difficulty_score": 200,
+        "explanation": "ذكر الشارح كتاب المراسيل لابن أبي حاتم [6].",
+        "choices": [
+            { "choice_text": "البخاري", "is_correct": false },
+            { "choice_text": "ابن أبي حاتم", "is_correct": true },
+            { "choice_text": "الترمذي", "is_correct": false },
+            { "choice_text": "أبي داود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا نلقي بحديث الراوي الضعيف 'في الفضاء'؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه قد ينجبر بطريق آخر، ولأن الأصل فيه أنه لم يتبين خطؤه بعد [3].",
+        "choices": [
+            { "choice_text": "لأنه ثقة", "is_correct": false },
+            { "choice_text": "لإمكانية انجباوره لاحقاً", "is_correct": true },
+            { "choice_text": "لأنه صحيح السند", "is_correct": false },
+            { "choice_text": "خوفاً من ضياع السنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشرط الذي وضعه الترمذي في الحديث 'الحسن' فيما يتعلق بمخالفة الثقات؟",
+        "difficulty_score": 500,
+        "explanation": "اشترط الترمذي في الحديث الذي يحسنه ألا يكون راويه مخالفاً لمن هو أوثق منه (الثقات) [1].",
+        "choices": [
+            { "choice_text": "أن يخالف الثقات دائماً", "is_correct": false },
+            { "choice_text": "ألا يكون مخالفاً لثقة", "is_correct": true },
+            { "choice_text": "أن يوافق الضعفاء", "is_correct": false },
+            { "choice_text": "لا يشترط عدم المخالفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "يشترط الترمذي في الحديث الحسن ألا يكون في إسناده شخص يُوصف بـ:",
+        "difficulty_score": 400,
+        "explanation": "نص الناظم على شرط الترمذي 'وليس في إسناده مكذب'، أي كذاب [1].",
+        "choices": [
+            { "choice_text": "صدوق", "is_correct": false },
+            { "choice_text": "مكذب (كذاب)", "is_correct": true },
+            { "choice_text": "مقبول", "is_correct": false },
+            { "choice_text": "مجهول الحال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من شروط الحسن عند الترمذي أن يُروى الحديث من:",
+        "difficulty_score": 400,
+        "explanation": "يشترط الترمذي تعدد الطرق (أن يكون قد رواه غير وجه) ليحكم بالحسن على من فيه ضعف يسير [1].",
+        "choices": [
+            { "choice_text": "وجه واحد فقط", "is_correct": false },
+            { "choice_text": "غير وجه (تعدد الطرق)", "is_correct": true },
+            { "choice_text": "طريق مجهول", "is_correct": false },
+            { "choice_text": "رواية كذاب واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة دخول المسجد، لماذا اعتبر الترمذي الحديث حسناً رغم انقطاعه؟",
+        "difficulty_score": 700,
+        "explanation": "لأن مصطلح الحسن عنده أوسع من مجرد اتصال السند، وقد يطلقه على ما فيه انقطاع يسير لم يتبين خطؤه [2].",
+        "choices": [
+            { "choice_text": "لأنه متصل السند في الحقيقة", "is_correct": false },
+            { "choice_text": "لأن لفظ الحسن يحتمل الإطلاق على المنقطع يسراً", "is_correct": true },
+            { "choice_text": "لأن الرواة كلهم أئمة", "is_correct": false },
+            { "choice_text": "لأنه حديث موضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفئة التي قصدها الناظم بقوله 'بعض الأولى' الذين حسنوا الضعيف؟",
+        "difficulty_score": 600,
+        "explanation": "يقصد أئمة الحديث المتقدمين كالترمذي وأحمد بن حنبل [17، 19].",
+        "choices": [
+            { "choice_text": "المتأخرون من الفقهاء", "is_correct": false },
+            { "choice_text": "أئمة الحديث المتقدمون", "is_correct": true },
+            { "choice_text": "رواة الأحاديث الموضوعة", "is_correct": false },
+            { "choice_text": "أهل اللغة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على شرح ابن رجب، ما الذي يقابل 'الحسن' عند الترمذي في اصطلاح الإمام أحمد؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر ابن رجب أن مراد أحمد بالضعيف قريب من مراد الترمذي بالحسن [3].",
+        "choices": [
+            { "choice_text": "الصحيح لذاته", "is_correct": false },
+            { "choice_text": "الضعيف (الذي لم يتبين خطؤه)", "is_correct": true },
+            { "choice_text": "المنكر أبداً", "is_correct": false },
+            { "choice_text": "الموضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد الإمام أحمد بقوله 'ضعيف الحديث أحب إلي من آراء الرجال'؟",
+        "difficulty_score": 500,
+        "explanation": "يقصد أن الحديث الذي فيه ضعف يسير أولى بالاتباع من الرأي المجرد لأنه يندرج تحت المقبول لالعتبار [3].",
+        "choices": [
+            { "choice_text": "أنه يفضل الأحاديث المنكرة", "is_correct": false },
+            { "choice_text": "أن الضعيف يسير الضعف خير من القياس والرأي", "is_correct": true },
+            { "choice_text": "أنه يرد كل الأحاديث", "is_correct": false },
+            { "choice_text": "أنه يفضل آراء الرجال دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أبو داود السجزي يسكت عن أحاديث في سننه، فما حكمها عنده؟",
+        "difficulty_score": 400,
+        "explanation": "سكوت أبي داود يعني أن الحديث 'صالح' للاحتجاج أو الاعتبار [4].",
+        "choices": [
+            { "choice_text": "موضوعة", "is_correct": false },
+            { "choice_text": "صحيحة بالضرورة", "is_correct": false },
+            { "choice_text": "صالحة (مقبولة عموماً)", "is_correct": true },
+            { "choice_text": "منكرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل اشترط أبو داود 'سلامة النقل' (الصحة المطلقة) فيما سكت عنه؟",
+        "difficulty_score": 600,
+        "explanation": "نص الناظم على أن أبا داود 'لم يشترط سلامة لنقله' في كل ما سكت عنه بل اكتفى بالصلاحية [4].",
+        "choices": [
+            { "choice_text": "نعم، كل مسكوت عنه صحيح", "is_correct": false },
+            { "choice_text": "لا، قد يكون صالحاً للاعتبار فقط", "is_correct": true },
+            { "choice_text": "نعم، يشترط أعلى درجات الضبط", "is_correct": false },
+            { "choice_text": "لا، يسكت عن الموضوعات أيضاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'ليس على درجة واحدة' فيما يخص المقبول للاعتبار؟",
+        "difficulty_score": 700,
+        "explanation": "يعني أن المقبول للاعتبار يتفاوت، فمنه ما يقارب الضعف ومنه ما يقارب الصحيح [5].",
+        "choices": [
+            { "choice_text": "أن الرواة كلهم كذابون", "is_correct": false },
+            { "choice_text": "أن له مراتب متفاوتة في القوة", "is_correct": true },
+            { "choice_text": "أنه لا فرق بينه وبين المنكر", "is_correct": false },
+            { "choice_text": "أنه مرتبة واحدة ثابتة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا نصح الناظم طالب العلم في التعامل مع مراتب المقبول؟",
+        "difficulty_score": 300,
+        "explanation": "نصحه ألا يكون 'مضيقاً شحيحاً'، أي أن يترك الأمر واسعاً كما تركه المحدثون [5].",
+        "choices": [
+            { "choice_text": "أن يكون شديد التضييق", "is_correct": false },
+            { "choice_text": "ألا يكون مضيقاً شحيحاً", "is_correct": true },
+            { "choice_text": "أن يحفظ الأسانيد فقط", "is_correct": false },
+            { "choice_text": "أن يرد كل ما فيه ضعف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الراوي الذي يصفه البخاري بأنه 'مقارب الحديث' يندرج تحت طبقة:",
+        "difficulty_score": 700,
+        "explanation": "يندرج تحت طبقة المقبول للاعتبار أو الحسن [5].",
+        "choices": [
+            { "choice_text": "الثقات الأثبات", "is_correct": false },
+            { "choice_text": "الضعفاء المتروكين", "is_correct": false },
+            { "choice_text": "الطبقة القريبة من الاعتبار والحسن", "is_correct": true },
+            { "choice_text": "الكذابين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للدرس، 'الضعف يسير الضعف' يشتغل في أي خانة؟",
+        "difficulty_score": 500,
+        "explanation": "يشتغل في خانة 'القبول للاعتبار' [6].",
+        "choices": [
+            { "choice_text": "خانة الرد المطلق", "is_correct": false },
+            { "choice_text": "خانة القبول للاعتبار", "is_correct": true },
+            { "choice_text": "خانة الاحتجاج المستقل", "is_correct": false },
+            { "choice_text": "خانة الموضوعات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق الجوهري بين 'الضعيف' و 'المنكر' عند الإمام أحمد؟",
+        "difficulty_score": 900,
+        "explanation": "الضعيف قد يُحتاج إليه (للاعتبار)، أما المنكر فهو مردود أبداً ولا يُستشهد به [7].",
+        "choices": [
+            { "choice_text": "لا فرق بينهما", "is_correct": false },
+            { "choice_text": "الضعيف يُقبل للاعتبار والمنكر لا يُقبل", "is_correct": true },
+            { "choice_text": "المنكر أقوى من الضعيف", "is_correct": false },
+            { "choice_text": "كلاهما يُحتج به في الأحكام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "تحسين ابن عبد البر لحديث 'ليس له إسناد' دليل على أن الحسن قد يعود لـ:",
+        "difficulty_score": 800,
+        "explanation": "دليل على أن الحسن قد يُطلق لجمال المعنى وصحته لا لقوة السند [8].",
+        "choices": [
+            { "choice_text": "قوة الرواة", "is_correct": false },
+            { "choice_text": "اتصال السند", "is_correct": false },
+            { "choice_text": "حسن المعنى واستقامته", "is_correct": true },
+            { "choice_text": "كثرة المتابعات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الإشكال في إطلاق المتأخرين لكلمة 'حسن' على رتبة واحدة فقط؟",
+        "difficulty_score": 800,
+        "explanation": "الإشكال أن المتقدمين أطلقوا 'الحسن' على معانٍ متعددة (ضعيف، مقبول، مستحسن المعنى)، وتضييقه في قالب واحد يضيع فهم كلامهم [14، 15].",
+        "choices": [
+            { "choice_text": "أنه إطلاق صحيح دائماً", "is_correct": false },
+            { "choice_text": "أنه يضيق واسعاً ويخالف منهج المتقدمين المتعدد", "is_correct": true },
+            { "choice_text": "أنه يسهل علم الحديث", "is_correct": false },
+            { "choice_text": "لا يوجد أي إشكال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'المرسل' من قسم الضعيف بشكل عام؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب فقدان شرط 'الاتصال' وجهالة الراوي الساقط [9].",
+        "choices": [
+            { "choice_text": "لأن الرواة كذابون", "is_correct": false },
+            { "choice_text": "بسبب انقطاع السند وجهالة الساقط", "is_correct": true },
+            { "choice_text": "لأنه رواية صحابي عن صحابي", "is_correct": false },
+            { "choice_text": "لأن متنه منكر دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عندما يروي الحسن البصري عن عمر بن الخطاب، يسمى هذا عند الأوائل:",
+        "difficulty_score": 300,
+        "explanation": "يسمى مرسلاً لأن الحسن لم يدرك عمر، والمرسل عندهم هو كل منقطع [9].",
+        "choices": [
+            { "choice_text": "مسنداً", "is_correct": false },
+            { "choice_text": "مرسلاً", "is_correct": true },
+            { "choice_text": "مرفوعاً", "is_correct": false },
+            { "choice_text": "متواتراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'قرائن الحال' في تقوية المراسيل؟",
+        "difficulty_score": 700,
+        "explanation": "هي الظروف المحيطة بالراوي (مثل كونه لا يرسل إلا عن ثقة) التي ترفع من قيمة مرسله [10].",
+        "choices": [
+            { "choice_text": "كثرة عدد الرواة فقط", "is_correct": false },
+            { "choice_text": "الصفات المحيطة بالراوي والمنقول عنه", "is_correct": true },
+            { "choice_text": "أن يكون الحديث في الفضائل", "is_correct": false },
+            { "choice_text": "أن يوافق رأي الجمهور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي الكتب التالية ذكرها الشارح كمصدر لأقوال المتقدمين في المراسيل؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر كتاب 'المراسيل' لابن أبي حاتم [11].",
+        "choices": [
+            { "choice_text": "صحيح البخاري", "is_correct": false },
+            { "choice_text": "مراسيل ابن أبي حاتم", "is_correct": true },
+            { "choice_text": "سنن النسائي", "is_correct": false },
+            { "choice_text": "موطأ مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يكون الانقطاع في السند 'غير مؤثر' في صحة الحديث يقيناً؟",
+        "difficulty_score": 900,
+        "explanation": "عندما يتبين بطريق آخر أن الساقط ثقة وأن السند في حقيقته متصل وثابت [11].",
+        "choices": [
+            { "choice_text": "إذا كان الراوي مشهوراً", "is_correct": false },
+            { "choice_text": "إذا ثبت بطريق آخر اتصال السند وثقة الساقط", "is_correct": true },
+            { "choice_text": "بمجرد أن يرويه إمام كبير", "is_correct": false },
+            { "choice_text": "لا يمكن أن يكون غير مؤثر أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "رواية سفيان الثوري عن الضعفاء تدل على أن:",
+        "difficulty_score": 600,
+        "explanation": "الثقة قد يروي عن الضعيف، فروايته لا تقتضي توثيق المروي عنه [12].",
+        "choices": [
+            { "choice_text": "كل من روى عنه سفيان فهو ثقة", "is_correct": false },
+            { "choice_text": "الثقة قد يروي عن الضعفاء", "is_correct": true },
+            { "choice_text": "سفيان الثوري ضعيف", "is_correct": false },
+            { "choice_text": "الضعيف لا يروي عنه الثقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'تبين ضعفه' مقابل 'تبين خطؤه'؟",
+        "difficulty_score": 700,
+        "explanation": "تبين الضعف يعني وجود خلل في السند، أما تبين الخطأ فيعني الجزم بأن الحديث غير صحيح المتن [13].",
+        "choices": [
+            { "choice_text": "هما شيء واحد", "is_correct": false },
+            { "choice_text": "الضعف خلل في الآلة (الراوي) والخطأ خلل في النتيجة (المروي)", "is_correct": true },
+            { "choice_text": "الخطأ أهون من الضعف", "is_correct": false },
+            { "choice_text": "تبين الضعف يعني أن الحديث موضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في النظم، ما المقصود بكلمة 'دون مين'؟",
+        "difficulty_score": 400,
+        "explanation": "المين هو الكذب، والمعنى: دون كذب أو شك [14].",
+        "choices": [
+            { "choice_text": "بسرعة", "is_correct": false },
+            { "choice_text": "دون كذب (بلا شك)", "is_correct": true },
+            { "choice_text": "بقوة", "is_correct": false },
+            { "choice_text": "باختصار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أُدخل 'الحسن' في جملة 'الصحيح' عند المتقدمين؟",
+        "difficulty_score": 600,
+        "explanation": "لأنهم لم يكونوا يفرقون بينهما في 'الاحتجاج'، فكلاهما مقبول للاحتجاج عندهم [14].",
+        "choices": [
+            { "choice_text": "لعدم وجود فرق في الضبط", "is_correct": false },
+            { "choice_text": "لأنهما يشتركان في كونهما مقبولين للاحتجاج", "is_correct": true },
+            { "choice_text": "لأن الحسن أقوى من الصحيح", "is_correct": false },
+            { "choice_text": "بسبب قلة الأحاديث الصحيحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الخريطة العامة' لتقسيم الحديث كما وردت في الأبيات الأولى؟",
+        "difficulty_score": 400,
+        "explanation": "التقسيم الأساسي هو: مقبول (احتجاج واعتبار) ومردود [3، 4].",
+        "choices": [
+            { "choice_text": "مشهور وغريب", "is_correct": false },
+            { "choice_text": "مقبول ومردود", "is_correct": true },
+            { "choice_text": "متصل ومنقطع", "is_correct": false },
+            { "choice_text": "سلفي وخلفي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الحديث الذي 'كملت' فيه الشروط الخمسة يسمى:",
+        "difficulty_score": 200,
+        "explanation": "يسمى الصحيح [14].",
+        "choices": [
+            { "choice_text": "الحسن لغيره", "is_correct": false },
+            { "choice_text": "الصحيح", "is_correct": true },
+            { "choice_text": "المعضل", "is_correct": false },
+            { "choice_text": "المضطرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يُنتقل بالحديث من 'خانة الاختبار' إلى 'التقوية'؟",
+        "difficulty_score": 500,
+        "explanation": "عندما نجد له إسناداً آخر يوافقه ويعضده [15].",
+        "choices": [
+            { "choice_text": "إذا رواه إمام واحد", "is_correct": false },
+            { "choice_text": "إذا وجدنا له عاضداً من طريق آخر", "is_correct": true },
+            { "choice_text": "إذا كان المتن جميلاً", "is_correct": false },
+            { "choice_text": "إذا كان الراوي لين الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم 'رواية المردود' إذا جاءت من طرق كثيرة؟",
+        "difficulty_score": 600,
+        "explanation": "المردود (شديد الضعف) لا يُجبر ولا يقوى مهما تعددت طرقه [16].",
+        "choices": [
+            { "choice_text": "يصبح صحيحاً", "is_correct": false },
+            { "choice_text": "يبقى مردوداً ولا ينجبر", "is_correct": true },
+            { "choice_text": "يصبح حسناً لغيره", "is_correct": false },
+            { "choice_text": "يُحتج به في الأحكام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل يدخل الثقات في قسم 'المردود' أحياناً؟",
+        "difficulty_score": 800,
+        "explanation": "نعم، إذا تبين خطأ رواية الثقة بيقين (شذوذ أو علة)، فإن تلك الرواية بعينها تُرد [16].",
+        "choices": [
+            { "choice_text": "لا، الثقة مقبول دائماً", "is_correct": false },
+            { "choice_text": "نعم، إذا تبين خطأ روايتهم في حديث ما", "is_correct": true },
+            { "choice_text": "لا، إلا إذا صار كذاباً", "is_correct": false },
+            { "choice_text": "نعم، في كل أحاديثهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحد الأعلى للمقبول؟",
+        "difficulty_score": 300,
+        "explanation": "هو المقبول للاحتجاج الذي استوفى شروط الصحة كاملة [13].",
+        "choices": [
+            { "choice_text": "الحديث المرسل", "is_correct": false },
+            { "choice_text": "المقبول للاحتجاج (الصحيح)", "is_correct": true },
+            { "choice_text": "الحديث الحسن لغيره", "is_correct": false },
+            { "choice_text": "ما سكت عنه أبو داود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي مما يلي يُعد من أنواع 'يسير الضعف' الصالح للاعتبار؟",
+        "difficulty_score": 400,
+        "explanation": "اللين في الرواية (لين الراوي) والإرسال [17].",
+        "choices": [
+            { "choice_text": "الكذب الصريح", "is_correct": false },
+            { "choice_text": "لين الراوي أو الإرسال", "is_correct": true },
+            { "choice_text": "النكارة الشديدة", "is_correct": false },
+            { "choice_text": "الوضع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "معنى 'فافهم المعارف' في النظم:",
+        "difficulty_score": 400,
+        "explanation": "حث على إدراك المعاني الدقيقة والتمييز بين أنواع العلوم الحديثية [17].",
+        "choices": [
+            { "choice_text": "احفظ الأسماء", "is_correct": false },
+            { "choice_text": "أدرك الحقائق والعلوم", "is_correct": true },
+            { "choice_text": "اكتب الأحاديث", "is_correct": false },
+            { "choice_text": "سافر لطلب العلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يعني وصف الحديث بـ 'صالح' عند المتقدمين؟",
+        "difficulty_score": 600,
+        "explanation": "يعني أنه مقبول (إما للاحتجاج أو للاعتبار) [4].",
+        "choices": [
+            { "choice_text": "أنه ضعيف جداً", "is_correct": false },
+            { "choice_text": "أنه مقبول في الجملة", "is_correct": true },
+            { "choice_text": "أنه موضوع", "is_correct": false },
+            { "choice_text": "أنه منقطع فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يُسمى الحديث الحسن عند المتقدمين 'ضعيفاً' بإطلاق؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الضعيف بإطلاق قد يوهم الرد، بينما الحسن عندهم فيه نوع قبول واعتبار [18].",
+        "choices": [
+            { "choice_text": "لأنه صحيح تماماً", "is_correct": false },
+            { "choice_text": "لأنه مقبول للاعتبار فلا يُرد رداً كلياً", "is_correct": true },
+            { "choice_text": "لأن الرواة ثقات", "is_correct": false },
+            { "choice_text": "بسبب جمال لفظه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي الأئمة قرن الناظم بينه وبين الترمذي في التحسين؟",
+        "difficulty_score": 300,
+        "explanation": "الإمام أحمد بن حنبل [2].",
+        "choices": [
+            { "choice_text": "مالك", "is_correct": false },
+            { "choice_text": "أحمد", "is_correct": true },
+            { "choice_text": "الشافعي", "is_correct": false },
+            { "choice_text": "ابن حبان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'الشح' في قول الشارح 'لا تكن مضيقاً شحيحاً'؟",
+        "difficulty_score": 500,
+        "explanation": "يقصد به التضييق والجمود على اصطلاحات متأخرة ضيقة لا تستوعب منهج المتقدمين [5].",
+        "choices": [
+            { "choice_text": "البخل بالمال", "is_correct": false },
+            { "choice_text": "الجمود والتضييق في الفهم الاصطلاحي", "is_correct": true },
+            { "choice_text": "عدم رواية الحديث", "is_correct": false },
+            { "choice_text": "كثرة الكلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الحديث الذي يرويه 'العدل الذي خف ضبطه' يسمى عند المتأخرين:",
+        "difficulty_score": 200,
+        "explanation": "يسمى حسناً لذاته [7].",
+        "choices": [
+            { "choice_text": "صحيحاً", "is_correct": false },
+            { "choice_text": "حسناً", "is_correct": true },
+            { "choice_text": "منكراً", "is_correct": false },
+            { "choice_text": "موضوعاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من دراسة 'منهج المتقدمين' في القبول والرد؟",
+        "difficulty_score": 500,
+        "explanation": "فهم تطبيقاتهم العملية للأحاديث وعدم الخلط بين اصطلاحاتهم واصطلاحات من بعدهم [19].",
+        "choices": [
+            { "choice_text": "التسلية التاريخية", "is_correct": false },
+            { "choice_text": "فهم التطبيقات الحديثية الصحيحة وتجنب الخلط", "is_correct": true },
+            { "choice_text": "معرفة أسماء الرواة فقط", "is_correct": false },
+            { "choice_text": "رد كل ما قاله المتأخرون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استفتح الشارح مجلسه الثاني؟",
+        "difficulty_score": 100,
+        "explanation": "استفتحه بالبسملة والحمدلة والثناء على النبي صلى الله عليه وسلم [19].",
+        "choices": [
+            { "choice_text": "بذكر أسماء الرواة", "is_correct": false },
+            { "choice_text": "بالبسملة والحمد والثناء", "is_correct": true },
+            { "choice_text": "بشرح شروط الصلاة", "is_correct": false },
+            { "choice_text": "بمراجعة الدرس الماضي فقط", "is_correct": false }
+        ]
+    }
+]
+    }

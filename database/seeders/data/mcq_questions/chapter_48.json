@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 48,
+    "questions": [
+        {
+        "question_text": "من هي راوية الحديث المطول عن هجرة الحبشة ولقاء النجاشي؟",
+        "difficulty_score": 100,
+        "explanation": "الحديث مروي عن أم سلمة رضي الله عنها، وهي كانت من المهاجرات إلى الحبشة [5].",
+        "choices": [
+            { "choice_text": "عائشة بنت أبي بكر", "is_correct": false },
+            { "choice_text": "أم سلمة", "is_correct": true },
+            { "choice_text": "أسماء بنت أبي بكر", "is_correct": false },
+            { "choice_text": "خديجة بنت خويلد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه المهاجرون على النجاشي في الحبشة؟",
+        "difficulty_score": 150,
+        "explanation": "وصفته أم سلمة بأنه 'خير جار' حيث أمنوا على دينهم عنده [5].",
+        "choices": [
+            { "choice_text": "الحاكم العادل", "is_correct": false },
+            { "choice_text": "خير جار", "is_correct": true },
+            { "choice_text": "نصير المستضعفين", "is_correct": false },
+            { "choice_text": "ملك الصدق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعلت قريش عندما علمت باستقرار المسلمين في الحبشة؟",
+        "difficulty_score": 200,
+        "explanation": "ائتمروا أن يبعثوا برجلين جلدين إلى النجاشي لاستعادتهم [4].",
+        "choices": [
+            { "choice_text": "أرسلوا جيشاً لغزو الحبشة", "is_correct": false },
+            { "choice_text": "فرضوا حصاراً اقتصادياً على الحبشة", "is_correct": false },
+            { "choice_text": "ائتمروا أن يبعثوا رجلين لهداية النجاشي", "is_correct": false },
+            { "choice_text": "ائتمروا أن يبعثوا رجلين إلى النجاشي ومعهم هدايا", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما هي خطة رسولي قريش قبل الكلام مع النجاشي؟",
+        "difficulty_score": 300,
+        "explanation": "أمرتهم قريش بدفع الهدايا للبطارقة أولاً ليكسبوا تأييدهم قبل عرض الطلب على النجاشي [6].",
+        "choices": [
+            { "choice_text": "مقابلة المهاجرين سراً", "is_correct": false },
+            { "choice_text": "دفع الهدايا لكل بطريق قبل كلم النجاشي", "is_correct": true },
+            { "choice_text": "التسلل لتهريب الصحابة ليلاً", "is_correct": false },
+            { "choice_text": "إعلان الحرب على الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحجة التي استخدمها رسولا قريش عند البطارقة لوصف المهاجرين؟",
+        "difficulty_score": 350,
+        "explanation": "وصفوهم بأنهم 'غلمان سفهاء' فارقوا دين قومهم ولم يدخلوا في دين الحبشة وجاءوا بدين مبتدع [7].",
+        "choices": [
+            { "choice_text": "أنهم تجار يهربون من الضرائب", "is_correct": false },
+            { "choice_text": "أنهم غلمان سفهاء جاءوا بدين مبتدع", "is_correct": true },
+            { "choice_text": "أنهم جواسيس للنبي محمد", "is_correct": false },
+            { "choice_text": "أنهم سرقوا أموال مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا غضب النجاشي من طلب رسولي قريش تسليم المسلمين مباشرة؟",
+        "difficulty_score": 400,
+        "explanation": "لأنه ملك عادل اعتبر أن المسلمين نزلوا بلاده واختاروه، فلا يسلمهم حتى يدعوهم ويسألهم [3].",
+        "choices": [
+            { "choice_text": "لأنه لم يعجب بالهدايا", "is_correct": false },
+            { "choice_text": "لأنه أراد فدية مالية أكبر", "is_correct": false },
+            { "choice_text": "لأنه لم يشأ أن يسلم قوماً استجاروا به دون سماعهم", "is_correct": true },
+            { "choice_text": "لأنه كان مسلماً في السر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل الصحابة عندما دعاهم النجاشي للمثول أمامه؟",
+        "difficulty_score": 450,
+        "explanation": "اجتمعوا وتشاوروا واتفقوا على قول الصدق وما علموه من نبيهم كائناً ما كان [8].",
+        "choices": [
+            { "choice_text": "قرروا الهروب من الحبشة", "is_correct": false },
+            { "choice_text": "اتفقوا على قول الصدق وما أمرهم به نبيهم", "is_correct": true },
+            { "choice_text": "قرروا إخفاء حقيقة دينهم", "is_correct": false },
+            { "choice_text": "طلبوا من جعفر أن يكذب للمصلحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف جعفر بن أبي طالب حالة الناس قبل الإسلام؟",
+        "difficulty_score": 500,
+        "explanation": "وصفها بالجاهلية حيث يعبدون الأصنام ويأكلون الميتة ويأكل القوي الضعيف [9].",
+        "choices": [
+            { "choice_text": "كانوا في حضارة متقدمة", "is_correct": false },
+            { "choice_text": "كانوا أهل جاهلية يعبدون الأصنام ويأكلون الميتة", "is_correct": true },
+            { "choice_text": "كانوا يتبعون دين إبراهيم بدقة", "is_correct": false },
+            { "choice_text": "كانوا أمة موحدة تعاني من الفقر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصفات التي ركز جعفر على ذكرها في النبي المبعوث؟",
+        "difficulty_score": 550,
+        "explanation": "ركز على معرفتهم بنسبه وصدقه وأمانته وعفافه [9].",
+        "choices": [
+            { "choice_text": "قوته العسكرية وشجاعته", "is_correct": false },
+            { "choice_text": "نسبه وصدقه وأمانته وعفافه", "is_correct": true },
+            { "choice_text": "ثروته الكبيرة وجاهه", "is_correct": false },
+            { "choice_text": "قدرته على صنع المعجزات المادية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الزكاة والصيام' في كلام جعفر أمام النجاشي؟",
+        "difficulty_score": 600,
+        "explanation": "المقصود مطلق العبادة وليس التفاصيل والأنصبة التي فرضت لاحقاً في المدينة [10].",
+        "choices": [
+            { "choice_text": "زكاة الفطر وصيام رمضان", "is_correct": false },
+            { "choice_text": "مطلق فعل العبادة وليس بالضرورة المحددة شرعاً لاحقاً", "is_correct": true },
+            { "choice_text": "الزكاة بنسبة 2.5% حصراً", "is_correct": false },
+            { "choice_text": "صيام الأيام البيض فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استفتح جعفر بن أبي طالب قراءته للقرآن أمام النجاشي؟",
+        "difficulty_score": 650,
+        "explanation": "بدأ بصدق من سورة مريم {كهيعص} [1].",
+        "choices": [
+            { "choice_text": "سورة الإخلاص", "is_correct": false },
+            { "choice_text": "سورة يس", "is_correct": false },
+            { "choice_text": "سورة مريم {كهيعص}", "is_correct": true },
+            { "choice_text": "سورة الفاتحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما كان رد فعل النجاشي وأساقفته بعد سماع القرآن؟",
+        "difficulty_score": 700,
+        "explanation": "بكى النجاشي حتى أخضل لحيته، وبكى أساقفته حتى أخضلوا مصاحفهم [1].",
+        "choices": [
+            { "choice_text": "اعترضوا على الكلام", "is_correct": false },
+            { "choice_text": "بكوا حتى أخضلت لحاهم ومصاحفهم", "is_correct": true },
+            { "choice_text": "طلبوا مناظرة جعفر", "is_correct": false },
+            { "choice_text": "ضحكوا من غرابة الكلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الكيد' الذي قام به عمرو بن العاص في اليوم الثاني؟",
+        "difficulty_score": 750,
+        "explanation": "أخبر الملك أن المسلمين يقولون في عيسى بن مريم قولاً عظيماً (أنه عبد) [11].",
+        "choices": [
+            { "choice_text": "اتهامهم بالسرقة من النجاشي", "is_correct": false },
+            { "choice_text": "الادعاء بأنهم يريدون الانقلاب على الملك", "is_correct": false },
+            { "choice_text": "إخبار الملك بقولهم في عيسى بن مريم", "is_correct": true },
+            { "choice_text": "اتهامهم بسب آلهة الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال جعفر عن عيسى بن مريم عندما سأله النجاشي؟",
+        "difficulty_score": 800,
+        "explanation": "قال هو عبد الله ورسوله وروحه وكلمته ألقاها إلى مريم [12].",
+        "choices": [
+            { "choice_text": "هو إله مع الله", "is_correct": false },
+            { "choice_text": "هو ابن الله", "is_correct": false },
+            { "choice_text": "هو عبد الله ورسوله وروحه وكلمته", "is_correct": true },
+            { "choice_text": "هو مجرد نبي لبني إسرائيل فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النجاشي عندما سمع قول جعفر في عيسى؟",
+        "difficulty_score": 850,
+        "explanation": "ضرب بيده إلى الأرض وأخذ عوداً وقال: ما عدا عيسى ما قلت هذا العود [13].",
+        "choices": [
+            { "choice_text": "غضب وأمر بطردهم", "is_correct": false },
+            { "choice_text": "ضرب الأرض وأكد أن قولهم في عيسى هو الحق", "is_correct": true },
+            { "choice_text": "سكت ولم يعلق", "is_correct": false },
+            { "choice_text": "طلب منهم اعتناق النصرانية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى كلمة 'السيوم' التي وصف بها النجاشي المسلمين في أرضه؟",
+        "difficulty_score": 900,
+        "explanation": "السيوم بلغة الحبشة تعني 'الآمنون' [13].",
+        "choices": [
+            { "choice_text": "المهاجرون", "is_correct": false },
+            { "choice_text": "الآمنون", "is_correct": true },
+            { "choice_text": "الصادقون", "is_correct": false },
+            { "choice_text": "المباركون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا رفض النجاشي أخذ الرشوة (الهدايا) من قريش؟",
+        "difficulty_score": 600,
+        "explanation": "لأن الله رد عليه ملكه دون أن يأخذ منه رشوة، فأنف أن يأخذها في ملكه [14].",
+        "choices": [
+            { "choice_text": "لأن الهدايا كانت قليلة", "is_correct": false },
+            { "choice_text": "لأن الله رد عليه ملكه بلا رشوة فأنف منها", "is_correct": true },
+            { "choice_text": "لأنه كره قريشاً", "is_correct": false },
+            { "choice_text": "لأن البطارقة أخذوا كل الهدايا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عمر الزبير بن العوام تقريباً عندما أسلم؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر المصدر أنه كان من أحدث القوم سناً، وأسلم وعمره نحو 16 سنة [2].",
+        "choices": [
+            { "choice_text": "10 سنوات", "is_correct": false },
+            { "choice_text": "16 سنة", "is_correct": true },
+            { "choice_text": "25 سنة", "is_correct": false },
+            { "choice_text": "40 سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد للمصلحين من وضوح رسالة جعفر؟",
+        "difficulty_score": 500,
+        "explanation": "ينبغي للمصلح أن يكون قادراً على التعبير عن دينه وحقائقه بوضوح [24، 32].",
+        "choices": [
+            { "choice_text": "استخدام الغموض لجذب الناس", "is_correct": false },
+            { "choice_text": "القدرة على التعبير عن حقائق الدين بوضوح", "is_correct": true },
+            { "choice_text": "التركيز على القوة العسكرية فقط", "is_correct": false },
+            { "choice_text": "تجنب الحديث عن الدين أمام الغرباء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'قصقصة أجنحة الحق' حسب المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "محاولة تشويه الحق أو تمييعه ليتناسب مع أزمة معينة أو يرضي طرفاً ما [15].",
+        "choices": [
+            { "choice_text": "الدفاع عن الدين بالقوة", "is_correct": false },
+            { "choice_text": "تمهيد الطريق للمهاجرين", "is_correct": false },
+            { "choice_text": "تشويه الحق ليتناسب مع الأهواء أو الأزمات", "is_correct": true },
+            { "choice_text": "الاهتمام باللغة العربية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبه النجاشي الوحي الذي نزل على عيسى ومحمد؟",
+        "difficulty_score": 400,
+        "explanation": "شبهه بأنه يخرج من 'مشكاة واحدة' أي مصدر واحد [1].",
+        "choices": [
+            { "choice_text": "كتاب واحد", "is_correct": false },
+            { "choice_text": "مشكاة واحدة", "is_correct": true },
+            { "choice_text": "طريق وعر", "is_correct": false },
+            { "choice_text": "نور ساطع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف عبد الله بن أبي ربيعة تجاه كيد عمرو بن العاص في قضية عيسى؟",
+        "difficulty_score": 650,
+        "explanation": "طلب منه ألا يفعل لأن لهم أرحاماً وإن خالفوا في الدين [11].",
+        "choices": [
+            { "choice_text": "شجعه بشدة", "is_correct": false },
+            { "choice_text": "طلب منه عدم الفعل لوجود الأرحام", "is_correct": true },
+            { "choice_text": "هو من اقترح الفكرة أصلاً", "is_correct": false },
+            { "choice_text": "سكت ولم يتدخل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر 'البيان والبلاغة'؟",
+        "difficulty_score": 800,
+        "explanation": "هي تأدية المعنى المراد بالقوالب اللفظية المناسبة دون تكلف [16].",
+        "choices": [
+            { "choice_text": "حفظ الجمل الغريبة والسجع", "is_correct": false },
+            { "choice_text": "استخدام التشبيهات المعقدة جداً", "is_correct": false },
+            { "choice_text": "تأدية المعنى بالقوالب اللفظية المناسبة", "is_correct": true },
+            { "choice_text": "التحدث بسرعة كبيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان هدف قريش من إرسال الوفد للحبشة؟",
+        "difficulty_score": 200,
+        "explanation": "هدفهم كان استعادة الصحابة المهاجرين من الحبشة إلى مكة [4].",
+        "choices": [
+            { "choice_text": "توقيع معاهدة سلام", "is_correct": false },
+            { "choice_text": "استعادة المهاجرين إلى مكة", "is_correct": true },
+            { "choice_text": "الدعوة لدين الأوثان هناك", "is_correct": false },
+            { "choice_text": "التجارة مع النجاشي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي استشهد بها المصدر للتحذير من المداهنة؟",
+        "difficulty_score": 600,
+        "explanation": "استشهد بسورة القلم في قوله تعالى: {ودوا لو تدهن فيدهنون} [17].",
+        "choices": [
+            { "choice_text": "سورة الكافرون", "is_correct": false },
+            { "choice_text": "سورة القلم", "is_correct": true },
+            { "choice_text": "سورة الإسراء", "is_correct": false },
+            { "choice_text": "سورة مريم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المناعة التربوية' المذكورة في المصدر؟",
+        "difficulty_score": 750,
+        "explanation": "تربية الطالب ليكون قادراً على مواجهة الأزمات المستقبلية وحده [18].",
+        "choices": [
+            { "choice_text": "حفظ القرآن كاملاً", "is_correct": false },
+            { "choice_text": "التربية لمواجهة الأزمات المستقبلية بثبات", "is_correct": true },
+            { "choice_text": "التعامل اللطيف مع الأعداء", "is_correct": false },
+            { "choice_text": "العزلة عن المجتمع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي قال عنه المصدر 'وكان أتقى الرجلين فينا'؟",
+        "difficulty_score": 500,
+        "explanation": "قالت أم سلمة ذلك عن عبد الله بن أبي ربيعة [19].",
+        "choices": [
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "عبد الله بن أبي ربيعة", "is_correct": true },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفاحشة التي ذكر جعفر أنهم كانوا يأتونها في الجاهلية؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر جعفر ضمن سوء أفعالهم 'إتيان الفواحش' [9].",
+        "choices": [
+            { "choice_text": "أكل الطيبات", "is_correct": false },
+            { "choice_text": "إتيان الفواحش", "is_correct": true },
+            { "choice_text": "إكرام الضيف", "is_correct": false },
+            { "choice_text": "الصدق في الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النجاشي عن الرشوة التي عرضت عليه؟",
+        "difficulty_score": 550,
+        "explanation": "قال: 'ما أخذ الله مني الرشوة حين رد علي ملكي فآخذ الرشوة فيه' [14].",
+        "choices": [
+            { "choice_text": "سأوزعها على الفقراء", "is_correct": false },
+            { "choice_text": "سأحتفظ بها للذكرى", "is_correct": false },
+            { "choice_text": "ما أخذ الله مني الرشوة حين رد ملكي فلا آخذها", "is_correct": true },
+            { "choice_text": "هي حق لي كملك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي توصف بأنها 'براءة من الشرك'؟",
+        "difficulty_score": 450,
+        "explanation": "وصف النبي صلى الله عليه وسلم سورة الكافرون بذلك [20].",
+        "choices": [
+            { "choice_text": "سورة الإخلاص", "is_correct": false },
+            { "choice_text": "سورة الكافرون", "is_correct": true },
+            { "choice_text": "سورة الفلق", "is_correct": false },
+            { "choice_text": "سورة الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل الزبير بن العوام ليعبر النيل؟",
+        "difficulty_score": 350,
+        "explanation": "نفخوا له قربة فجعلها في صدره وسبح عليها [2].",
+        "choices": [
+            { "choice_text": "استخدم قارباً صغيراً", "is_correct": false },
+            { "choice_text": "سبح على قربة منفوخة في صدره", "is_correct": true },
+            { "choice_text": "مشى فوق الجسر", "is_correct": false },
+            { "choice_text": "طفا فوق الماء بمعجزة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف انتهى اللقاء بين النجاشي ورسولي قريش؟",
+        "difficulty_score": 500,
+        "explanation": "خرجا مقبوحين مردوداً عليهما ما جاءا به [14].",
+        "choices": [
+            { "choice_text": "خرجا بالصحابة معهما", "is_correct": false },
+            { "choice_text": "خرجا مقبوحين ومردوداً عليهما هداياهما", "is_correct": true },
+            { "choice_text": "بقيا في الحبشة للتجارة", "is_correct": false },
+            { "choice_text": "أعلن النجاشي الحرب عليهما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'اجتماع الكلمة' في سياق الأزمات؟",
+        "difficulty_score": 600,
+        "explanation": "هو ائتلاف القلوب والاتفاق على موقف واحد لمواجهة الأزمة [15].",
+        "choices": [
+            { "choice_text": "الصراخ بصوت واحد", "is_correct": false },
+            { "choice_text": "ائتلاف القلوب وعدم التفرق في المواقف", "is_correct": true },
+            { "choice_text": "كتابة وثيقة مشتركة", "is_correct": false },
+            { "choice_text": "إجبار الجميع على رأي واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان حزن الصحابة شديداً أثناء الحرب التي نشبت ضد النجاشي؟",
+        "difficulty_score": 700,
+        "explanation": "خوفاً من أن يظهر عليه عدو لا يعرف من حقهم ما كان النجاشي يعرفه [14].",
+        "choices": [
+            { "choice_text": "خوفاً على أموالهم", "is_correct": false },
+            { "choice_text": "خوفاً من أن يظهر عليه من لا يعرف فضلهم", "is_correct": true },
+            { "choice_text": "لأنهم كرهوا الحرب", "is_correct": false },
+            { "choice_text": "لأنهم أرادوا المشاركة في القتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة التي تظهر في قول الصحابة 'كائناً في ذلك ما هو كائن'؟",
+        "difficulty_score": 850,
+        "explanation": "تظهر قيمة التوكل على الله والثبات على الصدق مهما كانت النتائج [11، 19].",
+        "choices": [
+            { "choice_text": "الاستسلام للواقع", "is_correct": false },
+            { "choice_text": "الثبات على الحق والصدق مهما كانت النتائج", "is_correct": true },
+            { "choice_text": "التشاؤم من المستقبل", "is_correct": false },
+            { "choice_text": "المغامرة غير المحسوبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النجاشي تجاه هدايا قريش في النهاية؟",
+        "difficulty_score": 400,
+        "explanation": "أمر برد الهدايا إليهما لأنه لا حاجة له بها [14].",
+        "choices": [
+            { "choice_text": "وزعها على البطارقة", "is_correct": false },
+            { "choice_text": "ردها إلى رسولي قريش", "is_correct": true },
+            { "choice_text": "وضعها في خزينة الدولة", "is_correct": false },
+            { "choice_text": "أعطاها للمهاجرين المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الذي نعت المسلمين بـ 'غلمان سفهاء'؟",
+        "difficulty_score": 250,
+        "explanation": "رسول قريش (عبد الله بن أبي ربيعة وعمرو بن العاص) أمام البطارقة والملك [7].",
+        "choices": [
+            { "choice_text": "النجاشي", "is_correct": false },
+            { "choice_text": "رسول قريش", "is_correct": true },
+            { "choice_text": "البطارقة", "is_correct": false },
+            { "choice_text": "أبو سفيان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة ذكر المصدر أن الكفار عرضوا فيها عبادة الله سنة وعبادة آلهتهم سنة؟",
+        "difficulty_score": 550,
+        "explanation": "سورة الكافرون في سياق سبب نزولها [17].",
+        "choices": [
+            { "choice_text": "سورة الفاتحة", "is_correct": false },
+            { "choice_text": "سورة الكافرون", "is_correct": true },
+            { "choice_text": "سورة الإسراء", "is_correct": false },
+            { "choice_text": "سورة القلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان الصحابة يدعون الله للنجاشي أثناء حربه؟",
+        "difficulty_score": 450,
+        "explanation": "بالظهور على عدوه والتمكين له في بلاده [2].",
+        "choices": [
+            { "choice_text": "بأن يهزم ويهربوا هم", "is_correct": false },
+            { "choice_text": "بالظهور على عدوه والتمكين له في بلاده", "is_correct": true },
+            { "choice_text": "بأن تنتهي الحرب بسرعة بلا رابح", "is_correct": false },
+            { "choice_text": "بأن يسلم علانية ويقاتلوا معه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين كان النبي صلى الله عليه وسلم حين رجعت هذه الدفعة من المهاجرين؟",
+        "difficulty_score": 300,
+        "explanation": "كان لا يزال بمكة كما ذكر في نهاية الحديث [21].",
+        "choices": [
+            { "choice_text": "في المدينة", "is_correct": false },
+            { "choice_text": "في مكة", "is_correct": true },
+            { "choice_text": "في الطائف", "is_correct": false },
+            { "choice_text": "في الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو القائد الفارسي الذي واجهه الصحابي المغيرة بن شعبة في الموقف المشابه لخطاب جعفر؟",
+        "difficulty_score": 100,
+        "explanation": "المصدر ذكر أن المغيرة بن شعبة واجه 'عامل كسرى' (قائد الفرس) في مقام مشابه لتعريف جعفر بالدين [28، 29].",
+        "choices": [
+            { "choice_text": "رستم", "is_correct": false },
+            { "choice_text": "عامل كسرى", "is_correct": true },
+            { "choice_text": "هرقل", "is_correct": false },
+            { "choice_text": "المقوقس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المغيرة بن شعبة حالة العرب قبل الإسلام أمام عامل كسرى؟",
+        "difficulty_score": 200,
+        "explanation": "وصفهم بأنهم كانوا في 'شقاء شديد' يمصون الجلد والنوى من الجوع [1].",
+        "choices": [
+            { "choice_text": "كانوا تجاراً أغنياء", "is_correct": false },
+            { "choice_text": "كانوا في شقاء شديد يمصون الجلد والنوى", "is_correct": true },
+            { "choice_text": "كانوا يملكون حضارة عمرانية", "is_correct": false },
+            { "choice_text": "كانوا أهل كتاب موحدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبادة التي ذكرها أبو سفيان لهرقل عندما سأله عما يأمرهم به النبي؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر أبو سفيان (وهو كافر آنذاك) أن النبي يأمرهم بالصلاة والصدق والعفاف والصلة [2].",
+        "choices": [
+            { "choice_text": "بناء المساجد الضخمة", "is_correct": false },
+            { "choice_text": "الصلاة والصدق والعفاف والصلة", "is_correct": true },
+            { "choice_text": "جمع الأموال للتجارة", "is_correct": false },
+            { "choice_text": "قتال كل من لا يدخل في الدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من وضوح رسالة الإسلام عند جعفر والمغيرة وأبي سفيان؟",
+        "difficulty_score": 400,
+        "explanation": "الدرس هو ضرورة أن تكون حقائق الدين واضحة في أذهان المصلحين وقدرتهم على التعبير عنها [24، 32].",
+        "choices": [
+            { "choice_text": "أن الإسلام دين غامض يحتاج لخبراء", "is_correct": false },
+            { "choice_text": "وضوح الرسالة وقدرة المصلح على التعبير عن حقائقها", "is_correct": true },
+            { "choice_text": "أن الكفار لا يفهمون لغة المسلمين", "is_correct": false },
+            { "choice_text": "أهمية القوة العسكرية في الحوار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر حال المسلمين بعد الأمن في الحبشة؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر أنهم لم ينفكوا عن الابتلاء، فبمجرد أن أمنوا أرسلت قريش رسلها لابتلاء ثباتهم [3].",
+        "choices": [
+            { "choice_text": "انتهت كل مشاكلهم تماماً", "is_correct": false },
+            { "choice_text": "واجهوا نوعاً جديداً من الابتلاء (رسل قريش)", "is_correct": true },
+            { "choice_text": "تفرغوا للتجارة فقط", "is_correct": false },
+            { "choice_text": "عادوا فوراً إلى مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي مكن الصحابة من مواجهة أزمة الحبشة وحدهم دون توجيه مباشر من النبي؟",
+        "difficulty_score": 600,
+        "explanation": "امتلاكهم 'قاعدة معرفية ومنهجية واضحة' وزاداً تربوياً بنوه في مكة [34، 35].",
+        "choices": [
+            { "choice_text": "رسائل سرية من النبي", "is_correct": false },
+            { "choice_text": "امتلاكهم قاعدة معرفية ومنهجية قوية", "is_correct": true },
+            { "choice_text": "قوة قبائلهم في مكة", "is_correct": false },
+            { "choice_text": "ضعف موقف النجاشي العسكري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التحذير التربوي الذي وجهه المصدر للمربين بخصوص الطلاب؟",
+        "difficulty_score": 700,
+        "explanation": "حذر من عدم تربية الطلاب على 'المناعة للأزمات المستقبلية'، مما قد يؤدي لانتكاسهم عند مواجهتها وحدهم [4].",
+        "choices": [
+            { "choice_text": "تحذير من تعليمهم العلم الشرعي الصعب", "is_correct": false },
+            { "choice_text": "التحذير من إهمال بناء المناعة للأزمات المستقبلية", "is_correct": true },
+            { "choice_text": "ضرورة إبعادهم عن المجتمع تماماً", "is_correct": false },
+            { "choice_text": "التركيز على الحفظ دون الفهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'بركة اجتماع الكلمة' التي ظهرت في موقف الصحابة بالحبشة؟",
+        "difficulty_score": 550,
+        "explanation": "اتفاقهم على موقف واحد (قول الصدق) وعدم حدوث نزاعات داخلية بينهم أمام الملك [37، 38].",
+        "choices": [
+            { "choice_text": "توزيع المهام التجارية بينهم", "is_correct": false },
+            { "choice_text": "اتفاقهم على قول واحد وعدم التفرق في المواقف", "is_correct": true },
+            { "choice_text": "اتفاقهم على الهروب سراً", "is_correct": false },
+            { "choice_text": "مبايعة جعفر ملكاً عليهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المصدر بـ 'خيانة وغش الآخر' في سياق عرض الدين؟",
+        "difficulty_score": 800,
+        "explanation": "تعمية الحقائق أو القول بأن كل الأديان توصل للجنة (تمييع العقيدة) إرضاءً للناس [41، 42].",
+        "choices": [
+            { "choice_text": "سرقة أموال غير المسلمين", "is_correct": false },
+            { "choice_text": "تعمية الحقائق وتمييع العقيدة إرضاءً للآخر", "is_correct": true },
+            { "choice_text": "عدم الوفاء بالعقود التجارية", "is_correct": false },
+            { "choice_text": "إفشاء أسرار الدولة", "is_correct": false }
+        ]
+    },
+    { "question_text": "بماذا استشهد المصدر لإثبات حرص النبي على إنقاذ الناس من النار؟",
+        "difficulty_score": 450,
+        "explanation": "بزيارته للغلام اليهودي المريض ودعوته للإسلام وفرحه بإسلامه [5].",
+        "choices": [
+            { "choice_text": "بفتوحاته العسكرية", "is_correct": false },
+            { "choice_text": "بقصة زيارة الغلام اليهودي المريض", "is_correct": true },
+            { "choice_text": "بإرساله الهدايا للملوك", "is_correct": false },
+            { "choice_text": "بخطبته في حجة الوداع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المبدأ الذي طبقه جعفر عند سؤاله عن عيسى بن مريم؟",
+        "difficulty_score": 650,
+        "explanation": "تقديم الحقيقة كما هي (أنه عبد الله ورسوله) مع استخدام 'البيان' المناسب دون مداهنة [6].",
+        "choices": [
+            { "choice_text": "المداهنة لكسب رضا الملك", "is_correct": false },
+            { "choice_text": "تقديم الحقيقة كما هي دون تشويه", "is_correct": true },
+            { "choice_text": "تجنب الإجابة والسكوت", "is_correct": false },
+            { "choice_text": "تغيير الحقائق لتناسب دين النجاشي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف عرّف المصدر 'البيان والبلاغة' الحقيقية؟",
+        "difficulty_score": 850,
+        "explanation": "هي القدرة على تأدية المعنى وإقامة الحجة بالقوالب اللفظية المناسبة، وليس مجرد السجع والتكلف [45، 46].",
+        "choices": [
+            { "choice_text": "استخدام كلمات غريبة ومعقدة", "is_correct": false },
+            { "choice_text": "تأدية المعنى وإقامة الحجة بالقوالب المناسبة", "is_correct": true },
+            { "choice_text": "الصوت العالي والخطابة المؤثرة عاطفياً", "is_correct": false },
+            { "choice_text": "حفظ دواوين الشعر القديمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما فائدة قول أم سلمة عن عبد الله بن أبي ربيعة 'وكان أتقى الرجلين فينا'؟",
+        "difficulty_score": 900,
+        "explanation": "تفيد في 'تفكيك حالة الأعداء' والتمييز بين مستويات عدائهم للدعوة للاستفادة من الأقل عداءً [7].",
+        "choices": [
+            { "choice_text": "مدح الكفار وتشجيعهم", "is_correct": false },
+            { "choice_text": "تفكيك جبهة الأعداء والتمييز بين مواقفهم", "is_correct": true },
+            { "choice_text": "إثبات أن كل الكفار سواء في العداء", "is_correct": false },
+            { "choice_text": "بيان ضعف المسلمين أمام قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى أي ثلث من المرحلة المكية سينتقل المصدر في اللقاء القادم؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أنه سينتقل إلى 'الثلث الأخير' من المرحلة المكية (آخر 4 أو 5 سنوات) [8].",
+        "choices": [
+            { "choice_text": "الثلث الأول", "is_correct": false },
+            { "choice_text": "الثلث الأوسط", "is_correct": false },
+            { "choice_text": "الثلث الأخير", "is_correct": true },
+            { "choice_text": "بداية العهد المدني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'النبراس والدليل' الذي يحتاجه المصلح لمواجهة المشكلات؟",
+        "difficulty_score": 550,
+        "explanation": "هو البناء المعرفي السابق والمنهجية القوية التي يبنيها في نفسه [34، 35].",
+        "choices": [
+            { "choice_text": "المال والجاه", "is_correct": false },
+            { "choice_text": "القاعدة المعرفية والمنهجية القوية", "is_correct": true },
+            { "choice_text": "الحظ والمصادفة", "is_correct": false },
+            { "choice_text": "كثرة الكلام والجدال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر خطاب جعفر 'نصاً يُدرّس في البيان'؟",
+        "difficulty_score": 750,
+        "explanation": "لقدرته العجيبة على ترتيب المعاني وتوضيحها وإقامة الحجة دون استعطاف متكلف [45، 46].",
+        "choices": [
+            { "choice_text": "لأنه كان طويلاً جداً", "is_correct": false },
+            { "choice_text": "لقدرته على ترتيب المعاني وإقامة الحجة بوضوح", "is_correct": true },
+            { "choice_text": "لأنه استخدم لغة أجنبية", "is_correct": false },
+            { "choice_text": "لأنه تضمن قصائد شعرية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة 'التربية النبوية' كما ظهرت في أزمة الحبشة؟",
+        "difficulty_score": 600,
+        "explanation": "استطاعة الصحابة تجاوز الأزمة بوضوح واجتماع كلمة ومحافظة على حقائق الدين [46، 47].",
+        "choices": [
+            { "choice_text": "تحويل الحبشة لمركز تجاري", "is_correct": false },
+            { "choice_text": "تجاوز الأزمة بوضوح وثبات على حقائق الدين", "is_correct": true },
+            { "choice_text": "بناء جيش عظيم في الحبشة", "is_correct": false },
+            { "choice_text": "التنازل عن بعض المعتقدات للسلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي شبه النجاشي كلامه بكلام النبي محمد؟",
+        "difficulty_score": 150,
+        "explanation": "شبهه بكلام عيسى عليه السلام قائلاً إنهما يخرجان من مشكاة واحدة [9].",
+        "choices": [
+            { "choice_text": "موسى عليه السلام", "is_correct": false },
+            { "choice_text": "عيسى عليه السلام", "is_correct": true },
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "يوسف عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'أخضل لحيته' التي قيلت في النجاشي؟",
+        "difficulty_score": 300,
+        "explanation": "تعني بللها بدموعه من شدة التأثر بسماع القرآن [9].",
+        "choices": [
+            { "choice_text": "حلقها", "is_correct": false },
+            { "choice_text": "بللها بدموعه", "is_correct": true },
+            { "choice_text": "صبغها", "is_correct": false },
+            { "choice_text": "غطاها بيده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلقه النجاشي على عيسى وأكده جعفر؟",
+        "difficulty_score": 400,
+        "explanation": "أنه 'عبد الله ورسوله وروحه وكلمته' [10].",
+        "choices": [
+            { "choice_text": "إله الحبشة", "is_correct": false },
+            { "choice_text": "عبد الله ورسوله وروحه وكلمته", "is_correct": true },
+            { "choice_text": "ملك بني إسرائيل", "is_correct": false },
+            { "choice_text": "صاحب المعجزات المادية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف البطارقة عندما وافق النجاشي على قول جعفر في عيسى؟",
+        "difficulty_score": 800,
+        "explanation": "تناخروا (أصدروا أصواتاً بآنافهم تعبيراً عن الغضب والرفض) [11].",
+        "choices": [
+            { "choice_text": "سجدوا للملك", "is_correct": false },
+            { "choice_text": "تناخروا غضباً", "is_correct": true },
+            { "choice_text": "بايعوا جعفر", "is_correct": false },
+            { "choice_text": "طردوا عمرو بن العاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النجاشي للمسلمين بعد فشل مكيدة عمرو بن العاص؟",
+        "difficulty_score": 500,
+        "explanation": "قال لهم: 'اذهبوا فأنتم سيوم بأرضي' (أي آمنون) [11].",
+        "choices": [
+            { "choice_text": "اخرجوا من بلادي", "is_correct": false },
+            { "choice_text": "أنتم سيوم (آمنون) في أرضي", "is_correct": true },
+            { "choice_text": "ادخلوا في ديني", "is_correct": false },
+            { "choice_text": "قاتلوا معي عدوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا هدد النجاشي من يسب المسلمين في بلاده؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'من سبكم غُرم' أي تفرض عليه غرامة أو عقوبة [11].",
+        "choices": [
+            { "choice_text": "يقتل فوراً", "is_correct": false },
+            { "choice_text": "من سبكم غُرم", "is_correct": true },
+            { "choice_text": "يسجن أبد الدهر", "is_correct": false },
+            { "choice_text": "يطرد من البلاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الدبر' التي ذكرها النجاشي في معرض دفاعه عن المسلمين؟",
+        "difficulty_score": 900,
+        "explanation": "الدبر بلغة الحبشة هي الجبل، ومعناه أنه لا يحب إيذاءهم ولو أعطي جبل ذهب [20، 21].",
+        "choices": [
+            { "choice_text": "الذهب الكثير", "is_correct": false },
+            { "choice_text": "الجبل", "is_correct": true },
+            { "choice_text": "الخيانة", "is_correct": false },
+            { "choice_text": "الحصن المنيع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حزن المسلمون عند وقوع الحرب ضد النجاشي؟",
+        "difficulty_score": 700,
+        "explanation": "خوفاً من زوال ملك النجاشي العادل ومجيء ملك لا يعرف قدرهم [12].",
+        "choices": [
+            { "choice_text": "لأنهم لا يحبون الدماء", "is_correct": false },
+            { "choice_text": "خوفاً من زوال ملك النجاشي العادل", "is_correct": true },
+            { "choice_text": "لأنهم أرادوا الغنائم", "is_correct": false },
+            { "choice_text": "بسبب نقص الطعام والماء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي سبح عبر النيل ليأتي بخبر الحرب؟",
+        "difficulty_score": 350,
+        "explanation": "هو الزبير بن العوام رضي الله عنه [13].",
+        "choices": [
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "عبد الله بن مسعود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان سن الزبير بن العوام مقارنة ببقية المهاجرين؟",
+        "difficulty_score": 400,
+        "explanation": "كان من 'أحدث القوم سناً' (أي أصغرهم) [13].",
+        "choices": [
+            { "choice_text": "كان أكبرهم سناً", "is_correct": false },
+            { "choice_text": "كان من أحدث القوم سناً", "is_correct": true },
+            { "choice_text": "كان متوسط العمر", "is_correct": false },
+            { "choice_text": "لم يذكر المصدر سنه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخبر الذي جاء به الزبير للمسلمين بعد انتهاء الحرب؟",
+        "difficulty_score": 300,
+        "explanation": "بشرهم بظهور النجاشي (انتصاره) وهلاك عدوه [13].",
+        "choices": [
+            { "choice_text": "هزيمة النجاشي", "is_correct": false },
+            { "choice_text": "ظهور النجاشي وهلاك عدوه", "is_correct": true },
+            { "choice_text": "هروب قريش من الحبشة", "is_correct": false },
+            { "choice_text": "وصول النبي للحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف المصدر 'سلاسة' لغة حديث أم سلمة بعد 1400 سنة؟",
+        "difficulty_score": 800,
+        "explanation": "استدل به على جمال اللغة العربية وبقائها واضحة دون الحاجة لشرح كثير من الكلمات [23، 24].",
+        "choices": [
+            { "choice_text": "صعوبة فهم الكلمات القديمة", "is_correct": false },
+            { "choice_text": "جمال اللغة العربية وبقاؤها واضحة وسلسة", "is_correct": true },
+            { "choice_text": "تحريف اللغة بمرور الزمن", "is_correct": false },
+            { "choice_text": "أن اللغة العربية لغة نخبة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يفتقده كثير من المسلمين اليوم تجاه دينهم حسب المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "يفتقدون 'الوضوح والتصور الصافي' تجاه حقائق الدين ومركزياته [14].",
+        "choices": [
+            { "choice_text": "الأموال الطائلة", "is_correct": false },
+            { "choice_text": "الوضوح والتصور الصافي لحقائق الدين", "is_correct": true },
+            { "choice_text": "كثرة الجدال مع الآخرين", "is_correct": false },
+            { "choice_text": "القدرة على السفر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحديث القدسي الذي استشهد به المصدر لبيان أهمية الفرائض؟",
+        "difficulty_score": 700,
+        "explanation": "قوله تعالى: 'وما تقرب إلي عبدي بشيء أحب إلي مما افترضت عليه' [15].",
+        "choices": [
+            { "choice_text": "حديث 'إنما الأعمال بالنيات'", "is_correct": false },
+            { "choice_text": "حديث 'وما تقرب إلي عبدي بشيء أحب إلي مما افترضته عليه'", "is_correct": true },
+            { "choice_text": "حديث 'الدين المعاملة'", "is_correct": false },
+            { "choice_text": "حديث 'الصدقة تطفئ الخطيئة'", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي حذر المصدر من استخدامها 'للتقريب بين الكفر والإسلام'؟",
+        "difficulty_score": 850,
+        "explanation": "آية {لكم دينكم ولي دين} من سورة الكافرون، معتبراً ذلك تشويهاً لمعناها الأصلي وهو البراءة [16].",
+        "choices": [
+            { "choice_text": "آية الكرسي", "is_correct": false },
+            { "choice_text": "آية {لكم دينكم ولي دين}", "is_correct": true },
+            { "choice_text": "آية {إن الدين عند الله الإسلام}", "is_correct": false },
+            { "choice_text": "آية {يا أيها الذين آمنوا}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني سورة الكافرون كما ورد في المصدر؟",
+        "difficulty_score": 550,
+        "explanation": "هي سورة 'البراءة من الشرك' براءة مستحكمة [17].",
+        "choices": [
+            { "choice_text": "سورة الرحمة والمغفرة", "is_correct": false },
+            { "choice_text": "سورة البراءة من الشرك", "is_correct": true },
+            { "choice_text": "سورة القصص التاريخية", "is_correct": false },
+            { "choice_text": "سورة الأحكام الشرعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الخطأ الذي يقع فيه من يظن أن 'البيان' هو السجع والجمل الغريبة؟",
+        "difficulty_score": 750,
+        "explanation": "الخطأ هو اختصار البيان في 'جماليات الخطاب' ونسيان جوهره وهو إقامة الحجة وتأدية المعنى [18].",
+        "choices": [
+            { "choice_text": "أنه لا يحفظ الشعر", "is_correct": false },
+            { "choice_text": "اختصار البيان في جماليات الخطاب ونسيان إقامة الحجة", "is_correct": true },
+            { "choice_text": "أنه لا يتحدث بسرعة", "is_correct": false },
+            { "choice_text": "أنه لا يستخدم اللغة الأجنبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النجاشي عندما وافق جعفر على قوله في عيسى؟",
+        "difficulty_score": 650,
+        "explanation": "أخذ عوداً من الأرض وقال: 'ما عدا عيسى ابن مريم ما قلت هذا العود' [11].",
+        "choices": [
+            { "choice_text": "أنت تكذب على المسيح", "is_correct": false },
+            { "choice_text": "ما عدا عيسى ما قلت هذا العود (أي أصبت الحقيقة)", "is_correct": true },
+            { "choice_text": "سأسجنكم لمخالفتكم ديني", "is_correct": false },
+            { "choice_text": "أريد دليلاً مادياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة التي تظهر في عدم 'مداهنة' جعفر للنجاشي؟",
+        "difficulty_score": 900,
+        "explanation": "قيمة 'تبليغ الحق كما هو' دون تشويه ليتواءم مع الأزمة [38، 39].",
+        "choices": [
+            { "choice_text": "السياسة الدبلوماسية المرنة", "is_correct": false },
+            { "choice_text": "تبليغ الحق كما هو دون تشويه", "is_correct": true },
+            { "choice_text": "التنازل للمصلحة المؤقتة", "is_correct": false },
+            { "choice_text": "إخفاء الحقائق لحين استقرار الوضع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء الذي كان يدعو به المسلمون للنجاشي؟",
+        "difficulty_score": 450,
+        "explanation": "كانوا يدعون له بـ 'الظهور على عدوه والتمكين له في بلاده' [13].",
+        "choices": [
+            { "choice_text": "بالهداية للإسلام فقط", "is_correct": false },
+            { "choice_text": "بالظهور على عدوه والتمكين له", "is_correct": true },
+            { "choice_text": "بأن يترك الملك ويهاجر معهم", "is_correct": false },
+            { "choice_text": "بأن يعطيهم أموال الحبشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الشخصية التي قال عنها المصدر إنها تدرس كـ 'نص في البيان'؟",
+        "difficulty_score": 500,
+        "explanation": "جعفر بن أبي طالب في خطابه أمام النجاشي [18].",
+        "choices": [
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": true },
+            { "choice_text": "عبد الله بن أبي ربيعة", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس الختامي الذي ذكره المصدر من هذا اللقاء؟",
+        "difficulty_score": 300,
+        "explanation": "النجاح العظيم في المحافظة على حقائق الدين ومواجهة الكيد بوضوح واجتماع كلمة [7].",
+        "choices": [
+            { "choice_text": "كيفية الربح في التجارة الدولية", "is_correct": false },
+            { "choice_text": "النجاح في المحافظة على حقائق الدين ومواجهة الكيد", "is_correct": true },
+            { "choice_text": "طرق بناء السفن للهجرة", "is_correct": false },
+            { "choice_text": "تاريخ ملوك الحبشة القدماء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا انتهى مجلس السيرة العاشر للمصلحين؟",
+        "difficulty_score": 100,
+        "explanation": "انتهى بالدعاء بالبركة في المجالس والعلم والفقه والصلاة على النبي [8].",
+        "choices": [
+            { "choice_text": "بإعلان الحرب", "is_correct": false },
+            { "choice_text": "بالدعاء والصلاة على النبي محمد", "is_correct": true },
+            { "choice_text": "بتوزيع الهدايا", "is_correct": false },
+            { "choice_text": "بتحديد موعد معركة بدر", "is_correct": false }
+        ]
+    }
+]
+
+    }

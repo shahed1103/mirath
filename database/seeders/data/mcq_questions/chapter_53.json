@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 53,
+    "questions": [
+        {
+        "question_text": "ما هو الحدث الذي اختاره الصحابة ليكون بداية للتاريخ الإسلامي؟",
+        "difficulty_score": 100,
+        "explanation": "اختار الصحابة الهجرة النبوية لبداية التاريخ لأنها كانت بداية تحول عظيم ونصرة للدين [3].",
+        "choices": [
+            { "choice_text": "مولد النبي صلى الله عليه وسلم", "is_correct": false },
+            { "choice_text": "بعثة النبي صلى الله عليه وسلم", "is_correct": false },
+            { "choice_text": "الهجرة النبوية", "is_correct": true },
+            { "choice_text": "وفاة النبي صلى الله عليه وسلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي سورة وردت الآية التي أرشدت النبي صلى الله عليه وسلم للدعاء قبل الهجرة: 'وقل رب أدخلني مدخل صدق...'؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن هذه الآية وردت في سورة الإسراء وهي سورة مكية [12].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة الإسراء", "is_correct": true },
+            { "choice_text": "سورة التوبة", "is_correct": false },
+            { "choice_text": "سورة الأنفال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التوقيت الذي ذهب فيه النبي صلى الله عليه وسلم إلى بيت أبي بكر ليخبره بالإذن في الهجرة؟",
+        "difficulty_score": 300,
+        "explanation": "قالت عائشة رضي الله عنها أن النبي جاء في 'نحر الظهيرة' وهو وقت لم يكن يأتي فيه عادة [6].",
+        "choices": [
+            { "choice_text": "عند الفجر", "is_correct": false },
+            { "choice_text": "وقت شروق الشمس", "is_correct": false },
+            { "choice_text": "نحر الظهيرة", "is_correct": true },
+            { "choice_text": "بعد العشاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد النبي صلى الله عليه وسلم عندما عرض عليه أبو بكر إحدى الراحلتين؟",
+        "explanation": "أصر النبي صلى الله عليه وسلم على أخذها 'بالثمن' ليؤكد استقلاله في هذا العمل العظيم [5].",
+        "difficulty_score": 400,
+        "choices": [
+            { "choice_text": "قبلها كهدية", "is_correct": false },
+            { "choice_text": "رفض الخروج بالراحلة", "is_correct": false },
+            { "choice_text": "قال: 'بالثمن'", "is_correct": true },
+            { "choice_text": "طلب منه تأجيل الرحلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عمر عائشة رضي الله عنها تقريباً عند حدوث الهجرة؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المصدر أن عمرها كان حينذاك ثماني سنوات تقريباً [1].",
+        "choices": [
+            { "choice_text": "6 سنوات", "is_correct": false },
+            { "choice_text": "8 سنوات", "is_correct": true },
+            { "choice_text": "10 سنوات", "is_correct": false },
+            { "choice_text": "12 سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من كان مكلفاً بنقل أخبار قريش إلى النبي صلى الله عليه وسلم في الغار؟",
+        "difficulty_score": 300,
+        "explanation": "كان عبد الله بن أبي بكر يبيت بمكة ثم يلحق بهما بالسحر ليخبرهما بالخبر [1].",
+        "choices": [
+            { "choice_text": "عامر بن فهيرة", "is_correct": false },
+            { "choice_text": "عبد الله بن أبي بكر", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى وصف 'الخريت' الذي أُطلق على دليل الهجرة؟",
+        "difficulty_score": 600,
+        "explanation": "الخريت هو الماهر الحاذق في الدلالة على الطرق [18، 19].",
+        "choices": [
+            { "choice_text": "الرجل الشجاع", "is_correct": false },
+            { "choice_text": "الماهر في الدلالة", "is_correct": true },
+            { "choice_text": "كاتب الرسائل", "is_correct": false },
+            { "choice_text": "صاحب الإبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بأي اتجاه سلك النبي صلى الله عليه وسلم الطريق في البداية عند خروجه من الغار للتمويه؟",
+        "difficulty_score": 700,
+        "explanation": "اتجه النبي صلى الله عليه وسلم جنوباً أولاً بدلاً من اتجاه المدينة شمالاً للتمويه على المشركين [13].",
+        "choices": [
+            { "choice_text": "شمالاً نحو يثرب", "is_correct": false },
+            { "choice_text": "شرقاً نحو الطائف", "is_correct": false },
+            { "choice_text": "جنوباً", "is_correct": true },
+            { "choice_text": "غرباً نحو البحر مباشرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من استئجار النبي صلى الله عليه وسلم لـ 'عبد الله بن أريقط' وهو كافر؟",
+        "difficulty_score": 800,
+        "explanation": "يدل ذلك على أن المعيار الأساسي في اتخاذ الأسباب الدنيوية هو الخبرة والأمانة المهنية [20، 21].",
+        "choices": [
+            { "choice_text": "ضرورة إسلام الدليل قبل استئجاره", "is_correct": false },
+            { "choice_text": "أن الخبرة هي المعيار الأساسي في اتخاذ الأسباب", "is_correct": true },
+            { "choice_text": "عدم جواز التعامل مع الكفار مطلقاً", "is_correct": false },
+            { "choice_text": "أن النبي لم يجد غيره من المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر غار ثور من الداخل؟",
+        "difficulty_score": 400,
+        "explanation": "وصفه بأنه غار صغير وضيق لا يستطيع الإنسان القيام فيه [8].",
+        "choices": [
+            { "choice_text": "واسع جداً", "is_correct": false },
+            { "choice_text": "ضيق لا يُمكن القيام فيه", "is_correct": true },
+            { "choice_text": "مفتوح مثل غار حراء", "is_correct": false },
+            { "choice_text": "مبني من الحجارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي صلى الله عليه وسلم لأبي بكر عندما قال 'لو نظر أحدهم لموضع قدمه لرآنا'؟",
+        "difficulty_score": 300,
+        "explanation": "قال له: 'ما ظنك يا أبا بكر باثنين الله ثالثهما' ليطمئنه بمعية الله [14].",
+        "choices": [
+            { "choice_text": "إننا سنخرج الآن", "is_correct": false },
+            { "choice_text": "ما ظنك يا أبا بكر باثنين الله ثالثهما", "is_correct": true },
+            { "choice_text": "لا تخف فالجبل عالٍ", "is_correct": false },
+            { "choice_text": "سيصرف الله أبصارهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي روى قصة شراء أبي بكر للسرج من عازب وقصة الهجرة؟",
+        "difficulty_score": 500,
+        "explanation": "هو البراء بن عازب رضي الله عنه [33، 34].",
+        "choices": [
+            { "choice_text": "أنس بن مالك", "is_correct": false },
+            { "choice_text": "البراء بن عازب", "is_correct": true },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "أبو هريرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل أبو بكر الصديق للنبي صلى الله عليه وسلم عندما اشتد الحر في الطريق ليتمكن من النوم؟",
+        "difficulty_score": 400,
+        "explanation": "بحث عن ظل صخرة وسواها بيده وفرش عليها فروة لينام النبي [11].",
+        "choices": [
+            { "choice_text": "بنى له خيمة", "is_correct": false },
+            { "choice_text": "سوى له مكاناً في ظل صخرة وفرش له فروة", "is_correct": true },
+            { "choice_text": "طلب منه الاستمرار في المشي", "is_correct": false },
+            { "choice_text": "سقاه ماءً بارداً فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر المصدر عبارة أبي بكر 'فشرب حتى رضيتُ'؟",
+        "difficulty_score": 900,
+        "explanation": "تدل على شدة محبة أبي بكر وفنائه في النبي، بحيث أن ارتواء النبي كان سبباً في رضاه وسروره [15].",
+        "choices": [
+            { "choice_text": "أن اللبن كان كثيراً", "is_correct": false },
+            { "choice_text": "أن أبا بكر كان عطشاناً أيضاً", "is_correct": false },
+            { "choice_text": "دليل على شدة المحبة والفناء في النبي", "is_correct": true },
+            { "choice_text": "أن النبي شرب كل ما في الإناء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الرجل الذي طارد النبي صلى الله عليه وسلم طمعاً في الجائزة؟",
+        "difficulty_score": 200,
+        "explanation": "هو سراقة بن مالك بن جعشم [15].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "سراقة بن مالك", "is_correct": true },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا حدث لفرس سراقة عندما اقترب من النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "ساخت قوائم الفرس في الأرض الصلبة حتى بلغت الركبتين [38، 43].",
+        "choices": [
+            { "choice_text": "ماتت الفرس", "is_correct": false },
+            { "choice_text": "ساخت قوائمها في الأرض", "is_correct": true },
+            { "choice_text": "هربت منه", "is_correct": false },
+            { "choice_text": "أصيبت بالعمى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان النبي صلى الله عليه وسلم منشغلاً عندما كان سراقة يطارده؟",
+        "difficulty_score": 600,
+        "explanation": "كان النبي صلى الله عليه وسلم يقرأ القرآن ولا يلتفت [16].",
+        "choices": [
+            { "choice_text": "كان يجهز سيفه", "is_correct": false },
+            { "choice_text": "كان يقرأ القرآن ولا يلتفت", "is_correct": true },
+            { "choice_text": "كان يحاول الهروب بسرعة", "is_correct": false },
+            { "choice_text": "كان يتحدث مع أبي بكر بصوت عالٍ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الجائزة (الدية) التي رصدتها قريش لمن يقتل أو يأسر النبي أو أبا بكر؟",
+        "difficulty_score": 400,
+        "explanation": "رصدت قريش مائة من الإبل دية لكل واحد منهما [17].",
+        "choices": [
+            { "choice_text": "50 من الإبل", "is_correct": false },
+            { "choice_text": "100 من الإبل لكل منهما", "is_correct": true },
+            { "choice_text": "ألف دينار ذهبي", "is_correct": false },
+            { "choice_text": "سيادة مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا طلب سراقة من النبي صلى الله عليه وسلم بعدما تيقن من حفظ الله له؟",
+        "difficulty_score": 500,
+        "explanation": "طلب منه أن يكتب له 'كتاب أمن' [7].",
+        "choices": [
+            { "choice_text": "المال والذهب", "is_correct": false },
+            { "choice_text": "أن يكتب له كتاب أمن", "is_correct": true },
+            { "choice_text": "أن يدله على طريق العودة", "is_correct": false },
+            { "choice_text": "أن يسلمه سلاحه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي كتب كتاب الأمن لسراقة بأمر النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 600,
+        "explanation": "أمر النبي صلى الله عليه وسلم عامر بن فهيرة فكتبه في رقعة من أدم [7].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "عامر بن فهيرة", "is_correct": true },
+            { "choice_text": "عبد الله بن أبي بكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا لقب المصدر منطقة 'الكلية' اليوم بالنسبة لمسار سراقة؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المصدر أنها المنطقة التي لحق فيها سراقة بالنبي وهي قريبة من رابغ [40، 41].",
+        "choices": [
+            { "choice_text": "المدينة المنورة", "is_correct": false },
+            { "choice_text": "بدر", "is_correct": false },
+            { "choice_text": "الكلية (قرب رابغ)", "is_correct": true },
+            { "choice_text": "وادي العقيق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف سراقة بعدما عاد إلى قريش؟",
+        "difficulty_score": 500,
+        "explanation": "صار يقول للناس 'كفيتم هذا الوجه' ويردهم عن طلب النبي [7].",
+        "choices": [
+            { "choice_text": "أخبرهم بمكان النبي", "is_correct": false },
+            { "choice_text": "صار يرد الناس عن طلب النبي", "is_correct": true },
+            { "choice_text": "قاد جيشاً لملاحقته", "is_correct": false },
+            { "choice_text": "سكت ولم يتكلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "على من نزل النبي صلى الله عليه وسلم في أول ليلة عند وصوله المدينة (بني النجار)؟",
+        "difficulty_score": 400,
+        "explanation": "نزل على بني النجار إكراماً لهم لأنهم أخوال عبد المطلب [18].",
+        "choices": [
+            { "choice_text": "بني هاشم", "is_correct": false },
+            { "choice_text": "بني النجار", "is_correct": true },
+            { "choice_text": "بني أمية", "is_correct": false },
+            { "choice_text": "بني عبد الدار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هما أول من قدما المدينة من المهاجرين قبل وصول النبي؟",
+        "difficulty_score": 600,
+        "explanation": "أول من قدم المدينة هما مصعب بن عمير وابن أم مكتوم [18].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب وعثمان", "is_correct": false },
+            { "choice_text": "مصعب بن عمير وابن أم مكتوم", "is_correct": true },
+            { "choice_text": "حمزة والعباس", "is_correct": false },
+            { "choice_text": "بلال وسعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أنس بن مالك عن حال المدينة يوم دخلها النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'لما كان اليوم الذي دخل فيه رسول الله المدينة أضاء منها كل شيء' [19].",
+        "choices": [
+            { "choice_text": "أظلم منها كل شيء", "is_correct": false },
+            { "choice_text": "أضاء منها كل شيء", "is_correct": true },
+            { "choice_text": "بقيت كما هي", "is_correct": false },
+            { "choice_text": "نزل فيها مطر غزير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الجبل الذي قال عنه النبي صلى الله عليه وسلم 'هذا جبل يحبنا ونحبه'؟",
+        "difficulty_score": 300,
+        "explanation": "هو جبل أحد الذي يحتضن المدينة من شمالها [20].",
+        "choices": [
+            { "choice_text": "جبل ثور", "is_correct": false },
+            { "choice_text": "جبل حراء", "is_correct": false },
+            { "choice_text": "جبل أحد", "is_correct": true },
+            { "choice_text": "جبل الرماة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي وادٍ في المدينة نزل فيه جبريل وقال للنبي: 'صلِّ في هذا الوادي المبارك'؟",
+        "difficulty_score": 700,
+        "explanation": "هو وادي العقيق المبارك [21].",
+        "choices": [
+            { "choice_text": "وادي فاطمة", "is_correct": false },
+            { "choice_text": "وادي العقيق", "is_correct": true },
+            { "choice_text": "وادي وج", "is_correct": false },
+            { "choice_text": "وادي بيشة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبّه النبي صلى الله عليه وسلم سرعة عودة الإيمان إلى المدينة؟",
+        "difficulty_score": 600,
+        "explanation": "شبّهه بعودة الحية إلى جحرها 'إن الإيمان ليأرز إلى المدينة كما تأرز الحية إلى جحرها' [22].",
+        "choices": [
+            { "choice_text": "بسرعة الريح", "is_correct": false },
+            { "choice_text": "بعودة الحية إلى جحرها", "is_correct": true },
+            { "choice_text": "بثبات الجبال", "is_correct": false },
+            { "choice_text": "بجريان الماء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي اكتسبتها المدينة بمقدم النبي صلى الله عليه وسلم كما ذكر المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "أصبحت مأرزاً للإيمان ومنبعاً للسكينة والوحي وهيكلت هيكلة أخرى [48، 49].",
+        "choices": [
+            { "choice_text": "مجرد مركز تجاري", "is_correct": false },
+            { "choice_text": "منبعاً للسكينة والوحي ومأرزاً للإيمان", "is_correct": true },
+            { "choice_text": "مدينة زراعية فقط", "is_correct": false },
+            { "choice_text": "حصناً عسكرياً مغلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي يوم من رمضان وافقت معركة بدر كما ذكر الشيخ في الخاتمة؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر أنها وافقت يوم السابع عشر من رمضان [23].",
+        "choices": [
+            { "choice_text": "10 رمضان", "is_correct": false },
+            { "choice_text": "15 رمضان", "is_correct": false },
+            { "choice_text": "17 رمضان", "is_correct": true },
+            { "choice_text": "27 رمضان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من قول النبي 'ما ظنك باثنين الله ثالثهما' في العمل الإصلاحي؟",
+        "difficulty_score": 800,
+        "explanation": "الحاجة إلى يقين تام بالله يسند المصلح في أوقات الأزمات الكبرى [24].",
+        "choices": [
+            { "choice_text": "ترك الأسباب والاعتماد على المعجزات فقط", "is_correct": false },
+            { "choice_text": "الحاجة ليقين تام بالله في أوقات الأزمات", "is_correct": true },
+            { "choice_text": "أن النبي لم يكن بحاجة لأبي بكر", "is_correct": false },
+            { "choice_text": "أن المشركين كانوا ضعفاء جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ذكرت موقف الغار بلفظ 'إذ يقول لصاحبه لا تحزن إن الله معنا'؟",
+        "difficulty_score": 300,
+        "explanation": "سجل الله هذا الموقف في سورة التوبة [25].",
+        "choices": [
+            { "choice_text": "سورة الأنفال", "is_correct": false },
+            { "choice_text": "سورة التوبة", "is_correct": true },
+            { "choice_text": "سورة محمد", "is_correct": false },
+            { "choice_text": "سورة الفتح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي كان يسير بالغنم خلف عبد الله بن أبي بكر لإخفاء آثاره؟",
+        "difficulty_score": 500,
+        "explanation": "كان عامر بن فهيرة يروح خلفه بمنحة من غنم ليعفي أثره [17، 18].",
+        "choices": [
+            { "choice_text": "عبد الله بن أريقط", "is_correct": false },
+            { "choice_text": "عامر بن فهيرة", "is_correct": true },
+            { "choice_text": "سراقة بن مالك", "is_correct": false },
+            { "choice_text": "بلال بن رباح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العادة الجاهلية التي فعلها سراقة قبل ملاحقة النبي ونهي عنها الإسلام؟",
+        "difficulty_score": 600,
+        "explanation": "استخدم الأزلام (الاستقسام بالأزلام) ليعرف هل يضرهم أم لا [26].",
+        "choices": [
+            { "choice_text": "الذبح للأصنام", "is_correct": false },
+            { "choice_text": "الاستقسام بالأزلام", "is_correct": true },
+            { "choice_text": "شرب الخمر", "is_correct": false },
+            { "choice_text": "وأد البنات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا شبه سراقة الغبار الذي خرج من مكان غوص قوائم فرسه؟",
+        "difficulty_score": 700,
+        "explanation": "قال: 'فلما استوت قائمة إذا لأثر يديها عثان (غبار) ساطع في السماء مثل الدخان' [16].",
+        "choices": [
+            { "choice_text": "مثل الضباب", "is_correct": false },
+            { "choice_text": "مثل الدخان", "is_correct": true },
+            { "choice_text": "مثل الرمل المتحرك", "is_correct": false },
+            { "choice_text": "مثل الماء الفوار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يفعل أبو بكر الصديق في الطريق بينما كان النبي يقرأ القرآن؟",
+        "difficulty_score": 500,
+        "explanation": "كان أبو بكر يكثر الالتفات خوفاً على النبي من الطلب [16].",
+        "choices": [
+            { "choice_text": "كان ينام", "is_correct": false },
+            { "choice_text": "كان يكثر الالتفات", "is_correct": true },
+            { "choice_text": "كان يقرأ القرآن معه", "is_correct": false },
+            { "choice_text": "كان يقود الناقة بسرعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المسافة التقريبية التي كان سراقة يبعد فيها عن النبي عندما دعا عليه؟",
+        "difficulty_score": 700,
+        "explanation": "كان بينهما قدر رمح أو رمحين أو ثلاثة [27].",
+        "choices": [
+            { "choice_text": "كيلومتر واحد", "is_correct": false },
+            { "choice_text": "قدر رمح أو رمحين أو ثلاثة", "is_correct": true },
+            { "choice_text": "مئة متر", "is_correct": false },
+            { "choice_text": "بعيد جداً لا يُرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا نزل النبي صلى الله عليه وسلم المدينة على 'بني النجار' تحديداً؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المصدر أنه نزل عليهم لأنهم أخوال عبد المطلب، وهو نوع من الوفاء للعلاقة النسبية [18].",
+        "choices": [
+            { "choice_text": "لأنهم أغنى قبائل المدينة", "is_correct": false },
+            { "choice_text": "لأنهم أخوال عبد المطلب", "is_correct": true },
+            { "choice_text": "لأنهم أول من أسلم", "is_correct": false },
+            { "choice_text": "لأن مساكنهم كانت أوسع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي جعل سراقة يوقن أن أمر النبي سيظهر؟",
+        "difficulty_score": 800,
+        "explanation": "بسبب المنع والحبس الذي واجهه من غوص قوائم فرسه رغم الأرض الصلبة [43، 44].",
+        "choices": [
+            { "choice_text": "رؤية جيش المسلمين", "is_correct": false },
+            { "choice_text": "بسبب المنع والحبس الذي واجهه في الوصول إليهما", "is_correct": true },
+            { "choice_text": "سماعه لكلام النبي الجميل", "is_correct": false },
+            { "choice_text": "خوفه من أبي بكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'طابة'؟",
+        "difficulty_score": 300,
+        "explanation": "اسم من أسماء المدينة المنورة كان يطلقه عليها النبي صلى الله عليه وسلم [20].",
+        "choices": [
+            { "choice_text": "اسم لبئر في المدينة", "is_correct": false },
+            { "choice_text": "اسم ناقة النبي", "is_correct": false },
+            { "choice_text": "اسم للمدينة المنورة", "is_correct": true },
+            { "choice_text": "اسم لجبل في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الغلام الذي وصفه المصدر بأنه 'ثقفٌ لقنٌ' وكان يبيت عند النبي وأبي بكر في الغار؟",
+        "difficulty_score": 100,
+        "explanation": "هو عبد الله بن أبي بكر، وكان شاباً ذكياً (ثقفاً) وسريع الحفظ (لقناً) لنقل الأخبار [16، 17].",
+        "choices": [
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "عبد الله بن أبي بكر", "is_correct": true },
+            { "choice_text": "أسامة بن زيد", "is_correct": false },
+            { "choice_text": "عامر بن فهيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الوظيفة الأساسية لعامر بن فهيرة خلال فترة اختباء النبي في الغار؟",
+        "difficulty_score": 200,
+        "explanation": "كان يرعى الغنم ليؤمن لهما اللبن (المِّنحة) ويخفي آثار أقدام عبد الله بن أبي بكر [17، 18].",
+        "choices": [
+            { "choice_text": "دليل في الطريق", "is_correct": false },
+            { "choice_text": "رعي الغنم لإخفاء الآثار وتأمين اللبن", "is_correct": true },
+            { "choice_text": "نقل الرسائل إلى مكة", "is_correct": false },
+            { "choice_text": "حراسة باب الغار بالسيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الحقيقي لـ 'ذات النطاقين'؟",
+        "difficulty_score": 100,
+        "explanation": "هي أسماء بنت أبي بكر رضي الله عنهما، ولقبت بذلك لأنها شقت نطاقها لربط طعام الهجرة [1].",
+        "choices": [
+            { "choice_text": "عائشة بنت أبي بكر", "is_correct": false },
+            { "choice_text": "أم سلمة", "is_correct": false },
+            { "choice_text": "أسماء بنت أبي بكر", "is_correct": true },
+            { "choice_text": "فاطمة بنت الرسول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم ليلة لبث النبي صلى الله عليه وسلم وأبو بكر في غار ثور؟",
+        "difficulty_score": 200,
+        "explanation": "مكثا في الغار ثلاث ليالٍ قبل انطلاقهما نحو المدينة [16، 23].",
+        "choices": [
+            { "choice_text": "ليلة واحدة", "is_correct": false },
+            { "choice_text": "ليلتين", "is_correct": false },
+            { "choice_text": "ثلاث ليالٍ", "is_correct": true },
+            { "choice_text": "سبع ليالٍ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الرجل الذي استأجره النبي ليدله على الطريق وكان على دين كفار قريش؟",
+        "difficulty_score": 300,
+        "explanation": "هو عبد الله بن أريقط، وكان ماهراً في الطرق (خريتاً) [18، 19].",
+        "choices": [
+            { "choice_text": "سراقة بن مالك", "is_correct": false },
+            { "choice_text": "عبد الله بن أريقط", "is_correct": true },
+            { "choice_text": "ابن الدغنة", "is_correct": false },
+            { "choice_text": "أبو جهل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أصر النبي صلى الله عليه وسلم على أخذ الراحلة من أبي بكر 'بالثمن'؟",
+        "difficulty_score": 400,
+        "explanation": "ليكون أجره وهجرته بماله الخاص تأكيداً على كمال العبودية والاستقلال في العمل [2].",
+        "choices": [
+            { "choice_text": "لأن أبا بكر كان فقيراً", "is_correct": false },
+            { "choice_text": "ليكون العمل بماله الخاص واستقلالاً تاماً", "is_correct": true },
+            { "choice_text": "لأن الراحلة لم تكن جيدة", "is_correct": false },
+            { "choice_text": "لأن الشرع يحرم الهدايا بين الأصدقاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى أي قبيلة ينتمي 'عبد الله بن أريقط' دليل الهجرة؟",
+        "difficulty_score": 600,
+        "explanation": "ينتمي إلى بني الدِّيل من بني عبد بن عدي [3].",
+        "choices": [
+            { "choice_text": "بني هاشم", "is_correct": false },
+            { "choice_text": "بني النجار", "is_correct": false },
+            { "choice_text": "بني الدِّيل", "is_correct": true },
+            { "choice_text": "بني مخزوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي وقت كان النبي صلى الله عليه وسلم يخرج من الغار مع صاحبه؟",
+        "difficulty_score": 500,
+        "explanation": "ذكرت الرواية أن عبد الله بن أبي بكر كان يخرج من عندهما بسحر [1].",
+        "choices": [
+            { "choice_text": "عند الظهر", "is_correct": false },
+            { "choice_text": "وقت العشاء", "is_correct": false },
+            { "choice_text": "وقت السحر", "is_correct": true },
+            { "choice_text": "قبل الغروب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المهارة التي استلزمها النبي في الدليل (الخريت)؟",
+        "difficulty_score": 300,
+        "explanation": "الخبرة العالية والأمانة المهنية في معرفة الطرق غير المعتادة [19، 20].",
+        "choices": [
+            { "choice_text": "القوة البدنية", "is_correct": false },
+            { "choice_text": "الخبرة العالية في معرفة الطرق", "is_correct": true },
+            { "choice_text": "الشهرة بين العرب", "is_correct": false },
+            { "choice_text": "القدرة على القتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سلك النبي صلى الله عليه وسلم 'طريق السواحل' في الهجرة؟",
+        "difficulty_score": 400,
+        "explanation": "لأنها طريق غير معتادة للتمويه على المشركين الذين يبحثون في الطرق المعروفة [19، 22].",
+        "choices": [
+            { "choice_text": "لأنها كانت أقصر طريق", "is_correct": false },
+            { "difficulty_score": 400, "choice_text": "للتمويه والابتعاد عن رصد قريش في الطرق المعتادة", "is_correct": true },
+            { "choice_text": "للبحث عن ماء البحر", "is_correct": false },
+            { "choice_text": "للقاء تجار المدينة هناك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من قول موسى عليه السلام 'كلا إن معي ربي سيهدين'؟",
+        "difficulty_score": 500,
+        "explanation": "اليقين التام بمعية الله في أشد اللحظات ضيقاً، وهو ما يماثل حال النبي في الغار [13، 14].",
+        "choices": [
+            { "choice_text": "أن موسى كان خائفاً", "is_correct": false },
+            { "choice_text": "اليقين بمعية الله في أوقات الأزمات", "is_correct": true },
+            { "choice_text": "أن البحر سوف ينشق فوراً", "is_correct": false },
+            { "choice_text": "أن الأسباب المادية غير ضرورية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما هو المعيار الأساسي في التعامل مع غير المسلمين في المصالح الفنية؟",
+        "difficulty_score": 700,
+        "explanation": "المعيار هو الخبرة والأمانة المهنية، كما فعل النبي مع الدليل الكافر [20، 21].",
+        "choices": [
+            { "choice_text": "أن يكون من أهل الكتاب حصراً", "is_correct": false },
+            { "choice_text": "الخبرة والأمانة المهنية", "is_correct": true },
+            { "choice_text": "المصلحة المادية فقط", "is_correct": false },
+            { "choice_text": "عدم التعامل معهم مطلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر غار ثور من حيث إمكانية الرؤية لمن بالخارج؟",
+        "difficulty_score": 600,
+        "explanation": "بابه نازل ولا يرى من بداخل الغار إلا إذا خفض الرائي رأسه لمستوى القدمين [29، 30].",
+        "choices": [
+            { "choice_text": "مفتوح مثل غار حراء", "is_correct": false },
+            { "choice_text": "بابه نازل لا يرى ما بداخله إلا بالانحناء الشديد", "is_correct": true },
+            { "choice_text": "له بابان للدخول والخروج", "is_correct": false },
+            { "choice_text": "مغطى بالأشجار الكثيفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي قالها النبي صلى الله عليه وسلم لأبي بكر في الغار وسجلها القرآن؟",
+        "difficulty_score": 200,
+        "explanation": "قال له: 'لا تحزن إن الله معنا'، كما ورد في سورة التوبة [31، 32].",
+        "choices": [
+            { "choice_text": "اصبر وصابر", "is_correct": false },
+            { "choice_text": "لا تحزن إن الله معنا", "is_correct": true },
+            { "choice_text": "سوف نخرج قريباً", "is_correct": false },
+            { "choice_text": "إن الله غفور رحيم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي طلب من ابنه 'البراء' أن يحمل السرج لمنزل أبي بكر؟",
+        "difficulty_score": 400,
+        "explanation": "هو عازب والد البراء بن عازب [4].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "عازب", "is_correct": true },
+            { "choice_text": "أبو قتادة", "is_correct": false },
+            { "choice_text": "زيد بن ثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل أبو بكر باللبن قبل تقديمه للنبي صلى الله عليه وسلم ليشرب؟",
+        "difficulty_score": 500,
+        "explanation": "صب عليه الماء حتى برد أسفله [5].",
+        "choices": [
+            { "choice_text": "سخنه على النار", "is_correct": false },
+            { "choice_text": "صب عليه الماء ليبرد", "is_correct": true },
+            { "choice_text": "وضعه في الظل فقط", "is_correct": false },
+            { "choice_text": "شرب منه أولاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الرجل الذي قال للنبي 'قد علمت أن هذا عملك' بعدما ساخت قوائم فرسه؟",
+        "difficulty_score": 300,
+        "explanation": "هو سراقة بن مالك حين أدرك المعجزة النبوية [39، 43].",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "سراقة بن مالك", "is_correct": true },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى ماذا كانت تشير 'الأسودة' التي رآها الرجل من بني مدلج جهة الساحل؟",
+        "difficulty_score": 600,
+        "explanation": "كانت تشير إلى النبي صلى الله عليه وسلم وأبي بكر والدليل في طريقهم للهجرة [6].",
+        "choices": [
+            { "choice_text": "قطيع من الإبل", "is_correct": false },
+            { "choice_text": "أشباح في الليل", "is_correct": false },
+            { "choice_text": "النبي صلى الله عليه وسلم وصاحبه ومن معهما", "is_correct": true },
+            { "choice_text": "جيش من المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا حاول سراقة بن مالك أن ينفي للرجل أن 'الأسودة' هي لمحمد وأصحابه؟",
+        "difficulty_score": 700,
+        "explanation": "ليذهب هو بمفرده ويأخذ الدية (الجائزة) وحده [6].",
+        "choices": [
+            { "choice_text": "خوفاً عليهم من المشركين", "is_correct": false },
+            { "choice_text": "لأنه لم يرهم فعلاً", "is_correct": false },
+            { "choice_text": "ليأخذ الجائزة من قريش لنفسه", "is_correct": true },
+            { "choice_text": "لأنه كان قد أسلم سراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الممارسة الجاهلية التي فعلها سراقة قبل خروجه لملاحقة النبي؟",
+        "difficulty_score": 600,
+        "explanation": "الاستقسام بالأزلام ليرى هل يضرهم أم لا، وخرج السهم الذي يكرهه [42، 43].",
+        "choices": [
+            { "choice_text": "الذبح للأصنام", "is_correct": false },
+            { "choice_text": "الاستقسام بالأزلام", "is_correct": true },
+            { "choice_text": "شرب الخمر", "is_correct": false },
+            { "choice_text": "التطير بالطيور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل سراقة عندما ساخت قوائم فرسه في المرة الثانية؟",
+        "difficulty_score": 500,
+        "explanation": "زجر فرسه فنهضت وخرج من أثر يديها غبار ساطع كالدخان، ثم ناداهم بالأمان [7].",
+        "choices": [
+            { "choice_text": "ترك الفرس وهرب مشياً", "is_correct": false },
+            { "choice_text": "ناداهم بالأمان وطلب الدعاء", "is_correct": true },
+            { "choice_text": "أطلق سهامه نحوهم", "is_correct": false },
+            { "choice_text": "عاد فوراً إلى مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المادة التي كُتب عليها كتاب الأمن لسراقة؟",
+        "difficulty_score": 800,
+        "explanation": "كتبه عامر بن فهيرة في رقعة من أدم (جلد) [8].",
+        "choices": [
+            { "choice_text": "سعف النخيل", "is_correct": false },
+            { "choice_text": "عظم كتف", "is_correct": false },
+            { "choice_text": "رقعة من أدم", "is_correct": true },
+            { "choice_text": "ورق البردي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من كان أول من قدم المدينة من أصحاب النبي صلى الله عليه وسلم قبل وصوله؟",
+        "difficulty_score": 500,
+        "explanation": "هما مصعب بن عمير وابن أم مكتوم [9].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "مصعب بن عمير وابن أم مكتوم", "is_correct": true },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف أنس بن مالك حال المدينة في اليوم الذي توفي فيه النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'أظلم منها كل شيء' [10].",
+        "choices": [
+            { "choice_text": "بقيت مضيئة", "is_correct": false },
+            { "choice_text": "أظلم منها كل شيء", "is_correct": true },
+            { "choice_text": "صارت كغيرها من المدن", "is_correct": false },
+            { "choice_text": "مطر الناس مطراً غزيراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي قبيلة نزل عليها النبي صلى الله عليه وسلم في ليلته الأولى بالمدينة؟",
+        "difficulty_score": 300,
+        "explanation": "نزل على بني النجار، وهم أخوال جده عبد المطلب [9].",
+        "choices": [
+            { "choice_text": "بني عبد الدار", "is_correct": false },
+            { "choice_text": "بني النجار", "is_correct": true },
+            { "choice_text": "بني هاشم", "is_correct": false },
+            { "choice_text": "بني تميم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الآخر الذي أطلقه النبي على المدينة المنورة؟",
+        "difficulty_score": 200,
+        "explanation": "كان يسميها 'طابة' [11].",
+        "choices": [
+            { "choice_text": "بكة", "is_correct": false },
+            { "choice_text": "يثرب (قبل الإسلام)", "is_correct": false },
+            { "choice_text": "طابة", "is_correct": true },
+            { "choice_text": "أم القرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عن أي جبل قال النبي صلى الله عليه وسلم 'هذا جبل يحبنا ونحبه'؟",
+        "difficulty_score": 100,
+        "explanation": "هو جبل أحد المطل على المدينة [11].",
+        "choices": [
+            { "choice_text": "جبل ثور", "is_correct": false },
+            { "choice_text": "جبل حراء", "is_correct": false },
+            { "choice_text": "جبل أحد", "is_correct": true },
+            { "choice_text": "جبل الطور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من نزل على النبي صلى الله عليه وسلم في وادي العقيق ليخبره أنه وادٍ مبارك؟",
+        "difficulty_score": 600,
+        "explanation": "نزل عليه جبريل عليه السلام وأمره بالصلاة فيه [12].",
+        "choices": [
+            { "choice_text": "ميكائيل", "is_correct": false },
+            { "choice_text": "جبريل", "is_correct": true },
+            { "choice_text": "أبو بكر", "is_correct": false },
+            { "choice_text": "الأنصار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التشبيه النبوي لعودة الإيمان إلى المدينة؟",
+        "difficulty_score": 700,
+        "explanation": "قال: 'كما تأرز الحية إلى جحرها' [13].",
+        "choices": [
+            { "choice_text": "مثل تدفق الماء في النهر", "is_correct": false },
+            { "choice_text": "كما تأرز الحية إلى جحرها", "is_correct": true },
+            { "choice_text": "مثل ثبات الجبال في الأرض", "is_correct": false },
+            { "choice_text": "مثل شروق الشمس يومياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على خاتمة المصدر، أي حدث تاريخي سيتوافق مع 'سبعة عشر من رمضان'؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر أنها ستوافق ذكرى معركة بدر [14].",
+        "choices": [
+            { "choice_text": "فتح مكة", "is_correct": false },
+            { "choice_text": "معركة بدر", "is_correct": true },
+            { "choice_text": "غزوة أحد", "is_correct": false },
+            { "choice_text": "بيعة الرضوان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الهيئة التي صعد بها المشركون جبل ثور كما استنتجه المصدر؟",
+        "difficulty_score": 900,
+        "explanation": "صعدوا بقوة وهيمنة استخباراتية عالية، مكنتهم من تتبع الأثر في منطقة وعرة عكس الاتجاه المتوقع [28، 29].",
+        "choices": [
+            { "choice_text": "صعدوا صدفة", "is_correct": false },
+            { "choice_text": "بقوة هيمنة معلوماتية وتتبع دقيق", "is_correct": true },
+            { "choice_text": "صعدوا لأن الدليل وشى بهما", "is_correct": false },
+            { "choice_text": "صعدوا بدفع من الرياح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان شعور أبي بكر الصديق في الغار تجاه نفسه؟",
+        "difficulty_score": 800,
+        "explanation": "أوضح المصدر أن بكاءه وخوفه لم يكن على نفسه، بل كان خوفاً وفداءً لرسول الله [15].",
+        "choices": [
+            { "choice_text": "كان خائفاً من الموت", "is_correct": false },
+            { "choice_text": "كان نادماً على الخروج", "is_correct": false },
+            { "choice_text": "كان خائفاً على رسول الله وفداءً له", "is_correct": true },
+            { "choice_text": "كان يتمنى العودة لمكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي تولى كتابة كتاب الأمان لسراقة؟",
+        "difficulty_score": 600,
+        "explanation": "عامر بن فهيرة بأمر من النبي صلى الله عليه وسلم [8].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "عامر بن فهيرة", "is_correct": true },
+            { "choice_text": "سراقة نفسه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل سراقة بالزاد والمتاع الذي عرضه على النبي وصاحبه؟",
+        "difficulty_score": 500,
+        "explanation": "رفض النبي صلى الله عليه وسلم أخذه ولم يسأله شيئاً [8].",
+        "choices": [
+            { "choice_text": "أخذه النبي كهدية", "is_correct": false },
+            { "choice_text": "رفضه النبي ولم يرزأه منه شيئاً", "is_correct": true },
+            { "choice_text": "أخذه أبو بكر للحاجة إليه", "is_correct": false },
+            { "choice_text": "ضاع المتاع في الطريق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف أنس بن مالك حال المدينة يوم دخلها النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 300,
+        "explanation": "قال: 'أضاء منها كل شيء' [10].",
+        "choices": [
+            { "choice_text": "أظلمت بالغيوم", "is_correct": false },
+            { "choice_text": "أضاء منها كل شيء", "is_correct": true },
+            { "choice_text": "لم يتغير فيها شيء", "is_correct": false },
+            { "choice_text": "هطلت فيها الثلوج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الذي كان يطلقه النبي على المدينة ويعني 'الطيبة'؟",
+        "difficulty_score": 200,
+        "explanation": "هو اسم 'طابة' المشتق من الطيب [11].",
+        "choices": [
+            { "choice_text": "طابة", "is_correct": true },
+            { "choice_text": "يثرب", "is_correct": false },
+            { "choice_text": "المقدسة", "is_correct": false },
+            { "choice_text": "المنورة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس التربوي من بكاء أبي بكر 'أبكي عليك'؟",
+        "difficulty_score": 700,
+        "explanation": "يدل على بلوغ أعلى مراتب المحبة والإيثار بتقديم حياة المصلح والقائد على حياة النفس [15].",
+        "choices": [
+            { "choice_text": "ضعف الثبات عند الأزمات", "is_correct": false },
+            { "choice_text": "تقديم حياة القائد والمصلح حباً وفداءً", "is_correct": true },
+            { "choice_text": "الخوف من ملاحقة المشركين", "is_correct": false },
+            { "choice_text": "الحزن على فراق مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القيمة المضافة لدراسة 'روايات البراء بن عازب' عن الهجرة؟",
+        "difficulty_score": 800,
+        "explanation": "تعتبر مصدراً غنياً لتعلم البلاغة والبيان وتقوية الملكة اللغوية العربية [34، 35].",
+        "choices": [
+            { "choice_text": "تعلم فنون القتال", "is_correct": false },
+            { "choice_text": "زيادة الملكة اللغوية والبيان", "is_correct": true },
+            { "choice_text": "معرفة أنساب العرب فقط", "is_correct": false },
+            { "choice_text": "حفظ أسماء الأماكن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المصدر حال المصلحين بناءً على تجربة الغار؟",
+        "difficulty_score": 900,
+        "explanation": "المصلحون عرضة للابتلاء والضيق، والكرامة عند الله لا تقتضي بالضرورة الرفاهية المادية [24، 25].",
+        "choices": [
+            { "choice_text": "المصلحون دائماً في رغد من العيش", "is_correct": false },
+            { "choice_text": "الابتلاء سنة جارية على المصلحين رغم مكانتهم", "is_correct": true },
+            { "choice_text": "الضيق علامة على فشل الدعوة", "is_correct": false },
+            { "choice_text": "المصلح لا يحتاج لاتخاذ الأسباب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشعور الغالب على الأنصار في استقبال النبي كما يظهر من المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "الفرح العظيم الذي لم يروا مثله قط [16].",
+        "choices": [
+            { "choice_text": "الخوف من مسؤولية حمايته", "is_correct": false },
+            { "choice_text": "الفرح والبهجة العظيمة", "is_correct": true },
+            { "choice_text": "الترقب والحذر", "is_correct": false },
+            { "choice_text": "الرغبة في المغانم", "is_correct": false }
+        ]
+    }
+]
+    }

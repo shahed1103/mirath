@@ -1,0 +1,883 @@
+{
+    "chapter_id": 1,
+    "questions": [
+        {
+            "question_text": "ما هي أوسع دوائر تعريف الفقه؟",
+            "difficulty_score": 100,
+            "explanation": "التعريف اللغوي يشمل الفهم العام في كل المجالات، فهو أوسع من المعنى الشرعي والاصطلاحي [1].",
+            "choices": [
+                { "choice_text": "التعريف الاصطلاحي", "is_correct": false },
+                { "choice_text": "التعريف اللغوي", "is_correct": true },
+                { "choice_text": "التعريف الشرعي", "is_correct": false },
+                { "choice_text": "التعريف العرفي", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو موضوع علم الفقه بالمعنى الاصطلاحي؟",
+            "difficulty_score": 200,
+            "explanation": "يبحث الفقه في أفعال العباد (مثل الصلاة والبيع) من حيث الأحكام الشرعية المترتبة عليها [5].",
+            "choices": [
+                { "choice_text": "بدن الإنسان", "is_correct": false },
+                { "choice_text": "أفعال العباد", "is_correct": true },
+                { "choice_text": "العقيدة والتوحيد", "is_correct": false },
+                { "choice_text": "أصول التفسير", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "حكم تعلم صفة الوضوء والصلاة بالنسبة للمسلم هو:",
+            "difficulty_score": 150,
+            "explanation": "المسائل التي لا تصح العبادة إلا بها هي فرض عين على كل مكلف [8].",
+            "choices": [
+                { "choice_text": "سنة مؤكدة", "is_correct": false },
+                { "choice_text": "فرض كفاية", "is_correct": false },
+                { "choice_text": "فرض عين", "is_correct": true },
+                { "choice_text": "مستحب", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من الخيارات التالية يخرج من التعريف 'الاصطلاحي' للفقه؟",
+            "difficulty_score": 400,
+            "explanation": "التعريف الاصطلاحي يركز على الأحكام 'العملية'، لذا تخرج منه مسائل العقيدة (العلمية) [3, 4].",
+            "choices": [
+                { "choice_text": "أحكام الصلاة", "is_correct": false },
+                { "choice_text": "مسائل البيوع", "is_correct": false },
+                { "choice_text": "صفات الله عز وجل", "is_correct": true },
+                { "choice_text": "أحكام النكاح", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "من قائل العبارة: 'أعظم دليل على فضيلة الشيء النظر إلى ثمرته، وثمرة الفقه أفضل العلوم'؟",
+            "difficulty_score": 300,
+            "explanation": "نقل المصنف هذا القول عن الإمام ابن الجوزي رحمه الله [10].",
+            "choices": [
+                { "choice_text": "الإمام الشافعي", "is_correct": false },
+                { "choice_text": "ابن الجوزي", "is_correct": true },
+                { "choice_text": "الإمام أحمد", "is_correct": false },
+                { "choice_text": "ابن تيمية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "إذا كان الفقه لغة يعني 'الفهم'، فماذا يعني قوله 'فقهت مسألة في الرياضيات'؟",
+            "difficulty_score": 250,
+            "explanation": "هذا استخدام للمعنى اللغوي العام الذي يشمل العلوم غير الشرعية [1, 2].",
+            "choices": [
+                { "choice_text": "فقه بالمعنى الشرعي", "is_correct": false },
+                { "choice_text": "فقه بالمعنى الاصطلاحي", "is_correct": false },
+                { "choice_text": "فقه بالمعنى اللغوي", "is_correct": true },
+                { "choice_text": "ليس فقهاً أبداً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما النسبة التقريبية لأسئلة الناس التي تتعلق بعلم الفقه حسب النص؟",
+            "difficulty_score": 350,
+            "explanation": "ذكر المصنف أن الغالبية الساحقة من أسئلة الناس (حوالي 99.9%) هي مسائل فقهية [10, 11].",
+            "choices": [
+                { "choice_text": "50%", "is_correct": false },
+                { "choice_text": "70%", "is_correct": false },
+                { "choice_text": "90%", "is_correct": false },
+                { "choice_text": "99.9%", "is_correct": true }
+            ]
+        },
+        {
+            "question_text": "دراسة 'أحكام الأسهم' بالنسبة لشخص لا يملك أسهماً هي من قبيل:",
+            "difficulty_score": 500,
+            "explanation": "تعتبر من فروض الكفايات، لكنها قد تتعين على من أراد الدخول في هذا النشاط [9].",
+            "choices": [
+                { "choice_text": "فرض عين", "is_correct": false },
+                { "choice_text": "فرض كفاية", "is_correct": true },
+                { "choice_text": "محرم", "is_correct": false },
+                { "choice_text": "مكروه", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "المذاهب الفقهية الأربعة تعتبر امتداداً لـ:",
+            "difficulty_score": 450,
+            "explanation": "هي امتداد للمدرسة التي علم فيها النبي صلى الله عليه وسلم أصحابه الفقه [14].",
+            "choices": [
+                { "choice_text": "آراء الرجال المحضة", "is_correct": false },
+                { "choice_text": "مدرسة الصحابة", "is_correct": true },
+                { "choice_text": "الفلسفة اليونانية", "is_correct": false },
+                { "choice_text": "القوانين الوضعية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي أول خطوة لضبط علم الفقه حسب المصنف؟",
+            "difficulty_score": 600,
+            "explanation": "أول خطوة هي القناعة التامة بهذا العلم وعدم بناء حواجز نفسية تجاهه [13].",
+            "choices": [
+                { "choice_text": "حفظ المتون الكبيرة", "is_correct": false },
+                { "choice_text": "دراسة أصول الفقه", "is_correct": false },
+                { "choice_text": "القناعة بالعلم", "is_correct": true },
+                { "choice_text": "ملازمة القضاة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هذه المدارس سيتم تناولها في المقرر؟",
+            "difficulty_score": 550,
+            "explanation": "ذكر المصنف أنه سيتناول أهل الحديث، وأهل الرأي، وأهل الظاهر، والمدرسة العقلية [23].",
+            "choices": [
+                { "choice_text": "أهل الحديث والرأي فقط", "is_correct": false },
+                { "choice_text": "أهل الظاهر فقط", "is_correct": false },
+                { "choice_text": "أهل الحديث، الرأي، الظاهر، والعقلية", "is_correct": true },
+                { "choice_text": "المدارس الاستشراقية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "دخول الدارس في الفقه وهو يرى أنه 'أقوال رجال نضرب بها عرض الحائط' يؤدي إلى:",
+            "difficulty_score": 700,
+            "explanation": "يؤدي إلى بناء سور وحاجز منيع يمنعه من ضبط الفقه وإتقانه [7, 14].",
+            "choices": [
+                { "choice_text": "سرعة الإتقان", "is_correct": false },
+                { "choice_text": "عدم القدرة على ضبط العلم", "is_correct": true },
+                { "choice_text": "الوصول إلى رتبة الاجتهاد", "is_correct": false },
+                { "choice_text": "التميز عن بقية الطلاب", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو العلم الذي يشبه الفقه في كونه يتعلق بـ 'أفعال العباد'؟",
+            "difficulty_score": 650,
+            "explanation": "موضوع علم الفقه هو أفعال العباد، بينما الطب موضوعه بدن الإنسان، والنحو موضوعه الكلمة [5].",
+            "choices": [
+                { "choice_text": "الطب", "is_correct": false },
+                { "choice_text": "النحو", "is_correct": false },
+                { "choice_text": "لا يوجد علم يشبهه", "is_correct": true },
+                { "choice_text": "الهندسة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "المصطلح الذي أطلقه بعض العلماء على 'العقيدة' هو:",
+            "difficulty_score": 750,
+            "explanation": "أطلق عليها البعض 'الفقه الأكبر' تمييزاً لها عن الفقه العملي [5].",
+            "choices": [
+                { "choice_text": "الفقه الصغير", "is_correct": false },
+                { "choice_text": "الفقه الأكبر", "is_correct": true },
+                { "choice_text": "أصول الفقه", "is_correct": false },
+                { "choice_text": "الفقه العام", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هذه المسائل تدخل في 'الفقه بالمعنى الشرعي' الوارد في النصوص؟",
+            "difficulty_score": 800,
+            "explanation": "الفقه بالمعنى الشرعي يشمل كل مسائل الدين بما فيها الرقائق والوعد والوعيد [2, 3].",
+            "choices": [
+                { "choice_text": "أحكام الصلاة فقط", "is_correct": false },
+                { "choice_text": "أحكام البيوع فقط", "is_correct": false },
+                { "choice_text": "صفة الجنة والنار والرقائق", "is_correct": true },
+                { "choice_text": "الإعراب والنحو", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا يستشهد المصنف بقوله تعالى 'لِيَتَفَقَّهُوا فِي الدِّينِ'؟",
+            "difficulty_score": 850,
+            "explanation": "ليثبت أن لفظ الفقه في القرآن والسنة أوسع من المعنى الاصطلاحي الخاص بالفقهاء [2, 3, 18].",
+            "choices": [
+                { "choice_text": "لحصر الفقه في الصلاة", "is_correct": false },
+                { "choice_text": "لبيان شمول الفقه لكل مسائل الدين", "is_correct": true },
+                { "choice_text": "للدعوة لترك المذاهب", "is_correct": false },
+                { "choice_text": "لبيان وجوب الجهاد", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما المقصود بـ 'المذاهب المندرسة' في سياق المقرر؟",
+            "difficulty_score": 900,
+            "explanation": "هي مذاهب فقهية كانت قائمة ولها أتباع ثم انتهت ولم يعد لها مقلدون اليوم [23].",
+            "choices": [
+                { "choice_text": "المذاهب الأربعة المشهورة", "is_correct": false },
+                { "choice_text": "المذاهب التي لم تُدون أصلاً", "is_correct": false },
+                { "choice_text": "مذاهب كانت موجودة وانتهت", "is_correct": true },
+                { "choice_text": "المذاهب المعاصرة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "في حديث 'من يرد الله به خيراً يفقهه في الدين'، الفقه هنا هو:", 
+            "difficulty_score": 420, 
+            "explanation": "يراد به الفضل العام للعلم الشرعي بكل فروعه [24].", 
+            "choices": 
+            [
+                { "choice_text": "الفقه الاصطلاحي حصراً", "is_correct": false }, 
+                { "choice_text": "الفقه اللغوي فقط", "is_correct": false }, 
+                { "choice_text": "الفضل العام للعلم الشرعي", "is_correct": true }, 
+                { "choice_text": "فقه المعاملات المالية", "is_correct": false }
+            ] 
+        },
+        { 
+            "question_text": "معرفة إعراب قوله تعالى 'ثلاثة قروء' يعتبر فقهاً بالمعنى:", 
+            "difficulty_score": 580, 
+            "explanation": "يدخل في اللغوي والشرعي، وقد يدخل في الاصطلاحي إذا بنيت عليه مسألة فقهية [15].", 
+            "choices": [
+                { "choice_text": "اللغوي فقط", "is_correct": false }, 
+                { "choice_text": "الشرعي فقط", "is_correct": false }, 
+                { "choice_text": "اللغوي والشرعي والاصطلاحي أحياناً", "is_correct": true }, 
+                { "choice_text": "ليس من الفقه في شيء", "is_correct": false }
+            ] 
+        },
+        { 
+            "question_text": "يعد كتاب 'الروض المربع' مثالاً للكتب التي:", 
+            "difficulty_score": 310, 
+            "explanation": "يستخدمه المصنف كمثال للكتب الفقهية المذهبية التي يحتاج الطالب لقناعة بها لضبطها [25].", 
+            "choices": [
+                { "choice_text": "كتب الحديث", "is_correct": false }, 
+                { "choice_text": "كتب الفقه المذهبي", "is_correct": true }, 
+                { "choice_text": "كتب اللغة", "is_correct": false }, 
+                { "choice_text": "كتب التفسير", "is_correct": false }
+            ] 
+        },
+        { 
+            "question_text": "المجتهد من أئمة الدين عند وقوعه في الخطأ:", 
+            "difficulty_score": 480, 
+            "explanation": "لا يتكلم بغير علم، بل يتقي الله ويجتهد، والخطأ وارد في النتائج [16].", 
+            "choices": [
+                { "choice_text": "يأثم إثماً كبيراً", "is_correct": false }, 
+                { "choice_text": "يعتبر قوله حجة دائماً", "is_correct": false }, 
+                { "choice_text": "بنى قوله على حجة ودليل وإن أخطأ", "is_correct": true }, 
+                { "choice_text": "يتعمد مخالفة السنة", "is_correct": false }
+            ] 
+        },
+        { 
+            "question_text": "أي مما يلي يعتبر من الأهداف الوجدانية للمقرر؟", 
+            "difficulty_score": 330, 
+            "explanation": "تعظيم أئمة الفقه والاعتراف بفضلهم هو هدف يتعلق بالقلب والوجدان [7].", 
+            "choices": [
+                { "choice_text": "حفظ التعاريف", "is_correct": false },
+                { "choice_text": "تعظيم أئمة الفقه", "is_correct": true }, 
+                { "choice_text": "معرفة تاريخ الوفيات", "is_correct": false }, 
+                { "choice_text": "تعداد أبواب الفقه", "is_correct": false }
+            ]
+        },
+        { 
+
+            "question_text": "التعريف الذي يشمل الفهم 'عموماً' هو:", 
+            "difficulty_score": 120, 
+            "explanation": "هو التعريف اللغوي للفقه [1].", 
+            "choices": [
+                { "choice_text": "الشرعي", "is_correct": false }, 
+                { "choice_text": "الاصطلاحي", "is_correct": false }, 
+                { "choice_text": "اللغوي", "is_correct": true }, 
+                { "choice_text": "العلمي", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "أي علم يبحث في 'الكلمة'؟", 
+            "difficulty_score": 220, 
+            "explanation": "موضوع علم النحو هو الكلمة [5].", 
+            "choices": [
+                { "choice_text": "الفقه", "is_correct": false }, 
+                { "choice_text": "النحو", "is_correct": true }, 
+                { "choice_text": "التفسير", "is_correct": false }, 
+                { "choice_text": "المنطق", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "ماذا يترتب على ترك تعلم صفة الصلاة؟", 
+            "difficulty_score": 380, 
+            "explanation": "بما أنها فرض عين، فإن تارك تعلمها يأثم [8].", 
+            "choices": [
+                { "choice_text": "لا شيء عليه", "is_correct": false }, 
+                { "choice_text": "يأثم بتركها", "is_correct": true },
+                { "choice_text": "يستحب له القضاء", "is_correct": false },
+                { "choice_text": "يعتبر كافراً", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "المصنف ذكر أنه سيتحدث عن إمام المذهب من حيث:", 
+            "difficulty_score": 440, 
+            "explanation": "سيشمل التعريف اسمه، نسبه، تاريخه، عبادته وعلمه [23].",
+            "choices": [
+                { "choice_text": "اسمه فقط", "is_correct": false }, 
+                { "choice_text": "اسمه ونسبه وتاريخه وعبادته وعلمه", "is_correct": true }, 
+                { "choice_text": "مؤلفاته فقط", "is_correct": false }, 
+                { "choice_text": "شيوخه وتلاميذه فقط", "is_correct": false }
+            ] 
+        },
+        { 
+            "question_text": "القاضي يقضي بين الناس بعلم:", 
+            "difficulty_score": 290, 
+            "explanation": "لأن خصومات الناس تتعلق بالمسائل الفقهية كالبيع والنكاح [11].", 
+            "choices": [
+                { "choice_text": "مصطلح الحديث", "is_correct": false }, 
+                { "choice_text": "أصول التفسير", "is_correct": false }, 
+                { "choice_text": "الفقه", "is_correct": true }, 
+                { "choice_text": "النحو", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "أيهما أعم: التعريف الشرعي أم الاصطلاحي؟", 
+            "difficulty_score": 520, 
+            "explanation": "الشرعي أعم لأنه يشمل العقيدة والرقائق، بينما الاصطلاحي يختص بالأحكام العملية [3, 4].", 
+            "choices": [
+                { "choice_text": "الاصطلاحي", "is_correct": false }, 
+                { "choice_text": "الشرعي", "is_correct": true }, 
+                { "choice_text": "كلاهما متساويان", "is_correct": false }, 
+                { "choice_text": "اللغوي أضيق منهما", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "دراسة زاد المستقنع أو عمدة الفقه تتطلب:", 
+            "difficulty_score": 610, 
+            "explanation": "تتطلب قناعة بهذا العلم لضبطه وإتقانه [13].", 
+            "choices": [
+                { "choice_text": "حفظ القرآن أولاً", "is_correct": false }, 
+                { "choice_text": "قناعة بالعلم", "is_correct": true }, 
+                { "choice_text": "ترك بقية العلوم", "is_correct": false }, 
+                { "choice_text": "دراسة الفلسفة", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "ما حكم تعلم 'زكاة الأسهم' لمن يملك أسهماً؟", 
+            "difficulty_score": 670, 
+            "explanation": "تتعين في حقه ويجب عليه تعلمها إما تقليداً أو اجتهاداً [9].", 
+            "choices": [
+                { "choice_text": "مستحب", "is_correct": false }, 
+                { "choice_text": "واجب (فرض عين عليه)", "is_correct": true }, 
+                { "choice_text": "مكروه", "is_correct": false }, 
+                { "choice_text": "فرض كفاية فقط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي الدائرة 'الوسطى' من دوائر تعريف الفقه؟",
+            "difficulty_score": 320,
+            "explanation": "ذكر المصنف أن التعريفات تمثل ثلاث دوائر: اللغوي (الكبرى)، والشرعي (الوسطى)، والاصطلاحي (الصغرى) [1].",
+            "choices": [
+                { "choice_text": "التعريف اللغوي", "is_correct": false },
+                { "choice_text": "التعريف الشرعي", "is_correct": true },
+                { "choice_text": "التعريف الاصطلاحي", "is_correct": false },
+                { "choice_text": "التعريف العرفي", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من الأهداف التالية يُصنف كـ 'هدف وجداني' في المقرر؟",
+            "difficulty_score": 410,
+            "explanation": "تعظيم علم الفقه في القلب وتقدير الأئمة أهداف وجدانية تدفع الطالب للتعلم بقناعة [2، 3].",
+            "choices": [
+                { "choice_text": "حفظ تاريخ الفقهاء", "is_correct": false },
+                { "choice_text": "حصول تعظيم العلم في الصدر", "is_correct": true },
+                { "choice_text": "تعداد شروط الصلاة", "is_correct": false },
+                { "choice_text": "معرفة أسباب الاختلاف", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما المقصود بـ 'الرأي المحض' الذي حذر المصنف من تخيله في الفقه؟",
+            "difficulty_score": 550,
+            "explanation": "الرأي المحض هو الكلام الذي يتصور البعض أنه غير مبني على دليل شرعي، بينما كل مسائل المذاهب مبنية على أدلة [4، 8].",
+            "choices": [
+                { "choice_text": "الاجتهاد المبني على القياس", "is_correct": false },
+                { "choice_text": "كلام ليس عليه دليل شرعي", "is_correct": true },
+                { "choice_text": "أقوال الصحابة", "is_correct": false },
+                { "choice_text": "تفسير القرآن باللغة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا شبه المصنف دراسة الفقه بنظرة سلبية بدراسة لغة أجنبية بلا فائدة؟",
+            "difficulty_score": 620,
+            "explanation": "ليوضح أن الحاجز النفسي والاعتقاد بعدم الجدوى يمنع التحصيل العلمي والضبط [5، 6].",
+            "choices": [
+                { "choice_text": "لبيان صعوبة اللغة الإنجليزية", "is_correct": false },
+                { "choice_text": "للتأكيد على أن القناعة شرط للضبط", "is_correct": true },
+                { "choice_text": "للمقارنة بين المصطلحات", "is_correct": false },
+                { "choice_text": "لبيان فضل اللغة العربية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي المدارس التالية ذكر المصنف أنه سيتناولها في مفردات المقرر؟",
+            "difficulty_score": 480,
+            "explanation": "المقرر يشمل المدارس الفقهية التقليدية (الحديث، الرأي، الظاهر) والمدرسة العقلية [2].",
+            "choices": [
+                { "choice_text": "المدرسة الاستشراقية", "is_correct": false },
+                { "choice_text": "المدرسة العقلية", "is_correct": true },
+                { "choice_text": "مدرسة التاريخيين", "is_correct": false },
+                { "choice_text": "المدرسة الاجتماعية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "بناءً على النص، ما هو موضوع علم النحو؟",
+            "difficulty_score": 210,
+            "explanation": "ذكر المصنف أن موضوع النحو هو 'الكلمة' للتمييز بينه وبين موضوع الفقه [3].",
+            "choices": [
+                { "choice_text": "أفعال العباد", "is_correct": false },
+                { "choice_text": "الكلمة", "is_correct": true },
+                { "choice_text": "بدن الإنسان", "is_correct": false },
+                { "choice_text": "المعاني القلبية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "تعتبر معرفة 'أسباب النجاة من عذاب القبر' فقهاً بالمعنى:",
+            "difficulty_score": 530,
+            "explanation": "هذه مسائل إيمانية تدخل في المعنى الشرعي العام للفقه الوارد في النصوص [4].",
+            "choices": [
+                { "choice_text": "الاصطلاحي فقط", "is_correct": false },
+                { "choice_text": "اللغوي والشرعي", "is_correct": true },
+                { "choice_text": "اللغوي فقط", "is_correct": false },
+                { "choice_text": "لا تدخل في مسمى الفقه", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "استشهد المصنف بقوله تعالى 'لِيَتَفَقَّهُوا فِي الدِّينِ' للدلالة على أن الفقه:",
+            "difficulty_score": 460,
+            "explanation": "الآية تدل على المعنى الشرعي الشامل الذي يشمل الأحكام العملية وغيرها [13، 14].",
+            "choices": [
+                { "choice_text": "خاص بالصلاة والزكاة", "is_correct": false },
+                { "choice_text": "يشمل جميع مسائل الدين", "is_correct": true },
+                { "choice_text": "واجب على العلماء فقط", "is_correct": false },
+                { "choice_text": "يتعلق بالجهاد فقط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو القيد الذي يخرج 'العقيدة' من تعريف الفقه الاصطلاحي؟",
+            "difficulty_score": 680,
+            "explanation": "القيد هو كلمة 'العملية'، لأن العقيدة مسائل علمية قلبية وليست عملية بدنية [14، 15].",
+            "choices": [
+                { "choice_text": "الأحكام الشرعية", "is_correct": false },
+                { "choice_text": "أفعال المكلفين", "is_correct": false },
+                { "choice_text": "العملية", "is_correct": true },
+                { "choice_text": "الاستنباط", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي الفائدة العملية الكبرى لعلم الفقه في حياة الناس اليومية؟",
+            "difficulty_score": 350,
+            "explanation": "الفقه هو العلم الذي يحتاجه الناس في معاملاتهم وخصوماتهم اليومية [22، 23].",
+            "choices": [
+                { "choice_text": "معرفة الأنساب", "is_correct": false },
+                { "choice_text": "فض الخصومات والقضاء", "is_correct": true },
+                { "choice_text": "تفسير الرؤى", "is_correct": false },
+                { "choice_text": "تحسين الخطابة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "لماذا لا يعد علم الطب من الفقه لغةً؟",
+            "difficulty_score": 590,
+            "explanation": "خطأ، علم الطب يُعد فقهاً بالمعنى اللغوي لأن الفقه لغة هو الفهم عموماً [12، 13].",
+            "choices": [
+                { "choice_text": "لأنه لا يتعلق بالدين", "is_correct": false },
+                { "choice_text": "لأنه موضوعه بدن الإنسان", "is_correct": false },
+                { "choice_text": "الفقه لغةً يشمل الطب وغيره", "is_correct": true },
+                { "choice_text": "لأنه ليس علماً شرعياً", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما حكم تعلم 'أحكام النكاح' لشخص مقبل على الزواج؟",
+            "difficulty_score": 720,
+            "explanation": "تصبح فرض عين في حقه لأنه سيُقدم على هذا الفعل ويحتاج لمعرفة أحكامه [5].",
+            "choices": [
+                { "choice_text": "سنة", "is_correct": false },
+                { "choice_text": "فرض كفاية", "is_correct": false },
+                { "choice_text": "فرض عين", "is_correct": true },
+                { "choice_text": "مباح", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "إعراب بيت شعري لامرئ القيس يدخل في الفقه بالمعنى:",
+            "difficulty_score": 440,
+            "explanation": "يدخل في المعنى اللغوي (فهم الكلام) فقط، ولا يدخل في الشرعي أو الاصطلاحي [6].",
+            "choices": [
+                { "choice_text": "الشرعي", "is_correct": false },
+                { "choice_text": "الاصطلاحي", "is_correct": false },
+                { "choice_text": "اللغوي", "is_correct": true },
+                { "choice_text": "العرفي", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ذكر المصنف أن الفقه استمداده يُدرس بالتفصيل في علم:",
+            "difficulty_score": 380,
+            "explanation": "استمداد الفقه من الكتاب والسنة والإجماع هو موضوع علم أصول الفقه [7].",
+            "choices": [
+                { "choice_text": "تاريخ التشريع", "is_correct": false },
+                { "choice_text": "أصول الفقه", "is_correct": true },
+                { "choice_text": "مصطلح الحديث", "is_correct": false },
+                { "choice_text": "التوحيد", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي المذاهب التالية لم يعد لها أتباع يقلدونها اليوم؟",
+            "difficulty_score": 850,
+            "explanation": "تسمى 'المذاهب المندرسة' وهي التي كان لها أتباع ثم انتهوا [2].",
+            "choices": [
+                { "choice_text": "المذاهب الأربعة", "is_correct": false },
+                { "choice_text": "المذاهب المندرسة", "is_correct": true },
+                { "choice_text": "المذاهب المعاصرة", "is_correct": false },
+                { "choice_text": "المذاهب العقدية", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هي أولى مراحل الفقه الإسلامي التي سيتم دراستها؟",
+            "difficulty_score": 510,
+            "explanation": "هي مرحلة التشريع في زمن النبي صلى الله عليه وسلم [8].",
+            "choices": [
+                { "choice_text": "مرحلة الصحابة", "is_correct": false },
+                { "choice_text": "مرحلة التابعين", "is_correct": false },
+                { "choice_text": "مرحلة التشريع", "is_correct": true },
+                { "choice_text": "مرحلة تدوين المذاهب", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "وصف المصنف الطالب الذي يشطب المسائل من 'زاد المستقنع' بأنه:",
+            "difficulty_score": 750,
+            "explanation": "لديه تصور خاطئ بأن الفقه هو مجرد أقوال رجال محض وليس مبنياً على أدلة [4، 5].",
+            "choices": [
+                { "choice_text": "مجتهد ومصيب", "is_correct": false },
+                { "choice_text": "صاحب تصور خاطئ لعلم الفقه", "is_correct": true },
+                { "choice_text": "متبع للسلف الصالح", "is_correct": false },
+                { "choice_text": "خبير بالأدلة", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "الفقه 'بالأصالة' وفي حقيقته يرجع إلى أي عصر؟",
+            "difficulty_score": 630,
+            "explanation": "يرجع لعصر النبوة والصحابة، والمذاهب هي امتداد لهذا السند [9].",
+            "choices": [
+                { "choice_text": "عصر التابعين", "is_correct": false },
+                { "choice_text": "عصر النبوة والصحابة", "is_correct": true },
+                { "choice_text": "العصر العباسي", "is_correct": false },
+                { "choice_text": "العصر الحديث", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "أي من هذه المسائل تدخل في الفقه 'الاصطلاحي'؟",
+            "difficulty_score": 420,
+            "explanation": "أحكام البيع أحكام شرعية عملية تتعلق بأفعال المكلفين [10].",
+            "choices": [
+                { "choice_text": "أحكام البيع", "is_correct": true },
+                { "choice_text": "صفة الجنة", "is_correct": false },
+                { "choice_text": "إعراب المبتدأ", "is_correct": false },
+                { "choice_text": "قصص الأنبياء", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "ما هو العلم الذي 'ثمرته أفضل العلوم'؟",
+            "difficulty_score": 300,
+            "explanation": "هو علم الفقه كما نقل المصنف عن ابن الجوزي [11].",
+            "choices": [
+                { "choice_text": "التفسير", "is_correct": false },
+                { "choice_text": "الفقه", "is_correct": true },
+                { "choice_text": "الحديث", "is_correct": false },
+                { "choice_text": "العقيدة", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "العلم بـ 'أركان الصلاة' يعتبر فقهاً بـ:", 
+            "difficulty_score": 180, 
+            "explanation": "يعتبر فقهاً بالمعاني الثلاثة: اللغوي والشرعي والاصطلاحي [12].", 
+            "choices": [
+                { "choice_text": "المعنى اللغوي فقط", "is_correct": false }, 
+                { "choice_text": "المعاني الثلاثة معاً", "is_correct": true }, 
+                { "choice_text": "المعنى الاصطلاحي فقط", "is_correct": false }, 
+                { "choice_text": "ليس فقهاً", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "أي العبارات التالية صحيحة عن المجتهد؟", 
+            "difficulty_score": 580, 
+            "explanation": "قد يخطئ لكنه لا يتكلم بغير دليل ويؤجر على اجتهاده [13].",
+            "choices": [
+                { "choice_text": "المجتهد معصوم من الخطأ", "is_correct": false }, 
+                { "choice_text": "المجتهد لا يتكلم إلا بحجة ودليل", "is_correct": true }, 
+                { "choice_text": "المجتهد يتبع هواه", "is_correct": false }, 
+                { "choice_text": "كل مجتهد مصيب دائماً", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "دراسة 'تاريخ الفقهاء وعبادتهم' تهدف إلى:", 
+            "difficulty_score": 470, 
+            "explanation": "تهدف إلى الاقتداء بهم وتعظيم فضلهم [2].", 
+            "choices": [
+                { "choice_text": "التسلية فقط", "is_correct": false }, 
+                { "choice_text": "الاعتراف بفضلهم وتعظيمهم", "is_correct": true }, 
+                { "choice_text": "معرفة تواريخ الوفيات", "is_correct": false }, 
+                { "choice_text": "نقد آرائهم", "is_correct": false }
+            ]
+        },
+        { 
+            "question_text": "بناء 'سور وحاجز' بين الطالب والفقه سببه:", 
+            "difficulty_score": 710, 
+            "explanation": "سببه عدم القناعة بجدوى العلم أو نسبه الموصل للسنة [9].", 
+            "choices": [
+                { "choice_text": "صعوبة المادة", "is_correct": false }, 
+                { "choice_text": "عدم القناعة بالعلم", "is_correct": true }, 
+                { "choice_text": "كثرة المذاهب", "is_correct": false }, 
+                { "choice_text": "قلة المراجع", "is_correct": false }
+            ]
+        },
+        {
+            "question_text": "إعراب قوله تعالى 'والمطلقات يتربصن بأنفسهن ثلاثة قروء' يخدم الفقه الاصطلاحي لأن:", 
+            "difficulty_score": 890, 
+            "explanation": "المسألة الفقهية (عدة المطلقة) تنبني على الفهم اللغوي والإعرابي للكلمات [6].", 
+            "choices": [
+                { "choice_text": "الإعراب هو غاية الفقه", "is_correct": false }, 
+                { "choice_text": "تنبني عليه المسألة الفقهية", "is_correct": true }, 
+                { "choice_text": "لا علاقة له بالفقه", "is_correct": false }, 
+                { "choice_text": "الإعراب واجب شرعي", "is_correct": false }
+            ] 
+        },
+        { 
+            "question_text": "التعريف الذي يقتصر على 'الأحكام الشرعية العملية' هو:", 
+            "difficulty_score": 250,
+            "explanation": "هذا هو التعريف الاصطلاحي الخاص عند الفقهاء [10].", 
+            "choices": [
+                { "choice_text": "اللغوي", "is_correct": false }, 
+                { "choice_text": "الشرعي", "is_correct": false }, 
+                { "choice_text": "الاصطلاحي", "is_correct": true }, 
+                { "choice_text": "العقدي", "is_correct": false }
+            ]
+        },
+        {   "question_text": "من هم أبرز فقهاء الصحابة الذين سيتم دراستهم؟", 
+            "difficulty_score": 540, 
+            "explanation": "ذكر المصنف أنه سيتناول أبرز فقهاء الصحابة في مرحلتهم التاريخية [8].", 
+            "choices": [
+                { "choice_text": "كل الصحابة بلا استثناء", "is_correct": false }, 
+                { "choice_text": "أبرز فقهاء الصحابة", "is_correct": true }, 
+                { "choice_text": "صحابة أهل المدينة فقط", "is_correct": false }, 
+                { "choice_text": "الخلفاء الأربعة فقط", "is_correct": false }
+            ]
+        },
+        {   "question_text": "ما الفرق بين 'أهل الحديث' و 'أهل الرأي' حسب المقرر؟", 
+            "difficulty_score": 770, 
+            "explanation": "سيتم تناول الفروق المنهجية بينهم في المدارس الفقهية [9، 10].", 
+            "choices": [
+                { "choice_text": "لا فرق بينهم", "is_correct": false }, 
+                { "choice_text": "فروق منهجية في الاستنباط", "is_correct": true }, 
+                { "choice_text": "خلاف في أصول الدين", "is_correct": false }, 
+                { "choice_text": "خلاف تاريخي فقط", "is_correct": false }
+            ]
+        },
+        {   "question_text": "حكم تعلم 'صفة الوضوء' يندرج تحت:", 
+            "difficulty_score": 150, 
+            "explanation": "هو فرض عين لأنه شرط لصحة الصلاة [7].", 
+            "choices": [
+                { "choice_text": "المستحبات", "is_correct": false }, 
+                { "choice_text": "فروض الأعيان", "is_correct": true }, 
+                { "choice_text": "فروض الكفايات", "is_correct": false }, 
+                { "choice_text": "المباحات", "is_correct": false }
+            ] 
+        },
+        {   "question_text": "أي العبارات تصف المذاهب الفقهية الأربعة بدقة؟",
+            "difficulty_score": 660, 
+            "explanation": "هي امتداد لمدرسة النبي صلى الله عليه وسلم في تعليم أصحابه [9].", 
+            "choices": [
+                { "choice_text": "هي آراء مبتدعة", "is_correct": false }, 
+                { "choice_text": "امتداد لمدرسة الصحابة", "is_correct": true }, 
+                { "choice_text": "قوانين وضعها السلاطين", "is_correct": false }, 
+                { "choice_text": "أفكار فلسفية", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "لماذا يعد الفقه من أهم العلوم؟", 
+            "difficulty_score": 330, 
+            "explanation": "لأنه ينظم حياة الناس وعباداتهم العملية [11].", 
+            "choices": [
+                { "choice_text": "لأنه أصعب العلوم", "is_correct": false }, 
+                { "choice_text": "لتعلقه بالحياة اليومية والعبادة", "is_correct": true }, 
+                { "choice_text": "لأنه علم قديم", "is_correct": false }, 
+                { "choice_text": "لأنه خاص بالعلماء", "is_correct": false }
+            ]
+        },
+        {   
+            "question_text": "عندما يقال 'فقهت حقيقة الأمر' فالمقصود بالفقه هنا المعنى:", 
+            "difficulty_score": 220, 
+            "explanation": "المعنى اللغوي العام للفهم [1].", 
+            "choices": [
+                { "choice_text": "اللغوي", "is_correct": true }, 
+                { "choice_text": "الشرعي", "is_correct": false }, 
+                { "choice_text": "الاصطلاحي", "is_correct": false }, 
+                { "choice_text": "العرفي", "is_correct": false }
+            ]
+        },
+        {   
+            "question_text": "ما هو موقف الطالب من المذهب الذي يدرسه؟", 
+            "difficulty_score": 640, 
+            "explanation": "يجب أن يدرسه بقناعة ويحترم أئمته مع العلم بجواز وقوع الخطأ [3، 8].", 
+            "choices": [
+                { "choice_text": "الاعتقاد بعصمته", "is_correct": false }, 
+                { "choice_text": "دراسته بقناعة واحترام لأئمته", "is_correct": true }, 
+                { "choice_text": "شطب ما لا يعجبه", "is_correct": false }, 
+                { "choice_text": "تجاهل الأدلة", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "كم نسبة أسئلة الناس التي ليست فقهية تقريباً؟", 
+            "difficulty_score": 810, 
+            "explanation": "إذا كانت الفقهية 99.9%، فغيرها يمثل 0.1% فقط [22، 23].", 
+            "choices": [
+                { "choice_text": "10%", "is_correct": false }, 
+                { "choice_text": "0.1%", "is_correct": true }, 
+                { "choice_text": "50%", "is_correct": false }, 
+                { "choice_text": "1%", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "أي مما يلي ليس من مفردات مقرر 'المدخل للفقه'؟", 
+            "difficulty_score": 490, 
+            "explanation": "المقرر مقدمة وتاريخ وأصول عامة، ولا يدخل في تفاصيل الجراحة الطبية [10، 11].", 
+            "choices": [
+                { "choice_text": "مراحل الفقه", "is_correct": false }, 
+                { "choice_text": "تفاصيل الجراحة الطبية", "is_correct": true }, 
+                { "choice_text": "تعريف المذاهب", "is_correct": false }, 
+                { "choice_text": "أسباب اختلاف العلماء", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "تلقي علم الفقه عبر 'السند' يضمن:",
+            "difficulty_score": 730, 
+            "explanation": "يضمن اتصال العلم بمصدره الأول (النبي صلى الله عليه وسلم) [9].", 
+            "choices": [
+                { "choice_text": "صعوبة العلم", "is_correct": false }, 
+                { "choice_text": "امتداد العلم لمدرسة الصحابة", "is_correct": true }, 
+                { "choice_text": "كثرة الحفظ", "is_correct": false }, 
+                { "choice_text": "الجمود الفكري", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "الفرق بين 'أحكام الصلاة' و 'صفات الله' هو أن الأولى:", 
+            "difficulty_score": 600, 
+            "explanation": "الأولى عملية تدخل في الفقه الاصطلاحي، والثانية علمية عقدية [14، 15].", 
+            "choices": [
+                { "choice_text": "أصعب من الثانية", "is_correct": false }, 
+                { "choice_text": "عملية تدخل في الفقه الاصطلاحي", "is_correct": true }, 
+                { "choice_text": "ليست من الدين", "is_correct": false }, 
+                { "choice_text": "لا تحتاج لدليل", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "ما الهدف من معرفة 'المذاهب المندرسة'؟", 
+            "difficulty_score": 780, 
+            "explanation": "معرفة تاريخ الفقه وشموليته وتطور المذاهب [2].", 
+            "choices": [
+                { "choice_text": "إعادة إحيائها", "is_correct": false }, 
+                { "choice_text": "الإحاطة بتطور المدارس الفقهية", "is_correct": true }, 
+                { "choice_text": "مخالفتها دائماً", "is_correct": false }, 
+                { "choice_text": "إضاعة الوقت", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "القول بأن الفقه هو 'أقوال رجال نضرب بها عرض الحائط' يؤدي إلى:",
+            "difficulty_score": 900, 
+            "explanation": "يؤدي إلى فقدان القناعة بالعلم وبالتالي العجز عن ضبطه وإتقانه [3، 6].", 
+            "choices": [
+                { "choice_text": "تحرر الفكر", "is_correct": false }, 
+                { "choice_text": "عدم القدرة على ضبط الفقه", "is_correct": true }, 
+                { "choice_text": "موافقة الحق", "is_correct": false }, 
+                { "choice_text": "اختصار الوقت", "is_correct": false }
+            ]
+        },
+        {   
+            "question_text": "أي مما يلي يُعد 'فرض كفاية' في تعلم الفقه؟", 
+            "difficulty_score": 520, 
+            "explanation": "المسائل الدقيقة التي لا يحتاجها عامة الناس مثل تفاصيل المواريث لغير الوارث [5].", 
+            "choices": [
+                { "choice_text": "صفة الوضوء", "is_correct": false }, 
+                { "choice_text": "تفاصيل مسائل الزكاة الدقيقة", "is_correct": true }, 
+                { "choice_text": "أركان الإسلام", "is_correct": false }, 
+                { "choice_text": "شروط الصلاة", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "من هو مؤلف 'زاد المستقنع' الذي ضرب به المصنف المثال؟", 
+            "difficulty_score": 400, 
+            "explanation": "المثال جاء في سياق دراسة المتون الحنبلية لطلاب كلية الشريعة [14].", 
+            "choices": [
+                { "choice_text": "الحجاوي", "is_correct": true }, 
+                { "choice_text": "ابن قدامة", "is_correct": false }, 
+                { "choice_text": "الإمام أحمد", "is_correct": false }, 
+                { "choice_text": "المرداوي", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "عبارة 'ليس كل مجتهد مصيب' تعني:",
+            "difficulty_score": 670, 
+            "explanation": "أن الخطأ وارد في الاجتهاد البشري ولا ينقص من قدر الإمام [13].", 
+            "choices": [
+                { "choice_text": "أن الاجتهاد ممنوع", "is_correct": false }, 
+                { "choice_text": "أن الحق واحد في المسائل الاجتهادية", "is_correct": true }, 
+                { "choice_text": "أن كل الفقهاء مخطئون", "is_correct": false }, 
+                { "choice_text": "أن المذاهب باطلة", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "ما موضوع علم الطب حسب النص؟",
+            "difficulty_score": 120, 
+            "explanation": "موضوع الطب هو بدن الإنسان [3].", 
+            "choices": [
+                { "choice_text": "أفعال العباد", "is_correct": false }, 
+                { "choice_text": "بدن الإنسان", "is_correct": true }, 
+                { "choice_text": "النباتات", "is_correct": false }, 
+                { "choice_text": "الأدوية", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "أي مرحلة تاريخية تعتبر 'الأهم' في تشكيل معالم الفقه؟", 
+            "difficulty_score": 560, 
+            "explanation": "مرحلة التشريع لأنها أصل الأحكام [8].", 
+            "choices": [
+                { "choice_text": "مرحلة التدوين", "is_correct": false }, 
+                { "choice_text": "مرحلة التشريع", "is_correct": true }, 
+                { "choice_text": "مرحلة الصحابة", "is_correct": false }, 
+                { "choice_text": "العصر الحديث", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "دراسة 'التمذهب' تهدف للتفريق بين:", 
+            "difficulty_score": 700, 
+            "explanation": "التفريق بين التمذهب الجائز والتمذهب الممنوع [8].", 
+            "choices": [
+                { "choice_text": "الحق والباطل", "is_correct": false }, 
+                { "choice_text": "الجائز والممنوع منه", "is_correct": true }, 
+                { "choice_text": "القديم والحديث", "is_correct": false }, 
+                { "choice_text": "العرب والعجم", "is_correct": false }
+            ]
+        },
+        {   
+            "question_text": "لماذا يحتاج طالب العلم لدراسة 'المدخل للفقه'؟", 
+            "difficulty_score": 340, 
+            "explanation": "ليمتلك القواعد والمقدمات اللازمة قبل الدخول في المسائل التفصيلية [15].", 
+            "choices": [
+                { "choice_text": "لحفظ القرآن", "is_correct": false }, 
+                { "choice_text": "لامتلاك القواعد والمقدمات", "is_correct": true }, 
+                { "choice_text": "لترك الفقه", "is_correct": false }, 
+                { "choice_text": "لمعرفة اللغة العربية", "is_correct": false }
+            ] 
+        },
+        {   
+            "question_text": "أي من الخيارات التالية يمثل 'ثمرة' علم الفقه؟", 
+            "difficulty_score": 430, 
+            "explanation": "تطبيق أحكام الله في الأفعال والعبادات والمعاملات [11].", 
+            "choices": [
+                { "choice_text": "الشهرة", "is_correct": false }, 
+                { "choice_text": "ضبط أفعال المكلفين وفق الشرع", "is_correct": true }, 
+                { "choice_text": "حفظ الكتب", "is_correct": false }, 
+                { "choice_text": "الجدال مع الناس", "is_correct": false }
+            ]
+        },
+        {   
+            "question_text": "من ملامح دراسة الإمام في المقرر معرفة 'عبادته'؛ وذلك لـ:",
+            "difficulty_score": 620, 
+            "explanation": "لبيان أن الفقه مبني على التقوى والخشية وليس مجرد عقل [2].", 
+            "choices": [
+                { "choice_text": "للتاريخ فقط", "is_correct": false }, 
+                { "choice_text": "لبيان ورعهم وتقواهم وتأثير ذلك في علمهم", "is_correct": true }, 
+                { "choice_text": "لعدم وجود معلومات أخرى", "is_correct": false }, 
+                { "choice_text": "للمدح المجرد", "is_correct": false }
+            ]
+        },
+        {   
+            "question_text": "الفقه بمعناه 'الشرعي' عند الإطلاق في نصوص الوحي يراد به:", 
+            "difficulty_score": 500, 
+            "explanation": "العلم بالدين كاملاً (عقيدة وعملاً) [10].", 
+            "choices": [
+                { "choice_text": "علم الحلال والحرام فقط", "is_correct": false }, 
+                { "choice_text": "العلم بالدين كاملاً", "is_correct": true }, 
+                { "choice_text": "علم التاريخ", "is_correct": false }, 
+                { "choice_text": "علم القضاء", "is_correct": false }
+            ]
+        },
+        {   
+            "question_text": "المصنف يعتبر أن 'أهداف المقرر' هي في حد ذاتها:",
+            "difficulty_score": 310, 
+            "explanation": "جزء من المادة العلمية ومقدمة ضرورية [15].", 
+            "choices": [
+                { "choice_text": "إضاعة للوقت", "is_correct": false }, 
+                { "choice_text": "مقدمة ضرورية للتأسيس", "is_correct": true }, 
+                { "choice_text": "اختياري للقراءة", "is_correct": false }, 
+                { "choice_text": "خارجة عن المقرر", "is_correct": false }
+            ]
+        }
+    ]
+}

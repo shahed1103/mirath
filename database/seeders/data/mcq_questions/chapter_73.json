@@ -1,0 +1,555 @@
+    {
+    "chapter_id": 73,
+    "questions": [
+        {
+        "question_text": "ما هو القسم الذي يندرج تحته 'الضعيف الذي لم يتبين خطؤه'؟",
+        "difficulty_score": 100,
+        "explanation": "المصدر يذكر صراحة أن الضعيف الذي لم يتبين خطؤه هو 'مقبول للاعتبار' [1].",
+        "choices": [
+            { "choice_text": "مردود مطلقاً", "is_correct": false },
+            { "choice_text": "مقبول للاحتجاج", "is_correct": false },
+            { "choice_text": "مقبول للاعتبار", "is_correct": true },
+            { "choice_text": "صحيح لغيره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأئمة أطلق العبارة المركزية: 'حديث الضعفاء قد يحتاج إليه في وقت'؟",
+        "difficulty_score": 150,
+        "explanation": "العبارة منسوبة للإمام أحمد بن حنبل في سياق الحديث عن أقسام القبول والرد [1].",
+        "choices": [
+            { "choice_text": "الإمام البخاري", "is_correct": false },
+            { "choice_text": "الإمام أحمد بن حنبل", "is_correct": true },
+            { "choice_text": "الإمام مسلم", "is_correct": false },
+            { "choice_text": "الإمام ابن حجر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحديث الذي وصفه الإمام أحمد بأنه 'أبداً منكر'؟",
+        "difficulty_score": 200,
+        "explanation": "قال الإمام أحمد: 'والمنكر أبداً منكر'، في إشارة للحديث الذي تبين خطؤه [2، 3].",
+        "choices": [
+            { "choice_text": "الحديث الضعيف", "is_correct": false },
+            { "choice_text": "الحديث المنكر", "is_correct": true },
+            { "choice_text": "الحديث المرسل", "is_correct": false },
+            { "choice_text": "الحديث الحسن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، لماذا يُعتبر 'لين الحديث' مفيداً؟",
+        "difficulty_score": 250,
+        "explanation": "ذكر الناظم أن لين الحديث يرجح الخلاف في الحديث [7].",
+        "choices": [
+            { "choice_text": "لأنه يؤسس حكماً جديداً", "is_correct": false },
+            { "choice_text": "لأنه يرجح الخلاف في الحديث", "is_correct": true },
+            { "choice_text": "لأنه أقوى من الصحيح", "is_correct": false },
+            { "choice_text": "لأنه يسقط العدالة عن الراوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'عملية الاعتبار' في علم الحديث؟",
+        "difficulty_score": 300,
+        "explanation": "عملية الاعتبار هي 'طلب العاضد' أي البحث عن متابعات وشواهد للحديث [8].",
+        "choices": [
+            { "choice_text": "قبول الحديث دون بحث", "is_correct": false },
+            { "choice_text": "رد الحديث لضعف راويه", "is_correct": false },
+            { "choice_text": "طلب العاضد للحديث", "is_correct": true },
+            { "choice_text": "كتابة الحديث في الصحف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يكون إدخال 'واسطة' في الإسناد من قِبل راوٍ ضعيف مفيداً؟",
+        "difficulty_score": 500,
+        "explanation": "يكون مفيداً عندما يكون دقيقاً ويُعتبر قرينة على حفظ الراوي لهذا القدر وإصابته فيه، مما يكشف انقطاعاً [5].",
+        "choices": [
+            { "choice_text": "في كل الأحوال", "is_correct": false },
+            { "choice_text": "عندما يكون الراوي كذاباً", "is_correct": false },
+            { "choice_text": "عندما تدل القرائن على إصابته في هذه الزيادة", "is_correct": true },
+            { "choice_text": "إذا خالف الثقات في المتن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة ابن لهيعة، من هو الراوي الذي أدخله كواسطة بين مكحول وعنبسة؟",
+        "difficulty_score": 600,
+        "explanation": "ابن لهيعة أدخل 'مولى عنبسة' كواسطة بين مكحول وعنبسة [8، 10].",
+        "choices": [
+            { "choice_text": "أبو هريرة", "is_correct": false },
+            { "choice_text": "مولى عنبسة", "is_correct": true },
+            { "choice_text": "سعيد بن المسيب", "is_correct": false },
+            { "choice_text": "ثابت البناني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم 'المرسل' من حيث القبول والرد إجمالاً؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر يضعه ضمن قسم 'مقبول الاعتبار' لأنه ضعيف يقيناً لكن لم يتبين خطؤه [2، 30].",
+        "choices": [
+            { "choice_text": "مقبول للاحتجاج", "is_correct": false },
+            { "choice_text": "مردود مطلقاً", "is_correct": false },
+            { "choice_text": "مقبول للاعتبار", "is_correct": true },
+            { "choice_text": "صحيح لذاته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يُقبل حديث 'ابن لهيعة' استقلالاً رغم قبول أبي حاتم لزيادته؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الواسطة التي زادها (مولى عنبسة) مجهول، فصار الحديث ضعيفاً بالانقطاع أو جهالة الواسطة [9].",
+        "choices": [
+            { "choice_text": "لأنه كذاب", "is_correct": false },
+            { "choice_text": "لأن الواسطة مجهول", "is_correct": true },
+            { "choice_text": "لأن مكحول ثقة", "is_correct": false },
+            { "choice_text": "لأن الحديث في الثواب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الكتاب الذي نصح المدرس بقراءته لرؤية أخطاء كبار الحفاظ كمالك والزهري؟",
+        "difficulty_score": 450,
+        "explanation": "نصح بكتاب 'التمييز' للإمام مسلم [10].",
+        "choices": [
+            { "choice_text": "صحيح البخاري", "is_correct": false },
+            { "choice_text": "التمييز لمسلم", "is_correct": true },
+            { "choice_text": "العلل للترمذي", "is_correct": false },
+            { "choice_text": "فتح الباري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الرواة وُصف بأنه 'كان يخطئ في الأسماء' وهو أمير المؤمنين في الحديث؟",
+        "difficulty_score": 550,
+        "explanation": "المصدر يشير إلى شعبة بن الحجاج وأنه كان يخطئ في الأسماء رغم جلالته [11، 12].",
+        "choices": [
+            { "choice_text": "مالك بن أنس", "is_correct": false },
+            { "choice_text": "سفيان الثوري", "is_correct": false },
+            { "choice_text": "شعبة بن الحجاج", "is_correct": true },
+            { "choice_text": "ابن لهيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'فوات الضبط' عند المحدثين؟",
+        "difficulty_score": 350,
+        "explanation": "يعني كثرة الخطأ، وليس بالضرورة عموم الخطأ [8].",
+        "choices": [
+            { "choice_text": "النسيان التام", "is_correct": false },
+            { "choice_text": "كثرة الخطأ", "is_correct": true },
+            { "choice_text": "عدم العدالة", "is_correct": false },
+            { "choice_text": "التدليس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في عملية البحث عن عاضد لقتادة، أي طبقة يمثلها 'أبو عوانة'؟",
+        "difficulty_score": 800,
+        "explanation": "يأتي أبو عوانة في 'الطبقة الثالثة' من أصحاب قتادة [11].",
+        "choices": [
+            { "choice_text": "الطبقة الأولى", "is_correct": false },
+            { "choice_text": "الطبقة الثانية", "is_correct": false },
+            { "choice_text": "الطبقة الثالثة", "is_correct": true },
+            { "choice_text": "الطبقة الرابعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يُقدم 'حماد بن سلمة' على 'شعبة' في الرواية؟",
+        "difficulty_score": 850,
+        "explanation": "يُقدم في حال الرواية عن 'ثابت البناني' لملازمته الشديدة له [12].",
+        "choices": [
+            { "choice_text": "في الرواية عن قتادة", "is_correct": false },
+            { "choice_text": "في الرواية عن الزهري", "is_correct": false },
+            { "choice_text": "في الرواية عن ثابت", "is_correct": true },
+            { "choice_text": "في كل مروياته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما فائدة الحديث الضعيف في 'الثواب والعقاب'؟",
+        "difficulty_score": 400,
+        "explanation": "يفيد معنًى يؤيد أصل حكم ثابت في الباب (زيادة التحذير أو الترغيب) [13].",
+        "choices": [
+            { "choice_text": "إنشاء حكم جديد", "is_correct": false },
+            { "choice_text": "تأييد أصل حكم ثابت", "is_correct": true },
+            { "choice_text": "نسخ الحديث الصحيح", "is_correct": false },
+            { "choice_text": "لا فائدة منه مطلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'صيغة التمريض' المذكورة في المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "هي لفظة 'روي' التي تُستخدم للإشارة إلى عدم الجزم بالثبوت [34، 35].",
+        "choices": [
+            { "choice_text": "حدثنا", "is_correct": false },
+            { "choice_text": "قال", "is_correct": false },
+            { "choice_text": "روي", "is_correct": true },
+            { "choice_text": "سمعت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي الأحاديث التالية يعتبر 'ضعيفاً جداً' ولا يستشهد به المدرس؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المدرس أن حديث 'ازهد في الدنيا يحبك الله' ضعيف جداً ولا يستشهد به [14].",
+        "choices": [
+            { "choice_text": "اتق الله حيثما كنت", "is_correct": false },
+            { "choice_text": "من حسن إسلام المرء", "is_correct": false },
+            { "choice_text": "ازهد في الدنيا يحبك الله", "is_correct": true },
+            { "choice_text": "الأعمال بالنيات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي ألف مقدمة 'هدي الساري'؟",
+        "difficulty_score": 450,
+        "explanation": "الإمام ابن حجر ألفها كمقدمة لفتح الباري (شرح البخاري) [15].",
+        "choices": [
+            { "choice_text": "الإمام البخاري", "is_correct": false },
+            { "choice_text": "الإمام ابن حجر", "is_correct": true },
+            { "choice_text": "الإمام مسلم", "is_correct": false },
+            { "choice_text": "الدارقطني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم 'خالق الناس بخلق حسن' عند ابن رجب؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المدرس أن ابن رجب ذكر له علة في 'جامع العلوم والحكم' لكنه مقبول الاعتبار [21، 25].",
+        "choices": [
+            { "choice_text": "صحيح لذاته", "is_correct": false },
+            { "choice_text": "موضوع", "is_correct": false },
+            { "choice_text": "فيه علة يسيرة وهو مقبول", "is_correct": true },
+            { "choice_text": "منكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'فاحش الأخطاء' مردوداً ولا يُعتبر به؟",
+        "difficulty_score": 500,
+        "explanation": "لأن وجود روايته وعدمها سواء، فلا تصلح عاضداً ولا معتضداً [36، 37].",
+        "choices": [
+            { "choice_text": "لأنه ثقة", "is_correct": false },
+            { "choice_text": "لأنه يوافق الثقات", "is_correct": false },
+            { "choice_text": "لأن أخطاءه مهدرة", "is_correct": true },
+            { "choice_text": "لأنه يروي عن الزهري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يفعل العالم عندما 'يصعب ترجيح وجه' في الحديث؟",
+        "difficulty_score": 750,
+        "explanation": "قد يتوقف في الحكم كما فعل الإمام أحمد والدارمي في بعض الأحاديث [27، 28].",
+        "choices": [
+            { "choice_text": "يقبلها جميعاً", "is_correct": false },
+            { "choice_text": "يردها جميعاً", "is_correct": false },
+            { "choice_text": "قد يتوقف في الحكم", "is_correct": true },
+            { "choice_text": "يختار الأسهل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة قتادة، من هو الراوي البصري الذي روايته عنه ليست متينة؟",
+        "difficulty_score": 800,
+        "explanation": "هو حماد بن سلمة، فرغم جلالته إلا أن روايته عن قتادة ليست قوية كغيرها [13، 14].",
+        "choices": [
+            { "choice_text": "شعبة", "is_correct": false },
+            { "choice_text": "سعيد بن أبي عروبة", "is_correct": false },
+            { "choice_text": "حماد بن سلمة", "is_correct": true },
+            { "choice_text": "هشام الدستوائي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'التفرّد' في اصطلاح المحدثين؟",
+        "difficulty_score": 400,
+        "explanation": "أن يروي الراوي الحديث وحده دون أن يتابعه أحد [26، 31].",
+        "choices": [
+            { "choice_text": "الاتصال", "is_correct": false },
+            { "choice_text": "الضبط", "is_correct": false },
+            { "choice_text": "الانفراد بالرواية", "is_correct": true },
+            { "choice_text": "التدليس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا رجّح النووي رواية أبي هريرة المتصلة في 'من حسن إسلام المرء'؟",
+        "difficulty_score": 650,
+        "explanation": "النووي رجحها لظاهر اتصالها، لكن كبار المتقدمين كالبخاري رجحوا الإرسال [30، 32].",
+        "choices": [
+            { "choice_text": "لأنها أصح", "is_correct": false },
+            { "choice_text": "لأنه اعتمد ظاهر الاتصال", "is_correct": true },
+            { "choice_text": "لأنها في الصحيحين", "is_correct": false },
+            { "choice_text": "لأن الراوي ثقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحديث الذي قال عنه المدرس إنه 'مرسل من مراسيل علي بن الحسين'؟",
+        "difficulty_score": 700,
+        "explanation": "هو حديث 'من حسن إسلام المرء تركه ما لا يعنيه' [16].",
+        "choices": [
+            { "choice_text": "الأعمال بالنيات", "is_correct": false },
+            { "choice_text": "من حسن إسلام المرء", "is_correct": true },
+            { "choice_text": "اتق الله حيثما كنت", "is_correct": false },
+            { "choice_text": "خالق الناس بخلق حسن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الشك المنهجي' المقارب لعلم الحديث؟",
+        "difficulty_score": 850,
+        "explanation": "هو أن الأصل في الرواية عدم الثبوت حتى تثبت، وليس العكس [17].",
+        "choices": [
+            { "choice_text": "قبول كل شيء", "is_correct": false },
+            { "choice_text": "رد كل شيء", "is_correct": false },
+            { "choice_text": "الأصل عدم الثبوت حتى يثبت", "is_correct": true },
+            { "choice_text": "الأصل الثبوت حتى يتبين الخطأ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء لم يقضِ بشيء في حديث أبي إسحاق السبيعي أولاً؟",
+        "difficulty_score": 900,
+        "explanation": "البخاري والدارمي لم يقضيا فيه بشيء في البداية عندما سألهما الترمذي [6].",
+        "choices": [
+            { "choice_text": "الترمذي", "is_correct": false },
+            { "choice_text": "البخاري", "is_correct": true },
+            { "choice_text": "ابن حجر", "is_correct": false },
+            { "choice_text": "مسلم", "is_correct": false }
+        ]
+    },
+    { "question_text": "ما فائدة جمع الطرق حسب ابن المديني؟", "difficulty_score": 300, "explanation": "تبيين خطأ الحديث [18].", "choices": [{ "choice_text": "زيادة الحسن", "is_correct": false }, { "choice_text": "تبيين الخطأ", "is_correct": true }, { "choice_text": "اختصار الوقت", "is_correct": false }, { "choice_text": "ترجمة الرواة", "is_correct": false }] },
+    { "question_text": "ما رتبة 'عمران القطان' في الرواية؟", "difficulty_score": 750, "explanation": "فيه ضعف وهو مقبول في الاعتبار [19].", "choices": [{ "choice_text": "ثقة ثبت", "is_correct": false }, { "choice_text": "كذاب", "is_correct": false }, { "choice_text": "فيه ضعف (مقبول اعتبار)", "is_correct": true }, { "choice_text": "مجهول", "is_correct": false }] },
+    { "question_text": "هل يصح تأسيس عبادة بهيئة معينة بحديث ضعيف؟", "difficulty_score": 400, "explanation": "لا يصح ولو كان في فضائل الأعمال [3].", "choices": [{ "choice_text": "نعم دائماً", "is_correct": false }, { "choice_text": "نعم في الرقائق", "is_correct": false }, { "choice_text": "لا يصح", "is_correct": true }, { "choice_text": "نعم إذا رواه مالك", "is_correct": false }] },
+    { "question_text": "ما حكم الحديث الذي 'تبين خطؤه'؟", "difficulty_score": 100, "explanation": "مردود [1].", "choices": [{ "choice_text": "مقبول", "is_correct": false }, { "choice_text": "مردود", "is_correct": true }, { "choice_text": "حسن", "is_correct": false }, { "choice_text": "موثوق", "is_correct": false }] },
+    { "question_text": "ما هي 'المعلقات'؟", "difficulty_score": 450, "explanation": "أحاديث سقط من أول إسنادها راوٍ أو أكثر [17].", "choices": [{ "choice_text": "أحاديث متصلة", "is_correct": false }, { "choice_text": "أحاديث سقط أول إسنادها", "is_correct": true }, { "choice_text": "أحاديث مكذوبة", "is_correct": false }, { "choice_text": "أحاديث قدسية", "is_correct": false }] },
+    { "question_text": "من هو صاحب كتاب 'جامع علوم الحكم'؟", "difficulty_score": 200, "explanation": "ابن رجب الحنبلي [20].", "choices": [{ "choice_text": "ابن حجر", "is_correct": false }, { "choice_text": "ابن رجب", "is_correct": true }, { "choice_text": "النووي", "is_correct": false }, { "choice_text": "البخاري", "is_correct": false }] },
+    { "question_text": "ما معنى 'رجل فيه لين'؟", "difficulty_score": 300, "explanation": "ضعف يسير لا يسقط الرواية بالكلية [21].", "choices": [{ "choice_text": "ثقة", "is_correct": false }, { "choice_text": "ضعيف يسير", "is_correct": true }, { "choice_text": "كذاب", "is_correct": false }, { "choice_text": "مجهول العين", "is_correct": false }] },
+    { "question_text": "أي طبقة يمثلها 'همام بن يحيى' عند قتادة؟", "difficulty_score": 850, "explanation": "الطبقة الثانية أو ما بعدها (بعد الأوائل الثلاثة) [2].", "choices": [{ "choice_text": "الأولى", "is_correct": false }, { "choice_text": "الثانية/الثالثة", "is_correct": true }, { "choice_text": "الرابعة", "is_correct": false }, { "choice_text": "لم يروِ عنه", "is_correct": false }] },
+    { "question_text": "ماذا يفيد 'عاضد' حماد بن سلمة لعمران القطان؟", "difficulty_score": 700, "explanation": "يقوي الحديث وقد يوصله للاحتجاج [16، 17].", "choices": [{ "choice_text": "يضعفه", "is_correct": false }, { "choice_text": "يقويه", "is_correct": true }, { "choice_text": "لا يؤثر", "is_correct": false }, { "choice_text": "يجعله موضوعاً", "is_correct": false }] },
+    { "question_text": "لماذا اعتذر المدرس عن عدم التقديم لـ 'غيث الساري'؟", "difficulty_score": 500, "explanation": "بسبب عظمة مقدمة 'هدي الساري' لابن حجر [15].", "choices": [{ "choice_text": "لضيق الوقت", "is_correct": false }, { "choice_text": "لعظمة هدي الساري", "is_correct": true }, { "choice_text": "لعدم رغبته", "is_correct": false }, { "choice_text": "لفقدان المخطوط", "is_correct": false }] },
+    { "question_text": "ما حكم رواية 'محمد بن إسحاق' إذا خالف مالكاً وسفيان؟", "difficulty_score": 650, "explanation": "تعتبر خطأً مردوداً [36، 37].", "choices": [{ "choice_text": "مقبولة", "is_correct": false }, { "choice_text": "خطأ مردود", "is_correct": true }, { "choice_text": "ترجح على مالك", "is_correct": false }, { "choice_text": "تساوي روايتهم", "is_correct": false }] },
+    { "question_text": "ما هي 'قرينة الزيادة' في حفظ الضعيف؟", "difficulty_score": 800, "explanation": "دليل على أنه أصاب في هذا الموضع تحديداً [5].", "choices": [{ "choice_text": "دليل كذبه", "is_correct": false }, { "choice_text": "دليل إصابته", "is_correct": true }, { "choice_text": "دليل اختلاطه", "is_correct": false }, { "choice_text": "لا قيمة لها", "is_correct": false }] },
+    { "question_text": "ما 'الأصل' في قبول الرواية؟", "difficulty_score": 350, "explanation": "الاحتياط للسنة وعدم القبول حتى يثبت [33، 34].", "choices": [{ "choice_text": "حسن الظن بالرواة", "is_correct": false }, { "choice_text": "الاحتياط وعدم القبول حتى يثبت", "is_correct": true }, { "choice_text": "قبول كل ما روي", "is_correct": false }, { "choice_text": "رد كل ما روي", "is_correct": false }] },
+     {
+        "question_text": "ما هو الفرق الجوهري بين 'الحديث الحسن' و'الحديث الصحيح' من حيث الضبط؟",
+        "difficulty_score": 200,
+        "explanation": "الحديث الحسن يشترك مع الصحيح في الشروط إلا أن راويه 'خفّ ضبطه'، بينما الصحيح يشترط تمام الضبط [1].",
+        "choices": [
+            { "choice_text": "انقطاع الإسناد في الحسن", "is_correct": false },
+            { "choice_text": "وجود علة قادحة في الحسن", "is_correct": false },
+            { "choice_text": "خفة ضبط الراوي في الحسن", "is_correct": true },
+            { "choice_text": "عدم عدالة الراوي في الحسن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، متى ننتقل بالحديث من 'مقبول الاعتبار' إلى 'مقبول الاحتجاج'؟",
+        "difficulty_score": 500,
+        "explanation": "عندما يجد العالم 'عاضداً' (متابعاً أو شاهداً) يقوي الرواية الضعيفة المعتبرة [3، 17].",
+        "choices": [
+            { "choice_text": "بمجرد رواية إمام كبير له", "is_correct": false },
+            { "choice_text": "عند وجود عاضد يقوي الرواية", "is_correct": true },
+            { "choice_text": "إذا كان في فضائل الأعمال فقط", "is_correct": false },
+            { "choice_text": "إذا لم يجد العالم غيره في الباب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'إرسال' علي بن الحسين (زين العابدين) أقوى من مرسل غيره؟",
+        "difficulty_score": 750,
+        "explanation": "لأنه من كبار أئمة آل البيت ويُحتمل بقوة سماعه من أبيه أو كبار أهل بيته المتصلين بالنبي [2].",
+        "choices": [
+            { "choice_text": "لأنه صحابي", "is_correct": false },
+            { "choice_text": "لاحتمال سماعه من كبار أهل بيته الثقات", "is_correct": true },
+            { "choice_text": "لأن مراسيله مسندة في الصحيحين", "is_correct": false },
+            { "choice_text": "لأنه لا يروي إلا عن أبي هريرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي تلخص منهج الحفاظ في كشف الخطأ كما نقلها المصدر عن ابن المديني؟",
+        "difficulty_score": 300,
+        "explanation": "قال ابن المديني: 'الحديث إذا لم تجمع طرقه لم يتبين خطؤه' [26، 31].",
+        "choices": [
+            { "choice_text": "الحديث إذا لم يصح سنده فهو موضوع", "is_correct": false },
+            { "choice_text": "إذا لم تجمع طرقه لم يتبين خطؤه", "is_correct": true },
+            { "choice_text": "العدالة أهم من الضبط", "is_correct": false },
+            { "choice_text": "التفرد دليل الصحة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية خُصص لمناقشة الأحاديث التي انُتقدت على الإمام البخاري؟",
+        "difficulty_score": 600,
+        "explanation": "الإمام ابن حجر خصص فصلاً كاملاً في 'هدي الساري' لمناقشة الانتقادات الموجهة للبخاري [3].",
+        "choices": [
+            { "choice_text": "التمييز لمسلم", "is_correct": false },
+            { "choice_text": "فتح الباري", "is_correct": false },
+            { "choice_text": "هدي الساري", "is_correct": true },
+            { "choice_text": "جامع العلوم والحكم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم 'خطأ الثقة' عند المحدثين؟",
+        "difficulty_score": 400,
+        "explanation": "خطأ الثقة مردود ولا يُحتج به، ووجوده كعدمه في العالم الخارجي [4].",
+        "choices": [
+            { "choice_text": "يُقبل لجلالة الراوي", "is_correct": false },
+            { "choice_text": "يُعتبر حديثاً حسناً", "is_correct": false },
+            { "choice_text": "مردود ولا يُحتاج إليه", "is_correct": true },
+            { "choice_text": "يُقدم على رواية الضعيف المصيب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان حماد بن سلمة يختبر شيخه ثابتاً البناني بخلط الأحاديث؟",
+        "difficulty_score": 850,
+        "explanation": "كان يفعل ذلك ليختبر ضبطه ويفرز ما سمعه منه عما لم يسمعه، مما جعله أثبت الناس فيه [5].",
+        "choices": [
+            { "choice_text": "ليضعفه أمام الناس", "is_correct": false },
+            { "choice_text": "ليتأكد من يقظته وضبطه", "is_correct": true },
+            { "choice_text": "لأنه لم يكن يحبه", "is_correct": false },
+            { "choice_text": "ليسرق مروياته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف المحدثين من 'تأسيس حكم شرعي' بحديث ضعيف في فضائل الأعمال؟",
+        "difficulty_score": 450,
+        "explanation": "لا يجوز تأسيس أصل حكم أو عبادة بحديث ضعيف، وإنما يُستخدم في الترغيب والترهيب لأصل ثابت [20، 29].",
+        "choices": [
+            { "choice_text": "يجوز مطلقاً", "is_correct": false },
+            { "choice_text": "لا يجوز تأسيس أصل به", "is_correct": true },
+            { "choice_text": "يجوز إذا لم يكن شديد الضعف", "is_correct": false },
+            { "choice_text": "يجوز في الصلاة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "عندما يقول البخاري في معلقاته 'روي عن النبي'، فماذا يفهم طالب العلم؟",
+        "difficulty_score": 550,
+        "explanation": "يفهم أن الحديث فيه إشكال يسير وهو من قبيل 'مقبول الاعتبار' وليس مجزوماً بصحته عنده [34، 35].",
+        "choices": [
+            { "choice_text": "أن الحديث صحيح 100%", "is_correct": false },
+            { "choice_text": "أن الحديث موضوع", "is_correct": false },
+            { "choice_text": "أن الحديث فيه إشكال يسير (تمريض)", "is_correct": true },
+            { "choice_text": "أن البخاري لم يسمعه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المعادلة الحديثية' التي ذكرها المدرس بخصوص التفرد؟",
+        "difficulty_score": 700,
+        "explanation": "هي النظر في الرجال والرواة والمتن والتفرد للوصول للنتيجة، وليس مجرد قوالب جامدة [6].",
+        "choices": [
+            { "choice_text": "الثقة + الثقة = صحيح", "is_correct": false },
+            { "choice_text": "تحليل المعطيات (رجال، متن، طرق) للوصول للنتيجة", "is_correct": true },
+            { "choice_text": "كل راوٍ بصري فهو ضعيف", "is_correct": false },
+            { "choice_text": "قبول كل ما في الكتب الستة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الراوي الذي خالف مالكاً في روايته عن الزهري في حديث 'من حسن إسلام المرء'؟",
+        "difficulty_score": 800,
+        "explanation": "هو عبد الرحمن بن قرة، وقد خالف مالكاً وغيره من الحفاظ عن الزهري [7].",
+        "choices": [
+            { "choice_text": "سفيان بن عيينة", "is_correct": false },
+            { "choice_text": "عبد الرحمن بن قرة", "is_correct": true },
+            { "choice_text": "محمد بن إسحاق", "is_correct": false },
+            { "choice_text": "همام بن يحيى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الشك المنهجي' الذي أشار إليه المدرس في علم الحديث؟",
+        "difficulty_score": 900,
+        "explanation": "هو أن الأصل في الرواية عدم الثبوت حتى يثبت العكس، احتياطاً للسنة [8].",
+        "choices": [
+            { "choice_text": "تكذيب جميع الرواة ابتداءً", "is_correct": false },
+            { "choice_text": "عدم قبول الرواية حتى يثبت الصواب", "is_correct": true },
+            { "choice_text": "الشك في وجود السنة أصلاً", "is_correct": false },
+            { "choice_text": "قبول الحديث حتى يثبت خطؤه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يقضِ البخاري والدارمي في حديث أبي إسحاق السبيعي عندما سألهما الترمذي أول مرة؟",
+        "difficulty_score": 900,
+        "explanation": "بسبب شدة الاختلاف بين الطرق (أربعة أوجه) وصعوبة الترجيح في تلك اللحظة [27، 28].",
+        "choices": [
+            { "choice_text": "لأنهما لم يعرفا الحديث", "is_correct": false },
+            { "choice_text": "لصعوبة الترجيح بين الأوجه المختلفة", "is_correct": true },
+            { "choice_text": "لأن الحديث كان موضوعاً", "is_correct": false },
+            { "choice_text": "بسبب ضيق الوقت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من قول المحدثين 'هذا إسناد حسن' في بعض التفاسير (مثل ابن كثير)؟",
+        "difficulty_score": 650,
+        "explanation": "أحياناً تكون العلة خفية، وقد يأتي إسناد آخر يخالفه فيتوقف العالم أو يرجح الثاني [21، 22].",
+        "choices": [
+            { "choice_text": "أن الحديث صحيح يقيناً", "is_correct": false },
+            { "choice_text": "أن الإسناد قد يخفي علة تتبين بجمع الطرق", "is_correct": true },
+            { "choice_text": "أن الراوي مجهول", "is_correct": false },
+            { "choice_text": "أن الحديث من الإسرائيليات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما رتبة حديث 'ازهد في الدنيا يحبك الله'؟",
+        "difficulty_score": 400,
+        "explanation": "وصفه المدرس بأنه 'ضعيف جداً' ولا يستشهد به حتى استشهاداً [9].",
+        "choices": [
+            { "choice_text": "حسن لغيره", "is_correct": false },
+            { "choice_text": "ضعيف جداً", "is_correct": true },
+            { "choice_text": "صحيح الإسناد", "is_correct": false },
+            { "choice_text": "مقبول اعتبار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'فاحش الأخطاء والزلاّت'؟",
+        "difficulty_score": 300,
+        "explanation": "هو الراوي الذي كثرت أخطاؤه جداً حتى سقطت روايته ولم تعد تصلح للاعتبار [4].",
+        "choices": [
+            { "choice_text": "الثقة الذي يخطئ نادراً", "is_correct": false },
+            { "choice_text": "الراوي الذي يسقط حديثه لكثرة خطئه", "is_correct": true },
+            { "choice_text": "الراوي الذي يدلس أحياناً", "is_correct": false },
+            { "choice_text": "الراوي الذي يروي المراسيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الأوائل الثلاثة' في طبقة أصحاب قتادة؟",
+        "difficulty_score": 500,
+        "explanation": "هم شعبة، وسعيد بن أبي عروبة، وهشام الدستوائي [10].",
+        "choices": [
+            { "choice_text": "مالك، وسفيان، وشعبة", "is_correct": false },
+            { "choice_text": "شعبة، وسعيد، وهشام", "is_correct": true },
+            { "choice_text": "حماد بن سلمة، وأبو عوانة، وهمام", "is_correct": false },
+            { "choice_text": "قتادة، وأنس، وثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث 'لا نكاح إلا بولي'، من الراوي الذي خالف شعبة وسفيان؟",
+        "difficulty_score": 750,
+        "explanation": "رواية إسرائيل هي التي خالف فيها شعبة وسفيان، وقد شرحها ابن الصالح [37، 38].",
+        "choices": [
+            { "choice_text": "محمد بن إسحاق", "is_correct": false },
+            { "choice_text": "إسرائيل", "is_correct": true },
+            { "choice_text": "حماد بن سلمة", "is_correct": false },
+            { "choice_text": "ابن لهيعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يفيد الحديث الضعيف في 'ترجيح الخلاف'؟",
+        "difficulty_score": 600,
+        "explanation": "إذا اختلف الحفاظ في وجهين، قد يأتي حديث ضعيف (لين) فيرجح أحد الوجهين على الآخر [11].",
+        "choices": [
+            { "choice_text": "يجعل الحديث موضوعاً", "is_correct": false },
+            { "choice_text": "يرجح أحد الأوجه المختلف فيها", "is_correct": true },
+            { "choice_text": "يسقط جميع الأوجه", "is_correct": false },
+            { "choice_text": "لا يؤثر في الخلاف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الرواة يُعتبر حديثه 'مقبولاً في الاعتبار' ولكن ليس 'حجة مستقلة'؟",
+        "difficulty_score": 400,
+        "explanation": "عمران القطان ذكر المدرس أن فيه ضعفاً وهو مقبول في الاعتبار [12].",
+        "choices": [
+            { "choice_text": "شعبة بن الحجاج", "is_correct": false },
+            { "choice_text": "عمران القطان", "is_correct": true },
+            { "choice_text": "مالك بن أنس", "is_correct": false },
+            { "choice_text": "يحيى بن سعيد القطان", "is_correct": false }
+        ]
+    },
+    { "question_text": "ما هو تعريف 'مقبول االحتجاج'؟", "difficulty_score": 150, "explanation": "هو القسم الذي يشمل الصحيح والحسن ويُبنى عليه الحكم استقلالاً.", "choices": [{ "choice_text": "ما لم يتبين خطؤه", "is_correct": false }, { "choice_text": "ما اجتمعت فيه شروط القبول للاحتجاج", "is_correct": true }, { "choice_text": "ما رواه الكذابون", "is_correct": false }, { "choice_text": "المرسل فقط", "is_correct": false }] },
+    { "question_text": "لماذا لا يقارن النووي بالأئمة المتقدمين في الصنعة الحديثية حسب المدرس؟", "difficulty_score": 800, "explanation": "لأن المتقدمين أعمق سراً في العلل وجمع الطرق من المتأخرين [13].", "choices": [{ "choice_text": "لأنه ليس عالماً", "is_correct": false }, { "choice_text": "لأن المتقدمين أدرى بعلل الحديث", "is_correct": true }, { "choice_text": "لأنه شافعي", "is_correct": false }, { "choice_text": "لأن كتبه مفقودة", "is_correct": false }] },
+    { "question_text": "ما حكم الحديث الذي 'تبين خطؤه' حتى لو كان راويه ثقة؟", "difficulty_score": 300, "explanation": "يُحكم عليه بأنه مردود في هذا الموضع [4].", "choices": [{ "choice_text": "صحيح", "is_correct": false }, { "choice_text": "حسن", "is_correct": false }, { "choice_text": "مردود", "is_correct": true }, { "choice_text": "مقبول اعتبار", "is_correct": false }] },
+    { "question_text": "ما معنى 'لين الحديث' في المنظومة المذكورة؟", "difficulty_score": 200, "explanation": "الضعف اليسير الذي لم يصل لدرجة الترك [11].", "choices": [{ "choice_text": "الكذب", "is_correct": false }, { "choice_text": "الضعف اليسير", "is_correct": true }, { "choice_text": "الصحة المطلقة", "is_correct": false }, { "choice_text": "الجهالة العين", "is_correct": false }] },
+    { "question_text": "أين ذكر ابن حجر ردوده على انتقادات الدارقطني؟", "difficulty_score": 500, "explanation": "في مقدمة فتح الباري المسماة (هدي الساري) [3].", "choices": [{ "choice_text": "التلخيص الحبير", "is_correct": false }, { "choice_text": "نخبة الفكر", "is_correct": false }, { "choice_text": "هدي الساري", "is_correct": true }, { "choice_text": "التقريب", "is_correct": false }] },
+    { "question_text": "أي من هؤلاء الرواة وُصف بأنه 'بصري'؟", "difficulty_score": 400, "explanation": "حماد بن سلمة وقتادة وشعبة كلهم بصريون [13، 14].", "choices": [{ "choice_text": "حماد بن سلمة", "is_correct": true }, { "choice_text": "سفيان بن عيينة (مكي)", "is_correct": false }, { "choice_text": "مالك (مدني)", "is_correct": false }, { "choice_text": "ابن لهيعة (مصري)", "is_correct": false }] },
+    { "question_text": "ماذا قال أبو حاتم عن زيادة ابن لهيعة للواسطة؟", "difficulty_score": 850, "explanation": "قال: 'القول ما قال ابن لهيعة' لأن الزيادة كانت دقيقة وقرينة على حفظه [14].", "choices": [{ "choice_text": "هي خطأ يقيناً", "is_correct": false }, { "choice_text": "القول ما قاله ابن لهيعة", "is_correct": true }, { "choice_text": "ابن لهيعة كذاب", "is_correct": false }, { "choice_text": "لا أقبل زيادته", "is_correct": false }] },
+    { "question_text": "ما هو 'المرسل'؟", "difficulty_score": 100, "explanation": "ما سقط منه الصحابي (أو ما رفعه التابعي للنبي).", "choices": [{ "choice_text": "المتصل", "is_correct": false }, { "choice_text": "ما سقط منه الصحابي", "is_correct": true }, { "choice_text": "ما رواه الكذاب", "is_correct": false }, { "choice_text": "المنكر", "is_correct": false }] },
+    { "question_text": "لماذا يُعتبر 'فقه تنزيل' القواعد الحديثية مهماً؟", "difficulty_score": 600, "explanation": "لأن القواعد ليست جامدة بل تحتاج لنظر في القرائن والمعطيات [15].", "choices": [{ "choice_text": "لأنه اختصار للوقت", "is_correct": false }, { "choice_text": "لأنها ليست كلاماً جامداً بل تحتاج لفقه", "is_correct": true }, { "choice_text": "لأنه يلغي القواعد", "is_correct": false }, { "choice_text": "لأنه خاص بالفقهاء فقط", "is_correct": false }] },
+    { "question_text": "من هو مؤلف 'شرح متن المعين' (الذي يُشرح في المحاضرة)؟", "difficulty_score": 150, "explanation": "المحاضرة هي شرح لمتن المعين (ولم يذكر اسم مؤلف المتن صراحة في هذه الصفحات لكنها في سياق المتن).", "choices": [{ "choice_text": "ابن حجر", "is_correct": false }, { "choice_text": "ابن رجب", "is_correct": false }, { "choice_text": "صاحب متن المعين", "is_correct": true }, { "choice_text": "النووي", "is_correct": false }] },
+    { "question_text": "ما هي الفائدة الثالثة للحديث الضعيف المذكورة؟", "difficulty_score": 250, "explanation": "الاستفادة من الخبر نفسه وإن كان ضعيفاً [16].", "choices": [{ "choice_text": "التشريع", "is_correct": false }, { "choice_text": "الاستفادة من الخبر نفسه", "is_correct": true }, { "choice_text": "نسخ القرآن", "is_correct": false }, { "choice_text": "تكفير الرواة", "is_correct": false }] },
+    { "question_text": "ما حكم 'من حسن إسلام المرء' عند الحفاظ الكبار كالبخاري؟", "difficulty_score": 750, "explanation": "أنه مرسل من مراسيل علي بن الحسين [17].", "choices": [{ "choice_text": "صحيح متصل", "is_correct": false }, { "choice_text": "مرسل", "is_correct": true }, { "choice_text": "موضوع", "is_correct": false }, { "choice_text": "منكر جداً", "is_correct": false }] },
+    { "question_text": "ماذا تعني عبارة 'يصيب ويخطئ'؟", "difficulty_score": 200, "explanation": "أن الضعيف قد يروي بعض الأحاديث بشكل صحيح [16].", "choices": [{ "choice_text": "أنه معصوم", "is_correct": false }, { "choice_text": "أن حديثه قد يكون صواباً", "is_correct": true }, { "choice_text": "أن حديثه كذب دائماً", "is_correct": false }, { "choice_text": "أنه يخطئ عمداً", "is_correct": false }] },
+    { "question_text": "لماذا رُدّت رواية 'محمد بن إسحاق' في المثال المذكور؟", "difficulty_score": 650, "explanation": "لأنها خالف فيها مالكاً ومعمراً وسفيان [4].", "choices": [{ "choice_text": "لأنه كذاب", "is_correct": false }, { "choice_text": "لمخالفته من هم أوثق منه", "is_correct": true }, { "choice_text": "لأنه مدلس", "is_correct": false }, { "choice_text": "لأنه شيعي", "is_correct": false }] },
+    { "question_text": "ماذا يفعل جمع الطرق في 'العلة'؟", "difficulty_score": 400, "explanation": "يكشف الاختلافات والعلل الخفية [6].", "choices": [{ "choice_text": "يخفيها", "is_correct": false }, { "choice_text": "يكشفها", "is_correct": true }, { "choice_text": "لا يؤثر فيها", "is_correct": false }, { "choice_text": "يثبتها دون دليل", "is_correct": false }] },
+    { "question_text": "ما رتبة 'زهير' في روايته التي اختارها البخاري؟", "difficulty_score": 800, "explanation": "البخاري رأى أن وجه زهير هو الصحيح بوجود عاضد [18].", "choices": [{ "choice_text": "وجه مرجوح", "is_correct": false }, { "choice_text": "وجه صحيح (مختار البخاري)", "is_correct": true }, { "choice_text": "وجه منكر", "is_correct": false }, { "choice_text": "وجه شاذ", "is_correct": false }] },
+    { "question_text": "ما أهمية كتاب 'التمييز' لمسلم؟", "difficulty_score": 500, "explanation": "يظهر أخطاء كبار الأئمة في الرواية [19].", "choices": [{ "choice_text": "شرح المتون", "is_correct": false }, { "choice_text": "بيان أخطاء الأئمة في الرواية", "is_correct": true }, { "choice_text": "جمع الأحاديث الصحيحة فقط", "is_correct": false }, { "choice_text": "ترجمة الصحابة", "is_correct": false }] },
+    { "question_text": "هل الضعيف 'لكثرة خطئه' يُهدر تماماً؟", "difficulty_score": 300, "explanation": "لا، بل يُنظر في مروياته للاعتبار [16].", "choices": [{ "choice_text": "نعم", "is_correct": false }, { "choice_text": "لا، يُعتبر به", "is_correct": true }, { "choice_text": "يُقبل كالصحيح", "is_correct": false }, { "choice_text": "يُحرق حديثه", "is_correct": false }] },
+    { "question_text": "من هو الراوي الذي وصفه المدرس بأنه 'أمير المؤمنين في الحديث' ومع ذلك يخطئ في الأسماء؟", "difficulty_score": 450, "explanation": "شعبة بن الحجاج [19].", "choices": [{ "choice_text": "البخاري", "is_correct": false }, { "choice_text": "شعبة بن الحجاج", "is_correct": true }, { "choice_text": "مسلم", "is_correct": false }, { "choice_text": "يحيى بن معين", "is_correct": false }] },
+    { "question_text": "ما معنى 'العاضد'؟", "difficulty_score": 200, "explanation": "المقوي والمؤيد للرواية [11].", "choices": [{ "choice_text": "الضعيف", "is_correct": false }, { "choice_text": "المقوي للمتن أو السند", "is_correct": true }, { "choice_text": "المخالف", "is_correct": false }, { "choice_text": "المنقطع", "is_correct": false }] }
+]
+    }

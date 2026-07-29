@@ -1,0 +1,884 @@
+    {
+    "chapter_id": 74,
+    "questions": [
+        {
+        "question_text": "أي من الأئمة التاليين وُصف بأن حديثه 'عام مشترك' وتفرُّد غير الحافظ عنه يُعد منكراً؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر الإمام مسلم أن مثل الزهري وهشام بن عروة حديثهما مشترك بين أهل العلم لكثرة أصحابهما، فالتفرد عنهما يثير الريبة [20, 21].",
+        "choices": [
+            { "choice_text": "محمد بن إسحاق", "is_correct": false },
+            { "choice_text": "الإمام الزهري", "is_correct": true },
+            { "choice_text": "سهل بن حنيف", "is_correct": false },
+            { "choice_text": "سعيد بن عبيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأصل في 'تفرد الثقات' حسب ما ذكر الناظم؟",
+        "difficulty_score": 200,
+        "explanation": "الأصل في تفرد الثقة هو القبول، ما لم تظهر قرينة توجب رده [28].",
+        "choices": [
+            { "choice_text": "الرد مطلقاً", "is_correct": false },
+            { "choice_text": "التوقف فيه دائماً", "is_correct": false },
+            { "choice_text": "القبول هو الأصل", "is_correct": true },
+            { "choice_text": "اعتباره منكراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أطلق الإمام البخاري وصف 'حسن' على حديث ابن عمر في استدبار الكعبة؟",
+        "difficulty_score": 600,
+        "explanation": "لأن الحديث إسناده صحيح جداً، والوصف هنا ليس لنقص الضبط بل لمعنى الاستحسان أو كثرة الفوائد [22].",
+        "choices": [
+            { "choice_text": "لأن في إسناده راوٍ خفيف الضبط", "is_correct": false },
+            { "choice_text": "لأنه حديث منقطع", "is_correct": false },
+            { "choice_text": "من باب استحسان المتن وجودته", "is_correct": true },
+            { "choice_text": "لأنه رُوي من طريق واحدة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "المنكر عند 'البيقوني' هو الحديث الذي:",
+        "difficulty_score": 300,
+        "explanation": "عرّف البيقوني المنكر بأنه الحديث الذي تفرد به راوٍ ولم يتابع عليه، مع كونه لا يحتمل ذلك [7].",
+        "choices": [
+            { "choice_text": "خالف فيه الضعيفُ الثقةَ", "is_correct": false },
+            { "choice_text": "كان فرداً وتفرد به راوٍ", "is_correct": true },
+            { "choice_text": "رواه ثقة وخالف الأوثق", "is_correct": false },
+            { "choice_text": "في إسناده كذاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القرينة التي جعلت الإمام أحمد يتردد في حديث 'نضح المذي'؟",
+        "difficulty_score": 700,
+        "explanation": "القرينة هي تفرد محمد بن إسحاق بحكم من أصول الأحكام، مما جعل قبوله أصعب [10, 16].",
+        "choices": [
+            { "choice_text": "انقطاع الإسناد", "is_correct": false },
+            { "choice_text": "وجود كذاب في السند", "is_correct": false },
+            { "choice_text": "تفرد الراوي بحكم من الأصول", "is_correct": true },
+            { "choice_text": "مخالفة الحديث للقرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الرواة يعتبر في طبقة 'الشيوخ' (الوسط)؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر عثمان بن أبي شيبة وأبو سلمة التبوذكي كأمثلة على من قد تُنكر أفرادهم [17].",
+        "choices": [
+            { "choice_text": "عثمان بن أبي شيبة", "is_correct": true },
+            { "choice_text": "سفيان الثوري", "is_correct": false },
+            { "choice_text": "مالك بن أنس", "is_correct": false },
+            { "choice_text": "الإمام الزهري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا تفرد الراوي بحديث يتعلق بـ 'قصة'، فإن تفرده:",
+        "difficulty_score": 500,
+        "explanation": "التفرد في القصص وأحداث السيرة أهون وأسهل قبولاً من التفرد بالأحكام الكلية [12, 19].",
+        "choices": [
+            { "choice_text": "يُرد فوراً", "is_correct": false },
+            { "choice_text": "يكون أمره سهلاً ومقبولاً غالباً", "is_correct": true },
+            { "choice_text": "يُعتبر منكراً دائماً", "is_correct": false },
+            { "choice_text": "يجب أن يرويه مئة شخص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'زكن' في قول الناظم: (بما يصح دونما شرط زكن)؟",
+        "difficulty_score": 100,
+        "explanation": "كلمة 'زكن' تعني عُلم [27].",
+        "choices": [
+            { "choice_text": "حفظ", "is_correct": false },
+            { "choice_text": "عُلم", "is_correct": true },
+            { "choice_text": "كُتب", "is_correct": false },
+            { "choice_text": "رُوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لابن رجب، 'الضعيف' عند الإمام أحمد هو:",
+        "difficulty_score": 400,
+        "explanation": "يقصد أحمد بالضعيف هنا ما كان فيه ضعف يسير لا يمنع من اعتباره [8].",
+        "choices": [
+            { "choice_text": "الموضوع والكذب", "is_correct": false },
+            { "difficulty_score": 400, "choice_text": "المقبول للاعتبار", "is_correct": true },
+            { "choice_text": "شديد الضعف", "is_correct": false },
+            { "choice_text": "الصحيح لذاته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "تزداد قرينة الإنكار إذا كان الإسناد من:",
+        "difficulty_score": 600,
+        "explanation": "السلاسل الذهبية لقوة شهرتها، فالتفرد فيها مريب [14].",
+        "choices": [
+            { "choice_text": "الأحاديث المرسلة", "is_correct": false },
+            { "choice_text": "السلاسل الذهبية", "is_correct": true },
+            { "choice_text": "طرق أهل المدائن", "is_correct": false },
+            { "choice_text": "الأسانيد النازلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النهج الصحيح في التعامل مع تعدد إطلاقات مصطلح 'المنكر'؟",
+        "difficulty_score": 800,
+        "explanation": "لا يجب حصر المصطلح في تعريف واحد، بل فهمه من خلال استقراء تطبيقات المتقدمين المتعددة [23, 24].",
+        "choices": [
+            { "choice_text": "اختيار تعريف واحد فقط", "is_correct": false },
+            { "choice_text": "تخطئة المتقدمين", "is_correct": false },
+            { "choice_text": "توسيع المعنى بناءً على الاستقراء", "is_correct": true },
+            { "choice_text": "دمج التعريفات في نص واحد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي طبقة زمنية يكون التفرد فيها 'أقل نكارة'؟",
+        "difficulty_score": 500,
+        "explanation": "التفرد في طبقة التابعين أهون من التفرد في طبقات أتباع الأتباع وما بعدها [11].",
+        "choices": [
+            { "choice_text": "أتباع الأتباع", "is_correct": false },
+            { "choice_text": "التابعين", "is_correct": true },
+            { "choice_text": "مشايخ الأئمة الستة", "is_correct": false },
+            { "choice_text": "طبقة الإمام أحمد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يحدث إذا قرأت كتب المتقدمين وأنت لا تعرف من 'الحسن' إلا تعريف المتأخرين؟",
+        "difficulty_score": 200,
+        "explanation": "سيقع القارئ في حرج وإشكال في فهم مرادهم [1, 15].",
+        "choices": [
+            { "choice_text": "ستفهم كلامهم بدقة", "is_correct": false },
+            { "choice_text": "ستقع في الحرج", "is_correct": true },
+            { "choice_text": "ستصبح مجتهداً", "is_correct": false },
+            { "choice_text": "لن يتغير شيء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "الحديث الذي يرويه 'محمد بن إسحاق' في السيرة النبوية يعتبره الإمام أحمد:",
+        "difficulty_score": 600,
+        "explanation": "يقبله أحمد في السيرة والمغازي، لكنه قد يتردد فيه في الأحكام [16].",
+        "choices": [
+            { "choice_text": "منكراً دائماً", "is_correct": false },
+            { "choice_text": "صحيحاً ثابتاً (في الغالب)", "is_correct": true },
+            { "choice_text": "موضوعاً", "is_correct": false },
+            { "choice_text": "ضعيفاً جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'اليقظ الثقة المتوسط المعرفة والطلب' حسب وصف الذهبي؟",
+        "difficulty_score": 500,
+        "explanation": "هم جمهور رجال الصحيحين الذين لم يبلغوا رتبة الأئمة الحفاظ الكبار [29].",
+        "choices": [
+            { "choice_text": "هم أئمة الدنيا كالزهري", "is_correct": false },
+            { "choice_text": "هم الضعفاء", "is_correct": false },
+            { "choice_text": "هم أغلب رجال الصحيحين", "is_correct": true },
+            { "choice_text": "هم الرواة المجهولون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه القرائن تخص 'المتن'؟",
+        "difficulty_score": 300,
+        "explanation": "المخالفة لما هو أصح هي قرينة متعلقة بنص الحديث (المتن) [9].",
+        "choices": [
+            { "choice_text": "مخالفة المتن لما هو أصح", "is_correct": true },
+            { "choice_text": "كون الراوي صدوقاً", "is_correct": false },
+            { "choice_text": "انقطاع السند", "is_correct": false },
+            { "choice_text": "علو الإسناد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "قال الذهبي في 'الموقظة' أنهم قد يعدون تفرد الصدوق:",
+        "difficulty_score": 400,
+        "explanation": "قد يُحكم على تفرد الصدوق بالنكارة إذا لم يحتمل ذلك [24].",
+        "choices": [
+            { "choice_text": "صحيحاً دائماً", "is_correct": false },
+            { "choice_text": "منكراً", "is_correct": true },
+            { "choice_text": "موضوعاً", "is_correct": false },
+            { "choice_text": "متواتراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى الحديث الذي رواه 'أمة' عن يحيى بن سعيد الأنصاري؟",
+        "difficulty_score": 600,
+        "explanation": "رواه عنه مئات الأشخاص مثل سفيان ومالك، لذا تفرده عن شيخه مقبول أصلاً [18, 30].",
+        "choices": [
+            { "choice_text": "حديث فرد", "is_correct": false },
+            { "choice_text": "حديث غريب جداً", "is_correct": false },
+            { "choice_text": "حديث مشهور (أو مستفيض عنه)", "is_correct": true },
+            { "choice_text": "حديث منكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "القرائن الثلاث (المتن، السند، الراوي) قد تتشابك، فإذا تشابكت:",
+        "difficulty_score": 700,
+        "explanation": "تشابك القرائن يقوي الحكم بالنكارة ويؤكده [2, 13].",
+        "choices": [
+            { "choice_text": "ضعُف الحكم بالنكارة", "is_correct": false },
+            { "choice_text": "صار الحديث صحيحاً", "is_correct": false },
+            { "choice_text": "قوي الحكم بالنكارة", "is_correct": true },
+            { "choice_text": "يجب ترك الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى تنتقل النكارة من الحديث إلى الراوي نفسه؟",
+        "difficulty_score": 800,
+        "explanation": "إذا تكرر من الراوي التفرد بالمناكير، وُصف هو نفسه بأنه 'منكر الحديث' [17, 18].",
+        "choices": [
+            { "choice_text": "بمجرد خطأ واحد", "is_correct": false },
+            { "choice_text": "إذا روى حديثاً واحداً منكراً", "is_correct": false },
+            { "choice_text": "إذا كثر تفرده بما لا يُعرف", "is_correct": true },
+            { "choice_text": "إذا خالف القرآن مرة واحدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي إمام عُرف بتقسيم الحديث إلى (صحيح، حسن، ضعيف) واشتهر عنه ذلك؟",
+        "difficulty_score": 100,
+        "explanation": "الإمام الترمذي هو من شهر هذا التقسيم الثلاثي في كتابه [1, 15].",
+        "choices": [
+            { "choice_text": "البخاري", "is_correct": false },
+            { "choice_text": "مسلم", "is_correct": false },
+            { "choice_text": "الترمذي", "is_correct": true },
+            { "choice_text": "أبو داود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'خف ضبطه' في تعريف الحديث الحسن؟",
+        "difficulty_score": 200,
+        "explanation": "تعني أن الراوي عدل لكن حفظه أقل بقليل من درجة تمام الضبط [1].",
+        "choices": [
+            { "choice_text": "أنه كذاب", "is_correct": false },
+            { "choice_text": "أنه سيء الحفظ جداً", "is_correct": false },
+            { "choice_text": "أن ضبطه ليس في أعلى الدرجات", "is_correct": true },
+            { "choice_text": "أنه لا يروي إلا عن الثقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث 'إنما الأعمال بالنيات'، من الذي تفرد به عن عمر بن الخطاب؟",
+        "difficulty_score": 400,
+        "explanation": "علقمة بن وقاص الليثي هو الذي تفرد به عن عمر [18].",
+        "choices": [
+            { "choice_text": "يحيى بن سعيد الأنصاري", "is_correct": false },
+            { "choice_text": "محمد بن إبراهيم التيمي", "is_correct": false },
+            { "choice_text": "علقمة بن وقاص", "is_correct": true },
+            { "choice_text": "مالك بن أنس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا قال الناقد 'لا أعلم شيئاً يخالفه' في حديث لراوٍ صدوق، فهذا يدل على:",
+        "difficulty_score": 600,
+        "explanation": "يدل على التردد في قبول الحديث أو ميله للقبول لعدم وجود معارض [10].",
+        "choices": [
+            { "choice_text": "الجزم بالصحة", "is_correct": false },
+            { "choice_text": "الجزم بالنكارة", "is_correct": false },
+            { "choice_text": "نوع من التردد والميل للقبول", "is_correct": true },
+            { "choice_text": "أن الحديث موضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "تفرُّد 'حفص بن غياث' بحديث أو حديثين منكرين يجعل النقاد:",
+        "difficulty_score": 700,
+        "explanation": "يسمون الحديث منكراً، لكن لا يغمزون الراوي نفسه إلا إذا كثر ذلك [17].",
+        "choices": [
+            { "choice_text": "يوثقونه أكثر", "is_correct": false },
+            { "choice_text": "يسمون حديثه منكراً", "is_correct": true },
+            { "choice_text": "يضعفونه مطلقاً", "is_correct": false },
+            { "choice_text": "يتركوا حديثه كله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الدائرة' التي إذا جاءت فيها قرينة كان الحكم بالنكارة قطعياً ولا تردد فيه؟",
+        "difficulty_score": 900,
+        "explanation": "القرينة في الإسناد (مثل كونه من سلسلة ذهبية وتفرد بها ضعيف) تجعل الحكم قوياً جداً [13].",
+        "choices": [
+            { "choice_text": "دائرة المتن", "is_correct": false },
+            { "choice_text": "دائرة الراوي", "is_correct": false },
+            { "choice_text": "دائرة الإسناد", "is_correct": true },
+            { "choice_text": "دائرة الزمان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقول أبو داود في الحديث الذي يقارب 'الحسن' عند الترمذي؟",
+        "difficulty_score": 500,
+        "explanation": "يسميه 'صالح' [6].",
+        "choices": [
+            { "choice_text": "صحيح", "is_correct": false },
+            { "choice_text": "صالح", "is_correct": true },
+            { "choice_text": "منكر", "is_correct": false },
+            { "choice_text": "شاذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا التفرد في طبقة 'أتباع التابعين' أهون من غيره؟",
+        "difficulty_score": 600,
+        "explanation": "لأن الرواية لم تكن قد انتشرت وتوسعت الدوائر كما في العصور المتأخرة [11, 30].",
+        "choices": [
+            { "choice_text": "لأنهم معصومون", "is_correct": false },
+            { "choice_text": "لأن الرواية لم تنتشر بعد بشكل كامل", "is_correct": true },
+            { "choice_text": "لأنهم كلهم حفاظ جبال", "is_correct": false },
+            { "choice_text": "لأن أحاديثهم كلها قصص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الكتب يهتم بشرح 'علل' الأحاديث وناقش نكارة التفرد؟",
+        "difficulty_score": 300,
+        "explanation": "المصدر ذكر 'شرح العلل' لابن رجب كثيراً في ثنايا الشرح [8].",
+        "choices": [
+            { "choice_text": "البيقونية", "is_correct": false },
+            { "choice_text": "شرح العلل لابن رجب", "is_correct": true },
+            { "choice_text": "نخبة الفكر", "is_correct": false },
+            { "choice_text": "الموقظة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الراوي الذي وصفه الإمام أحمد بأنه 'لا يُحكم له' إذا تفرد بالأصول؟",
+        "difficulty_score": 500,
+        "explanation": "هو محمد بن إسحاق [16].",
+        "choices": [
+            { "choice_text": "الزهري", "is_correct": false },
+            { "choice_text": "محمد بن إسحاق", "is_correct": true },
+            { "choice_text": "يحيى الأنصاري", "is_correct": false },
+            { "choice_text": "هشام بن عروة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللفظ الذي يستخدمه المتقدمون لوصف الحديث الذي استنكره الناقد لمخالفته؟",
+        "difficulty_score": 200,
+        "explanation": "يستخدمون لفظ 'منكر' [23, 25].",
+        "choices": [
+            { "choice_text": "مكذوب", "is_correct": false },
+            { "choice_text": "منكر", "is_correct": true },
+            { "choice_text": "مدرج", "is_correct": false },
+            { "choice_text": "مقلوب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "يقول الناظم: (فكتبهم ضرورة تراجع)، ماذا يقصد؟",
+        "difficulty_score": 100,
+        "explanation": "يقصد ضرورة الرجوع لكتب الأئمة المتقدمين لفهم تطبيقاتهم [27].",
+        "choices": [
+            { "choice_text": "أنها كتب صعبة", "is_correct": false },
+            { "choice_text": "ضرورة المراجعة للفهم الصحيح", "is_correct": true },
+            { "choice_text": "أنها كتب غير مهمة", "is_correct": false },
+            { "choice_text": "أنها للطلاب المبتدئين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة كثرة تفرُّد الرواة في عام مئة وثمانية وتسعين هجرية؟",
+        "difficulty_score": 800,
+        "explanation": "هذا زمان متأخر نسبياً، فالتفرد فيه بحديث لم يروه غيره يُعد نكارة شديدة [11].",
+        "choices": [
+            { "choice_text": "دلالة على سعة الحفظ", "is_correct": false },
+            { "choice_text": "دلالة على النكارة والوهم", "is_correct": true },
+            { "choice_text": "دلالة على صحة الحديث", "is_correct": false },
+            { "choice_text": "دلالة على علو الإسناد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل الإمام أحمد عندما روى محمد بن إسحاق حديثاً في السيرة؟",
+        "difficulty_score": 400,
+        "explanation": "قبله ولم يصفه بالنكارة كما يفعل في الأصول [16].",
+        "choices": [
+            { "choice_text": "ضعفه جداً", "is_correct": false },
+            { "choice_text": "وصفه بالحسن أو الصحة", "is_correct": true },
+            { "choice_text": "رماه بالكذب", "is_correct": false },
+            { "choice_text": "توقف فيه تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الخيارات التالية يُعتبر 'قرينة متعلقة بالراوي'؟",
+        "difficulty_score": 300,
+        "explanation": "كون الراوي وسطاً يظهر عليه الوهم هي قرينة تخص ذات الراوي [14].",
+        "choices": [
+            { "choice_text": "مخالفة المتن", "is_correct": false },
+            { "choice_text": "كونه وسطاً يظهر عليه الوهم", "is_correct": true },
+            { "choice_text": "علو الإسناد", "is_correct": false },
+            { "choice_text": "سياق القصة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "يقول ابن حجر في النخبة أن المخالفة في المنكر تقتضي أن يكون الحديث:",
+        "difficulty_score": 500,
+        "explanation": "ابن حجر يرى أن المنكر فيه صورة مركبة من مخالفة الضعيف للثقة [6, 7].",
+        "choices": [
+            { "choice_text": "فرداً مطلقاً", "is_correct": false },
+            { "choice_text": "له طريق واحد فقط", "is_correct": false },
+            { "choice_text": "له أكثر من طريق (مخالفة)", "is_correct": true },
+            { "choice_text": "صحيحاً غريباً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يُقصد بـ 'المعنى الجامع للحسن' عند المتقدمين؟",
+        "difficulty_score": 800,
+        "explanation": "هو استحسان الناقد لمعنىً في الرواية، سواء كان في الإسناد أو المتن أو الثبوت [23].",
+        "choices": [
+            { "choice_text": "توفر الشروط الخمسة فقط", "is_correct": false },
+            { "choice_text": "أن يكون الراوي عدلاً ثبتاً", "is_correct": false },
+            { "choice_text": "استحسان الناقد لشيء في الرواية", "is_correct": true },
+            { "choice_text": "خلو الحديث من الشذوذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعد استخراج الخطأ من الحديث 'متعدد الطرق' أسهل؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب القدرة على المقارنة والمتابعة لكشف المخالفات [25, 26].",
+        "choices": [
+            { "choice_text": "لقلة الرواة", "is_correct": false },
+            { "choice_text": "لوجود موازنة ومقارنة", "is_correct": true },
+            { "choice_text": "لأن طرقه كلها صحيحة", "is_correct": false },
+            { "choice_text": "لأنه أقصر في السند", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تسمى مخالفة الثقة لمن هو أوثق منه عند 'كثير من المتأخرين'؟",
+        "difficulty_score": 300,
+        "explanation": "تسمى 'شاذ' [25].",
+        "choices": [
+            { "choice_text": "منكر", "is_correct": false },
+            { "choice_text": "شاذ", "is_correct": true },
+            { "choice_text": "مدرج", "is_correct": false },
+            { "choice_text": "غريب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "قول الناظم: (فالفهم من كلامهم يتزن) هو دعوة لـ:",
+        "difficulty_score": 200,
+        "explanation": "دعوة لضبط الفهم بناءً على استعمالات الأئمة الفعلية [15].",
+        "choices": [
+            { "choice_text": "ترك كتب المتقدمين", "is_correct": false },
+            { "choice_text": "وزن الكلام بميزان المتأخرين فقط", "is_correct": false },
+            { "choice_text": "تحقيق التوازن في فهم المصطلحات", "is_correct": true },
+            { "choice_text": "حفظ المتون دون فهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف الحديث الصحيح 'المشهور' كما ورد في المتن؟",
+        "difficulty_score": 100,
+        "explanation": "التعريف المشهور للصحيح هو ما اتصل إسناده برواية العدل تام الضبط عن مثله إلى منتهاه من غير شذوذ ولا علة.",
+        "choices": [
+            { "choice_text": "ما رواه العدل خفيف الضبط", "is_correct": false },
+            { "choice_text": "ما اتصل إسناده برواية العدل التام الضبط بلا شذوذ ولا علة", "is_correct": true },
+            { "choice_text": "ما رواه الثقة وخالف فيه الأوثق", "is_correct": false },
+            { "choice_text": "ما كان مرسلاً وله شواهد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما الذي يترتب على حصر معنى 'الحسن' في تعريف المتأخرين عند قراءة كتب الأوائل؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر الناظم أن حصر المعنى في التعريف المتأخر سيؤدي بالقارئ إلى الوقوع في الحرج وعدم فهم مراد المتقدمين.",
+        "choices": [
+            { "choice_text": "سهولة فهم كتب العلل", "is_correct": false },
+            { "choice_text": "الوقوع في الحرج عند القراءة في كتبهم", "is_correct": true },
+            { "choice_text": "الوصول إلى رتبة الاجتهاد", "is_correct": false },
+            { "choice_text": "تطوير علم الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا وصف الإمام الترمذي حديث 'دخول المسجد' بأنه حسن وهو منقطع؟",
+        "difficulty_score": 600,
+        "explanation": "لأن الحسن عند الترمذي لا يشترط اتصال الإسناد دائماً، بل له شروط أخرى كعدم وجود كذاب وعدم المخالفة.",
+        "choices": [
+            { "choice_text": "لأنه لم يكتشف الانقطاع", "is_correct": false },
+            { "choice_text": "لأن الحسن عنده قد يطلق على غير المتصل بشروطه الخاصة", "is_correct": true },
+            { "choice_text": "لأن الحديث له طرق أخرى متصلة", "is_correct": false },
+            { "choice_text": "خطأ من النساخ في الكتاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الشروط الثلاثة التي استنبطها ابن رجب من كلام الترمذي للحديث الحسن؟",
+        "difficulty_score": 500,
+        "explanation": "شروط الترمذي للحسن: ألا يكون في إسناده من يتهم بالكذب، وألا يكون شاذّاً (مخالفاً للثقات)، وأن يروى من غير وجه.",
+        "choices": [
+            { "choice_text": "الاتصال، والعدالة، والضبط", "is_correct": false },
+            { "choice_text": "عدم الكذاب، عدم المخالفة، أن يروى من غير وجه", "is_correct": true },
+            { "choice_text": "علو الإسناد، وموافقة الفقهاء، والعمل به", "is_correct": false },
+            { "choice_text": "السلامة من العلة القادحة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأئمة كان يميل في 'شرح العلل' لربط الحسن عند الترمذي بالضعيف عند أحمد؟",
+        "difficulty_score": 400,
+        "explanation": "ابن رجب الحنبلي هو من قرر في شرح العلل أن الحسن عند الترمذي يقارب مراد أحمد بالضعيف المقبول.",
+        "choices": [
+            { "choice_text": "ابن حجر", "is_correct": false },
+            { "choice_text": "ابن رجب الحنبلي", "is_correct": true },
+            { "choice_text": "الذهبي", "is_correct": false },
+            { "choice_text": "البيقوني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد الإمام أحمد بقوله 'ضعيف الحديث أحب إلي من رأي الرجال'؟",
+        "difficulty_score": 400,
+        "explanation": "يقصد الضعف اليسير المقبول للاعتبار، وهو درجة تقترب من الحسن الصالح للاحتجاج.",
+        "choices": [
+            { "choice_text": "الحديث الموضوع", "is_correct": false },
+            { "choice_text": "الضعف الشديد", "is_correct": false },
+            { "choice_text": "الضعف اليسير المقبول للاعتبار", "is_correct": true },
+            { "choice_text": "كلام التابعين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف عرف 'البيقوني' الحديث المنكر في منظومته؟",
+        "difficulty_score": 200,
+        "explanation": "عرفه بأنه الحديث الذي تفرد به راوٍ لا يحتمل تفرده.",
+        "choices": [
+            { "choice_text": "ما خالف فيه الثقة الأوثق", "is_correct": false },
+            { "choice_text": "المنكر فرد غدا به راوٍ", "is_correct": true },
+            { "choice_text": "ما سقط من إسناده راوٍ", "is_correct": false },
+            { "choice_text": "ما كان فيه راوٍ كذاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للذهبي في 'الموقظة'، قد يعد النقاد تفرد الصدوق:",
+        "difficulty_score": 500,
+        "explanation": "ذكر الذهبي أن تفرد الصدوق قد يُعد منكراً إذا لم يكن في رتبة من يُحتمل تفرده.",
+        "choices": [
+            { "choice_text": "صحيحاً غريباً دائماً", "is_correct": false },
+            { "choice_text": "منكراً", "is_correct": true },
+            { "choice_text": "متواتراً", "is_correct": false },
+            { "choice_text": "مدرجاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المعنى الجامع' للمنكر عند المتقدمين؟",
+        "difficulty_score": 700,
+        "explanation": "هو استنكار الناقد لخطأ أو إشكال واقع في الرواية، سواء كان بسبب التفرد أو المخالفة.",
+        "choices": [
+            { "choice_text": "مخالفة الضعيف للثقة فقط", "is_correct": false },
+            { "choice_text": "استنكار الناقد لنوع من الخطأ في الرواية", "is_correct": true },
+            { "choice_text": "كل حديث إسناده ضعيف", "is_correct": false },
+            { "choice_text": "ما رواه المجهول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي دائرة من دوائر القرائن تجعل الحكم بالنكارة قطعياً عند اجتماعها بالباقي؟",
+        "difficulty_score": 600,
+        "explanation": "إذا جاءت القرينة في الإسناد (مثل التفرد عن إمام مشهور) كان الحكم أقوى ولا تردد فيه.",
+        "choices": [
+            { "choice_text": "قرينة المتن", "is_correct": false },
+            { "choice_text": "قرينة الراوي", "is_correct": false },
+            { "choice_text": "قرينة الإسناد", "is_correct": true },
+            { "choice_text": "قرينة العلو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر تفرد محمد بن إسحاق بحديث 'نضح المذي' محل نظر عند الإمام أحمد؟",
+        "difficulty_score": 800,
+        "explanation": "لأنه متن يؤسس لحكم من أصول الأحكام، وتفرد به راوٍ في مرتبة الصدوق (ابن إسحاق)، مما يتطلب قرائن أقوى.",
+        "choices": [
+            { "choice_text": "لأن ابن إسحاق كذاب", "is_correct": false },
+            { "choice_text": "لأن المتن فيه قصة تاريخية", "is_correct": false },
+            { "choice_text": "لأن الحديث يؤسس حكماً من أصول الأحكام", "is_correct": true },
+            { "choice_text": "لأن الإسناد منقطع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في مقدمة صحيحه، استنكر الإمام مسلم التفرد عن من؟",
+        "difficulty_score": 500,
+        "explanation": "استنكر التفرد عن الأئمة الذين حديثهم 'عام مشترك' كالزهري وهشام بن عروة.",
+        "choices": [
+            { "choice_text": "الرواة المجهولين", "is_correct": false },
+            { "choice_text": "الأئمة الجبال كالزهري", "is_correct": true },
+            { "choice_text": "رواة الأقاليم البعيدة", "is_correct": false },
+            { "choice_text": "الثقات الحفاظ", "is_correct": false }
+        ]
+    },
+    { "question_text": "ما هو وصف 'السلاسل المذهبة' في سياق التفرد؟",
+    "difficulty_score": 600,
+    "explanation": "هي الأسانيد المشهورة جداً، والخطأ فيها أو التفرد عنها يُكتشف بسهولة ويُعد منكراً.",
+    "choices": [
+        { "choice_text": "أسانيد ضعيفة جداً", "is_correct": false },
+        { "choice_text": "أسانيد مشهورة وقوية (مثل مالك عن نافع)", "is_correct": true },
+        { "choice_text": "أسانيد فارسية", "is_correct": false },
+        { "choice_text": "أسانيد منقطعة", "is_correct": false }
+    ]
+    },
+    {
+        "question_text": "أي طبقة من الرواة يقل فيها جداً وجود تفرد بحديث أو حديثين؟",
+        "difficulty_score": 700,
+        "explanation": "طبقة الحفاظ الأثبات الجبال، فتجدهم يروون مئات الآلاف من الأحاديث ولا يكادون ينفردون إلا بالنادر.",
+        "choices": [
+            { "choice_text": "الصدوقين", "is_correct": false },
+            { "choice_text": "الحفاظ الأثبات (كشوامخ الجبال)", "is_correct": true },
+            { "choice_text": "الشيوخ", "is_correct": false },
+            { "choice_text": "الضعفاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الراوي الذي يقع في مرتبة 'الشيوخ' وفق تعريف الناظم؟",
+        "difficulty_score": 500,
+        "explanation": "هو الذي وُصف حاله بـ 'لا بأس به' أو كان مختلفاً فيه، ولم يبلغ رتبة التوثيق التام.",
+        "choices": [
+            { "choice_text": "الحافظ الثبت", "is_correct": false },
+            { "choice_text": "من قيل فيه 'لا بأس به' أو مختلف فيه", "is_correct": true },
+            { "choice_text": "الكذاب المشهور", "is_correct": false },
+            { "choice_text": "الصحابي الجليل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما أثر تأخر الزمان على نكارة الحديث المنقول؟",
+        "difficulty_score": 600,
+        "explanation": "كلما تأخر الزمان، زادت نكارة التفرد؛ لصعوبة فوات الحديث على جملة الفحول في العصور المتأخرة.",
+        "choices": [
+            { "choice_text": "يصبح التفرد مقبولاً أكثر", "is_correct": false },
+            { "choice_text": "يؤكد نكارة المنقول", "is_correct": true },
+            { "choice_text": "لا أثر للزمان على الحكم", "is_correct": false },
+            { "choice_text": "يصبح الحديث متواتراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إذا كان المتن يضم 'قصة'، فما حكم التفرد به عند النقاد؟",
+        "difficulty_score": 400,
+        "explanation": "التفرد في القصص أمره سهل ومقبول غالباً، بخلاف الأحكام الكلية.",
+        "choices": [
+            { "choice_text": "يُرد فوراً", "is_correct": false },
+            { "choice_text": "أمره سهل ويُحتمل", "is_correct": true },
+            { "choice_text": "يُعد موضوعاً", "is_correct": false },
+            { "choice_text": "يجب أن يرويه عشرة من الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي قرينة 'المعرفة الخاصة بالشيخ'؟",
+        "difficulty_score": 700,
+        "explanation": "هي أن يكون الراوي عالماً بحديث شيخه، متقناً لما روى عنه بسبب طول الملازمة.",
+        "choices": [
+            { "choice_text": "أن يكون من نفس بلده فقط", "is_correct": false },
+            { "choice_text": "طول الملازمة والضبط لحديث الشيخ", "is_correct": true },
+            { "choice_text": "أن يروي عنه حديثاً واحداً", "is_correct": false },
+            { "choice_text": "أن يكون تلميذه في سن متأخرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى الحديث الذي تفرد به 'علقمة بن وقاص' عن عمر بن الخطاب؟",
+        "difficulty_score": 300,
+        "explanation": "حديث 'إنما الأعمال بالنيات' هو فرد في طبقته الأولى (علقمة عن عمر).",
+        "choices": [
+            { "choice_text": "مشهور في كل طبقاته", "is_correct": false },
+            { "choice_text": "حديث فرد (غريب)", "is_correct": true },
+            { "choice_text": "حديث منكر", "is_correct": false },
+            { "choice_text": "حديث موضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بقول الناظم 'فكتبهم ضرورة تراجع'؟",
+        "difficulty_score": 100,
+        "explanation": "يقصد ضرورة الرجوع لكتب المتقدمين لفهم منهجهم وتطبيقاتهم العملية.",
+        "choices": [
+            { "choice_text": "أنها كتب غير متوفرة", "is_correct": false },
+            { "choice_text": "أن الرجوع إليها ضروري للفهم الصحيح", "is_correct": true },
+            { "choice_text": "أنها كتب مليئة بالأخطاء", "is_correct": false },
+            { "choice_text": "أنها للمطالعة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الرواة وُصف بأنه 'شامخ الجبل' في الحفظ؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر مالك والثوري وشعبة كأمثلة للحفاظ الجبال.",
+        "choices": [
+            { "choice_text": "محمد بن إسحاق", "is_correct": false },
+            { "choice_text": "سفيان الثوري", "is_correct": true },
+            { "choice_text": "عثمان بن أبي شيبة", "is_correct": false },
+            { "choice_text": "أبو سلمة التبوذكي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'لب الكلام بالمثال يفصح'؟",
+        "difficulty_score": 100,
+        "explanation": "أن المقصود من الكلام يتضح بذكر الأمثلة التطبيقية.",
+        "choices": [
+            { "choice_text": "أن المثال يعقد المسألة", "is_correct": false },
+            { "choice_text": "أن المثال يوضح جوهر الكلام", "is_correct": true },
+            { "choice_text": "أن الكلام لا يحتاج لمثال", "is_correct": false },
+            { "choice_text": "أن الأمثلة للمبتدئين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما حكم تفرد الراوي 'الوسط' الذي يظهر عليه الوهم؟",
+        "difficulty_score": 500,
+        "explanation": "تفرده يكون مدعاة للإنكار والنظر في حديثه.",
+        "choices": [
+            { "choice_text": "يُقبل مطلقاً", "is_correct": false },
+            { "choice_text": "يكون مظنة للتردد والإنكار", "is_correct": true },
+            { "choice_text": "يُعد حديثاً صحيحاً", "is_correct": false },
+            { "choice_text": "يُرفع إلى درجة المتواتر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين ذكر الإمام مسلم نكارة التفرد عن الأئمة المشاهير؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر ذلك في مقدمة كتابه 'الصحيح'.",
+        "choices": [
+            { "choice_text": "في كتاب الإيمان", "is_correct": false },
+            { "choice_text": "في مقدمة الصحيح", "is_correct": true },
+            { "choice_text": "في كتاب العلل", "is_correct": false },
+            { "choice_text": "في رسالته لأهل مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة قول الناقد 'فلان لا يُحكم له'؟",
+        "difficulty_score": 800,
+        "explanation": "تدل على أن هذا الراوي لا يُحتمل تفرده بالأصول والأحكام، وإن كان صدوقاً.",
+        "choices": [
+            { "choice_text": "أنه كذاب", "is_correct": false },
+            { "choice_text": "أن تفرده بالأصول غير مقبول", "is_correct": true },
+            { "choice_text": "أنه لم يسمع من شيخه", "is_correct": false },
+            { "choice_text": "أنه أفضل الرواة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد الذهبي بـ 'اليقظ الثقة المتوسط المعرفة والطلب'؟",
+        "difficulty_score": 600,
+        "explanation": "يقصد عموم الثقات الذين خرج لهم الشيخان، والذين لم يبلغوا رتبة الأئمة الكبار.",
+        "choices": [
+            { "choice_text": "الضعفاء", "is_correct": false },
+            { "choice_text": "جمهور رجال الصحيحين", "is_correct": true },
+            { "choice_text": "أصحاب الأوهام الكبيرة", "is_correct": false },
+            { "choice_text": "الصحابة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يسهل استخراج الخطأ من الحديث 'متعدد الطرق'؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب إمكانية المقارنة والموازنة بين الروايات المختلفة لكشف الشذوذ.",
+        "choices": [
+            { "choice_text": "لقلة عدد الرواة", "is_correct": false },
+            { "choice_text": "لوجود أصل للمقارنة والمتابعة", "is_correct": true },
+            { "choice_text": "لأن طرقه كلها ضعيفة", "is_correct": false },
+            { "choice_text": "لأنه حديث مشهور", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القرينة 'المتنية' التي تزيد من صعوبة قبول التفرد؟",
+        "difficulty_score": 700,
+        "explanation": "أن يتضمن الحديث حكماً من أصول الأحكام لم يروه غيره.",
+        "choices": [
+            { "choice_text": "أن يكون في فضائل الأعمال", "is_correct": false },
+            { "choice_text": "أن يؤسس حكماً في أصول الأحكام", "is_correct": true },
+            { "choice_text": "أن يكون في السيرة النبوية", "is_correct": false },
+            { "choice_text": "أن يكون قصيراً جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مذهب 'كثير من المتأخرين' في تسمية مخالفة الثقة لمن هو أوثق منه؟",
+        "difficulty_score": 400,
+        "explanation": "يسمونها 'شاذّاً'.",
+        "choices": [
+            { "choice_text": "منكراً", "is_correct": false },
+            { "choice_text": "شاذّاً", "is_correct": true },
+            { "choice_text": "مدرجاً", "is_correct": false },
+            { "choice_text": "صحيحاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "يقول الناظم: (من حاله لا بأس أو مختلف، فحكمه في نقله يختلف)، يقصد بذلك:",
+        "difficulty_score": 500,
+        "explanation": "يقصد طبقة الشيوخ الذين يُنظر في كل حديث من أفرادهم على حدة.",
+        "choices": [
+            { "choice_text": "أنهم مقبولون دائماً", "is_correct": false },
+            { "choice_text": "أن تفردهم محل فحص واختلاف", "is_correct": true },
+            { "choice_text": "أنهم ضعفاء لا يُعتبر بهم", "is_correct": false },
+            { "choice_text": "أنهم أئمة جبال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي 'يؤكد نكارة الملقول' في طبقات الرواة المتأخرة؟",
+        "difficulty_score": 900,
+        "explanation": "تأخر التفرد عن زمن التابعين وأتباعهم، حيث انتشرت الرواية وصار من المستبعد انفراد واحد بحديث مشهور.",
+        "choices": [
+            { "choice_text": "قرب العهد من النبي", "is_correct": false },
+            { "choice_text": "تأخر التفرد عن طبقة التابعين", "is_correct": true },
+            { "choice_text": "كثرة الطرق", "is_correct": false },
+            { "choice_text": "عدالة الراوي المطلقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا وصف الإمام أحمد حديث 'نضح المذي' لابن إسحاق بأنه 'أرجو أن يجزئه'؟",
+        "difficulty_score": 800,
+        "explanation": "هذا تعبير يدل على ميله للقبول مع وجود نوع من التردد بسبب تفرد ابن إسحاق.",
+        "choices": [
+            { "choice_text": "لأنه جازم بصحته", "is_correct": false },
+            { "choice_text": "دليل على التردد والميل للقبول", "is_correct": true },
+            { "choice_text": "لأنه يراه حديثاً موضوعاً", "is_correct": false },
+            { "choice_text": "لأنه يعارض القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'تظافروا' في قول الناظم: (أو كان عمن صحبه تواتروا.. أو تظافروا)؟",
+        "difficulty_score": 200,
+        "explanation": "تعني تعاونوا أو اجتمعوا على نقل الحديث.",
+        "choices": [
+            { "choice_text": "تفرقوا", "is_correct": false },
+            { "choice_text": "اجتمعوا وتعاونوا", "is_correct": true },
+            { "choice_text": "كذبوا", "is_correct": false },
+            { "choice_text": "نسوا الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الفحول' الذين أشار إليهم الناظم في سياق التفرد؟",
+        "difficulty_score": 400,
+        "explanation": "هم كبار الأئمة الحفاظ الذين لا يفوتهم الحديث المشهور غالباً.",
+        "choices": [
+            { "choice_text": "الرواة الضعفاء", "is_correct": false },
+            { "choice_text": "الأئمة الحفاظ الكبار", "is_correct": true },
+            { "choice_text": "طلاب العلم المبتدئين", "is_correct": false },
+            { "choice_text": "القضاة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أصل 'تفرد الثقات' في الحكم الحديثي؟",
+        "difficulty_score": 100,
+        "explanation": "الأصل هو القبول ما لم تتبين علة أو قرينة للرد.",
+        "choices": [
+            { "choice_text": "الرد", "is_correct": false },
+            { "choice_text": "القبول", "is_correct": true },
+            { "choice_text": "التوقف", "is_correct": false },
+            { "choice_text": "التحريم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة 'مخالفة الثقة لمن هو أوثق منه' عند المتقدمين غالباً؟",
+        "difficulty_score": 600,
+        "explanation": "يسمون هذا التفرد المخالف 'منكراً' ولا يلتزمون دائماً بمصطلح 'الشاذ'.",
+        "choices": [
+            { "choice_text": "يسمونه صحيحاً", "is_correct": false },
+            { "choice_text": "يطلقون عليه نكارة", "is_correct": true },
+            { "choice_text": "يعدونه متواتراً", "is_correct": false },
+            { "choice_text": "يقبلونه فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الخيارات يمثل 'قرينة متعلقة بالإسناد'؟",
+        "difficulty_score": 500,
+        "explanation": "كون الإسناد من 'السلاسل الذهبية' هو قرينة إسنادية قوية.",
+        "choices": [
+            { "choice_text": "غرابة المتن", "is_correct": false },
+            { "choice_text": "كون الإسناد سلسلة ذهبية", "is_correct": true },
+            { "choice_text": "ضبط الراوي", "is_correct": false },
+            { "choice_text": "سياق القصة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، لماذا يُعد تفرد 'هشيم وحفص بن غياث' منكراً عند بعض الحفاظ؟",
+        "difficulty_score": 700,
+        "explanation": "لأنهم من طبقة 'الشيوخ الوسط' الذين قد لا يُحتمل تفردهم في بعض المواضع.",
+        "choices": [
+            { "choice_text": "لأنهم كذابون", "is_correct": false },
+            { "choice_text": "لأنهم من طبقة الوسط الذين قد يُنكر تفردهم", "is_correct": true },
+            { "choice_text": "لأن أحاديثهم كلها موضوعة", "is_correct": false },
+            { "choice_text": "لأنهم لم يدركوا الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو سبيل 'البيان الشافي للمقتدي' في علم التفرد؟",
+        "difficulty_score": 300,
+        "explanation": "هو تنوع الأحكام في الأفراد بناءً على صناعة النقاد الدقيقة.",
+        "choices": [
+            { "choice_text": "حفظ قاعدة واحدة وتطبيقها", "is_correct": false },
+            { "choice_text": "فهم تنوع أحكام النقاد في الأفراد", "is_correct": true },
+            { "choice_text": "ترك دراسة التفرد", "is_correct": false },
+            { "choice_text": "الاكتفاء بكتب المتأخرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي إمام قال عن حديث ابن عمر 'حسن' وهو في أعلى درجات الصحة؟",
+        "difficulty_score": 500,
+        "explanation": "هو الإمام البخاري في سياق حديث استدبار الكعبة.",
+        "choices": [
+            { "choice_text": "أبو داود", "is_correct": false },
+            { "choice_text": "البخاري", "is_correct": true },
+            { "choice_text": "النسائي", "is_correct": false },
+            { "choice_text": "ابن ماجه", "is_correct": false }
+        ]
+    }
+]
+    }

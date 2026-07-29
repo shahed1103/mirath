@@ -1,0 +1,885 @@
+
+{
+    "chapter_id": 17,
+    "questions": [
+    {
+        "question_text": "ما هو التعريف الدقيق لـ 'الهم' كما ورد في تقسيمات ابن حجر؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر نقلاً عن ابن حجر أن الهم ينشأ عن الفكر فيما يتوقع حصوله في المستقبل.",
+        "choices": [
+            { "choice_text": "الحزن على ما فات في الماضي", "is_correct": false },
+            { "choice_text": "الفكر فيما يتوقع حصوله مما يتأذى به في المستقبل", "is_correct": true },
+            { "choice_text": "الغضب الناتج عن ضياع الحقوق", "is_correct": false },
+            { "choice_text": "الشعور بالتعب الجسدي الناتج عن العمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو 'الغم'؟",
+        "difficulty_score": 100,
+        "explanation": "الغم هو كرب يحدث للقلب بسبب أمر قد حصل فعلاً في الماضي.",
+        "choices": [
+            { "choice_text": "قلق من عدو قادم", "is_correct": false },
+            { "choice_text": "كرب يحدث للقلب بسبب ما حصل في الماضي", "is_correct": true },
+            { "choice_text": "التفكير في أعباء الرزق القادم", "is_correct": false },
+            { "choice_text": "الخوف من الفتن المستقبلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى كلمة 'حرضاً' في قوله تعالى {حتى تكون حرضاً} حسب تفسير البخاري المذكور؟",
+        "difficulty_score": 300,
+        "explanation": "نقل المصدر عن البخاري أن 'حرضاً' تعني 'يذيبك الهم'.",
+        "choices": [
+            { "choice_text": "شديد القوة", "is_correct": false },
+            { "choice_text": "تالفاً أو مشرفاً على الهلاك (يذيبك الهم)", "is_correct": true },
+            { "choice_text": "صابراً محتسباً", "is_correct": false },
+            { "choice_text": "عابداً منقطعاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي دائرة من دوائر الهم كانت 'الأقل تأثيراً' على نفسية النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المصدر أن دائرة الأعداء كانت أقل الدوائر تأثيراً وموجباً للهم بسبب اليقين والتوكل.",
+        "choices": [
+            { "choice_text": "دائرة الهم الاجتماعي (البيت)", "is_correct": false },
+            { "choice_text": "دائرة الأعداء", "is_correct": true },
+            { "choice_text": "دائرة أعباء الرسالة", "is_correct": false },
+            { "choice_text": "دائرة الهم الدعوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم أطراف 'العدو البعيد' في حياة النبي ﷺ كما صنفهم المجلس؟",
+        "difficulty_score": 200,
+        "explanation": "صنف المصدر الروم وفارس ومن والاهم كأعداء بعيدين.",
+        "choices": [
+            { "choice_text": "قريش والمنافقون", "is_correct": false },
+            { "choice_text": "اليهود في المدينة", "is_correct": false },
+            { "choice_text": "الروم وفارس والغساسنة", "is_correct": true },
+            { "choice_text": "قبائل هوازن وثقيف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الجزاء من جنس العمل' الذي نالته خديجة رضي الله عنها في الجنة؟",
+        "difficulty_score": 400,
+        "explanation": "لأنها جعلت بيتها في الدنيا بلا صخب ولا نصب للنبي ﷺ، جازاها الله ببيت في الجنة بنفس المواصفات.",
+        "choices": [
+            { "choice_text": "بيت من ذهب لأنها أنفقت مالها", "is_correct": false },
+            { "choice_text": "بيت لا صخب فيه ولا نصب", "is_correct": true },
+            { "choice_text": "الخلد مع النبي ﷺ في الفردوس", "is_correct": false },
+            { "choice_text": "رؤية الله عز وجل بكرة وعشياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر المصدر 'الخلطة ومعرفة هموم الناس' وسيلة علاجية؟",
+        "difficulty_score": 400,
+        "explanation": "لأنها تجعل الإنسان يكتشف أن هناك مراتب أعلى من الهموم، فيستصغر همه الشخصي.",
+        "choices": [
+            { "choice_text": "لأنها تشغل الوقت وتنسي الهم", "is_correct": false },
+            { "choice_text": "لأنها تفتح باب المساعدات المادية", "is_correct": false },
+            { "choice_text": "لأنها تضع الهم الشخصي في حجمه الطبيعي مقارنة بغيره", "is_correct": true },
+            { "choice_text": "لأنها تزيد من دائرة الأصدقاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الدائرة السابعة التي أضيفت لدوائر الهم في حياة النبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "الدائرة السابعة هي 'الهم الدعوي' المتعلق باستجابة الناس أو عدمها وخوف العذاب عليهم.",
+        "choices": [
+            { "choice_text": "دائرة الهم المادي", "is_correct": false },
+            { "choice_text": "دائرة الهم الدعوي (استجابة الناس)", "is_correct": true },
+            { "choice_text": "دائرة الهم الصحي", "is_correct": false },
+            { "choice_text": "دائرة الهم التاريخي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حادثة طرق الباب على عمر بن الخطاب، ما الذي كان يخشاه عمر؟",
+        "difficulty_score": 500,
+        "explanation": "كان يخشى مجيء الغساني (ملك غسان) للهجوم على المدينة، مما يوضح حجم القلق من الأعداء.",
+        "choices": [
+            { "choice_text": "موت أحد أقاربه", "is_correct": false },
+            { "choice_text": "مجيء الغساني (العدو الخارجي)", "is_correct": true },
+            { "choice_text": "خسارة تجارته", "is_correct": false },
+            { "choice_text": "غضب النبي ﷺ عليه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'الصيغة التعريفية' للنفس داخل البيت كما شرحها المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "هي الطريقة التي تتعامل بها النفس مع الأطراف القريبة جداً، حيث يكون الأثر النفسي فيها أعمق بكثير.",
+        "choices": [
+            { "choice_text": "كيفية تعريف الإنسان لنفسه أمام الغرباء", "is_correct": false },
+            { "choice_text": "طريقة تعامل النفس مع الأطراف التي تتماس معها داخلياً (البيت)", "is_correct": true },
+            { "choice_text": "اللقب الذي يشتهر به المصلح في قومه", "is_correct": false },
+            { "choice_text": "البطاقة الشخصية للمؤمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الركن' أو 'الملجأ' الذي استنكره المحاضر لعدم ذكره كثيراً في إجابات المشاركين؟",
+        "difficulty_score": 600,
+        "explanation": "لاحظ المحاضر أن الكثير ذكروا همومهم لكنهم لم يذكروا 'الملجأ' (مثل الصلاة، القرآن، التوكل) الذي يأوون إليه.",
+        "choices": [
+            { "choice_text": "المنزل الواسع", "is_correct": false },
+            { "choice_text": "الركن الذي يأوي إليه المؤمن عند الهم (الملجأ)", "is_correct": true },
+            { "choice_text": "المال والادخار", "is_correct": false },
+            { "choice_text": "السفر والسياحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم الاستدلال بموقف النبي ﷺ في الغار مع أبي بكر؟",
+        "difficulty_score": 400,
+        "explanation": "لإثبات أن اليقين بالله يدفع الهم، حيث كان النبي ﷺ مطمئناً رغم قرب العدو.",
+        "choices": [
+            { "choice_text": "لإظهار مهارة التخفي", "is_correct": false },
+            { "choice_text": "لإثبات أن اليقين بالله ومعيته يطرد الهم والقلق", "is_correct": true },
+            { "choice_text": "للتأكيد على أهمية الرفيق في السفر", "is_correct": false },
+            { "choice_text": "لشرح جغرافيا مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من عبارة 'أجاء الغساني؟ أعظم من ذلك: طلق النبي نساءه'؟",
+        "difficulty_score": 800,
+        "explanation": "نستنتج أن المشكلات الاجتماعية والداخلية قد تعتبر في نظر الصحابة أعظم أثراً من غزو جيش خارجي.",
+        "choices": [
+            { "choice_text": "أن الغساني كان ضعيفاً", "is_correct": false },
+            { "choice_text": "أن الهم الاجتماعي والأسري قد يفوق في ثقله التهديدات العسكرية", "is_correct": true },
+            { "choice_text": "أن عمر بن الخطاب لم يكن يحب الغساسنة", "is_correct": false },
+            { "choice_text": "أن الطلاق كان أمراً سهلاً في المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هي 'المعادلة الخاطئة' في تقييم حياة المصلحين؟",
+        "difficulty_score": 700,
+        "explanation": "المعادلة الخاطئة هي الظن بأن انشغال المصلح بالقضايا الكبرى يمنع تأثره بالمشكلات الصغيرة في البيت.",
+        "choices": [
+            { "choice_text": "أن المصلح لا يمرض أبداً", "is_correct": false },
+            { "choice_text": "الظن بأن الهموم الكبرى تجعل الإنسان لا يتأثر بمشكلات بيته 'الصغيرة'", "is_correct": true },
+            { "choice_text": "أن كثرة الأعداء تعني نجاح الداعية", "is_correct": false },
+            { "choice_text": "أن المال يحل كل الهموم الاجتماعية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من كثرة أنواع الهموم والأحداث التي مر بها النبي ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "ليتسع مجال الاقتداء والتأسي به لكل إنسان يمر بأي نوع من أنواع البلاء.",
+        "choices": [
+            { "choice_text": "ليثبت أنه أقوى إنسان في التاريخ", "is_correct": false },
+            { "choice_text": "ليتسع مجال الائتساء والاقتداء به في كافة الأحوال والأزمات", "is_correct": true },
+            { "choice_text": "لأن قريش كانت قوية جداً", "is_correct": false },
+            { "choice_text": "لأن المدينة كانت بيئة صعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر الذي تتركه 'سورة يوسف' في قلب المكروب؟",
+        "difficulty_score": 200,
+        "explanation": "تعتبر سورة يوسف مصدر أنس لأنها تعرض تحول الهموم العظيمة إلى ألطاف إلهية.",
+        "choices": [
+            { "choice_text": "تعلمه فنون الإدارة", "is_correct": false },
+            { "choice_text": "تؤنسه بأن الهم العظيم يعقبه فرج ولطف خفي", "is_correct": true },
+            { "choice_text": "تشرح له تاريخ مصر القديم", "is_correct": false },
+            { "choice_text": "تساعده على تفسير الأحلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الخيارات التالية يمثل 'دائرة أعباء الرسالة'؟",
+        "difficulty_score": 300,
+        "explanation": "أعباء الرسالة مرتبطة بالقول الثقيل والمسؤولية العظمى الملقاة على عاتق النبي ﷺ.",
+        "choices": [
+            { "choice_text": "الخوف من الفقر", "is_correct": false },
+            { "choice_text": "المسؤولية المرتبطة بالقول الثقيل {إنا سنلقي عليك قولاً ثقيلاً}", "is_correct": true },
+            { "choice_text": "التعامل مع المنافقين فقط", "is_correct": false },
+            { "choice_text": "البحث عن سكن بديل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'ما بعد الفاصلة' في التعامل مع أخطاء زوجات النبي ﷺ؟",
+        "difficulty_score": 900,
+        "explanation": "تعني النظر إلى الاستجابة والتوبة والاستقامة التي عقبت وقوع الخطأ، لا الوقوف عند الخطأ وحده.",
+        "choices": [
+            { "choice_text": "علامة ترقيم في القرآن", "is_correct": false },
+            { "choice_text": "مرحلة التوبة والاستقامة والرجوع إلى الله بعد وقوع الإشكال", "is_correct": true },
+            { "choice_text": "وقت الراحة بعد العمل", "is_correct": false },
+            { "choice_text": "نهاية السيرة النبوية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الزوجة التي لم تغر عائشة من أحد كما غارت من ذكر النبي ﷺ لها؟",
+        "difficulty_score": 200,
+        "explanation": "هي خديجة رضي الله عنها، بسبب كثرة ثناء النبي ﷺ عليها وبصمتها العميقة في حياته.",
+        "choices": [
+            { "choice_text": "سودة بنت زمعة", "is_correct": false },
+            { "choice_text": "خديجة بنت خويلد", "is_correct": true },
+            { "choice_text": "حفصة بنت عمر", "is_correct": false },
+            { "choice_text": "زينب بنت جحش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التصرف الذي قام به النبي ﷺ لامتصاص الضغط الناتج عن إشكال مع زوجاته؟",
+        "difficulty_score": 500,
+        "explanation": "قام باعتزال زوجاته لمدة شهر (حادثة الإيلاء) لتوضيح الطريق وحسم الخيارات.",
+        "choices": [
+            { "choice_text": "السفر إلى مكة", "is_correct": false },
+            { "choice_text": "الاعتزال لمدة شهر", "is_correct": true },
+            { "choice_text": "الصمت التام", "is_correct": false },
+            { "choice_text": "زيادة النفقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الهم العارض'؟",
+        "difficulty_score": 100,
+        "explanation": "هو الهم السريع الخفيف الذي يمر بالإنسان ولا يؤثر على ثباته أو استمراريته.",
+        "choices": [
+            { "choice_text": "الهم الذي يسبب المرض", "is_correct": false },
+            { "choice_text": "الهم السريع الخفيف والمؤقت", "is_correct": true },
+            { "choice_text": "الهم الناتج عن الديون", "is_correct": false },
+            { "choice_text": "الهم الذي يدوم لسنوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر قوله تعالى {لعلك باخع نفسك}؟",
+        "difficulty_score": 300,
+        "explanation": "فسرها بالحرص الشديد الذي يبلغ حد إهلاك النفس غماً وهماً على عدم إيمان الناس.",
+        "choices": [
+            { "choice_text": "لعلك مسافر بعيداً", "is_correct": false },
+            { "choice_text": "لعلك مهلك نفسك (من شدة الهم والحرص)", "is_correct": true },
+            { "choice_text": "لعلك بائع مالك", "is_correct": false },
+            { "choice_text": "لعلك نائم كثيراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، لماذا يعتبر 'حسن الظن بالله' مطبقاً عملياً في 'الهم' أكثر من 'الغم'؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الهم يتعلق بالمستقبل، وحسن الظن هو توقع الخير واللطف في هذا المستقبل.",
+        "choices": [
+            { "choice_text": "لأن الماضي لا يمكن تغييره", "is_correct": false },
+            { "choice_text": "لأن الهم يتعلق بالمستقبل الذي هو محل توقع اللطف الإلهي", "is_correct": true },
+            { "choice_text": "لأن الغم يحتاج إلى استغفار فقط", "is_correct": false },
+            { "choice_text": "لا يوجد فرق بينهما في حسن الظن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف الذي أطلقه المحاضر على ملف 'المنافقين' في دائرة الأعداء؟",
+        "difficulty_score": 400,
+        "explanation": "وصفه بأنه ملف ضخم وخطير، وقد استوعبت سورة التوبة جانباً كبيراً منه.",
+        "choices": [
+            { "choice_text": "ملف بسيط لا قيمة له", "is_correct": false },
+            { "choice_text": "ملف ضخم وخطير استوعبته سور مثل التوبة", "is_correct": true },
+            { "choice_text": "ملف انتهى بفتح مكة", "is_correct": false },
+            { "choice_text": "ملف خارجي من خارج المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'بشرى القصب' لخديجة رضي الله عنها؟",
+        "difficulty_score": 300,
+        "explanation": "القصب هو اللؤلؤ المجوف، وهو وصف لبيتها في الجنة.",
+        "choices": [
+            { "choice_text": "خيمة من سعف النخل", "is_correct": false },
+            { "choice_text": "بيت من اللؤلؤ المجوف", "is_correct": true },
+            { "choice_text": "قصر من الزمرد", "is_correct": false },
+            { "choice_text": "غرف من الفضة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في دائرة الأعداء، من هم 'الأعداء في الداخل'؟",
+        "difficulty_score": 200,
+        "explanation": "المنافقون هم العدو الذي كان يعيش داخل المجتمع المسلم في المدينة.",
+        "choices": [
+            { "choice_text": "قريش", "is_correct": false },
+            { "choice_text": "المنافقون", "is_correct": true },
+            { "choice_text": "الروم", "is_correct": false },
+            { "choice_text": "فارس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الهم المقعد'؟",
+        "difficulty_score": 500,
+        "explanation": "هو الهم الذي يؤثر على الصحة، الثبات، العطاء، والقدرة على الاستمرار.",
+        "choices": [
+            { "choice_text": "الهم الذي يجعلك تجلس كثيراً", "is_correct": false },
+            { "choice_text": "الهم الذي يؤثر على الصحة والثبات والاستمرارية", "is_correct": true },
+            { "choice_text": "الهم الذي يزول بعد يوم واحد", "is_correct": false },
+            { "choice_text": "الهم الذي يصيب كبار السن فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الصديق' أو 'الزوجة الصالحة' في تخفيف الهم حسب نموذج خديجة؟",
+        "difficulty_score": 400,
+        "explanation": "خديجة كانت تمثل السكن والسكينة النفسية التي تمتص الهموم الخارجية للمصلح.",
+        "choices": [
+            { "choice_text": "توفير المال فقط", "is_correct": false },
+            { "choice_text": "تمثيل السكن والسكينة النفسية وامتصاص الهموم", "is_correct": true },
+            { "choice_text": "المشاركة في الحروب", "is_correct": false },
+            { "choice_text": "السكوت الدائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي 'لفقدان خديجة' على النبي ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "ترك فقدانها فراغاً كبيراً، لدرجة أن ذكراها ظلت حاضرة بقوة وتسببت في غيرة عائشة رضي الله عنها.",
+        "choices": [
+            { "choice_text": "نسيها بعد زواجه من غيرها", "is_correct": false },
+            { "choice_text": "ظلت ذكراها حاضرة وبصمتها باقية في نفسه", "is_correct": true },
+            { "choice_text": "لم يتأثر كثيراً لانشغاله بالدعوة", "is_correct": false },
+            { "choice_text": "كان يرفض ذكر اسمها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان النبي ﷺ 'يتخوف' من الأعداء (مثل الغساسنة) رغم يقينه؟",
+        "difficulty_score": 500,
+        "explanation": "هذا التخوف هو تخوف بشري طبيعي يدفع لاتخاذ الأسباب ولا ينافي كمال التوكل.",
+        "choices": [
+            { "choice_text": "لأنه لم يكن يثق بالله", "is_correct": false },
+            { "choice_text": "لأنه تخوف بشري طبيعي يدفع لاتخاذ الأسباب", "is_correct": true },
+            { "choice_text": "لأن الصحابة كانوا جبناء", "is_correct": false },
+            { "choice_text": "لأن العدو كان يملك سلاحاً نووياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'دائرة ثبات الأصحاب ومستقبل الدعوة'؟",
+        "difficulty_score": 400,
+        "explanation": "تتعلق بالهم المرتبط باستمرارية الدين وثبات الجيل الأول من الصحابة.",
+        "choices": [
+            { "choice_text": "هم يتعلق بجمع المال للدعوة", "is_correct": false },
+            { "choice_text": "هم يتعلق بثبات الأصحاب واستمرار الرسالة بعد النبي ﷺ", "is_correct": true },
+            { "choice_text": "هم يتعلق ببناء المسجد", "is_correct": false },
+            { "choice_text": "هم يتعلق بكثرة عدد الداخلين في الإسلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان النبي ﷺ يواجه الهم الناتج عن 'كلام الناس' وتشكيكهم؟",
+        "difficulty_score": 500,
+        "explanation": "كان يواجهه بالصبر واللجوء إلى الله، مع العلم أن هذا الهم كان حاضراً بقوة في 'دائرة الأعداء'.",
+        "choices": [
+            { "choice_text": "بالرد عليهم بنفس أسلوبهم", "is_correct": false },
+            { "choice_text": "بالصبر واليقين واللجوء إلى معية الله", "is_correct": true },
+            { "choice_text": "بالاعتزال التام عن الناس", "is_correct": false },
+            { "choice_text": "بترك الدعوة مؤقتاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الرابط بين 'التفويض' و'اتخاذ الأسباب' في حادثة الغار؟",
+        "difficulty_score": 800,
+        "explanation": "النبي ﷺ اتخذ كل الأسباب (الاختباء، الدليل، الطريق الوعر)، ثم فوض الأمر لله تماماً عند انقطاع الأسباب المادية.",
+        "choices": [
+            { "choice_text": "التفويض يعني ترك الأسباب", "is_correct": false },
+            { "choice_text": "التفويض يأتي بعد استنفاد الأسباب المادية الممكنة", "is_correct": true },
+            { "choice_text": "الأسباب أهم من التفويض", "is_correct": false },
+            { "choice_text": "لا علاقة بينهما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من 'تغير وجه النبي ﷺ' عند رؤية قوم مضر الجياع؟",
+        "difficulty_score": 400,
+        "explanation": "نستنتج شدة رحمته وتأثره بهوم الآخرين (دائرة الأصحاب والمحيطين).",
+        "choices": [
+            { "choice_text": "أنه كان غاضباً منهم", "is_correct": false },
+            { "choice_text": "شدة تأثره برؤية الفاقة والحاجة في أتباعه", "is_correct": true },
+            { "choice_text": "أنه كان مريضاً ذلك اليوم", "is_correct": false },
+            { "choice_text": "عدم رضاه عن لباسهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'بصمة السكينة' التي ميزت خديجة عن غيرها في حياة النبي ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "هي قدرتها الفائقة على توفير جو من الهدوء النفسي التام للنبي ﷺ في أصعب لحظات الدعوة.",
+        "choices": [
+            { "choice_text": "جمالها الخارجي", "is_correct": false },
+            { "choice_text": "قدرتها على توفير السكينة النفسية التامة للمصلح", "is_correct": true },
+            { "choice_text": "كثرة أبنائها", "is_correct": false },
+            { "choice_text": "مهارتها في التجارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، لماذا قد يكون 'أذى الصديق' أشد من 'أذى العدو'؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الصديق مؤتمن الجانب، فالإيذاء منه غير متوقع ويمس 'الصيغة التعريفية' العميقة للنفس.",
+        "choices": [
+            { "choice_text": "لأن الصديق أقوى جسدياً", "is_correct": false },
+            { "choice_text": "لأن الإيذاء منه غير متوقع ويمس السكن النفسي", "is_correct": true },
+            { "choice_text": "لأن العدو دائماً أضعف", "is_correct": false },
+            { "choice_text": "لأن الصديق يملك أسراراً مادية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الهم الإصلحي'؟",
+        "difficulty_score": 300,
+        "explanation": "هو الهم الناتج عن الرغبة في هداية الناس وإنقاذهم من الهلاك.",
+        "choices": [
+            { "choice_text": "هم يتعلق بإصلاح المنزل", "is_correct": false },
+            { "choice_text": "هم يتعلق بهداية الناس وخوف العذاب عليهم", "is_correct": true },
+            { "choice_text": "هم يتعلق بإصلاح السفن", "is_correct": false },
+            { "choice_text": "هم يتعلق بتعديل السلوك الشخصي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يؤثر 'الهم الاجتماعي' (داخل البيت) على 'عطاء المصلح'؟",
+        "difficulty_score": 800,
+        "explanation": "إذا اضطرب البيت (محل السكن)، تضعف القوة النفسية للمصلح ويقل عطاؤه الخارجي.",
+        "choices": [
+            { "choice_text": "يزيد من عطائه هرباً من البيت", "is_correct": false },
+            { "choice_text": "يضعف القوة النفسية ويؤثر سلباً على جودة واستمرارية العطاء", "is_correct": true },
+            { "choice_text": "لا يؤثر إطلاقاً", "is_correct": false },
+            { "choice_text": "يجعله أكثر شهرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من 'بشرى جبريل' لخديجة بالسلام من ربها؟",
+        "difficulty_score": 400,
+        "explanation": "تقدير إلهي استثنائي لدورها التاريخي في تثبيت النبي ﷺ في بداية الوحي.",
+        "choices": [
+            { "choice_text": "لأنها كانت تحب السلام", "is_correct": false },
+            { "choice_text": "تقديراً لدورها العظيم في تثبيت السكن النفسي للنبي ﷺ", "is_correct": true },
+            { "choice_text": "لأنها كانت تملك مالاً كثيراً", "is_correct": false },
+            { "choice_text": "لأنها أول من هاجرت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف النبي ﷺ من 'غيرة' عائشة من خديجة؟",
+        "difficulty_score": 500,
+        "explanation": "كان يدافع عن ذكرها ويبين فضلها، مؤكداً أن حبها كان رزقاً من الله.",
+        "choices": [
+            { "choice_text": "كان يغضب ويهجر عائشة", "is_correct": false },
+            { "choice_text": "كان يدافع عن ذكر خديجة ويبين فضلها ورزق حبها", "is_correct": true },
+            { "choice_text": "كان يتجاهل كلام عائشة", "is_correct": false },
+            { "choice_text": "كان يعتذر لعائشة عن ذكرها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'أذى الصديق' في التحليل النفسي أشد فتكاً من أذى العدو؟ [1]",
+        "difficulty_score": 700,
+        "explanation": "لأن الصديق يُؤمن جانبه، فالأذى منه غير متوقع ويمس شعوراً داخلياً عميقاً، بخلاف العدو الذي يتوقع منه الأذى أصلاً.",
+        "choices": [
+            { "choice_text": "لأن الصديق يملك معلومات سرية خطيرة", "is_correct": false },
+            { "choice_text": "لأن الأذى من جهة الأمان يكون وقعه النفسي أعمق وغير متوقع", "is_correct": true },
+            { "choice_text": "لأن الأعداء دائماً أضعف جسدياً من الأصدقاء", "is_correct": false },
+            { "choice_text": "لأن الصديق يطالب بحقوق مالية أكبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'المعادلة الخاطئة' التي يقع فيها الناس عند تقييم هموم المصلحين؟ [57، 60]",
+        "difficulty_score": 600,
+        "explanation": "يظن البعض أن انشغال المصلح بقضايا الأمة الكبرى يجعله لا يتأثر بمشكلات بيته 'الصغيرة'، وهو تصور خاطئ لأن البيت هو محل السكن النفسي.",
+        "choices": [
+            { "choice_text": "أن المصلح لا يملك وقتاً للراحة", "is_correct": false },
+            { "choice_text": "الظن بأن الهموم العظيمة تمنع التأثر بالمشكلات الأسرية 'الصغيرة'", "is_correct": true },
+            { "choice_text": "أن المصلح يجب أن يكون غنياً دائماً", "is_correct": false },
+            { "choice_text": "أن كثرة الأتباع تنهي الهموم الشخصية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الجزاء من جنس العمل' الذي نالته خديجة رضي الله عنها في الجنة؟ [63، 64]",
+        "difficulty_score": 400,
+        "explanation": "لأنها جعلت بيت النبي ﷺ في الدنيا خالياً من الصخب والنصب بدعمها، جازاها الله ببيت في الجنة لا صخب فيه ولا نصب.",
+        "choices": [
+            { "choice_text": "بيت من الذهب لأنها أنفقت مالها", "is_correct": false },
+            { "choice_text": "بيت لا صخب فيه ولا نصب", "is_correct": true },
+            { "choice_text": "قصر كبير لأنها كانت سيدة في قومها", "is_correct": false },
+            { "choice_text": "خدم كثيرون لأنها كانت تخدم النبي ﷺ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'ما بعد الفاصلة' في سياق أخطاء زوجات النبي ﷺ؟ [73، 74]",
+        "difficulty_score": 900,
+        "explanation": "التحليل يدعو لعدم الوقوف عند الخطأ (الغيرة مثلاً)، بل النظر للاستجابة والتوبة والاستقامة التي تبعت ذلك الفعل.",
+        "choices": [
+            { "choice_text": "نهاية الآيات القرآنية فقط", "is_correct": false },
+            { "choice_text": "مرحلة التوبة والرجوع والاستقامة بعد وقوع الإشكال", "is_correct": true },
+            { "choice_text": "الراحة التي تعقب العمل الشاق", "is_correct": false },
+            { "choice_text": "وفاة زوجات النبي ﷺ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حادثة 'قوم مُضر'، لماذا تغير وجه النبي ﷺ؟ [39، 40]",
+        "difficulty_score": 300,
+        "explanation": "بسبب ما رأى بهم من الفاقة والحاجة الشديدة، وهذا يمثل 'دائرة الهم على الأصحاب'.",
+        "choices": [
+            { "choice_text": "لأنهم تأخروا عن الصلاة", "is_correct": false },
+            { "choice_text": "بسبب رؤية فقرهم وحاجتهم الشديدة (الفاقة)", "is_correct": true },
+            { "choice_text": "لأنهم رفضوا دخول الإسلام", "is_correct": false },
+            { "choice_text": "بسبب كثرة عددهم وتخوفه منهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق بين 'الهم العارض' و'الهم المقعد'؟ [4، 6]",
+        "difficulty_score": 500,
+        "explanation": "العارض سريع وخفيف لا يضر، أما المقعد فهو الذي يؤثر على الصحة والثبات والاستمرارية والعطاء.",
+        "choices": [
+            { "choice_text": "العارض دائم والمقعد مؤقت", "is_correct": false },
+            { "choice_text": "المقعد يؤثر على الثبات والعطاء بينما العارض خفيف يمر سريعاً", "is_correct": true },
+            { "choice_text": "لا فرق بينهما في التأثير النفسي", "is_correct": false },
+            { "choice_text": "العارض جسدي والمقعد نفسي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تُعتبر سورة 'يوسف' مصدراً للأنس للمهموم؟ [2]",
+        "difficulty_score": 200,
+        "explanation": "لأنها تعرض قصة تحول الهموم العظيمة والابتلاءات إلى ألطاف إلهية خفية وفرج.",
+        "choices": [
+            { "choice_text": "لأنها تحتوي على قصص كثيرة عن المال", "is_correct": false },
+            { "choice_text": "لأنها تؤنس المهموم بتحول البلاء إلى ألطاف إلهية", "is_correct": true },
+            { "choice_text": "لأنها سورة قصيرة سهلة الحفظ", "is_correct": false },
+            { "choice_text": "لأنها تتحدث عن جمال يوسف عليه السلام فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الملجأ' أو 'الركن' الذي انتقد المحاضر غيابه في إجابات المشاركين؟ [14، 16]",
+        "difficulty_score": 600,
+        "explanation": "لاحظ أن الناس يصفون همومهم بدقة، لكنهم يغفلون عن ذكر 'الركن' الذي يأوون إليه (كالصلاة، التوكل، القرآن).",
+        "choices": [
+            { "choice_text": "المنزل الواسع والآمن", "is_correct": false },
+            { "choice_text": "الركن النفسي والإيماني الذي يُفزع إليه عند الهم", "is_correct": true },
+            { "choice_text": "الهروب من المشكلات بالهوايات", "is_correct": false },
+            { "choice_text": "المال المدخر للأزمات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يساهم 'حسن الظن بالله' في دفع الهم المستقبلي؟ [18، 19]",
+        "difficulty_score": 700,
+        "explanation": "بما أن الهم قلق من أمر 'سيحدث'، فإن حسن الظن بالله هو توقع اللطف والخير في ذلك القادم.",
+        "choices": [
+            { "choice_text": "بمحو ذنوب الماضي تماماً", "is_correct": false },
+            { "choice_text": "بتوقع اللطف الإلهي فيما هو قادم (محل الهم)", "is_correct": true },
+            { "choice_text": "بزيادة الرزق المادي فوراً", "is_correct": false },
+            { "choice_text": "بجعلك تنسى همومك السابقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'بشرى القصب' في حديث خديجة رضي الله عنها؟ [3]",
+        "difficulty_score": 300,
+        "explanation": "القصب في الحديث هو اللؤلؤ المجوف، وهو وصف لبيتها في الجنة.",
+        "choices": [
+            { "choice_text": "بيت من ذهب وفضة", "is_correct": false },
+            { "choice_text": "بيت من اللؤلؤ المجوف", "is_correct": true },
+            { "choice_text": "بيت من سعف النخل المبارك", "is_correct": false },
+            { "choice_text": "بيت من الزمرد الأخضر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي دائرة تتعلق بالهم الناتج عن 'إنا سنلقي عليك قولاً ثقيلاً'؟ [4]",
+        "difficulty_score": 400,
+        "explanation": "هذه هي الدائرة الرابعة: دائرة أعباء الرسالة والمسؤولية العظمى.",
+        "choices": [
+            { "choice_text": "دائرة الأعداء", "is_correct": false },
+            { "choice_text": "دائرة أعباء الرسالة", "is_correct": true },
+            { "choice_text": "دائرة الهم الاجتماعي", "is_correct": false },
+            { "choice_text": "دائرة الهم الدعوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الهم الإصلحي' أو الدعوي؟ [31، 47]",
+        "difficulty_score": 300,
+        "explanation": "هو الهم المتعلق بهداية الناس وخوف العذاب عليهم وحرص المصلح على إنقاذهم.",
+        "choices": [
+            { "choice_text": "هم إصلاح المعيشة والرزق", "is_correct": false },
+            { "choice_text": "هم هداية الناس واستجابتهم وخوف الهلاك عليهم", "is_correct": true },
+            { "choice_text": "هم إصلاح العلاقات المتوترة مع الأعداء", "is_correct": false },
+            { "choice_text": "هم إصلاح الصحة النفسية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان النبي ﷺ يستخدم 'الاعتزال' أو 'التخيير' مع زوجاته؟ [70، 75، 77]",
+        "difficulty_score": 800,
+        "explanation": "كأساليب عملية للتعامل مع الهم الاجتماعي (الداخل) لحسم الخيارات وتوضيح الطريق وتقليل الضغط النفسي.",
+        "choices": [
+            { "choice_text": "لأنه لم يكن يحبهن", "is_correct": false },
+            { "choice_text": "كأساليب لحسم الإشكالات وتوضيح منهج الحياة المستقرة", "is_correct": true },
+            { "choice_text": "للانشغال بالحروب فقط", "is_correct": false },
+            { "choice_text": "بسبب ضيق المسكن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي لـ 'الخلطة والسماع من الناس' على المهموم؟ [12، 13]",
+        "difficulty_score": 500,
+        "explanation": "تساعده على إدراك أن همه ليس الأسوأ، فيضعه في مرتبته الحقيقية بدلاً من تضخيمه.",
+        "choices": [
+            { "choice_text": "تزيد من همومه بسبب مشاكل الآخرين", "is_correct": false },
+            { "choice_text": "تساعده على استصغار همه ووضعه في حجمه الطبيعي", "is_correct": true },
+            { "choice_text": "تجعله يهرب من واقعه", "is_correct": false },
+            { "choice_text": "لا تؤثر عليه بأي شكل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من عبارة 'أجاء الغساني؟ أعظم من ذلك: طلق النبي نساءه'؟ [70، 71]",
+        "difficulty_score": 800,
+        "explanation": "تُبين أن الاضطراب في السكن النفسي (البيت) قد يُرى أشد وطأة من التهديد العسكري الخارجي.",
+        "choices": [
+            { "choice_text": "أن الغساني كان صديقاً لعمر", "is_correct": false },
+            { "choice_text": "أن الإشكال الداخلي (الاجتماعي) أثره أعمق وأعظم من التحدي الخارجي", "is_correct": true },
+            { "choice_text": "أن الطلاق كان وسيلة للحرب", "is_correct": false },
+            { "choice_text": "أن عمر لم يكن يهتم بالحروب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'التفويض' الذي طبقه النبي ﷺ في الغار؟ [53، 56]",
+        "difficulty_score": 600,
+        "explanation": "هو تسليم الأمر لله تماماً بعد استنفاد كافة الأسباب المادية (الهجرة، التخفي، الطريق).",
+        "choices": [
+            { "choice_text": "ترك الأسباب من البداية", "is_correct": false },
+            { "choice_text": "تسليم الأمر لله بيقين بعد استنفاد الأسباب الممكنة", "is_correct": true },
+            { "choice_text": "الاعتماد على قوة أبي بكر فقط", "is_correct": false },
+            { "choice_text": "التفويض يعني عدم الخوف إطلاقاً من البشر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لتقسيم ابن حجر، ما الذي ينشأ عن 'الفكر فيما يتوقع حصوله'؟ [5]",
+        "difficulty_score": 100,
+        "explanation": "هذا هو تعريف 'الهم'؛ فهو مرتبط بالتوقع المستقبلي للأذى.",
+        "choices": [
+            { "choice_text": "الغم", "is_correct": false },
+            { "choice_text": "الهم", "is_correct": true },
+            { "choice_text": "الحسرة", "is_correct": false },
+            { "choice_text": "الكرب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الدائرة التي تتعلق بـ 'الفتن التي ستأتي لاحقاً في الأمة'؟ [6]",
+        "difficulty_score": 400,
+        "explanation": "الدائرة السادسة: دائرة هم الأمة (غير الصحابة).",
+        "choices": [
+            { "choice_text": "دائرة الأعداء", "is_correct": false },
+            { "choice_text": "دائرة هم الأمة والمستقبل", "is_correct": true },
+            { "choice_text": "دائرة الهم الاجتماعي", "is_correct": false },
+            { "choice_text": "دائرة أعباء الرسالة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي لـ 'تذكر الموت' كما ورد في المصدر؟ [7]",
+        "difficulty_score": 200,
+        "explanation": "يُعتبر وسيلة لإدراك الغايات واستصغار هموم الدنيا وتذكير النفس بحقيقة الوجود.",
+        "choices": [
+            { "choice_text": "يزيد من الخوف والقلق", "is_correct": false },
+            { "choice_text": "يساعد على إدراك الغايات وتهوين هموم الدنيا", "is_correct": true },
+            { "choice_text": "يجعلك تترك العمل", "is_correct": false },
+            { "choice_text": "لا علاقة له بالهموم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'سوية المؤمن' في مواجهة الهموم؟ [1، 74]",
+        "difficulty_score": 900,
+        "explanation": "هي القدرة على الجمع بين البشرية التي تتأثر وتحزن، وبين الإيمان الذي يدفع للعمل والاستقامة وتدارك الخطأ.",
+        "choices": [
+            { "choice_text": "أن يكون المؤمن بلا مشاعر تماماً", "is_correct": false },
+            { "choice_text": "الجمع بين التأثر البشري الطبيعي وبين اليقين والثبات الإيماني", "is_correct": true },
+            { "choice_text": "الهروب من الواقع بالعبادة فقط", "is_correct": false },
+            { "choice_text": "أن المؤمن لا يخطئ أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأطراف التالية يُصنف كـ 'عدو في الداخل' في المدينة؟ [34، 50]",
+        "difficulty_score": 100,
+        "explanation": "المنافقون هم الذين كانوا يعيشون داخل مجتمع المدينة ويمثلون خطراً داخلياً.",
+        "choices": [
+            { "choice_text": "قريش", "is_correct": false },
+            { "choice_text": "المنافقون", "is_correct": true },
+            { "choice_text": "فارس", "is_correct": false },
+            { "choice_text": "الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تأثير 'بركة العلم' في التعامل مع المشكلات كما ورد في المصدر؟ [8]",
+        "difficulty_score": 400,
+        "explanation": "العلم يمنح المؤمن بصيرة تجعله يستوعب الابتلاءات ويفهم الحكمة منها، مما يُهون عليه وقعه النفسي.",
+        "choices": [
+            { "choice_text": "العلم يمنع وقوع المشكلات أصلاً", "is_correct": false },
+            { "choice_text": "يمنح المؤمن البصيرة والقدرة على استيعاب الابتلاء وهوانه", "is_correct": true },
+            { "choice_text": "العلم يؤدي إلى اعتزال الناس تماماً", "is_correct": false },
+            { "choice_text": "لا أثر للعلم في دفع الهموم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني عبارة 'الجزاء من جنس العمل' في سياق السكينة؟ [63، 64]",
+        "difficulty_score": 500,
+        "explanation": "العمل هو توفير السكينة للآخرين، والجزاء هو نيل السكينة التامة في الآخرة.",
+        "choices": [
+            { "choice_text": "أن تنال مالاً بقدر عملك", "is_correct": false },
+            { "choice_text": "أن يكون نوع الثواب من نفس نوع الفعل (سكينة مقابل سكينة)", "is_correct": true },
+            { "choice_text": "أن تعمل كثيراً لتنال قليلاً", "is_correct": false },
+            { "choice_text": "لا علاقة للعمل بنوع الجزاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم ذكر 'حضن الأم' أو 'الفضفضة' كوسائل وقائية؟ [9]",
+        "difficulty_score": 300,
+        "explanation": "لأنها تمثل 'الملجأ النفسي' الذي يفرغ فيه الإنسان شحنة الهم ويجد فيه السكن.",
+        "choices": [
+            { "choice_text": "كوسيلة للهرب من المسؤولية", "is_correct": false },
+            { "choice_text": "كملاجئ نفسية توفر السكن وتفرغ شحنة القلق", "is_correct": true },
+            { "choice_text": "لأنها وسائل دينية بحتة", "is_correct": false },
+            { "choice_text": "لإظهار الضعف البشري فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'القلق' بالمعنى النفسي القريب من 'الهم'؟ [24، 25]",
+        "difficulty_score": 400,
+        "explanation": "هو انشغال البال بما يُستقبل وتوقعه لدرجة تجعل النفس في حالة توتر دائم.",
+        "choices": [
+            { "choice_text": "الندم على ما فات", "is_correct": false },
+            { "choice_text": "انشغال البال بما يُستقبل وتوقعه بتوجس", "is_correct": true },
+            { "choice_text": "الغضب الشديد من الحاضر", "is_correct": false },
+            { "choice_text": "الرغبة في النوم الطويل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تُعتبر دائرة 'أعباء الرسالة' دائرة مستمرة من الهم؟ [4]",
+        "difficulty_score": 600,
+        "explanation": "لأن المسؤولية العظمى تقتضي اهتماماً دائماً ومتابعة لا تنقطع للوفاء بالعهد.",
+        "choices": [
+            { "choice_text": "بسبب كثرة الأعداء فيها", "is_correct": false },
+            { "choice_text": "لأن عظم المسؤولية يتبعه عظم الهم والاهتمام بالوفاء بها", "is_correct": true },
+            { "choice_text": "لأنها تجلب المال الكثير", "is_correct": false },
+            { "choice_text": "لأنها دائرة مؤقتة تنتهي سريعاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر الذي يتركه 'استحضار سيرة النبي ﷺ' عند الهم؟ [16، 26]",
+        "difficulty_score": 200,
+        "explanation": "يؤنس المهموم ويعلمه أن أكمل الخلق مر بهموم مشابهة، مما يثبته ويقويه.",
+        "choices": [
+            { "choice_text": "يجعله يشعر بالذنب", "is_correct": false },
+            { "choice_text": "يؤنسه ويعلمه كيفية التعامل مع البلاء بالاقتداء", "is_correct": true },
+            { "choice_text": "يجعله يترك العمل الدعوي", "is_correct": false },
+            { "choice_text": "لا أثر له في الواقع المعاصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'إدراك الغايات' كوسيلة لعلاج الهم؟ [19، 20]",
+        "difficulty_score": 800,
+        "explanation": "أن يعلم الإنسان لماذا هو موجود وما هو هدفه النهائي، مما يجعل صغائر الدنيا تافهة في عينه.",
+        "choices": [
+            { "choice_text": "معرفة كيف يجمع المال", "is_correct": false },
+            { "choice_text": "معرفة الهدف الوجودي النهائي مما يهون مصاعب الطريق", "is_correct": true },
+            { "choice_text": "تحديد الأهداف اليومية فقط", "is_correct": false },
+            { "choice_text": "تجاهل كل ما يحدث في الواقع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من 'تعدد الأجناس والأنواع' في ابتلاءات النبي ﷺ؟ [27، 28]",
+        "difficulty_score": 700,
+        "explanation": "ليكون قدوة لكل إنسان في كل حال؛ فالمبتلى بالفقر أو الفقد أو المرض يجد فيه أسوة.",
+        "choices": [
+            { "choice_text": "لإظهار أنه كان يعاني أكثر من غيره", "is_correct": false },
+            { "choice_text": "ليتسع مجال الاقتداء به في كافة أشكال الابتلاء البشري", "is_correct": true },
+            { "choice_text": "لأن مكة كانت مدينة صعبة جداً", "is_correct": false },
+            { "choice_text": "لا فائدة تذكر من هذا التعدد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التحليل الصحيح لموقف عائشة: 'أفيك يا رسول الله أشاور أبوي؟' [10]",
+        "difficulty_score": 900,
+        "explanation": "يدل على اليقين التام بقرارها في اختيار الله ورسوله، والسكينة النفسية التي لا تحتاج لاستشارة في الحق الواضح.",
+        "choices": [
+            { "choice_text": "أنها كانت لا تحب أبويها", "is_correct": false },
+            { "choice_text": "اليقين التام بقرارها والسكينة في اختيار الحق الواضح", "is_correct": true },
+            { "choice_text": "أنها كانت خائفة من النبي ﷺ", "is_correct": false },
+            { "choice_text": "كان مجرد رد فعل عاطفي سريع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'فقد صغت قلوبكما' في سياق المصدر؟ [11]",
+        "difficulty_score": 500,
+        "explanation": "بمعنى مالت قلوبكما، وهي إشارة إلى وقوع الخطأ البشري الذي يحتاج إلى توبة وتصحيح.",
+        "choices": [
+            { "choice_text": "استقامت قلوبكما", "is_correct": false },
+            { "choice_text": "مالت (عن الحق أو الصواب في ذلك الموقف)", "is_correct": true },
+            { "choice_text": "فرحت قلوبكما", "is_correct": false },
+            { "choice_text": "ماتت قلوبكما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم التأكيد على أن 'الهم' ليس بالضرورة أمراً دينياً؟ [12]",
+        "difficulty_score": 200,
+        "explanation": "لأن الهموم الدنيوية (كالرزق، الصحة، الأسرة) حقيقية وتؤثر على مسيرة الإنسان وإيمانه.",
+        "choices": [
+            { "choice_text": "لأن الدنيا لا تهم المؤمن", "is_correct": false },
+            { "choice_text": "لأن الهموم الدنيوية لها ارتباط وثيق بمسيرة الإنسان النفسية", "is_correct": true },
+            { "choice_text": "لأن الدين يمنع كل أنواع الهموم", "is_correct": false },
+            { "choice_text": "لإظهار أن المؤمن يهتم بالمال فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي لـ 'كلام الناس والتشكيك' كما ورد في دائرة الأعداء؟ [13]",
+        "difficulty_score": 400,
+        "explanation": "يسبب ضغطاً نفسياً كبيراً للمصلح الصادق، لأنه يمس صدقه وأمانته التي هي رأس ماله.",
+        "choices": [
+            { "choice_text": "لا أثر له على الصادق إطلاقاً", "is_correct": false },
+            { "choice_text": "يسبب ضغطاً نفسياً كبيراً لمساسه بجوهر أمانة المصلح", "is_correct": true },
+            { "choice_text": "يؤدي إلى زيادة الشهرة دائماً", "is_correct": false },
+            { "choice_text": "كلام الناس هو المصدر الأساسي للرزق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الملجأ العلمي' الذي ذكره المشاركون؟ [9]",
+        "difficulty_score": 600,
+        "explanation": "الدروس العلمية والبرامج الملتزمة التي تزيد من صلاح النفس وتثبت الفكر.",
+        "choices": [
+            { "choice_text": "قراءة القصص الخيالية", "is_correct": false },
+            { "choice_text": "الدروس العلمية والبرامج التي تزيد صلاح النفس وتثبتها", "is_correct": true },
+            { "choice_text": "البحث في الإنترنت عن حلول سريعة", "is_correct": false },
+            { "choice_text": "ترك الدراسة عند الهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من جعل 'سورة يوسف' هي القصة التي يأتنس بها المهموم؟ [2]",
+        "difficulty_score": 300,
+        "explanation": "لأنها تعرض كيف أن الابتلاء (بئر، سجن) هو مقدمة لتمكين وفرج عظيم.",
+        "choices": [
+            { "choice_text": "لأنها تتحدث عن الزراعة", "is_correct": false },
+            { "choice_text": "لأن الابتلاء فيها كان طريقاً للتمكين والفرج الخفي", "is_correct": true },
+            { "choice_text": "لأنها أطول سورة في القرآن", "is_correct": false },
+            { "choice_text": "لأنها لم تذكر الأعداء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يؤثر 'الهم المستمر' على الجسد حسب وصف 'يذيبك الهم'؟ [22، 23]",
+        "difficulty_score": 500,
+        "explanation": "يؤدي إلى تلف القوى البدنية والهزال وتأثر الصحة العامة بشكل ملحوظ.",
+        "choices": [
+            { "choice_text": "يزيد من القوة البدنية", "is_correct": false },
+            { "choice_text": "يؤدي إلى ذوبان الهيبة وتلف القوى البدنية (الهزال)", "is_correct": true },
+            { "choice_text": "لا أثر للهم على الجسد", "is_correct": false },
+            { "choice_text": "يجعل الإنسان ينام كثيراً فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التحليل الصحيح للرغبة في 'سراح جميل' عند الخصام؟ [77، 78]",
+        "difficulty_score": 800,
+        "explanation": "هو التعامل برقي وإحسان حتى عند عدم الاتفاق، لضمان عدم بقاء الهم والضغينة في النفوس.",
+        "choices": [
+            { "choice_text": "طرد الشخص من البيت فوراً", "is_correct": false },
+            { "choice_text": "التعامل بإحسان ورقي حتى عند الفراق لقطع جذور الهم", "is_correct": true },
+            { "choice_text": "إعطاء المال فقط للتخلص من الشخص", "is_correct": false },
+            { "choice_text": "التجاهل التام حتى يرحل الطرف الآخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الخيارات يمثل 'دائرة ثبات الأصحاب'؟ [14]",
+        "difficulty_score": 400,
+        "explanation": "القلق من تأثر الجيل الأول بالفتن أو تراجعهم عن المنهج.",
+        "choices": [
+            { "choice_text": "هم يتعلق بجمع التبرعات", "is_correct": false },
+            { "choice_text": "هم يتعلق بثبات الأصحاب واستمرار المنهج والرسالة", "is_correct": true },
+            { "choice_text": "هم يتعلق بمكان سكن الأصحاب", "is_correct": false },
+            { "choice_text": "هم يتعلق بكثرة عدد الأعداء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'صيغة النفس مع الأطراف التي تتماس معها'؟ [58، 59]",
+        "difficulty_score": 700,
+        "explanation": "هي الطريقة والتعريف الذي تضعه النفس لكل شخص (صديق، عدو، زوجة) والنتائج النفسية المتوقعة من كل منهم.",
+        "choices": [
+            { "choice_text": "الاسم القانوني لكل شخص", "is_correct": false },
+            { "choice_text": "التعريف النفسي الذي يحدد مستوى التأثر بالعلاقات القريبة", "is_correct": true },
+            { "choice_text": "كيفية المصافحة في اللقاءات", "is_correct": false },
+            { "choice_text": "عدد المرات التي تلتقي فيها بالأشخاص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو الهدف النهائي من دراسة 'هموم النبي ﷺ'؟ [1، 26، 78]",
+        "difficulty_score": 900,
+        "explanation": "بناء شخصية 'المؤمن السوي' القادر على تجاوز الأزمات النفسية والاجتماعية بالاقتداء بالنموذج الأعلى.",
+        "choices": [
+            { "choice_text": "مجرد حفظ معلومات تاريخية", "is_correct": false },
+            { "choice_text": "بناء شخصية المؤمن السوي المقتدي بنبيه في تجاوز الأزمات", "is_correct": true },
+            { "choice_text": "معرفة أسماء أعداء النبي ﷺ فقط", "is_correct": false },
+            { "choice_text": "إثبات أن النبي ﷺ كان يعاني دائماً", "is_correct": false }
+        ]
+    }
+]}

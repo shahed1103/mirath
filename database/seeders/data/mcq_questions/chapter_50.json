@@ -1,0 +1,715 @@
+    {
+    "chapter_id": 50,
+    "questions": [
+        {
+        "question_text": "ما هي الحالة التي كانت توفرها حماية أبي طالب للنبي ﷺ في مكة؟",
+        "difficulty_score": 200,
+        "explanation": "المصادر توضح أن أبا طالب كان يوفر الحماية الأساسية والخارجية للنبي ﷺ، وبوفاته زالت هذه الحماية مما أدى لتجرؤ قريش [32]، [12].",
+        "choices": [
+            { "choice_text": "حماية داخلية فقط", "is_correct": false },
+            { "choice_text": "حماية أساسية وخارجية", "is_correct": true },
+            { "choice_text": "حماية عسكرية منظمة", "is_correct": false },
+            { "choice_text": "حماية اقتصادية من الحصار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "مَن هو الشخص الذي حاول توفير شيء من الحماية للنبي ﷺ بعد وفاة أبي طالب كما ظهر في بيعة العقبة؟",
+        "difficulty_score": 300,
+        "explanation": "العباس بن عبد المطلب سعى لحماية النبي ﷺ وظهر ذلك في بيعة العقبة حين قال إن النبي في منعة من قومه [12].",
+        "choices": [
+            { "choice_text": "أبو لهب", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "العباس بن عبد المطلب", "is_correct": true },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأذى الفعلي الذي يرى بعض العلماء أنه لم يشتد إلا بعد وفاة أبي طالب؟",
+        "difficulty_score": 400,
+        "explanation": "تجرأت قريش أكثر بعد وفاة أبي طالب فرفعت مستوى الأذى الفعلي مثل الخنق وإلقاء سلا الجزور [12].",
+        "choices": [
+            { "choice_text": "السخرية اللفظية", "is_correct": false },
+            { "choice_text": "المقاطعة في الشعب", "is_correct": false },
+            { "choice_text": "الخنق وإلقاء سلا الجزور", "is_correct": true },
+            { "choice_text": "المنع من السفر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا توجه النبي ﷺ إلى الطائف؟",
+        "difficulty_score": 100,
+        "explanation": "توجه النبي ﷺ للطائف بحثاً عن موطن غير مكة يكون محتوياً لهذه الدعوة بعد اشتداد الأذى عليه [1].",
+        "choices": [
+            { "choice_text": "للتجارة وبيع البضائع", "is_correct": false },
+            { "choice_text": "للبحث عن مأوى للدعوة وموطن يحتويها", "is_correct": true },
+            { "choice_text": "لزيارة أقاربه من بني سعد", "is_correct": false },
+            { "choice_text": "للهرب من محاولة اغتيال مؤكدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي تعبير استخدمه النبي ﷺ لوصف عرضه للدعوة في الطائف كما ورد في البخاري؟",
+        "difficulty_score": 500,
+        "explanation": "استخدم النبي ﷺ تعبير 'إذ عرضت نفسي' للدلالة على بذله كل شيء في سبيل البحث عن مأوى للدعوة [1].",
+        "choices": [
+            { "choice_text": "إذ بلغت رسالتي", "is_correct": false },
+            { "choice_text": "إذ عرضت نفسي", "is_correct": true },
+            { "choice_text": "إذ جادلت القوم", "is_correct": false },
+            { "choice_text": "إذ دخلت الطائف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في تفسير الآية {رَجُلٍ مِّنَ الْقَرْيَتَيْنِ عَظِيمٍ}، مَن المقصود بالرجل من الطائف في أحد الأقوال؟",
+        "difficulty_score": 400,
+        "explanation": "أحد الأقوال يشير إلى أن الرجل المقصود من الطائف هو ابن عبد ياليل بن عبد كلال [2].",
+        "choices": [
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false },
+            { "choice_text": "ابن عبد ياليل بن عبد كلال", "is_correct": true },
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "المطعم بن عدي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى وقعت رحلة الطائف زمنياً؟",
+        "difficulty_score": 300,
+        "explanation": "وقعت في السنة العاشرة من البعثة، وهي سنة الحزن التي توفي فيها أبو طالب وخديجة [14].",
+        "choices": [
+            { "choice_text": "السنة الخامسة من البعثة", "is_correct": false },
+            { "choice_text": "السنة الثامنة من البعثة", "is_correct": false },
+            { "choice_text": "السنة العاشرة من البعثة", "is_correct": true },
+            { "choice_text": "بعد الهجرة للمدينة بسنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان الأذى القولي (الاستهزاء) في الطائف أشد أثراً على النبي ﷺ؟",
+        "difficulty_score": 600,
+        "explanation": "لأن النبي ﷺ كان كريماً وشريفاً، ومثل هذه النفوس تتألم من الانتقاص والاتهام بالجنون أكثر من الجلد الجسدي [22].",
+        "choices": [
+            { "choice_text": "لأنه أدى لفشل الرحلة اقتصادياً", "is_correct": false },
+            { "choice_text": "لأنه جاء بعد سنوات من التكذيب في مكة", "is_correct": true },
+            { "choice_text": "لأن قريشاً لم تكن تستهزئ به أبداً", "is_correct": false },
+            { "choice_text": "لأنه تسبب في ضياع ماله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف النبي ﷺ حالته وهو خارج من الطائف بعد رفض أهلها؟",
+        "difficulty_score": 500,
+        "explanation": "قال النبي ﷺ: 'فانطلقت وأنا مهموم على وجهي، فلم أستفق إلا وأنا بقرن الثعالب' [33]، [3].",
+        "choices": [
+            { "choice_text": "كان غاضباً يبحث عن الانتقام", "is_correct": false },
+            { "choice_text": "كان مهموماً على وجهه لا يشعر بالطريق", "is_correct": true },
+            { "choice_text": "كان فرحاً بنجاة زيد بن حارثة", "is_correct": false },
+            { "choice_text": "كان يخطط للعودة بجيش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا عرض ملك الجبال على النبي ﷺ؟",
+        "difficulty_score": 200,
+        "explanation": "عرض عليه أن يُطبق على أهل مكة 'الأخشبين' (الجبلين) رداً على فعلتهم [3]، [10].",
+        "choices": [
+            { "choice_text": "أن يرزقه مالاً وفيرة", "is_correct": false },
+            { "choice_text": "أن يفتح له الطائف عنوة", "is_correct": false },
+            { "choice_text": "أن يُطبق عليهم الأخشبين", "is_correct": true },
+            { "choice_text": "أن ينقله إلى المدينة فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الرئيسي الذي جعل النبي ﷺ يرفض إهلاك قومه؟",
+        "difficulty_score": 600,
+        "explanation": "رفض لأنه كان يرجو أن يخرج الله من أصلابهم من يعبد الله وحده لا يشرك به شيئاً [17].",
+        "choices": [
+            { "choice_text": "خوفاً من رد فعل القبائل الأخرى", "is_correct": false },
+            { "choice_text": "رجاء أن يخرج من أصلابهم من يعبد الله", "is_correct": true },
+            { "choice_text": "لأنه لم يكن يملك القوة الكافية", "is_correct": false },
+            { "choice_text": "لأن ملك الجبال وضع شروطاً صعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "مَن هو ابن عقبة بن أبي معيط (الذي وضع سلا الجزور) وأصبح من كبار فرسان الإسلام؟",
+        "difficulty_score": 700,
+        "explanation": "المصادر تذكر عكرمة بن أبي جهل كمثال، وابنة عقبة بن أبي معيط (أم كلثوم) [18]. لكن السؤال عن الابن الذي جاهد، والسياق ذكر عكرمة بن أبي جهل بوضوح [18].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "يزيد بن أبي سفيان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في أي وادٍ استمعت الجن للقرآن الكريم؟",
+        "difficulty_score": 200,
+        "explanation": "وقع ذلك في وادي نخلة، وهو بين مكة والطائف [5].",
+        "choices": [
+            { "choice_text": "وادي وج", "is_correct": false },
+            { "choice_text": "وادي نخلة", "is_correct": true },
+            { "choice_text": "وادي فاطمة", "is_correct": false },
+            { "choice_text": "وادي العقيق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي سميت باسم الحادثة التي وقعت للنبي ﷺ مع عالم الغيب في طريق عودته؟",
+        "difficulty_score": 100,
+        "explanation": "سورة الجن سجلت الحادثة بالتفصيل [27].",
+        "choices": [
+            { "choice_text": "سورة الملائكة", "is_correct": false },
+            { "choice_text": "سورة الجن", "is_correct": true },
+            { "choice_text": "سورة النمل", "is_correct": false },
+            { "choice_text": "سورة المؤمنون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا خشي النبي ﷺ دخول مكة بعد عودته من الطائف؟",
+        "difficulty_score": 300,
+        "explanation": "خشي أن يكون دخوله مسبباً لأذى شديد بعد وفاة حاميه أبي طالب وجهره بالدعوة في الخارج [9].",
+        "choices": [
+            { "choice_text": "لأنه أضاع بضاعته", "is_correct": false },
+            { "choice_text": "لأنه دخل بدون إذن مسبق", "is_correct": false },
+            { "choice_text": "خوفاً من تعرضه لأذى شديد بلا حماية", "is_correct": true },
+            { "choice_text": "لأنه كان مريضاً جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بمَ أمر المطعم بن عدي أولاده عند دخول النبي ﷺ مكة في جواره؟",
+        "difficulty_score": 400,
+        "explanation": "أمرهم أن يلبسوا السلاح ويقفوا عند أركان البيت لحماية النبي ﷺ [4].",
+        "choices": [
+            { "choice_text": "بترك مكة فوراً", "is_correct": false },
+            { "choice_text": "بالسفر إلى الطائف", "is_correct": false },
+            { "choice_text": "بأن يلبسوا السلاح ويحموا النبي", "is_correct": true },
+            { "choice_text": "بالتزام البيوت وعدم التدخل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن أسرى بدر فيما يخص المطعم بن عدي؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'لو كان المطعم بن عدي حياً ثم كلمني في هؤلاء النتنى لتركتهم له' تقديراً لجميله [24].",
+        "choices": [
+            { "choice_text": "لقتلتهم جميعاً وفاءً له", "is_correct": false },
+            { "choice_text": "لتركتهم له وفاءً لموقفه معه", "is_correct": true },
+            { "choice_text": "لأخذت منهم فدية مضاعفة", "is_correct": false },
+            { "choice_text": "لأمرتهم بإسلامه أولاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على سورة الممتحنة، كيف يُعامل الكفار الذين لم يقاتلوا المسلمين في الدين؟",
+        "difficulty_score": 600,
+        "explanation": "يُعاملون بالبر والقسط (العدل) [28].",
+        "choices": [
+            { "choice_text": "بالمقاطعة التامة", "is_correct": false },
+            { "choice_text": "بالبر والقسط", "is_correct": true },
+            { "choice_text": "بالجزية فقط", "is_correct": false },
+            { "choice_text": "بالتجاهل التام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من استئجار النبي ﷺ للمشرك (عبد الله بن أريقط) كدليل في الهجرة؟",
+        "difficulty_score": 700,
+        "explanation": "يدل على التفريق بين مقامات الناس واستخدام الخبرات حتى من غير المسلمين فيما لا يخص الدين [34].",
+        "choices": [
+            { "choice_text": "أن المشركين أدرى بكل شيء", "is_correct": false },
+            { "choice_text": "جواز الاستعانة بخبرة المشرك المأمون", "is_correct": true },
+            { "choice_text": "أن النبي لم يجد مسلماً واحداً يعرف الطريق", "is_correct": false },
+            { "choice_text": "أن الهجرة كانت رحلة تجارية أصلاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحادثة العظيمة التي كانت 'إيناساً' للنبي ﷺ بعد رحلة الطائف؟",
+        "difficulty_score": 200,
+        "explanation": "هي حادثة الإسراء والمعراج [20].",
+        "choices": [
+            { "choice_text": "فتح خيبر", "is_correct": false },
+            { "choice_text": "غزوة بدر", "is_correct": false },
+            { "choice_text": "الإسراء والمعراج", "is_correct": true },
+            { "choice_text": "بيعة الرضوان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "إلى أين أُسري بالنبي ﷺ ليلاً قبل العروج به إلى السماء؟",
+        "difficulty_score": 100,
+        "explanation": "أُسري به من المسجد الحرام إلى المسجد الأقصى (بيت المقدس) [35].",
+        "choices": [
+            { "choice_text": "إلى المدينة المنورة", "is_correct": false },
+            { "choice_text": "إلى المسجد الأقصى", "is_correct": true },
+            { "choice_text": "إلى جبل الطور", "is_correct": false },
+            { "choice_text": "إلى اليمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا كان المرور ببيت المقدس قبل السماء أمراً عظيماً في القاموس الإسلامي؟",
+        "difficulty_score": 800,
+        "explanation": "ليؤكد على مركزية بيت المقدس في الإسلام ومكانته الشريفة التي لا ترتبط بمشكلة مؤقتة [36].",
+        "choices": [
+            { "choice_text": "لأنه الطريق الوحيد جغرافياً", "is_correct": false },
+            { "choice_text": "لتأكيد مركزيته ومكانته في الإسلام", "is_correct": true },
+            { "choice_text": "ليقابله هناك أبو جهل", "is_correct": false },
+            { "choice_text": "لأن أهل مكة طلبوا ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفارق بين الصلاة قبل المعراج وبعده؟",
+        "difficulty_score": 500,
+        "explanation": "قبل المعراج كانت مفروضة كصلاتين، وبعده أصبحت الصلوات الخمس بنظامها المعروف [21].",
+        "choices": [
+            { "choice_text": "لم تكن هناك صلاة أصلاً", "is_correct": false },
+            { "choice_text": "كانت صلاة واحدة فقط", "is_correct": false },
+            { "choice_text": "كانت صلاتين ثم أصبحت خمساً", "is_correct": true },
+            { "choice_text": "كانت سراً ثم أصبحت جهراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "مَن هو النبي الذي راجع النبي ﷺ في عدد الصلوات ليلة المعراج؟",
+        "difficulty_score": 400,
+        "explanation": "هو النبي موسى عليه السلام [21].",
+        "choices": [
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "عيسى عليه السلام", "is_correct": false },
+            { "choice_text": "موسى عليه السلام", "is_correct": true },
+            { "choice_text": "نوح عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف أثبت النبي ﷺ صدق رحلته لقريش عندما سألوه عن تفاصيل بيت المقدس؟",
+        "difficulty_score": 600,
+        "explanation": "جلى الله له بيت المقدس فطفِق يخبرهم عن آياته وهو ينظر إليه [37]، [38].",
+        "choices": [
+            { "choice_text": "أراهم صوراً مرسومة", "is_correct": false },
+            { "choice_text": "جلى الله له بيت المقدس فنظر إليه ووصفه", "is_correct": true },
+            { "choice_text": "أحضر لهم حجراً من هناك", "is_correct": false },
+            { "choice_text": "استعان بشهادة أبي بكر فقط", "is_correct": false }
+        ]
+    },
+    { "question_text": "ماذا كان رد فعل أبي بكر الصديق حين قالوا له: 'أما سمعت ما يقول صاحبك؟' (عن الإسراء)؟", "difficulty_score": 300, "explanation": "قال بصدق تام: 'إن كان قال فقد صدق' [6].", "choices": [ { "choice_text": "طلب دليلاً مادياً", "is_correct": false }, { "choice_text": "قال: إن كان قال فقد صدق", "is_correct": true }, { "choice_text": "سكت ولم يعلق", "is_correct": false }, { "choice_text": "ذهب ليسأل النبي منفرداً", "is_correct": false } ] },
+    { "question_text": "ما هو الدرس الأعظم من حادثة الإسراء والمعراج؟", "difficulty_score": 500, "explanation": "الدرس الأعظم هو مركزية الصلاة وقيمتها وأهميتها في الإسلام [30].", "choices": [ { "choice_text": "معرفة أسماء الأنبياء", "is_correct": false }, { "choice_text": "مركزية الصلاة وأهميتها", "is_correct": true }, { "choice_text": "التعرف على شكل الجن", "is_correct": false }, { "choice_text": "كيفية ركوب البراق", "is_correct": false } ] },
+    { "question_text": "ماذا تعني كلمة 'الأخشبين'؟", "difficulty_score": 200, "explanation": "الأخشبان هما الجبلان العظيمان [10].", "choices": [ { "choice_text": "النهران الكبيران", "is_correct": false }, { "choice_text": "الجبلان العظيمان", "is_correct": true }, { "choice_text": "الرجلان القويان", "is_correct": false }, { "choice_text": "الصنمان الأكبران", "is_correct": false } ] },
+    { "question_text": "ماذا فعل سفهاء الطائف بالنبي ﷺ؟", "difficulty_score": 300, "explanation": "رموه بالحجارة حتى أدموه [33].", "choices": [ { "choice_text": "حبسوه في بيت", "is_correct": false }, { "choice_text": "رموه بالحجارة حتى أدموه", "is_correct": true }, { "choice_text": "طردوه دون أذى جسدي", "is_correct": false }, { "choice_text": "عرضوا عليه المال ليسكت", "is_correct": false } ] },
+    { "question_text": "أي رحلة استمرت 13 سنة قبل انتصارها الكامل؟", "difficulty_score": 400, "explanation": "دعوة النبي ﷺ في مكة استمرت 13 سنة من الصبر والمحاولة [39].", "choices": [ { "choice_text": "رحلة الهجرة", "is_correct": false }, { "choice_text": "دعوة النبي في مكة", "is_correct": true }, { "choice_text": "بناء المسجد النبوي", "is_correct": false }, { "choice_text": "فتح مكة", "is_correct": false } ] },
+    { "question_text": "ماذا رأى النبي ﷺ في السماء مما يتعلق بالفطرة؟", "difficulty_score": 500, "explanation": "رأى اللبن والخمر فاختار اللبن فقيل له: هُديت للفطرة [21].", "choices": [ { "choice_text": "الذهب والفضة", "is_correct": false }, { "choice_text": "اللبن والخمر", "is_correct": true }, { "choice_text": "الماء والعسل", "is_correct": false }, { "choice_text": "التمر والماء", "is_correct": false } ] },
+    { "question_text": "مَن الذي كان يرافق النبي ﷺ في رحلة الطائف؟", "difficulty_score": 100, "explanation": "زيد بن حارثة رضي الله عنه [40].", "choices": [ { "choice_text": "أبو بكر الصديق", "is_correct": false }, { "choice_text": "عمر بن الخطاب", "is_correct": false }, { "choice_text": "زيد بن حارثة", "is_correct": true }, { "choice_text": "علي بن أبي طالب", "is_correct": false } ] },
+    { "question_text": "ما معنى 'فانطلقت وأنا مهموم على وجهي'؟", "difficulty_score": 600, "explanation": "تعبير عن شدة الحزن والضيق النفسي لدرجة عدم الوعي بالطريق من كثرة الهم [33].", "choices": [ { "choice_text": "أنه كان يسير بسرعة شديدة", "is_correct": false }, { "choice_text": "أنه تاه في الصحراء", "is_correct": false }, { "choice_text": "شدة الهم التي أنسته الوعي بالطريق", "is_correct": true }, { "choice_text": "أنه كان خائفاً من الملاحقة", "is_correct": false } ] },
+    { "question_text": "أين تقع مكة والطائف جغرافياً بالنسبة لبعضهما؟", "difficulty_score": 200, "explanation": "الطائف تقع فوق جبل عالٍ جداً، والصعود إليها كان شاقاً على الأقدام [41].", "choices": [ { "choice_text": "في سهل واحد", "is_correct": false }, { "choice_text": "الطائف فوق جبل عالٍ بالنسبة لمكة", "is_correct": true }, { "choice_text": "الطائف تقع على ساحل البحر", "is_correct": false }, { "choice_text": "مكة أعلى من الطائف", "is_correct": false } ] },
+    { "question_text": "لماذا سمي 'عام الحزن' بهذا الاسم؟", "difficulty_score": 300, "explanation": "بسبب وفاة السند الخارجي (أبو طالب) والسند الداخلي (خديجة) [42].", "choices": [ { "choice_text": "بسبب الهزيمة في أحد", "is_correct": false }, { "choice_text": "بسبب وفاة خديجة وأبي طالب", "is_correct": true }, { "choice_text": "بسبب فشل رحلة الطائف فقط", "is_correct": false }, { "choice_text": "بسبب الهجرة للحبشة", "is_correct": false } ] },
+    { "question_text": "مَن هم 'النتنى' الذين قصدهم النبي ﷺ في حديث المطعم بن عدي؟", "difficulty_score": 800, "explanation": "هم أسرى المشركين في غزوة بدر [24].", "choices": [ { "choice_text": "فقراء المسلمين", "is_correct": false }, { "choice_text": "أسرى المشركين في بدر", "is_correct": true }, { "choice_text": "أهل الطائف الذين كذبوه", "is_correct": false }, { "choice_text": "المنافقون في المدينة", "is_correct": false } ] },
+    { "question_text": "ماذا قال أحد سادات الطائف متهكماً على النيب ﷺ؟", "difficulty_score": 500, "explanation": "قال: 'أما وجد الله أحداً يبعثه غيرك؟' [22]، [40].", "choices": [ { "choice_text": "أنت ملكنا الجديد", "is_correct": false }, { "choice_text": "أما وجد الله أحداً يبعثه غيرك؟", "is_correct": true }, { "choice_text": "اذهب إلى مكة فوراً", "is_correct": false }, { "choice_text": "نحن نصدقك تماماً", "is_correct": false } ] },
+    { "question_text": "ماذا فعل النبي ﷺ عندما كذبه قومه في خبر الإسراء؟", "difficulty_score": 600, "explanation": "قام في الحِجر وجلى الله له بيت المقدس ليصفه لهم [37].", "choices": [ { "choice_text": "سكت ورفض الرد", "is_correct": false }, { "choice_text": "قام في الحجر ووصف بيت المقدس وهو ينظر إليه", "is_correct": true }, { "choice_text": "ترك مكة فوراً", "is_correct": false }, { "choice_text": "دعا عليهم بالهلاك", "is_correct": false } ] },
+    { "question_text": "أي وادٍ حدثت فيه حادثة هدم العُزى لاحقاً؟", "difficulty_score": 900, "explanation": "وادي نخلة اليمانية هو الذي كان فيه العُزى وبعث النبي خالد بن الوليد لقطعها [5]، [27].", "choices": [ { "choice_text": "وادي حنين", "is_correct": false }, { "choice_text": "وادي نخلة اليمانية", "is_correct": true }, { "choice_text": "وادي محسر", "is_correct": false }, { "choice_text": "وادي عسفان", "is_correct": false } ] },
+    { "question_text": "ما هي الميزة التي كانت لأبي طالب في قريش أكثر من غيره؟", "difficulty_score": 300, "explanation": "كان له مكانة رفيعة في قريش تمنعهم من الوصول الفعلي للنبي ﷺ [12].", "choices": [ { "choice_text": "كان يملك مالاً أكثر", "is_correct": false }, { "choice_text": "كان له مكانة ومنعة في قريش", "is_correct": true }, { "choice_text": "كان أصغر سناً من العباس", "is_correct": false }, { "choice_text": "كان يسكن بجوار الكعبة", "is_correct": false } ] }
+    ,{
+        "question_text": "مَن هو الصحابي الذي كان مرافقاً للنبي ﷺ في رحلة الطائف؟",
+        "difficulty_score": 100,
+        "explanation": "تذكر المصادر أن زيد بن حارثة رضي الله عنه هو الذي كان مع النبي ﷺ في هذه الرحلة الشاقة، [1].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "زيد بن حارثة", "is_correct": true },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد أحد سادات الطائف عندما عرض النبي ﷺ نفسه عليه؟",
+        "difficulty_score": 500,
+        "explanation": "أحد سادات الطائف تهكم قائلاً: 'أما وجد الله أحداً يبعثه غيرك؟' والآخر قال إنه لن يكلمه أبداً، [1].",
+        "choices": [
+            { "choice_text": "طلب مهلة للتفكير", "is_correct": false },
+            { "choice_text": "قال: أما وجد الله أحداً يبعثه غيرك؟", "is_correct": true },
+            { "choice_text": "هدده بالقتل فوراً", "is_correct": false },
+            { "choice_text": "أمر بإكرامه ضيفاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا طلب النبي ﷺ من أهل الطائف 'اكتموا عني' خبر زيارته؟",
+        "difficulty_score": 600,
+        "explanation": "طلب الكتمان لكي لا يصل الخبر إلى قريش فيزدادوا جرأة وأذى عليه بعد فشل تأمين مأوى جديد، [2].",
+        "choices": [
+            { "choice_text": "لأنه أراد مفاجأة قريش", "is_correct": false },
+            { "choice_text": "خوفاً من أن تزداد جرأة قريش عليه", "is_correct": true },
+            { "choice_text": "لأنه لم يكمل دعوته بعد", "is_correct": false },
+            { "choice_text": "لأنه أراد العودة سراً للتجارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ حالته النفسية عند خروجه من الطائف في حديث البخاري؟",
+        "difficulty_score": 400,
+        "explanation": "وصف حالته بقوله: 'فانطلقت وأنا مهموم على وجهي'، مما يدل على شدة الضيق، [2].",
+        "choices": [
+            { "choice_text": "كنت غاضباً حزيناً", "is_correct": false },
+            { "choice_text": "كنت مهموماً على وجهي", "is_correct": true },
+            { "choice_text": "كنت مستبشراً بالفرج", "is_correct": false },
+            { "choice_text": "كنت أبحث عن زيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم الآخر لمنطقة 'قرن الثعالب' التي نزل فيها جبريل عليه السلام؟",
+        "difficulty_score": 300,
+        "explanation": "قرن الثعالب هو 'قرن المنازل' المعروف اليوم بميقات السيل الكبير، [3].",
+        "choices": [
+            { "choice_text": "ذو الحليفة", "is_correct": false },
+            { "choice_text": "قرن المنازل", "is_correct": true },
+            { "choice_text": "الجحفة", "is_correct": false },
+            { "choice_text": "يلملم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "مَن الذي نادى النبي ﷺ من السحابة التي أظلته عند قرن الثعالب؟",
+        "difficulty_score": 200,
+        "explanation": "جبريل عليه السلام هو الذي ناداه وأخبره أن الله سمع قول قومه له، [3].",
+        "choices": [
+            { "choice_text": "ملك الموت", "is_correct": false },
+            { "choice_text": "جبريل عليه السلام", "is_correct": true },
+            { "choice_text": "ميكائيل عليه السلام", "is_correct": false },
+            { "choice_text": "إسرافيل عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الأخشبان' اللذان عرض ملك الجبال إطباقهما على مكة؟",
+        "difficulty_score": 400,
+        "explanation": "الأخشبان هما جبلا مكة: جبل أبي قبيس وقعيقان، [4, 5].",
+        "choices": [
+            { "choice_text": "جبل أحد وجبل الرماة", "is_correct": false },
+            { "choice_text": "جبل أبي قبيس وجبل قعيقان", "is_correct": true },
+            { "choice_text": "جبل النور وجبل ثور", "is_correct": false },
+            { "choice_text": "جبل الطائف وجبل الهدا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا اعتبر النبي ﷺ أن الأذى القولي (مثل وصفه بالمجنون) كان أشد عليه من الضرب؟",
+        "difficulty_score": 800,
+        "explanation": "لأن النفس الكريمة الشريفة تتألم من الانتقاص من صدقها وعرضها أكثر من تألم الجسد بالجلد، [6].",
+        "choices": [
+            { "choice_text": "لأنه لم يُضرب جسدياً أبداً", "is_correct": false },
+            { "choice_text": "لأن الأذى القولي يمنع الناس من سماعه", "is_correct": false },
+            { "choice_text": "لأن النفس الشريفة تتألم من انتقاص قدرها بعمق", "is_correct": true },
+            { "choice_text": "لأن قريشاً كانت تمدحه دائماً قبل ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من أبناء كبار المشركين استشهد في سبيل الله وكان والده قد آذى النبي ﷺ بشدة؟",
+        "difficulty_score": 700,
+        "explanation": "عكرمة بن أبي جهل أصبح من فرسان الإسلام وجاهد حتى استشهد، وهذا تصديق لرجاء النبي ﷺ، [7].",
+        "choices": [
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عكرمة بن أبي جهل", "is_correct": true },
+            { "choice_text": "عمرو بن العاص", "is_correct": false },
+            { "choice_text": "أبان بن سعيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحادثة التي وقعت في وادي نخلة اليمانية واعتبرها العلماء 'تعويضاً' للنبي؟",
+        "difficulty_score": 500,
+        "explanation": "حادثة استماع الجن للقرآن وإيمانهم به بعد إعراض أهل الأرض في الطائف، [8, 9].",
+        "choices": [
+            { "choice_text": "تحويل القبلة", "is_correct": false },
+            { "choice_text": "استماع الجن للقرآن", "is_correct": true },
+            { "choice_text": "نزول مائدة من السماء", "is_correct": false },
+            { "choice_text": "انشقاق القمر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الرابط الذي ذكره الجن بين القرآن وبين الأنبياء السابقين؟",
+        "difficulty_score": 700,
+        "explanation": "قالوا: 'إنا سمعنا كتاباً أُنزل من بعد موسى'، وهو الربط الثالث بين الرسالتين في السيرة، [10].",
+        "choices": [
+            { "choice_text": "ربطوه بكتاب عيسى عليه السلام", "is_correct": false },
+            { "choice_text": "ربطوه بكتاب موسى عليه السلام", "is_correct": true },
+            { "choice_text": "ربطوه بصحف إبراهيم", "is_correct": false },
+            { "choice_text": "قالوا إنه كتاب جديد لا مثيل له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "مَن هم الأشخاص الثلاثة الذين ربطوا بين رسالة النبي ﷺ ورسالة موسى عليه السلام؟",
+        "difficulty_score": 900,
+        "explanation": "هم ورقة بن نوفل، والنجاشي، والجن في سورة الأحقاف، [10].",
+        "choices": [
+            { "choice_text": "أبو بكر، وعمر، وعثمان", "is_correct": false },
+            { "choice_text": "ورقة بن نوفل، والنجاشي، والجن", "is_correct": true },
+            { "choice_text": "سعد بن معاذ، وأسعد بن زرارة، والبراء", "is_correct": false },
+            { "choice_text": "أبو طالب، وخديجة، وحمزة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أمر المطعم بن عدي أبناءه عند دخول النبي ﷺ مكة؟",
+        "difficulty_score": 400,
+        "explanation": "أمرهم بلبس السلاح والوقوف عند أركان البيت لحمايته، [11].",
+        "choices": [
+            { "choice_text": "بالبقاء في المنزل", "is_correct": false },
+            { "choice_text": "بالتظاهر بعدم معرفته", "is_correct": false },
+            { "choice_text": "بلبس السلاح والوقوف عند أركان البيت", "is_correct": true },
+            { "choice_text": "بالدخول في الإسلام فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس السياسي للمصلحين من استعانة النبي ﷺ بالمطعم بن عدي؟",
+        "difficulty_score": 800,
+        "explanation": "الدرس هو عدم استعداء كل الناس، والتفريق في التعامل السياسي وحفظ حقوق ذوي المروءات حتى لو كانوا كفاراً، [12, 13].",
+        "choices": [
+            { "choice_text": "أن الكفار كلهم سواء في العداء", "is_correct": false },
+            { "choice_text": "ضرورة التنازل عن الثوابت العقدية", "is_correct": false },
+            { "choice_text": "عدم استعداء الجميع واستثمار المروءات", "is_correct": true },
+            { "choice_text": "أن الحماية القبلية لم تعد مفيدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استأجر النبي ﷺ عبد الله بن أريقط (المشرك) في رحلة الهجرة؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه كان 'هادياً خريتاً'، أي خبيراً جداً بالطريق ومأموناً، [14].",
+        "choices": [
+            { "choice_text": "لأنه أراد دعوته للإسلام في الطريق", "is_correct": false },
+            { "choice_text": "لأنه كان خبيراً جداً بالطرق ومأموناً", "is_correct": true },
+            { "choice_text": "لأنه كان قريباً لأبي بكر", "is_correct": false },
+            { "choice_text": "لأنه عرض خدمته مجاناً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ في أسرى بدر بخصوص المطعم بن عدي؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'لو كان المطعم بن عدي حياً ثم كلمني في هؤلاء النتنى لتركتهم له'، [13].",
+        "choices": [
+            { "choice_text": "لأمرت بقتلهم وفاءً له", "is_correct": false },
+            { "choice_text": "لأطلقت سراحهم بسببه بلا فدية", "is_correct": true },
+            { "choice_text": "لأخذت منهم فدية مضاعفة", "is_correct": false },
+            { "choice_text": "لأسلموا جميعاً بكرامته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لسورة الممتحنة، مَن هم الكفار الذين يُنهى عن توليهم؟",
+        "difficulty_score": 600,
+        "explanation": "هم الذين قاتلوا المسلمين في الدين وأخرجوهم من ديارهم وظاهروا على إخراجهم، [15, 16].",
+        "choices": [
+            { "choice_text": "كل من لا يؤمن بالإسلام", "is_correct": false },
+            { "choice_text": "الذين قاتلوا المسلمين وأخرجوهم من ديارهم", "is_correct": true },
+            { "choice_text": "التجار والمسافرون منهم", "is_correct": false },
+            { "choice_text": "من كان يسكن خارج مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم سنة مكث النبي ﷺ يدعو في مكة قبل أن ينتصر له الأوس والخزرج؟",
+        "difficulty_score": 300,
+        "explanation": "مكث 13 سنة صابراً ومحاولاً قبل التغير الجذري، [17].",
+        "choices": [
+            { "choice_text": "5 سنوات", "is_correct": false },
+            { "choice_text": "10 سنوات", "is_correct": false },
+            { "choice_text": "13 سنة", "is_correct": true },
+            { "choice_text": "23 سنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفائدة النفسية الأساسية لرحلة الإسراء والمعراج للنبي ﷺ؟",
+        "difficulty_score": 400,
+        "explanation": "كانت نوعاً من الإيناس والتعويض الإلهي بعد اشتداد الكرب ووفاة الناصرين، [18].",
+        "choices": [
+            { "choice_text": "لتعليمه فنون الحرب", "is_correct": false },
+            { "choice_text": "للإيناس والتعويض النفسي بعد الكرب", "is_correct": true },
+            { "choice_text": "لتجربة ركوب البراق", "is_correct": false },
+            { "choice_text": "للقاء ملوك الأرض في القدس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تم الإسراء إلى بيت المقدس قبل العروج إلى السماء؟",
+        "difficulty_score": 800,
+        "explanation": "ليؤكد القاموس الإسلامي على مركزية بيت المقدس وشرفه ومكانته التي لا تتغير بالظروف، [19].",
+        "choices": [
+            { "choice_text": "لأنه المسجد الوحيد المتاح حينها", "is_correct": false },
+            { "choice_text": "لتأكيد مركزيته ومكانته الشريفة في الإسلام", "is_correct": true },
+            { "choice_text": "ليأخذ النبي استراحة في الطريق", "is_correct": false },
+            { "choice_text": "لأنه طلب رؤية الهيكل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل ابن عاشور على وجود 'المسجد النبوي' مستقبلاً من لفظ 'الأقصى'؟",
+        "difficulty_score": 900,
+        "explanation": "يرى أن لفظ 'الأقصى' (الأبعد) يوحي بوجود مسجد آخر سيكون أقرب، وهو المسجد النبوي، [20].",
+        "choices": [
+            { "choice_text": "لأن المسجد الأقصى بني قبل النبوي", "is_correct": false },
+            { "choice_text": "بأن لفظ الأبعد يوحي بوجود مسجد أقرب مستقبلاً", "is_correct": true },
+            { "choice_text": "لأن النبي أخبره بذلك صراحة", "is_correct": false },
+            { "choice_text": "لأن مكة كانت بعيدة عن المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفريضة التي فُرضت في السماء مباشرة وبعدد صلوات محدد؟",
+        "difficulty_score": 200,
+        "explanation": "هي الصلوات الخمس بنظامها المعروف، [21].",
+        "choices": [
+            { "choice_text": "الزكاة", "is_correct": false },
+            { "choice_text": "الصيام", "is_correct": false },
+            { "choice_text": "الصلوات الخمس", "is_correct": true },
+            { "choice_text": "الحج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان يُفرض من الصلاة قبل حادثة المعراج؟",
+        "difficulty_score": 600,
+        "explanation": "كانت مفروضة كصلاتين (غدوة وعشياً) قبل استقرار النظام الخماسي، [21].",
+        "choices": [
+            { "choice_text": "لم تكن هناك صلاة مفروضة", "is_correct": false },
+            { "choice_text": "كانت صلاتين فقط", "is_correct": true },
+            { "choice_text": "كانت 50 صلاة منذ البداية", "is_correct": false },
+            { "choice_text": "كانت صلاة الجمعة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا رأى النبي ﷺ في السماء وكان دلالة على 'الفطرة'؟",
+        "difficulty_score": 400,
+        "explanation": "رأى إناءين أحدهما لبن والآخر خمر، فاختار اللبن، [21].",
+        "choices": [
+            { "choice_text": "الماء والعسل", "is_correct": false },
+            { "choice_text": "اللبن والخمر", "is_correct": true },
+            { "choice_text": "التمر واللبن", "is_correct": false },
+            { "choice_text": "الماء واللبن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فاجأ أبو جهل النبي ﷺ صبيحة ليلة الإسراء؟",
+        "difficulty_score": 500,
+        "explanation": "سأله ساخراً: 'هل كان من شيء؟' ليحاول تكذيبه أمام الناس، [22, 23].",
+        "choices": [
+            { "choice_text": "طلب منه مالاً", "is_correct": false },
+            { "choice_text": "سأله متهكماً: هل كان من شيء؟", "is_correct": true },
+            { "choice_text": "دعاه لوليمة", "is_correct": false },
+            { "choice_text": "سأله عن أخبار الطائف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا شعر النبي ﷺ بـ 'كربة' عندما سأله المشركون عن تفاصيل بيت المقدس؟",
+        "difficulty_score": 700,
+        "explanation": "لأنه صادق ويخشى ألا يتذكر كل التفاصيل الدقيقة (مثل الأبواب) التي لم يركز عليها في الليلة، [24].",
+        "choices": [
+            { "choice_text": "لأنه لم يذهب فعلاً", "is_correct": false },
+            { "choice_text": "لأنه نسي الطريق", "is_correct": false },
+            { "choice_text": "لأنه خشي ألا يحيط بكل التفاصيل الدقيقة", "is_correct": true },
+            { "choice_text": "لأنه كان خائفاً من أبي جهل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف حل الله تعالى هذه 'الكربة' للنبي ﷺ وهو أمام المشركين؟",
+        "difficulty_score": 600,
+        "explanation": "جلى الله له بيت المقدس فصار ينظر إليه ويخبرهم بآياته، [24, 25].",
+        "choices": [
+            { "choice_text": "أرسل له جبريل يهمس في أذنه", "is_correct": false },
+            { "choice_text": "جلى له بيت المقدس فنظر إليه ووصفه", "is_correct": true },
+            { "choice_text": "أعطاه خريطة لبيت المقدس", "is_correct": false },
+            { "choice_text": "سكت المشركون فجأة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللفظ الذي أطلقته قريش على خبر الإسراء استهزاءً؟",
+        "difficulty_score": 600,
+        "explanation": "كانوا يقولون 'زعم!' تعبيراً عن تكذيبهم الشديد، [25].",
+        "choices": [
+            { "choice_text": "قالوا: صدق!", "is_correct": false },
+            { "choice_text": "قالوا: سحر!", "is_correct": false },
+            { "choice_text": "قالوا: زعم!", "is_correct": true },
+            { "choice_text": "قالوا: خيال!", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا حدث لبعض المسلمين الجدد بعد سماع خبر الإسراء والمعراج؟",
+        "difficulty_score": 800,
+        "explanation": "يروى أن أناساً ارتدوا لأن إيمانهم لم يكن قد رسخ بعد في مقام الغيب، [26].",
+        "choices": [
+            { "choice_text": "زاد عددهم بقوة", "is_correct": false },
+            { "choice_text": "ارتد بعضهم لضعف إيمانهم بالغيب", "is_correct": true },
+            { "choice_text": "هاجروا جميعاً للحبشة", "is_correct": false },
+            { "choice_text": "سكتوا ولم يتكلموا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو منطق أبي بكر الصديق في تصديق الإسراء؟",
+        "difficulty_score": 700,
+        "explanation": "قال: 'أصدقه في خبر السماء (الوحي) أفلا أصدقه في مسير ليلة؟'، [27, 28].",
+        "choices": [
+            { "choice_text": "لأنه رأى البراق بنفسه", "is_correct": false },
+            { "choice_text": "لأنه يصدق خبر السماء اليومي (الوحي)", "is_correct": true },
+            { "choice_text": "لأنه ذهب مع النبي سراً", "is_correct": false },
+            { "choice_text": "لأنه وجد دليلاً مادياً في مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الدرس الأعظم' من حادثة الإسراء والمعراج وفقاً للمصادر؟",
+        "difficulty_score": 400,
+        "explanation": "هو مركزية الصلاة وقيمتها وأهميتها ومحوريتها في الإسلام، [28].",
+        "choices": [
+            { "choice_text": "معرفة أشكال الأنبياء", "is_correct": false },
+            { "choice_text": "تأكيد مكانة أبي بكر فقط", "is_correct": false },
+            { "choice_text": "مركزية الصلاة وقيمتها في الدين", "is_correct": true },
+            { "choice_text": "وصف بيت المقدس للمشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي عبادة بدنية تعتبر 'ركن الدين' وفُرضت في المقام الشريف العزيز؟",
+        "difficulty_score": 300,
+        "explanation": "هي الصلاة، وهي العبادة المركزية، [29].",
+        "choices": [
+            { "choice_text": "الصوم", "is_correct": false },
+            { "choice_text": "الصلاة", "is_correct": true },
+            { "choice_text": "الزكاة", "is_correct": false },
+            { "choice_text": "الجهاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة الجغرافية للصعود من مكة إلى الطائف؟",
+        "difficulty_score": 500,
+        "explanation": "الطائف تقع فوق جبل عالٍ جداً، والصعود إليها شاق على الأقدام، [30].",
+        "choices": [
+            { "choice_text": "كان طريقاً منحدراً سهلاً", "is_correct": false },
+            { "choice_text": "كان طريقاً جبلياً عالياً وشاقاً", "is_correct": true },
+            { "choice_text": "كان طريقاً ساحلياً", "is_correct": false },
+            { "choice_text": "كانت الطائف بجوار مكة مباشرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الأوصاف أطلقها الجن على القرآن في سورة الجن؟",
+        "difficulty_score": 200,
+        "explanation": "قالوا: 'إنا سمعنا قرآناً عجباً'، [31].",
+        "choices": [
+            { "choice_text": "كلاماً طويلاً", "is_correct": false },
+            { "choice_text": "قرآناً عجباً", "is_correct": true },
+            { "choice_text": "شعراً جميلاً", "is_correct": false },
+            { "choice_text": "كتاباً مترجماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما دلالة إرسال النبي ﷺ خالد بن الوليد لهدم 'العزى' في وادي نخلة لاحقاً؟",
+        "difficulty_score": 900,
+        "explanation": "يدل على أن هذا الوادي الذي شهد إيمان الجن، شهد لاحقاً تطهير الأرض من أكبر أصنام مكة، [31].",
+        "choices": [
+            { "choice_text": "لأن خالد كان يحب هذا الوادي", "is_correct": false },
+            { "choice_text": "لتطهير الوادي من الشرك بعد أن شهد إيمان الجن", "is_correct": true },
+            { "choice_text": "لأن مكة كانت بعيدة جداً", "is_correct": false },
+            { "choice_text": "للبحث عن ماء في الوادي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى النفسي لقول النبي ﷺ 'لم أستفق إلا وأنا بقرن الثعالب'؟",
+        "difficulty_score": 800,
+        "explanation": "يدل على بلوغ الهم مبلغه لدرجة الغياب عن الوعي بتفاصيل الطريق، [3].",
+        "choices": [
+            { "choice_text": "أنه كان نائماً في الطريق", "is_correct": false },
+            { "choice_text": "شدة الهم التي جعلته لا يشعر بالمشي لمسافات", "is_correct": true },
+            { "choice_text": "أنه فقد الذاكرة مؤقتاً", "is_correct": false },
+            { "choice_text": "أنه كان يسير بسرعة البرق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ذكرت المصادر أن الأخشبان هما جبل أبي قبيس وقعيقان؟",
+        "difficulty_score": 400,
+        "explanation": "لأنهما الجبلان اللذان يحيطان ببطن مكة، [4].",
+        "choices": [
+            { "choice_text": "لأنهما أعلى جبال العرب", "is_correct": false },
+            { "choice_text": "لإحاطتهما بمكة (الأخشبين)", "is_correct": true },
+            { "choice_text": "لأنهما كانا يسكنان في الطائف", "is_correct": false },
+            { "choice_text": "لأنهما جبال بركانية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الرؤيا' في قوله {وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً لِّلنَّاسِ} وفقاً لابن عباس؟",
+        "difficulty_score": 900,
+        "explanation": "هي 'رؤيا عين' (أي يقظة) وليست مناماً، وهو ما جعلها فتنة للمشركين، [27].",
+        "choices": [
+            { "choice_text": "رؤيا منام حلم بها", "is_correct": false },
+            { "choice_text": "رؤيا عين (يقظة)", "is_correct": true },
+            { "choice_text": "تخيلات نفسية", "is_correct": false },
+            { "choice_text": "كشف مستقبلي فقط", "is_correct": false }
+        ]
+    },
+    { "question_text": "مَن هو صاحب البيت المعمور الذي رآه النبي ﷺ في السماء؟", "difficulty_score": 700, "explanation": "المصادر تشير للالتقاء بالأنبياء، والبيت المعمور يدخله الملائكة، والسياق يذكر إبراهيم عليه السلام مسنداً ظهره إليه في روايات السيرة، [21].", "choices": [ { "choice_text": "آدم عليه السلام", "is_correct": false }, { "choice_text": "إبراهيم عليه السلام", "is_correct": true }, { "choice_text": "موسى عليه السلام", "is_correct": false }, { "choice_text": "عيسى عليه السلام", "is_correct": false } ] },
+    { "question_text": "ما هي الدعوة التي يختم بها المصلح لقاءاته بناءً على المصادر؟", "difficulty_score": 100, "explanation": "يسأل الله أن يرزقنا حب نبيه ﷺ وتقديم حبه على أنفسنا وأهلينا، [32].", "choices": [ { "choice_text": "طلب المال والولد", "is_correct": false }, { "choice_text": "حب النبي ﷺ وتقديم حبه على كل شيء", "is_correct": true }, { "choice_text": "النصر على الأعداء فوراً", "is_correct": false }, { "choice_text": "طول العمر في الدنيا", "is_correct": false } ] }
+]
+    }

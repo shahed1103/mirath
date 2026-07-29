@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 76,
+    "questions": [
+         {
+        "question_text": "ما هو الأصل الذي انطلقت منه المحاضرة في التعامل مع مصطلحات المحدثين؟",
+        "difficulty_score": 100,
+        "explanation": "المحاضرة أكدت أن الطريقة المثلى هي عدم قولبة المصطلح في تعريف واحد لأن الحفاظ يستعملونه بإطلاقات متنوعة [18].",
+        "choices": [
+            { "choice_text": "حصر المصطلح في تعريف واحد جامع مانع", "is_correct": false },
+            { "choice_text": "عدم قولبة المصطلح في تعريف واحد وتعدد إطلاقاته", "is_correct": true },
+            { "choice_text": "اعتماد تعاريف المتأخرين فقط", "is_correct": false },
+            { "choice_text": "إلغاء المصطلحات القديمة وتطويرها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من المصطلحات التالية لم يتم تناوله في هذا المجلس (المجلس السادس)؟",
+        "difficulty_score": 200,
+        "explanation": "المحاضرة ذكرت أن مصطلحات المنكر والشاذ والمضطرب والمسند والمرسل قد تم أخذها في فصول سابقة [25].",
+        "choices": [
+            { "choice_text": "الحسن", "is_correct": false },
+            { "choice_text": "الغريب", "is_correct": false },
+            { "choice_text": "التدليس", "is_correct": false },
+            { "choice_text": "المضطرب", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ماذا يترتب على 'تعداد معاني الحسن' بالنسبة للحكم على الحديث؟",
+        "difficulty_score": 300,
+        "explanation": "إذا تعددت المعاني، فلا يمكن إطلاق حكم واحد (كالاحتجاج به دائماً) بل يختلف الحكم بحسب نوع الحسن المراد [19].",
+        "choices": [
+            { "choice_text": "الحكم عليه دائماً بالصحة والاحتجاج", "is_correct": false },
+            { "choice_text": "الحكم عليه دائماً بالضعف والرد", "is_correct": false },
+            { "choice_text": "عدم الحكم عليه بحكم واحد بل بحسب إطلاقه", "is_correct": true },
+            { "choice_text": "لا يترتب عليه أي أثر عملي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي عُرف بتعريف الحسن بأنه 'ما روي من غير وجه ولم يكن في إسناده متهم بالكذب ولا يكون شاذاً'؟",
+        "difficulty_score": 400,
+        "explanation": "هذا هو التعريف المشهور الذي ذكره الإمام الترمذي في كتابه [3].",
+        "choices": [
+            { "choice_text": "الإمام البخاري", "is_correct": false },
+            { "choice_text": "الإمام الترمذي", "is_correct": true },
+            { "choice_text": "الإمام مسلم", "is_correct": false },
+            { "choice_text": "الإمام أحمد بن حنبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وجه الاستحسان في الأحاديث 'الغريبة' عند المحدثين؟",
+        "difficulty_score": 300,
+        "explanation": "وجه الاستحسان هو ندرتها وتفردها، مما يجعلها موضع تفاخر وتفاضل بينهم في الطلب [12, 13].",
+        "choices": [
+            { "choice_text": "قوة أسانيدها وصحتها المطلقة", "is_correct": false },
+            { "choice_text": "كونها مشهورة ومتداولة عند كل الناس", "is_correct": false },
+            { "choice_text": "ندرتها وتفردها والتفاخر بجمعها", "is_correct": true },
+            { "choice_text": "خلوها من العنعنة والتدليس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قول الناقد 'حسن صحيح'، ما هو أحد التفسيرات التي ضاق بها المتأخرون؟",
+        "difficulty_score": 500,
+        "explanation": "فسرها البعض بأن للحديث طريقين: أحدهما حسن والآخر صحيح [4].",
+        "choices": [
+            { "choice_text": "أنه حديث ضعيف جداً", "is_correct": false },
+            { "choice_text": "أنه روي من طريق واحد فقط", "is_correct": false },
+            { "choice_text": "أنه حسن من طريق وصحيح من طريق آخر", "is_correct": true },
+            { "choice_text": "أنه أقل مرتبة من الحسن بمفرده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي يحدد المعنى المراد بكلمة 'حسن' عندما يطلقها الحافظ؟",
+        "difficulty_score": 200,
+        "explanation": "النص صرح بأن 'السياق يحدد ما يلوح'، أي السياق هو الذي يبين المراد [8].",
+        "choices": [
+            { "choice_text": "طول الإسناد", "is_correct": false },
+            { "choice_text": "السياق والقرائن المحيطة", "is_correct": true },
+            { "choice_text": "عدد الرواة في الطبقة الواحدة", "is_correct": false },
+            { "choice_text": "اسم الراوي الأول فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى الأساسي لمصطلح 'الغريب'؟",
+        "difficulty_score": 100,
+        "explanation": "المعنى الأساسي للغريب هو الفرد، أي ما تفرد بروايته شخص واحد [17].",
+        "choices": [
+            { "choice_text": "الفرد", "is_correct": true },
+            { "choice_text": "المشهور", "is_correct": false },
+            { "choice_text": "المتصل", "is_correct": false },
+            { "choice_text": "المرفوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي نوع من الغرابة يمثله حديث 'إنما الأعمال بالنيات'؟",
+        "difficulty_score": 400,
+        "explanation": "يعتبر حديث 'الأعمال بالنيات' مثالاً للغرابة المطلقة لأنه تفرد به عمر رضي الله عنه في أصل السند [6].",
+        "choices": [
+            { "choice_text": "غرابة نسبية", "is_correct": false },
+            { "choice_text": "غرابة مطلقة", "is_correct": true },
+            { "choice_text": "ليس غريباً بل مشهوراً", "is_correct": false },
+            { "choice_text": "غرابة في المتن فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى توصف 'زيادة الثقة' بأنها غريبة؟",
+        "difficulty_score": 500,
+        "explanation": "عندما يروي جماعة حديثاً ويزيد أحدهم زيادة لم يذكرها غيره، توصف هذه الزيادة بالغرابة [6, 17].",
+        "choices": [
+            { "choice_text": "إذا رواها جميع الرواة بنفس اللفظ", "is_correct": false },
+            { "choice_text": "إذا تفرد بها أحد الرواة دون البقية", "is_correct": true },
+            { "choice_text": "إذا كانت الزيادة في أول الحديث دائماً", "is_correct": false },
+            { "choice_text": "إذا كان الراوي ضعيفاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو جوهر تدليس الإسناد؟",
+        "difficulty_score": 600,
+        "explanation": "جوهر تدليس الإسناد هو إيهام السماع من الشيخ بصيغة محتملة لحديث لم يسمعه منه مباشرة [1].",
+        "choices": [
+            { "choice_text": "تغيير اسم الشيخ بكنية غير معروفة", "is_correct": false },
+            { "choice_text": "رواية حديث لم يسمعه ممن سمع منه بصيغة محتملة", "is_correct": true },
+            { "choice_text": "الرواية عن شيخ لم يلقه أبداً", "is_correct": false },
+            { "choice_text": "تعمد الكذب في المتن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر حكم المتأخرين على حديث المدلس (بأنه مردود ما لم يصرح بالسماع) مخالفاً لمنهج المتقدمين أحياناً؟",
+        "difficulty_score": 700,
+        "explanation": "المتقدمون يختبرون الرواية ولا يردونها بمجرد العنعنة؛ فالتدليس عندهم لا يستلزم الضعف المطلق بل يتوقف على الاختبار [20, 24].",
+        "choices": [
+            { "choice_text": "لأن المتقدمين كانوا يرفضون السماع أصلاً", "is_correct": false },
+            { "choice_text": "لأن المتقدمين يجرون اختباراً للرواية ولا يكتفون بالقاعدة الجامدة", "is_correct": true },
+            { "choice_text": "لأن المتأخرين أكثر تشدداً في قبول الثقات", "is_correct": false },
+            { "choice_text": "لا يوجد خلاف بين المنهجين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يظهر التدليس ويُعرف الغش فيه بحسب النظم؟",
+        "difficulty_score": 600,
+        "explanation": "يظهر التدليس بتعدد الطرق ومقارنتها، حيث يظهر في طريق ما سكت عنه الراوي في طريق آخر [10].",
+        "choices": [
+            { "choice_text": "باعتراف الراوي دائماً", "is_correct": false },
+            { "choice_text": "بمعرفة تاريخ وفاة الشيخ", "is_correct": false },
+            { "choice_text": "بتعدد الطرق ومقارنة الروايات", "is_correct": true },
+            { "choice_text": "بالنظر في متن الحديث فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي يُرد فيها حديث المدلس باتفاق بناءً على كلام ابن المديني؟",
+        "difficulty_score": 800,
+        "explanation": "ذكر ابن المديني أنه إذا أكثر الراوي من التدليس فلا يحتج به حتى يصرح بالسماع [16].",
+        "choices": [
+            { "choice_text": "إذا دلس مرة واحدة في حياته", "is_correct": false },
+            { "choice_text": "إذا كان الراوي معروفاً بالصدق", "is_correct": false },
+            { "choice_text": "إذا أكثر من التدليس ولم يصرح بالسماع", "is_correct": true },
+            { "choice_text": "إذا روى عنه الشيخان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حديث كفارة المجلس، من هو الراوي الذي أسقطه ابن جريج ودلسه؟",
+        "difficulty_score": 900,
+        "explanation": "بناءً على التحليل، يُحتمل أن ابن جريج أسقط إبراهيم بن أبي يحيى وهو راوٍ ضعيف [22, 23].",
+        "choices": [
+            { "choice_text": "سهيل بن أبي صالح", "is_correct": false },
+            { "choice_text": "إبراهيم بن أبي يحيى", "is_correct": true },
+            { "choice_text": "موسى بن عقبة", "is_correct": false },
+            { "choice_text": "وهيب بن خالد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'الغرابة النسبية'؟",
+        "difficulty_score": 500,
+        "explanation": "الغرابة النسبية هي أن يكون أصل الحديث معروفاً من طرق، ولكن يقع التفرد في إسناد معين عن راوٍ محدد [7].",
+        "choices": [
+            { "choice_text": "أن يتفرد بالحديث صحابي واحد", "is_correct": false },
+            { "choice_text": "أن يكون الحديث غريباً بالنسبة لبلد معين أو راوٍ معين", "is_correct": true },
+            { "choice_text": "أن يكون الحديث ضعيفاً جداً", "is_correct": false },
+            { "choice_text": "أن يكون المتن مخالفاً للقرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استحسن الإمام أبو داود الأحاديث الغريبة في سننه؟",
+        "difficulty_score": 400,
+        "explanation": "لأنها أحاديث مشاهير (مثل أحاديث شعبة وسفيان) وتفرداتها تعتبر 'حساناً' ومحل فخر [13].",
+        "choices": [
+            { "choice_text": "لأنه لم يجد غيرها", "is_correct": false },
+            { "choice_text": "لكونها مشاهير تفرّد بها كبار الحفاظ وتعتبر حساناً", "is_correct": true },
+            { "choice_text": "لأنها أحاديث متواترة", "is_correct": false },
+            { "choice_text": "بسبب كثرة طرقها جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأئمة التاليين ذكر أن الحسن هو 'ما كان فيه ضعف قريب محتمل'؟",
+        "difficulty_score": 700,
+        "explanation": "نقل الشارح أن ابن الجوزي قال: 'الحسن ما كان فيه ضعف قريب محتمل' [4, 26].",
+        "choices": [
+            { "choice_text": "ابن الجوزي", "is_correct": true },
+            { "choice_text": "ابن حجر", "is_correct": false },
+            { "choice_text": "الذهبي", "is_correct": false },
+            { "choice_text": "السخاوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الحكم الذي أطلقه الشافعي على حديث ابن عمر في 'استقبال القبلة واستدبارها عند الحاجة'؟",
+        "difficulty_score": 600,
+        "explanation": "وصفه الشافعي بأنه حديث 'حسن'، مع أنه في أعلى درجات الصحة (البخاري ومسلم) [27].",
+        "choices": [
+            { "choice_text": "قال إنه ضعيف", "is_correct": false },
+            { "choice_text": "قال إنه منكر", "is_correct": false },
+            { "choice_text": "قال إنه حديث حسن", "is_correct": true },
+            { "choice_text": "قال إنه مرسل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصادر، هل مصطلح 'الحسن' عند المتقدمين مرادف دائماً للقبول؟",
+        "difficulty_score": 500,
+        "explanation": "لا، فقد يطلقون 'حسن' على الغريب الضعيف الذي يستحسنونه لتفرده ونفاسته التاريخية [13, 19].",
+        "choices": [
+            { "choice_text": "نعم، الحسن مقبول دائماً", "is_correct": false },
+            { "choice_text": "لا، قد يطلق على الضعيف المستحسن لغرابته", "is_correct": true },
+            { "choice_text": "الحسن عند المتقدمين هو الصحيح فقط", "is_correct": false },
+            { "choice_text": "الحسن دائماً مردود عندهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الإجراء الذي يفعله الناقد عندما يجد 'نكارة' في متن رواية لمدلس ثقة؟",
+        "difficulty_score": 800,
+        "explanation": "يُعمل على تتبع الإسناد لمعرفة الواسطة التي أسقطها المدلس والتي يُفترض أنها مصدر النكارة [11, 15].",
+        "choices": [
+            { "choice_text": "يقبل الحديث لأن الراوي ثقة", "is_correct": false },
+            { "choice_text": "يرد الحديث مباشرة دون بحث", "is_correct": false },
+            { "choice_text": "يبحث عن الواسطة المسقطة ويحمل النكارة عليها", "is_correct": true },
+            { "choice_text": "يغير متن الحديث ليوافق الثقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الراوي الذي قيل عنه إنه لم يسمع من مجاهد إلا أربعة أحاديث؟",
+        "difficulty_score": 700,
+        "explanation": "المحاضرة ذكرت الأعمش كمثال للراوي الذي حُصر سماعه من بعض الشيوخ (كمجاهد) [10, 15].",
+        "choices": [
+            { "choice_text": "قتادة", "is_correct": false },
+            { "choice_text": "الأعمش", "is_correct": true },
+            { "choice_text": "ابن جريج", "is_correct": false },
+            { "choice_text": "بقية بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يعني 'رائق المباني' في وصف الحديث الحسن؟",
+        "difficulty_score": 300,
+        "explanation": "يقصد به جمال اللفظ وحسنه في الأذن أو المتانة اللغوية للمتن [2].",
+        "choices": [
+            { "choice_text": "صحة الإسناد", "is_correct": false },
+            { "choice_text": "جمال وحسن متن الحديث", "is_correct": true },
+            { "choice_text": "كثرة الرواة", "is_correct": false },
+            { "choice_text": "خلوه من العلل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الحفاظ يُعد 'رأس' من روى الغرائب ووُصفت أحاديثه بالحسنة لغرابتها؟",
+        "difficulty_score": 600,
+        "explanation": "ذكرت المحاضرة أحاديث عبد الملك بن أبي سليمان كمثال لما استُحسن لغرابته [13].",
+        "choices": [
+            { "choice_text": "مالك بن أنس", "is_correct": false },
+            { "choice_text": "عبد الملك بن أبي سليمان", "is_correct": true },
+            { "choice_text": "سفيان الثوري", "is_correct": false },
+            { "choice_text": "الأوزاعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الصيغة التي تدل على 'الخبر' (أي التصريح بالسماع) عند المحدثين؟",
+        "difficulty_score": 200,
+        "explanation": "صيغة 'حدثنا' أو 'سمعت' هي التي تفيد التصريح بالسماع بخلاف 'عن' [22, 23].",
+        "choices": [
+            { "choice_text": "عن", "is_correct": false },
+            { "choice_text": "قال", "is_correct": false },
+            { "choice_text": "حدثنا", "is_correct": true },
+            { "choice_text": "أن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعتبر 'جمع الطرق' ميزة للحفاظ؟",
+        "difficulty_score": 400,
+        "explanation": "لأنه يمكنهم من الخوص في أعماق الأحاديث لاستخراج الأخطاء والعلل الخفية كالتدليس [24].",
+        "choices": [
+            { "choice_text": "لكي يزيدوا عدد صفحات كتبهم", "is_correct": false },
+            { "choice_text": "لاستخراج الأخطاء والعلل في أحاديث الثقات", "is_correct": true },
+            { "choice_text": "لإثبات أنهم سمعوا من شيوخ كثر", "is_correct": false },
+            { "choice_text": "لتبسيط الحديث للعامة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الراوي الذي استغرب منه المحدثون روايته لحديث 'كفارة المجلس' مرفوعاً؟",
+        "difficulty_score": 800,
+        "explanation": "ابن جريج رواه مرفوعاً بينما رواه غيره موقوفاً، فاستغربوا رفعه وكشفوا تدليسه [22].",
+        "choices": [
+            { "choice_text": "وهيب", "is_correct": false },
+            { "choice_text": "ابن جريج", "is_correct": true },
+            { "choice_text": "موسى بن عقبة", "is_correct": false },
+            { "choice_text": "سهيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من معرفة ما 'حُصر' من سماع المدلس عن شيخه؟",
+        "difficulty_score": 700,
+        "explanation": "إذا روى حديثاً خارج المحصور ولم يصرح بالسماع، عُلم أنه دلسه [10, 15].",
+        "choices": [
+            { "choice_text": "إثبات كذبه المطلق", "is_correct": false },
+            { "choice_text": "تمكين الناقد من كشف التدليس في الروايات الأخرى", "is_correct": true },
+            { "choice_text": "زيادة رتبة الراوي", "is_correct": false },
+            { "choice_text": "لا فائدة منها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الخيارات يعبر عن 'الغرابة المطلقة'؟",
+        "difficulty_score": 300,
+        "explanation": "الغرابة المطلقة تكون عندما ينفرد راوٍ واحد بالحديث عن الصحابي من أصل السند [6].",
+        "choices": [
+            { "choice_text": "تفرد التلميذ عن شيخه المشهور", "is_correct": false },
+            { "choice_text": "تفرد الراوي بالحديث في أصل السند", "is_correct": true },
+            { "choice_text": "مخالفة الثقة للأوثق", "is_correct": false },
+            { "choice_text": "رواية أهل بلد لحديث لا يعرفه غيرهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو رأي ابن المديني في رواية المدلس إذا لم يصرح بالسماع وكان مكثراً؟",
+        "difficulty_score": 600,
+        "explanation": "يرى أنها لا تكون حجة إذا كان الراوي يكثر من التدليس ولم يصرح [16].",
+        "choices": [
+            { "choice_text": "مقبولة دائماً", "is_correct": false },
+            { "choice_text": "مردودة دائماً حتى لو صرح", "is_correct": false },
+            { "choice_text": "ليست بحجة إذا أكثر التدليس ولم يصرح", "is_correct": true },
+            { "choice_text": "حجة بشرط أن يكون ثقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكلمة 'التفرد' التي ذكرت في بداية المحاضرة؟",
+        "difficulty_score": 200,
+        "explanation": "التفرد هو الباب الذي يلي الفصول السابقة وتم أخذه سابقاً، ويرتبط بالغرابة [7, 25].",
+        "choices": [
+            { "choice_text": "تعدد الطرق", "is_correct": false },
+            { "choice_text": "انفراد الراوي بالرواية", "is_correct": true },
+            { "choice_text": "موافقة الجماعة", "is_correct": false },
+            { "choice_text": "اتصال السند", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من القائل: 'الحسن من قارب الحسن بالترمذي من مراد أحمد بالضعيف'؟",
+        "difficulty_score": 700,
+        "explanation": "هذا القول منسوب لابن رجب في شرح العلل [26].",
+        "choices": [
+            { "choice_text": "ابن رجب", "is_correct": true },
+            { "choice_text": "ابن المديني", "is_correct": false },
+            { "choice_text": "أحمد بن حنبل", "is_correct": false },
+            { "choice_text": "البخاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى الحديث الذي يرويه الثقة ويضيف فيه لفظة لم يروها أقرانه؟",
+        "difficulty_score": 400,
+        "explanation": "تسمى 'زيادة ثقة' وقد توصف بأنها 'غريبة' [17].",
+        "choices": [
+            { "choice_text": "مدرج", "is_correct": false },
+            { "choice_text": "زيادة ثقة (غريب)", "is_correct": true },
+            { "choice_text": "منكر", "is_correct": false },
+            { "choice_text": "شاذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "هل التدليس يُعد قادحاً في عدالة الراوي مطلقاً؟",
+        "difficulty_score": 500,
+        "explanation": "لا، فكثير من المدلسين ثقات وأئمة، ولكن القدح يقع في اتصال السند في تلك الرواية المخصوصة [24].",
+        "choices": [
+            { "choice_text": "نعم، المدلس كذاب", "is_correct": false },
+            { "choice_text": "لا، التدليس لا يستلزم الضعف في العدالة", "is_correct": true },
+            { "choice_text": "نعم، كل مدلس ضعيف", "is_correct": false },
+            { "choice_text": "فقط إذا كان يدلس عن الضعفاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر الشارح استحسان البخاري لحديث ثم وصفه الترمذي بالحسن؟",
+        "difficulty_score": 600,
+        "explanation": "بأن الاستحسان قد يكون للصحة، فالبخاري صححه والترمذي استحسن صحته [5].",
+        "choices": [
+            { "choice_text": "بينهما تعارض", "is_correct": false },
+            { "choice_text": "هما قولان متوافقان في النتيجة (الصحة)", "is_correct": true },
+            { "choice_text": "البخاري يضعف والترمذي يصحح", "is_correct": false },
+            { "choice_text": "كلاهما يرى الضعف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو حكم الغريب المستحسن 'لغرابته' في الغالب؟",
+        "difficulty_score": 300,
+        "explanation": "في الغالب يكون ضعيفاً لأن التفرد مظنة الخطأ [13].",
+        "choices": [
+            { "choice_text": "صحيح جداً", "is_correct": false },
+            { "choice_text": "ضعيف في الغالب", "is_correct": true },
+            { "choice_text": "متواتر", "is_correct": false },
+            { "choice_text": "لا حكم له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الألفاظ التالية تعتبر 'محتملاً' للسماع وعدمه؟",
+        "difficulty_score": 100,
+        "explanation": "لفظ 'عن' يحتمل أن الراوي سمع الحديث ويحتمل أنه رواه بواسطة مسقطة [1, 9].",
+        "choices": [
+            { "choice_text": "سمعت", "is_correct": false },
+            { "choice_text": "عن", "is_correct": true },
+            { "choice_text": "أخبرنا", "is_correct": false },
+            { "choice_text": "حدثنا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي ميزة الحفاظ في كشف 'أغوار' التدليس؟",
+        "difficulty_score": 700,
+        "explanation": "ميزتهم هي القدرة على 'الاختبار' عبر تتبع مخارج الحديث وجمع طرقه بدقة [20, 24].",
+        "choices": [
+            { "choice_text": "سرعة الحفظ فقط", "is_correct": false },
+            { "choice_text": "الاختبار وتتبع مخارج الحديث", "is_correct": true },
+            { "choice_text": "معرفة الأنساب", "is_correct": false },
+            { "choice_text": "شدة الورع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الحجاج بن أرطأة عندما سُئل لمَ لا يروي أحاديث عبد الملك بن أبي سليمان؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'فررت من حسنها'، أي من غرابتها التي قد تكون مظنة خطأ [13].",
+        "choices": [
+            { "choice_text": "لأنها كذب", "is_correct": false },
+            { "choice_text": "لأنه لم يلقه", "is_correct": false },
+            { "choice_text": "من حسنها (غرابتها)", "is_correct": true },
+            { "choice_text": "لأنها طويلة جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا توصف الرواية التي 'أبرزت' الواسطة المسقطة في التدليس؟",
+        "difficulty_score": 800,
+        "explanation": "تسمى الرواية المبينة أو المصرحة بالواسطة، وهي التي تكشف الغش في العنعنة [11, 28].",
+        "choices": [
+            { "choice_text": "رواية شاذة", "is_correct": false },
+            { "choice_text": "رواية كاشفة للواسطة", "is_correct": true },
+            { "choice_text": "رواية منقطعة فقط", "is_correct": false },
+            { "choice_text": "رواية معلولة بالصحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'الاعتبار' في قبول الحديث الحسن عند الترمذي؟",
+        "difficulty_score": 500,
+        "explanation": "الحسن عند الترمذي هو المقبول للاعتبار، أي الذي يتقوى بغيره [26].",
+        "choices": [
+            { "choice_text": "الرد المطلق", "is_correct": false },
+            { "choice_text": "القبول للاعتبار والتقوية", "is_correct": true },
+            { "choice_text": "جعله في مرتبة الصحيح لذاته", "is_correct": false },
+            { "choice_text": "إهماله بالكلية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في النظم، ما هو الشيء الذي 'يحدد ما يلوح' من معاني الحسن؟",
+        "difficulty_score": 300,
+        "explanation": "النظم صرح بأن 'السياق يحدد ما يلوح' [8].",
+        "choices": [
+            { "choice_text": "اسم الراوي", "is_correct": false },
+            { "choice_text": "عدد الطرق", "is_correct": false },
+            { "choice_text": "السياق", "is_correct": true },
+            { "choice_text": "المتن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا قد يطلق الحافظ مصطلح 'حسن' على حديث في الصحيحين؟",
+        "difficulty_score": 400,
+        "explanation": "لأنه قد يقصد به 'الاستحسان' للصحة أو الشهرة، فالحسن هنا لا ينافي الصحة [5, 27].",
+        "choices": [
+            { "choice_text": "لأنه يريد تضعيفه", "is_correct": false },
+            { "choice_text": "لأن الحسن مرتبة أعلى من الصحيح عنده", "is_correct": false },
+            { "choice_text": "لأنه يستحسن صحته أو شهرته", "is_correct": true },
+            { "choice_text": "لأنه لم يجد كلمة 'صحيح' في لغته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يفعل الناقد عندما يجد مدلسين ثقات في إسناد حديث منكر؟",
+        "difficulty_score": 700,
+        "explanation": "يحمل نكارة المتن على احتمال التدليس (سقوط واسطة ضعيفة) [14, 15].",
+        "choices": [
+            { "choice_text": "يصحح الحديث فوراً", "is_correct": false },
+            { "choice_text": "يحمل الخطأ على الحلقة الأضعف (التدليس)", "is_correct": true },
+            { "choice_text": "يتهم الثقات بالكذب", "is_correct": false },
+            { "choice_text": "يهمل النكارة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أخا العرفان' الذي يخاطبه الناظم في مسألة قبول ورد التدليس؟",
+        "difficulty_score": 200,
+        "explanation": "يقصد به طالب العلم أو المحدث المطلع على هذا الفن [20].",
+        "choices": [
+            { "choice_text": "الراوي المدلس", "is_correct": false },
+            { "choice_text": "طالب العلم المتبصر", "is_correct": true },
+            { "choice_text": "الشيخ الذي دُلس عنه", "is_correct": false },
+            { "choice_text": "الكذاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كشف المحدثون تدليس محمد بن إسحاق في حديث مجاهد عن ابن عباس؟",
+        "difficulty_score": 900,
+        "explanation": "عبر مقارنة الروايات، حيث وجدوا رواية ذكر فيها الواسطة (ابن أبي نجيح) ورواية أخرى أسقطه فيها [11, 28].",
+        "choices": [
+            { "choice_text": "بسبب سوء حفظه", "is_correct": false },
+            { "choice_text": "عبر ظهور الواسطة المسقطة في روايات أخرى", "is_correct": true },
+            { "choice_text": "لأنه اعترف بالتدليس", "is_correct": false },
+            { "choice_text": "لأن الحديث كان منكراً جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'علة الفساد' في السماع التي قد تسبب رد حديث المدلس؟",
+        "difficulty_score": 600,
+        "explanation": "هي عدم الاتصال الحقيقي، أي وجود فجوة في السماع لم يصرح بها الراوي [20].",
+        "choices": [
+            { "choice_text": "كذب الراوي", "is_correct": false },
+            { "choice_text": "عدم الاتصال (انقطاع السماع)", "is_correct": true },
+            { "choice_text": "فسق الراوي", "is_correct": false },
+            { "choice_text": "طول السند", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قصة صفوان والحديث المنكر، كيف تعامل النبي ﷺ مع الرواة؟",
+        "difficulty_score": 700,
+        "explanation": "عذرهم لكونهم معتادين على حال معينة (الاستيقاظ عند طلوع الشمس)، لكن المحدثين أعلو الحديث لنكارة المتن [14, 24].",
+        "choices": [
+            { "choice_text": "عاقبهم", "is_correct": false },
+            { "choice_text": "عذرهم بحكم العادة", "is_correct": true },
+            { "choice_text": "كذبهم", "is_correct": false },
+            { "choice_text": "أمرهم بإعادة الرواية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المحدثون بقولهم 'فإنه في جملة قسمان' بخصوص التدليس؟",
+        "difficulty_score": 500,
+        "explanation": "يقصدون أن التدليس قد يكون مقبولاً وقد يكون مردوداً بعد الاختبار [20].",
+        "choices": [
+            { "choice_text": "أنه ضعيف دائماً", "is_correct": false },
+            { "choice_text": "أنه محتمل للقبول والرد", "is_correct": true },
+            { "choice_text": "أنه صحيح دائماً", "is_correct": false },
+            { "choice_text": "أنه يروى عن اثنين من الشيوخ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الإمام الذي سأله أبو داود عن 'الرجل يُعرف بالتدليس أيكون حجة فيما لم يقل فيه حدثنا'؟",
+        "difficulty_score": 800,
+        "explanation": "السؤال وُجه للإمام أحمد بن حنبل في 'مسائل أبي داود' [16].",
+        "choices": [
+            { "choice_text": "الإمام مالك", "is_correct": false },
+            { "choice_text": "الإمام أحمد بن حنبل", "is_correct": true },
+            { "choice_text": "الإمام البخاري", "is_correct": false },
+            { "choice_text": "الإمام مسلم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وصف حديث 'كفارة المجلس' من حيث الصحة والضعف عند كبار الأئمة؟",
+        "difficulty_score": 800,
+        "explanation": "رجح أحمد والرازيان والدارقطني أنه 'موقوف' وليس مرفوعاً، فهو معلول بالرفع [29].",
+        "choices": [
+            { "choice_text": "صحيح مرفوع", "is_correct": false },
+            { "choice_text": "موقوف (وهو المحفوظ)", "is_correct": true },
+            { "choice_text": "ضعيف جداً", "is_correct": false },
+            { "choice_text": "متواتر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة المترتبة على 'مخالفة المدلس للثقات'؟",
+        "difficulty_score": 700,
+        "explanation": "تكون مخالفته دليلاً على وجود خلل أو تدليس في روايته، فتُرد الرواية المخالفة [21, 28].",
+        "choices": [
+            { "choice_text": "قبول روايته لأنها زيادة", "is_correct": false },
+            { "choice_text": "رد روايته المخالفة واكتشاف تدليسه", "is_correct": true },
+            { "choice_text": "تضعيف الثقات الآخرين", "is_correct": false },
+            { "choice_text": "لا أثر للمخالفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُطلق على الحسن 'رائق المباني'؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب جودة لفظه ووقع كلماته المستحسن في النفس [2].",
+        "choices": [
+            { "choice_text": "لأنه مبني على اليقين", "is_correct": false },
+            { "choice_text": "لجمال وحسن ألفاظه ومتنه", "is_correct": true },
+            { "choice_text": "لأن رواته من أهل البناء", "is_correct": false },
+            { "choice_text": "لقصر إسناده", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الرواة ذُكر كمثال لمن 'يُكثر التدليس'؟",
+        "difficulty_score": 600,
+        "explanation": "ذُكرت بقية بن الوليد كمثال لمن يكثر التدليس ويجب التصريح منه بالسماع [23].",
+        "choices": [
+            { "choice_text": "بقية بن الوليد", "is_correct": true },
+            { "choice_text": "نافع", "is_correct": false },
+            { "choice_text": "الزهري", "is_correct": false },
+            { "choice_text": "مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال ابن المديني عن رواية ابن إسحاق لحديث مجاهد؟",
+        "difficulty_score": 800,
+        "explanation": "قال: 'كنت أظنه من صحيح حديث ابن إسحاق فإذا هو قد دلسه' [11, 28].",
+        "choices": [
+            { "choice_text": "إنه كذب", "is_correct": false },
+            { "choice_text": "إنه صحيح مطلقاً", "is_correct": false },
+            { "choice_text": "إنه مدلس بعد أن كان يظنه صحيحاً", "is_correct": true },
+            { "choice_text": "إنه منكر المتن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الواسطة' في اصطلاح التدليس؟",
+        "difficulty_score": 300,
+        "explanation": "هو الراوي الذي سقط من السند ولم يذكره المدلس بينه وبين شيخه [11].",
+        "choices": [
+            { "choice_text": "الصحابي", "is_correct": false },
+            { "choice_text": "الراوي المسقط من السند", "is_correct": true },
+            { "choice_text": "شيخ الشيخ", "is_correct": false },
+            { "choice_text": "مخرج الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي معنى للحسن يشير إليه قولهم 'روي من وجه غير الذي ضعفها معه'؟",
+        "difficulty_score": 500,
+        "explanation": "يشير إلى الحديث الذي يتقوى بتعدد الطرق وإن كان في كل طريق ضعف يسير [2, 3].",
+        "choices": [
+            { "choice_text": "الصحيح لذاته", "is_correct": false },
+            { "choice_text": "الحسن لغيره (بالمصطلح المتأخر)", "is_correct": true },
+            { "choice_text": "الغريب", "is_correct": false },
+            { "choice_text": "الموضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'الشهرة' التي لا تمنع الغرابة في الحديث؟",
+        "difficulty_score": 600,
+        "explanation": "هي الشهرة المعنوية أو تداول الحديث بين الرواة، لا الشهرة الاصطلاحية (رواية 3 فأكثر) [17].",
+        "choices": [
+            { "choice_text": "رواية عشرة فما فوق", "is_correct": false },
+            { "choice_text": "الشهرة المعنوية وتداول المتن", "is_correct": true },
+            { "choice_text": "كتابة الحديث في كل الكتب", "is_correct": false },
+            { "choice_text": "معرفة العامة للحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وجه الاستدلال بإخراج الشيخين للمدلسين؟",
+        "difficulty_score": 700,
+        "explanation": "الاستدلال على أن التدليس ليس جرحاً كلياً، وأن العبرة بالاختبار وثبوت السماع [16].",
+        "choices": [
+            { "choice_text": "أن التدليس لا يضر أبداً", "is_correct": false },
+            { "choice_text": "أن منهجهما هو اختبار الروايات لا الرد المطلق", "is_correct": true },
+            { "choice_text": "أنهما لم يعلما بتدليسهم", "is_correct": false },
+            { "choice_text": "أنهم صحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو نوع 'الفساد' الذي يبحث عنه الناقد في إسناد المدلس؟",
+        "difficulty_score": 500,
+        "explanation": "فساد السماع، أي عدم وقوع اللقاء أو السماع المباشر في تلك الرواية [20].",
+        "choices": [
+            { "choice_text": "فساد العقيدة", "is_correct": false },
+            { "choice_text": "فساد السماع (الانقطاع)", "is_correct": true },
+            { "choice_text": "فساد اللغة", "is_correct": false },
+            { "choice_text": "فساد الورق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي الألفاظ التالية تخرج الراوي من دائرة 'التدليس' في الرواية المحددة؟",
+        "difficulty_score": 100,
+        "explanation": "لفظ 'سمعت' نص صريح في السماع يزيل احتمال التدليس [23].",
+        "choices": [
+            { "choice_text": "عن", "is_correct": false },
+            { "choice_text": "قال", "is_correct": false },
+            { "choice_text": "سمعت", "is_correct": true },
+            { "choice_text": "أن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'مستوراً' في قول الناظم بخصوص الواسطة؟",
+        "difficulty_score": 400,
+        "explanation": "أي كان الراوي المسقط مخفياً ومغطى بالعنعنة حتى كشفه جمع الطرق [11].",
+        "choices": [
+            { "choice_text": "ضعيفاً", "is_correct": false },
+            { "choice_text": "مخفياً غير ظاهر في السند", "is_correct": true },
+            { "choice_text": "مجهولاً", "is_correct": false },
+            { "choice_text": "ثقة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا قد يوصف حديث بأنه 'حسن غريب' عند الترمذي؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه فرد من حيث السند (غريب) ولكنه مقبول أو مستحسن المتن (حسن) [8].",
+        "choices": [
+            { "choice_text": "لأنه ضعيف جداً", "is_correct": false },
+            { "choice_text": "لأنه مقبول مع تفرده", "is_correct": true },
+            { "choice_text": "لأنه روي من ألف وجه", "is_correct": false },
+            { "choice_text": "لأنه موضوع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخطوة الأولى لاختبار رواية المدلس؟",
+        "difficulty_score": 300,
+        "explanation": "جمع طرق الحديث لمقارنتها [10].",
+        "choices": [
+            { "choice_text": "سؤال الراوي", "is_correct": false },
+            { "choice_text": "جمع الطرق", "is_correct": true },
+            { "choice_text": "النظر في كتب الجرح", "is_correct": false },
+            { "choice_text": "الحكم عليه بالضعف فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الراوي الذي يروي عن أبي هريرة ويسمى ابنه سهيل؟",
+        "difficulty_score": 200,
+        "explanation": "هو صالح بن أبي صالح (سمعان)، وابنه سهيل بن أبي صالح [21].",
+        "choices": [
+            { "choice_text": "نافع", "is_correct": false },
+            { "choice_text": "صالح بن أبي صالح", "is_correct": true },
+            { "choice_text": "سعيد بن المسيب", "is_correct": false },
+            { "choice_text": "حماد بن زيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة مقارنة رواية 'وهيب' ورواية 'ابن جريج' في حديث كفارة المجلس؟",
+        "difficulty_score": 800,
+        "explanation": "تبين أن رواية وهيب الموقوفة هي المحفوظة، ورواية ابن جريج فيها تدليس [22].",
+        "choices": [
+            { "choice_text": "كلاهما صحيح", "is_correct": false },
+            { "choice_text": "رواية وهيب هي المحفوظة", "is_correct": true },
+            { "choice_text": "رواية ابن جريج هي الأصح", "is_correct": false },
+            { "choice_text": "الروايتان ضعيفتان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد بـ 'التدليس يظهر بالتعدد'؟",
+        "difficulty_score": 500,
+        "explanation": "أي بتعدد الروايات والطرق يتبين الانقطاع المخفي [10].",
+        "choices": [
+            { "choice_text": "بتعدد الشيوخ", "is_correct": false },
+            { "choice_text": "بتعدد طرق الحديث الواحد", "is_correct": true },
+            { "choice_text": "بتعدد الكتب", "is_correct": false },
+            { "choice_text": "بتعدد السنوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الجامع' الذي يجمع إطلاقات الحسن المختلفة؟",
+        "difficulty_score": 600,
+        "explanation": "هو 'استحسان الناقد' لجهة ما في الحديث (شهرة، صحة، أو ندرة) [5].",
+        "choices": [
+            { "choice_text": "اتصال السند دائماً", "is_correct": false },
+            { "choice_text": "استحسان الناقد للحديث لسبب ما", "is_correct": true },
+            { "choice_text": "كثرة الرواة", "is_correct": false },
+            { "choice_text": "عدم المخالفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي إمام ذكر أن الترمذي يطلق 'حسن' على ما فيه ضعف محتمل؟",
+        "difficulty_score": 700,
+        "explanation": "ذُكر ذلك عن ابن رجب وابن الجوزي في سياق تقريب الحسن من مراد أحمد بالضعيف [4, 26].",
+        "choices": [
+            { "choice_text": "ابن الجوزي", "is_correct": true },
+            { "choice_text": "النووي", "is_correct": false },
+            { "choice_text": "ابن الصلاح", "is_correct": false },
+            { "choice_text": "العراقي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فُسّر ضيق المتأخرين بكلام الترمذي 'حسن صحيح'؟",
+        "difficulty_score": 400,
+        "explanation": "بسبب محاولتهم حصر المصطلحات في تعاريف ضيقة لا تتحمل الجمع [4].",
+        "choices": [
+            { "choice_text": "لقلة علمهم", "is_correct": false },
+            { "choice_text": "لمحاولتهم قولبة المصطلح في تعريف واحد", "is_correct": true },
+            { "choice_text": "لأن الترمذي كان يخطئ", "is_correct": false },
+            { "choice_text": "لأن اللغة تغيرت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحالة التي يكون فيها 'الغريب' مستنكراً؟",
+        "difficulty_score": 500,
+        "explanation": "عندما ينفرد به من لا يُحتمل تفرده أو يخالف غيره [3].",
+        "choices": [
+            { "choice_text": "إذا رواه البخاري", "is_correct": false },
+            { "choice_text": "إذا تفرد به الراوي وكان فيه مخالفة أو ضعف", "is_correct": true },
+            { "choice_text": "إذا كان مشهوراً", "is_correct": false },
+            { "choice_text": "إذا كان متصله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى إسقاط الراوي لشيخه وروايته عمن فوقه بلفظ محتمل؟",
+        "difficulty_score": 200,
+        "explanation": "هو تدليس الإسناد [1].",
+        "choices": [
+            { "choice_text": "تدليس الشيوخ", "is_correct": false },
+            { "choice_text": "تدليس الإسناد", "is_correct": true },
+            { "choice_text": "تدليس التسوية", "is_correct": false },
+            { "choice_text": "الإرسال الخفي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الخيارات التالية 'ليس' من شروط الحسن عند الترمذي؟",
+        "difficulty_score": 600,
+        "explanation": "شروط الترمذي للحسن: لا يكون في إسناده متهم، لا يكون شاذاً، يروى من غير وجه. (علو الإسناد ليس شرطاً) [3].",
+        "choices": [
+            { "choice_text": "أن يروى من غير وجه", "is_correct": false },
+            { "choice_text": "ألا يكون شاذاً", "is_correct": false },
+            { "choice_text": "ألا يكون في إسناده متهم بالكذب", "is_correct": false },
+            { "choice_text": "أن يكون عالي الإسناد", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما هي 'حلقة أضعف' في السلسلة التي يُحمل عليها الخطأ؟",
+        "difficulty_score": 700,
+        "explanation": "هي الحلقة التي فيها مدلس لم يصرح بالسماع في حديث منكر [14, 15].",
+        "choices": [
+            { "choice_text": "الصحابي", "is_correct": false },
+            { "choice_text": "المدلس الذي لم يصرح بالسماع", "is_correct": true },
+            { "choice_text": "أول راوٍ في السند", "is_correct": false },
+            { "choice_text": "كل الرواة ثقات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا اعتذر النبي ﷺ للرجل الذي كان ينام عن صلاة الفجر؟",
+        "difficulty_score": 500,
+        "explanation": "اعتذر له بأن عائلته معروفة بهذا الحال (النوم عن الصلاة لغلبة الحال) [14, 24].",
+        "choices": [
+            { "choice_text": "بأنه كان مريضاً", "is_correct": false },
+            { "choice_text": "بأن أهله بيت لا يستيقظون حتى تطلع الشمس (عادة أهله)", "is_correct": true },
+            { "choice_text": "بأنه كان مسافراً", "is_correct": false },
+            { "choice_text": "لم يعذره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يحدث إذا 'ترجح التدليس' في الرواية المختبرة؟",
+        "difficulty_score": 800,
+        "explanation": "يكون الرد للرواية (فالرد التدليس ترجح إن) [20].",
+        "choices": [
+            { "choice_text": "تُقبل فوراً", "is_correct": false },
+            { "choice_text": "تُرد الرواية", "is_correct": true },
+            { "choice_text": "تُحفظ ولا تُروى", "is_correct": false },
+            { "choice_text": "تُرفع مرتبتها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وصف الأحاديث المشهورة المتداولة عند الحفاظ؟",
+        "difficulty_score": 300,
+        "explanation": "هي أحاديث لا تثير التفاخر لأنها موجودة عند الجميع، بخلاف الغرائب [12, 13].",
+        "choices": [
+            { "choice_text": "أحاديث حسان دائماً", "is_correct": false },
+            { "choice_text": "أحاديث لا تثير التفاخر والتمايز", "is_correct": true },
+            { "choice_text": "أحاديث موضوعة", "is_correct": false },
+            { "choice_text": "أحاديث غريبة جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فُهم قول ابن المديني 'هذا يضيق' بخصوص العنعنة؟",
+        "difficulty_score": 900,
+        "explanation": "بأن التشديد في رد كل عنعنة للمدلس يؤدي لتضييق واسع ورد أحاديث كثيرة مقبولة [16].",
+        "choices": [
+            { "choice_text": "أن الورق يضيق", "is_correct": false },
+            { "choice_text": "أن رد كل روايات المدلسين يضيق المنهج الحديثي", "is_correct": true },
+            { "choice_text": "أن الوقت يضيق", "is_correct": false },
+            { "choice_text": "أن الطرق تضيق", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللفظ الذي يستخدمه المحدثون للتعبير عن 'الاستحسان' في المتن؟",
+        "difficulty_score": 200,
+        "explanation": "يستخدمون لفظ 'حسن' أو 'استحسنه' [2, 5].",
+        "choices": [
+            { "choice_text": "منكر", "is_correct": false },
+            { "choice_text": "حسن", "is_correct": true },
+            { "choice_text": "متروك", "is_correct": false },
+            { "choice_text": "شاذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ختاماً، ما هو الهدف من دراسة هذه المصطلحات بحسب المحاضرة؟",
+        "difficulty_score": 400,
+        "explanation": "فهم تطبيقات المحدثين وكيفية تعاملهم مع الأحاديث بعيداً عن القواعد الجامدة [18, 25].",
+        "choices": [
+            { "choice_text": "الحفظ المجرد للتعاريف", "is_correct": false },
+            { "choice_text": "فهم تطبيقات المحدثين العملية", "is_correct": true },
+            { "choice_text": "الاعتراض على المتأخرين فقط", "is_correct": false },
+            { "choice_text": "تأليف كتب جديدة", "is_correct": false }
+        ]
+    }
+]
+    }

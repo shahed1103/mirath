@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 37,
+    "questions": [
+        {
+        "question_text": "وفقاً للمنهجية المعرفية المذكورة في المصادر، ما هو الترتيب الصحيح لمواضيع الدراسة؟",
+        "difficulty_score": 100,
+        "explanation": "أوضح المحاضر أن الترتيب يبدأ بنظرية المعرفة أولاً، ثم ينتقل إلى مصادر التلقي [1].",
+        "choices": [
+            { "choice_text": "مصادر التلقي ثم نظرية المعرفة", "is_correct": false },
+            { "choice_text": "نظرية المعرفة ثم مصادر التلقي", "is_correct": true },
+            { "choice_text": "حجية السنة ثم الإجماع", "is_correct": false },
+            { "choice_text": "القواعد اللغوية ثم نظرية المعرفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المصادر الثلاثة للتلقي التي تشكل المنظومة النهائية المذكورة؟",
+        "difficulty_score": 200,
+        "explanation": "مصادر التلقي التي انتهى إليها المنهج هي القرآن الكريم، السنة النبوية، ثم الإجماع [1، 2].",
+        "choices": [
+            { "choice_text": "القرآن، السنة، والقياس", "is_correct": false },
+            { "choice_text": "القرآن، الإجماع، والعقل", "is_correct": false },
+            { "choice_text": "القرآن، السنة، والإجماع", "is_correct": true },
+            { "choice_text": "السنة، الإجماع، وقول الصحابي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية لم يُذكر ضمن 'القاعدة المعرفية المنهجية الضرورية' للإنسان؟",
+        "difficulty_score": 200,
+        "explanation": "الكتب المذكورة هي 'تثبيت حجية السنة'، 'ينبوع الغواية الفكرية'، و 'دلائل أصول الإسلام' [2].",
+        "choices": [
+            { "choice_text": "تثبيت حجية السنة", "is_correct": false },
+            { "choice_text": "ينبوع الغواية الفكرية", "is_correct": false },
+            { "choice_text": "دلائل أصول الإسلام", "is_correct": false },
+            { "choice_text": "زاد المعاد في هدي خير العباد", "is_correct": true }
+        ]
+    },
+    {
+        "question_text": "ما هي السمة الأساسية لما يسمى بـ 'وهم المعرفة' الناتج عن شبكات التواصل؟",
+        "difficulty_score": 300,
+        "explanation": "وهم المعرفة هو انتفاخ سريع يشعر به الإنسان لكنه منقطع الجذور ولا يثبت أمام التحديات الفكرية العميقة [3].",
+        "choices": [
+            { "choice_text": "أنه ناتج عن بحث علمي رصين", "is_correct": false },
+            { "choice_text": "أنه معرفة راسخة الجذور", "is_correct": false },
+            { "choice_text": "أنه انتفاخ منقطع الجذور ينهار أمام التحدي الفكري", "is_correct": true },
+            { "choice_text": "أنه يتطلب صبراً وطول نفس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم يبلغ عدد صفحات الكتب الثلاثة المقررة تقريباً لتكوين القاعدة المعرفية الأولية؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المحاضر أن الكتب الثلاثة (ينبوع الغواية، دلائل الأصول، تثبيت الحجية) تبلغ حوالي ألف صفحة [4].",
+        "choices": [
+            { "choice_text": "500 صفحة", "is_correct": false },
+            { "choice_text": "1000 صفحة", "is_correct": true },
+            { "choice_text": "1500 صفحة", "is_correct": false },
+            { "choice_text": "2000 صفحة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية استدل بها المحاضر على وجود 'وحي غير قرآني' يتعلق بتطلع النبي ﷺ للقبلة؟",
+        "difficulty_score": 400,
+        "explanation": "الاستدلال بآية 'قد نرى تقلب وجهك في السماء فلنولينك قبلة ترضاها' يدل على منعه من التحول قبلها بوحي لم يرد في القرآن [5].",
+        "choices": [
+            { "choice_text": "آية التحريم", "is_correct": false },
+            { "choice_text": "آية تحويل القبلة في سورة البقرة", "is_correct": true },
+            { "choice_text": "آية الصلاة في سورة الأنفال", "is_correct": false },
+            { "choice_text": "آية حفظ الذكر في سورة الحجر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الملائكة الذين أخبر النبي ﷺ الصحابة بنزولهم في يوم 'أحد'؟",
+        "difficulty_score": 300,
+        "explanation": "وفقاً لسورة آل عمران المذكورة، أخبرهم بنزول 3000 من الملائكة [6].",
+        "choices": [
+            { "choice_text": "1000 ملك", "is_correct": false },
+            { "choice_text": "2000 ملك", "is_correct": false },
+            { "choice_text": "3000 ملك", "is_correct": true },
+            { "choice_text": "5000 ملك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وجه الدلالة من إخبار النبي ﷺ بأعداد الملائكة في بدر وأحد؟",
+        "difficulty_score": 500,
+        "explanation": "وجه الدلالة هو أن النبي ﷺ علم هذا التفصيل بوحي، وهذا الوحي غير مسجل كنص في القرآن الكريم كأمر مسبق [7].",
+        "choices": [
+            { "choice_text": "أن الوحي محصور في القرآن فقط", "is_correct": false },
+            { "choice_text": "أن النبي ﷺ يعلم الغيب من تلقاء نفسه", "is_correct": false },
+            { "choice_text": "أن الوحي يتنزل على النبي ﷺ بغير النص القرآني", "is_correct": true },
+            { "choice_text": "أن الملائكة لا تنزل إلا بنص قرآني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في آية سورة التحريم، ما الذي يثبت وجود وحي غير قرآني؟",
+        "difficulty_score": 600,
+        "explanation": "قوله تعالى 'نبأني العليم الخبير' رداً على سؤال عائشة 'من أنبأك هذا' يثبت أن الله أنبأه بوحي لم يسجل كآية قبل ذلك [8].",
+        "choices": [
+            { "choice_text": "إخبار الله للنبي ﷺ بما أسرته زوجته له", "is_correct": true },
+            { "choice_text": "نزول جبريل بالقرآن جهرة", "is_correct": false },
+            { "choice_text": "تحدث النبي ﷺ من تلقاء نفسه", "is_correct": false },
+            { "choice_text": "عدم وجود وحي في تلك الحادثة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يرد المحاضر على منكري السنة الذين يدعون اتباع 'الوحي القرآني' فقط؟",
+        "difficulty_score": 500,
+        "explanation": "يرد بأنهم هم من خالفوا الوحي 'بتحجيمه' في النص القرآني، بينما الوحي نفسه أثبت وجود وحي غير قرآني [8].",
+        "choices": [
+            { "choice_text": "بأن السنة ليست وحياً", "is_correct": false },
+            { "choice_text": "بأن القرآن غير كافٍ وحده", "is_correct": false },
+            { "choice_text": "بأنهم خالفوا سعة الوحي الذي أثبته القرآن لنفسه", "is_correct": true },
+            { "choice_text": "بأن الإجماع أهم من النص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العلاقة بين 'الأحاديث القدسية' وبين 'التواتر' كدليل على حجية السنة؟",
+        "difficulty_score": 600,
+        "explanation": "تواتر وجود نصوص يقول فيها النبي ﷺ 'قال الله تعالى' وهي ليست في القرآن، يثبت وجود وحي متواتر خارج القرآن [9].",
+        "choices": [
+            { "choice_text": "لا علاقة بينهما", "is_correct": false },
+            { "choice_text": "أن الأحاديث القدسية جزء من النص القرآني", "is_correct": false },
+            { "choice_text": "أن تواترها يثبت وجود وحي إضافي غير مسجل في المصحف", "is_correct": true },
+            { "choice_text": "أن الأحاديث القدسية غير متواترة أصلاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف انقلب دليل 'عالم الغيب فلا يظهر على غيبه أحداً' ضد منكري السنة؟",
+        "difficulty_score": 700,
+        "explanation": "تكملة الآية 'إلا من ارتضى من رسول' تثبت أن الله يطلع الرسل على غيبه، والأخبار الغيبية في السنة تطبيق لذلك [10].",
+        "choices": [
+            { "choice_text": "بأن الرسل لا يعلمون شيئاً من الغيب", "is_correct": false },
+            { "choice_text": "بأن الغيب محصور في القرآن فقط", "is_correct": false },
+            { "choice_text": "بأن الله يرتضي من الرسل ليطلعهم على غيبه بوحي غير قرآني", "is_correct": true },
+            { "choice_text": "بأن السنة لا تحتوي على أخبار غيبية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى المبدأ الذي يتم فيه استخدام نفس دليل الخصم للرد عليه؟",
+        "difficulty_score": 500,
+        "explanation": "يعرف هذا المبدأ بـ 'قلب الأدلة' على المستدل [11].",
+        "choices": [
+            { "choice_text": "المصادرة على المطلوب", "is_correct": false },
+            { "choice_text": "قلب الأدلة", "is_correct": true },
+            { "choice_text": "الاستدلال الدائري", "is_correct": false },
+            { "choice_text": "دليل الخلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية ذكره المحاضر كمرجع متخصص في موضوع 'الوحي'؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر كتاب 'سنة وحي' (أو بهذا المعنى) لمؤلفه خليل ملا خاطر [12].",
+        "choices": [
+            { "choice_text": "فتح الباري", "is_correct": false },
+            { "choice_text": "سنة وحي لخليل ملا خاطر", "is_correct": true },
+            { "choice_text": "المنهاج للنووي", "is_correct": false },
+            { "choice_text": "الرسالة للشافعي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'رمي الجمرات' دليلاً على التواتر العملي للسنة؟",
+        "difficulty_score": 400,
+        "explanation": "لأن الأمة الإسلامية عبر القرون تواترت على هذا العمل الذي أصله الفعل النبوي وليس نصاً قرآنياً مفصلاً [13].",
+        "choices": [
+            { "choice_text": "لأنه مذكور بتفاصيله في القرآن", "is_correct": false },
+            { "choice_text": "لأنه تواتر عملي نابع من الفعل النبوي أجمعت عليه الأمة", "is_correct": true },
+            { "choice_text": "لأنه مجرد رأي فقهي للمذاهب الأربعة", "is_correct": false },
+            { "choice_text": "لأنه بدعة لم تكن في زمن النبي ﷺ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي رتبة 'الإجماع' المعرفية مقارنة بـ 'التواتر' وفقاً للمصادر؟",
+        "difficulty_score": 600,
+        "explanation": "الإجماع يعتبر طبقة أقل من التواتر من حيث إمكانية المنازعة فيه وفي وقوعه [14].",
+        "choices": [
+            { "choice_text": "الإجماع أقوى من التواتر دائماً", "is_correct": false },
+            { "choice_text": "التواتر والإجماع متساويان تماماً", "is_correct": false },
+            { "choice_text": "الإجماع طبقة أقل من التواتر", "is_correct": true },
+            { "choice_text": "الإجماع لا قيمة له أمام التواتر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القاعدة المنهجية التي نصح بها المحاضر عند نقاش المشككين؟",
+        "difficulty_score": 500,
+        "explanation": "القاعدة هي عدم استخفاف أو استبعاد أي دليل (حتى الإجماع) لأنه قد يفيد في وقت ما أو مع طرف معين [22، 24].",
+        "choices": [
+            { "choice_text": "الاكتفاء بالأدلة العقلية فقط", "is_correct": false },
+            { "choice_text": "عدم استبعاد أو استخفاف أي دليل تتعلمه", "is_correct": true },
+            { "choice_text": "استخدام أدلة التواتر فقط", "is_correct": false },
+            { "choice_text": "تجنب النقاش تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لقوله تعالى 'ولو اتبع الحق أهواءهم لفسدت السماوات والأرض'، ما هي الفائدة المستنبطة؟",
+        "difficulty_score": 700,
+        "explanation": "الفائدة هي أن الحق ثابت ومستقل عن أهواء البشر وتصوراتهم المتغيرة للأصلح [26، 27].",
+        "choices": [
+            { "choice_text": "أن الحق يتبع رأي الأغلبية", "is_correct": false },
+            { "choice_text": "أن الله يشرع ما يراه الناس أصلح لهم دائماً", "is_correct": false },
+            { "choice_text": "أن الحق ليس تابعاً للأهواء البشرية المتقلبة", "is_correct": true },
+            { "choice_text": "أن الأهواء هي مصدر التشريع في المعاملات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المحاور الثلاثة الأساسية لتثبيت 'موثوقية نقل السنة'؟",
+        "difficulty_score": 400,
+        "explanation": "المحاور هي: 1- الأصل العام في حفظ الدين، 2- التدوين المبكر، 3- علم الحديث وموثوقيته [15].",
+        "choices": [
+            { "choice_text": "القرآن، السنة، والإجماع", "is_correct": false },
+            { "choice_text": "الأصل في حفظ الدين، التدوين المبكر، وعلم الحديث", "is_correct": true },
+            { "choice_text": "الجرح والتعديل، علل الحديث، والتاريخ", "is_correct": false },
+            { "choice_text": "اللغة العربية، الفقه، وأصول الفقه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يتم الاستدلال بآية 'إنا نحن نزلنا الذكر وإنا له لحافظون' على حفظ السنة؟",
+        "difficulty_score": 600,
+        "explanation": "من خلال وجهين: أن 'الذكر' اسم عام للوحي (قرآن وسنة)، أو أن حفظ القرآن يستلزم حفظ بيانه (السنة) [30، 32].",
+        "choices": [
+            { "choice_text": "الآية تشمل القرآن فقط بإجماع العلماء", "is_correct": false },
+            { "choice_text": "الذكر اسم خاص للقرآن والسنة تابعة له فقهياً", "is_correct": false },
+            { "choice_text": "من تمام حفظ القرآن حفظ بيانه ولسانه الذي نزل به", "is_correct": true },
+            { "choice_text": "السنة محفوظة بالتواتر وليس بهذه الآية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو العالم الذي ذكر المحاضر أنه يقرر صراحة دخول السنة في 'الذكر' في آية الحجر؟",
+        "difficulty_score": 600,
+        "explanation": "ذكر المحاضر أن الإمام ابن حزم يتبنى هذا الوجه وبقوة [16].",
+        "choices": [
+            { "choice_text": "الإمام الشافعي", "is_correct": false },
+            { "choice_text": "الإمام البخاري", "is_correct": false },
+            { "choice_text": "الإمام ابن حزم", "is_correct": true },
+            { "choice_text": "الإمام أحمد بن حنبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'حفظ اللغة العربية' من تمام حفظ القرآن الكريم؟",
+        "difficulty_score": 700,
+        "explanation": "لأن تعطيل العلم بالعربية يجعل النص القرآني متلوّاً للبركة فقط وغير مفعّل، وهو ما يناقض مقصود نزوله [17].",
+        "choices": [
+            { "choice_text": "لأن العربية لغة أهل الجنة", "is_correct": false },
+            { "choice_text": "لأن القرآن نزل ليكون مفعّلاً ولا يُفهم تفعيله إلا بلسانه وبيانه", "is_correct": true },
+            { "choice_text": "لأن اللغة العربية جزء من النص القرآني", "is_correct": false },
+            { "choice_text": "لا علاقة بين حفظ اللغة وحفظ القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى قوله تعالى 'فإن تنازعتم في شيء فردوه إلى الله والرسول'؟",
+        "difficulty_score": 500,
+        "explanation": "المقتضى هو وجوب حفظ السنة، لأن الرد للرسول بعد وفاته يكون إلى سنته، وبما أن النزاع متكرر فالسنة يجب أن تبقى محفوظة [34، 35].",
+        "choices": [
+            { "choice_text": "الرد إلى الرسول خاص بحياته فقط", "is_correct": false },
+            { "choice_text": "وجوب حفظ مرجع النزاع (السنة) طالما وجد مؤمنون ونزاع", "is_correct": true },
+            { "choice_text": "أن القرآن كافٍ عند النزاع ولا نحتاج للسنة", "is_correct": false },
+            { "choice_text": "أن الرد للرسول يعني الرد للعقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة من البوابات الثلاث لعلم الحديث وصفت بأنها 'القانون الأهم'؟",
+        "difficulty_score": 400,
+        "explanation": "البوابة الأولى هي شروط الحديث الصحيح [18].",
+        "choices": [
+            { "choice_text": "شروط الحديث الصحيح", "is_correct": true },
+            { "choice_text": "تحقيق النقد الباطني", "is_correct": false },
+            { "choice_text": "التحديث المستمر للإطلاقات", "is_correct": false },
+            { "choice_text": "علم الرجال والجرح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الراوي الذي اتخذه المحاضر 'رحلة نموذجية' لشرح عمل المحدثين؟",
+        "difficulty_score": 300,
+        "explanation": "الراوي هو معمر بن راشد الأزدي، أحد طلاب الإمام الزهري [39، 42].",
+        "choices": [
+            { "choice_text": "أنس بن مالك", "is_correct": false },
+            { "choice_text": "قتادة بن دعامة", "is_correct": false },
+            { "choice_text": "معمر بن راشد الأزدي", "is_correct": true },
+            { "choice_text": "سفيان الثوري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يعني وجود حرف 'ع' قبل اسم الراوي في كتاب 'تهذيب التهذيب'؟",
+        "difficulty_score": 500,
+        "explanation": "يرمز حرف 'ع' إلى أن حديث الراوي موجود في الكتب الستة جميعاً (الجماعة) [19].",
+        "choices": [
+            { "choice_text": "أنه راوي عدل", "is_correct": false },
+            { "choice_text": "أنه من رواة البخاري فقط", "is_correct": false },
+            { "choice_text": "أنه أخرج له أصحاب الكتب الستة جميعاً", "is_correct": true },
+            { "choice_text": "أنه ضعيف عند الجماعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور كتاب 'تعجيل المنفعة' لابن حجر العسقلاني؟",
+        "difficulty_score": 600,
+        "explanation": "الكتاب مخصص لتعريف رواة أربعة من المسانيد غير الكتب الستة [20].",
+        "choices": [
+            { "choice_text": "تعريف رواة الكتب الستة", "is_correct": false },
+            { "choice_text": "تعريف رواة المسانيد الأربعة الزائدة على الستة", "is_correct": true },
+            { "choice_text": "شرح أحاديث البخاري ومسلم", "is_correct": false },
+            { "choice_text": "نقد رواة الشام فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تضخمت أعداد الرواة وشبكة الأسانيد في القرن الثاني الهجري؟",
+        "difficulty_score": 700,
+        "explanation": "بسبب التضخم العددي الطبيعي مع الزمن؛ حيث يأخذ عن الصحابي الواحد عدد من التابعين، وعن كل تابعي عدد من طلابه [21].",
+        "choices": [
+            { "choice_text": "بسبب كثرة الكذب في ذلك القرن", "is_correct": false },
+            { "choice_text": "بسبب ضياع الكتب في ذلك الوقت", "is_correct": false },
+            { "choice_text": "بسبب التضخم العددي والانتشار الجغرافي للرواة عبر الزمن", "is_correct": true },
+            { "choice_text": "لأن النبي ﷺ أمر بزيادة الأسانيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بعبارة 'شيخ ليس له من الحديث ما يكفي لنقده'؟",
+        "difficulty_score": 800,
+        "explanation": "تعني أن الراوي لم يروِ أحاديث كثيرة تسمح للمحدث بمقارنتها مع الثقات للحكم على ضبطه، فيتم 'تجميد' حاله [50، 51].",
+        "choices": [
+            { "choice_text": "أنه راوي ثقة جداً", "is_correct": false },
+            { "choice_text": "أنه راوي كذاب يقيناً", "is_correct": false },
+            { "choice_text": "أن مروياته قليلة لا تسمح باستقراء مستوى ضبطه", "is_correct": true },
+            { "choice_text": "أنه لا يحتاج لنقد أصلاً لعلو شأنه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الأصل' عند المحدثين تجاه الإسناد الجديد الذي لم يثبت قبوله؟",
+        "difficulty_score": 800,
+        "explanation": "الأصل هو عدم القبول والشك حتى يثبت القبول (الضبط والعدالة) [22].",
+        "choices": [
+            { "choice_text": "الأصل هو القبول حتى يثبت الكذب", "is_correct": false },
+            { "choice_text": "الأصل هو عدم القبول حتى يثبت الضبط واليقظة", "is_correct": true },
+            { "choice_text": "الأصل هو التصديق بمجرد الصلاح الظاهر", "is_correct": false },
+            { "choice_text": "لا يوجد أصل ثابت بل يرجع لذوق الناقد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف حكم أبو حاتم الرازي على 'أحمد بن إبراهيم الحلبي' بأنه كذاب وهو لا يعرفه؟",
+        "difficulty_score": 900,
+        "explanation": "من خلال نقد المتن؛ حيث وجد أن ألفاظ أحاديثه لا تشبه 'المنطق النبوي' وحساسيته المعيارية في نقد الألفاظ [23].",
+        "choices": [
+            { "choice_text": "بناءً على إشاعة سمعها عنه", "is_correct": false },
+            { "choice_text": "من خلال مقارنة أحاديثه بالمنطق النبوي والمعيار المعرفي للوحي", "is_correct": true },
+            { "choice_text": "لأنه رآه في المنام يكذب", "is_correct": false },
+            { "choice_text": "بسبب خطأ في نسبه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'معقد الإزار' في نقد الرواة والوصول لليقين بضبطهم؟",
+        "difficulty_score": 700,
+        "explanation": "هو أن يكون الراوي مكثراً للرواية ومشتركاً فيها مع غيره من الحفاظ [24].",
+        "choices": [
+            { "choice_text": "أن يكون الراوي زاهداً وعابداً", "is_correct": false },
+            { "choice_text": "أن يكون مكثراً للرواية ومشتركاً مع غيره لتتم المقارنة", "is_correct": true },
+            { "choice_text": "أن يكون وحيداً في روايته لضمان عدم الاختلاط", "is_correct": false },
+            { "choice_text": "أن يكون من أهل المدينة حصراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'الاتفاق على الخطأ' أصعب من 'الاتفاق على الصواب' منطقياً؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الصواب حقيقة واحدة يسهل للجميع نقلها، أما الخطأ فتشعباته كثيرة ومن الصعب أن تتطابق أوهام الناس فيه [25].",
+        "choices": [
+            { "choice_text": "لأن الخطأ لا يقع فيه إلا الكذابون", "is_correct": false },
+            { "choice_text": "لأن الصواب لا يتفق عليه إلا الثقات", "is_correct": false },
+            { "choice_text": "لأن احتمالات الخطأ متعددة وتطابقها بين الرواة دليل على صحة النقل أو سقوطه", "is_correct": true },
+            { "choice_text": "لأن الاتفاق على الخطأ أسهل بكثير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار الإضافي الذي يرجح رواية تلميذ على آخر عند الاختلاف؟",
+        "difficulty_score": 600,
+        "explanation": "الملازمة الطويلة للشيخ ومعرفة أسلوبه وقواعده المرجعية [26].",
+        "choices": [
+            { "choice_text": "أن يكون التلميذ أكبر سناً", "is_correct": false },
+            { "choice_text": "الملازمة الطويلة والإحاطة بمرجعيات الشيخ", "is_correct": true },
+            { "choice_text": "أن يكون التلميذ من نفس قبيلة الشيخ", "is_correct": false },
+            { "choice_text": "أن يكون التلميذ غنياً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في حالة معمر بن راشد، متى تكون روايته في أعلى درجات الصحة؟",
+        "difficulty_score": 700,
+        "explanation": "عندما يروي عن الإمام الزهري، خاصة من كتبه وأوراقه في اليمن [68، 69].",
+        "choices": [
+            { "choice_text": "عندما يروي عن ثابت البناني", "is_correct": false },
+            { "choice_text": "عندما يروي عن أهل البصرة", "is_correct": false },
+            { "choice_text": "عندما يروي عن الزهري في اليمن بوجود كتبه", "is_correct": true },
+            { "choice_text": "عندما يروي من حفظه في السفر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يحتج البخاري برواية 'معمر عن ثابت' رغم احتجاجه بكل منهما منفرداً؟",
+        "difficulty_score": 900,
+        "explanation": "لأن النقد التفصيلي أثبت ضعف معمر في هذا 'المسار' المعين (عن ثابت)، مما يظهر دقة المحدثين في نقد الأسانيد كصورة تركيبية [69، 71].",
+        "choices": [
+            { "choice_text": "لأنهما لم يلتقيا أبداً", "is_correct": false },
+            { "choice_text": "لأن البخاري يكره ثابتاً البناني", "is_correct": false },
+            { "choice_text": "بسبب وجود خلل ونقد خاص في هذا المسار الإسنادي المعين", "is_correct": true },
+            { "choice_text": "لأن الحديث كان منسوخاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مصطلح 'التلقين' وكيف كان المحدثون يختبرون به الرواة؟",
+        "difficulty_score": 800,
+        "explanation": "هو إدخال أحاديث ليست من مرويات الراوي عليه عمداً، فإن قبلها وسكت سقطت موثوقيته في الضبط [73، 74].",
+        "choices": [
+            { "choice_text": "هو تحفيظ الراوي للحديث بالصوت", "is_correct": false },
+            { "choice_text": "هو اختبار يقظة الراوي ومدى حمايته لمروياته من الخطأ الدخيل", "is_correct": true },
+            { "choice_text": "هو قراءة الحديث بسرعة أمام الراوي", "is_correct": false },
+            { "choice_text": "هو مساعدة الراوي عند النسيان فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل 'أبو نعيم الفضل بن دكين' عندما حاول يحيى بن معين تلقينه؟",
+        "difficulty_score": 800,
+        "explanation": "رفسه رفسة وأسقطه من مكانه، لأنه أدرك أنه يختبر حفظه بيقظة تامة [74، 76].",
+        "choices": [
+            { "choice_text": "تقبل الحديث الجديد منه", "is_correct": false },
+            { "choice_text": "رفسه وأسقطه لتيقنه من محاولة اختباره بطريقة لا تليق", "is_correct": true },
+            { "choice_text": "بكى من شدة الحزن", "is_correct": false },
+            { "choice_text": "اعتزل الرواية فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بمصطلح 'الاختلاط' عند المحدثين؟",
+        "difficulty_score": 700,
+        "explanation": "هو تغير حفظ الراوي وضعفه في آخر عمره لمرض أو كبر أو فقدان كتبه [27].",
+        "choices": [
+            { "choice_text": "اختلاط الروايات ببعضها عمداً", "is_correct": false },
+            { "choice_text": "تغير الحفظ في آخر العمر", "is_correct": true },
+            { "choice_text": "اختلاط الرجال بالنساء في المجالس", "is_correct": false },
+            { "choice_text": "ضياع الأسانيد تماماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف تعامل المحدثون مع رواية 'عطاء بن السائب' بعد اختلاطه؟",
+        "difficulty_score": 800,
+        "explanation": "فرزوا من سمع منه قبل الاختطاط (كرواية شعبة) وقبلوها، وميزوا من سمع بعده وردوها [78، 79].",
+        "choices": [
+            { "choice_text": "ردوا جميع مروياته للحيطة", "is_correct": false },
+            { "choice_text": "قبلوا جميع مروياته تقديراً لعلمه", "is_correct": false },
+            { "choice_text": "حددوا الرواة الذين سمعوا منه قبل الاختلاط وقبلوا روايتهم فقط", "is_correct": true },
+            { "choice_text": "جعلوه من الكذابين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق الجوهري بين 'تحديث الحكم على الرواة' و'تحديث الحكم على الأحاديث'؟",
+        "difficulty_score": 700,
+        "explanation": "ذكر المحاضر أن الحكم على الرواة ينتهي غالباً بموتهم، أما الحكم على الأحاديث فهو عملية مستمرة يقوم بها النقاد عبر دراسة المسارات الإسنادية [1].",
+        "choices": [
+            { "choice_text": "الحكم على الرواة يستمر بعد موتهم دائماً", "is_correct": false },
+            { "choice_text": "الحكم على الأحاديث ينتهي بموت مخرجيها", "is_correct": false },
+            { "choice_text": "تحديث الحكم على الرواة ينتهي بموتهم بينما نقد الأحاديث عملية مستمرة", "is_correct": true },
+            { "choice_text": "لا يوجد فرق بين المصطلحين في علم الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يخرج البخاري لـ 'معمر عن ثابت' واحتج بـ 'معمر عن الزهري'؟",
+        "difficulty_score": 800,
+        "explanation": "لأن النقد التفصيلي أثبت أن معمراً -رغم ثقته- يضعف في هذا المسار الإسنادي المعين، مما يظهر أن نقد المحدثين ليس حكماً عاماً بل تفصيلي إسنادي [69، 71].",
+        "choices": [
+            { "choice_text": "لأن معمراً لم يلتقِ بثابت البناني", "is_correct": false },
+            { "choice_text": "لأن البخاري يعتبر معمراً راوياً كذاباً", "is_correct": false },
+            { "choice_text": "لأن النقد الإسنادي أثبت وقوع خلل في رواية معمر عن ثابت خصيصاً", "is_correct": true },
+            { "choice_text": "لأن ثابت البناني لم يكن ثقة عند البخاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'أبناء الراوي' في حالة وقوع والدهم في 'الاختلاط'؟",
+        "difficulty_score": 600,
+        "explanation": "من رحمة الله بالراوي أن يكون له أبناء يقظون يحجبونه عن التحديث بعد اختلاطه حماية لمروياته السابقة من الفساد [2].",
+        "choices": [
+            { "choice_text": "أن يكتبوا الحديث بدلاً عنه", "is_correct": false },
+            { "choice_text": "أن يمنعوه من التحديث لحماية صدق مروياته السابقة", "is_correct": true },
+            { "choice_text": "أن يصححوا له الأخطاء أثناء التحديث", "is_correct": false },
+            { "choice_text": "ليس لهم دور في العملية الحديثية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الرواة التاليين روى عن 'عطاء بن السائب' قبل اختلاطه؟",
+        "difficulty_score": 700,
+        "explanation": "حدد المحدثون رواية شعبة وحماد بن زيد عن عطاء بن السائب بأنها كانت قبل الاختلاط [3].",
+        "choices": [
+            { "choice_text": "سفيان الثوري", "is_correct": false },
+            { "choice_text": "شعبة بن الحجاج", "is_correct": true },
+            { "choice_text": "يحيى بن معين", "is_correct": false },
+            { "choice_text": "عبد الرزاق الصنعاني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المحدثون بقولهم 'هذا الإسناد ضعيف' بالنسبة للمتن؟",
+        "difficulty_score": 500,
+        "explanation": "ضعف الإسناد لا يعني بالضرورة كذب المتن، فقد يكون للمتن أسانيد أخرى صحيحة أو طرق أخرى ترتقي به [82، 83].",
+        "choices": [
+            { "choice_text": "أن المتن موضوع ومكذوب يقيناً", "is_correct": false },
+            { "choice_text": "أن هذا الطريق المعين للنقل فيه خلل وليس المتن بالضرورة", "is_correct": true },
+            { "choice_text": "أن الحديث صحيح إجماعاً", "is_correct": false },
+            { "choice_text": "أن المتن لا أصل له في الدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم عدد الأحاديث التي رواها 'عبد الله بن لهيعة' تقريباً رغم وصفه بالضعف؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المحاضر أن ابن لهيعة روى حوالي 300 حديث تقريباً [4].",
+        "choices": [
+            { "choice_text": "100 حديث", "is_correct": false },
+            { "choice_text": "300 حديث", "is_correct": true },
+            { "choice_text": "500 حديث", "is_correct": false },
+            { "choice_text": "1000 حديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفلسفة المنطقية وراء تقوية الحديث بـ 'مجموع الأسانيد'؟",
+        "difficulty_score": 800,
+        "explanation": "تقوم على مبدأ 'صعوبة التوافق على الصواب'، فإذا روى عدة ضعفاء نفس المتن، فمن المستبعد اجتماعهم على نفس 'الوهم' [83، 84].",
+        "choices": [
+            { "choice_text": "أن كثرة الضعفاء تجعل الحديث صحيحاً لذاته", "is_correct": false },
+            { "choice_text": "أن الخطأ يتكرر دائماً بنفس الطريقة", "is_correct": false },
+            { "choice_text": "أن توافق عدة طرق على نفس المعنى يرجح إصابة الضعيف في هذا الحديث", "is_correct": true },
+            { "choice_text": "أن المحدثين يحبون تكثير الطرق بلا فائدة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الأصل' الذي يتبعه المحدثون عند نقد حديث لم يثبت له أصل في البخاري ومسلم؟",
+        "difficulty_score": 700,
+        "explanation": "الأصل هو عدم القبول والشك حتى تثبت العدالة والضبط التام للرواة [5].",
+        "choices": [
+            { "choice_text": "القبول مالم يثبت الكذب", "is_correct": false },
+            { "choice_text": "التوقف وعدم الحكم أبداً", "is_correct": false },
+            { "choice_text": "الرد والشك حتى يثبت القبول", "is_correct": true },
+            { "choice_text": "قبول أي متن يشبه معاني القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف المحاضر المنهج الذي يتبعه من ينكر السنة بدعوى اتباع القرآن فقط؟",
+        "difficulty_score": 600,
+        "explanation": "وصفه بأنه 'تحجيم للوحي' لأن القرآن نفسه أثبت سعة الوحي بوجود وحي غير قرآني [6، 10].",
+        "choices": [
+            { "choice_text": "اتباع حقيقي للقرآن", "is_correct": false },
+            { "choice_text": "تحجيم للوحي ومخالفة لسعته التي أثبتها القرآن", "is_correct": true },
+            { "choice_text": "اجتهاد مقبول في مسائل العقيدة", "is_correct": false },
+            { "choice_text": "منهج يقوم على العلم الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في سياق الرد على الملاحدة، كيف يتم 'قلب الدليل' المتعلق بالتشابه مع الكتب السابقة؟",
+        "difficulty_score": 800,
+        "explanation": "التشابه دليل على وحدة المصدر الإلهي وتصديق القرآن لما سبقه، وليس دليلاً على الاقتباس البشري [14، 15].",
+        "choices": [
+            { "choice_text": "بالاعتراف أن القرآن مقتبس من الإنجيل", "is_correct": false },
+            { "choice_text": "بأن التشابه يثبت وحدة المصدر الإلهي ومصداقية الوحي", "is_correct": true },
+            { "choice_text": "بأن القرآن لا يشبه الكتب السابقة أبداً", "is_correct": false },
+            { "choice_text": "بأن الكتب السابقة كلها مكذوبة لا أصل لها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المرجعية التي نرد إليها النزاع وفقاً لآية سورة النساء بعد وفاة النبي ﷺ؟",
+        "difficulty_score": 500,
+        "explanation": "الرد لله يكون لكتابه، والرد للرسول ﷺ بعد وفاته يكون لسنته [34، 35].",
+        "choices": [
+            { "choice_text": "الرد للعقل البشري فقط", "is_correct": false },
+            { "choice_text": "الرد إلى سنة الرسول ﷺ", "is_correct": true },
+            { "choice_text": "الرد إلى قول الأغلبية", "is_correct": false },
+            { "choice_text": "الرد إلى كتب التاريخ العام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو سبب 'التضخم العددي' الهائل في الأسانيد خلال القرن الثاني الهجري؟",
+        "difficulty_score": 500,
+        "explanation": "بسبب كثرة الآخذين عن التابعين وتفرقهم في الأمصار مما أنشأ شبكة واسعة من الطرق [6].",
+        "choices": [
+            { "choice_text": "بسبب ضياع الأصول الأولى", "is_correct": false },
+            { "choice_text": "الانتشار الجغرافي وزيادة عدد طلاب الحديث في الأجيال التالية", "is_correct": true },
+            { "choice_text": "بسبب أمر الحكام بتكثير الأسانيد", "is_correct": false },
+            { "choice_text": "لأن كل صحابي روى ألف حديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي وصفه المحاضر بأنه 'هندسي دقيق' في فرز رواة الكتب الستة؟",
+        "difficulty_score": 400,
+        "explanation": "هو كتاب تهذيب الكمال (أو فروعه مثل تهذيب التهذيب) الذي يفرز الرواة برموز دقيقة [40، 42].",
+        "choices": [
+            { "choice_text": "تفسير ابن كثير", "is_correct": false },
+            { "choice_text": "تهذيب الكمال للمزي", "is_correct": true },
+            { "choice_text": "الرسالة للشافعي", "is_correct": false },
+            { "choice_text": "الموطأ لمالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصادر، ما هي 'البوابة الثانية' لإثبات موثوقية علم الحديث؟",
+        "difficulty_score": 600,
+        "explanation": "البوابة الثانية هي تحقيق النقد الباطني في علوم الحديث [7].",
+        "choices": [
+            { "choice_text": "شروط الحديث الصحيح", "is_correct": false },
+            { "choice_text": "تحقيق النقد الباطني", "is_correct": true },
+            { "choice_text": "التدوين المبكر للسنة", "is_correct": false },
+            { "choice_text": "علم الجرح والتعديل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المصطلح الذي يطلق على الراوي الذي لم يروِ إلا حديثاً واحداً لا يعرفه النقاد؟",
+        "difficulty_score": 800,
+        "explanation": "يسمى 'شيخ ليس له من الحديث ما يكفي لنقده'، ويتم 'تجميد' حاله لعدم إمكانية المقارنة [50، 51].",
+        "choices": [
+            { "choice_text": "الثقة الثبت", "is_correct": false },
+            { "choice_text": "الراوي المجهول أو من ليس له ما يكفي لنقده", "is_correct": true },
+            { "choice_text": "الراوي المدلس", "is_correct": false },
+            { "choice_text": "الراوي المختلط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوجه الثاني الذي استند إليه المحاضر لإثبات دخول السنة في 'حفظ الذكر'؟",
+        "difficulty_score": 700,
+        "explanation": "أن من تمام حفظ القرآن حفظ بيانه، فتعطيل البيان (السنة) يجعل حفظ النص القرآني غير تام المقصود [8].",
+        "choices": [
+            { "choice_text": "أن السنة مسجلة في المصحف", "is_correct": false },
+            { "choice_text": "أن حفظ القرآن يستلزم بالضرورة حفظ بيانه ولسانه", "is_correct": true },
+            { "choice_text": "أن الذكر هو اسم خاص للسنة فقط", "is_correct": false },
+            { "choice_text": "أن السنة محفوظة بكتب التاريخ فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من قول المحدثين 'هذا الحديث على شرط الشيخين وهو ليس كذلك'؟",
+        "difficulty_score": 900,
+        "explanation": "أن الصورة التركيبية للإسناد (مثل معمر عن ثابت) قد تضعف رغم أن رواتها أفراداً ثقات عند الشيخين [70، 71].",
+        "choices": [
+            { "choice_text": "أن الشيخين أخطآ في توثيق الرواة", "is_correct": false },
+            { "choice_text": "أن النقد الحديثي ينظر للصورة التركيبية للمسار الإسنادي وليس للأفراد فقط", "is_correct": true },
+            { "choice_text": "أن كل إسناد رواته ثقات فهو صحيح بالضرورة", "is_correct": false },
+            { "choice_text": "أن شروط الشيخين غير واضحة للنقاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر 'معقد الإزار' في نقد الرواة هو الاشتراك في الرواية؟",
+        "difficulty_score": 700,
+        "explanation": "لأن الاشتراك يسمح بالمقارنة بين مرويات الراوي ومرويات الثقات، وهو السبيل الوحيد لكشف ضبطه [9].",
+        "choices": [
+            { "choice_text": "ليسهل حفظ الأحاديث", "is_correct": false },
+            { "choice_text": "لأنه يتيح عملية المقارنة والفرز بين الصواب والخطأ", "is_correct": true },
+            { "choice_text": "لأن الانفراد بالرواية دائماً دليل صحة", "is_correct": false },
+            { "choice_text": "ليعرف الناس أسماء الرواة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يرد المحاضر على من يقول 'يكفيني القرآن كمنهج حياة' لإبطال السنة؟",
+        "difficulty_score": 600,
+        "explanation": "يرد بأن القرآن نفسه يأمره بالصلاة والزكاة والحج وهي أمور لا يمكن تفصيل منهجها إلا بالسنة [10].",
+        "choices": [
+            { "choice_text": "بأن القرآن غير صالح لكل زمان", "is_correct": false },
+            { "choice_text": "بأن القرآن نفسه أحال إلى السنة لتبيين الأوامر المجملة", "is_correct": true },
+            { "choice_text": "بأن السنة أهم من القرآن", "is_correct": false },
+            { "choice_text": "بأن العقل هو الذي يفسر القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من 'الملازمة الطويلة' للتلاميذ وفقاً للمنهج الحديثي؟",
+        "difficulty_score": 500,
+        "explanation": "التلميذ الملازم يكون أعرف بمرجعيات الشيخ، وأسلوبه، وما أخطأ فيه، مما يجعله مقدماً على غيره [11].",
+        "choices": [
+            { "choice_text": "أن يأخذ التلميذ مال الشيخ", "is_correct": false },
+            { "choice_text": "الإحاطة العلمية التامة بحديث الشيخ ومرجعياته الفكرية", "is_correct": true },
+            { "choice_text": "أن يشتهر التلميذ بين الناس", "is_correct": false },
+            { "choice_text": "أن يحصل على إجازة سريعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المقصود بـ 'التحديث المستمر لمتعلقات الإطلاقات السابقة'؟",
+        "difficulty_score": 800,
+        "explanation": "هو مراقبة حال الراوي في السفر والحضر، ومع شيخ دون شيخ، وفي شبابه مقابل كبره [68، 69].",
+        "choices": [
+            { "choice_text": "تغيير أحكام الحلال والحرام", "is_correct": false },
+            { "choice_text": "تحليل الظروف المتغيرة للراوي وأثرها على دقة مروياته", "is_correct": true },
+            { "choice_text": "تحديث لغة الأحاديث للعصر الحالي", "is_correct": false },
+            { "choice_text": "استبدال الرواة بآخرين جدد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو مؤلف كتاب 'سنة وحي' الذي ينصح به المحاضر؟",
+        "difficulty_score": 400,
+        "explanation": "المؤلف هو خليل ملا خاطر [12].",
+        "choices": [
+            { "choice_text": "ابن حجر العسقلاني", "is_correct": false },
+            { "choice_text": "خليل ملا خاطر", "is_correct": true },
+            { "choice_text": "يحيى بن معين", "is_correct": false },
+            { "choice_text": "ابن القيم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'قاعدة 45 مقابل 5' التي استخدمها المحاضر لتوضيح كشف الخطأ؟",
+        "difficulty_score": 600,
+        "explanation": "تشير إلى أن اتفاق الأغلبية (45) على نفس اللفظ مقابل (5) يرجح كشف أوهام الأقلية عبر المقارنة [13].",
+        "choices": [
+            { "choice_text": "أن 45 حديثاً تنسخ 5 أحاديث", "is_correct": false },
+            { "choice_text": "أن الاتفاق العددي الكبير يرجح إصابة الحفظ مقابل أخطاء الأفراد", "is_correct": true },
+            { "choice_text": "أن 45 راوياً يجب أن يكونوا عدولاً", "is_correct": false },
+            { "choice_text": "لا توجد قاعدة بهذا الاسم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استدل المحاضر بآية 'نبأني العليم الخبير'؟",
+        "difficulty_score": 600,
+        "explanation": "لإثبات أن الله أنبأ النبي ﷺ بشيء (وحي) لم يكن موجوداً في القرآن كآية مسبقة [9، 10].",
+        "choices": [
+            { "choice_text": "لإثبات علم الله بالغيب فقط", "is_correct": false },
+            { "choice_text": "لإثبات وجود وحي غير مسجل في النص القرآني", "is_correct": true },
+            { "choice_text": "لإثبات وجوب الصدق", "is_correct": false },
+            { "choice_text": "لإثبات أن الوحي قرآني فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف المحاضر من كتب الرد على الشبهات التي تجمع كل أنواع الأدلة؟",
+        "difficulty_score": 700,
+        "explanation": "ينصح الباحث الجيد بانتقاء الوجوه القوية وترك الوجوه الضعيفة، لأن ليس كل ما في الكتاب هو الأفضل دائماً [12].",
+        "choices": [
+            { "choice_text": "قبول كل ما فيها بلا نقد", "is_correct": false },
+            { "choice_text": "الانتقاء المنهجي للأدلة القوية وتجنب الضعيف منها", "is_correct": true },
+            { "choice_text": "عدم قراءتها لأنها تسبب الشك", "is_correct": false },
+            { "choice_text": "أنها كتب لا فائدة منها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد المحاضر بـ 'انتفاخة المعرفة'؟",
+        "difficulty_score": 500,
+        "explanation": "هي المعرفة السطحية والسريعة الناتجة عن شبكات التواصل الاجتماعي والتي تفتقر للجذور المنهجية [14].",
+        "choices": [
+            { "choice_text": "التخصص العلمي العميق", "is_correct": false },
+            { "choice_text": "المعرفة السطحية المنقطعة الجذور", "is_correct": true },
+            { "choice_text": "زيادة حفظ الأحاديث", "is_correct": false },
+            { "choice_text": "دراسة أصول الفقه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على قصة 'تحويل القبلة'، ما الذي كان يمنع النبي ﷺ من التحول قبل نزول الآية؟",
+        "difficulty_score": 700,
+        "explanation": "كان ممنوعاً بوحي سابق أمره باستقبال القبلة الأولى، وهذا الوحي غير موجود في القرآن [15].",
+        "choices": [
+            { "choice_text": "خوفه من المشركين", "is_correct": false },
+            { "choice_text": "وحي إلهي غير قرآني ألزمه بالقبلة الأولى", "is_correct": true },
+            { "choice_text": "رغبته الشخصية في البقاء عليها", "is_correct": false },
+            { "choice_text": "عدم معرفته بمكان الكعبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة المنطقية لتعطيل 'اللغة العربية' في فهم القرآن؟",
+        "difficulty_score": 600,
+        "explanation": "يؤدي ذلك لتعطيل تفعيلات القرآن، فيبقى نصاً متلواً للبركة فقط دون القدرة على الامتثال [8].",
+        "choices": [
+            { "choice_text": "تحسن الفهم بالترجمة", "is_correct": false },
+            { "choice_text": "تعطيل العمل بالقرآن وتحوله لمجرد نص شكلي", "is_correct": true },
+            { "choice_text": "لا أثر للغة على فهم النص", "is_correct": false },
+            { "choice_text": "سهولة حفظه للأعاجم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا وصف المحاضر علم الحديث بأنه 'مفخرة للأمة'؟",
+        "difficulty_score": 400,
+        "explanation": "لقوة ومنهجية توثيق الأخبار التي تفتقر إليها الأمم الأخرى في تاريخها [37، 38].",
+        "choices": [
+            { "choice_text": "لأنه سهل التعلم", "is_correct": false },
+            { "choice_text": "لمنهجيته الصارمة في التوثيق التاريخي الفريد", "is_correct": true },
+            { "choice_text": "لأنه يحتوي على قصص كثيرة", "is_correct": false },
+            { "choice_text": "لأنه مدعوم من الحكام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو حكم 'رواية المخطئ' التي تخالف إجماع الحفاظ في متن معين؟",
+        "difficulty_score": 700,
+        "explanation": "يرد المحدثون هذه الرواية بعينها، وقد تسقط موثوقية الراوي إذا تكرر منه هذا النوع من الخطأ الفاحش [57، 58].",
+        "choices": [
+            { "choice_text": "تُقبل للحيطة", "is_correct": false },
+            { "choice_text": "تُرد لثبوت وهم الراوي بمخالفته للأحفظ والأكثر عدداً", "is_correct": true },
+            { "choice_text": "تُوضع في مرتبة الحديث الحسن", "is_correct": false },
+            { "choice_text": "تُقبل إذا كان الراوي صالحاً في نفسه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرابط المنهجي بين 'التدوين المبكر' و 'موثوقية علم الحديث'؟",
+        "difficulty_score": 500,
+        "explanation": "التدوين المبكر هو دلالة 'تضمن' داخل موثوقية النقل، فهو وسيلة لضبط الحفظ وتوثيقه [28، 29].",
+        "choices": [
+            { "choice_text": "التدوين هو المصدر الوحيد للصحة", "is_correct": false },
+            { "choice_text": "التدوين المبكر وسيلة مساعدة لضمان الموثوقية واستقرار النص", "is_correct": true },
+            { "choice_text": "لا علاقة للتدوين بالصحة", "is_correct": false },
+            { "choice_text": "التدوين بدأ بعد القرن الرابع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المحاضر قوله تعالى 'وإنا له لحافظون' ليشمل السنة؟",
+        "difficulty_score": 800,
+        "explanation": "من خلال اعتبار 'الذكر' وحياً عاماً يشمل القرآن والسنة، أو ضرورة حفظ البيان لحفظ المبيّن [30، 31].",
+        "choices": [
+            { "choice_text": "أن القرآن والسنة كتبا في مصحف واحد", "is_correct": false },
+            { "choice_text": "أن حفظ الوحي الإلهي (الذكر) يشمل بالضرورة شقيه: النص وبيانه", "is_correct": true },
+            { "choice_text": "أن الآية خاصة بحفظ قلوب المؤمنين", "is_correct": false },
+            { "choice_text": "أن السنة غير داخلة في هذا الحفظ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة التي يتمتع بها 'الإمام مالك' عند الرواية عن الزهري؟",
+        "difficulty_score": 600,
+        "explanation": "يعتبر من أثبت أصحاب الزهري وأكثرهم دقة وإتقاناً لحديثه [16].",
+        "choices": [
+            { "choice_text": "أنه كان تلميذه الوحيد", "is_correct": false },
+            { "choice_text": "أنه أثبت الحفاظ في حديث الزهري ومعياراً لمقارنة غيره", "is_correct": true },
+            { "choice_text": "أنه روى عنه من الكتب فقط", "is_correct": false },
+            { "choice_text": "أنه كان أصغر تلاميذه سناً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يسمى النوع من الرواة الذين يقبلون إدخال الغريب في حديثهم وسكتوا؟",
+        "difficulty_score": 700,
+        "explanation": "يسمون 'من يقبلون التلقين'، وتسقط رتبتهم من الضبط التام [17].",
+        "choices": [
+            { "choice_text": "الرواة المدلسون", "is_correct": false },
+            { "choice_text": "الرواة الذين يقبلون التلقين (ضعفاء الضبط)", "is_correct": true },
+            { "choice_text": "الرواة الثقات الأثبات", "is_correct": false },
+            { "choice_text": "الرواة المجهولون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي بوابة وصفت بأنها 'تحديث مستمر'؟",
+        "difficulty_score": 600,
+        "explanation": "البوابة الثالثة المتعلقة بمراقبة الإطلاقات السابقة والظروف المتغيرة [7].",
+        "choices": [
+            { "choice_text": "الأولى", "is_correct": false },
+            { "choice_text": "الثانية", "is_correct": false },
+            { "choice_text": "الثالثة", "is_correct": true },
+            { "choice_text": "الرابعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصادر، ما هو 'أوعر' وأدق أنواع البحث في حجية السنة؟",
+        "difficulty_score": 900,
+        "explanation": "هو البحث في التواتر الإسنادي والعملي وكيفية اتصاله من النبي ﷺ إلى يومنا [18].",
+        "choices": [
+            { "choice_text": "البحث في معاني الكلمات", "is_correct": false },
+            { "choice_text": "البحث في التواتر وكيفية ثبوته من الطرفين (النبي والمتلقي)", "is_correct": true },
+            { "choice_text": "البحث في قصص الصحابة", "is_correct": false },
+            { "choice_text": "البحث في عدد الأحاديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأثر النفسي المترجم لـ 'الرد لله والرسول' عند وقوع النزاع؟",
+        "difficulty_score": 500,
+        "explanation": "الاستقرار واليقين بوجود مرجع إلهي ثابت يحسم الخلافات البشرية [19].",
+        "choices": [
+            { "choice_text": "زيادة النزاع", "is_correct": false },
+            { "choice_text": "الاستقرار المعرفي بوجود مرجع معصوم محفوظ", "is_correct": true },
+            { "choice_text": "ترك النقاش تماماً", "is_correct": false },
+            { "choice_text": "اتباع رأي الأقوى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المدرك المعرفي' الذي يجعلنا نرفض حديثاً لم يروه إلا كذاب؟",
+        "difficulty_score": 600,
+        "explanation": "هو تراكم الخبرة النقدية التي تجعل الناقد يعرف أن هذا المتن لا يشبه أسلوب النبوة ولا أصول الشريعة [20].",
+        "choices": [
+            { "choice_text": "الرأي الشخصي", "is_correct": false },
+            { "choice_text": "الحس النقدي المعياري القائم على الاستقراء التام للسنة", "is_correct": true },
+            { "choice_text": "عدم حب الراوي", "is_correct": false },
+            { "choice_text": "صعوبة نطق الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'القطب' الذي ترجع إليه أسانيد مدرسة البصرة في حديث أنس؟",
+        "difficulty_score": 600,
+        "explanation": "هو ثابت البناني، ومن أثبت طلابه حماد بن سلمة [21].",
+        "choices": [
+            { "choice_text": "الزهري", "is_correct": false },
+            { "choice_text": "ثابت البناني", "is_correct": true },
+            { "choice_text": "قتادة", "is_correct": false },
+            { "choice_text": "معمر بن راشد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الخلاصة المنهجية التي أراد المحاضر إيصالها في نهاية الدرس؟",
+        "difficulty_score": 500,
+        "explanation": "أن السنة منظومة متقنة الصنع وموثقة بمنهج علمي جبار لا يملك منصف إلا احترامه [22].",
+        "choices": [
+            { "choice_text": "أن السنة غير موثقة جيداً", "is_correct": false },
+            { "choice_text": "أن السنة محفوظة بمنهج علمي دقيق وتفصيلي يثبت موثوقيتها", "is_correct": true },
+            { "choice_text": "أن السنة يجب أن تخضع للعقل فقط", "is_correct": false },
+            { "choice_text": "أن القرآن يكفي وحده", "is_correct": false }
+        ]
+    }
+]
+    }

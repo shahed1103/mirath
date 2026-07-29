@@ -1,0 +1,884 @@
+    {
+    "chapter_id": 21,
+    "questions": [
+         {
+        "question_text": "ما هو العلم الذي يعتبر بمنزلة (منهجية تفسير النص الشرعي) وبدأ بالكتابة فيه الإمام الشافعي في رسالته؟",
+        "difficulty_score": 100,
+        "explanation": "أصول الفقه هو العلم المعني بوضع قواعد وفهم واستنباط الأحكام من الكتاب والسنة [38].",
+        "choices": [
+            {"choice_text": "علم الكلام", "is_correct": false},
+            {"choice_text": "علم أصول الفقه", "is_correct": true},
+            {"choice_text": "علم التفسير", "is_correct": false},
+            {"choice_text": "علم الحديث", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو مؤلف كتاب (الاعتصام) الذي ناقش فيه مآخذ أهل البدع في الاستدلال؟",
+        "difficulty_score": 150,
+        "explanation": "الإمام الشاطبي هو صاحب كتاب الاعتصام الذي يعد مرجعاً في البدع ومآخذ الاستدلال [1].",
+        "choices": [
+            {"choice_text": "ابن القيم", "is_correct": false},
+            {"choice_text": "ابن تيمية", "is_correct": false},
+            {"choice_text": "الشاطبي", "is_correct": true},
+            {"choice_text": "الغزالي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا لقب الصحابي أبو بكر رضي الله عنه بعد حادثة الإسراء والمعراج؟",
+        "difficulty_score": 100,
+        "explanation": "لقب بالصديق لكمال تصديقه وتسليمه لخبر النبي صلى الله عليه وسلم [14].",
+        "choices": [
+            {"choice_text": "الفاروق", "is_correct": false},
+            {"choice_text": "ذو النورين", "is_correct": false},
+            {"choice_text": "الصديق", "is_correct": true},
+            {"choice_text": "أسد الله", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المرجعية التي يجب رد (المتشابه) إليها وفق منهج الوحي؟",
+        "difficulty_score": 200,
+        "explanation": "قاعدة المتشابه والمحكم توجب رد المتشابه إلى المحكم كما بينه الله في كتابه [18].",
+        "choices": [
+            {"choice_text": "العقل المجرد", "is_correct": false},
+            {"choice_text": "المحكم", "is_correct": true},
+            {"choice_text": "أقوال الفلاسفة", "is_correct": false},
+            {"choice_text": "الذوق الوجداني", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في حديث (خاصف النعل)، من هو الصحابي الذي كان يصلح نعل النبي صلى الله عليه وسلم؟",
+        "difficulty_score": 150,
+        "explanation": "علي بن أبي طالب رضي الله عنه هو من ت خلف لإصلاح نعل النبي [39].",
+        "choices": [
+            {"choice_text": "أبو بكر الصديق", "is_correct": false},
+            {"choice_text": "عمر بن الخطاب", "is_correct": false},
+            {"choice_text": "علي بن أبي طالب", "is_correct": true},
+            {"choice_text": "عثمان بن عفان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يعني ملمح (التجرد من الهوى) في عملية الاستدلال؟",
+        "difficulty_score": 300,
+        "explanation": "يعني تخلية النفس من القناعات المسبقة والشهوات التي تدفع المرء لليّ نصوص الوحي لتوافق مراده [8].",
+        "choices": [
+            {"choice_text": "البحث عن الأدلة الضعيفة", "is_correct": false},
+            {"choice_text": "تخلية النفس من الميل المسبق لغير الحق", "is_correct": true},
+            {"choice_text": "الاعتماد على العقل فقط", "is_correct": false},
+            {"choice_text": "ترك الاستدلال بالكلية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أصل كل بدعة وضلالة في الإسلام كما يرى ابن القيم يرجع إلى:",
+        "difficulty_score": 400,
+        "explanation": "يرجع إلى سوء الفهم عن الله ورسوله، خاصة إذا انضم إليه سوء القصد [16].",
+        "choices": [
+            {"choice_text": "قلة العلم باللغة فقط", "is_correct": false},
+            {"choice_text": "سوء الفهم وسوء القصد", "is_correct": true},
+            {"choice_text": "الترجمة من اللغات الأخرى", "is_correct": false},
+            {"choice_text": "الخلاف الفقهي الفرعي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وفقاً للسمعاني، فإن اتفاق كتب أهل الحديث في العقيدة رغم تباعد الأقطار يدل على:",
+        "difficulty_score": 500,
+        "explanation": "يدل على أنهم يسيرون على منهج استدلالي واحد صحيح مستمد من الوحي [36, 37].",
+        "choices": [
+            {"choice_text": "وجود تنسيق سري بينهم", "is_correct": false},
+            {"choice_text": "وحدة المنهج والمصدر", "is_correct": true},
+            {"choice_text": "أنهم نقلوا من كتاب واحد فقط", "is_correct": false},
+            {"choice_text": "الصدفة المحضة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو مؤلف كتاب (الصواعق المرسلة على الجهمية والمعطلة)؟",
+        "difficulty_score": 250,
+        "explanation": "ابن القيم هو مؤلف الصواعق المرسلة، وهو من أهم الكتب في منهج الاستدلال والرد على المخالفين [40].",
+        "choices": [
+            {"choice_text": "ابن تيمية", "is_correct": false},
+            {"choice_text": "ابن القيم", "is_correct": true},
+            {"choice_text": "الذهبي", "is_correct": false},
+            {"choice_text": "ابن كثير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء لم يذكره معاذ بن جبل كأحد المصادر الأربعة للعلم قبل وفاته؟",
+        "difficulty_score": 450,
+        "explanation": "ذكر معاذ: أبو الدرداء، ابن مسعود، وأبو موسى الأشعري، ونسي الراوي الرابع [41].",
+        "choices": [
+            {"choice_text": "أبو الدرداء", "is_correct": false},
+            {"choice_text": "عبد الله بن مسعود", "is_correct": false},
+            {"choice_text": "أبو موسى الأشعري", "is_correct": false},
+            {"choice_text": "عمار بن ياسر", "is_correct": true}
+        ]
+    },
+    {
+        "question_text": "ما هي بوابة مقام الصديقية الكبرى؟",
+        "difficulty_score": 350,
+        "explanation": "التسليم المطلق لله ولرسوله هو بوابة نيل منزلة الصديقية [13].",
+        "choices": [
+            {"choice_text": "كثرة الصيام", "is_correct": false},
+            {"choice_text": "التسليم والإذعان", "is_correct": true},
+            {"choice_text": "طلب العلم المادي", "is_correct": false},
+            {"choice_text": "الإنفاق المالي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في نقد ابن القيم للمتوكلين، من هو (المغبون) في توكله؟",
+        "difficulty_score": 600,
+        "explanation": "هو من يصرف قوة توكله في حاجات دنياه الجزئية ويتركها في نصرة الدين وزيادة الإيمان [19].",
+        "choices": [
+            {"choice_text": "من لا يتوكل أبداً", "is_correct": false},
+            {"choice_text": "من يتوكل في أمور المعاش فقط ويغفل عن الدين", "is_correct": true},
+            {"choice_text": "من يتوكل على غير الله", "is_correct": false},
+            {"choice_text": "من يكثر من الدعاء دون عمل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي نتيجة (تعدد القراءات) للنص الشرعي كما طرحها المعاصرون؟",
+        "difficulty_score": 700,
+        "explanation": "تؤدي إلى (موت المؤلف) وصيرورة النص مادة مطاطة لا يمكن معها تخطئة أحد [42].",
+        "choices": [
+            {"choice_text": "فهم أعمق للنص", "is_correct": false},
+            {"choice_text": "نسبية الحق وضياع المعيار", "is_correct": true},
+            {"choice_text": "تيسير الأحكام للناس", "is_correct": false},
+            {"choice_text": "إحياء التراث", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا ارتبك الطرف الذي ادعى (النص المفتوح) عند سؤاله عن الغلو؟",
+        "difficulty_score": 800,
+        "explanation": "لأنه إذا أقر بوجود غلو فقد اعترف بمعيار ثابت، وهذا ينقض فكرته بأن النص مفتوح لكل الأفهام [25].",
+        "choices": [
+            {"choice_text": "بسبب ضيق وقت البرنامج", "is_correct": false},
+            {"choice_text": "بسبب التناقض بين فكرة النص المفتوح ووجود معيار للغلو", "is_correct": true},
+            {"choice_text": "لأنه لم يكن مستعداً للسؤال", "is_correct": false},
+            {"choice_text": "لخوفه من الجمهور", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وفقاً للمحاضر، أين تقع (المعركة الحقيقية) في الانحرافات العقدية؟",
+        "difficulty_score": 550,
+        "explanation": "المعركة الحقيقية ليست في إنكار الوحي، بل في (منهجيات الفهم) الخاطئة للنص [16].",
+        "choices": [
+            {"choice_text": "في إنكار وجود الله", "is_correct": false},
+            {"choice_text": "في منهجيات الفهم", "is_correct": true},
+            {"choice_text": "في المسائل الفقهية اليسيرة", "is_correct": false},
+            {"choice_text": "في حوار الأديان", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي وصفه المحاضر بأنه (موسوعة علمية في مناهج الاستدلال) في العصر الحديث؟",
+        "difficulty_score": 300,
+        "explanation": "كتاب أحمد قوشتي (منهج الاستدلال على مسائل العقيدة في العصر الحديث) وصفه بالموسوعية [5].",
+        "choices": [
+            {"choice_text": "الرسالة للشافعي", "is_correct": false},
+            {"choice_text": "كتاب أحمد قوشتي", "is_correct": true},
+            {"choice_text": "الروح لابن القيم", "is_correct": false},
+            {"choice_text": "مدارج السالكين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "عبارة (لئن كان قاله لقد صدق) تعبر عن تقديم:",
+        "difficulty_score": 650,
+        "explanation": "تعبر عن تقديم معيار (ثبوت النص) على محاكمة مضمون النص بالعقل المحدود [22].",
+        "choices": [
+            {"choice_text": "العقل على النقل", "is_correct": false},
+            {"choice_text": "ثبوت النص على محاكمة المضمون", "is_correct": true},
+            {"choice_text": "الرأي الشخصي", "is_correct": false},
+            {"choice_text": "الإجماع على القرآن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو صاحب كتاب (القائد إلى تصحيح العقائد)؟",
+        "difficulty_score": 400,
+        "explanation": "عبد الرحمن بن يحيى المعلمي اليماني هو صاحب هذا الكتاب المؤصل [43].",
+        "choices": [
+            {"choice_text": "المعلمي اليماني", "is_correct": true},
+            {"choice_text": "سليمان الغصن", "is_correct": false},
+            {"choice_text": "فهد العجلان", "is_correct": false},
+            {"choice_text": "مساعد الطيار", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المستوى الثاني من مستويات المادة المتعلقة بنظرية المعرفة؟",
+        "difficulty_score": 200,
+        "explanation": "المستوى الثاني يتعلق بمصادر المعرفة الشرعية في ضوء تصور أهل السنة [44, 45].",
+        "choices": [
+            {"choice_text": "نظرية المعرفة العامة", "is_correct": false},
+            {"choice_text": "مصادر المعرفة الشرعية", "is_correct": true},
+            {"choice_text": "منهج الاستدلال", "is_correct": false},
+            {"choice_text": "مزالق هدر النصوص", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا لم ينحز أي صحابي للخوارج؟",
+        "difficulty_score": 750,
+        "explanation": "بسبب التزامهم بمنهجية استدلالية منضبطة وواحدة منعتهم من الانزلاق وراء شبهات الخوارج [24].",
+        "choices": [
+            {"choice_text": "لخوفهم من القتال", "is_correct": false},
+            {"choice_text": "لوجود معاهدات بينهم", "is_correct": false},
+            {"choice_text": "لالتزامهم بمنهجية استدلالية صحيحة", "is_correct": true},
+            {"choice_text": "لقلة عدد الخوارج آنذاك", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ (مكون المسائل) في منظومة أهل السنة؟",
+        "difficulty_score": 300,
+        "explanation": "هو فهرسة المسائل العقدية أو النتائج التي يؤمن بها أهل السنة [31, 32].",
+        "choices": [
+            {"choice_text": "طرق الاستدلال", "is_correct": false},
+            {"choice_text": "النتائج العقدية (ما نؤمن به)", "is_correct": true},
+            {"choice_text": "الرد على المخالفين", "is_correct": false},
+            {"choice_text": "الأدلة العقلية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي مدرسة كلامية شهدت تطورات وتشظياً داخلياً كبيراً بين (التفويض) و(التأويل)؟",
+        "difficulty_score": 500,
+        "explanation": "المدرسة الأشعرية شهدت تباينات كبيرة وتطورات عبر تاريخها في هذه القضايا [33, 46].",
+        "choices": [
+            {"choice_text": "المعتزلة", "is_correct": false},
+            {"choice_text": "الأشاعرة", "is_correct": true},
+            {"choice_text": "أهل الحديث", "is_correct": false},
+            {"choice_text": "الظاهرية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مأخذ (الغبن) في التوكل عند ابن القيم؟",
+        "difficulty_score": 550,
+        "explanation": "أن يستنفد المرء قوة عبادة قلبية عظيمة في أمر يسير يمكن نيله بأقل مجهود ويترك العظائم [19].",
+        "choices": [
+            {"choice_text": "ترك العمل بالكلية", "is_correct": false},
+            {"choice_text": "استفراغ التوكل في حاجة جزئية دنيوية", "is_correct": true},
+            {"choice_text": "الشك في قدرة الله", "is_correct": false},
+            {"choice_text": "التواكل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا قال مكحول عند الإفتاء استشعاراً للافتقار إلى الله؟",
+        "difficulty_score": 300,
+        "explanation": "كان يقول: لا حول ولا قوة إلا بالله [47].",
+        "choices": [
+            {"choice_text": "سبحانك لا علم لنا", "is_correct": false},
+            {"choice_text": "لا حول ولا قوة إلا بالله", "is_correct": true},
+            {"choice_text": "ما شاء الله", "is_correct": false},
+            {"choice_text": "أستغفر الله", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الكتب ليس من ترشيحات المحاضر في أصول التفسير؟",
+        "difficulty_score": 400,
+        "explanation": "رشح المحاضر كتاب (التحرير في أصول التفسير) لمساعد الطيار [48].",
+        "choices": [
+            {"choice_text": "التحرير في أصول التفسير", "is_correct": false},
+            {"choice_text": "تفسير ابن كثير", "is_correct": true},
+            {"choice_text": "كتب أصول التفسير عموماً", "is_correct": false},
+            {"choice_text": "مؤلفات مساعد الطيار", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو أصل الانحراف عند (الزائغين) في الاستدلال بحسب الشاطبي؟",
+        "difficulty_score": 600,
+        "explanation": "أصل انحرافهم هو سلك طريق غير طريق الراسخين في اتباع الحق واتباع المتشابه [49].",
+        "choices": [
+            {"choice_text": "عدم حفظ القرآن", "is_correct": false},
+            {"choice_text": "اتباع غير طريق الراسخين", "is_correct": true},
+            {"choice_text": "الجهل باللغة فقط", "is_correct": false},
+            {"choice_text": "قلة العبادة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كتاب (درء تعارض العقل والنقل) هو أحد أهم مؤلفات:",
+        "difficulty_score": 200,
+        "explanation": "هو من أمهات كتب شيخ الإسلام ابن تيمية [50].",
+        "choices": [
+            {"choice_text": "ابن القيم", "is_correct": false},
+            {"choice_text": "ابن تيمية", "is_correct": true},
+            {"choice_text": "ابن كليب", "is_correct": false},
+            {"choice_text": "الباقلاني", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو 'ملمح الإذعان'؟",
+        "difficulty_score": 450,
+        "explanation": "هو ضرورة تعظيم الدليل والتعامل معه ككلام من الله ورسوله لا كنص أدبي أو تراثي [9].",
+        "choices": [
+            {"choice_text": "نقد النص تاريخياً", "is_correct": false},
+            {"choice_text": "تعظيم الدليل والتسليم له", "is_correct": true},
+            {"choice_text": "البحث عن المعارضات", "is_correct": false},
+            {"choice_text": "تجاهل الأدلة الصعبة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وفقاً للمحاضر، فإن فهم الصحابة يعتبر:",
+        "difficulty_score": 850,
+        "explanation": "يعتبر كاشفاً عن مراد الله لأنه نزل بلسانهم وهم أعلم الناس بمقاصد الرسول [18].",
+        "choices": [
+            {"choice_text": "مجرد رأي تاريخي غير ملزم", "is_correct": false},
+            {"choice_text": "معياراً لفهم الحق والاهتداء", "is_correct": true},
+            {"choice_text": "فهماً تجاوزه الزمن", "is_correct": false},
+            {"choice_text": "فهماً خاصاً ببيئتهم فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من هذه الصفات أطلقها المحاضر على كتاب (الصواعق المرسلة)؟",
+        "difficulty_score": 350,
+        "explanation": "وصفه بأنه أفضل ما يقرأ في منهجية الاستدلال في الكتابة التراثية [40].",
+        "choices": [
+            {"choice_text": "كتاب فقهي بحت", "is_correct": false},
+            {"choice_text": "أفضل ما كتب في منهج الاستدلال تراثياً", "is_correct": true},
+            {"choice_text": "كتاب في اللغة", "is_correct": false},
+            {"choice_text": "كتاب مفقود بالكامل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الخطورة في (الحزازة في النفوس) من النصوص؟",
+        "difficulty_score": 700,
+        "explanation": "أنها تمنع التسليم وتدفع الإنسان لتمني لو أن النص لم ينزل، مما يفسد القلب والمنهج [29, 35].",
+        "choices": [
+            {"choice_text": "تسبب الصداع", "is_correct": false},
+            {"choice_text": "تمنع كمال التسليم وتورث النفاق", "is_correct": true},
+            {"choice_text": "تؤدي لترك الصلاة", "is_correct": false},
+            {"choice_text": "لا خطر منها إذا كان الاستدلال صحيحاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يعني (صدق اللجوء) قبل عملية الاستدلال؟",
+        "difficulty_score": 400,
+        "explanation": "استشعار أن الهداية بيد الله وحده والافتقار إليه ليرشد العبد للحق [27].",
+        "choices": [
+            {"choice_text": "كثرة القراءة فقط", "is_correct": false},
+            {"choice_text": "الافتقار لله طلباً للهداية", "is_correct": true},
+            {"choice_text": "الاعتماد على الذكاء الشخصي", "is_correct": false},
+            {"choice_text": "الهروب من المشاكل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو مؤلف كتاب (تفسير النصوص في الفقه الإسلامي)؟",
+        "difficulty_score": 300,
+        "explanation": "محمد أديب الصالح هو مؤلف هذا الكتاب الهام [48, 51].",
+        "choices": [
+            {"choice_text": "مساعد الطيار", "is_correct": false},
+            {"choice_text": "محمد أديب الصالح", "is_correct": true},
+            {"choice_text": "أحمد الصويان", "is_correct": false},
+            {"choice_text": "عثمان علي حسن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي مستوى من مستويات المادة يعالج (مزالق هدر النصوص)؟",
+        "difficulty_score": 250,
+        "explanation": "المستوى الأخير هو الذي يعالج المناهج التي أدت لنتائج سلبية وهدر دلالات النص [52].",
+        "choices": [
+            {"choice_text": "المستوى الأول", "is_correct": false},
+            {"choice_text": "المستوى الثالث", "is_correct": false},
+            {"choice_text": "المستوى الأخير", "is_correct": true},
+            {"choice_text": "المستوى الثاني", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو (الخيار المشروع) الذي يطرحه بعض الأشاعرة كبديل للتأويل؟",
+        "difficulty_score": 600,
+        "explanation": "يطرحون (التفويض) كخيار مشروع بجانب التأويل [33].",
+        "choices": [
+            {"choice_text": "التشبيه", "is_correct": false},
+            {"choice_text": "التفويض", "is_correct": true},
+            {"choice_text": "التعطيل الكلي", "is_correct": false},
+            {"choice_text": "الاعتدال", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المبدأ الذي يقوم عليه كتاب (التسليم للنص الشرعي) لفهد العجلان؟",
+        "difficulty_score": 500,
+        "explanation": "يناقش قضية التسليم في مواجهة المعارضات الفكرية المعاصرة [53].",
+        "choices": [
+            {"choice_text": "تاريخ المذاهب", "is_correct": false},
+            {"choice_text": "التسليم في مواجهة الفكر المعاصر", "is_correct": true},
+            {"choice_text": "قواعد النحو", "is_correct": false},
+            {"choice_text": "أحكام الصلاة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "وصف ابن القيم من يستفرغ توكله في حاجة جزئية بأنه:",
+        "difficulty_score": 450,
+        "explanation": "وصفه بأنه (توكل العاجز القاصر الهمة) [19].",
+        "choices": [
+            {"choice_text": "حكيم", "is_correct": false},
+            {"choice_text": "عاجز قاصر الهمة", "is_correct": true},
+            {"choice_text": "ذو إيمان قوي", "is_correct": false},
+            {"choice_text": "متوكل حقيقي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة المركزية من دراسة منهج الاستدلال عند أهل السنة؟",
+        "difficulty_score": 350,
+        "explanation": "الفائدة هي ضبط معيار الفهم للتفاعل مع الوحي بطريقة شرعية صحيحة [7].",
+        "choices": [
+            {"choice_text": "حفظ القرآن فقط", "is_correct": false},
+            {"choice_text": "ضبط معيار الفهم", "is_correct": true},
+            {"choice_text": "التعرف على التاريخ", "is_correct": false},
+            {"choice_text": "تحسين اللغة العربية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في حديث 'من قال في القرآن برأيه فأصاب فقد أخطأ'، لماذا يعتبر مخطئاً؟",
+        "difficulty_score": 900,
+        "explanation": "لأنه لم يسلك المنهجية الشرعية المطلوبة للوصول للحق، فخطؤه في الطريق لا يغفره صواب النتيجة [54].",
+        "choices": [
+            {"choice_text": "لأن تفسيره غير صحيح", "is_correct": false},
+            {"choice_text": "لأنه لم يسلك المنهجية الشرعية", "is_correct": true},
+            {"choice_text": "لأنه خالف الإجماع", "is_correct": false},
+            {"choice_text": "لأنه لم يحفظ النص جيداً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا قال الأوزاعي في تلخيص الوظائف تجاه الوحي؟",
+        "difficulty_score": 400,
+        "explanation": "قال: من الله تعالى التنزيل، وعلى رسوله التبليغ، وعلينا التسليم [2, 55].",
+        "choices": [
+            {"choice_text": "العقل قبل النقل", "is_correct": false},
+            {"choice_text": "عن الله التنزيل وعلينا التسليم", "is_correct": true},
+            {"choice_text": "علينا الاجتهاد المطلق", "is_correct": false},
+            {"choice_text": "الإيمان بلا عمل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الموضوع الرئيسي للمستوى الأول من المادة العلمية كما حدده المحاضر؟",
+        "difficulty_score": 100,
+        "explanation": "المستوى الأول مخصص لنظرية المعرفة العامة واتجاهات المدارس حول مصادر المعرفة [1].",
+        "choices": [
+            {"choice_text": "منهج الاستدلال العقدي", "is_correct": false},
+            {"choice_text": "نظرية المعرفة بشكل عام", "is_correct": true},
+            {"choice_text": "مزالق هدر النصوص", "is_correct": false},
+            {"choice_text": "أصول الفقه المقارن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الوظيفة المركزية للمستوى الثالث من البرنامج؟",
+        "difficulty_score": 200,
+        "explanation": "المستوى الثالث يركز على منهج الاستدلال عند أهل السنة وكيفية التعاطي مع المصادر [3، 4].",
+        "choices": [
+            {"choice_text": "دراسة الفرق والمذاهب", "is_correct": false},
+            {"choice_text": "منهج الاستدلال عند أهل السنة", "is_correct": true},
+            {"choice_text": "تاريخ تدوين السنة", "is_correct": false},
+            {"choice_text": "فلسفة الأخلاق", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "في حديث 'خاصف النعل'، ماذا كان يفعل علي بن أبي طالب رضي الله عنه؟",
+        "difficulty_score": 150,
+        "explanation": "كان علي رضي الله عنه يصلح نعل النبي صلى الله عليه وسلم حين انقطعت [2].",
+        "choices": [
+            {"choice_text": "يكتب الوحي", "is_correct": false},
+            {"choice_text": "يصلح نعل النبي", "is_correct": true},
+            {"choice_text": "يسقي القوم الماء", "is_correct": false},
+            {"choice_text": "يجهز الراحل", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يمثل انتقال الصراع من 'التنزيل' إلى 'التأويل' في تاريخ الأمة؟",
+        "difficulty_score": 450,
+        "explanation": "يمثل تحول المعركة من إثبات مصدرية الوحي إلى كيفية فهمه وتفسيره [6، 7].",
+        "choices": [
+            {"choice_text": "نهاية الفتوحات", "is_correct": false},
+            {"choice_text": "بدء عصر التدوين", "is_correct": false},
+            {"choice_text": "تحول مركز الصراع إلى منطقة الفهم", "is_correct": true},
+            {"choice_text": "اتفاق الأمة على فهم واحد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أول انشقاق حصل في جسد الأمة كان بسبب:",
+        "difficulty_score": 300,
+        "explanation": "طائفة الخوارج كانت أول انشقاق، وكان الخلاف على مستوى فهم النص لا مصدره [8، 9].",
+        "choices": [
+            {"choice_text": "إنكار الوحي", "is_correct": false},
+            {"choice_text": "طائفة الخوارج وفهم النص", "is_correct": true},
+            {"choice_text": "الخلاف على جمع القرآن", "is_correct": false},
+            {"choice_text": "دخول الفلسفة اليونانية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر من فسر القرآن برأيه 'مخطئاً' وإن أصاب الحق في نفس الأمر؟",
+        "difficulty_score": 600,
+        "explanation": "لأنه لم يسلك المنهجية الشرعية المعتبرة للوصول إلى النتيجة [3].",
+        "choices": [
+            {"choice_text": "لأن قوله باطل دائماً", "is_correct": false},
+            {"choice_text": "لعدم سلوكه المنهجية الشرعية", "is_correct": true},
+            {"choice_text": "لأنه لم يحفظ القرآن", "is_correct": false},
+            {"choice_text": "لأنه خالف اللغة العربية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي المآل الفكري لمقولة 'موت المؤلف' عند تطبيقها على النص الشرعي؟",
+        "difficulty_score": 750,
+        "explanation": "تؤدي إلى أن النص يصبح مادة مطاطة تتعدد أفهامها بتعدد القراء بلا معيار [4].",
+        "choices": [
+            {"choice_text": "زيادة قدسية النص", "is_correct": false},
+            {"choice_text": "تحول النص لمادة مطاطة بلا معيار", "is_correct": true},
+            {"choice_text": "تسهيل العمل بالأحكام", "is_correct": false},
+            {"choice_text": "إثبات إعجاز القرآن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بمَ استدل المحاضر على أن من يدعي 'النص المفتوح' لا يمكنه تخطئة الخوارج؟",
+        "difficulty_score": 800,
+        "explanation": "لأنه لو خطأهم لالتزم بمعيار، وهذا ينقض فكرة النص المفتوح لكل الأفهام [5].",
+        "choices": [
+            {"choice_text": "لأن الخوارج على حق", "is_correct": false},
+            {"choice_text": "بسبب التناقض المنهجي لديه", "is_correct": true},
+            {"choice_text": "لأن الخوارج لم يقرؤوا النص", "is_correct": false},
+            {"choice_text": "بسبب جهلهم بالتاريخ", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو أصل كل خطأ في الأصول والفروع عند ابن القيم؟",
+        "difficulty_score": 500,
+        "explanation": "أصله سوء الفهم عن الله ورسوله، خاصة مع سوء القصد [6].",
+        "choices": [
+            {"choice_text": "قلة العمل الصالح", "is_correct": false},
+            {"choice_text": "سوء الفهم عن الله ورسوله", "is_correct": true},
+            {"choice_text": "ترك الصلاة في الجماعة", "is_correct": false},
+            {"choice_text": "الخلاف المذهبي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو التبويب الذي وضعه الشاطبي ليعبر عن عمق نظره في البدع؟",
+        "difficulty_score": 400,
+        "explanation": "تبويب (مأخذ أهل البدع في الاستدلال) في كتاب الاعتصام [7].",
+        "choices": [
+            {"choice_text": "تاريخ الفرق الإسلامية", "is_correct": false},
+            {"choice_text": "مأخذ أهل البدع في الاستدلال", "is_correct": true},
+            {"choice_text": "قواعد التفسير الأساسية", "is_correct": false},
+            {"choice_text": "أصول الفقه المقارن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يقصد بـ 'ملمح التجرد المسبق من الهوى'؟",
+        "difficulty_score": 350,
+        "explanation": "أن يجعل الإنسان قلبه صفحة بيضاء لتلقي هداية الوحي دون قناعات مسبقة تملي عليه الفهم [24، 25].",
+        "choices": [
+            {"choice_text": "عدم الاهتمام بالنص", "is_correct": false},
+            {"choice_text": "تخلية النفس من الميل لغير الحق", "is_correct": true},
+            {"choice_text": "ترك القراءة في كتب التراث", "is_correct": false},
+            {"choice_text": "الاعتماد على العقل فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا وصف ابن القيم حالة 'الحزازة في النفوس' من بعض النصوص؟",
+        "difficulty_score": 700,
+        "explanation": "وصفها بأنها ضيق في الصدر من النص وتمني لو أن الله لم ينزله [25، 26].",
+        "choices": [
+            {"choice_text": "حالة صحية طبيعية", "is_correct": false},
+            {"choice_text": "إشكالية عميقة تمنع التسليم", "is_correct": true},
+            {"choice_text": "دليل على قوة العقل", "is_correct": false},
+            {"choice_text": "خلاف فقهي يسير", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى 'ملمح التعظيم والإذعان'؟",
+        "difficulty_score": 400,
+        "explanation": "استشعار أن النص كلام الله ورسوله وليس مجرد نص أدبي أو تراثي [8].",
+        "choices": [
+            {"choice_text": "دراسة النص لغوياً فقط", "is_correct": false},
+            {"choice_text": "تعظيم الدليل والتعامل معه بقدسية", "is_correct": true},
+            {"choice_text": "نقد النص تاريخياً", "is_correct": false},
+            {"choice_text": "مقارنته بغيره من النصوص", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الوظيفة الموكلة إلينا تجاه الرسالة كما قال الزهري؟",
+        "difficulty_score": 250,
+        "explanation": "قال: من الله الرسالة، وعلى الرسول البلاغ، وعلينا التسليم [9].",
+        "choices": [
+            {"choice_text": "الاجتهاد المطلق", "is_correct": false},
+            {"choice_text": "التسليم", "is_correct": true},
+            {"choice_text": "التأويل العقلي", "is_correct": false},
+            {"choice_text": "الحفظ فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا ارتد بعض من آمن بالنبي صلى الله عليه وسلم بعد حادثة الإسراء؟",
+        "difficulty_score": 550,
+        "explanation": "لأن الخبر لم يطقه عقلهم في ذلك السياق الفني والزمني [10].",
+        "choices": [
+            {"choice_text": "بسبب الفقر", "is_correct": false},
+            {"choice_text": "لأن عقلهم لم يطق الخبر", "is_correct": true},
+            {"choice_text": "بسبب تهديد قريش", "is_correct": false},
+            {"choice_text": "لاختلافهم على القبلة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "بماذا فضل أبو بكر الصديق الناس وفق قول بكر بن عبد الله المزني؟",
+        "difficulty_score": 450,
+        "explanation": "فضلهم بشيء وقر في قلبه وهو الإذعان والانقياد والتسليم [11].",
+        "choices": [
+            {"choice_text": "بكثرة الصيام والصلاة", "is_correct": false},
+            {"choice_text": "بشيء وقر في قلبه (التسليم)", "is_correct": true},
+            {"choice_text": "بشجاعته في الحروب", "is_correct": false},
+            {"choice_text": "بنسبه القرشي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو 'مقام الصديقية' وفق تحليل ابن القيم لمشهد الإسراء؟",
+        "difficulty_score": 650,
+        "explanation": "التسليم لله ولرسوله هو محض الصديقية وهو أعلى المقامات بعد النبوة [40، 41].",
+        "choices": [
+            {"choice_text": "مقام خاص بالأنبياء فقط", "is_correct": false},
+            {"choice_text": "كمال التسليم لله ولرسوله", "is_correct": true},
+            {"choice_text": "رؤية الملائكة عياناً", "is_correct": false},
+            {"choice_text": "كتابة السنة النبوية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما المقصود بملمح 'صدق اللجوء إلى الله'؟",
+        "difficulty_score": 300,
+        "explanation": "استشعار أن الهداية توفيق إلهي وليست مجرد قدرات ذاتية [41، 42].",
+        "choices": [
+            {"choice_text": "قراءة الكتب الكثيرة", "is_correct": false},
+            {"choice_text": "تطلب الهداية والافتقار لله", "is_correct": true},
+            {"choice_text": "الاعتماد على الذكاء", "is_correct": false},
+            {"choice_text": "السفر لطلب العلم", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو 'معلم إبراهيم' الذي كان ابن تيمية يستعين به؟",
+        "difficulty_score": 500,
+        "explanation": "هو الله تبارك وتعالى، وكان يقول: يا معلم إبراهيم علمني [45، 46].",
+        "choices": [
+            {"choice_text": "جبريل عليه السلام", "is_correct": false},
+            {"choice_text": "الله تبارك وتعالى", "is_correct": true},
+            {"choice_text": "إسماعيل عليه السلام", "is_correct": false},
+            {"choice_text": "أحد علماء التابعين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر المتوكل في وجع ميكن مداواته بأدنى شيء 'مغبوناً'؟",
+        "difficulty_score": 850,
+        "explanation": "لأنه استفرغ قوة عبادة عظيمة في أمر يسير وترك صرفها في نصرة الدين وزيادة الإيمان [48، 49].",
+        "choices": [
+            {"choice_text": "لأنه لم يتوكل أصلاً", "is_correct": false},
+            {"choice_text": "لأنه صرف التوكل في حاجة دنيوية يسيرة", "is_correct": true},
+            {"choice_text": "لأنه لا يملك المال", "is_correct": false},
+            {"choice_text": "لأنه لم يدعُ الله", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "مكون 'المسائل' في المنظومة العقدية يعني:",
+        "difficulty_score": 200,
+        "explanation": "فهرسة النتائج العقدية التي يؤمن بها السلف [52، 53].",
+        "choices": [
+            {"choice_text": "طرق الاستدلال", "is_correct": false},
+            {"choice_text": "النتائج والاعتقادات نفسها", "is_correct": true},
+            {"choice_text": "الردود على الجهمية", "is_correct": false},
+            {"choice_text": "قواعد النحو العربي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "مكون 'الدلائل' في المنظومة العقدية يعني:",
+        "difficulty_score": 200,
+        "explanation": "الطرق والوسائل التي أفضت إلى النتائج العقدية [12].",
+        "choices": [
+            {"choice_text": "أسماء الله وصفاته", "is_correct": false},
+            {"choice_text": "المنهجية الموصلة للمسائل", "is_correct": true},
+            {"choice_text": "قصص الأنبياء", "is_correct": false},
+            {"choice_text": "أحكام الصيام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الملحوظة العجيبة التي ذكرها المحاضر عن الصحابة والخوارج؟",
+        "difficulty_score": 900,
+        "explanation": "أنه لم ينحز صحابي واحد للخوارج رغم كثرتهم، لالتزامهم بمنهجية واحدة [13].",
+        "choices": [
+            {"choice_text": "أن الصحابة قاتلوا الخوارج جميعاً", "is_correct": false},
+            {"choice_text": "أنه لم ينحز أي صحابي للخوارج", "is_correct": true},
+            {"choice_text": "أن الخوارج كانوا يحبون الصحابة", "is_correct": false},
+            {"choice_text": "أن الصحابة لم يعرفوا الخوارج", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من القائل بأن كتب أهل الحديث كأنها جاءت من قلب واحد؟",
+        "difficulty_score": 400,
+        "explanation": "أبو المظفر السمعاني في كتابه الانتصار لأهل الحديث [56، 57].",
+        "choices": [
+            {"choice_text": "ابن تيمية", "is_correct": false},
+            {"choice_text": "أبو المظفر السمعاني", "is_correct": true},
+            {"choice_text": "ابن القيم", "is_correct": false},
+            {"choice_text": "الشافعي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يعتبر المذهب المعتزلي 'تشظياً' عقدياً؟",
+        "difficulty_score": 600,
+        "explanation": "لأنهم لا يملكون منهجية موحدة فأدى ذلك لاختلافات داخلية كبيرة (ألف شظية) [58، 59].",
+        "choices": [
+            {"choice_text": "لقلة كتبهم", "is_correct": false},
+            {"choice_text": "لغياب المنهجية الموحدة", "is_correct": true},
+            {"choice_text": "لأنهم لم يدرسوا العقل", "is_correct": false},
+            {"choice_text": "لأنهم اتبعوا السلف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الخيار 'المشروع' الذي يطرحه المتأخرون من الأشاعرة بجانب التأويل؟",
+        "difficulty_score": 500,
+        "explanation": "يطرحون التفويض كخيار مشروع في التعامل مع نصوص الصفات [14].",
+        "choices": [
+            {"choice_text": "التشبيه", "is_correct": false},
+            {"choice_text": "التفويض", "is_correct": true},
+            {"choice_text": "الإنكار الكلي", "is_correct": false},
+            {"choice_text": "التوقف", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي اعتبره المحاضر 'منهجية تفسير النص الشرعي'؟",
+        "difficulty_score": 300,
+        "explanation": "أصول الفقه هو العلم المعني بمنهجية التفسير، وبدأ بالرسالة للشافعي [15].",
+        "choices": [
+            {"choice_text": "صحيح البخاري", "is_correct": false},
+            {"choice_text": "علم أصول الفقه", "is_correct": true},
+            {"choice_text": "تفسير الطبري", "is_correct": false},
+            {"choice_text": "السيرة النبوية", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو صاحب كتاب 'التحرير في أصول التفسير'؟",
+        "difficulty_score": 250,
+        "explanation": "الشيخ مساعد الطيار هو مؤلف هذا الكتاب [16].",
+        "choices": [
+            {"choice_text": "فهد العجلان", "is_correct": false},
+            {"choice_text": "مساعد الطيار", "is_correct": true},
+            {"choice_text": "أحمد قوشتي", "is_correct": false},
+            {"choice_text": "سليمان الغصن", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي وصفه المحاضر بأنه ممتاز لخدمة 'مصادر التلقي ومنهج الاستدلال'؟",
+        "difficulty_score": 400,
+        "explanation": "كتاب عثمان علي حسن (منهج الاستدلال على مسائل الاعتقاد) [68، 69].",
+        "choices": [
+            {"choice_text": "الروح لابن القيم", "is_correct": false},
+            {"choice_text": "كتاب عثمان علي حسن", "is_correct": true},
+            {"choice_text": "الإتقان للسيوطي", "is_correct": false},
+            {"choice_text": "المغني لابن قدامة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو المشروع الذي دعا إليه المحاضر أسوة بمشروع ابن تيمية؟",
+        "difficulty_score": 800,
+        "explanation": "مشروع 'درء تعارض العلوم الطبيعية التجريبية والنقل' [71، 72].",
+        "choices": [
+            {"choice_text": "مشروع لترجمة الكتب", "is_correct": false},
+            {"choice_text": "درء تعارض العلوم التجريبية والنقل", "is_correct": true},
+            {"choice_text": "مشروع لإحياء التراث", "is_correct": false},
+            {"choice_text": "مشروع لنشر السنة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كم طبع من كتاب 'الصواعق المرسلة' لابن القيم؟",
+        "difficulty_score": 600,
+        "explanation": "لم يطبع إلا نحو ثلث الكتاب أو ربعه، والباقي مفقود [17].",
+        "choices": [
+            {"choice_text": "الكتاب كاملاً", "is_correct": false},
+            {"choice_text": "الثلث أو الربع فقط", "is_correct": true},
+            {"choice_text": "النصف تماماً", "is_correct": false},
+            {"choice_text": "مجلد واحد فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الميزة في طبعة 'أضواء السلف' لكتاب الصواعق؟",
+        "difficulty_score": 450,
+        "explanation": "أنها من أجود الطبعات وبتحقيق الدكتور الحسن العلوي [18].",
+        "choices": [
+            {"choice_text": "أنها طبعة ملونة", "is_correct": false},
+            {"choice_text": "أنها بتحقيق الدكتور الحسن العلوي", "is_correct": true},
+            {"choice_text": "أنها طبعة رخيصة", "is_correct": false},
+            {"choice_text": "أنها طبعة قديمة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كتاب 'موقف المتكلمين من الاستدلال بنصوص الكتاب والسنة' للدكتور:",
+        "difficulty_score": 350,
+        "explanation": "هو للدكتور سليمان الغصن [19].",
+        "choices": [
+            {"choice_text": "أحمد الصويان", "is_correct": false},
+            {"choice_text": "سليمان الغصن", "is_correct": true},
+            {"choice_text": "ناصر العقل", "is_correct": false},
+            {"choice_text": "سفر الحوالي", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يناقش كتاب 'التسليم للنص الشرعي' لفهد العجلان؟",
+        "difficulty_score": 400,
+        "explanation": "يناقش المعارضات الفكرية المعاصرة وكيفية التسليم للنص [20].",
+        "choices": [
+            {"choice_text": "تاريخ الدولة الأموية", "is_correct": false},
+            {"choice_text": "التسليم للنص والمعارضات الفكرية", "is_correct": true},
+            {"choice_text": "قواعد التجويد", "is_correct": false},
+            {"choice_text": "أصول المحاكمات", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أين توجد تفاصيل المنهجية الاستدالية الصحيحة وفق المحاضر؟",
+        "difficulty_score": 700,
+        "explanation": "مبثوثة داخل إطار الوحي (الكتاب والسنة) ذاته وليست مجرد ممارسة تاريخية [79، 80].",
+        "choices": [
+            {"choice_text": "في كتب الفلاسفة", "is_correct": false},
+            {"choice_text": "داخل إطار الوحي نفسه", "is_correct": true},
+            {"choice_text": "في الدساتير الوضعية", "is_correct": false},
+            {"choice_text": "في العادات والتقاليد", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا أكد الله على 'عربية القرآن' في الاستدلال؟",
+        "difficulty_score": 650,
+        "explanation": "ليقول لنا إنه يلزم فهمه وفق مقتضى لسان العرب لا بأفهام محدثة [21].",
+        "choices": [
+            {"choice_text": "لأنه نزل في العرب فقط", "is_correct": false},
+            {"choice_text": "ليلزمنا بفهمه وفق مقتضى لغة العرب", "is_correct": true},
+            {"choice_text": "لأنه أفضل لغة فقط", "is_correct": false},
+            {"choice_text": "لكي يحفظه العرب", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي استشهد بها المحاضر على وجوب اتباع فهم الصحابة؟",
+        "difficulty_score": 550,
+        "explanation": "قوله تعالى: 'فإن آمنوا بمثل ما آمنتم به فقد اهتدوا' [21].",
+        "choices": [
+            {"choice_text": "آية الكرسي", "is_correct": false},
+            {"choice_text": "فإن آمنوا بمثل ما آمنتم به", "is_correct": true},
+            {"choice_text": "آية الدين", "is_correct": false},
+            {"choice_text": "آية المداينة", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الأصل العقدي الذي بينه الله في القرآن لضبط الفهم؟",
+        "difficulty_score": 400,
+        "explanation": "قاعدة المحكم والمتشابه ووجوب رد المتشابه للمحكم [21].",
+        "choices": [
+            {"choice_text": "النسخ والمنسوخ", "is_correct": false},
+            {"choice_text": "المحكم والمتشابه", "is_correct": true},
+            {"choice_text": "العام والخاص", "is_correct": false},
+            {"choice_text": "المجمل والمبين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة من معرفة 'طرائق الزائغين' بحسب الشاطبي؟",
+        "difficulty_score": 500,
+        "explanation": "من أجل تجنبها والابتعاد عن مناهجهم المنحرفة [21، 22].",
+        "choices": [
+            {"choice_text": "للسخرية منهم", "is_correct": false},
+            {"choice_text": "من أجل تجنبها", "is_correct": true},
+            {"choice_text": "لتقليدهم في بعض الأمور", "is_correct": false},
+            {"choice_text": "لأنه لا فائدة منها", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هو مؤلف كتاب 'الدليل النقلي في الفكر الكلامي'؟",
+        "difficulty_score": 450,
+        "explanation": "الدكتور أحمد قوشتي هو صاحب هذه الرسالة العلمية المميزة [22].",
+        "choices": [
+            {"choice_text": "أحمد قوشتي", "is_correct": true},
+            {"choice_text": "عبد العزيز الطريفي", "is_correct": false},
+            {"choice_text": "صالح آل الشيخ", "is_correct": false},
+            {"choice_text": "بكر أبو زيد", "is_correct": false}
+        ]
+    }]
+    }

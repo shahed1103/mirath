@@ -1,0 +1,886 @@
+    {
+    "chapter_id": 59,
+    "questions": [
+        {
+        "question_text": "من الصحابي الذي نزلت فيه آية 'ولا تحسبن الذين قتلوا في سبيل الله أمواتا' وكلمه الله كفاحاً؟",
+        "difficulty_score": 300,
+        "explanation": "المصادر تشير إلى عبد الله والد جابر بن عبد الله الذي استشهد يوم أحد ونزلت فيه هذه الآية [18].",
+        "choices": [
+            { "choice_text": "مصعب بن عمير", "is_correct": false },
+            { "choice_text": "عبد الله بن عمرو بن حرام (والد جابر)", "is_correct": true },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "أنس بن النضر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب المباشر الذي جعل عائشة رضي الله عنها تسأل النبي عن يوم أحد؟",
+        "difficulty_score": 100,
+        "explanation": "لأن أحداث أحد حفرت في أذهان المسلمين كذكرى شديدة، فسألت النبي هل مر عليه ما هو أشد منها [1].",
+        "choices": [
+            { "choice_text": "بسبب كثرة الغنائم فيها", "is_correct": false },
+            { "choice_text": "لأنها كانت أشد ما تعرفه من صور المعاناة", "is_correct": true },
+            { "choice_text": "بسبب انتصار المسلمين الساحق", "is_correct": false },
+            { "choice_text": "لأنها لم تشهد الغزوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا لقب المصدر كتاب 'زاد المعاد' للإمام ابن القيم؟",
+        "difficulty_score": 200,
+        "explanation": "وصفه بأنه كتاب جيد وممتاز لطلاب العلم في سنواتهم الأولى لاعتنائه بهدي النبي [5].",
+        "choices": [
+            { "choice_text": "جامع السيرة", "is_correct": false },
+            { "choice_text": "زاد المعاد في هدي خير العباد", "is_correct": true },
+            { "choice_text": "سيرة ابن هشام", "is_correct": false },
+            { "choice_text": "الرحيق المختوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الموارد يعتبره المصدر أرسخ لترسيخ حقائق الدين في النفس؟",
+        "difficulty_score": 500,
+        "explanation": "المورد العملي (السير الفعلي ورؤية الأقدار) أرسخ من مجرد الدرس النظري [2, 3].",
+        "choices": [
+            { "choice_text": "القراءة والدرس فقط", "is_correct": false },
+            { "choice_text": "التلقي من المشايخ", "is_correct": false },
+            { "choice_text": "المورد العملي ورؤية نتائج الواقع", "is_correct": true },
+            { "choice_text": "الحفظ المجرد للنصوص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة العميقة من قوله تعالى 'ويتخذ منكم شهداء' كما حللها ابن القيم؟",
+        "difficulty_score": 700,
+        "explanation": "أن الله يحب أن يتخذ من أوليائه من تراق دماؤهم في سبيله، وهذا مقام لا يُنال إلا بتقدير أسباب القتل (تسليط الأعداء) [13].",
+        "choices": [
+            { "choice_text": "لتقليل عدد المسلمين", "is_correct": false },
+            { "choice_text": "لاختبار قوة الأعداء", "is_correct": false },
+            { "choice_text": "اصطفاء واتخاذ لرفع الدرجات", "is_correct": true },
+            { "choice_text": "عقوبة للمؤمنين على ذنوبهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'خلعة النصر' في كلام المصدر؟",
+        "difficulty_score": 600,
+        "explanation": "هي العطايا الربانية بالنصر التي لا تأتي إلا مع الذلة والانكسار لله، كما في بدر [21].",
+        "choices": [
+            { "choice_text": "لباس يرتديه القائد", "is_correct": false },
+            { "choice_text": "النصر الذي يعقبه الكبر", "is_correct": false },
+            { "choice_text": "النصر المقترن بالذل لله والافتقار إليه", "is_correct": true },
+            { "choice_text": "الغنائم المادية فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لم يشارك جابر بن عبد الله في غزوة أحد؟",
+        "difficulty_score": 300,
+        "explanation": "لأن والده أبقاه لرعاية أخواته الكثيرة [15].",
+        "choices": [
+            { "choice_text": "بسبب مرضه", "is_correct": false },
+            { "choice_text": "بسبب صغر سنه", "is_correct": false },
+            { "choice_text": "بسبب رعاية أخواته بطلب من والده", "is_correct": true },
+            { "choice_text": "لأنه كان مسافراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو أثر 'معصية الرماة' على الحقيقة الدينية لديهم؟",
+        "difficulty_score": 800,
+        "explanation": "جعلت حقيقة شؤم المعصية تترسخ لديهم بشكل 'عملي' وهو أعلى بكثير من التلقي 'النظري' [3].",
+        "choices": [
+            { "choice_text": "أدت لتركهم الدين", "is_correct": false },
+            { "choice_text": "رسخت أثر المعصية في النفوس يقيناً", "is_correct": true },
+            { "choice_text": "لم يكن لها أثر يذكر", "is_correct": false },
+            { "choice_text": "جعلتهم يكرهون الجهاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو التابعي الذي وصف يد طلحة بن عبيد الله المشلولة؟",
+        "difficulty_score": 400,
+        "explanation": "قيس بن أبي حازم هو من رأى يد طلحة شلاء بسبب دفاعه عن النبي يوم أحد [6].",
+        "choices": [
+            { "choice_text": "سعيد بن المسيب", "is_correct": false },
+            { "choice_text": "قيس بن أبي حازم", "is_correct": true },
+            { "choice_text": "الحسن البصري", "is_correct": false },
+            { "choice_text": "عروة بن الزبير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال أنس بن النضر رضي الله عنه قبل استشهاده في أحد؟",
+        "difficulty_score": 200,
+        "explanation": "قال جملته الشهيرة التي تعبر عن شوقه للجنة: 'واهاً لريح الجنة إني أجدها دون أحد' [6].",
+        "choices": [
+            { "choice_text": "اليوم يوم الملحمة", "is_correct": false },
+            { "choice_text": "واهاً لريح الجنة إني أجدها دون أحد", "is_correct": true },
+            { "choice_text": "نصرت بالرعب", "is_correct": false },
+            { "choice_text": "الله أكبر خربت خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف ابن القيم حال المنافقين قبل يوم بدر؟",
+        "difficulty_score": 900,
+        "explanation": "كانوا يتربصون ولم يعلنوا دخولهم الإسلام صراحة، بل دخلوا بعد بدر لما علت كلمة المسلمين [22, 23].",
+        "choices": [
+            { "choice_text": "كانوا مؤمنين ثم ارتدوا", "is_correct": false },
+            { "choice_text": "كانوا يتربصون ولم يدخلوا الإسلام صراحة", "is_correct": true },
+            { "choice_text": "كانوا يقاتلون مع قريش علانية", "is_correct": false },
+            { "choice_text": "كانوا من المهاجرين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'المِرط' الذي تحدث عنه عمر بن الخطاب في سياق تكريم أم سليط؟",
+        "difficulty_score": 300,
+        "explanation": "هو نوع من الألبسة الجيدة التي بقيت من الفيء [12].",
+        "choices": [
+            { "choice_text": "سيف مرصع", "is_correct": false },
+            { "choice_text": "ثوب أو لباس", "is_correct": true },
+            { "choice_text": "إناء للطعام", "is_correct": false },
+            { "choice_text": "فرس أصيلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر الطبري قوله تعالى 'ليتفقهوا في الدين' في سياق النفير؟",
+        "difficulty_score": 850,
+        "explanation": "فسره بأن الطائفة التي تنفر ترى من آيات الله ونصره وخذلانه للكفر ما يجعلها تتفقه عملياً [28].",
+        "choices": [
+            { "choice_text": "الحفظ في المساجد فقط", "is_correct": false },
+            { "choice_text": "رؤية الحقائق المتعلقة بمعية الله أثناء النفير", "is_correct": true },
+            { "choice_text": "الاعتزال لطلب العلم النظري", "is_correct": false },
+            { "choice_text": "مجادلة أهل الكتاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الشخصيات التالية لم تكن من أبناء 'أم سليط' ولكنها كانت ممن حضروا أحداً مع النبي؟",
+        "difficulty_score": 500,
+        "explanation": "المصدر ذكر أم سليط كصحابية، والزبير وأبو بكر كأبناء لأسماء بنت أبي بكر (والدا عروة)، والسؤال هنا يختبر الربط بين الشخصيات المذكورة [29].",
+        "choices": [
+            { "choice_text": "عروة بن الزبير", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "الزبير بن العوام", "is_correct": false },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'أخرجها من القوة إلى الفعل' في سياق عيوب النفوس؟",
+        "difficulty_score": 750,
+        "explanation": "تحويل الاستعداد الكامن للخطأ (كحب الدنيا) إلى واقع ملموس لتبصره النفس وتعالجه [10].",
+        "choices": [
+            { "choice_text": "القدرة البدنية على القتال", "is_correct": false },
+            { "choice_text": "تحويل النقص الكامن إلى واقع مشاهد للتبصر به", "is_correct": true },
+            { "choice_text": "تطوير المهارات الحربية", "is_correct": false },
+            { "choice_text": "إظهار القوة أمام العدو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا عفا الله عن الذين تولوا يوم أحد (الفرار)؟",
+        "difficulty_score": 650,
+        "explanation": "لأن فرارهم لم يكن عن شك أو نفاق بل كان عارضاً استزله الشيطان [27].",
+        "choices": [
+            { "choice_text": "لأنهم كانوا قلة", "is_correct": false },
+            { "choice_text": "لأن فرارهم لم يكن عن نفاق بل عارضاً", "is_correct": true },
+            { "choice_text": "بسبب كثرة الغنائم", "is_correct": false },
+            { "choice_text": "لأنهم اعتذروا للنبي فوراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'سيد الأنفار' الذي استشهد يوم أحد ونزلت فيه آيات؟",
+        "difficulty_score": 400,
+        "explanation": "عبد الله والد جابر، وصف بأنه من سادات الأنصار ومن شهداء أحد [18].",
+        "choices": [
+            { "choice_text": "سعد بن معاذ", "is_correct": false },
+            { "choice_text": "عبد الله بن عمرو بن حرام", "is_correct": true },
+            { "choice_text": "سعد بن عبادة", "is_correct": false },
+            { "choice_text": "أسيد بن حضير", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من 'المداولة' كما ذكرها المصدر في سياق 'بسط الرزق'؟",
+        "difficulty_score": 900,
+        "explanation": "كما أن بسط الرزق قد يؤدي للبغي، فإن بسط النصر دائماً قد يؤدي لطغيان النفوس [20, 21].",
+        "choices": [
+            { "choice_text": "للتسلية", "is_correct": false },
+            { "choice_text": "لمنع طغيان النفوس وبغيها", "is_correct": true },
+            { "choice_text": "لزيادة ثروات المؤمنين", "is_correct": false },
+            { "choice_text": "لاختبار صبر الكفار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المستفاد من 'حمراء الأسد'؟",
+        "difficulty_score": 500,
+        "explanation": "إظهار القوة بعد الجراح، وحرمان المنافقين من شرف المشاركة [15].",
+        "choices": [
+            { "choice_text": "أهمية الغنائم", "is_correct": false },
+            { "choice_text": "إظهار الصمود وتطهير الصف من المنافقين", "is_correct": true },
+            { "choice_text": "ضرورة الصلح مع قريش", "is_correct": false },
+            { "choice_text": "الانسحاب التكتيكي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي سورة قرآنية فصلت أحداث غزوة أحد كما ذكر المصدر؟",
+        "difficulty_score": 100,
+        "explanation": "سورة آل عمران هي التي فصلت أحداث أحد [2].",
+        "choices": [
+            { "choice_text": "سورة الأنفال", "is_correct": false },
+            { "choice_text": "سورة آل عمران", "is_correct": true },
+            { "choice_text": "سورة التوبة", "is_correct": false },
+            { "choice_text": "سورة الأحزاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'أرحم الراحمين' الذي يجب إساءة الظن بالنفس أمامه؟",
+        "difficulty_score": 300,
+        "explanation": "المصدر يحث على إحسان الظن بالله (أرحم الراحمين) وإساءة الظن بالنفس التي هي مأوى السوء [25].",
+        "choices": [
+            { "choice_text": "النبي صلى الله عليه وسلم", "is_correct": false },
+            { "choice_text": "الله سبحانه وتعالى", "is_correct": true },
+            { "choice_text": "الصحابة", "is_correct": false },
+            { "choice_text": "الملائكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'يوم الفرقان' الذي كان مقدمة نظرية ليوم أحد؟",
+        "difficulty_score": 600,
+        "explanation": "يوم بدر كان المقدمة النظرية التي أعقبتها أحد كدرس عملي [30].",
+        "choices": [
+            { "choice_text": "فتح مكة", "is_correct": false },
+            { "choice_text": "يوم بدر", "is_correct": true },
+            { "choice_text": "يوم خيبر", "is_correct": false },
+            { "choice_text": "يوم حنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'زفر القرب'؟",
+        "difficulty_score": 400,
+        "explanation": "هو حمل قرب الماء لسقاية العطشى كما فعلت أم سليط [12].",
+        "choices": [
+            { "choice_text": "تجهيز السلاح", "is_correct": false },
+            { "choice_text": "حمل قرب الماء", "is_correct": true },
+            { "choice_text": "الطبخ للجيش", "is_correct": false },
+            { "choice_text": "تمريض الجرحى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا سمي المنافقون بهذا الاسم في أحد؟",
+        "difficulty_score": 700,
+        "explanation": "لأنهم أظهروا الإسلام وابطنوا الكفر، وانكشفوا بانسحابهم (انخزالهم) قبل المعركة [31].",
+        "choices": [
+            { "choice_text": "لأنهم كانوا يهاجرون كثيراً", "is_correct": false },
+            { "choice_text": "بسبب كثرة كلامهم", "is_correct": false },
+            { "choice_text": "لإظهارهم خلاف ما يبطنون وانكشافهم في الأزمة", "is_correct": true },
+            { "choice_text": "بسبب ملابسهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي قدم له طعام فبكى لذكرى مصعب؟",
+        "difficulty_score": 250,
+        "explanation": "عبد الرحمن بن عوف هو من قدم له الطعام فبكى تذكراً لضيق عيش مصعب [8].",
+        "choices": [
+            { "choice_text": "خباب بن الأرت", "is_correct": false },
+            { "choice_text": "عبد الرحمن بن عوف", "is_correct": true },
+            { "choice_text": "عثمان بن عفان", "is_correct": false },
+            { "choice_text": "أبو عبيدة عامر بن الجراح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحكمة من 'عتاب الله' للمؤمنين في أحد؟",
+        "difficulty_score": 800,
+        "explanation": "العتاب محمود العواقب لأنه يؤدي لتصحيح المسار وتطهير النفوس من العلل [16].",
+        "choices": [
+            { "choice_text": "للتنفير من الدين", "is_correct": false },
+            { "choice_text": "عقوبة أبدية", "is_correct": false },
+            { "choice_text": "تصحيح وتربية ومحمود العواقب", "is_correct": true },
+            { "choice_text": "لمجرد اللوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين تقع 'حمراء الأسد'؟",
+        "difficulty_score": 300,
+        "explanation": "منطقة في جنوب المدينة معروفة بهذا الاسم إلى الآن [15].",
+        "choices": [
+            { "choice_text": "شمال مكة", "is_correct": false },
+            { "choice_text": "جنوب المدينة المنورة", "is_correct": true },
+            { "choice_text": "شرق الطائف", "is_correct": false },
+            { "choice_text": "قرب خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من القائل 'ارمه فداك أبي وأمي'؟",
+        "difficulty_score": 200,
+        "explanation": "قالها النبي صلى الله عليه وسلم لسعد بن أبي وقاص يوم أحد [32].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "النبي صلى الله عليه وسلم", "is_correct": true },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الإذخر'؟",
+        "difficulty_score": 450,
+        "explanation": "نبات عطري استعمل لتغطية أرجل الشهداء في أحد [4].",
+        "choices": [
+            { "choice_text": "نوع من السيوف", "is_correct": false },
+            { "choice_text": "نبات عشبي", "is_correct": true },
+            { "choice_text": "اسم لجبل أحد", "is_correct": false },
+            { "choice_text": "لقب لأحد الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا تعني 'انخزال' المنافقين؟",
+        "difficulty_score": 600,
+        "explanation": "انسحابهم عن الجيش قبل بدء المعركة [15].",
+        "choices": [
+            { "choice_text": "هزيمتهم في القتال", "is_correct": false },
+            { "choice_text": "انسحابهم وتراجعهم عن المشاركة", "is_correct": true },
+            { "choice_text": "إسلامهم الصادق", "is_correct": false },
+            { "choice_text": "تجسسهم لصالح قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'الذكرى التي حفرت في صدور المسلمين'؟",
+        "difficulty_score": 150,
+        "explanation": "أحداث يوم أحد لما فيها من جراح وفقد للنبي وأصحابه [1].",
+        "choices": [
+            { "choice_text": "الهجرة", "is_correct": false },
+            { "choice_text": "يوم أحد", "is_correct": true },
+            { "choice_text": "فتح خيبر", "is_correct": false },
+            { "choice_text": "بيعة الرضوان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر المصدر قوله تعالى 'ليعلم الله الذين آمنوا' وهو عالم بهم أزلاً؟",
+        "difficulty_score": 900,
+        "explanation": "أي ليعلمهم علماً 'مشهوداً' يقع في الواقع فيترتب عليه الثواب والعقاب [33].",
+        "choices": [
+            { "choice_text": "أن الله لم يكن يعلم", "is_correct": false },
+            { "choice_text": "ليظهر علم الله الغيبي في الواقع المشهود", "is_correct": true },
+            { "choice_text": "ليتعلم المؤمنون من الله", "is_correct": false },
+            { "choice_text": "ليعرف الكفار قوة المؤمنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الذين قال لهم الناس إن الناس قد جمعوا لكم'؟",
+        "difficulty_score": 500,
+        "explanation": "هم المؤمنون الذين خرجوا لحمراء الأسد بعد جراح أحد [29].",
+        "choices": [
+            { "choice_text": "أهل مكة", "is_correct": false },
+            { "choice_text": "أهل المدينة الصامدون", "is_correct": true },
+            { "choice_text": "المهاجرون فقط", "is_correct": false },
+            { "choice_text": "يهود خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'شؤم المعصية' المذكور في المصدر؟",
+        "difficulty_score": 750,
+        "explanation": "الآثار المترتبة على مخالفة أمر الرسول كالفشل والنزاع [9].",
+        "choices": [
+            { "choice_text": "قلة الغنائم", "is_correct": false },
+            { "choice_text": "الفشل والنزاع وذهاب الريح", "is_correct": true },
+            { "choice_text": "غضب الناس", "is_correct": false },
+            { "choice_text": "تأخر المطر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تعتبر 'أحد' مدرسة تربوية؟",
+        "difficulty_score": 400,
+        "explanation": "لأنها كشفت عيوب النفس وعلمت المؤمنين أهمية الطاعة وعاقبة المعصية [34].",
+        "choices": [
+            { "choice_text": "لأنها كانت سهلة", "is_correct": false },
+            { "choice_text": "لأنها كشفت العيوب النفسية وعالجتها عملياً", "is_correct": true },
+            { "choice_text": "بسبب كثرة الدروس النظرية فيها", "is_correct": false },
+            { "choice_text": "لأن الجميع انتصر فيها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي 'يمنع النصرة المستقرة' وفقاً لتحليل المصدر؟",
+        "difficulty_score": 850,
+        "explanation": "بقايا النفوس ورواسبها التي لم تُعالج بعد [10].",
+        "choices": [
+            { "choice_text": "قوة العدو", "is_correct": false },
+            { "choice_text": "قلة السلاح", "is_correct": false },
+            { "choice_text": "بقايا النفوس ورواسبها الكامنة", "is_correct": true },
+            { "choice_text": "وعورة الأرض", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من 'الوالدان' اللذان عناهما المصدر في حديثه عن عروة؟",
+        "difficulty_score": 450,
+        "explanation": "الزبير بن العوام وأبو بكر الصديق (باعتباره جده ووالد أمه أسماء) [29].",
+        "choices": [
+            { "choice_text": "حمزة والعباس", "is_correct": false },
+            { "choice_text": "الزبير وأبو بكر", "is_correct": true },
+            { "choice_text": "عمر وعثمان", "is_correct": false },
+            { "choice_text": "سعد وسعيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الحكمة من 'تمحيص' المؤمنين؟",
+        "difficulty_score": 700,
+        "explanation": "تخليصهم من الذنوب ومن رواسب النفاق وتصفية الصف [35].",
+        "choices": [
+            { "choice_text": "لإظهار قوتهم", "is_correct": false },
+            { "choice_text": "تخليص النفوس من الذنوب والعيوب", "is_correct": true },
+            { "choice_text": "لزيادة عددهم", "is_correct": false },
+            { "choice_text": "لإرهاب العدو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الصفات أطلقت على 'الشهادة' في المصدر؟",
+        "difficulty_score": 300,
+        "explanation": "وصفها بأنها 'شرف عظيم' [35].",
+        "choices": [
+            { "choice_text": "حادث أليم", "is_correct": false },
+            { "choice_text": "شرف عظيم ومقام رفيع", "is_correct": true },
+            { "choice_text": "خسارة بشرية", "is_correct": false },
+            { "choice_text": "واجب ثقيل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'يوم الجحيم' الذي نفاه النبي عن أحد؟",
+        "difficulty_score": 200,
+        "explanation": "المصدر يؤكد أن أحداً يوم حب وذكرى رغم الألم، ولم يصفه بيوم الجحيم بل بيوم الذكرى والدروس [1, 36].",
+        "choices": [
+            { "choice_text": "يوم أحد", "is_correct": true },
+            { "choice_text": "يوم بدر", "is_correct": false },
+            { "choice_text": "يوم الخندق", "is_correct": false },
+            { "choice_text": "يوم حنين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي صلى الله عليه وسلم في آخر أيامه تجاه شهداء أحد كما ورد في حديث عقبة بن عامر؟",
+        "difficulty_score": 200,
+        "explanation": "المصدر ذكر أن النبي ذهب لزيارة الشهداء في أواخر حياته وصلى عليهم كالمودع للأحياء والأموات [1, 2].",
+        "choices": [
+            { "choice_text": "أمر بنقل قبورهم", "is_correct": false },
+            { "choice_text": "صلى عليهم صلاة المودع للأحياء والأموات", "is_correct": true },
+            { "choice_text": "بنى مسجداً عند قبورهم", "is_correct": false },
+            { "choice_text": "أوصى بترك زيارتهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكلمة 'فحص الجبل' التي تمنى النبي أن يكون قد غودر مع أصحابه فيها؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر أوضح أن فحص الجبل هو سفح جبل أحد [2].",
+        "choices": [
+            { "choice_text": "قمة الجبل", "is_correct": false },
+            { "choice_text": "سفح الجبل", "is_correct": true },
+            { "choice_text": "الغار الموجود في الجبل", "is_correct": false },
+            { "choice_text": "الطريق المؤدي للجبل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا بكى الصحابي خباب بن الأرت رضي الله عنه عندما قُدم له الطعام في أيام رخائه؟",
+        "difficulty_score": 300,
+        "explanation": "لأنه تذكر مصعب بن عمير الذي استشهد ولم يترك إلا نمرة، فخشي خباب أن يكون قد عُجلت له طيباته [3, 4].",
+        "choices": [
+            { "choice_text": "لأن الطعام كان قليلاً", "is_correct": false },
+            { "choice_text": "لأنه تذكر حال أصحابه الذين مضوا ولم ينالوا من الدنيا شيئاً", "is_correct": true },
+            { "choice_text": "بسبب مرضه الشديد", "is_correct": false },
+            { "choice_text": "لأنه فقد أهله في ذلك اليوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا غطى الصحابة رأي مصعب بن عمير عند دفنه حين قصر ثوبه عن تغطيته كاملاً؟",
+        "difficulty_score": 150,
+        "explanation": "أمر النبي بتغطية رأسه بثوبه (النمرة) وتغطية رجليه بنبات الإذخر [3].",
+        "choices": [
+            { "choice_text": "بثوب جديد من المدينة", "is_correct": false },
+            { "choice_text": "بدرعه", "is_correct": false },
+            { "choice_text": "بنمرته (ثوبه المخطط)", "is_correct": true },
+            { "choice_text": "بتراب القبر فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هي الصحابية التي قال عنها عمر بن الخطاب 'إنهَا كَانَتْ تَزْفِرُ لَنَا الْقِرَبَ يَوْمَ أُحُدٍ'؟",
+        "difficulty_score": 300,
+        "explanation": "هي أم سليط، وقد استدل عمر بذلك على استحقاقها للمرط (الثوب) [4, 5].",
+        "choices": [
+            { "choice_text": "نسيبة بنت كعب", "is_correct": false },
+            { "choice_text": "أم سليط", "is_correct": true },
+            { "choice_text": "أسماء بنت أبي بكر", "is_correct": false },
+            { "choice_text": "فاطمة بنت رسول الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية يعتبره المصدر استثناءً لأنه يعتني بالهدي النبوي بجانب الأحداث التاريخية؟",
+        "difficulty_score": 250,
+        "explanation": "وصف المصدر كتاب زاد المعاد لابن القيم بأنه استثناء لجمعه بين الأحداث والهدي التفصيلي [6].",
+        "choices": [
+            { "choice_text": "سيرة ابن هشام", "is_correct": false },
+            { "choice_text": "تاريخ الطبري", "is_correct": false },
+            { "choice_text": "زاد المعاد في هدي خير العباد", "is_correct": true },
+            { "choice_text": "الرحيق المختوم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً للمصدر، ما هو المورد الذي تترسخ فيه حقائق الدين عن طريق 'رؤية أقدار الله'؟",
+        "difficulty_score": 600,
+        "explanation": "هو المورد العملي الذي يرى فيه الإنسان نتائج الصبر أو شؤم المعصية واقعاً [7].",
+        "choices": [
+            { "choice_text": "المورد النظري العلمي", "is_correct": false },
+            { "choice_text": "المورد العقلي المجرد", "is_correct": false },
+            { "choice_text": "المورد العملي", "is_correct": true },
+            { "choice_text": "مورد الحفظ والتلقين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف وصف الطبري حال الطائفة التي تنفر للجهاد بخصوص 'التفقه في الدين'؟",
+        "difficulty_score": 850,
+        "explanation": "يرى الطبري أن نفيرهم يجعلهم يرون آيات الله ونصره وخذلانه للكفار، وهذا هو عين التفقه العملي [8, 9].",
+        "choices": [
+            { "choice_text": "أنهم يحرمون من العلم بسبب انشغالهم", "is_correct": false },
+            { "choice_text": "أن رؤيتهم للحقائق في الميدان هي وجه تفقههم", "is_correct": true },
+            { "choice_text": "أنهم يتفقهون بحفظ المتون أثناء المسير", "is_correct": false },
+            { "choice_text": "أن التفقه خاص بمن بقي في المدينة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس 'النظري' الذي سبق أحداث أحد العملية كما ورد في المصدر؟",
+        "difficulty_score": 700,
+        "explanation": "هي التوجيهات التي نزلت في سورة الأنفال بعد بدر، والتي حذرت من التنازع والفشل [10].",
+        "choices": [
+            { "choice_text": "آيات سورة آل عمران", "is_correct": false },
+            { "choice_text": "آيات سورة الأنفال (توجيهات يوم بدر)", "is_correct": true },
+            { "choice_text": "بيعة العقبة الثانية", "is_correct": false },
+            { "choice_text": "خطبة الوداع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تقتضي حكمة الله 'الإدالة' (النصر تارة والهزيمة تارة) للرسل وأتباعهم؟",
+        "difficulty_score": 750,
+        "explanation": "ليتميز الصادق الذي يتبع الحق لذاته عمن يدخل في الدين طمعاً في الغلبة والظهور فقط [11, 12].",
+        "choices": [
+            { "choice_text": "لإظهار قوة الأعداء دائماً", "is_correct": false },
+            { "choice_text": "لتمييز المؤمن الصادق من المنافق الكاذب", "is_correct": true },
+            { "choice_text": "لتقليل حماس المؤمنين للقتال", "is_correct": false },
+            { "choice_text": "لأن الله لا يريد نصر المسلمين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى أظهر المنافقون في المدينة إسلامهم ظاهراً لأول مرة؟",
+        "difficulty_score": 500,
+        "explanation": "بعد يوم بدر لما رأوا كلمة المسلمين قد علت وطار لهم الصيت [12, 13].",
+        "choices": [
+            { "choice_text": "فور وصول النبي للمدينة", "is_correct": false },
+            { "choice_text": "بعد غزوة أحد", "is_correct": false },
+            { "choice_text": "بعد يوم بدر", "is_correct": true },
+            { "choice_text": "عند فتح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الحكمة من 'ابتلاء ما في الصدور ومحيص ما في القلوب' في أحد؟",
+        "difficulty_score": 800,
+        "explanation": "تخليص القلوب وتنقيتهما مما يغالطها من غلبات الطباع وميل النفوس والغفلة [14, 15].",
+        "choices": [
+            { "choice_text": "لتعذيب المؤمنين", "is_correct": false },
+            { "choice_text": "تنقية القلوب وتخليصها من غلبات الطباع", "is_correct": true },
+            { "choice_text": "لزيادة عدد الجيش", "is_correct": false },
+            { "choice_text": "لاختبار جودة السلاح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا فسر ابن القيم قوله تعالى 'ليعلم الله الذين آمنوا'؟",
+        "difficulty_score": 900,
+        "explanation": "أن الله يريد أن يميزهم تمييزاً 'مشهوداً' يقع في الواقع كشهادة علنية، لا مجرد علمه الغيبي بهم [16].",
+        "choices": [
+            { "choice_text": "أن علم الله يتغير بالزمان", "is_correct": false },
+            { "choice_text": "ليتحول علمه بهم من غيب إلى شهادة واقعة", "is_correct": true },
+            { "choice_text": "لأن الله لا يعلم الغيب", "is_correct": false },
+            { "choice_text": "ليعرف المؤمنون أنفسهم فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التشبيه الذي استخدمه المصدر لوصف 'بسط النصر المستمر'؟",
+        "difficulty_score": 750,
+        "explanation": "شبهه ببسط الرزق، فكما أن كثرة الرزق قد تؤدي للبغي، فإن كثرة النصر قد تؤدي لطغيان النفوس [17, 18].",
+        "choices": [
+            { "choice_text": "تشبيهه بالمطر الغزير", "is_correct": false },
+            { "choice_text": "تشبيهه ببسط الرزق المؤدي للبغي", "is_correct": true },
+            { "choice_text": "تشبيهه بالشمس الساطعة", "is_correct": false },
+            { "choice_text": "تشبيهه بالبناء الشامخ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين تكمن 'خلعة النصر' والظفر وفقاً لما ورد في المصدر؟",
+        "difficulty_score": 650,
+        "explanation": "تكون مع ولاية الذل والانكسار لله، كما حدث في بدر [18].",
+        "choices": [
+            { "choice_text": "في كثرة العتاد والسلاح", "is_correct": false },
+            { "choice_text": "في التخطيط العسكري البحت", "is_correct": false },
+            { "choice_text": "في دوام الذل والانكسار لله", "is_correct": true },
+            { "choice_text": "في كثرة عدد المقاتلين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المرتبة التي تلي 'الصديقية' مباشرة ولا تُنال إلا بتقدير أسباب القتل؟",
+        "difficulty_score": 550,
+        "explanation": "مرتبة الشهادة، وهي من أعلى المراتب التي يصطفي الله لها أوليائه [19, 20].",
+        "choices": [
+            { "choice_text": "الإمامة في الدين", "is_correct": false },
+            { "choice_text": "الشهادة", "is_correct": true },
+            { "choice_text": "الخلافة", "is_correct": false },
+            { "choice_text": "الزهد", "is_correct": false }
+        ]
+    },
+    {
+        "choice_text": "لماذا منع الله المنافقين من شهود 'أحد' باتخاذ الشهداء من بينهم؟",
+        "question_text": "ما الحكمة من 'انخزال' المنافقين قبل المعركة بخصوص مقام الشهادة؟",
+        "difficulty_score": 800,
+        "explanation": "لأن الله لا يحبهم فثبطهم لئلا ينالوا شرف الشهادة الذي خص به أحبابه وحزبه فقط [21, 22].",
+        "choices": [
+            { "choice_text": "ليحفظ حياتهم", "is_correct": false },
+            { "choice_text": "ليحرمهم شرف الشهادة والمقام العظيم", "is_correct": true },
+            { "choice_text": "ليجعلهم يندمون لاحقاً", "is_correct": false },
+            { "choice_text": "لأن عددهم كان كبيراً جداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "وفقاً لابن القيم، ما الذي يسبب هلاك أعداء الله ومحقهم؟",
+        "difficulty_score": 700,
+        "explanation": "بغيهم وطغيانهم ومبالغتهم في أذى أولياء الله، مما يجعل الله يقيض لهم أسباب هلاكهم [23].",
+        "choices": [
+            { "choice_text": "ضعف سلاحهم", "is_correct": false },
+            { "choice_text": "بغيهم وطغيانهم وأذاهم للمؤمنين", "is_correct": true },
+            { "choice_text": "قلة عددهم", "is_correct": false },
+            { "choice_text": "خوفهم من الموت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هما المعصيتان الأساسيتان اللتان صدرتا من الصحابة في أحد وكانتا من 'موجبات الطباع'؟",
+        "difficulty_score": 600,
+        "explanation": "الطمع في الغنائم (عند الرماة) والخوف (الذي أدى للفرار) [24, 25].",
+        "choices": [
+            { "choice_text": "الكذب والغدر", "is_correct": false },
+            { "choice_text": "الطمع في الغنائم والخوف", "is_correct": true },
+            { "choice_text": "العصيان العمدي والشك", "is_correct": false },
+            { "choice_text": "الغرور والكسل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى انتقال عيوب النفس 'من القوة إلى الفعل' في سياق أحد؟",
+        "difficulty_score": 900,
+        "explanation": "خروج البقايا الكامنة في النفوس (كحب الدنيا) إلى حيز الواقع المشاهد لتبصرها النفس وتعالجها [26, 27].",
+        "choices": [
+            { "choice_text": "زيادة القوة البدنية للمقاتلين", "is_correct": false },
+            { "choice_text": "خروج البقايا الكامنة للنفس إلى حيز الواقع المشاهد", "is_correct": true },
+            { "choice_text": "التحول من الدفاع إلى الهجوم", "is_correct": false },
+            { "choice_text": "إجبار الأعداء على الاستسلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشاعر الذي استشهد ابن القيم بعجز بيت له: 'فربما صحت الأجسام بالعلل'؟",
+        "difficulty_score": 400,
+        "explanation": "هو المتنبي، واستشهد به لتوضيح أن الابتلاء قد يكون سبباً في صحة النفس وعلاجها [28].",
+        "choices": [
+            { "choice_text": "حسان بن ثابت", "is_correct": false },
+            { "choice_text": "المتنبي", "is_correct": true },
+            { "choice_text": "كعب بن مالك", "is_correct": false },
+            { "choice_text": "أبو تمام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'ظن الجاهلية' الذي وصفه الله في سورة آل عمران بخصوص أحداث أحد؟",
+        "difficulty_score": 500,
+        "explanation": "هو ظن المنافقين بأن الله لن ينصر رسوله أو أن الأمر ليس لله [29, 30].",
+        "choices": [
+            { "choice_text": "ظنهم بأن المطر لن ينزل", "is_correct": false },
+            { "choice_text": "ظن السوء بأن الله لن يتم نصر رسوله", "is_correct": true },
+            { "choice_text": "الخوف من الجوع", "is_correct": false },
+            { "choice_text": "توقع الربح التجاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يجب على المؤمن أن يسيء الظن بنفسه؟",
+        "difficulty_score": 600,
+        "explanation": "لأن النفس هي مأوى كل سوء ومنبع كل شر ومبنية على الجهل والظلم [31].",
+        "choices": [
+            { "choice_text": "لأنها تحب العبادة دائماً", "is_correct": false },
+            { "choice_text": "لأنها مأوى السوء ومنبع الشر بطبيعتها", "is_correct": true },
+            { "choice_text": "لأنها تخاف من الناس", "is_correct": false },
+            { "choice_text": "لأنها تسعى للكمال دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الفرق الجوهري بين ظن السوء عند المنافقين وعند المؤمنين؟",
+        "difficulty_score": 850,
+        "explanation": "المنافق يظن السوء بالله وبوعده، بينما المؤمن قد تغلبه الظنون فيدفعها بالاستعاذة ويحسن الظن بربه [32, 33].",
+        "choices": [
+            { "choice_text": "لا فرق بينهما في القرآن", "is_correct": false },
+            { "choice_text": "المنافق يظن السوء بالله دائماً والمؤمن يغالب الظنون ويصححها", "is_correct": true },
+            { "choice_text": "المؤمن لا يأتيه أي ظن سوء أبداً", "is_correct": false },
+            { "choice_text": "المنافق يحسن الظن بالله سراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التشبيه الذي استخدمه ابن القيم لوصف 'أعمال العبد' في سياق الشدائد؟",
+        "difficulty_score": 750,
+        "explanation": "وصفها بأنها 'جند' إما للعبد تنصره، أو عليه مع عدوه تهزمه [34, 35].",
+        "choices": [
+            { "choice_text": "كالسحاب الماطر", "is_correct": false },
+            { "choice_text": "كالجند التي تنصره أو تهزمه", "is_correct": true },
+            { "choice_text": "كالبضاعة الرابحة", "is_correct": false },
+            { "choice_text": "كالماء الجاري", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا عفى الله عن المؤمنين الذين تولوا يوم أحد ولم يعتبره نفاقاً؟",
+        "difficulty_score": 650,
+        "explanation": "لأن فرارهم لم يكن عن شك في الدين بل كان عارضاً ناتجاً عن 'استزلال' الشيطان ببعض ذنوبهم [36].",
+        "choices": [
+            { "choice_text": "لأن عددهم كان قليلاً", "is_correct": false },
+            { "choice_text": "لأن توليهم كان عارضاً ولم يكن عن شك أو نفاق", "is_correct": true },
+            { "choice_text": "لأنهم قتلوا قادة قريش", "is_correct": false },
+            { "choice_text": "لأنهم اعتذروا قائلين إنهم كانوا يخدعون العدو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف ربط المصدر بين أحداث 'أحد' وبين الثبات في 'يوم الخندق'؟",
+        "difficulty_score": 800,
+        "explanation": "اعتبر أن ما حدث في أحد كان الرصيد والسبب الأساسي في صمود الصحابة عند حصار الخندق [37, 38].",
+        "choices": [
+            { "choice_text": "بسبب كثرة السلاح المتبقي من أحد", "is_correct": false },
+            { "choice_text": "لأن تجربة أحد أثمرت الثبات النفسي في الخندق", "is_correct": true },
+            { "choice_text": "لأن قريش خافت من تكرار أحداث أحد", "is_correct": false },
+            { "choice_text": "لا يوجد أي رابط بينهما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشرط الذي وضعه النبي صلى الله عليه وسلم للخروج لغزوة 'حمراء الأسد'؟",
+        "difficulty_score": 450,
+        "explanation": "اشترط ألا يخرج معه إلا من شهد غزوة أحد تطييباً لمن ثبت [39].",
+        "choices": [
+            { "choice_text": "أن يكون المقاتل شاباً فقط", "is_correct": false },
+            { "choice_text": "أن يكون ممن لم يصَب بجراح", "is_correct": false },
+            { "choice_text": "ألا يخرج إلا من شهد أحداً", "is_correct": true },
+            { "choice_text": "أن يحمل كل رجل سيفين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا استثنى النبي جابر بن عبد الله وسمح له بالخروج لحمراء الأسد رغم عدم شهوده أحداً؟",
+        "difficulty_score": 500,
+        "explanation": "لأنه تخلف عن أحد بعذر رعاية أخواته بطلب من والده الشهيد [39, 40].",
+        "choices": [
+            { "choice_text": "لأنه كان يملك خيلاً سريعة", "is_correct": false },
+            { "choice_text": "بسبب عذره الصادق في رعاية أخواته بعد استشهاد والده", "is_correct": true },
+            { "choice_text": "لأنه كان دليلاً للطريق", "is_correct": false },
+            { "choice_text": "لأنه أحضر طعاماً للجيش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال المؤمنون عندما قيل لهم في حمراء الأسد 'إن الناس قد جمعوا لكم فاخشوهم'؟",
+        "difficulty_score": 300,
+        "explanation": "زادهم ذلك إيماناً وقالوا 'حسبنا الله ونعم الوكيل' [41, 42].",
+        "choices": [
+            { "choice_text": "قرروا الانسحاب فوراً", "is_correct": false },
+            { "choice_text": "قالوا حسبنا الله ونعم الوكيل", "is_correct": true },
+            { "choice_text": "طلبوا النجدة من القبائل المجاورة", "is_correct": false },
+            { "choice_text": "شككوا في صدق الخبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الصحابي الذي وصف يده الشلاء قيس بن أبي حازم؟",
+        "difficulty_score": 200,
+        "explanation": "هو طلحة بن عبيد الله الذي شلت يده وهو يقي النبي السهام [43].",
+        "choices": [
+            { "choice_text": "سعد بن أبي وقاص", "is_correct": false },
+            { "choice_text": "طلحة بن عبيد الله", "is_correct": true },
+            { "choice_text": "أبو طلحة الأنصاري", "is_correct": false },
+            { "choice_text": "الزبير بن العوام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي لأبي طلحة الأنصاري عندما رآه يحميه بكنانته؟",
+        "difficulty_score": 350,
+        "explanation": "أمر الناس بنثر سهامهم له قائلاً 'انثروا لأبي طلحة' [43, 44].",
+        "choices": [
+            { "choice_text": "قف خلف الجبل", "is_correct": false },
+            { "choice_text": "انثروا لأبي طلحة (السهام)", "is_correct": true },
+            { "choice_text": "اذهب للمدينة وأحضر السلاح", "is_correct": false },
+            { "choice_text": "لا تخرج رأسك للعدو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى 'المنطق المادي' الذي حذر المصدر من استخدامه في فهم 'الشهادة'؟",
+        "difficulty_score": 700,
+        "explanation": "المنطق المادي يرى في الموت خسارة، بينما المنطق الإيماني يراه شرفاً واتخاذاً من الله [22].",
+        "choices": [
+            { "choice_text": "الحرص على الغنائم فقط", "is_correct": false },
+            { "choice_text": "اعتبار طول العمر والصحة هو الخير الوحيد والمحض", "is_correct": true },
+            { "choice_text": "استخدام الآلات الحديثة في القتال", "is_correct": false },
+            { "choice_text": "التجارة أثناء الغزو", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هؤلاء الصحابة ذكر المصدر أن والده كان من سادات الأنصار ومن شهداء أحد؟",
+        "difficulty_score": 400,
+        "explanation": "عبد الله والد جابر بن عبد الله [40].",
+        "choices": [
+            { "choice_text": "أنس بن مالك", "is_correct": false },
+            { "choice_text": "جابر بن عبد الله", "is_correct": true },
+            { "choice_text": "عروة بن الزبير", "is_correct": false },
+            { "choice_text": "سعد بن معاذ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'شرف أحد' الحقيقي وفقاً لخاتمة المصدر؟",
+        "difficulty_score": 500,
+        "explanation": "هو سجل الشدائد والتضحيات والبذل الذي سطرته دماء الصحابة حماية للدين وللنبي [44].",
+        "choices": [
+            { "choice_text": "كثرة الغنائم التي حصلوا عليها", "is_correct": false },
+            { "choice_text": "سجل التضحيات والشدائد التي بذلت لنصرة الدين", "is_correct": true },
+            { "choice_text": "احتلال جبل أحد للأبد", "is_correct": false },
+            { "choice_text": "هزيمة قريش هزيمة ساحقة لا رجعة فيها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الوالدان' اللذان عناهما المصدر بخصوص عروة بن الزبير في سياق 'حمراء الأسد'؟",
+        "difficulty_score": 450,
+        "explanation": "الزبير بن العوام (والده) وأبو بكر الصديق (جده) [42].",
+        "choices": [
+            { "choice_text": "حمزة والعباس", "is_correct": false },
+            { "choice_text": "الزبير وأبو بكر", "is_correct": true },
+            { "choice_text": "عمر وعثمان", "is_correct": false },
+            { "choice_text": "طلحة وسعد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الوصف الذي أطلقه المصدر على الفئات التي تسب وتلعن الصحابة؟",
+        "difficulty_score": 300,
+        "explanation": "وصفهم بالفرق المنحرفة والضالة، واعتبر فعلهم شؤماً وبؤساً لأنهم يعادون من بذلوا أرواحهم مع النبي [44, 45].",
+        "choices": [
+            { "choice_text": "المجتهدون المخطئون", "is_correct": false },
+            { "choice_text": "الفرق المنحرفة والضالة", "is_correct": true },
+            { "choice_text": "الباحثون عن الحقيقة", "is_correct": false },
+            { "choice_text": "أصحاب الرأي الآخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا ختم المصدر دعاءه للمصلحين؟",
+        "difficulty_score": 200,
+        "explanation": "ختمه بطلب التزكية للنفس والصلاة على النبي صلى الله عليه وسلم [45, 46].",
+        "choices": [
+            { "choice_text": "بطلب النصر المادي فقط", "is_correct": false },
+            { "choice_text": "بطلب تقوى النفس وتزكيتها والصلاة على النبي", "is_correct": true },
+            { "choice_text": "بالتحذير من الفتن القادمة", "is_correct": false },
+            { "choice_text": "بذكر أسماء بقية العشرة المبشرين بالجنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الحكمة من وصف المصائب بأنها 'تستخرج الطباع'؟",
+        "difficulty_score": 850,
+        "explanation": "لأن الرخاء يخفي العيوب، أما النار (الابتلاء) فهي التي تظهر حقيقة المعادن وما كمن في النفوس [47].",
+        "choices": [
+            { "choice_text": "لإظهار القوة الجسدية", "is_correct": false },
+            { "choice_text": "لأن الابتلاء هو الذي يكشف الحقائق الكامنة التي يخفيها الرخاء", "is_correct": true },
+            { "choice_text": "لتخويف المنافقين فقط", "is_correct": false },
+            { "choice_text": "لإجبار الناس على التوبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه النتائج يعتبرها المصدر من 'الآثار الحميدة' لعتاب الله في أحد؟",
+        "difficulty_score": 750,
+        "explanation": "أنه أورث الصحابة حذراً شديداً ومعرفة بالأبواب التي يدخل منها الشيطان، مما ضمن لهم الفلاح لاحقاً [27, 28].",
+        "choices": [
+            { "choice_text": "اعتزالهم للناس", "is_correct": false },
+            { "choice_text": "إحساسهم باليأس", "is_correct": false },
+            { "choice_text": "الحذر الشديد ومعرفة مداخل الشيطان لتجنبها", "is_correct": true },
+            { "choice_text": "تركهم للجهاد", "is_correct": false }
+        ]
+    }
+]
+    }

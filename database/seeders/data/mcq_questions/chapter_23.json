@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 23,
+    "questions": [
+        {
+        "question_text": "ما هي القاعدة الخامسة من قواعد منهج الاستدلال عند أهل السنة؟",
+        "difficulty_score": 100,
+        "explanation": "القاعدة الخامسة تنص صراحة على فهم الكتاب والسنة في ضوء فهم السلف الصالح [8].",
+        "choices": [
+            {"choice_text": "فهم الكتاب والسنة في ضوء فهم السلف الصالح", "is_correct": true},
+            {"choice_text": "تقديم العقل على النقل عند التعارض", "is_correct": false},
+            {"choice_text": "اعتبار الرؤى والمنامات مصدراً للتشريع", "is_correct": false},
+            {"choice_text": "الاقتصار على فهم اللغة العربية فقط", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "من هم 'السلف الصالح' المقصودون في المنهج عند الإطلاق؟",
+        "difficulty_score": 200,
+        "explanation": "المقصود بهم القرون الثلاثة المفضلة (الصحابة، التابعون، وتابعي التابعين) بناءً على الحديث النبوي [1].",
+        "choices": [
+            {"choice_text": "الصحابة فقط", "is_correct": false},
+            {"choice_text": "أهل القرون الثلاثة المفضلة", "is_correct": true},
+            {"choice_text": "العلماء المعاصرون", "is_correct": false},
+            {"choice_text": "كل من جاء بعد جيل التابعين", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "أي من الكتب التالية ألفه ابن الوزير اليماني في الذب عن السنة؟",
+        "difficulty_score": 300,
+        "explanation": "ذكر النص أن ابن الوزير اليماني هو صاحب كتاب 'العواصم والقواصم في الذب عن سنة أبي القاسم' [9].",
+        "choices": [
+            {"choice_text": "تأسيس التقديس", "is_correct": false},
+            {"choice_text": "العواصم والقواصم", "is_correct": true},
+            {"choice_text": "درء تعارض العقل والنقل", "is_correct": false},
+            {"choice_text": "إحكام آيات الأحكام", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو 'المحكم' في اصطلاح الإمام الطبري المذكور في المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "المحكم عند الطبري هو ما لا يحتمل من التأويل إلا وجهاً واحداً [2].",
+        "choices": [
+            {"choice_text": "ما احتمل أوجهاً كثيرة", "is_correct": false},
+            {"choice_text": "ما لا يحتمل إلا وجهاً واحداً من التأويل", "is_correct": true},
+            {"choice_text": "النص المنسوخ حكماً وتلاوة", "is_correct": false},
+            {"choice_text": "كل كلام العرب الفصيح", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ماذا يترتب على 'تقديم العقل على النقل' عند الرازي في شروطه العشرة؟",
+        "difficulty_score": 600,
+        "explanation": "شروط الرازي تؤدي عملياً إلى إلغاء وصف القطعية عن النصوص النقلية بدعوى عدم العلم بالمعارض [10].",
+        "choices": [
+            {"choice_text": "إثبات قطعية القرآن", "is_correct": false},
+            {"choice_text": "إلغاء وصف القطعية عن النص النقلي", "is_correct": true},
+            {"choice_text": "تقوية الاستدلال بالآحاد", "is_correct": false},
+            {"choice_text": "إجماع الأمة على النص", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "ما هو الفرق بين 'حارات العقول' و'محالات العقول'؟",
+        "difficulty_score": 750,
+        "explanation": "الشرع يأتي بما تحار فيه العقول (تعجز عن إدراك كيفيته) ولا يأتي بما تحيله العقول (المستحيل لذاته) [6].",
+        "choices": [
+            {"choice_text": "الشرع يأتي بالمحالات والحارات معاً", "is_correct": false},
+            {"choice_text": "الشرع يأتي بالحارات ولا يأتي بالمحالات", "is_correct": true},
+            {"choice_text": "لا فرق بينهما في الاصطلاح", "is_correct": false},
+            {"choice_text": "العقل يدرك المحالات ولا يدرك الحارات", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "كيف فكك ابن تيمية قاعدة 'العقل أصل النقل'؟",
+        "difficulty_score": 900,
+        "explanation": "أثبت ابن تيمية أن كون العقل شاهداً بصحة النقل لا يعني أنه مصدر حجيته، فإذا شهد العقل للنقل ثم عارضه، فالعقل هو الذي أخطأ في شهادته [90، 93].",
+        "choices": [
+            {"choice_text": "بإثبات أن العقل شاهد لا مصدر للحجية", "is_correct": true},
+            {"choice_text": "بقبول تقسيم الرازي الرباعي كما هو", "is_correct": false},
+            {"choice_text": "بإلغاء دور العقل بالكامل", "is_correct": false},
+            {"choice_text": "بأن النقل لا يحتاج لشهادة العقل أصلاً", "is_correct": false}
+        ]
+    },
+    {
+        "question_text": "لماذا يُعد جيل الصحابة 'نقطة اللب والمركز' في فهم الكتاب والسنة؟",
+        "difficulty_score": 150,
+        "explanation": "الصحابة هم الجيل الذي تلقى الوحي مباشرة من النبي صلى الله عليه وسلم وشاهد التنزيل، مما يجعل موقعهم في خارطة الفهم هو القضية المركزية [1].",
+        "choices": [
+            { "choice_text": "لأنهم عاشوا في مكة فقط", "is_correct": false },
+            { "choice_text": "لأنهم أهل القرون الثلاثة المفضلة ونقطة الارتكاز في الفهم", "is_correct": true },
+            { "choice_text": "لأنهم لم يختلفوا في أي مسألة فقهية", "is_correct": false },
+            { "choice_text": "بسبب كثرة مروياتهم للحديث النبوي فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي 'منطقة العمل الأولى' عند الالتزام بهدي السلف الصالح في الاستدلال؟",
+        "difficulty_score": 250,
+        "explanation": "منطقة العمل الأولى هي الالتزام بما أجمع عليه السلف في فهم الكتاب والسنة [2].",
+        "choices": [
+            { "choice_text": "منطقة الاجتهاد الفردي", "is_correct": false },
+            { "choice_text": "منطقة الخلاف العالي", "is_correct": false },
+            { "choice_text": "منطقة الإجماع", "is_correct": true },
+            { "choice_text": "منطقة التأويل اللغوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا حاجز الزبير بن العوام ابنه عبد الله ليقهر الخوارج في المناظرة؟",
+        "difficulty_score": 450,
+        "explanation": "وجه الزبير ابنه لمحاججتهم بالسنة وبسيرة أبي بكر وعمر لأن الخوارج يعترفون بإمامتهم، مما أدى لإضعاف حجتهم [3].",
+        "choices": [
+            { "choice_text": "بظواهر القرآن الكريم فقط", "is_correct": false },
+            { "choice_text": "بأقوال علماء التابعين في الكوفة", "is_correct": false },
+            { "choice_text": "بالسنة وسيرة أبي بكر وعمر", "is_correct": true },
+            { "choice_text": "بالأدلة العقلية المحضة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي المعطيات التالية تفسر تفوق الصحابة في إدراك مدلولات الوحي؟",
+        "difficulty_score": 350,
+        "explanation": "إحاطتهم بلغة العرب التي نزل بها الوحي جعلت إدراكهم للمدلولات طبعاً وسليقة [4].",
+        "choices": [
+            { "choice_text": "إتقانهم للغات الأعجمية", "is_correct": false },
+            { "choice_text": "الإحاطة بلغة العرب التي نزل بها الوحي", "is_correct": true },
+            { "choice_text": "اعتمادهم على كتب التفسير السابقة", "is_correct": false },
+            { "choice_text": "كثرة الجدل والمناظرات فيما بينهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار الثاني في 'فرز مصادر الاستدلال' حسب القاعدة السادسة؟",
+        "difficulty_score": 400,
+        "explanation": "المعيار الثاني هو الفرز على أساس الصحة والضعف للتحقق من ثبوت النص قبل الاستدلال به [17، 18].",
+        "choices": [
+            { "choice_text": "الفرز على أساس القطع والظن", "is_correct": false },
+            { "choice_text": "الفرز على أساس الإحكام والتشابه", "is_correct": false },
+            { "choice_text": "الفرز على أساس الصحة والضعف", "is_correct": true },
+            { "choice_text": "الفرز على أساس العقل والنقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "متى يجب على الناظر المؤهل التسليم للمدلول كما ورد في القاعدة السابعة؟",
+        "difficulty_score": 500,
+        "explanation": "يجب التسليم والإذعان إذا كان النص قطعياً في دلالته ولا يحتمل معنى آخر [5].",
+        "choices": [
+            { "choice_text": "إذا وافق النص هواه الشخصي", "is_correct": false },
+            { "choice_text": "إذا كان النص قطعياً في دلالته", "is_correct": true },
+            { "choice_text": "إذا كان النص ظني الدلالة فقط", "is_correct": false },
+            { "choice_text": "إذا لم يجد نصاً آخر يعارضه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القاعدة التي طبقها الإمام الشافعي للتعامل مع المسائل ظنية الدلالة؟",
+        "difficulty_score": 550,
+        "explanation": "قاعدة الشافعي هي: 'كلامي صواب يحتمل الخطأ، وكلام غيري خطأ يحتمل الصواب'، لضبط التعامل مع الظنيات [6].",
+        "choices": [
+            { "choice_text": "كلامي قطعي لا شك فيه", "is_correct": false },
+            { "choice_text": "كلامي صواب يحتمل الخطأ وكلام غيري خطأ يحتمل الصواب", "is_correct": true },
+            { "choice_text": "الحق واحد لا يتعدد في الظنيات", "is_correct": false },
+            { "choice_text": "لا يجوز الاجتهاد مع وجود النص الظني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استدل الخصم على عدم نقض الوضوء من لحم الإبل في المثال الفقهي؟",
+        "difficulty_score": 600,
+        "explanation": "استدل بحديث جابر بن عبد الله: 'كان آخر الأمرين من رسول الله ترك الوضوء مما مست النار' [7].",
+        "choices": [
+            { "choice_text": "بحديث عائشة في طهارة الإبل", "is_correct": false },
+            { "choice_text": "بحديث ترك الوضوء مما مست النار", "is_correct": true },
+            { "choice_text": "بأصل براءة الذمة العقلي", "is_correct": false },
+            { "choice_text": "بإجماع أهل المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بكون القرآن 'كله محكم' في سورة هود؟",
+        "difficulty_score": 650,
+        "explanation": "المقصود بالإحكام العام هنا هو الإتقان وعدم الاختلاف، أي أنه لا تناقض فيه [32، 33].",
+        "choices": [
+            { "choice_text": "أن جميع آياته قطعية الدلالة", "is_correct": false },
+            { "choice_text": "أنه لا يحتاج إلى سنة لتفسيره", "is_correct": false },
+            { "choice_text": "الإتقان وعدم الاختلاف", "is_correct": true },
+            { "choice_text": "أن آياته منسوخة حكماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أنزل الله نصوصاً متشابهة تحتمل عدة أوجه؟",
+        "difficulty_score": 700,
+        "explanation": "لاستخراج عبودية النظر والتأمل والاجتهاد من العلماء، وليكون ابتلاءً يتبين به أهل الزيغ [37، 39].",
+        "choices": [
+            { "choice_text": "لأن اللغة العربية عاجزة عن الوضوح", "is_correct": false },
+            { "choice_text": "لاستخراج عبودية النظر والابتلاء", "is_correct": true },
+            { "choice_text": "لعدم أهمية تلك المسائل شرعاً", "is_correct": false },
+            { "choice_text": "بسبب ضياع بعض طرق الحديث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف رد المسلمون على شبهة 'التثليث' التي أثارها نصارى نجران من القرآن؟",
+        "difficulty_score": 750,
+        "explanation": "برد المتشابه (لفظ الجمع 'إنا') إلى المحكم (قوله تعالى 'وإلهكم إله واحد') وحمله على التعظيم [41، 42].",
+        "choices": [
+            { "choice_text": "بإنكار وجود لفظ الجمع في القرآن", "is_correct": false },
+            { "choice_text": "برد المتشابه إلى المحكم وحمله على التعظيم", "is_correct": true },
+            { "choice_text": "بتقديم العقل على النقل في هذه المسألة", "is_correct": false },
+            { "choice_text": "بالسكوت لعدم وجود رد لغوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الانحراف الأساسي لمنهج 'الخوارج' في التعامل مع الوحي؟",
+        "difficulty_score": 800,
+        "explanation": "الخوارج تعلقوا بمدلولات الوعيد وتركوا مدلولات الوعد، مما أدى لخلل في ميزان الإيمان [8].",
+        "choices": [
+            { "choice_text": "إنكار حجية السنة بالكامل", "is_correct": false },
+            { "choice_text": "التعلق بمدلولات الوعيد وترك مدلولات الوعد", "is_correct": true },
+            { "choice_text": "تقديم العقل على النقل مطلقاً", "is_correct": false },
+            { "choice_text": "القول بأن الإنسان مجبر على أفعاله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أتبع الحسن البصري حديث الصدع بالحق بحديث 'لا ينبغي للمسلم أن يذل نفسه'؟",
+        "difficulty_score": 850,
+        "explanation": "لخلق توازن يمنع الإنسان من التعرض للبلاء الذي لا يطيقه تحت ذريعة الاحتساب [58، 59].",
+        "choices": [
+            { "choice_text": "لإلغاء وجوب الإنكار بالكلية", "is_correct": false },
+            { "choice_text": "لخلق توازن يمنع التعرض لما لا يطاق من البلاء", "is_correct": true },
+            { "choice_text": "للتفرقة بين الحاكم والمحكوم", "is_correct": false },
+            { "choice_text": "لأن الحديث الأول ضعيف الإسناد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرتبة الأولى من رتب القاعدة العاشرة (درء وهم التعارض)؟",
+        "difficulty_score": 300,
+        "explanation": "الرتبة الأولى هي درء توهم التعارض الداخلي بين نصوص الوحي (الكتاب والسنة) [9].",
+        "choices": [
+            { "choice_text": "درء التعارض بين العقل والنقل", "is_correct": false },
+            { "choice_text": "درء توهم التعارض الداخلي بين نصوص الوحي", "is_correct": true },
+            { "choice_text": "درء التعارض بين أقوال العلماء", "is_correct": false },
+            { "choice_text": "درء التعارض بين المذاهب الأربعة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر النبي صلى الله عليه وسلم 'الحساب اليسير' لعائشة ليدفع وهم التعارض؟",
+        "difficulty_score": 500,
+        "explanation": "بين لها أن الحساب اليسير هو 'العرض' فقط، أما من نوقش الحساب فإنه يهلك [65، 66].",
+        "choices": [
+            { "choice_text": "بأنه حساب خاص بالأنبياء فقط", "is_correct": false },
+            { "choice_text": "بأن الحساب اليسير هو مجرد العرض", "is_correct": true },
+            { "choice_text": "بأن الآية منسوخة بحديث آخر", "is_correct": false },
+            { "choice_text": "بأن الحساب لا يقع يوم القيامة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأصل في 'طبيعة الدليل الشرعي' حسب المنهج السلفي؟",
+        "difficulty_score": 700,
+        "explanation": "الدليل الشرعي مشتمل في طياته على البراهين العقلية، فالعقل آلة للاستنباط منه وليس نداً له [70، 71].",
+        "choices": [
+            { "choice_text": "أنه دليل نقلي محض لا عقل فيه", "is_correct": false },
+            { "choice_text": "اشتماله على الأدلة العقلية في باطنه", "is_correct": true },
+            { "choice_text": "أنه لا يُفهم إلا بالمنطق اليوناني", "is_correct": false },
+            { "choice_text": "أنه يتعارض مع العقل القطعي دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يدرك العقل تفاصيل هيئات العبادات وأرقام الركعات؟",
+        "difficulty_score": 600,
+        "explanation": "لأنها تدخل في نطاق 'غير معقول المعنى' تفصيلاً، وهي اختبار للعبودية والتسليم [73، 74].",
+        "choices": [
+            { "choice_text": "بسبب ضياع الحكمة التاريخية منها", "is_correct": false },
+            { "choice_text": "لأن العقل البشري محدود في النطاق التعبدي", "is_correct": true },
+            { "choice_text": "لأنها مجرد رموز ليس لها معنى", "is_correct": false },
+            { "choice_text": "لأنها تختلف من زمان لآخر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الاحتمالات التالية رفضها الرازي في 'قانونه الكلي'؟",
+        "difficulty_score": 800,
+        "explanation": "رفض الجمع بين النقيضين (قبولهما معاً) ورفض رفعهما معاً (ردهما معاً) [10].",
+        "choices": [
+            { "choice_text": "تقديم العقل على النقل", "is_correct": false },
+            { "choice_text": "تأويل النص بما يوافق العقل", "is_correct": false },
+            { "choice_text": "قبول العقل والنقل معاً عند التعارض", "is_correct": true },
+            { "choice_text": "تقديم النقل على العقل مطلقاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو النقد الأساسي لابن تيمية لحصر الرازي للتعارض في أربعة أقسام؟",
+        "difficulty_score": 900,
+        "explanation": "إغفال معاملي 'القطعية والظنية'، مما جعل ابن تيمية يوسعها إلى 16 احتمالاً [86، 87].",
+        "choices": [
+            { "choice_text": "أن التقسيم لم يشمل اللغة العربية", "is_correct": false },
+            { "choice_text": "إغفال معاملي القطعية والظنية في العقل والنقل", "is_correct": true },
+            { "choice_text": "أن الرازي لم يعتمد على القياس", "is_correct": false },
+            { "choice_text": "أن التقسيم طويل جداً ولا داعي له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يترتب على 'تقديم العقل على النقل' في نموذج ابن تيمية للمفتي والعامي؟",
+        "difficulty_score": 900,
+        "explanation": "يؤدي لسقوط أهلية العقل؛ لأنه هو من شهد بصدق النقل أولاً، فتكذيبه للنقل هو طعن في شهادة العقل نفسها [93، 94].",
+        "choices": [
+            { "choice_text": "إثبات حرية التفكير الإنساني", "is_correct": false },
+            { "choice_text": "سقوط أهلية العقل والشاهد معاً", "is_correct": true },
+            { "choice_text": "تحقيق التوافق التام بين العلم والدين", "is_correct": false },
+            { "choice_text": "تقوية حجية النص النقلي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف ابن تيمية دعوى الرازي 'العقل أصل النقل'؟",
+        "difficulty_score": 850,
+        "explanation": "وصفها بأنها 'عبارة مجملة فيها ارتباك' تخلط بين ثبوت الحق في نفسه والعلم به [11].",
+        "choices": [
+            { "choice_text": "بأنها قاعدة ذهبية في الاستدلال", "is_correct": false },
+            { "choice_text": "بأنها عبارة مجملة فيها ارتباك", "is_correct": true },
+            { "choice_text": "بأنها تتوافق مع منهج الصحابة", "is_correct": false },
+            { "choice_text": "بأنها الطريق الوحيد لرد الشبهات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مآل 'تقديم النقل على العقل' عند وقوع التعارض الموهوم عند ابن تيمية؟",
+        "difficulty_score": 750,
+        "explanation": "المآل هو المحافظة على العقل والنقل معاً، لأن النقل يصحح خطأ العقل في هذه الجزئية المحدودة [12].",
+        "choices": [
+            { "choice_text": "إلغاء دور العقل في الحياة", "is_correct": false },
+            { "choice_text": "المحافظة على العقل والنقل معاً", "is_correct": true },
+            { "choice_text": "الوقوع في التناقض المنطقي", "is_correct": false },
+            { "choice_text": "تجهيل جيل الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو صاحب كتاب 'دفع إيهام الاضطراب عن آيات الكتاب' المذكور في المصدر؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر المصدر أن هذا الكتاب العظيم هو للشيخ محمد الأمين الشنقيطي [13].",
+        "choices": [
+            { "choice_text": "ابن قتيبة", "is_correct": false },
+            { "choice_text": "الطحاوي", "is_correct": false },
+            { "choice_text": "محمد الأمين الشنقيطي", "is_correct": true },
+            { "choice_text": "ابن القيم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعنى اللغوي المتقابل للفظ 'القُرء' الذي أدى لاختلاف الفقهاء؟",
+        "difficulty_score": 300,
+        "explanation": "لفظ 'القُرء' في اللغة العربية من الألفاظ المتقابلة التي تطلق على الحيض وعلى الطهر، مما جعله نصاً متشابهاً يحتاج لمرجح [35، 36].",
+        "choices": [
+            { "choice_text": "الحيض والطهر معاً", "is_correct": true },
+            { "choice_text": "الصلاة والصوم", "is_correct": false },
+            { "choice_text": "الزواج والطلاق", "is_correct": false },
+            { "choice_text": "الإقرار والإنكار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف تعامل النبي صلى الله عليه وسلم مع اختلاف الصحابة في فهم قوله 'لا يصلين أحد العصر إلا في بني قريظة'؟",
+        "difficulty_score": 400,
+        "explanation": "لم يخطئ النبي صلى الله عليه وسلم أحداً من الفريقين (من صلى في الطريق ومن انتظر)، فاتحاً مساحة للاجتهاد في النصوص التي تحتمل وجوهاً [1].",
+        "choices": [
+            { "choice_text": "أمر من صلى في الطريق بالإعادة", "is_correct": false },
+            { "choice_text": "لم يخطئ أحداً منهم", "is_correct": true },
+            { "choice_text": "عنف من انتظر حتى غربت الشمس", "is_correct": false },
+            { "choice_text": "أوجب الكفارة على الجميع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الطريقة الصحيحة لفهم حديث 'أخذ الجارية بيد النبي' مقارنة بأحاديث النهي عن المصافحة؟",
+        "difficulty_score": 600,
+        "explanation": "يجب رد المتشابه (حديث الجارية) إلى المحكم (قول عائشة: ما مست يد رسول الله يد امرأة قط) وحمله على التواضع والخدمة لا اللمس الحقيقي [47، 48].",
+        "choices": [
+            { "choice_text": "اعتباره دليلاً على جواز مصافحة الأجنبية مطلقاً", "is_correct": false },
+            { "choice_text": "رد المتشابه إلى المحكم وحمله على معنى التواضع والخدمة", "is_correct": true },
+            { "choice_text": "نسخ أحاديث النهي عن المصافحة", "is_correct": false },
+            { "choice_text": "تقديم العقل في هذه المسألة لعدم منطقية النهي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مقتضى القاعدة التاسعة 'وجوب الإيمان بالكتاب كله'؟",
+        "difficulty_score": 200,
+        "explanation": "تقتضي القاعدة الإيمان بالوحي كاملاً وعدم تبعيضه، أي عدم أخذ جزء وترك جزء آخر [2].",
+        "choices": [
+            { "choice_text": "الإيمان بالقرآن دون السنة", "is_correct": false },
+            { "choice_text": "الإيمان بالوحي كاملاً وعدم تبعيضه", "is_correct": true },
+            { "choice_text": "تقديم نصوص الوعد على نصوص الوعيد", "is_correct": false },
+            { "choice_text": "الإيمان بما وافق العقل فقط من الكتاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف الله عز وجل حال اليهود الذين يأخذون ببعض الكتاب ويكفرون ببعض؟",
+        "difficulty_score": 350,
+        "explanation": "ذمهم الله في سورة البقرة بقوله: 'أفتؤمنون ببعض الكتاب وتكفرون ببعض' [2].",
+        "choices": [
+            { "choice_text": "بأنهم أهل علم وحكمة", "is_correct": false },
+            { "choice_text": "بالكفر ببعض الكتاب والذم الشرعي", "is_correct": true },
+            { "choice_text": "بأنهم معذورون لعدم الفهم", "is_correct": false },
+            { "choice_text": "بأنهم أهل الاجتهاد السليم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو سبب غضب النبي صلى الله عليه وسلم في حديث عبد الله بن عمرو بن العاص؟",
+        "difficulty_score": 500,
+        "explanation": "غضب لرؤيتهم يضربون كتاب الله بعضه ببعض، مما أدى لضلال الأمم من قبلهم [52، 53].",
+        "choices": [
+            { "choice_text": "بسبب تأخرهم عن الصلاة", "is_correct": false },
+            { "choice_text": "بسبب ضربهم كتاب الله بعضه ببعض في الجدال", "is_correct": true },
+            { "choice_text": "بسبب سؤالهم عن الغيب", "is_correct": false },
+            { "choice_text": "بسبب اختلافهم في الميراث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المنهجية التي اتبعها 'المرجئة' في التعامل مع نصوص الوحي؟",
+        "difficulty_score": 650,
+        "explanation": "تعلقوا بنصوص الوعد والرجاء وأعرضوا عن نصوص الوعيد، مما أدى لخلل في مفهوم الإيمان [3].",
+        "choices": [
+            { "choice_text": "التعلق بنصوص الوعيد فقط", "is_correct": false },
+            { "choice_text": "التعلق بنصوص الوعد والرجاء وإغفال الوعيد", "is_correct": true },
+            { "choice_text": "إنكار وجود المتشابه في القرآن", "is_correct": false },
+            { "choice_text": "تقديم العقل على النقل في الأسماء والصفات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قصد الإمام الزهري من إيراد حديث 'المرأة والهرة' بعد حديث 'الرجل المسرف'؟",
+        "difficulty_score": 700,
+        "explanation": "قصد خلق حالة من الاتزان بين الخوف والرجاء حتى لا ييأس رجل (من ذنبه) ولا يتكل آخر (على سعة المغفرة) [4].",
+        "choices": [
+            { "choice_text": "إثبات أن الهرة تمنع دخول الجنة", "is_correct": false },
+            { "choice_text": "خلق توازن بين الخوف والرجاء لئلا ييأس أحد أو يتكل", "is_correct": true },
+            { "choice_text": "بيان أن الذنوب الصغيرة لا تغفر", "is_correct": false },
+            { "choice_text": "التأكيد على أن الرجل دائماً مغفور له", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ألحق النبي صلى الله عليه وسلم النهي عن قتل الذمي بحديث 'لا يقتل مسلم بكافر'؟",
+        "difficulty_score": 750,
+        "explanation": "لخلق اتزان يمنع من فهم استباحة دم الذمي المعاهد بناءً على نفي القصاص المطلق في الحديث الأول [5].",
+        "choices": [
+            { "choice_text": "لإبطال حكم الحديث الأول", "is_correct": false },
+            { "choice_text": "لخلق اتزان يمنع استباحة دم المعاهد", "is_correct": true },
+            { "choice_text": "لأن الذمي في مرتبة المسلم تماماً", "is_correct": false },
+            { "choice_text": "لأن الكافر لا يدخل الجنة أبداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي ألفه الطحاوي في الجمع بين الأحاديث التي يتوهم تعارضها؟",
+        "difficulty_score": 450,
+        "explanation": "ذكر المصدر أن للإمام الطحاوي كتاباً بعنوان 'شرح مشكل الآثار' [6].",
+        "choices": [
+            { "choice_text": "تأويل مشكل القرآن", "is_correct": false },
+            { "choice_text": "شرح مشكل الآثار", "is_correct": true },
+            { "choice_text": "دفع إيهام الاضطراب", "is_correct": false },
+            { "choice_text": "المنتقى في السنة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يجمع العلماء بين نفي الكلام عن الكفار يوم القيامة وإثباته في آيات أخرى؟",
+        "difficulty_score": 800,
+        "explanation": "بالجمع بحسب اختلاف الأحوال والمقامات في ذلك اليوم العظيم؛ فساعة يثبت فيها الكلام وساعة ينفى [7].",
+        "choices": [
+            { "choice_text": "باعتبار إحدى الآيتين منسوخة", "is_correct": false },
+            { "choice_text": "بالجمع بحسب اختلاف الأحوال والمقامات في ذلك اليوم", "is_correct": true },
+            { "choice_text": "بتقديم العقل وتكذيب أحد النصين", "is_correct": false },
+            { "choice_text": "بالقول أن الكفار لا يحاسبون أصلاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي طبيعة 'الدليل الشرعي' فيما يتعلق بالعقل حسب القاعدة العاشرة؟",
+        "difficulty_score": 850,
+        "explanation": "الدليل الشرعي مشتمل في طياته على البراهين العقلية، فليس هناك دليل نقلي محض لا عقل فيه [70، 71].",
+        "choices": [
+            { "choice_text": "دليل نقلي مجرد من العقل", "is_correct": false },
+            { "choice_text": "دليل مشتمل على براهين عقلية في باطنه", "is_correct": true },
+            { "choice_text": "دليل يعارض العقل الصريح دائماً", "is_correct": false },
+            { "choice_text": "دليل لا يدركه إلا أصحاب المنطق اليوناني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور العقل تجاه النقل في المنهج الصحيح؟",
+        "difficulty_score": 550,
+        "explanation": "العقل هو آلة للفهم والاستنباط من النقل، وليس نداً معارضاً له [8].",
+        "choices": [
+            { "choice_text": "العقل حاكم ومشرع مستقل", "is_correct": false },
+            { "choice_text": "العقل آلة للفهم والاستنباط من النقل", "is_correct": true },
+            { "choice_text": "العقل ملغى تماماً في حضرة النص", "is_correct": false },
+            { "choice_text": "العقل يقدم على النقل عند الظن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تعتبر تفاصيل 'مقادير الزكاة' وأنواع الأموال من نطاق 'غير معقول المعنى' تفصيلاً؟",
+        "difficulty_score": 750,
+        "explanation": "لأن العقل يدرك حكمة المواساة إجمالاً، لكنه يعجز عن تحديد الأرقام والنسب بدقة دون وحي، وهي اختبار للتسليم [73، 74].",
+        "choices": [
+            { "choice_text": "لأنها قوانين وضعية قديمة", "is_correct": false },
+            { "choice_text": "لأن تحديد الأرقام والنسب بدقة يعجز عنه العقل دون وحي", "is_correct": true },
+            { "choice_text": "لأنها لا فائدة منها في العصر الحالي", "is_correct": false },
+            { "choice_text": "لأنها تختلف من بلد لآخر حسب العقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الموقف العقلاني الطبيعي تجاه 'خبر الرسول المعصوم'؟",
+        "difficulty_score": 900,
+        "explanation": "بما أن العقل شهد بصدقه وعصمته، فمن مقتضى العقل تصديقه فيما أخبر به ولو عجز العقل عن إدراك كيفيته [9].",
+        "choices": [
+            { "choice_text": "رفض الخبر إذا لم يوافق المشاهدة", "is_correct": false },
+            { "choice_text": "تصديقه بناءً على شهادة العقل الأولى بصدقه وعصمته", "is_correct": true },
+            { "choice_text": "التوقف في الخبر حتى يثبته العلم التجريبي", "is_correct": false },
+            { "choice_text": "قبول ما وافق العقل فقط من أخباره", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما المقصود بـ 'حارات العقول' التي يأتي بها الشرع؟",
+        "difficulty_score": 800,
+        "explanation": "هي الأمور التي يحار فيها العقل لعدم قدرته على إحاطة تفاصيلها، كأوصاف الغيب وقوارير الفضة في الجنة [76، 77].",
+        "choices": [
+            { "choice_text": "الأمور المستحيلة منطقياً", "is_correct": false },
+            { "choice_text": "الأمور التي يعجز العقل عن إحاطة تفاصيلها (كالغيب)", "is_correct": true },
+            { "choice_text": "الأمور البديهية التي يعرفها كل أحد", "is_correct": false },
+            { "choice_text": "الأمثال التي يضربها القرآن للناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر ابن تيمية 'الصراط' ليدفع دعوى الاستحالة العقلية (محالات العقول)؟",
+        "difficulty_score": 850,
+        "explanation": "بين أن وصف الصراط بأنه كحد السيف وله جنيبان هو من 'حارات العقول' لا 'محالاتها'، فالعقل يحار في كيفية ذلك ولا يحيله [77، 78].",
+        "choices": [
+            { "choice_text": "باعتبار الصراط مجرد رمز معنوي", "is_correct": false },
+            { "choice_text": "بأنه من حارات العقول التي يحار فيها العقل ولا يحيلها", "is_correct": true },
+            { "choice_text": "بأنه لا وجود حقيقي للصراط", "is_correct": false },
+            { "choice_text": "بأن النقل يكذب العقل في هذه المسألة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الكتاب الذي ألفه الرازي وصاغ فيه 'القانون الكلي' لتعارض العقل والنقل؟",
+        "difficulty_score": 400,
+        "explanation": "الكتاب هو 'تأسيس التقديس' [10].",
+        "choices": [
+            { "choice_text": "درء التعارض", "is_correct": false },
+            { "choice_text": "تأسيس التقديس", "is_correct": true },
+            { "choice_text": "بيان تلبيس الجهمية", "is_correct": false },
+            { "choice_text": "المحصول", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا رفض الرازي 'تقديم النقل على العقل' عند التعارض الموهوم حسب فلسفته؟",
+        "difficulty_score": 900,
+        "explanation": "لأن العقل في نظره هو أصل النقل، فالطعن في العقل (بالتكذيب) هو طعن في الأصل الذي ثبت به النقل [82، 83].",
+        "choices": [
+            { "choice_text": "لأن النقل ظني دائماً", "is_correct": false },
+            { "choice_text": "لأن العقل هو أصل ثبوت النقل وشهادته", "is_correct": true },
+            { "choice_text": "لأن النقل يتبدل بمرور الزمان", "is_correct": false },
+            { "choice_text": "بسبب كثرة الأحاديث الضعيفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المرتكزات الثلاثة التي أقام عليها ابن تيمية نقضه لمنهج الرازي؟",
+        "difficulty_score": 850,
+        "explanation": "أولاً: نفي وقوع تعارض حقيقي؛ ثانياً: توسيع الأقسام لـ 16 احتمالاً؛ ثالثاً: تفكيك قاعدة 'العقل أصل النقل' [11-16].",
+        "choices": [
+            { "choice_text": "تقديم النقل مطلقاً، إلغاء العقل، وتكفير المخالف", "is_correct": false },
+            { "choice_text": "نفي التعارض الحقيقي، توسيع الاحتمالات، وتفكيك قاعدة الأصل", "is_correct": true },
+            { "choice_text": "استخدام المنطق اليوناني لنقض الرازي", "is_correct": false },
+            { "choice_text": "الاعتماد على الرؤى والمنامات فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على نموذج ابن تيمية، ماذا نفعل إذا تعارض 'عقل قطعي' مع 'نقل ظني'؟",
+        "difficulty_score": 800,
+        "explanation": "يقدم القطعي (العقلي هنا) لا لهويته العقلية، بل لكونه 'قطعياً' في مقابل الظني [15].",
+        "choices": [
+            { "choice_text": "يقدم النقل الظني دائماً تعظيماً للوحي", "is_correct": false },
+            { "choice_text": "يقدم العقل القطعي لكونه قطعياً لا لكونه عقلياً", "is_correct": true },
+            { "choice_text": "نتوقف في المسألة تماماً", "is_correct": false },
+            { "choice_text": "نقدم النقل لأنه أصل في الدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مآل 'تقديم العقل على النقل' في مثال 'العامي والمفتي'؟",
+        "difficulty_score": 900,
+        "explanation": "سقوط أهلية العقل؛ لأنه هو من أرشدك للمفتي (النقل)، فإذا كذبته سقطت أهليته في الإرشاد أصلاً [17].",
+        "choices": [
+            { "choice_text": "إثبات ذكاء العامي", "is_correct": false },
+            { "choice_text": "سقوط أهلية العقل والشاهد معاً", "is_correct": true },
+            { "choice_text": "تصحيح مسار المفتي", "is_correct": false },
+            { "choice_text": "تحقيق اليقين العقلي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فكك ابن تيمية مفهوم 'العقل' في رده على الرازي؟",
+        "difficulty_score": 850,
+        "explanation": "بين أن العقل ليس معنى واحداً اصطلاحياً، بل يشمل الغريزة، والعلوم الضرورية، والنظرية [18].",
+        "choices": [
+            { "choice_text": "باعتبار العقل مجرد وهم", "is_correct": false },
+            { "choice_text": "ببيان أنه يشمل الغريزة والعلوم الضرورية والنظرية", "is_correct": true },
+            { "choice_text": "بأنه خاص بالفلاسفة فقط", "is_correct": false },
+            { "choice_text": "بأنه لا علاقة له بفهم النصوص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي النتيجة النهائية التي خلص إليها ابن تيمية في حال تعارض العقل والنقل؟",
+        "difficulty_score": 750,
+        "explanation": "الواجب تقديم النقل على العقل للمحافظة على 'شاهدية العقل' وصحة النقل معاً [19].",
+        "choices": [
+            { "choice_text": "تقديم العقل لنحافظ على المنطق", "is_correct": false },
+            { "choice_text": "تقديم النقل لنحافظ على شهادة العقل وصحة النقل", "is_correct": true },
+            { "choice_text": "رد الطرفين معاً للخروج من الإشكال", "is_correct": false },
+            { "choice_text": "تأويل النقل دائماً ليوافق العقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرتبة الثانية لقاعدة درء وهم التعارض؟",
+        "difficulty_score": 300,
+        "explanation": "الرتبة الثانية هي درء توهم التعارض الخارجي (بين الوحي والعقل) [6].",
+        "choices": [
+            { "choice_text": "درء التعارض بين نصوص السنة", "is_correct": false },
+            { "choice_text": "درء توهم التعارض الخارجي (بين الوحي والعقل)", "is_correct": true },
+            { "choice_text": "درء التعارض بين المذاهب الفقهية", "is_correct": false },
+            { "choice_text": "درء التعارض بين القراءات العشر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو صاحب كتاب 'تأويل مشكل القرآن'؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر المصدر أن هذا الكتاب هو لابن قتيبة [20].",
+        "choices": [
+            { "choice_text": "ابن قتيبة", "is_correct": true },
+            { "choice_text": "الطحاوي", "is_correct": false },
+            { "choice_text": "الرازي", "is_correct": false },
+            { "choice_text": "ابن تيمية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو تعريف 'المتشابه' عند الإمام الطبري؟",
+        "difficulty_score": 400,
+        "explanation": "المتشابه هو ما احتمل من التأويل أوجهاً متعددة [21].",
+        "choices": [
+            { "choice_text": "ما لا يعرف معناه أحد إلا الله", "is_correct": false },
+            { "choice_text": "ما احتمل من التأويل أوجهاً متعددة", "is_correct": true },
+            { "choice_text": "ما نسخ حكمه وبقي رسمه", "is_correct": false },
+            { "choice_text": "ما وافق قول الصحابة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يرى ابن تيمية إمكانية وقوع التعارض بين القطعيين؟",
+        "difficulty_score": 900,
+        "explanation": "يرى ابن تيمية استحالة تعارض دليلين قطعيين (عقلي ونقلي) لأن الحق لا يضاد الحق [14].",
+        "choices": [
+            { "choice_text": "ممكن جداً في مسائل الغيب", "is_correct": false },
+            { "choice_text": "يستحيل تعارض دليلين قطعيين أبداً", "is_correct": true },
+            { "choice_text": "ممكن فقط في مسائل الأحكام", "is_correct": false },
+            { "choice_text": "يقع التعارض عند غياب الدليل اللغوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا يترتب على 'إسقاط وصف القطعية' عن النصوص النقلية كما فعل الرازي؟",
+        "difficulty_score": 850,
+        "explanation": "يسهل ذلك عملية تقديم العقل على النقل مطلقاً تحت ذريعة أن كل النصوص ظنية [27، 28].",
+        "choices": [
+            { "choice_text": "تقوية الاستدلال بالقرآن", "is_correct": false },
+            { "choice_text": "تسهيل تقديم العقل على النقل مطلقاً", "is_correct": true },
+            { "choice_text": "إجماع الأمة على النصوص", "is_correct": false },
+            { "choice_text": "الوصول لليقين الإيماني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي القاعدة التي تضبط 'منطقة العمل الثانية' في هدي السلف؟",
+        "difficulty_score": 450,
+        "explanation": "في منطقة الاختلاف، لا يجوز إحداث قول جديد يخرج عن مجموع أقوالهم [22].",
+        "choices": [
+            { "choice_text": "وجوب اتباع قول واحد منهم فقط", "is_correct": false },
+            { "choice_text": "عدم جواز إحداث قول جديد يخرج عن مجموع أقوالهم", "is_correct": true },
+            { "choice_text": "تقديم العقل عند اختلافهم", "is_correct": false },
+            { "choice_text": "إسقاط حجية أقوالهم عند الخلاف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف فسر النبي ﷺ 'الظلم' في آية (ولم يلبسوا إيمانهم بظلم) ليدفع وهم التعارض عند الصحابة؟",
+        "difficulty_score": 500,
+        "explanation": "فسر النبي ﷺ الظلم هنا بأنه 'الشرك'، مستشهداً بقول لقمان لابنه (إن الشرك لظلم عظيم)، ليوضح أن المقصود ليس كل ذنب بل الشرك الأكبر [67، 68].",
+        "choices": [
+            { "choice_text": "بأنه ظلم العباد لبعضهم البعض", "is_correct": false },
+            { "choice_text": "بأنه الشرك بالله", "is_correct": true },
+            { "choice_text": "بأنه المعاصي والذنوب الصغيرة", "is_correct": false },
+            { "choice_text": "بأنه أخذ أموال اليتامى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو عنوان رسالة الشيخ الدبيخي العلمية المذكورة في المصدر؟",
+        "difficulty_score": 400,
+        "explanation": "ذكر المصدر رسالة الشيخ الدبيخي بعنوان 'الأحاديث المتوهم تعارضها في الصحيحين' [1].",
+        "choices": [
+            { "choice_text": "تأويل مشكل القرآن", "is_correct": false },
+            { "choice_text": "الأحاديث المتوهم تعارضها في الصحيحين", "is_correct": true },
+            { "choice_text": "الجمع بين النقيضين", "is_correct": false },
+            { "choice_text": "درء التعارض", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا يُعد العقل 'آلة للاستنباط' وليس نداً للنقل في المنهج السلفي؟",
+        "difficulty_score": 600,
+        "explanation": "لأن العقل هو الذي يدرك النص ويستخرج منه الأحكام، فهو يعمل في ضوء أصول وقواعد النقل وليس مستقلاً عنه [2].",
+        "choices": [
+            { "choice_text": "لأن النقل لا يحتاج للعقل أصلاً", "is_correct": false },
+            { "choice_text": "لأن العقل يعمل كآلة للفهم في ضوء أصول النقل", "is_correct": true },
+            { "choice_text": "لأن العقل دائم الخطأ في المسائل العلمية", "is_correct": false },
+            { "choice_text": "لأن العقل معطل بالكلية في الغيبيات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مبرر وجود أحكام شرعية 'غير معقولة المعنى' تفصيلاً مثل عدد الركعات؟",
+        "difficulty_score": 700,
+        "explanation": "هذه الأحكام اختبار لعبودية التسليم عند الإنسان، ولأن العقل البشري له حدود في إدراك غايات التشريع التفصيلية [73، 74].",
+        "choices": [
+            { "choice_text": "لأنها أحكام قديمة لم تعد تناسب العصر", "is_correct": false },
+            { "choice_text": "لأنها اختبار لعبودية التسليم وإدراك لمحدودية العقل البشري", "is_correct": true },
+            { "choice_text": "لعدم وجود حكمة حقيقية من ورائها", "is_correct": false },
+            { "choice_text": "لأن العقل لا يهتم بالأرقام في الدين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على القاعدة العاشرة، ما الذي تضمنه 'عصمة الرسول' في جانب الإخبار؟",
+        "difficulty_score": 300,
+        "explanation": "العصمة تضمن عدم وقوع الخطأ في الإخبار عن الله تبارك وتعالى [3].",
+        "choices": [
+            { "choice_text": "أن الرسول لا ينسى أمور الدنيا", "is_correct": false },
+            { "choice_text": "ضمان عدم وقوع الخطأ في الإخبار عن الله", "is_correct": true },
+            { "choice_text": "أن الرسول يعلم الغيب المطلق", "is_correct": false },
+            { "choice_text": "أن كلامه يوافق أهواء الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأمثلة التالية يمثل 'حارات العقول' في الوحي؟",
+        "difficulty_score": 800,
+        "explanation": "وصف 'قوارير من فضة' في الجنة هو من حارات العقول، لأن العقل يحار في كيفية كون الفضة شفافة كالزجاج [76، 77].",
+        "choices": [
+            { "choice_text": "أن الواحد نصف الاثنين", "is_correct": false },
+            { "choice_text": "وصف 'قوارير من فضة' في الجنة", "is_correct": true },
+            { "choice_text": "وجوب صلاة الفجر ركعتين", "is_correct": false },
+            { "choice_text": "تحريم الظلم على العباد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال الرازي عن احتمال 'قبول العقل والنقل معاً' عند وقوع تعارض حقيقي بينهما؟",
+        "difficulty_score": 850,
+        "explanation": "قال الرازي إن ذلك ممتنع لأنه يجمع بين النقيضين، مثل القول بأن الجسم ساكن ومتحرك في آن واحد [4].",
+        "choices": [
+            { "choice_text": "قال إنه الخيار الأفضل دائماً", "is_correct": false },
+            { "choice_text": "قال إنه ممتنع لأنه جمع بين النقيضين", "is_correct": true },
+            { "choice_text": "قال إنه ممكن في المسائل الظنية فقط", "is_correct": false },
+            { "choice_text": "قال إن العقل لا يمانع في ذلك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف رد ابن تيمية على حصر الرازي للتعارض في أربعة احتمالات؟",
+        "difficulty_score": 900,
+        "explanation": "أدخل ابن تيمية معامل 'القطعية والظنية' فحول الاحتمالات إلى 16 شكلاً بدلاً من 4 [5].",
+        "choices": [
+            { "choice_text": "بتقليلها إلى احتمالين فقط", "is_correct": false },
+            { "choice_text": "بإدخال معامل القطعية والظنية وتوسيعها لـ 16 احتمالاً", "is_correct": true },
+            { "choice_text": "بإنكار وجود أي تعارض شكلي", "is_correct": false },
+            { "choice_text": "بقبول التقسيم الرباعي وتعديل النتائج", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو موقف ابن تيمية إذا تعارض 'نقل ظني' مع 'عقل ظني'؟",
+        "difficulty_score": 800,
+        "explanation": "يرى ابن تيمية في هذه الحالة ضرورة طلب 'مرجح خارجي' أو التوقف في المسألة [6].",
+        "choices": [
+            { "choice_text": "يقدم العقل الظني دائماً", "is_correct": false },
+            { "choice_text": "يطلب مرجحاً خارجياً أو يتوقف في المسألة", "is_correct": true },
+            { "choice_text": "يقدم النقل الظني تعظيماً للوحي", "is_correct": false },
+            { "choice_text": "يسقط الدليلين معاً ويبحث عن غيرهما", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وجه الارتباك في قاعدة 'العقل أصل النقل' عند ابن تيمية؟",
+        "difficulty_score": 850,
+        "explanation": "الارتباك يكمن في الخلط بين كون العقل 'شاهداً' بصحة النقل وبين كونه 'مصدراً' لحجيته في ذاته [89، 90].",
+        "choices": [
+            { "choice_text": "لأن العقل ليس له علاقة بالدين", "is_correct": false },
+            { "choice_text": "بسبب الخلط بين مقام الشهادة ومقام الحجية الذاتية", "is_correct": true },
+            { "choice_text": "لأن النقل يسبق العقل زمنياً دائماً", "is_correct": false },
+            { "choice_text": "لأن الرازي لم يحدد أي عقل يقصد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا لا يصح للعقل أن يُلغي شهادته للنقل بحجة التعارض عند ابن تيمية؟",
+        "difficulty_score": 900,
+        "explanation": "لأن العقل إذا شهد بصدق النقل ثم عاد وكذبه، فإنه يهدم أصل شهادته الأولى، مما يسقط مصداقية العقل نفسه [7].",
+        "choices": [
+            { "choice_text": "لأن النقل أقوى من العقل في المنطق", "is_correct": false },
+            { "choice_text": "لأن تكذيب النقل هو هدم لأصل شهادة العقل الأولى", "is_correct": true },
+            { "choice_text": "لأن الوحي لا يخطئ أبداً", "is_correct": false },
+            { "choice_text": "لأن العقل محدود بالزمان والمكان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو استنتاج ابن تيمية النهائي في قضية تعارض العقل والنقل؟",
+        "difficulty_score": 700,
+        "explanation": "الواجب تقديم النقل على العقل للمحافظة على شاهدية العقل وصحة النقل معاً [8].",
+        "choices": [
+            { "choice_text": "تقديم العقل دائماً لحفظ المنطق", "is_correct": false },
+            { "choice_text": "تقديم النقل للمحافظة على شاهدية العقل وصحة النقل", "is_correct": true },
+            { "choice_text": "رد النقل لأنه قد يكون محرفاً", "is_correct": false },
+            { "choice_text": "إلغاء دور العقل في القضايا الدينية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في مثال 'العامي والمفتي'، ماذا يمثل العقل وماذا يمثل النقل؟",
+        "difficulty_score": 600,
+        "explanation": "يمثل العقل 'الدال والشاهد' (العامي الذي يرشد)، ويمثل النقل 'المفتي' الذي يؤخذ قوله بعد معرفة أهليته [7].",
+        "choices": [
+            { "choice_text": "العقل هو المفتي والنقل هو العامي", "is_correct": false },
+            { "choice_text": "العقل هو الدال الشاهد والنقل هو المفتي", "is_correct": true },
+            { "choice_text": "العقل هو القاضي والنقل هو المتهم", "is_correct": false },
+            { "choice_text": "لا علاقة للمثال بالعقل والنقل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أصل 'البحث في التعارض' بين القطعي والظني عند السلف؟",
+        "difficulty_score": 750,
+        "explanation": "الأصل هو تقديم القطعي مطلقاً، سواء كان عقلياً أو نقلياً، لأن القطع هو معيار الحقيقة [87، 88].",
+        "choices": [
+            { "choice_text": "تقديم العقل دائماً لأنه قطعي", "is_correct": false },
+            { "choice_text": "تقديم القطعي مطلقاً بغض النظر عن هويته", "is_correct": true },
+            { "choice_text": "تقديم النقل دائماً تعظيماً لله", "is_correct": false },
+            { "choice_text": "إلغاء الظني بالكلية من الاستدلال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا وصف ابن تيمية كلام الرازي بأنه 'عبارة مجملة'؟",
+        "difficulty_score": 850,
+        "explanation": "لأن لفظ 'العقل' يُطلق على عدة معانٍ (غريزة، علوم ضرورية، علوم نظرية)، وحصره في معنى واحد يسبب ارتباكاً [9].",
+        "choices": [
+            { "choice_text": "لأن الرازي كتب بلغة غير واضحة", "is_correct": false },
+            { "choice_text": "لأن لفظ العقل يشمل معانٍ متعددة (غريزة وعلوم وغيرها)", "is_correct": true },
+            { "choice_text": "لأن الرازي لم يستشهد بالقرآن", "is_correct": false },
+            { "choice_text": "لأن ابن تيمية لم يفهم مراد الرازي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو مآل 'تقديم العقل على النقل' في حال كان العقل شاهد زور؟",
+        "difficulty_score": 900,
+        "explanation": "يؤدي ذلك إلى تهاوي العقل والنقل معاً؛ فإذا كان العقل شاهد زور في النقل، فلا ثقة بشهادته في شيء آخر [95، 96].",
+        "choices": [
+            { "choice_text": "إثبات قوة العقل البشري", "is_correct": false },
+            { "choice_text": "تهاوي العقل والنقل معاً وفقدان الثقة بالشهادة", "is_correct": true },
+            { "choice_text": "تصحيح مسار الشريعة", "is_correct": false },
+            { "choice_text": "بقاء العقل سليماً وتضرر النقل فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو مؤلف كتاب 'شرح مشكل الآثار'؟",
+        "difficulty_score": 300,
+        "explanation": "كتاب 'شرح مشكل الآثار' هو للإمام الطحاوي [1].",
+        "choices": [
+            { "choice_text": "ابن تيمية", "is_correct": false },
+            { "choice_text": "الطحاوي", "is_correct": true },
+            { "choice_text": "الشنقيطي", "is_correct": false },
+            { "choice_text": "ابن قتيبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف يُفهم حديث 'من قُتل ذمياً لم يرح رائحة الجنة' بجانب حديث 'لا يُقتل مسلم بكافر'؟",
+        "difficulty_score": 500,
+        "explanation": "يُفهمان معاً لتحقيق التوازن؛ فالأول يحرم استباحة دم الذمي، والثاني يحدد عقوبة القصاص [10].",
+        "choices": [
+            { "choice_text": "الحديث الأول ينسخ الثاني", "is_correct": false },
+            { "choice_text": "يُفهمان معاً لتحقيق التوازن وحفظ الدماء", "is_correct": true },
+            { "choice_text": "لا توجد علاقة بين الحديثين", "is_correct": false },
+            { "choice_text": "الحديث الثاني يبيح قتل الذميين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المبدأ الذي تضمنته القاعدة السادسة حول 'مصادر المعرفة'؟",
+        "difficulty_score": 400,
+        "explanation": "المبدأ هو التمييز بين المصادر المعتبرة (كالكتاب والسنة) وغير المعتبرة (كالرؤى والأذواق) [11].",
+        "choices": [
+            { "choice_text": "مساواة جميع المصادر في الحجية", "is_correct": false },
+            { "choice_text": "التمييز بين المصادر المعتبرة وغير المعتبرة", "is_correct": true },
+            { "choice_text": "تقديم الأذواق على النصوص عند الضرورة", "is_correct": false },
+            { "choice_text": "اعتبار الرؤى مصدراً قطعياً للتشريع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو وجه تفرد 'منهج السلف' في التعامل مع المتشابه؟",
+        "difficulty_score": 600,
+        "explanation": "تفردهم يكمن في 'رد المتشابه إلى المحكم' بدلاً من تتبع المتشابه وضرب النصوص ببعضها [12].",
+        "choices": [
+            { "choice_text": "إنكار وجود المتشابه بالكلية", "is_correct": false },
+            { "choice_text": "رد المتشابه إلى المحكم كمنهجية ثابتة", "is_correct": true },
+            { "choice_text": "تأويل المحكم ليوافق المتشابه", "is_correct": false },
+            { "choice_text": "ترك المتشابه دون أي بحث أو فهم", "is_correct": false }
+        ]
+    }
+]
+    }

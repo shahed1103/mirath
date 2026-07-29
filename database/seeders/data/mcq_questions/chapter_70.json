@@ -1,0 +1,885 @@
+    {
+    "chapter_id": 70,
+    "questions": [
+         {
+        "question_text": "ما هو المعيار المادي الذي كانت القبائل العربية تتربص بناءً عليه لإعلان إسلامها؟",
+        "difficulty_score": 300,
+        "explanation": "المصادر توضح أن القبائل كانت تنتظر نتيجة الصراع؛ فإن ظهر النبي ﷺ على قومه (قريش) فهو نبي، وإن لم يظهر فليس كذلك [7].",
+        "choices": [
+            { "choice_text": "كثرة المعجزات الحسية", "is_correct": false },
+            { "choice_text": "نتيجة الصراع والظهور المادي على قريش", "is_correct": true },
+            { "choice_text": "جمال اللغة في القرآن الكريم", "is_correct": false },
+            { "choice_text": "عدد المهاجرين والأنصار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد جيش المسلمين عند خروجه إلى غزوة حنين؟",
+        "difficulty_score": 100,
+        "explanation": "ذكرت المصادر أن الجيش خرج بـ 12 ألف مقاتل [1].",
+        "choices": [
+            { "choice_text": "10 آلاف مقاتل", "is_correct": false },
+            { "choice_text": "12 ألف مقاتل", "is_correct": true },
+            { "choice_text": "30 ألف مقاتل", "is_correct": false },
+            { "choice_text": "1500 مقاتل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان غرض المشركين من تعليق أسلحتهم على شجرة 'ذات أنواط'؟",
+        "difficulty_score": 200,
+        "explanation": "كان المشركون يفعلون ذلك لأجل 'البركة' والتعّبد كما ورد في السيرة [1].",
+        "choices": [
+            { "choice_text": "لأجل تزيين الشجرة في أعيادهم", "is_correct": false },
+            { "choice_text": "لأجل البركة والتعّبد", "is_correct": true },
+            { "choice_text": "لتخويف الأعداء المارين بالطريق", "is_correct": false },
+            { "choice_text": "لحفظها من السرقة أثناء الصيد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'الطلقاء' الذين ورد ذكرهم في سياق غزوة حنين؟",
+        "difficulty_score": 200,
+        "explanation": "هم أهل قريش الذين أسلموا حديثاً بعد فتح مكة وعفا عنهم النبي ﷺ [1].",
+        "choices": [
+            { "choice_text": "الصحابة الذين هاجروا إلى الحبشة", "is_correct": false },
+            { "choice_text": "أهل المدينة من الأوس والخزرج", "is_correct": false },
+            { "choice_text": "أهل مكة الذين أسلموا عند الفتح", "is_correct": true },
+            { "choice_text": "العبيد الذين أعتقهم أبو بكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ نداء الصحابة لذات أنواط؟",
+        "difficulty_score": 500,
+        "explanation": "قال النبي ﷺ: 'قلتم والذي نفسي بيده كما قال قوم موسى: اجعل لنا إلهاً كما لهم آلهة'، واصفاً إياها بأنها 'السنن' [4].",
+        "choices": [
+            { "choice_text": "بأنها بدعة حسنة", "is_correct": false },
+            { "choice_text": "بأنها سنن من كان قبلهم وتشبه بمقولة قوم موسى", "is_correct": true },
+            { "choice_text": "بأنها أمر جائز لحديثي العهد بالإسلام", "is_correct": false },
+            { "choice_text": "بأنها وسيلة مشروعة للتحبب لله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي كان يقود بغلة النبي ﷺ ويثبت معه في بداية الهزيمة بحنين؟",
+        "difficulty_score": 400,
+        "explanation": "تذكر المصادر أن أبا سفيان بن الحارث بن عبد المطلب (ابن عم النبي) كان ممسكاً بلجام بغلة النبي ﷺ [8].",
+        "choices": [
+            { "choice_text": "أبو سفيان بن حرب", "is_correct": false },
+            { "choice_text": "أبو سفيان بن الحارث بن عبد المطلب", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "العباس بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت ثقيف تهدف من انسحابها المنظم في بداية اشتباك حنين؟",
+        "difficulty_score": 600,
+        "explanation": "انسحبت ثقيف لتجر المسلمين إلى كمائن معينة كمنوا فيها خلف الصخور [9].",
+        "choices": [
+            { "choice_text": "الهروب والعودة إلى الطائف", "is_correct": false },
+            { "choice_text": "استدراج المسلمين إلى مناطق الكمائن والرماية", "is_correct": true },
+            { "choice_text": "طلب الصلح والمفاوضات", "is_correct": false },
+            { "choice_text": "حماية النساء والأموال في المؤخرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما معنى نداء العباس 'يا أصحاب السمرة'؟",
+        "difficulty_score": 600,
+        "explanation": "يقصد بها أصحاب بيعة الرضوان الذين بايعوا تحت الشجرة على عدم الفرار [10].",
+        "choices": [
+            { "choice_text": "يقصد بها أصحاب البشرة السمراء من الجيش", "is_correct": false },
+            { "choice_text": "يقصد بها الذين بايعوا النبي ﷺ تحت الشجرة", "is_correct": true },
+            { "choice_text": "يقصد بها الذين كانوا يحملون رايات السمر", "is_correct": false },
+            { "choice_text": "يقصد بها المهاجرين الأولين فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الكلمة التي قالها النبي ﷺ حين اشتد القتال جداً في حنين؟",
+        "difficulty_score": 300,
+        "explanation": "قال النبي ﷺ: 'الآن حمي الوطيس' لوصف شدة القتال [11].",
+        "choices": [
+            { "choice_text": "اليوم يوم الملحمة", "is_correct": false },
+            { "choice_text": "الآن حمي الوطيس", "is_correct": true },
+            { "choice_text": "نصرت بالرعب", "is_correct": false },
+            { "choice_text": "الله أكبر خربت خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كان يتقي الصحابة إذا اشتد البأس (القتال)؟",
+        "difficulty_score": 400,
+        "explanation": "يقول البراء بن عازب: 'كنا إذا احمر البأس أو اشتد البأس نتقي برسول الله ﷺ' [5].",
+        "choices": [
+            { "choice_text": "بتروسهم الكبيرة", "is_correct": false },
+            { "choice_text": "برسول الله ﷺ لشجاعته وقربه من العدو", "is_correct": true },
+            { "choice_text": "بالتحصن خلف الجبال", "is_correct": false },
+            { "choice_text": "بالتراجع إلى معسكر المؤخرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الدرس الأول' المستنبط من أحداث حنين كما ذكره المحاضر؟",
+        "difficulty_score": 500,
+        "explanation": "الدرس هو أن النصر ليس بالكثرة، وأن الاعتماد على الأسباب المادية وحدها والاغترار بها مؤشر خطر [5].",
+        "choices": [
+            { "choice_text": "أهمية الرماية في الحروب", "is_correct": false },
+            { "choice_text": "أن الأمر ليس بالكثرة والتحذير من الاغترار بالماديات", "is_correct": true },
+            { "choice_text": "ضرورة تأمين المؤخرة قبل الهجوم", "is_correct": false },
+            { "choice_text": "أهمية جمع الغنائم فور النصر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو قائد السرية الذي قُتل بسهم في ركبته في أوطاس؟",
+        "difficulty_score": 300,
+        "explanation": "هو أبو عامر الأشعري، عم أبي موسى الأشعري [30، 31].",
+        "choices": [
+            { "choice_text": "أبو موسى الأشعري", "is_correct": false },
+            { "choice_text": "أبو عامر الأشعري", "is_correct": true },
+            { "choice_text": "عباس بن مرداس", "is_correct": false },
+            { "choice_text": "دُريد بن الصمة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ لأبي عامر الأشعري قبل وفاته (حسب رواية أبي موسى)؟",
+        "difficulty_score": 400,
+        "explanation": "دعا له النبي ﷺ قائلاً: 'اللهم اغفر لعبيد أبي عامر واجعله يوم القيامة فوق كثير من خلقك' [12].",
+        "choices": [
+            { "choice_text": "بشره بالشهادة والجنة مباشرة", "is_correct": false },
+            { "choice_text": "توضأ ودعا له بالمغفرة وأن يكون فوق كثير من الخلق", "is_correct": true },
+            { "choice_text": "أمره بالصبر ووعده بالخلافة", "is_correct": false },
+            { "choice_text": "قال له: لا عليك ألا تعمل بعدها", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا ضحك النبي ﷺ عندما أخبره المسلمون أنهم 'قافلون غداً إن شاء الله' من الطائف؟",
+        "difficulty_score": 700,
+        "explanation": "لأنهم عندما اقترح عليهم العودة أول مرة رفضوا وأصروا على القتال حتى أصابتهم الجراحات، فعادوا ووافقوا على قوله الأول فضحك ﷺ [36، 37].",
+        "choices": [
+            { "choice_text": "لسعادته بقرب العودة للمدينة", "is_correct": false },
+            { "choice_text": "لإعجابهم بالعودة غداً بعد أن أصابتهم الجراحات وأصروا قبلها على القتال", "is_correct": true },
+            { "choice_text": "بسبب نكتة قالها أحد الصحابة", "is_correct": false },
+            { "choice_text": "لأنه علم بسقوط الحصن غداً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي المنطقة التي جمع فيها النبي ﷺ غنائم حنين؟",
+        "difficulty_score": 200,
+        "explanation": "جمعت الغنائم في منطقة 'الجعرانة' القريبة من مكة [13].",
+        "choices": [
+            { "choice_text": "وادي أوطاس", "is_correct": false },
+            { "choice_text": "منطقة الجعرانة", "is_correct": true },
+            { "choice_text": "وسط الطائف", "is_correct": false },
+            { "choice_text": "خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم 'المؤلفة قلوبهم' الذين أعطاهم النبي ﷺ مئة مئة من الإبل؟",
+        "difficulty_score": 300,
+        "explanation": "أعطى سادة قريش والأعراب مثل عيينة بن حصن والأقرع بن حابس وصفوان بن أمية [41، 42].",
+        "choices": [
+            { "choice_text": "فقراء المهاجرين", "is_correct": false },
+            { "choice_text": "سادة قريش والأعراب لتأليف قلوبهم للإسلام", "is_correct": true },
+            { "choice_text": "الصحابة الذين ثبتوا في حنين", "is_correct": false },
+            { "choice_text": "أيتام المسلمين في المدينة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد صفوان بن أمية بعد عطاء النبي ﷺ له في حنين؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'أعطاني رسول الله ﷺ يوم حنين وإنه لأبغض الخلق إليّ، فما برح يعطيني حتى إنه لأحب الناس إليّ' [43، 44].",
+        "choices": [
+            { "choice_text": "رفض العطاء لعزة نفسه", "is_correct": false },
+            { "choice_text": "تحول من كونه أبغض الناس للنبي ﷺ إلى أحب الناس إليه", "is_correct": true },
+            { "choice_text": "قال: إن هذا سحر محمد", "is_correct": false },
+            { "choice_text": "وزعها مباشرة على فقراء قومه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي وجده الأنصار في أنفسهم بعد قسمة غنائم حنين؟",
+        "difficulty_score": 400,
+        "explanation": "وجدوا (حزنوا) لأن النبي ﷺ أعطى قريشاً والقبائل وتركهم، وسيوفهم تقطر من دمائهم [14].",
+        "choices": [
+            { "choice_text": "الفرح بنصر الله الكبير", "is_correct": false },
+            { "choice_text": "وجدوا في أنفسهم لأن النبي ﷺ أعطى غيرهم ولم يعطهم", "is_correct": true },
+            { "choice_text": "الرغبة في العودة لبيوتهم سريعاً", "is_correct": false },
+            { "choice_text": "الخوف من انتقام أهل مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة العظيمة التي طيب بها النبي ﷺ خاطر الأنصار؟",
+        "difficulty_score": 500,
+        "explanation": "قال لهم: 'أفلا ترضون يا معشر الأنصار أن يذهب الناس بالشاة والبعير وترجعون برسول الله ﷺ في رحالكم؟' [53، 54].",
+        "choices": [
+            { "choice_text": "وعدهم بضعف ما أخذت قريش العام القادم", "is_correct": false },
+            { "choice_text": "أن يرجعوا برسول الله ﷺ في رحالهم بدلاً من الشاة والبعير", "is_correct": true },
+            { "choice_text": "أنهم سادة الجنة بلا حساب", "is_correct": false },
+            { "choice_text": "أنه سيعطيهم مفاتيح مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي اعترض على قسمة النبي ﷺ وقال 'يا محمد اعدل'؟",
+        "difficulty_score": 600,
+        "explanation": "تذكر المصادر أنهم أصول 'الخوارج' (ذو الخويصرة)، الذين طعنوا في عدل النبي ﷺ [15].",
+        "choices": [
+            { "choice_text": "أحد كبار الأنصار", "is_correct": false },
+            { "choice_text": "رجل من أصول الخوارج", "is_correct": true },
+            { "choice_text": "أبو سفيان بن حرب", "is_correct": false },
+            { "choice_text": "أحد المنافقين المعلومين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا لقب العام التاسع للهجرة في السيرة؟",
+        "difficulty_score": 100,
+        "explanation": "لقب بـ 'عام الوفود' [3].",
+        "choices": [
+            { "choice_text": "عام الفتح", "is_correct": false },
+            { "choice_text": "عام الوفود", "is_correct": true },
+            { "choice_text": "عام الجماعة", "is_correct": false },
+            { "choice_text": "عام الرمادة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هم القوم الذين وصفهم النبي ﷺ بأنهم 'أرق أفئدة وألين قلوباً'؟",
+        "difficulty_score": 300,
+        "explanation": "وصف بذلك 'أهل اليمن' عند قدومهم [16].",
+        "choices": [
+            { "choice_text": "أهل مكة", "is_correct": false },
+            { "choice_text": "أهل اليمن", "is_correct": true },
+            { "choice_text": "قبيلة ثقيف", "is_correct": false },
+            { "choice_text": "وفد بني حنيفة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الاسم المشهور لغزوة تبوك؟",
+        "difficulty_score": 200,
+        "explanation": "تسمى 'غزوة العسرة' بسبب الضيق المادي والحر الشديد [63، 67].",
+        "choices": [
+            { "choice_text": "غزوة الأحزاب", "is_correct": false },
+            { "choice_text": "غزوة العسرة", "is_correct": true },
+            { "choice_text": "الغزوة الكبرى", "is_correct": false },
+            { "choice_text": "غزوة الفتح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان الشيء الوحيد 'الجميل' والمخفف للعسرة في المدينة وقت غزوة تبوك؟",
+        "difficulty_score": 400,
+        "explanation": "كان وقت 'الرطب' (نضج الثمار) الذي ينتظره أهل المدينة، وهو ما جعل الخروج صعباً [63، 64].",
+        "choices": [
+            { "choice_text": "برودة الجو ليلاً", "is_correct": false },
+            { "choice_text": "وقت نضج الرطب في النخيل", "is_correct": true },
+            { "choice_text": "كثرة الأمطار", "is_correct": false },
+            { "choice_text": "توافر الغنائم من الشام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي جهز 'جيش العسرة' بماله؟",
+        "difficulty_score": 200,
+        "explanation": "هو عثمان بن عفان رضي الله عنه [17].",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "عثمان بن عفان", "is_correct": true },
+            { "choice_text": "عبد الرحمن بن عوف", "is_correct": false },
+            { "choice_text": "عمر بن الخطاب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي سميت 'الفاضحة' لأنها فضحت المنافقين في تبوك؟",
+        "difficulty_score": 300,
+        "explanation": "هي سورة 'التوبة' [18].",
+        "choices": [
+            { "choice_text": "سورة الأنفال", "is_correct": false },
+            { "choice_text": "سورة التوبة", "is_correct": true },
+            { "choice_text": "سورة المنافقون", "is_correct": false },
+            { "choice_text": "سورة آل عمران", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل المنافقين على صدقات الصحابة في تبوك؟",
+        "difficulty_score": 500,
+        "explanation": "كانوا يلمزون المتصدقين؛ فإن تصدق أحد بمال كثير قالوا 'رآء'، وإن جاء قليل قالوا 'إن الله لغني عن صدقة هذا' [70، 71].",
+        "choices": [
+            { "choice_text": "شجعوهم على البذل", "is_correct": false },
+            { "choice_text": "لمزوا المتصدقين وسخروا من قليلهم واتهموا كثيرهم بالرياء", "is_correct": true },
+            { "choice_text": "تصدقوا بأكثر منهم سراً", "is_correct": false },
+            { "choice_text": "طلبوا من النبي ﷺ توزيعها عليهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الغرض الحقيقي من بناء 'مسجد الضرار'؟",
+        "difficulty_score": 600,
+        "explanation": "كان مكاناً للمؤامرات وتفريقاً للمؤمنين وإرصاداً لمن حارب الله ورسوله [71، 72].",
+        "choices": [
+            { "choice_text": "توسعة للمسجد النبوي", "is_correct": false },
+            { "choice_text": "مكان للمؤامرات وتفريق المؤمنين", "is_correct": true },
+            { "choice_text": "مدرسة لتعليم الصبيان", "is_correct": false },
+            { "choice_text": "نزل للوفود الغريبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الميزة الفريدة لغزوة تبوك في القرآن الكريم؟",
+        "difficulty_score": 800,
+        "explanation": "نزلت فيها أطول سورة تتحدث عن أحداث غزوة (التوبة) رغم أنه لم يقع فيها قتال حقيقي [74، 75].",
+        "choices": [
+            { "choice_text": "كثرة الغنائم التي لم تذكر في غيرها", "is_correct": false },
+            { "choice_text": "نزول أطول سورة في أحداثها رغم عدم وجود قتال", "is_correct": true },
+            { "choice_text": "ذكر أسماء كل المشاركين فيها", "is_correct": false },
+            { "choice_text": "أنها الغزوة الوحيدة التي شارك فيها الجن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن الذين تخلفوا في المدينة لعذر؟",
+        "difficulty_score": 500,
+        "explanation": "قال: 'إن بالمدينة أقواماً ما سرتم مسيراً.. إلا كانوا معكم، حبسهم العذر' [19].",
+        "choices": [
+            { "choice_text": "أنهم فاتهم الأجر العظيم", "is_correct": false },
+            { "choice_text": "أنهم معكم في الأجر لأنهم صادقون وحبسهم العذر", "is_correct": true },
+            { "choice_text": "أنهم منافقون يجب الحذر منهم", "is_correct": false },
+            { "choice_text": "أن عليهم التكفير عن تخلفهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي صدق النبي ﷺ واعترف أنه لا عذر له في تخلفه عن تبوك؟",
+        "difficulty_score": 300,
+        "explanation": "هو كعب بن مالك رضي الله عنه [20].",
+        "choices": [
+            { "choice_text": "عبد الله بن أبي سلول", "is_correct": false },
+            { "choice_text": "كعب بن مالك", "is_correct": true },
+            { "choice_text": "أبو لبابة", "is_correct": false },
+            { "choice_text": "حسان بن ثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل كعب بن مالك برسالة ملك غسان التي تدعوه للحاق به؟",
+        "difficulty_score": 400,
+        "explanation": "عدها من البلاء وسجرها (أحرقها) في التنور فوراً [21].",
+        "choices": [
+            { "choice_text": "رد عليها بالرفض المهذب", "is_correct": false },
+            { "choice_text": "أحرقها في التنور مباشرة", "is_correct": true },
+            { "choice_text": "أعطاها للنبي ﷺ ليقرأها", "is_correct": false },
+            { "choice_text": "خبأها للذكرى", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من الذي بعثه النبي ﷺ ببراءة في العام التاسع ليبلغها في الحج؟",
+        "difficulty_score": 500,
+        "explanation": "أمر أبا بكر على الحج، وبعث علياً ليؤذن ببراءة في الناس [88، 89].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "زيد بن ثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو أهم إعلان أعلنه علي بن أبي طالب في حج العام التاسع؟",
+        "difficulty_score": 400,
+        "explanation": "ألا يحج بعد العام مشرك، ولا يطوف بالبيت عريان [89، 90].",
+        "choices": [
+            { "choice_text": "تخفيض الضرائب عن القبائل", "is_correct": false },
+            { "choice_text": "ألا يحج مشرك ولا يطوف عريان", "is_correct": true },
+            { "choice_text": "بداية التجهيز لفتح روما", "is_correct": false },
+            { "choice_text": "تعيين معاذ ملكاً على اليمن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا أعطى النبي ﷺ لمسيلمة الكذاب عندما طلب الخلافة بعده؟",
+        "difficulty_score": 600,
+        "explanation": "أمسك قطعة عود وقال: 'لو سألتني هذه القطعة ما أعطيتكها' [22].",
+        "choices": [
+            { "choice_text": "وعده بنصف الأرض", "is_correct": false },
+            { "choice_text": "رفض إعطاءه حتى قطعة عود صغيرة", "is_correct": true },
+            { "choice_text": "أمر بقتله فوراً", "is_correct": false },
+            { "choice_text": "طلب منه الانتظار للعام القادم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد الناس تقريباً في حجة الوداع مع النبي ﷺ؟",
+        "difficulty_score": 300,
+        "explanation": "يقدرون بنحو مئة ألف إنسان مسلم [23].",
+        "choices": [
+            { "choice_text": "10 آلاف", "is_correct": false },
+            { "choice_text": "100 ألف", "is_correct": true },
+            { "choice_text": "مليون", "is_correct": false },
+            { "choice_text": "30 ألف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ في خطبته بحجة الوداع عن أمور الجاهلية؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'ألا كل شيء من أمر الجاهلية تحت قدمي موضوع' [24].",
+        "choices": [
+            { "choice_text": "أنها ستبقى ذكرى للتاريخ", "is_correct": false },
+            { "choice_text": "أنها موضوعة تحت قدميه (بمعنى الإلغاء)", "is_correct": true },
+            { "choice_text": "أنها قابلة للتطوير", "is_correct": false },
+            { "choice_text": "أنها تخص قريشاً فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الوصية التي أكد عليها النبي ﷺ في مشهد حجة الوداع بخصوص النساء؟",
+        "difficulty_score": 300,
+        "explanation": "قال ﷺ: 'فاتقوا الله في النساء' [25].",
+        "choices": [
+            { "choice_text": "أمرهن بالبقاء في البيوت دائماً", "is_correct": false },
+            { "choice_text": "فاتقوا الله في النساء", "is_correct": true },
+            { "choice_text": "أمرهن بتعلم الرماية", "is_correct": false },
+            { "choice_text": "منعهن من الميراث", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ بإصبعه وهو يشهد الله على بلاغ الرسالة؟",
+        "difficulty_score": 500,
+        "explanation": "رفع إصبعه للسماء وينكتها (يوجهها) إلى الناس قائلاً: 'اللهم اشهد' [105، 107].",
+        "choices": [
+            { "choice_text": "أشار بها لجهة الشام", "is_correct": false },
+            { "choice_text": "يرفعها للسماء وينكتها للناس طالباً شهادة الله", "is_correct": true },
+            { "choice_text": "وضعها في أذنه ليعلن الأذان", "is_correct": false },
+            { "choice_text": "أخفاها في رداءه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشاب الذي أمره النبي ﷺ على جيش الشام قبل وفاته؟",
+        "difficulty_score": 300,
+        "explanation": "هو أسامة بن زيد، وكان عمره نحو 18 عاماً [26].",
+        "choices": [
+            { "choice_text": "علي بن أبي طالب", "is_correct": false },
+            { "choice_text": "أسامة بن زيد", "is_correct": true },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "خالد بن الوليد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو أول من بدأ به النبي ﷺ حين وضع دماء الجاهلية في حجة الوداع؟",
+        "difficulty_score": 500,
+        "explanation": "ذكر المصدر أن النبي ﷺ بدأ بنفسه وبقومه، فوضع دم ابن ربيعة بن الحارث بن عبد المطلب [102، 103].",
+        "choices": [
+            { "choice_text": "دم عثمان بن عفان", "is_correct": false },
+            { "choice_text": "دم ابن ربيعة بن الحارث بن عبد المطلب", "is_correct": true },
+            { "choice_text": "دم حمزة بن عبد المطلب", "is_correct": false },
+            { "choice_text": "دم جعفر بن أبي طالب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الربا الذي بدأ النبي ﷺ بوضعه (إلغائه) في خطبة حجة الوداع؟",
+        "difficulty_score": 400,
+        "explanation": "النبي ﷺ بدأ بوضع ربا قومه، وتحديداً ربا عمه العباس بن عبد المطلب [1].",
+        "choices": [
+            { "choice_text": "ربا أهل المدينة", "is_correct": false },
+            { "choice_text": "ربا العباس بن عبد المطلب", "is_correct": true },
+            { "choice_text": "ربا بني ثقيف", "is_correct": false },
+            { "choice_text": "ربا اليهود في خيبر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف كان النبي ﷺ يصلي قيام الليل في أواخر عمره بسبب التعب والسن؟",
+        "difficulty_score": 300,
+        "explanation": "تذكر المصادر أن النبي ﷺ كان يصلي الليل جالساً أو قاعداً في أواخر عمره [2].",
+        "choices": [
+            { "choice_text": "كان يصلي وهو مضطجع", "is_correct": false },
+            { "choice_text": "كان يصلي جالساً أو قاعداً", "is_correct": true },
+            { "choice_text": "كان يكتفي بالفرائض فقط", "is_correct": false },
+            { "choice_text": "كان يصلي قائماً بمساعدة الصحابة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصفت إحدى زوجات النبي ﷺ حالته البدنية في أواخر عمره حين بدأ يصلي قاعداً؟",
+        "difficulty_score": 600,
+        "explanation": "قالت إحدى زوجاته في الحديث الذي أخرجه مسلم أو البخاري: 'فلما حطمه الناس صار يصلي قاعداً' [3].",
+        "choices": [
+            { "choice_text": "فلما كبرت سنه", "is_correct": false },
+            { "choice_text": "فلما حطمه الناس", "is_correct": true },
+            { "choice_text": "فلما اشتد عليه المرض", "is_correct": false },
+            { "choice_text": "فلما أثقلته الديون", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو المعيار البدني الذي كان يُعرف به تغير صحة النبي ﷺ وقوته في أواخر حياته؟",
+        "difficulty_score": 700,
+        "explanation": "كان المعيار في قيام الليل؛ حيث كان يبدأ الصلاة جالساً فإذا بقي 50 آية قام فقرأها ثم ركع [108، 109].",
+        "choices": [
+            { "choice_text": "سرعته في المشي", "is_correct": false },
+            { "choice_text": "عدد الركعات في الفريضة", "is_correct": false },
+            { "choice_text": "قدرته على القيام في صلاة الليل", "is_correct": true },
+            { "choice_text": "رفع صوته في الخطبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد المنافقين الذين جاؤوا بـ 'المعاذير الكاذبة' بعد العودة من تبوك؟",
+        "difficulty_score": 500,
+        "explanation": "جاء بضعة وثمانون رجلاً (نحو 82 رجلاً) فاعتذروا للنبي ﷺ فقبل ظاهرهم [77، 78].",
+        "choices": [
+            { "choice_text": "عشرة رجال", "is_correct": false },
+            { "choice_text": "بضعة وثمانون رجلاً", "is_correct": true },
+            { "choice_text": "ألف رجل", "is_correct": false },
+            { "choice_text": "ثلاثة رجال فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا أمر النبي ﷺ أصحابه أن يفعلوا بـ 'مسجد الضرار' فور وصوله للمدينة؟",
+        "difficulty_score": 400,
+        "explanation": "أمر رجلين من أصحابه أن يذهبا إليه فيهدموه ويحرقوه [4].",
+        "choices": [
+            { "choice_text": "أن يغلقوه بالأقفال", "is_correct": false },
+            { "choice_text": "أن يهدموه ويحرقوه", "is_correct": true },
+            { "choice_text": "أن يحولوه إلى مخزن للغلال", "is_correct": false },
+            { "choice_text": "أن يضموه للمسجد النبوي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي خرج مع الصبيان لاستقبال النبي ﷺ عند 'ثنية الوداع'؟",
+        "difficulty_score": 600,
+        "explanation": "هو السائب بن يزيد رضي الله عنه، كما ورد في صحيح البخاري [80، 81].",
+        "choices": [
+            { "choice_text": "ابن عباس", "is_correct": false },
+            { "choice_text": "السائب بن يزيد", "is_correct": true },
+            { "choice_text": "عبد الله بن عمر", "is_correct": false },
+            { "choice_text": "أنس بن مالك", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرؤيا التي رآها النبي ﷺ عن مسيلمة الكذاب والأسود العنسي؟",
+        "difficulty_score": 700,
+        "explanation": "رأى في يديه سوارين من ذهب، فنفخهما فطارا، فأولهما بكذابين يخرجان بعده [91، 92].",
+        "choices": [
+            { "choice_text": "رأى تاجين يسقطان من رأسهما", "is_correct": false },
+            { "choice_text": "رأى سوارين من ذهب في يديه طارا بنفخة", "is_correct": true },
+            { "choice_text": "رأى جبلين ينهاران", "is_correct": false },
+            { "choice_text": "رأى ثعبانين يقتتلان", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عمر معاذ بن جبل تقريباً حين بعثه النبي ﷺ إلى اليمن؟",
+        "difficulty_score": 500,
+        "explanation": "كان في منتصف العشرينات تقريباً، مما يدل على تمكن الشباب في عهده ﷺ [5].",
+        "choices": [
+            { "choice_text": "40 عاماً", "is_correct": false },
+            { "choice_text": "منتصف العشرينات", "is_correct": true },
+            { "choice_text": "15 عاماً", "is_correct": false },
+            { "choice_text": "50 عاماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا ودع النبي ﷺ معاذ بن جبل عند سفره لليمن مما أبكاه؟",
+        "difficulty_score": 800,
+        "explanation": "قال له: 'لعلك لا تلقاني بعد عامي هذا، ولعلك إذا أتيت فمررت بقبري'، فبكى معاذ [6].",
+        "choices": [
+            { "choice_text": "أمره بالبقاء هناك للأبد", "is_correct": false },
+            { "choice_text": "أخبره أنه قد لا يلقاه بعد عامه هذا", "is_correct": true },
+            { "choice_text": "منعه من العودة للمدينة", "is_correct": false },
+            { "choice_text": "أخبره بفتح بلاد الروم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي استنتج منها ابن عباس قرب وفاة النبي ﷺ؟",
+        "difficulty_score": 400,
+        "explanation": "هي سورة النصر {إذا جاء نصر الله والفتح}، حيث فهم أنها 'نعي' لرسول الله ﷺ [105، 106].",
+        "choices": [
+            { "choice_text": "سورة التوبة", "is_correct": false },
+            { "choice_text": "سورة النصر", "is_correct": true },
+            { "choice_text": "سورة المائدة", "is_correct": false },
+            { "choice_text": "سورة يوسف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ في آخر خطبة له على المنبر عن 'العبد' الذي خيره الله؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'إن عبداً خيره الله بين أن يؤتيه من زهرة الدنيا.. وبين ما عنده، فاختار ما عنده' [114، 115].",
+        "choices": [
+            { "choice_text": "أن العبد اختار الملك والخلود", "is_correct": false },
+            { "choice_text": "أن العبد اختار ما عند الله (اللقاء والآخرة)", "is_correct": true },
+            { "choice_text": "أن العبد اختار النصر على الروم", "is_correct": false },
+            { "choice_text": "أن العبد اختار طول العمر لتبليغ الرسالة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصى النبي ﷺ خلفاءه من بعده بخصوص الأنصار في أواخر عمره؟",
+        "difficulty_score": 700,
+        "explanation": "أوصى بالأنصار خيراً وقال: 'إنكم ستلقون بعدي أثرة فاصبروا حتى تلقوني وموعدكم الحوض' [116، 117].",
+        "choices": [
+            { "choice_text": "بإعطائهم مكة كلها", "is_correct": false },
+            { "choice_text": "بالصبر عليهم وحفظ حقهم والوصية بهم", "is_correct": true },
+            { "choice_text": "بجعل الخلافة فيهم دائماً", "is_correct": false },
+            { "choice_text": "بإعفائهم من الجهاد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي أطلق على السورة التي فضحت المنافقين بعد تبوك؟",
+        "difficulty_score": 200,
+        "explanation": "سميت سورة التوبة بـ 'الفاضحة' لأنها كشفت أسرار المنافقين [7].",
+        "choices": [
+            { "choice_text": "المنجية", "is_correct": false },
+            { "choice_text": "الفاضحة", "is_correct": true },
+            { "choice_text": "الكافية", "is_correct": false },
+            { "choice_text": "المجادلة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل كعب بن مالك برسالة ملك غسان التي طلبت منه اللحاق بالكفار؟",
+        "difficulty_score": 500,
+        "explanation": "عدها من البلاء وسجرها (أحرقها) في التنور مباشرة [85، 86].",
+        "choices": [
+            { "choice_text": "أرسل رداً بالرفض", "is_correct": false },
+            { "choice_text": "سجرها في التنور", "is_correct": true },
+            { "choice_text": "أخفاها تحت وسادته", "is_correct": false },
+            { "choice_text": "قرأها على الصحابة ليحذرهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا بشر النبي ﷺ كعب بن مالك يوم تيب عليه؟",
+        "difficulty_score": 400,
+        "explanation": "قال له: 'أبشر بخير يوم مر عليك منذ ولدتك أمك' [8].",
+        "choices": [
+            { "choice_text": "بأنه سيقود جيش الشام", "is_correct": false },
+            { "choice_text": "بأنه خير يوم مر عليه منذ ولدته أمه", "is_correct": true },
+            { "choice_text": "بأنه سيعطى مالاً كثيراً", "is_correct": false },
+            { "choice_text": "بأنه سيعود لشعره وقوته", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا طعن البعض في إمارة أسامة بن زيد على جيش الشام؟",
+        "difficulty_score": 300,
+        "explanation": "بسبب صغر سنه، حيث كان عمره نحو 18 عاماً فقط [9].",
+        "choices": [
+            { "choice_text": "لأنه ليس من قريش", "is_correct": false },
+            { "choice_text": "بسبب صغر سنه", "is_correct": true },
+            { "choice_text": "لأنه لم يشهد بدراً", "is_correct": false },
+            { "choice_text": "لأنه كان مريضاً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن إمارة أسامة بن زيد رداً على الطاعنين؟",
+        "difficulty_score": 600,
+        "explanation": "قال: 'إن تطعنوا في إمارته فقد طعنتم في إمارة أبيه من قبله.. وايم الله لقد كان خليقاً للإمارة' [113، 114].",
+        "choices": [
+            { "choice_text": "أمر بتغييره بخالد بن الوليد", "is_correct": false },
+            { "choice_text": "أكد جدارته للإمارة كأبيه من قبل", "is_correct": true },
+            { "choice_text": "قال إنه أمير مؤقت فقط", "is_correct": false },
+            { "choice_text": "سكت ولم يرد عليهم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو النبي الذي ذكره النبي ﷺ وصبره حين آذاه قومه في قسمة الغنائم؟",
+        "difficulty_score": 500,
+        "explanation": "قال ﷺ: 'يرحم الله موسى، لقد أوذي بأكثر من هذا فصبر' [10].",
+        "choices": [
+            { "choice_text": "إبراهيم عليه السلام", "is_correct": false },
+            { "choice_text": "موسى عليه السلام", "is_correct": true },
+            { "choice_text": "عيسى عليه السلام", "is_correct": false },
+            { "choice_text": "نوح عليه السلام", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان شعور الأنصار حين رأوا غنائم حنين تذهب لقريش وهم لا يأخذون شيئاً؟",
+        "difficulty_score": 300,
+        "explanation": "وجدوا في أنفسهم (حزنوا) وقالوا: 'يعطيهم ويتركنا وسيوفنا تقطر من دمائهم' [49، 50].",
+        "choices": [
+            { "choice_text": "الفخر بأنهم زاهدون", "is_correct": false },
+            { "choice_text": "وجدوا في أنفسهم وحزنوا لعدم مساواتهم بالآخرين", "is_correct": true },
+            { "choice_text": "الرغبة في الاعتزال", "is_correct": false },
+            { "choice_text": "الفرح لقريش لأنهم أسلموا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ الغنائم المادية التي أعطاها للمؤلفة قلوبهم أمام الأنصار؟",
+        "difficulty_score": 800,
+        "explanation": "وصفها بأنها 'لعاعة من الدنيا' يتألف بها قوماً ليسلموا [11].",
+        "choices": [
+            { "choice_text": "كنوز عظيمة", "is_correct": false },
+            { "choice_text": "لعاعة من الدنيا", "is_correct": true },
+            { "choice_text": "مكافأة الجهاد", "is_correct": false },
+            { "choice_text": "حق مشروع لقريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدعاء الذي دعا به النبي ﷺ للأنصار وأبنائهم في نهاية خطبته؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'اللهم ارحم الأنصار وأبناء الأنصار وأبناء أبناء الأنصار' [12].",
+        "choices": [
+            { "choice_text": "بكثرة الأموال والذرية", "is_correct": false },
+            { "choice_text": "بالرحمة لهم ولأبنائهم وأحفادهم", "is_correct": true },
+            { "choice_text": "بالنصر الدائم على الأعداء", "is_correct": false },
+            { "choice_text": "بأن يكونوا هم القادة دائماً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كم كان عدد جيش المسلمين في غزوة تبوك (جيش العسرة)؟",
+        "difficulty_score": 400,
+        "explanation": "تذكر المصادر أن العدد وصل إلى 30 ألف مقاتل [13].",
+        "choices": [
+            { "choice_text": "10 آلاف", "is_correct": false },
+            { "choice_text": "30 ألف مقاتل", "is_correct": true },
+            { "choice_text": "100 ألف", "is_correct": false },
+            { "choice_text": "5 آلاف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الشيء الذي كان المنافقون 'يلمزون' (يعيبون) به المتصدقين بمال كثير؟",
+        "difficulty_score": 600,
+        "explanation": "كانوا يقولون عن المتصدق بمال كثير إنه 'رآء' (يفعل ذلك للرياء) [70، 71].",
+        "choices": [
+            { "choice_text": "إنه مسرف", "is_correct": false },
+            { "choice_text": "إنه رآء (مرائي)", "is_correct": true },
+            { "choice_text": "إنه يطمع في الإمارة", "is_correct": false },
+            { "choice_text": "إنه يضيع حق عياله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان عذر المنافقين الذين تخلفوا عن تبوك (كما ورد في سورة التوبة)؟",
+        "difficulty_score": 700,
+        "explanation": "منهم من قال {ائذن لي ولا تفتني}، اعتذاراً بالخوف من فتنة نساء بني الأصفر (الروم) [14].",
+        "choices": [
+            { "choice_text": "المرض الشديد", "is_correct": false },
+            { "choice_text": "{ائذن لي ولا تفتني} (خوف الفتنة بالنساء)", "is_correct": true },
+            { "choice_text": "ضياع الإبل", "is_correct": false },
+            { "choice_text": "موت أحد الأقارب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "كيف استقبل الصبيان والناس النبي ﷺ عند عودته من تبوك؟",
+        "difficulty_score": 300,
+        "explanation": "خرجوا يتلقونه عند 'ثنية الوداع'، وهو مكان مشهور بمداخل المدينة [4].",
+        "choices": [
+            { "choice_text": "بالبكاء والنحيب", "is_correct": false },
+            { "choice_text": "عند ثنية الوداع بالترحيب", "is_correct": true },
+            { "choice_text": "بالبقاء في بيوتهم حزناً", "is_correct": false },
+            { "choice_text": "بإقامة مأدبة كبيرة في المسجد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن 'الأجر' لمن حبسهم العذر الصادق في المدينة؟",
+        "difficulty_score": 500,
+        "explanation": "قال إنهم 'معكم' في الأجر لأن نيتهم صادقة وحبسهم العذر [79، 80].",
+        "choices": [
+            { "choice_text": "أجرهم ناقص", "is_correct": false },
+            { "choice_text": "أجرهم معكم (مساوٍ لمن خرج)", "is_correct": true },
+            { "choice_text": "ليس لهم أجر", "is_correct": false },
+            { "choice_text": "أجرهم في الصبر فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العقوبة التي فرضها النبي ﷺ على الثلاثة الذين خلفوا (كعب وأصحابه)؟",
+        "difficulty_score": 400,
+        "explanation": "أمر بهجرهم واعتزال الناس لهم تماماً [15].",
+        "choices": [
+            { "choice_text": "دفع غرامة مالية", "is_correct": false },
+            { "choice_text": "الهجر واعتزال الناس لهم", "is_correct": true },
+            { "choice_text": "السجن في المسجد", "is_correct": false },
+            { "choice_text": "الجلد أمام الناس", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي أرسله النبي ﷺ ليؤذن بـ 'براءة' في الحج؟",
+        "difficulty_score": 500,
+        "explanation": "أرسل علياً بن أبي طالب ليبلغ براءة من الله ورسوله للمشركين [88، 89].",
+        "choices": [
+            { "choice_text": "عمر بن الخطاب", "is_correct": false },
+            { "choice_text": "علي بن أبي طالب", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "زيد بن ثابت", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا لقب العام التاسع للهجرة في السيرة النبوية؟",
+        "difficulty_score": 100,
+        "explanation": "لقب بـ 'عام الوفود' لكثرة القبائل التي جاءت تسلم [16].",
+        "choices": [
+            { "choice_text": "عام الجماعة", "is_correct": false },
+            { "choice_text": "عام الوفود", "is_correct": true },
+            { "choice_text": "عام الفتح", "is_correct": false },
+            { "choice_text": "عام الحزن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي العبارة التي كررها النبي ﷺ وهو يشهد الله على بلاغ الرسالة في عرفة؟",
+        "difficulty_score": 300,
+        "explanation": "قال ثلاثاً: 'اللهم اشهد، اللهم اشهد، اللهم اشهد' [105، 107].",
+        "choices": [
+            { "choice_text": "اللهم انصرنا", "is_correct": false },
+            { "choice_text": "اللهم اشهد", "is_correct": true },
+            { "choice_text": "اللهم اغفر لنا", "is_correct": false },
+            { "choice_text": "اللهم تقبل منا", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا فعل النبي ﷺ بجسده وهو يخاطب الناس في خطبة الوداع؟",
+        "difficulty_score": 600,
+        "explanation": "كان يرفع إصبعه للسماء ثم ينكتها (يوجهها) إلى الناس تعظيماً للموقف [17].",
+        "choices": [
+            { "choice_text": "كان جالساً على الأرض", "is_correct": false },
+            { "choice_text": "يرفع إصبعه للسماء وينكتها للناس", "is_correct": true },
+            { "choice_text": "كان يمسك بسيفه", "is_correct": false },
+            { "choice_text": "كان يغطي وجهه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال النبي ﷺ عن 'أهل اليمن' حين قدموا عليه؟",
+        "difficulty_score": 400,
+        "explanation": "قال: 'أتاكم أهل اليمن، هم أرق أفئدة وألين قلوباً' [18].",
+        "choices": [
+            { "choice_text": "هم أشد الناس قوة", "is_correct": false },
+            { "choice_text": "هم أرق أفئدة وألين قلوباً", "is_correct": true },
+            { "choice_text": "هم أكثر الناس مالاً", "is_correct": false },
+            { "choice_text": "هم أسرع الناس في القتال", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو 'سيد الشهداء' الذي زاره النبي ﷺ في أيامه الأخيرة وودعه؟",
+        "difficulty_score": 600,
+        "explanation": "تشير المصادر إلى أنه ذهب وودع شهداء أحد (كحمزة وغيرهم) قبل وفاته [19].",
+        "choices": [
+            { "choice_text": "جعفر بن أبي طالب", "is_correct": false },
+            { "choice_text": "شهداء أحد", "is_correct": true },
+            { "choice_text": "شهداء بدر", "is_correct": false },
+            { "choice_text": "شهداء مؤتة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي نزل فيها قوله تعالى {اليوم أكملت لكم دينكم}؟",
+        "difficulty_score": 500,
+        "explanation": "نزلت في حجة الوداع وهي في سورة المائدة [20].",
+        "choices": [
+            { "choice_text": "سورة البقرة", "is_correct": false },
+            { "choice_text": "سورة المائدة", "is_correct": true },
+            { "choice_text": "سورة التوبة", "is_correct": false },
+            { "choice_text": "سورة الفتح", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان رد فعل أبو بكر الصديق حين سمع خطبة 'تخيير العبد'؟",
+        "difficulty_score": 700,
+        "explanation": "بكى أبو بكر لأنه علم أن 'العبد' المخير هو رسول الله ﷺ ذاته [115، 116].",
+        "choices": [
+            { "choice_text": "فرح فرحاً شديداً", "is_correct": false },
+            { "choice_text": "بكى لأنه فهم قرب وفاة النبي ﷺ", "is_correct": true },
+            { "choice_text": "سأل النبي ﷺ عن اسم هذا العبد", "is_correct": false },
+            { "choice_text": "بدأ في توزيع ماله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'الموعد' الذي ضربه النبي ﷺ للأنصار ليصبروا حتى يلقوه عنده؟",
+        "difficulty_score": 300,
+        "explanation": "قال لهم: 'فاصبروا حتى تلقوني وموعدكم الحوض' [21].",
+        "choices": [
+            { "choice_text": "في مكة", "is_correct": false },
+            { "choice_text": "عند الحوض (يوم القيامة)", "is_correct": true },
+            { "choice_text": "في المسجد النبوي", "is_correct": false },
+            { "choice_text": "عند بئر زمزم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الحقيقة المرة التي شعر بها الصحابة وهم يرون مرض النبي ﷺ؟",
+        "difficulty_score": 900,
+        "explanation": "شعروا بمرارة الفقدان والوحدة، حتى إن الأنصار بكوا في مجالسهم خوفاً من غياب مجلسه عنهم [22].",
+        "choices": [
+            { "choice_text": "الخوف من الفقر", "is_correct": false },
+            { "choice_text": "مرارة الفقدان وغياب مجلس النبي ﷺ عنهم", "is_correct": true },
+            { "choice_text": "الخوف من ارتداد العرب", "is_correct": false },
+            { "choice_text": "الخوف من ضياع الغنائم", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الرسالة النهائية التي ختم بها النبي ﷺ حياته للأمة؟",
+        "difficulty_score": 800,
+        "explanation": "أداء الأمانة، وتبليغ الرسالة، والنصح للأمة بتمام الدين [23].",
+        "choices": [
+            { "choice_text": "جمع المال وتأمين المعيشة", "is_correct": false },
+            { "choice_text": "أداء الأمانة وتبليغ الرسالة والنصح للأمة", "is_correct": true },
+            { "choice_text": "فتح كل بلاد العالم بالسيف", "is_correct": false },
+            { "choice_text": "التركيز على بناء المباني والمدن", "is_correct": false }
+        ]
+    }
+]
+    }

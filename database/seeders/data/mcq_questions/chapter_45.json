@@ -1,0 +1,526 @@
+    {
+    "chapter_id": 45,
+    "questions": [
+        {
+        "question_text": "كم كان عدد السنوات التي استغرقتها الدعوة السرية حسب المشهور؟",
+        "difficulty_score": 100,
+        "explanation": "ذكر المصدر صراحة أن الدعوة السرية استمرت ثلاث سنوات على الأشهُر عند أهل السير.",
+        "choices": [
+            { "choice_text": "سنتان", "is_correct": false },
+            { "choice_text": "ثلاث سنوات", "is_correct": true },
+            { "choice_text": "خمس سنوات", "is_correct": false },
+            { "choice_text": "عشر سنوات", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي نادى قريشاً بعبارة 'تباً لك سائر اليوم'؟",
+        "difficulty_score": 150,
+        "explanation": "هذه العبارة صدرت عن أبي لهب عم النبي ﷺ رداً على دعوته لهم في الصفا.",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أمية بن خلف", "is_correct": false },
+            { "choice_text": "أبو لهب", "is_correct": true },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو اللقب الذي كان يطلقه العرب قديماً على من يعبد الله على دين إبراهيم؟",
+        "difficulty_score": 200,
+        "explanation": "ذكر المصدر أن هناك مجموعة كانت تسمى 'الحنفاء' يتعبدون ببقايا دين إبراهيم عليه السلام.",
+        "choices": [
+            { "choice_text": "الصابئة", "is_correct": false },
+            { "choice_text": "الحنفاء", "is_correct": true },
+            { "choice_text": "المعتزلة", "is_correct": false },
+            { "choice_text": "الأحلاف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أين صعد النبي ﷺ عندما نادى 'واصباحاه' لأول مرة جهراً؟",
+        "difficulty_score": 100,
+        "explanation": "صعد النبي ﷺ على جبل الصفا ليجمع قريشاً ويبلغهم الدعوة.",
+        "choices": [
+            { "choice_text": "جبل أحد", "is_correct": false },
+            { "choice_text": "جبل النور", "is_correct": false },
+            { "choice_text": "جبل الصفا", "is_correct": true },
+            { "choice_text": "جبل المروة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي السورة التي ورد فيها قوله تعالى: {وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ}؟",
+        "difficulty_score": 250,
+        "explanation": "هذه الآية هي التي أمرت النبي بالجهر بالدعوة ووردت في سورة الشعراء.",
+        "choices": [
+            { "choice_text": "سورة المدثر", "is_correct": false },
+            { "choice_text": "سورة الشعراء", "is_correct": true },
+            { "choice_text": "سورة العلق", "is_correct": false },
+            { "choice_text": "سورة الحجر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الذي سُمي بـ 'أول شهيد مطلقاً في الإسلام' (مع الشهيدة سمية)؟",
+        "difficulty_score": 300,
+        "explanation": "المصدر ذكر سمية كأول شهيدة، ويشير السياق التاريخي المرتبط بالتعذيب إلى استشهاد ياسر أيضاً (وإن كان المصدر ركز على سمية كأول شهيدة).",
+        "choices": [
+            { "choice_text": "بلال بن رباح", "is_correct": false },
+            { "choice_text": "ياسر رضي الله عنه", "is_correct": true },
+            { "choice_text": "عمار بن ياسر", "is_correct": false },
+            { "choice_text": "حمزة بن عبد المطلب", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كانت تفعل قريش بالمستضعفين مثل صهيب والمقداد عند تعذيبهم؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر المصدر أن المشركين كانوا يلبسونهم أدراع الحديد ويصهرونهم في الشمس.",
+        "choices": [
+            { "choice_text": "سجنهم في آبار مظلمة", "is_correct": false },
+            { "choice_text": "إلباسهم أدراع الحديد وصهرهم في الشمس", "is_correct": true },
+            { "choice_text": "نفيهم خارج مكة", "is_correct": false },
+            { "choice_text": "منع الطعام والشراب عنهم فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي قال عنه المصدر 'هانت عليه نفسه في الله وهان على قومه'؟",
+        "difficulty_score": 400,
+        "explanation": "المصدر نقل عن ابن مسعود أن بلالاً هانت عليه نفسه في الله ولم يستجب للمشركين فكان يطاف به في شعاب مكة.",
+        "choices": [
+            { "choice_text": "أبو بكر الصديق", "is_correct": false },
+            { "choice_text": "بلال بن رباح", "is_correct": true },
+            { "choice_text": "خالد بن الوليد", "is_correct": false },
+            { "choice_text": "عمار بن ياسر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأسلحة التالية وصفت بأنها 'أعظم أسلحة قريش' لمواجهة الدعوة؟",
+        "difficulty_score": 450,
+        "explanation": "بين المصدر أن الاستهزاء والسخرية كانت من أعظم الأسلحة التي استخدمتها قريش للصد عن سبيل الله.",
+        "choices": [
+            { "choice_text": "السلاح العسكري", "is_correct": false },
+            { "choice_text": "المقاطعة التجارية", "is_correct": false },
+            { "choice_text": "الاستهزاء والسخرية", "is_correct": true },
+            { "choice_text": "التعذيب الجسدي للنبي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا كان هدف قريش من الاتفاق على 'مقولة واحدة' أمام الحجاج؟",
+        "difficulty_score": 500,
+        "explanation": "أرادوا توحيد كلمتهم أمام العرب حتى لا يظهروا كمتناقضين، مما قد يعطي انطباعاً بأن النبي على حق.",
+        "choices": [
+            { "choice_text": "لإقناع النبي بالعدول عن دعوته", "is_correct": false },
+            { "choice_text": "لإظهار التماسك وتجنب التناقض أمام الناس", "is_correct": true },
+            { "choice_text": "لأنهم آمنوا فعلاً بأنه ساحر", "is_correct": false },
+            { "choice_text": "تلبية لطلب الوليد بن المغيرة فقط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو سيد قريش الذي فكر وقدر ثم قرر أن يصف القرآن بأنه 'سحر يؤثر'؟",
+        "difficulty_score": 300,
+        "explanation": "الوليد بن المغيرة هو الذي سجل القرآن موقفه في سورة المدثر حين فكر وقرر ثم قال إن هذا إلا سحر يؤثر.",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "عتبة بن ربيعة", "is_correct": false },
+            { "choice_text": "الوليد بن المغيرة", "is_correct": true },
+            { "choice_text": "أمية بن خلف", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو التشبيه الذي استخدمه النبي ﷺ ليؤكد لعمه استمراره في الدعوة؟",
+        "difficulty_score": 550,
+        "explanation": "قال النبي ﷺ: 'ما أنا بأقدر على ترك ما أنا فيه منكم على أن تأخذوا من هذه الشمس بشعلة'.",
+        "choices": [
+            { "choice_text": "وضع الشمس في يمينه والقمر في يساره", "is_correct": false },
+            { "choice_text": "عجزه عن ترك الدعوة كعجزهم عن أخذ شعلة من الشمس", "is_correct": true },
+            { "choice_text": "ثبات الجبال الرواسي", "is_correct": false },
+            { "choice_text": "جريان الماء في الوادي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ضماد الأزدي كان يأتي مكة لغرض معين، ما هو؟",
+        "difficulty_score": 400,
+        "explanation": "كان ضماد رقي من 'هذه الريح' (أي يعالج المس والجنون).",
+        "choices": [
+            { "choice_text": "التجارة", "is_correct": false },
+            { "choice_text": "الرقية من الجنون والمس", "is_correct": true },
+            { "choice_text": "المشاركة في دار الندوة", "is_correct": false },
+            { "choice_text": "زيارة أقاربه من بني لؤي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا أجاب النبي ﷺ ضماداً عندما عرض عليه العلاج؟",
+        "difficulty_score": 600,
+        "explanation": "أجابه بخطبة الحاجة: 'إن الحمد لله نحمده ونستعينه...' التي أبهرت ضماداً.",
+        "choices": [
+            { "choice_text": "بالرفض القاطع", "is_correct": false },
+            { "choice_text": "بطلب مال مقابل الرقية", "is_correct": false },
+            { "choice_text": "بخطبة الحاجة وبيان توحيد الله", "is_correct": true },
+            { "choice_text": "بآيات من سورة المسد", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا قال ضماد بعد أن سمع كلمات النبي ﷺ ثلاث مرات؟",
+        "difficulty_score": 650,
+        "explanation": "قال إنه سمع قول الكهنة والسحرة والشعراء، ولكن كلمات النبي بلغت ناعوس البحر (أعماقه).",
+        "choices": [
+            { "choice_text": "هذا قول شاعر مفلق", "is_correct": false },
+            { "choice_text": "هذا الكلام يشبه كلام الكهنة", "is_correct": false },
+            { "choice_text": "لقد بلغت كلماتك ناعوس البحر", "is_correct": true },
+            { "choice_text": "أحتاج وقتاً لأفكر", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "على ماذا بايع ضماد الأزدي النبي ﷺ إضافة إلى نفسه؟",
+        "difficulty_score": 700,
+        "explanation": "بايعه على الإسلام لنفسه وعلى قومه أيضاً.",
+        "choices": [
+            { "choice_text": "على ماله", "is_correct": false },
+            { "choice_text": "على قومه", "is_correct": true },
+            { "choice_text": "على الهجرة معه", "is_correct": false },
+            { "choice_text": "على قتال قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا أمر قائد السرية برد 'المطهرة' التي أخذت من قوم ضماد؟",
+        "difficulty_score": 750,
+        "explanation": "لأن النبي ﷺ بايع ضماداً على قومه، فصار لهم عهد وذمة.",
+        "choices": [
+            { "choice_text": "لأنها كانت تالفة", "is_correct": false },
+            { "choice_text": "لأن هؤلاء قوم ضماد الذين بايعوا", "is_correct": true },
+            { "choice_text": "لأن المسلمين لا يحتاجونها", "is_correct": false },
+            { "choice_text": "خوفاً من انتقام قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الآية التي واسى الله بها نبيه مبيناً أن المشركين لا يكذبونه في باطنهم؟",
+        "difficulty_score": 800,
+        "explanation": "هي قوله تعالى: {فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ}.",
+        "choices": [
+            { "choice_text": "سورة الحجر {إنا كفيناك المستهزئين}", "is_correct": false },
+            { "choice_text": "سورة الأنعام {فإنهم لا يكذبونك}", "is_correct": true },
+            { "choice_text": "سورة يونس {فقد لبثت فيكم عمراً}", "is_correct": false },
+            { "choice_text": "سورة المسد {تبت يدا أبي لهب}", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الشخص الذي كان يذهب خلف النبي ﷺ في القبائل ليكذبه؟",
+        "difficulty_score": 200,
+        "explanation": "أبو لهب كان يتبع النبي ﷺ ويقول للناس: 'إنه كذاب فلا تصدقوه'.",
+        "choices": [
+            { "choice_text": "أبو جهل", "is_correct": false },
+            { "choice_text": "أبو لهب", "is_correct": true },
+            { "choice_text": "أمية بن خلف", "is_correct": false },
+            { "choice_text": "عقبة بن أبي معيط", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس الأساسي المستفاد من ثبات النبي ﷺ أمام ضغوط عمه وقريش؟",
+        "difficulty_score": 850,
+        "explanation": "الدرس هو عظم مسؤولية الرسالة والبالغ، وأنها تكليف لا خيار فيه للمصلح.",
+        "choices": [
+            { "choice_text": "أهمية الحماية القبلية", "is_correct": false },
+            { "choice_text": "ضرورة التنازل للوصول لحل وسط", "is_correct": false },
+            { "choice_text": "عظم مسؤولية الرسالة والبالغ", "is_correct": true },
+            { "choice_text": "تجنب المواجهة مع الكبار", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من هذه الوسائل لم يذكرها المصدر كجزء من حرب قريش للمسلمين؟",
+        "difficulty_score": 500,
+        "explanation": "المصدر ذكر التشكيك، إثارة الشبهات، والتعذيب، لكنه لم يتطرق في هذا الدرس للمواجهة العسكرية المباشرة.",
+        "choices": [
+            { "choice_text": "إثارة الشبهات", "is_correct": false },
+            { "choice_text": "التشتيت والتشكيك", "is_correct": false },
+            { "choice_text": "المواجهة العسكرية المنظمة", "is_correct": true },
+            { "choice_text": "الصد عن سماع القرآن", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد القرآني على شبهة أن القرآن 'أساطير الأولين اكتتبها'؟",
+        "difficulty_score": 900,
+        "explanation": "الرد هو تبيان تناقضهم؛ فتارة يقولون أساطير وتارة أضغاث أحالم وتارة افتراه، مما يدل على بطلانهم.",
+        "choices": [
+            { "choice_text": "تحديهم بأن يأتوا بسورة مثله", "is_correct": false },
+            { "choice_text": "تبيان تخبطهم في أوصافهم للقرآن", "is_correct": true },
+            { "choice_text": "تذكيرهم بأخلاق النبي السابقة", "is_correct": false },
+            { "choice_text": "بيان أن القرآن نزل من عند الله", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا كانت تحاول قريش 'إيجاد بدائل' عن القرآن؟",
+        "difficulty_score": 600,
+        "explanation": "من خلال قصص ملوك الفرس التي كان يرويها النضر بن الحارث.",
+        "choices": [
+            { "choice_text": "بإقامة مهرجانات شعرية", "is_correct": false },
+            { "choice_text": "برواية قصص ملوك العجم والفرس", "is_correct": true },
+            { "choice_text": "بتأليف كتاب يشبه القرآن", "is_correct": false },
+            { "choice_text": "بدعوة الكهنة لإلقاء السجع", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي آية نزلت في النضر بن الحارث بسبب استخدامه لقصص العجم؟",
+        "difficulty_score": 700,
+        "explanation": "قوله تعالى: {وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ اللَّهِ}.",
+        "choices": [
+            { "choice_text": "سورة الشعراء {والشعراء يتبعهم الغاوون}", "is_correct": false },
+            { "choice_text": "سورة لقمان {ومن الناس من يشتري لهو الحديث}", "is_correct": true },
+            { "choice_text": "سورة الفرقان {وقالوا أساطير الأولين}", "is_correct": false },
+            { "choice_text": "سورة الحجر {فاصدع بما تؤمر}", "is_correct": false }
+        ]
+    },
+    { "question_text": "ما هو الأسلوب الذي اتبعته قريش لضمان عدم تأثر الناس بالقرآن؟", "difficulty_score": 500, "explanation": "كانوا يوصون الناس بعدم سماع القرآن واللغو فيه (الضجيج) عند قراءته.", "choices": [ { "choice_text": "السماح بسماعه والرد عليه", "is_correct": false }, { "choice_text": "الصد عن السماع واللغو فيه", "is_correct": true }, { "choice_text": "تغيير معاني الكلمات", "is_correct": false }, { "choice_text": "حبس النبي في بيته", "is_correct": false } ] },
+    { "question_text": "كم كان عمر النبي ﷺ عندما جهر بالدعوة؟", "difficulty_score": 300, "explanation": "لبث النبي فيهم 40 سنة قبل النبوة، وبدأ الجهر بعد 3 سنوات من البعثة، أي كان عمره 43 سنة.", "choices": [ { "choice_text": "40 سنة", "is_correct": false }, { "choice_text": "43 سنة", "is_correct": true }, { "choice_text": "45 سنة", "is_correct": false }, { "choice_text": "50 سنة", "is_correct": false } ] },
+    { "question_text": "ما هي العبارة المركزية التي كان يكررها بلال أثناء تعذيبه؟", "difficulty_score": 100, "explanation": "كان بلال رضي الله عنه يقول: 'أحد أحد'.", "choices": [ { "choice_text": "الله أكبر", "is_correct": false }, { "choice_text": "أحد أحد", "is_correct": true }, { "choice_text": "لا إله إلا الله", "is_correct": false }, { "choice_text": "حسبي الله", "is_correct": false } ] },
+    { "question_text": "لماذا تعتبر مرحلة الجهر 'كالقنبلة' في مجتمع مكة؟", "difficulty_score": 550, "explanation": "لأن مكة كانت مركز العرب الراكد، والدعوة جاءت لتغير ثوابتهم وسيادتهم.", "choices": [ { "choice_text": "لأنها أدت لحرب فورية", "is_correct": false }, { "choice_text": "لأنها أحدثت موجات هائلة في مجتمع راكد", "is_correct": true }, { "choice_text": "لأن قريشاً كانت تحب التغيير", "is_correct": false }, { "choice_text": "بسبب كثرة عدد المسلمين حينها", "is_correct": false } ] },
+    { "question_text": "ما هو التكليف الذي يشترك فيه المصلحون اليوم مع النبي ﷺ؟", "difficulty_score": 800, "explanation": "التكليف هو المحافظة على حقائق الدين وتبليغها كما هي.", "choices": [ { "choice_text": "تأليف كتب جديدة في السيرة", "is_correct": false }, { "choice_text": "تبليغ حقائق الدين والصبر على الأذى", "is_correct": true }, { "choice_text": "الاعتزال في الغار", "is_correct": false }, { "choice_text": "تحقيق السيادة السياسية فقط", "is_correct": false } ] },
+    { "question_text": "أي من هؤلاء لم يكن من ضمن السبعة الذين ذكرهم ابن مسعود كأول من أظهر إسلامه؟", "difficulty_score": 450, "explanation": "ابن مسعود ذكر السبعة ولم يكن عمر بن الخطاب منهم في تلك اللحظة الأولية لإظهار الدين.", "choices": [ { "choice_text": "صهيب", "is_correct": false }, { "choice_text": "بلال", "is_correct": false }, { "choice_text": "عمر بن الخطاب", "is_correct": true }, { "choice_text": "المقداد", "is_correct": false } ] },
+    { "question_text": "ما هو المقصود بـ 'ناعوس البحر' في كلام ضماد؟", "difficulty_score": 600, "explanation": "يقصد به وسط البحر وأقصاه وأعماقه، دلالة على عمق كلمات النبي.", "choices": [ { "choice_text": "شاطئ البحر", "is_correct": false }, { "choice_text": "أعماق البحر وأقصاه", "is_correct": true }, { "choice_text": "أمواج البحر", "is_correct": false }, { "choice_text": "السفن الجارية", "is_correct": false } ] },
+    { "question_text": "بماذا وصف المصدر المرحلة التي نعيشها اليوم مقارنة بمرحلة النبي؟", "difficulty_score": 700, "explanation": "وصفها بأنها مرحلة تقلبات، أزمات، فتن، وشبهات.", "choices": [ { "choice_text": "مرحلة استقرار تام", "is_correct": false }, { "choice_text": "مرحلة فتن وأزمات وتغيير للحقائق", "is_correct": true }, { "choice_text": "مرحلة فتوحات عسكرية", "is_correct": false }, { "choice_text": "مرحلة انتهاء الصراع مع الباطل", "is_correct": false } ] },
+    { "question_text": "أي فعل قام به أبو بكر الصديق حسب حديث ابن مسعود؟", "difficulty_score": 400, "explanation": "ذكر الحديث أن الله منع أبا بكر بقومه (أي حماه قومه).", "choices": [ { "choice_text": "تعرض للصهر في الشمس", "is_correct": false }, { "choice_text": "منعه الله بقومه", "is_correct": true }, { "choice_text": "هاجر فوراً للحبشة", "is_correct": false }, { "choice_text": "اختفى في دار الأرقم", "is_correct": false } ] },
+    { "question_text": "ما هي أهم قيمة نخرج بها من الدرس السابع حسب الخاتمة؟", "difficulty_score": 900, "explanation": "القيمة المركزية هي مركزية الصبر والثبات في حياة المؤمن.", "choices": [ { "choice_text": "أهمية التجارة في مكة", "is_correct": false }, { "choice_text": "مركزية الصبر والثبات", "is_correct": true }, { "choice_text": "كيفية التعامل مع الأقارب", "is_correct": false }, { "choice_text": "فنون الخطابة", "is_correct": false } ] },
+    { "question_text": "لماذا لم تستقر قريش على رأي واحد بنسبة 100% رغم اجتماعهم؟", "difficulty_score": 650, "explanation": "لأن القضية لم تكن مستقرة في نفوسهم؛ فمنهم من يقول مجنون ومنهم من يقول كذا.", "choices": [ { "choice_text": "بسبب غياب أبي جهل", "is_correct": false }, { "choice_text": "لأن الحق بداخلهم كان يمنعهم من الاستقرار على كذبة", "is_correct": true }, { "choice_text": "خوفاً من المسلمين", "is_correct": false }, { "choice_text": "بسبب ضيق الوقت قبل الحج", "is_correct": false } ] },
+    { "question_text": "ما هو 'جرس الإنذار' في السيرة النبوية؟", "difficulty_score": 350, "explanation": "هو نداء 'واصباحاه' الذي استخدمه النبي ﷺ في الصفا.", "choices": [ { "choice_text": "صوت الأذان", "is_correct": false }, { "choice_text": "نداء واصباحاه", "is_correct": true }, { "choice_text": "ضرب الطبول", "is_correct": false }, { "choice_text": "إشعال النار", "is_correct": false } ] },
+    { "question_text": "ما هو دور أبي طالب الأساسي كما ورد في الدرس؟", "difficulty_score": 450, "explanation": "حماية النبي ﷺ بجاهه وسلطانه ومنع قريش من إيذائه الجسدي.", "choices": [ { "choice_text": "نشر الإسلام بين أعيان قريش", "is_correct": false }, { "choice_text": "توفير الحماية (الجوار) للنبي ﷺ", "is_correct": true }, { "choice_text": "كتابة الوحي", "is_correct": false }, { "choice_text": "تمويل الدعوة", "is_correct": false } ] },
+    { "question_text": "أي كلمة وصف بها الوليد بن المغيرة القرآن في النهاية؟", "difficulty_score": 300, "explanation": "قال: {إن هذا إلا سحر يؤثر}.", "choices": [ { "choice_text": "شعر بليغ", "is_correct": false }, { "choice_text": "سحر يؤثر", "is_correct": true }, { "choice_text": "كهانة", "is_correct": false }, { "choice_text": "قول بشر عادي", "is_correct": false } ] },
+    { "question_text": "ما الذي استقر عليه المشركون لمواجهة الحجاج؟", "difficulty_score": 400, "explanation": "اتفقوا على قول واحد هو أنه 'ساحر'.", "choices": [ { "choice_text": "أنه شاعر", "is_correct": false }, { "choice_text": "أنه مجنون", "is_correct": false }, { "choice_text": "أنه ساحر", "is_correct": true }, { "choice_text": "أنه كاهن", "is_correct": false } ] },
+    { "question_text": "ما هو 'الاستثناء' في موقف الصفا كما ذكره المحاضر؟", "difficulty_score": 800, "explanation": "الموقف استثنائي لأن له شأن خاص في إعلان الدعوة وليس لخروجه عن الأصل.", "choices": [ { "choice_text": "خروج النبي عن عادات العرب", "is_correct": false }, { "choice_text": "أن له شأن خاص في السيرة", "is_correct": true }, { "choice_text": "أنه حدث في وقت السلم", "is_correct": false }, { "choice_text": "إسلام عدد كبير فيه", "is_correct": false } ] }
+
+    ,{
+        "question_text": "ما هي الحجة التي استخدمها القرآن للرد على ادعاء المشركين بأن بشراً أعجمياً يعلم النبي؟",
+        "difficulty_score": 750,
+        "explanation": "رد القرآن منطقياً بأن لسان الشخص الذي يتهمونه هو لسان أعجمي، بينما القرآن بلسان عربي مبين، مما يجعل الادعاء مستحيلاً عقلاً [37، 38].",
+        "choices": [
+            { "choice_text": "أن النبي لم يسافر قط", "is_correct": false },
+            { "choice_text": "أن لسان الذي يلحدون إليه أعجمي والقرآن عربي مبين", "is_correct": true },
+            { "choice_text": "أن الشخص المدعى عليه كان طفلاً", "is_correct": false },
+            { "choice_text": "أن النبي كان أمياً لا يقرأ", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا وصفت مرحلة الجهر بالدعوة في مكة بأنها كانت 'كالقنبلة' في مجتمع راكد؟",
+        "difficulty_score": 600,
+        "explanation": "لأن مكة كانت مركز السيادة والنعيم في جزيرة العرب، والدعوة جاءت لتزلزل هذه الثوابت وتحدث موجات هائلة من التغيير [9، 10].",
+        "choices": [
+            { "choice_text": "لأنها بدأت بمواجهة عسكرية", "is_correct": false },
+            { "choice_text": "لأنها أحدثت موجات هائلة في مجتمع سيادي مستقر", "is_correct": true },
+            { "choice_text": "بسبب كثرة عدد المهاجرين", "is_correct": false },
+            { "choice_text": "لأن النبي استخدم أسلوب القوة منذ البداية", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "من هو الصحابي الذي ذكره ابن مسعود وقال إن المشركين طافوا به في شعاب مكة وهو يقول 'أحد أحد'؟",
+        "difficulty_score": 150,
+        "explanation": "ذكر المصدر قصة بلال بن رباح رضي الله عنه وثباته الفريد تحت التعذيب في شعاب مكة [1].",
+        "choices": [
+            { "choice_text": "عمار بن ياسر", "is_correct": false },
+            { "choice_text": "صهيب الرومي", "is_correct": false },
+            { "choice_text": "بلال بن رباح", "is_correct": true },
+            { "choice_text": "المقداد بن الأسود", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الأسلوب 'البديل' الذي حاوله النضر بن الحارث لصرف الناس عن القرآن؟",
+        "difficulty_score": 500,
+        "explanation": "حاول النضر بن الحارث رواية قصص ملوك الفرس (العجم) ليوهم الناس أنها خير من قصص القرآن [2].",
+        "choices": [
+            { "choice_text": "الشعر الجاهلي المعلق", "is_correct": false },
+            { "choice_text": "رواية أحاديث الكهنة", "is_correct": false },
+            { "choice_text": "حكايا ملوك العجم والفرس", "is_correct": true },
+            { "choice_text": "الغناء والرقص", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "في قوله تعالى {فَاصْدَعْ بِمَا تُؤْمَرُ}، ما الذي أمر الله نبيه أن يعرض عنه؟",
+        "difficulty_score": 300,
+        "explanation": "الآية تأمر بالجهر بالدعوة (الصدع بالحق) والإعراض عن المشركين وعدم الالتفات لصدودهم [3].",
+        "choices": [
+            { "choice_text": "أهل الكتاب", "is_correct": false },
+            { "choice_text": "المنافقين", "is_correct": false },
+            { "choice_text": "المشركين", "is_correct": true },
+            { "choice_text": "الفقراء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بناءً على المصدر، ما هو 'أعظم تكليف' واجهه النبي ﷺ في المرحلة المكية؟",
+        "difficulty_score": 850,
+        "explanation": "ذكر المحاضر أن أعظم تكليف هو تبليغ الدين كما أنزله الله، وهو أصعب من الصبر على التعذيب والاستهزاء [4].",
+        "choices": [
+            { "choice_text": "القتال في سبيل الله", "is_correct": false },
+            { "choice_text": "تحمل التعذيب الجسدي", "is_correct": false },
+            { "choice_text": "تبليغ الرسالة وأداء الأمانة كما هي", "is_correct": true },
+            { "choice_text": "جمع المال للدعوة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ماذا نستنتج من قول ضماد الأزدي أن كلمات النبي ﷺ بلغت 'ناعوس البحر'؟",
+        "difficulty_score": 700,
+        "explanation": "تعبير 'ناعوس البحر' يشير إلى أقصى قاعه وعمقه، مما يدل على شدة تأثر ضماد ببلاغة وعمق خطبة النبي ﷺ [5].",
+        "choices": [
+            { "choice_text": "أن كلمات النبي انتشرت في البحار", "is_correct": false },
+            { "choice_text": "أن الكلمات بلغت أعماق النفس البشرية بصدقها", "is_correct": true },
+            { "choice_text": "أن النبي تحدث عن أسرار البحار", "is_correct": false },
+            { "choice_text": "أن ضماداً كان بحاراً خبيراً", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو السبب الذي جعل النبي ﷺ يرفض عرض قريش (عبر عمه) بالتوقف عن الدعوة؟",
+        "difficulty_score": 800,
+        "explanation": "لأن القضية ليست 'خواطر نفسية' أو 'خياراً شخصياً' بل هو تكليف إلهي ملزم لا يملك النبي تركه [32، 33].",
+        "choices": [
+            { "choice_text": "بسبب رغبته في السيادة", "is_correct": false },
+            { "choice_text": "لأن العرض المالي كان قليلاً", "is_correct": false },
+            { "choice_text": "لأن الأمر تكليف ووجوب إلهي لا مناص منه", "is_correct": true },
+            { "choice_text": "بسبب كرهه لزعماء قريش", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الأوصاف التالية سجلها القرآن عن الوليد بن المغيرة عندما فكر في وصف القرآن؟",
+        "difficulty_score": 400,
+        "explanation": "وصفه القرآن بأنه 'عبس وبسر' (أي ظهر الضيق والكراهية على وجهه) و 'أدبر واستكبر' [20، 21].",
+        "choices": [
+            { "choice_text": "ضحك واستبشر", "is_correct": false },
+            { "choice_text": "عبس وبسر", "is_correct": true },
+            { "choice_text": "آمن وصدق", "is_correct": false },
+            { "choice_text": "سكت وتأمل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هي الفائدة التربوية المقصودة من قصة 'سمية' للمرأة المسلمة اليوم؟",
+        "difficulty_score": 550,
+        "explanation": "التأكيد على أن المرأة ليست في الخطوط الخلفية، بل هي شريكة في حماية الدين والثبات عليه [29، 30].",
+        "choices": [
+            { "choice_text": "ضرورة تعلم فنون القتال", "is_correct": false },
+            { "choice_text": "أن دور المرأة يقتصر على البيت", "is_correct": false },
+            { "choice_text": "أن المرأة مسؤولة عن حماية الدين والثبات عليه", "is_correct": true },
+            { "choice_text": "أهمية الصمت عند البلاء", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا استشهد النبي ﷺ ليؤكد لقريش صدقه في دعوة الصفا؟",
+        "difficulty_score": 250,
+        "explanation": "استشهد بتاريخه بينهم وصدقه المعروف: 'ما جربنا عليك كذباً' [6].",
+        "choices": [
+            { "choice_text": "بالمعجزات الحسية", "is_correct": false },
+            { "choice_text": "بشهادة أهل الكتاب", "is_correct": false },
+            { "choice_text": "بما عُرف عنه من الصدق وعدم التجربة عليه بالكذب", "is_correct": true },
+            { "choice_text": "بكثرة أتباعه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا تكرر في القرآن ذكر استهزاء الأمم السابقة برسلهم؟",
+        "difficulty_score": 650,
+        "explanation": "لتثبيت قلب النبي ﷺ وبيان أن هذا هو طريق الدعاة، ولتهوين أثر سخرية قريش عليه [14، 15].",
+        "choices": [
+            { "choice_text": "لمجرد الإخبار التاريخي", "is_correct": false },
+            { "choice_text": "لتثبيت فؤاد النبي ومن معه وتصيبرهم", "is_correct": true },
+            { "choice_text": "لبيان قوة الأمم السابقة", "is_correct": false },
+            { "choice_text": "لإظهار بلاغة القصص القرآني", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو 'لهو الحديث' الذي نزلت فيه آية سورة لقمان حسب المصدر؟",
+        "difficulty_score": 450,
+        "explanation": "المقصود به ما كان يفعله النضر بن الحارث من رواية قصص العجم لصرف الناس عن القرآن [2].",
+        "choices": [
+            { "choice_text": "الغيبة والنميمة", "is_correct": false },
+            { "choice_text": "قصص ملوك الفرس التي استُخدمت للصد عن سبيل الله", "is_correct": true },
+            { "choice_text": "المزاح الكثير", "is_correct": false },
+            { "choice_text": "الشعر الذي يمدح المشركين", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "أي من الصحابة التالية أسماؤهم مُنع 'بقومه' من أذى المشركين كما ذكر ابن مسعود؟",
+        "difficulty_score": 350,
+        "explanation": "ذكر ابن مسعود أن أبا بكر رضي الله عنه منعه الله بقومه (بني تيم) [7].",
+        "choices": [
+            { "choice_text": "بلال بن رباح", "is_correct": false },
+            { "choice_text": "أبو بكر الصديق", "is_correct": true },
+            { "choice_text": "عمار بن ياسر", "is_correct": false },
+            { "choice_text": "صهيب الرومي", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الدرس المركزي الذي يجب أن يتعلمه المصلح من 'مرحلة مكة الأولى'؟",
+        "difficulty_score": 900,
+        "explanation": "الدرس الأهم هو مركزية الصبر والثبات في حياة المؤمن المصلح [8].",
+        "choices": [
+            { "choice_text": "كيفية التفاوض مع الأعداء", "is_correct": false },
+            { "choice_text": "مركزية الصبر والثبات على الحق", "is_correct": true },
+            { "choice_text": "أهمية الهجرة المبكرة", "is_correct": false },
+            { "choice_text": "جمع الأنصار من خارج مكة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "لماذا طُلب من سرية المسلمين رد 'المطهرة' التي أُخذت من قوم ضماد؟",
+        "difficulty_score": 750,
+        "explanation": "لأن ضماداً بايع عن نفسه وعن قومه، فصار لهم عهد وذمة يمنع أخذ أموالهم [9].",
+        "choices": [
+            { "choice_text": "لأنها كانت مسروقة", "is_correct": false },
+            { "choice_text": "لأن قوم ضماد دخلوا في الإسلام والعهد", "is_correct": true },
+            { "choice_text": "لأن المسلمين لم يحتاجوا إليها", "is_correct": false },
+            { "choice_text": "بسبب عطل أصاب المطهرة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو الرد القرآني على مطالبة المشركين بإنزال 'كتاب من السماء'؟",
+        "difficulty_score": 800,
+        "explanation": "بين القرآن أنهم قد سألوا موسى أكبر من ذلك (أرنا الله جهرة)، وأن قلوبهم لا تريد الحق بل التعنت [10].",
+        "choices": [
+            { "choice_text": "أن الله سينزل كتاباً لاحقاً", "is_correct": false },
+            { "choice_text": "تذكيرهم بأنهم سألوا ما هو أكبر من ذلك تعنتاً", "is_correct": true },
+            { "choice_text": "أن القرآن كافٍ وحده", "is_correct": false },
+            { "choice_text": "أنه لا توجد كتب أخرى ستنزل", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما الذي كان يقصده المشركون بقولهم 'والغوا فيه' عند قراءة القرآن؟",
+        "difficulty_score": 500,
+        "explanation": "أي ارفعوا أصواتكم بالضجيج والصفير واللغو حتى لا يسمع الناس القرآن ويتأثروا به [10].",
+        "choices": [
+            { "choice_text": "تحدثوا بالباطل عن القرآن", "is_correct": false },
+            { "choice_text": "أحدثوا ضجيجاً وصراخاً لمنع سماعه", "is_correct": true },
+            { "choice_text": "اكتبوا معارضات شعرية له", "is_correct": false },
+            { "choice_text": "مزقوا المصاحف المكتوبة", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "بماذا وصف النبي ﷺ علاقته بالدعوة عندما سأله عمه أبو طالب التسوية؟",
+        "difficulty_score": 600,
+        "explanation": "استخدم تشبيه الشمس، مؤكداً أنه لا يملك القدرة على تركها كما لا يملك أحد أخذ شعلة من الشمس [11].",
+        "choices": [
+            { "choice_text": "بأنها أحب إليه من ماله", "is_correct": false },
+            { "choice_text": "بأنه سيموت من أجلها", "is_correct": false },
+            { "choice_text": "بأنه عاجز عن تركها كالعجز عن أخذ شعلة من الشمس", "is_correct": true },
+            { "choice_text": "بأنها مجرد نصيحة لقومه", "is_correct": false }
+        ]
+    },
+    {
+        "question_text": "ما هو دور 'أبو لهب' المباشر بعد انتهاء نداء النبي ﷺ على الصفا؟",
+        "difficulty_score": 200,
+        "explanation": "قام بالاعتراض اللفظي القبيح قائلاً: 'تباً لك سائر اليوم، ألهذا جمعتنا؟' [12].",
+        "choices": [
+            { "choice_text": "التفكير والتقدير", "is_correct": false },
+            { "choice_text": "الدفاع عن أصنام الكعبة", "is_correct": false },
+            { "choice_text": "الاعتراض والسب (تباً لك)", "is_correct": true },
+            { "choice_text": "مطالبة قريش بقتل النبي", "is_correct": false }
+        ]
+    },
+    { "question_text": "لماذا يُعتبر 'التبليغ' واجباً كفائياً تأثم الأمة جميعاً بتركه؟", "difficulty_score": 850, "explanation": "لأن المحافظة على حقائق الدين وبثها هي مسؤولية الأمة، فإذا لم يقم بها قدر كافٍ ضاعت الحقائق [13].", "choices": [ { "choice_text": "لأنه يوفر المال للأمة", "is_correct": false }, { "choice_text": "لأن ضياع حقائق الدين هو هلاك للأمة جميعاً", "is_correct": true }, { "choice_text": "لأنه يزيد من عدد المصلين", "is_correct": false }, { "choice_text": "لأن القوانين الدولية تفرض ذلك", "is_correct": false } ] },
+    { "question_text": "ما هي الآية التي تدل على أن المشركين كانوا يجحدون بآيات الله وهم يوقنون بصدق النبي؟", "difficulty_score": 750, "explanation": "قوله تعالى: {فإنهم لا يكذبونك ولكن الظالمين بآيات الله يجحدون} [14].", "choices": [ { "choice_text": "قوله {إنا كفيناك المستهزئين}", "is_correct": false }, { "choice_text": "قوله {فإنهم لا يكذبونك}", "is_correct": true }, { "choice_text": "قوله {والشعراء يتبعهم الغاوون}", "is_correct": false }, { "choice_text": "قوله {عبس وبسر}", "is_correct": false } ] },
+    { "question_text": "من هو الذي نزل فيه قوله تعالى {ذرني ومن خلقت وحيداً}؟", "difficulty_score": 300, "explanation": "نزلت في الوليد بن المغيرة رداً على كبره وتصنيفه للقرآن كسحر [15].", "choices": [ { "choice_text": "أبو لهب", "is_correct": false }, { "choice_text": "أبو جهل", "is_correct": false }, { "choice_text": "الوليد بن المغيرة", "is_correct": true }, { "choice_text": "النضر بن الحارث", "is_correct": false } ] },
+    { "question_text": "ما الذي استفاده ضماد الأزدي من 'خطبة الحاجة'؟", "difficulty_score": 600, "explanation": "أدرك من خلالها توحيد الله وعظمة المعاني، مما جعله يدرك بطلان اتهامات قريش [23، 24].", "choices": [ { "choice_text": "تعلم كيفية الرقية", "is_correct": false }, { "choice_text": "أدرك عظمة التوحيد وبطلان افتراءات قريش", "is_correct": true }, { "choice_text": "عرف نسب النبي ﷺ", "is_correct": false }, { "choice_text": "عرف طريق العودة لبلاده", "is_correct": false } ] },
+    { "question_text": "ما معنى قوله ﷺ 'نضّر الله امرأً سمع منا حديثاً فبلغه كما سمعه'؟", "difficulty_score": 550, "explanation": "الدعاء بالبهاء والجمال لمن يحافظ على السنة ويبلغها بأمانة دون تغيير [16].", "choices": [ { "choice_text": "الدعاء له بالمال والولد", "is_correct": false }, { "choice_text": "الدعاء له بالنضارة والبهاء لتبليغه الحقائق", "is_correct": true }, { "choice_text": "أنه سيصبح غنياً", "is_correct": false }, { "choice_text": "أنه سيطول عمره", "is_correct": false } ] },
+    { "question_text": "بماذا حاولت قريش الضغط على أبي طالب؟", "difficulty_score": 400, "explanation": "بإخباره أن ابن أخيه (النبي ﷺ) يسب آلهتهم ويسفه أحلامهم [17].", "choices": [ { "choice_text": "بتهديده بالقتل", "is_correct": false }, { "choice_text": "بأن ابن أخيه يؤذي آلهتهم ودينهم", "is_correct": true }, { "choice_text": "بعرض منصب الملك عليه", "is_correct": false }, { "choice_text": "بمنعه من دخول الكعبة", "is_correct": false } ] },
+    { "question_text": "كيف وصفت 'مرحلة مكة' من حيث دور الصحابة في الدعوة؟", "difficulty_score": 700, "explanation": "كانوا في مرحلة 'بناء استثنائي' و 'مبتدئين'، ولم يكن لهم أدوار دعوية كبيرة كالمراحل المتأخرة [18].", "choices": [ { "choice_text": "كانوا قادة للجيوش", "is_correct": false }, { "choice_text": "كانوا في مرحلة بناء وتعلم وثبات", "is_correct": true }, { "choice_text": "كانوا يجادلون أعيان قريش في دار الندوة", "is_correct": false }, { "choice_text": "كانوا يكتبون المصحف كاملاً", "is_correct": false } ] },
+    { "question_text": "ما المقصود بـ 'واصباحاه' في سياق السيرة؟", "difficulty_score": 250, "explanation": "صرخة إنذار بوقوع خطر داهم، تشبه جرس الإنذار اليوم [19].", "choices": [ { "choice_text": "تحية الصباح", "is_correct": false }, { "choice_text": "صرخة إنذار بالأزمات الكبرى", "is_correct": true }, { "choice_text": "اسم لجبل الصفا", "is_correct": false }, { "choice_text": "دعاء لبدء اليوم", "is_correct": false } ] },
+    { "question_text": "أي من الأسلحة التالية استخدمها المشركون لإثارة الشكوك؟", "difficulty_score": 450, "explanation": "طرح شبهات مثل 'أساطير الأولين' و 'إنما يعلمه بشر' [20].", "choices": [ { "choice_text": "إثارة الشبهات والتشكيك", "is_correct": true }, { "choice_text": "المناظرات العلمية الهادئة", "is_correct": false }, { "choice_text": "الاعتراف بصدق القرآن سراً", "is_correct": false }, { "choice_text": "منع التجارة مع المسلمين فقط", "is_correct": false } ] },
+    { "question_text": "ما هي قيمة 'الصبر' المذكورة في خاتمة الدرس؟", "difficulty_score": 900, "explanation": "أنها قيمة لا مناص عنها للمؤمن، خاصة في أوقات الفتن وتغيير الحقائق [8].", "choices": [ { "choice_text": "أنها قيمة اختيارية", "is_correct": false }, { "choice_text": "أنها أساس للثبات وحماية الدين وبث حقائقه", "is_correct": true }, { "choice_text": "أنها وسيلة لكسب المال", "is_correct": false }, { "choice_text": "أنها تعني الاستسلام للواقع", "is_correct": false } ] },
+    { "question_text": "لماذا لم ينجح المشركون في الاتفاق على وصف للنبي ﷺ؟", "difficulty_score": 650, "explanation": "بسبب تناقض أوصافهم مع واقع النبي، وبسبب النور الذي يجدونه في القرآن بداخلهم [21].", "choices": [ { "choice_text": "لعدم وجود زعيم لهم", "is_correct": false }, { "choice_text": "بسبب تناقض كذبهم مع الواقع الصادق للنبي", "is_correct": true }, { "choice_text": "لخوفهم من أبي طالب", "is_correct": false }, { "choice_text": "لأنهم لم يجتمعوا قط", "is_correct": false } ] },
+    { "question_text": "ماذا كان يهدف النبي ﷺ من نداء بطون قريش بأسمائهم؟", "difficulty_score": 350, "explanation": "لإقامة الحجة عليهم فرداً فرداً، ولبيان أن المسؤولية أمام الله مسؤولية فردية [6].", "choices": [ { "choice_text": "لأنه نسي أسماءهم العامة", "is_correct": false }, { "choice_text": "لإقامة الحجة وتبيين خطورة الموقف لكل فرد", "is_correct": true }, { "choice_text": "لأنه كان يحب التفاخر بالأنساب", "is_correct": false }, { "choice_text": "لجمع التبرعات منهم", "is_correct": false } ] },
+    { "question_text": "ما هي 'المعاجلة' التي قام بها القرآن للاستهزاء؟", "difficulty_score": 800, "explanation": "تذكير النبي ﷺ بحال من سبقه من الرسل، وأمره بالتسبيح وعبادة ربه حتى يأتيه اليقين [22].", "choices": [ { "choice_text": "أمره بالقتال فوراً", "is_correct": false }, { "choice_text": "أمره بالتسبيح والثبات على العبادة", "is_correct": true }, { "choice_text": "أمره بالهجرة للصين", "is_correct": false }, { "choice_text": "أمره بترك الدعوة مؤقتاً", "is_correct": false } ] },
+    { "question_text": "أي وصف أطلقه المشركون على النبي ﷺ أمام الحجاج كـ 'قرار أخير'؟", "difficulty_score": 200, "explanation": "اتفقوا في النهاية على وصف 'ساحر' يفرق بين المرء وأخيه وزوجته [23].", "choices": [ { "choice_text": "كاهن", "is_correct": false }, { "choice_text": "ساحر", "is_correct": true }, { "choice_text": "شاعر", "is_correct": false }, { "choice_text": "مجنون", "is_correct": false } ] },
+    { "question_text": "ماذا نستنتج من قول المصدر 'الدين لا يقوم إلا بحملة يعيشون لأجله'؟", "difficulty_score": 850, "explanation": "أن النصر والتمكين مرتبط بوجود فئة تضحي وتصبر وتبلغ الحقائق كما هي [24].", "choices": [ { "choice_text": "أن الدين ينتشر بالصدفة", "is_correct": false }, { "choice_text": "أن التضحية والثبات هما وقود بقاء الدين وانتشاره", "is_correct": true }, { "choice_text": "أن المال هو أهم عامل", "is_correct": false }, { "choice_text": "أن الأعداد الكبيرة هي الأهم دائماً", "is_correct": false } ] },
+    { "question_text": "بماذا كانت تُعذب سمية رضي الله عنها؟", "difficulty_score": 150, "explanation": "بالصهر في الشمس ولبس أدراع الحديد، ثم طعنها أبو جهل برمح [10، 28].", "choices": [ { "choice_text": "بالجوع والعطش فقط", "is_correct": false }, { "choice_text": "بالصهر في الشمس والطعن بالرمح", "is_correct": true }, { "choice_text": "بالسجن المؤبد", "is_correct": false }, { "choice_text": "بالنفي من مكة", "is_correct": false } ] },
+    { "question_text": "ما هو واجب المؤمن في 'مرحلة الأزمات والفتن' حسب المصدر؟", "difficulty_score": 750, "explanation": "حماية الدين وبث حقائقه كما هي، والصبر على ما يناله من أذى [24].", "choices": [ { "choice_text": "الاعتزال التام", "is_correct": false }, { "choice_text": "حماية الدين وبث حقائقه والثبات", "is_correct": true }, { "choice_text": "مجاراة الواقع وتغيير الدين", "is_correct": false }, { "choice_text": "الانتظار حتى تنتهي الفتنة دون فعل شيء", "is_correct": false } ] },
+    { "question_text": "لماذا لم يقل النبي ﷺ 'أنا بشير' في الصفا بل قال 'نذير'؟", "difficulty_score": 600, "explanation": "لأن الموقف كان موقف 'دق جرس خطر' وإنقاذ من هلاك، وهو ما يتناسب معه الإنذار [25].", "choices": [ { "choice_text": "لأنه لا يوجد تبشير في الإسلام", "is_correct": false }, { "choice_text": "لأن المقام يقتضي الحزم والتحذير من خطر داهم", "is_correct": true }, { "choice_text": "لأن قريشاً لم تكن تحب البشائر", "is_correct": false }, { "choice_text": "لأنه نسي كلمة بشير", "is_correct": false } ] },
+    { "question_text": "أي سورة ذكرت 'حمالة الحطب'؟", "difficulty_score": 100, "explanation": "ذكرت في سورة المسد (أو تبت) في وصف زوجة أبي لهب [26].", "choices": [ { "choice_text": "سورة العلق", "is_correct": false }, { "choice_text": "سورة المسد", "is_correct": true }, { "choice_text": "سورة النصر", "is_correct": false }, { "choice_text": "سورة الكافرون", "is_correct": false } ] },
+    { "question_text": "ما هو النداء الذي وصفه المصدر بأنه 'الأول الذي نادى به النبي ﷺ جهراً'؟", "difficulty_score": 200, "explanation": "هو نداء الإنذار والتحذير من فوق جبل الصفا [25].", "choices": [ { "choice_text": "الأذان للصلاة", "is_correct": false }, { "choice_text": "نداء الإنذار والتحذير على الصفا", "is_correct": true }, { "choice_text": "النداء بالهجرة", "is_correct": false }, { "choice_text": "النداء بالجهاد", "is_correct": false } ] }
+]
+    }
