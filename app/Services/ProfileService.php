@@ -6,6 +6,9 @@ use App\Models\Exam;
 use App\Models\CartItem;
 use App\Models\LibraryBook;
 use App\Models\User;
+use App\Models\Book;
+
+
 use App\Models\BookRedemption;
 use Illuminate\Support\Facades\DB;
 use App\Http\Resources\LibraryBookResource;
@@ -60,7 +63,7 @@ public function getAllLibraryBooks(): array
         'books' => LibraryBookResource::collection(
             LibraryBook::where('count', '>', 0)->get()
         ),
-        'message' => 'Library books retrieved successfully'
+        'message' => 'Library books retrieved successfully',
     ];
 }
 
@@ -183,7 +186,7 @@ public function requestBookRedemption(array $bookIds): array
 
         $book = Book::find($bookIds);
         $notificationRequest = new Request([
-            'userId' => 4, //لازم تعدل لادمن المكتبة
+            'userId' => 3,
             'title' => "طلب تبديل كتاب",
             'body' => "هنالك طلب تبديل من المستخدم {$user->name} من اجل  مجموعة كتب",
             'type' => 'request_for_book_redemption',
@@ -195,10 +198,8 @@ public function requestBookRedemption(array $bookIds): array
 
         $this->notificationManager->sendNotification($notificationRequest);
 return [
-    'library_location' => 'البرامكة، بجانب مشفى التوليد',
-    'working_hours' => 'من الساعة 10:00 صباحًا حتى 5:00 مساءً',
-    'message' => 'تم إرسال طلب تبديل الكتب بنجاح. يرجى مراجعة المكتبة في البرامكة، بجانب مشفى التوليد، خلال أوقات الدوام لإتمام عملية استلام الكتب.'
-];
+
+    'message' => 'تم تسليم طلبك الرجاء مراقبة الاشعارات لتأكيد القبول' ];
 }
 
 public function getLastUserExams(int $limit = 3): array
