@@ -16,6 +16,7 @@ class RolesPermissionsSeeder extends Seeder
         $dataEntryAdminRole = Role::create(['name' => 'dataEntryAdmin']);
         $followStudentAdminRole = Role::create(['name' => 'followStudentAdminRole']);
         $libraryAdminRole = Role::create(['name' => 'libraryAdminRole']);
+        $itAdminRole = Role::create(['name' => 'itAdminRole']);
         $clientRole = Role::create(['name' => 'Client']);
 
     // 2. Create permissions
@@ -30,8 +31,9 @@ class RolesPermissionsSeeder extends Seeder
                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' ,
                         'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview',
                         'getBooks' , 'getChapters' , 'storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
-          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks'
-                        ];
+          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks',
+          'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring'
+                    ];
 
         // foreach ($permissions as $permissionName) {
         //     Permission::findOrCreate($permissionName, 'web');
@@ -66,6 +68,9 @@ foreach ($permissions as $permissionName) {
 
         $libraryAdminRole -> syncPermissions(['storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
           'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks']);
+
+        $itAdminRole -> syncPermissions(['getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring']);
+
 
         $defaultPhoto = url('storage/uploads/det/defualtProfilePhoto.png');
 
@@ -123,6 +128,25 @@ foreach ($permissions as $permissionName) {
     //assign permissions with the role to the user
         $permissions = $libraryAdminRole->permissions()->pluck('name')->toArray();
         $libraryAdmin->givePermissionTo($permissions);
+
+
+
+        $itAdmin = User::factory()->create([
+            'role_id' => $itAdminRole->id,
+            'nationality_id' => 1,
+            'age' => '20',
+            'name' => 'itAdmin',
+            'nick_name' => 'Admin',
+            'email' => 'ItAdmin@example.com',
+            'password' => bcrypt('password') ,
+            'photo' => $defaultPhoto
+        ]);
+
+        $itAdmin->assignRole($itAdminRole);
+
+    //assign permissions with the role to the user
+        $permissions = $itAdminRole->permissions()->pluck('name')->toArray();
+        $itAdmin->givePermissionTo($permissions);
 
 
 

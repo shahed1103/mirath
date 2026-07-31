@@ -20,6 +20,28 @@ class ITAdminController extends Controller
     ) {
     }
 
+    public function openTelescope(): JsonResponse
+{
+    try {
+
+        return Response::Success(
+            [
+                'url' => url('/telescope'),
+            ],
+            'Telescope URL retrieved successfully.'
+        );
+
+    } catch (Throwable $th) {
+
+        return Response::Error(
+            [],
+            $th->getMessage(),
+            [$th->getMessage()]
+        );
+    }
+}
+
+
     public function getSystemHealth(): JsonResponse
     {
         try {

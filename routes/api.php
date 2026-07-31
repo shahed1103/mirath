@@ -167,14 +167,10 @@ Route::middleware('auth:sanctum')->get('/getAllLibraryBooks', [LibraryAdminContr
 
 ////////////it
 
-Route::get('/openTelescope', function () {
-    return redirect('/telescope');
-});
 
-
-    Route::get('getSystemHealth', [ITAdminController::class, 'getSystemHealth']);
-    Route::get('getApiMonitoring', [ITAdminController::class, 'getApiMonitoring']);
-      Route::get('getErrorMonitoring', [ITAdminController::class, 'getErrorMonitoring']);
-
+Route::get('openTelescope', [ITAdminController::class, 'openTelescope']);
+Route::middleware('auth:sanctum')->get('/getSystemHealth', [ITAdminController::class, 'getSystemHealth'])->middleware('can:getSystemHealth');
+Route::middleware('auth:sanctum')->get('/getApiMonitoring', [ITAdminController::class, 'getApiMonitoring'])->middleware('can:getApiMonitoring');
+Route::middleware('auth:sanctum')->get('/getErrorMonitoring', [ITAdminController::class, 'getErrorMonitoring'])->middleware('can:getErrorMonitoring');
 
 
