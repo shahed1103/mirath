@@ -173,4 +173,7 @@ Route::get('/openTelescope', function () {
 
 
     Route::get('getSystemHealth', [ITAdminController::class, 'getSystemHealth']);
+    Route::get('getApiMonitoring', [ITAdminController::class, 'getApiMonitoring']);
+
+
 
