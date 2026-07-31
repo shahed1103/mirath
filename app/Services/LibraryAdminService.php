@@ -197,7 +197,7 @@ $redemptions = BookRedemption::with([
 ])
 ->where('status', 'done')
 ->latest()
-->paginate(20);
+->get();
 
     return [
         'book_redemptions' => $redemptions,

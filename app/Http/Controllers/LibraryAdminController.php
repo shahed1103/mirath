@@ -180,7 +180,7 @@ public function getCompletedBookRedemptions(): JsonResponse
 {
     try {
 
-        $result = $this->libraryAdminService->getCompletedBookRedemptions();
+        $result = $this->libraryService->getCompletedBookRedemptions();
 
         return Response::Success(
             $result,
