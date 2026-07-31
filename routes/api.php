@@ -162,6 +162,7 @@ Route::middleware('auth:sanctum')->get('/getMonthlyRedeemedPoints', [LibraryAdmi
 Route::middleware('auth:sanctum')->get('/getBookRedemptionStatistics', [LibraryAdminController::class, 'getBookRedemptionStatistics'])->middleware('can:getBookRedemptionStatistics');
 Route::middleware('auth:sanctum')->post('/confirmBookRedemption/{redemptionId}', [LibraryAdminController::class, 'confirmBookRedemption'])->middleware('can:confirmBookRedemption');
 Route::middleware('auth:sanctum')->get('/getAllLibraryBooks', [LibraryAdminController::class, 'getAllLibraryBooks'])->middleware('can:getAllLibraryBooks');
+Route::middleware('auth:sanctum')->get('/getCompletedBookRedemptions', [LibraryAdminController::class, 'getCompletedBookRedemptions'])->middleware('can:getCompletedBookRedemptions');
 
 
 

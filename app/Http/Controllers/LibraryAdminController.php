@@ -175,4 +175,26 @@ public function confirmBookRedemption(int $redemptionId): JsonResponse
         return Response::Error($data, $message, $errors);
     }
 }
+
+public function getCompletedBookRedemptions(): JsonResponse
+{
+    try {
+
+        $result = $this->libraryAdminService->getCompletedBookRedemptions();
+
+        return Response::Success(
+            $result,
+            'Completed book redemptions retrieved successfully.'
+        );
+
+    } catch (Throwable $th) {
+         report($th);
+
+        return Response::Error(
+            [],
+            $th->getMessage(),
+            [$th->getMessage()]
+        );
+    }
+}
 }

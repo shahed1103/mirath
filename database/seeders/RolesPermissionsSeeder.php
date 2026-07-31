@@ -32,7 +32,7 @@ class RolesPermissionsSeeder extends Seeder
                         'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview',
                         'getBooks' , 'getChapters' , 'storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
           'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks',
-          'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring'
+          'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring' , 'getCompletedBookRedemptions'
                     ];
 
         // foreach ($permissions as $permissionName) {
@@ -67,7 +67,7 @@ foreach ($permissions as $permissionName) {
         $followStudentAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'userStatisticsOverview']);
 
         $libraryAdminRole -> syncPermissions(['storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
-          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks']);
+          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks', 'getCompletedBookRedemptions']);
 
         $itAdminRole -> syncPermissions(['getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring']);
 

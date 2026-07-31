@@ -187,4 +187,21 @@ public function confirmBookRedemption(int $redemptionId): array
         ];
     });
 }
+
+
+public function getCompletedBookRedemptions(): array
+{
+$redemptions = BookRedemption::with([
+    'user:id,name,email',
+    'libraryBook:id,name,author,photo,price'
+])
+->where('status', 'done')
+->latest()
+->paginate(20);
+
+    return [
+        'book_redemptions' => $redemptions,
+        'total' => $redemptions->count(),
+    ];
+}
 }
