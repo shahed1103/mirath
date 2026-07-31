@@ -26,6 +26,7 @@ class DropDownController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
         }
     }
@@ -39,6 +40,7 @@ class DropDownController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
         }
     }
@@ -52,6 +54,7 @@ class DropDownController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
         }
     }
@@ -65,6 +68,7 @@ class DropDownController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
         }
     }

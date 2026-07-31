@@ -16,7 +16,7 @@ class ChapterReviewController extends Controller
     public function __construct(ChapterReviewService  $chapterReviewService){
         $this->chapterReviewService = $chapterReviewService;
     }
-    
+
     public function addChapterToReviewList($chapterId): JsonResponse {
         $data = [] ;
         try{
@@ -24,6 +24,7 @@ class ChapterReviewController extends Controller
             return Response::Success($data['chapter'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -38,6 +39,7 @@ class ChapterReviewController extends Controller
             return Response::Success($data['chapter'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -51,6 +53,7 @@ class ChapterReviewController extends Controller
             return Response::Success($data['ReviewList'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);

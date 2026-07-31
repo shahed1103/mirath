@@ -27,6 +27,7 @@ class SummaryController extends Controller
             return Response::Success($data['summary'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -42,6 +43,7 @@ class SummaryController extends Controller
             return Response::Success($data['summary'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -56,6 +58,7 @@ class SummaryController extends Controller
             return Response::Success($data['summary'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -69,6 +72,7 @@ class SummaryController extends Controller
             return Response::Success($data['summary'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -82,6 +86,7 @@ class SummaryController extends Controller
             return Response::Success($data['summary'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -95,6 +100,7 @@ class SummaryController extends Controller
             return Response::Success($data['summaries'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -108,6 +114,7 @@ class SummaryController extends Controller
             return Response::Success($data['summaries'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);

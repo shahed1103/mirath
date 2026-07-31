@@ -16,7 +16,7 @@ class QuizController extends Controller
     public function __construct(QuizService $quizService){
         $this->quizService = $quizService;
     }
-    
+
     public function startQuiz($chapterId): JsonResponse {
         $data = [] ;
         try{
@@ -24,6 +24,7 @@ class QuizController extends Controller
             return Response::Success($data['quiz'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -38,6 +39,7 @@ class QuizController extends Controller
             return Response::Success($data['quiz'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -66,6 +68,7 @@ class QuizController extends Controller
             return Response::Success($data['quiz'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -79,6 +82,7 @@ class QuizController extends Controller
             return Response::Success($data['questions'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();

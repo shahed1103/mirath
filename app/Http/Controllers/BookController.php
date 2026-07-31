@@ -16,7 +16,7 @@ class BookController extends Controller
     public function __construct(BookService  $bookService){
         $this->bookService = $bookService;
     }
-    
+
     public function getClassificationDetails($classificationId): JsonResponse {
         $data = [] ;
         try{
@@ -24,6 +24,7 @@ class BookController extends Controller
             return Response::Success($data['books'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -37,6 +38,7 @@ class BookController extends Controller
             return Response::Success($data['chapters'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -50,11 +52,12 @@ class BookController extends Controller
             return Response::Success($data['contents'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
             return Response::ErrorX($data , $message , $errors , $code);
         }
     }
-    
+
 }

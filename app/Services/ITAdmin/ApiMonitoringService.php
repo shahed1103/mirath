@@ -6,18 +6,19 @@ use App\Models\ApiRequestLog;
 
 class ApiMonitoringService
 {
-    public function getApiMonitoring(int $days = 30): array
-    {
-        return [
-            'total_requests' => $this->getTotalRequests($days),
-            'failed_requests' => $this->getFailedRequests($days),
-            'average_response_time' => $this->getAverageResponseTime($days),
-            'slowest_endpoint' => $this->getSlowestEndpoint($days),
-            'most_requested_endpoint' => $this->getMostRequestedEndpoint($days),
-            'status_codes' => $this->getStatusCodes($days),
-        ];
-    }
-
+public function getApiMonitoring(int $days = 30): array
+{
+    return [
+        'total_requests' => $this->getTotalRequests($days),
+        'failed_requests' => $this->getFailedRequests($days),
+        'success_rate' => $this->getSuccessRate($days),
+        'average_response_time' => $this->getAverageResponseTime($days),
+        'last_request' => $this->getLastRequest($days),
+        'slowest_endpoints' => $this->getSlowestEndpoints($days),
+        'most_requested_endpoints' => $this->getMostRequestedEndpoints($days),
+        'status_codes' => $this->getStatusCodes($days),
+    ];
+}
 
     private function getTotalRequests(int $days): int
 {
@@ -30,11 +31,46 @@ class ApiMonitoringService
 
 
 
-private function getFailedRequests(int $days): int
+private function getFailedRequests(int $days): array
 {
-    return ApiRequestLog::where('created_at', '>=', now()->subDays($days))
-        ->where('status_code', '>=', 400)
-        ->count();
+    $query = ApiRequestLog::where(
+        'created_at',
+        '>=',
+        now()->subDays($days)
+    );
+
+    return [
+        'total' => (clone $query)
+            ->where('status_code', '>=', 400)
+            ->count(),
+
+        'client_errors' => (clone $query)
+            ->whereBetween('status_code', [400, 499])
+            ->count(),
+
+        'server_errors' => (clone $query)
+            ->where('status_code', '>=', 500)
+            ->count(),
+    ];
+}
+
+private function getSuccessRate(int $days): string
+{
+    $total = $this->getTotalRequests($days);
+
+    if ($total === 0) {
+        return '0%';
+    }
+
+    $success = ApiRequestLog::where(
+        'created_at',
+        '>=',
+        now()->subDays($days)
+    )
+    ->whereBetween('status_code', [200, 299])
+    ->count();
+
+    return round(($success / $total) * 100, 2) . '%';
 }
 
 
@@ -51,44 +87,40 @@ private function getAverageResponseTime(int $days): string
 
 
 
-private function getMostRequestedEndpoint(int $days): array
+private function getMostRequestedEndpoints(int $days): array
 {
-    $endpoint = ApiRequestLog::selectRaw('endpoint, COUNT(*) as requests')
+    return ApiRequestLog::selectRaw('endpoint, COUNT(*) as requests')
         ->where('created_at', '>=', now()->subDays($days))
         ->groupBy('endpoint')
         ->orderByDesc('requests')
-        ->first();
-
-    if (!$endpoint) {
-        return [];
-    }
-
-    return [
-        'endpoint' => $endpoint->endpoint,
-        'requests' => $endpoint->requests,
-    ];
+        ->limit(5)
+        ->get()
+        ->map(function ($endpoint) {
+            return [
+                'endpoint' => $endpoint->endpoint,
+                'requests' => $endpoint->requests,
+            ];
+        })
+        ->toArray();
 }
 
 
-
-private function getSlowestEndpoint(int $days): array
+private function getSlowestEndpoints(int $days): array
 {
-    $endpoint = ApiRequestLog::selectRaw('endpoint, AVG(response_time) as average_time')
+    return ApiRequestLog::selectRaw('endpoint, AVG(response_time) as average_time')
         ->where('created_at', '>=', now()->subDays($days))
         ->groupBy('endpoint')
         ->orderByDesc('average_time')
-        ->first();
-
-    if (!$endpoint) {
-        return [];
-    }
-
-    return [
-        'endpoint' => $endpoint->endpoint,
-        'average_response_time' => round($endpoint->average_time) . ' ms',
-    ];
+        ->limit(5)
+        ->get()
+        ->map(function ($endpoint) {
+            return [
+                'endpoint' => $endpoint->endpoint,
+                'average_response_time' => round($endpoint->average_time) . ' ms',
+            ];
+        })
+        ->toArray();
 }
-
 
 private function getStatusCodes(int $days): array
 {
@@ -98,5 +130,28 @@ private function getStatusCodes(int $days): array
         ->orderBy('status_code')
         ->get()
         ->toArray();
+}
+
+private function getLastRequest(int $days): array
+{
+    $request = ApiRequestLog::where(
+        'created_at',
+        '>=',
+        now()->subDays($days)
+    )
+    ->latest()
+    ->first();
+
+    if (!$request) {
+        return [];
+    }
+
+    return [
+        'endpoint' => $request->endpoint,
+        'method' => $request->method,
+        'status_code' => $request->status_code,
+        'response_time' => $request->response_time . ' ms',
+        'requested_at' => $request->created_at,
+    ];
 }
 }

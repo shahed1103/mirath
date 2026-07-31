@@ -29,10 +29,11 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function allChapterOpenQuestionsWithAnswers($chapterId): JsonResponse {
@@ -42,10 +43,11 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function addQuestionToChapter(AddQuestionRequest $request, $chapterId): JsonResponse {
@@ -55,10 +57,11 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function addOpenQuestionToChapter(AddOpenQuestionToChapterRequest $request, $chapterId): JsonResponse {
@@ -68,10 +71,11 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function editQuestion(EditQuestionRequest $request, $questionId): JsonResponse {
@@ -81,10 +85,11 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function editChoice(Request $request, $choiceId): JsonResponse {
@@ -94,11 +99,12 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
             return Response::Error($data , $message , $errors , $code);
-        }    
+        }
     }
 
     public function editOpenQuestion(EditOpenQuestionRequest $request, $openQuestionId): JsonResponse {
@@ -108,10 +114,11 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function deleteQuestion($questionId): JsonResponse {
@@ -121,10 +128,11 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function deleteChoice($choiceId): JsonResponse {
@@ -134,11 +142,12 @@ class QuestionAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
             return Response::Error($data , $message , $errors , $code);
-        }    
+        }
     }
 
     public function deleteOpenQuestion($openQuestionId): JsonResponse {
@@ -150,7 +159,8 @@ class QuestionAdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 }

@@ -23,7 +23,7 @@ class NotificationController extends Controller
         private DeviceService $deviceService,
         private BroadcastNotificationService $broadcastNotificationService
     ) {}
-    
+
     public function saveDeviceToken(DeviceFcmRequest $request): JsonResponse{
         $data = [] ;
         try{
@@ -31,6 +31,7 @@ class NotificationController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -45,6 +46,7 @@ class NotificationController extends Controller
             return Response::Success($data['notifications'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -59,6 +61,7 @@ class NotificationController extends Controller
             return Response::Success($data['unread_notifications_count'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -73,6 +76,7 @@ class NotificationController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -87,6 +91,7 @@ class NotificationController extends Controller
             return Response::Success($data['notification'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
@@ -101,6 +106,7 @@ class NotificationController extends Controller
             return Response::Success($data['notification'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();

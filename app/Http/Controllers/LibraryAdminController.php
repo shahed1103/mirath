@@ -39,6 +39,7 @@ public function storeLibraryBook(StoreLibraryBookRequest $request): JsonResponse
 
         $message = $th->getMessage();
         $errors[] = $message;
+        report($th);
 
         return Response::Error($data, $message, $errors);
     }
@@ -59,6 +60,7 @@ public function getAllLibraryBooks(): JsonResponse
     catch (Throwable $th) {
         $message = $th->getMessage();
         $errors[] = $message;
+        report($th);
 
         return Response::Error($data, $message, $errors);
     }
@@ -82,6 +84,7 @@ public function getAllBookRedemptions(): JsonResponse
 
         $message = $th->getMessage();
         $errors[] = $message;
+        report($th);
 
         return Response::Error($data, $message, $errors);
     }
@@ -105,6 +108,7 @@ public function getMostRedeemedBooks(): JsonResponse
 
         $message = $th->getMessage();
         $errors[] = $message;
+        report($th);
 
         return Response::Error($data, $message, $errors);
     }
@@ -125,6 +129,7 @@ public function getMonthlyRedeemedPoints(): JsonResponse
 
         $message = $th->getMessage();
         $errors[] = $message;
+        report($th);
 
         return Response::Error($data, $message, $errors);
     }
@@ -147,6 +152,7 @@ public function getBookRedemptionStatistics(): JsonResponse
 
         $message = $th->getMessage();
         $errors[] = $message;
+        report($th);
 
         return Response::Error($data, $message, $errors);
     }
@@ -165,6 +171,7 @@ public function confirmBookRedemption(int $redemptionId): JsonResponse
     } catch (Throwable $th) {
         $message = $th->getMessage();
         $errors[] = $message;
+        report($th);
         return Response::Error($data, $message, $errors);
     }
 }
