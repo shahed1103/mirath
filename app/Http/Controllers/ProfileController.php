@@ -31,6 +31,7 @@ public function getStudentStatistics(): JsonResponse
         );
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         $errors[] = $message;
         return Response::Error($data, $message, $errors);
@@ -51,6 +52,7 @@ public function getMyPoints(): JsonResponse
         );
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         $errors[] = $message;
 
@@ -73,6 +75,7 @@ public function getAllLibraryBooks(): JsonResponse
         );
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         $errors[] = $message;
 
@@ -91,6 +94,7 @@ public function addBookToCart($bookId): JsonResponse
         return Response::Success([], $data['message']);
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         $errors[] = $message;
 
@@ -113,6 +117,7 @@ public function getCartItems(): JsonResponse
         );
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         $errors[] = $message;
 
@@ -131,6 +136,7 @@ public function removeBookFromCart($bookId): JsonResponse
         return Response::Success([], $data['message']);
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         $errors[] = $message;
 
@@ -156,6 +162,7 @@ return Response::Success(
 );
 
     } catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         $errors[] = $message;
         return Response::Error($data, $message, $errors);
@@ -173,6 +180,7 @@ public function getLastUserExams(): JsonResponse
         );
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         return Response::Error([], $message, [$message]);
     }
@@ -189,6 +197,7 @@ public function getAllUserExams(): JsonResponse
         );
     }
     catch (Throwable $th) {
+        report($th);
         $message = $th->getMessage();
         return Response::Error([], $message, [$message]);
     }

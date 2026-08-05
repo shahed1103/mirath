@@ -33,6 +33,7 @@ class AuthController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
         }
     }
@@ -47,6 +48,7 @@ class AuthController extends Controller
             $message = $th->getMessage();
             $errors [] = $message ;
             $code = $th->getCode();
+            report($th);
             return Response::ErrorX($data , $message , $errors , $code );
         }
     }
@@ -61,6 +63,7 @@ class AuthController extends Controller
             $message = $th->getMessage();
             $errors [] = $message ;
             $code = $th->getCode();
+            report($th);
             return Response::ErrorX($data , $message , $errors , $code );
         }
     }
@@ -75,6 +78,7 @@ class AuthController extends Controller
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
+            report($th);
             return Response::ErrorX($data , $message , $errors , $code );
         }
     }
@@ -88,7 +92,7 @@ class AuthController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
-
+report($th);
             return Response::Error($data , $message , $errors);
         }
     }
@@ -103,7 +107,7 @@ class AuthController extends Controller
             catch(Throwable $th){
                 $message = $th->getMessage();
                 $errors [] = $message;
-
+report($th);
                 return Response::Error($data , $message , $errors);
         }
     }
@@ -118,6 +122,7 @@ class AuthController extends Controller
         catch(Throwable $th){
                 $message = $th->getMessage();
                 $errors [] = $message;
+                report($th);
                 return Response::Errorx($data , $message , $errors);
         }
     }
@@ -135,6 +140,7 @@ class AuthController extends Controller
                 $message = $th->getMessage();
                 $errors [] = $message;
                 $code = $th->getCode();
+                report($th);
                 return Response::Errorx($data , $message , $errors , $code);
         }
     }

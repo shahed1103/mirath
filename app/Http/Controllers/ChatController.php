@@ -25,6 +25,7 @@ class ChatController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -38,12 +39,13 @@ class ChatController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
         }
     }
-    
+
     public function chat(ChatRequest $request): JsonResponse {
         $data = [] ;
         try{
@@ -51,6 +53,7 @@ class ChatController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);

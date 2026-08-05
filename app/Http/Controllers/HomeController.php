@@ -18,7 +18,7 @@ class HomeController extends Controller
     public function __construct(HomeService  $homeService){
         $this->homeService = $homeService;
     }
-    
+
     public function getClassifications(): JsonResponse {
         $data = [] ;
         try{
@@ -28,6 +28,7 @@ class HomeController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
         }
     }
@@ -41,8 +42,9 @@ class HomeController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }        
+        }
     }
 
     public function getContinueReading(): JsonResponse {
@@ -54,8 +56,9 @@ class HomeController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }        
+        }
     }
 
     public function getHome(): JsonResponse {
@@ -71,10 +74,11 @@ class HomeController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
         }
     }
-      
+
     public function updateProgress(ProgressRequest $request , $contentId): JsonResponse {
         $data = [] ;
         try{
@@ -84,8 +88,9 @@ class HomeController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }  
+        }
     }
 
     public function addFeedback(FeedbackRequest $request): JsonResponse {
@@ -97,7 +102,8 @@ class HomeController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }  
+        }
     }
 }

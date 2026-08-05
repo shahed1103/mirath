@@ -162,15 +162,16 @@ Route::middleware('auth:sanctum')->get('/getMonthlyRedeemedPoints', [LibraryAdmi
 Route::middleware('auth:sanctum')->get('/getBookRedemptionStatistics', [LibraryAdminController::class, 'getBookRedemptionStatistics'])->middleware('can:getBookRedemptionStatistics');
 Route::middleware('auth:sanctum')->post('/confirmBookRedemption/{redemptionId}', [LibraryAdminController::class, 'confirmBookRedemption'])->middleware('can:confirmBookRedemption');
 Route::middleware('auth:sanctum')->get('/getAllLibraryBooks', [LibraryAdminController::class, 'getAllLibraryBooks'])->middleware('can:getAllLibraryBooks');
+Route::middleware('auth:sanctum')->get('/getCompletedBookRedemptions', [LibraryAdminController::class, 'getCompletedBookRedemptions'])->middleware('can:getCompletedBookRedemptions');
 
 
 
 ////////////it
 
-Route::get('/openTelescope', function () {
-    return redirect('/telescope');
-});
 
+Route::get('openTelescope', [ITAdminController::class, 'openTelescope']);
+Route::middleware('auth:sanctum')->get('/getSystemHealth', [ITAdminController::class, 'getSystemHealth'])->middleware('can:getSystemHealth');
+Route::middleware('auth:sanctum')->get('/getApiMonitoring', [ITAdminController::class, 'getApiMonitoring'])->middleware('can:getApiMonitoring');
+Route::middleware('auth:sanctum')->get('/getErrorMonitoring', [ITAdminController::class, 'getErrorMonitoring'])->middleware('can:getErrorMonitoring');
 
-    Route::get('getSystemHealth', [ITAdminController::class, 'getSystemHealth']);
 

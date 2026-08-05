@@ -38,6 +38,7 @@ class ContentAdminController extends Controller
             return Response::Success($data['chapters'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -51,6 +52,7 @@ class ContentAdminController extends Controller
             return Response::Success($data['contents'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
@@ -64,10 +66,11 @@ class ContentAdminController extends Controller
             return Response::Success($data['data'], $data['message']);
         }
         catch(Throwable $th){
+            report($th);
             $message = $th->getMessage();
             $errors [] = $message;
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function addNewBook(AddNewBookRequest $request, $classificationId): JsonResponse {
@@ -79,10 +82,11 @@ class ContentAdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
-    
+
     public function addNewChapter(AddNewChapterRequest $request, $bookId): JsonResponse {
         $data = [];
         try{
@@ -92,8 +96,9 @@ class ContentAdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function editClassification(EditClassificationRequest $request, $classificationId): JsonResponse {
@@ -105,8 +110,9 @@ class ContentAdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function editBook(EditBookRequest $request, $bookId): JsonResponse {
@@ -118,8 +124,9 @@ class ContentAdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function editChapter(EditChapterRequest $request, $chapterId): JsonResponse {
@@ -131,8 +138,9 @@ class ContentAdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function editChapterContent(EditChapterContentRequest $request, $contentId): JsonResponse {
@@ -144,8 +152,9 @@ class ContentAdminController extends Controller
         catch(Throwable $th){
             $message = $th->getMessage();
             $errors [] = $message;
+            report($th);
             return Response::Error($data , $message , $errors);
-        }    
+        }
     }
 
     public function deleteClassification($classificationId): JsonResponse {
@@ -158,8 +167,9 @@ class ContentAdminController extends Controller
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
+            report($th);
             return Response::Error($data , $message , $errors , $code);
-        }    
+        }
     }
 
     public function deleteBook($bookId): JsonResponse {
@@ -172,8 +182,9 @@ class ContentAdminController extends Controller
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
+            report($th);
             return Response::Error($data , $message , $errors , $code);
-        }    
+        }
     }
 
     public function deleteChapter($chapterId): JsonResponse {
@@ -186,7 +197,8 @@ class ContentAdminController extends Controller
             $message = $th->getMessage();
             $errors [] = $message;
             $code = $th->getCode();
+            report($th);
             return Response::Error($data , $message , $errors , $code);
-        }    
+        }
     }
 }
