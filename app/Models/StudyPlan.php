@@ -11,6 +11,11 @@ class StudyPlan extends Model
 {
     use HasFactory;
 
+    
+public const ACTIVE = 'active';
+public const COMPLETED = 'completed';
+public const CANCELLED = 'cancelled';
+
     protected $fillable = [
         'user_id',
         'plan_type',
@@ -29,7 +34,6 @@ class StudyPlan extends Model
         'offline' => 'boolean',
         'start_date' => 'date',
         'end_date' => 'date',
-        'notification_time' => 'datetime:H:i',
     ];
 
     public function user(): BelongsTo
@@ -52,11 +56,13 @@ class StudyPlan extends Model
         return $this->hasMany(StudyTask::class);
     }
 
-    public function selectedBooks()
+public function selectedBooks()
 {
     return $this->belongsToMany(
         Book::class,
-        'study_plan_books'
+        'study_plan_books',
+        'study_plan_id',
+        'book_id'
     );
 }
 }

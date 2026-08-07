@@ -149,10 +149,20 @@ Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::
 Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams']);
 
 
-Route::middleware('auth:sanctum')->post('/calculatePlan', [StudyPlanController::class, 'calculatePlan']);
-Route::middleware('auth:sanctum')->post('/createPlan', [StudyPlanController::class, 'createPlan']);
-Route::middleware('auth:sanctum')->post('/calculate', [StudyPlanController::class, 'calculate']);
+/////////////////////////plan
+Route::middleware('auth:sanctum')->group(function () {
 
+    Route::post(
+        '/study-plans/calculate',
+        [StudyPlanController::class, 'calculatePlan']
+    );
+
+    Route::post(
+        '/study-plans',
+        [StudyPlanController::class, 'createPlan']
+    );
+
+});
 
 
 //////////////library admin
