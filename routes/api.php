@@ -153,12 +153,12 @@ Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::c
 Route::middleware('auth:sanctum')->group(function () {
 
     Route::post(
-        '/study-plans/calculate',
+        'calculate',
         [StudyPlanController::class, 'calculatePlan']
     );
 
     Route::post(
-        '/study-plans',
+        'createplans',
         [StudyPlanController::class, 'createPlan']
     );
 
