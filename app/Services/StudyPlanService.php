@@ -65,10 +65,8 @@ class StudyPlanService
             /*
              * 6- توليد المهام
              */
-           $endDate = $this->generator->generate($studyPlan);
-            /*
-             * 7- تحديث تاريخ النهاية
-             */
+            $endDate = $this->generator->generate($studyPlan);
+
             $studyPlan->update([
                 'end_date' => $endDate
             ]);

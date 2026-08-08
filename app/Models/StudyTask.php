@@ -21,7 +21,7 @@ class StudyTask extends Model
         'pages',
         'completed',
         'completed_at',
-        // 'reading_order',
+        'reading_order',
         'sequence'
     ];
 

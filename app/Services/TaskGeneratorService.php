@@ -25,21 +25,15 @@ public function resolveStartDate(array $studyDays): Carbon
     return $date;
 }
 
-private function nextStudyDate(
-    Carbon $currentDate,
-    array $studyDays
-): Carbon {
+private function nextStudyDate(Carbon $currentDate,array $studyDays): Carbon {
 
     $date = $currentDate->copy()->addDay();
 
     while (!in_array($date->dayOfWeek, $studyDays)) {
-
         $date->addDay();
-        $lastTaskDate = $currentDate->copy();
-
     }
 
-    return $lastTaskDate;
+    return $date;
 }
 
 private function calculateBookShares(Collection $books, int $dailyPages): array {
@@ -70,7 +64,8 @@ public function generate(StudyPlan $studyPlan): Carbon
     $books = $studyPlan
         ->selectedBooks()
         ->with([
-            'chapters' => fn($q) => $q->orderBy('order_number')
+            'chapters' => fn ($query) =>
+                $query->orderBy('order_number')
         ])
         ->get();
 
@@ -80,31 +75,81 @@ public function generate(StudyPlan $studyPlan): Carbon
         ->pluck('day_number')
         ->toArray();
 
+    if ($books->isEmpty()) {
+        throw new \InvalidArgumentException(
+            'لا توجد كتب في الخطة.'
+        );
+    }
+
+    if (empty($studyDays)) {
+        throw new \InvalidArgumentException(
+            'لا توجد أيام دراسة في الخطة.'
+        );
+    }
+
+    /*
+     * حساب نصيب كل كتاب من الورد اليومي
+     */
     $shares = $this->calculateBookShares(
         $books,
         $studyPlan->daily_pages
     );
 
+    /*
+     * إنشاء حالة تقدم مستقلة لكل كتاب
+     */
     $progress = [];
 
     foreach ($books as $book) {
 
-        $progress[$book->id] = new BookProgress(
-            $book->chapters->first()->start_page
-        );
+        if ($book->chapters->isEmpty()) {
+            throw new \InvalidArgumentException(
+                "الكتاب {$book->title} لا يحتوي على فصول."
+            );
+        }
 
+        $firstChapter = $book->chapters->first();
+
+        $progress[$book->id] = new BookProgress(
+            $firstChapter->start_page
+        );
     }
 
+    /*
+     * أول يوم دراسة
+     */
     $currentDate = $studyPlan->start_date->copy();
 
+    /*
+     * آخر يوم تم إنشاء مهمة فيه
+     */
+    $lastTaskDate = null;
+
+    /*
+     * ترتيب المهام
+     */
     $readingOrder = 1;
 
-    while ($this->hasRemainingBooks($books, $progress)) {
+    /*
+     * نستمر طالما يوجد كتاب لم ينتهِ
+     */
+    while (
+        $this->hasRemainingBooks(
+            $books,
+            $progress
+        )
+    ) {
 
+        /*
+         * توليد مهام هذا اليوم لكل الكتب
+         */
         foreach ($books as $book) {
 
             $bookProgress = $progress[$book->id];
 
+            /*
+             * إذا انتهى الكتاب نتجاوزه
+             */
             if ($bookProgress->finished) {
                 continue;
             }
@@ -119,15 +164,30 @@ public function generate(StudyPlan $studyPlan): Carbon
             );
 
         }
-        $lastTaskDate = $currentDate->copy();
-        $currentDate = $this->nextStudyDate(
-            $currentDate,
-            $studyDays
-        );
 
+        /*
+         * هذا آخر يوم تم إنشاء مهام فيه
+         */
+        $lastTaskDate = $currentDate->copy();
+
+        /*
+         * إذا بقيت كتب، ننتقل إلى يوم الدراسة التالي
+         */
+        if (
+            $this->hasRemainingBooks(
+                $books,
+                $progress
+            )
+        ) {
+
+            $currentDate = $this->nextStudyDate(
+                $currentDate,
+                $studyDays
+            );
+        }
     }
 
-    return $currentDate->subDay();
+    return $lastTaskDate;
 }
 
 private function hasRemainingBooks(
@@ -173,21 +233,23 @@ private function generateBookTasks(
 
         $fromPage = $progress->currentPage;
 
-        $toPage = $fromPage + $pagesToRead - 1;
+$toPage = $fromPage + $pagesToRead - 1;
 
-        $this->createTask(
-            $studyPlan,
-            $book,
-            $chapter,
-            $taskDate,
-            $fromPage,
-            $toPage,
-            $readingOrder
-        );
+$this->createTask(
+    $studyPlan,
+    $book,
+    $chapter,
+    $taskDate,
+    $fromPage,
+    $toPage,
+    $readingOrder
+);
 
-        $remainingPagesToday -= $pagesToRead;
+$readingOrder++;
 
-        $progress->currentPage = $toPage + 1;
+$remainingPagesToday -= $pagesToRead;
+
+$progress->currentPage = $toPage + 1;
 
         /*
          * انتهى الفصل؟
@@ -228,8 +290,9 @@ private function generateBookTasks(
     Carbon $date,
     int $fromPage,
     int $toPage,
-    int &$readingOrder
+    int $readingOrder
 ): void {
+
 
     StudyTask::create([
 
@@ -251,7 +314,7 @@ private function generateBookTasks(
 
         'completed' => false,
 
-        'reading_order' => $readingOrder++
+        'reading_order' => $readingOrder
 
     ]);
 
