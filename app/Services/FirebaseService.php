@@ -150,7 +150,7 @@ class FirebaseService
                 $client = new GoogleClient();
                 $client->setAuthConfig(
                     storage_path(
-                        'app/firebase/mirathapp-b7a10-firebase-adminsdk-fbsvc-1ab495bbb8'
+                        'app/firebase/mirathapp-b7a10-firebase-adminsdk-fbsvc-1ab495bbb8.json'
                     )
                 );
 
