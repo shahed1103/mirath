@@ -162,6 +162,22 @@ Route::middleware('auth:sanctum')->group(function () {
         [StudyPlanController::class, 'createPlan']
     );
 
+
+    Route::post(
+    'getTasksByRange',
+    [StudyPlanController::class, 'getTasksByRange']
+);
+
+
+ Route::post(
+        'completeTask/{taskId}',
+        [StudyPlanController::class, 'completeTask']
+    );
+
+    Route::get(
+        'getPlanProgress/{id}',
+        [StudyPlanController::class, 'getPlanProgress']
+    );
 });
 
 

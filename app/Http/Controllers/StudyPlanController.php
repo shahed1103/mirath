@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Throwable;
 use Illuminate\Http\JsonResponse;
+use App\Http\Requests\StudyPlan\GetStudyTasksRequest;
 use App\Http\Responses\response;
 use App\Services\StudyPlanService;
 use App\Http\Requests\StudyPlan\CalculateStudyPlanRequest;
@@ -74,4 +75,87 @@ class StudyPlanController extends Controller
 
     }
 
+
+
+    public function getTasksByRange(
+    GetStudyTasksRequest $request
+): JsonResponse {
+
+    try {
+
+        $result = $this->studyPlanService->getTasksByRange(
+            auth()->id(),
+            $request->from_date,
+            $request->to_date
+        );
+
+        return Response::Success(
+            $result['data'],
+            $result['message']
+        );
+
+    } catch (Throwable $th) {
+
+        $message = $th->getMessage();
+
+        return Response::Error(
+            [],
+            $message,
+            [$message]
+        );
+    }
+}
+
+
+
+
+
+
+ public function completeTask( int $taskId): JsonResponse {
+   try {
+
+            $result = $this->studyPlanService->completeTask(
+                $taskId
+            );
+
+            return Response::Success(
+                $result['data'],
+                $result['message']
+            );
+
+        } catch (Throwable $th) {
+
+            $message = $th->getMessage();
+
+            return Response::Error(
+                [],
+                $message,
+                [$message]
+            );
+        }
+    }
+
+    public function getPlanProgress( int $studyPlanId ): JsonResponse {
+        try {
+
+            $result = $this->studyPlanService->getPlanProgress(
+                $studyPlanId
+            );
+
+            return Response::Success(
+                $result,
+                'تم جلب نسبة إنجاز الخطة بنجاح.'
+            );
+
+        } catch (Throwable $th) {
+
+            $message = $th->getMessage();
+
+            return Response::Error(
+                [],
+                $message,
+                [$message]
+            );
+        }
+    }
 }

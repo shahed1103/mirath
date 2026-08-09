@@ -22,7 +22,9 @@ class StudyTask extends Model
         'completed',
         'completed_at',
         'reading_order',
-        'sequence'
+        'sequence',
+        'task_type',
+        'content_id',
     ];
 
     protected $casts = [

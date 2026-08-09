@@ -34,21 +34,22 @@ return new class extends Migration
 
             $table->date('task_date');
 
-            $table->unsignedInteger('from_page');
-
+            $table->unsignedInteger('from_page')->nullable();
             $table->unsignedInteger('reading_order')->default(0);
-
-
-            $table->unsignedInteger('to_page');
-
-            $table->unsignedInteger('pages');
-
+            $table->unsignedInteger('to_page')->nullable();
+            $table->unsignedInteger('pages')->nullable();
             $table->boolean('completed')
                 ->default(false);
 
             $table->timestamp('completed_at')
                 ->nullable();
 
+             $table->enum('task_type', ['reading','video' ])->default('reading');
+
+$table->foreignId('content_id')
+    ->nullable()
+    ->constrained('chapter_contents')
+    ->nullOnDelete();
             $table->timestamps();
         });
     }
