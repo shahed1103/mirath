@@ -32,8 +32,14 @@ class ChapterResource extends JsonResource
 
                 if ($content->total_progress_value > 0) {
 
+                    $totalValue = $content->total_progress_value;
+
+                    if (in_array($content->type, ['video', 'audio'])) {
+                        $totalValue *= 60;
+                    }
+
                     $totalProgress +=
-                        ($userProgress / $content->total_progress_value) * 100;
+                        ($userProgress / $totalValue) * 100;
                 }
             }
 
