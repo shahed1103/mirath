@@ -135,12 +135,10 @@ class StudyPlanController extends Controller
         }
     }
 
-    public function getPlanProgress( int $studyPlanId ): JsonResponse {
+    public function getPlanProgress(): JsonResponse {
         try {
 
-            $result = $this->studyPlanService->getPlanProgress(
-                $studyPlanId
-            );
+            $result = $this->studyPlanService->getPlanProgress();
 
             return Response::Success(
                 $result,

@@ -134,19 +134,19 @@ Route::post('sendBroadcastNotification', [NotificationController::class, 'sendBr
 
 
 
-Route::middleware('auth:sanctum')->post('/meetings', [MeetingController::class, 'create_meet']);
+Route::middleware('auth:sanctum')->post('/create_meet', [MeetingController::class, 'create_meet'])->middleware('can:create_meet');
 
 
 ///////////////profile and study plan
-Route::middleware('auth:sanctum')->get('/getStudentStatistics', [ProfileController::class, 'getStudentStatistics']);
-Route::middleware('auth:sanctum')->get('/getAllLibraryBooks', [ProfileController::class, 'getAllLibraryBooks']);
-Route::middleware('auth:sanctum')->post('/addBookToCart/{id}', [ProfileController::class, 'addBookToCart']);
-Route::middleware('auth:sanctum')->get('/getMyPoints', [ProfileController::class, 'getMyPoints']);
-Route::middleware('auth:sanctum')->get('/getCartItems', [ProfileController::class, 'getCartItems']);
-Route::middleware('auth:sanctum')->post('/removeBookFromCart/{id}', [ProfileController::class, 'removeBookFromCart']);
-Route::middleware('auth:sanctum')->post('/requestBookRedemption', [ProfileController::class, 'requestBookRedemption']);
-Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::class, 'getLastUserExams']);
-Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams']);
+Route::middleware('auth:sanctum')->get('/getStudentStatistics', [ProfileController::class, 'getStudentStatistics'])->middleware('can:getStudentStatistics');
+Route::middleware('auth:sanctum')->get('/getAllLibraryBooks', [ProfileController::class, 'getAllLibraryBooks'])->middleware('can:getAllLibraryBooks');
+Route::middleware('auth:sanctum')->post('/addBookToCart/{id}', [ProfileController::class, 'addBookToCart'])->middleware('can:addBookToCart');
+Route::middleware('auth:sanctum')->get('/getMyPoints', [ProfileController::class, 'getMyPoints'])->middleware('can:getMyPoints');
+Route::middleware('auth:sanctum')->get('/getCartItems', [ProfileController::class, 'getCartItems'])->middleware('can:getCartItems');
+Route::middleware('auth:sanctum')->post('/removeBookFromCart/{id}', [ProfileController::class, 'removeBookFromCart'])->middleware('can:removeBookFromCart');
+Route::middleware('auth:sanctum')->post('/requestBookRedemption', [ProfileController::class, 'requestBookRedemption'])->middleware('can:requestBookRedemption');
+Route::middleware('auth:sanctum')->get('/getLastUserExams', [ProfileController::class, 'getLastUserExams'])->middleware('can:getLastUserExams');
+Route::middleware('auth:sanctum')->get('/getAllUserExams', [ProfileController::class, 'getAllUserExams'])->middleware('can:getAllUserExams');
 
 
 /////////////////////////plan
@@ -154,30 +154,30 @@ Route::middleware('auth:sanctum')->group(function () {
 
     Route::post(
         'calculate',
-        [StudyPlanController::class, 'calculatePlan']
-    );
+        [StudyPlanController::class, 'calculate']
+    )->middleware('can:calculate');
 
     Route::post(
         'createplans',
-        [StudyPlanController::class, 'createPlan']
-    );
+        [StudyPlanController::class, 'createplans']
+    )->middleware('can:createplans');
 
 
     Route::post(
-    'getTasksByRange',
-    [StudyPlanController::class, 'getTasksByRange']
-);
+        'getTasksByRange',
+        [StudyPlanController::class, 'getTasksByRange']
+    )->middleware('can:getTasksByRange');
 
 
- Route::post(
+    Route::post(
         'completeTask/{taskId}',
         [StudyPlanController::class, 'completeTask']
-    );
+    )->middleware('can:completeTask');
 
     Route::get(
-        'getPlanProgress/{id}',
+        'getPlanProgress',
         [StudyPlanController::class, 'getPlanProgress']
-    );
+    )->middleware('can:getPlanProgress');
 });
 
 

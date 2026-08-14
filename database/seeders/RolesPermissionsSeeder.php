@@ -31,8 +31,11 @@ class RolesPermissionsSeeder extends Seeder
                         'allChapterOpenQuestionsWithAnswers' , 'addQuestionToChapter' , 'addOpenQuestionToChapter' , 'editQuestion' , 'editChoice' ,
                         'editOpenQuestion' , 'deleteQuestion' , 'deleteChoice' , 'deleteOpenQuestion' , 'userStatisticsOverview',
                         'getBooks' , 'getChapters' , 'storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
-          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks',
-          'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring' , 'getCompletedBookRedemptions'
+                        'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks',
+                        'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring' , 'getCompletedBookRedemptions' , 
+                        'create_meet','getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
+                        'removeBookFromCart' , 'requestBookRedemption' , 'getLastUserExams' , 'getAllUserExams' , 'calculate' , 'createplans' ,
+                        'getTasksByRange' , 'completeTask' , 'getPlanProgress'
                     ];
 
         // foreach ($permissions as $permissionName) {
@@ -53,7 +56,10 @@ foreach ($permissions as $permissionName) {
                         'removeChapterFromReviewList' , 'getReviewList' , 'startQuiz' , 'submitAnswer' , 'endQuiz',
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
                         'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat',
-                        'addFeedback' , 'getBooks' , 'getChapters'
+                        'addFeedback' , 'getBooks' , 'getChapters' , 
+                        'create_meet','getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
+                        'removeBookFromCart' , 'requestBookRedemption' , 'getLastUserExams' , 'getAllUserExams' , 'calculate' , 'createplans' ,
+                        'getTasksByRange' , 'completeTask' , 'getPlanProgress'         
                         ]);
 
     // 3. Assign permissions
