@@ -18,10 +18,10 @@ class DeviceService
 
         UserDevice::updateOrCreate(
             [
-                'user_id'   => $user->id,
                 'fcm_token' => $data['fcm_token'],
             ],
             [
+                'user_id'   => $user->id,
                 'device_type' => $data['device_type'],
             ]
         );

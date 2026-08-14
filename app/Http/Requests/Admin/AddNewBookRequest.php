@@ -46,7 +46,9 @@ class AddNewBookRequest extends FormRequest
             'pdf_url' => 'required|file|mimes:pdf',
             'video_url' => ['required', 'url', 'regex:/^(https?:\/\/)?(www\.youtube\.com|youtu\.?be)\/.+$/'],
 
-            'total_progress_value' => 'required|integer|min:1',
+            'audio_length' => 'required|integer|min:1',
+            'video_length' => 'required|integer|min:1',
+            'pdf_length' => 'required|integer|min:1',
         ];
     }
 

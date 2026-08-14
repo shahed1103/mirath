@@ -22,7 +22,6 @@ class FirebaseService
                 $this->sendToToken($device->fcm_token , $title , $body , $type, $data);
             } catch (Throwable $e) {
                 Log::error('Firebase Notification Failed', [
-                    'user_id' => $userId,
                     'device_id' => $device->id,
                     'token' => $device->fcm_token,
                     'error' => $e->getMessage(),

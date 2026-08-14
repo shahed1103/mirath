@@ -76,17 +76,22 @@ class UserService {
 
     public function logout(): array{
         $user = Auth::user();
-        if(!is_null(Auth::user())){
-            Auth::user()->currentAccessToken()->delete();
-            $message = 'User logged out successfully';
-            $code = 200;
-        }
 
-        else{
+        if (!$user) {
             throw new Exception("invalid token.", 404);
         }
 
-        return ['user' => $user , 'message' => $message , 'code' => $code];
+        UserDevice::where('user_id', $user->id)
+            ->where('fcm_token', $data['fcm_token'])
+            ->delete();
+
+        $user->currentAccessToken()->delete();
+
+        return [
+            'user' => $user,
+            'message' => 'User logged out successfully',
+            'code' => 200
+        ];
     }
 
      public function forgotPassword($request): array{

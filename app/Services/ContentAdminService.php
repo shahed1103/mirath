@@ -191,28 +191,32 @@ class ContentAdminService {
         foreach (self::CONTENT_TYPES as $type) {
 
             $urlField = $type . '_url';
+            $progressField = $type . '_length';
             $path = null;
 
             if ($request->hasFile($urlField)) {
                 $file = $request->file($urlField);
+
                 $folder = match ($type) {
                     'audio' => 'audios',
                     'pdf'   => 'chapters',
                     default => 'chapters',
                 };
+
                 $path = Storage::disk('r2')->putFile(
                     $folder,
                     $file
                 );
             }
-            
+
             $chapterContents[$type] = ChapterContent::create([
                 'chapter_id' => $chapterId,
                 'type' => $type,
                 'url' => $path ?? $request->$urlField ?? null,
-                'total_progress_value' => $request->total_progress_value,
+                'total_progress_value' => $request->$progressField,
             ]);
-            $path = null; 
+
+            $path = null;
         }
 
         return $chapterContents;
@@ -341,6 +345,7 @@ class ContentAdminService {
         $content->update([
             'type' => $request->type ?? $content->type,
             'url' => $path ?? $content->url,
+            'total_progress_value' => $request->total_progress_value ?? $content->total_progress_value,
         ]);
 
         return [
