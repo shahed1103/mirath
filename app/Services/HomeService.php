@@ -71,6 +71,8 @@ class HomeService {
             'classification' => $progress->content?->chapter?->book?->classification?->classification,
             'chapter_title' => $progress->content?->chapter?->title,
             'chapter_id' => $progress->content?->chapter?->id,
+            'classification_id' => $progress->content?->chapter?->book?->classification?->id,
+            'book_id' => $progress->content?->chapter?->book?->id,
         ];
         return $data;
     }
