@@ -6,6 +6,7 @@ namespace App\Services;
 use App\Models\StudyPlan;
 use Carbon\Carbon;
 use App\Models\StudyTask;
+use App\Models\Meeting;
 use Illuminate\Support\Facades\DB;
 
 class StudyPlanService
@@ -87,17 +88,18 @@ public function create(int $userId, array $data): array
     }
 
 
-public function getTasksByRange(
-    int $userId,
-    string $fromDate,
-    string $toDate
-): array {
+public function getTasksByRange(): array
+{
+    
+        $userId = auth()->id();
+    $startOfMonth = Carbon::now()->startOfMonth()->toDateString();
+    $endOfMonth = Carbon::now()->endOfMonth()->toDateString();
 
     $tasks = StudyTask::query()
         ->where('user_id', $userId)
         ->whereBetween('task_date', [
-            $fromDate,
-            $toDate
+            $startOfMonth,
+            $endOfMonth
         ])
         ->with([
             'book:id,title,author_name,photo',
@@ -107,50 +109,81 @@ public function getTasksByRange(
         ->orderBy('reading_order')
         ->get();
 
-    $groupedTasks = $tasks
-        ->groupBy(function ($task) {
-            return $task->task_date->format('Y-m-d');
-        })
-        ->map(function ($dayTasks, $date) {
+    $meetings = Meeting::query()
+        ->where('created_by', $userId)
+        ->where('type', 'scheduled')
+        ->whereBetween('scheduled_date', [
+            $startOfMonth,
+            $endOfMonth
+        ])
+        ->get()
+        ->keyBy(function ($meeting) {
+            return Carbon::parse($meeting->scheduled_date)->format('Y-m-d');
+        });
 
-            return [
-                'date' => $date,
+    // تجميع المهام حسب التاريخ
+    $groupedTasks = $tasks->groupBy(function ($task) {
+        return Carbon::parse($task->task_date)->format('Y-m-d');
+    });
 
-                'tasks' => $dayTasks->map(function ($task) {
-
-                    return [
-                        'id' => $task->id,
-
-                        'book_id' => $task->book_id,
-                        'book_title' => $task->book?->title,
-
-                        'chapter_id' => $task->chapter_id,
-                        'chapter_title' => $task->chapter?->title,
-
-                        'from_page' => $task->from_page,
-                        'to_page' => $task->to_page,
-                        'pages' => $task->pages,
-
-                        'completed' => $task->completed,
-                        'completed_at' => $task->completed_at,
-
-                        'reading_order' => $task->reading_order,
-                    ];
-
-                })->values(),
-            ];
-        })
+    // دمج تواريخ المهام مع تواريخ الاجتماعات
+    $dates = $groupedTasks->keys()
+        ->merge($meetings->keys())
+        ->unique()
+        ->sort()
         ->values();
 
+    $data = $dates->map(function ($date) use ($groupedTasks, $meetings) {
+
+        $dayTasks = $groupedTasks->get($date, collect());
+
+        $meeting = $meetings->get($date);
+
+        return [
+            'date' => $date,
+
+            'meeting' => $meeting ? [
+                'id' => $meeting->id,
+                'title' => $meeting->title,
+                'description' => $meeting->description,
+                'meeting_link' => $meeting->meeting_link,
+                'room_name' => $meeting->room_name,
+                'type' => $meeting->type,
+                'scheduled_date' => $meeting->scheduled_date,
+                'scheduled_time' => $meeting->scheduled_time,
+            ] : null,
+
+            'tasks' => $dayTasks->map(function ($task) {
+
+                return [
+                    'id' => $task->id,
+
+                    'book_id' => $task->book_id,
+                    'book_title' => $task->book?->title,
+
+                    'chapter_id' => $task->chapter_id,
+                    'chapter_title' => $task->chapter?->title,
+
+                    'from_page' => $task->from_page,
+                    'to_page' => $task->to_page,
+                    'pages' => $task->pages,
+
+                    'completed' => $task->completed,
+                    'completed_at' => $task->completed_at,
+
+                    'reading_order' => $task->reading_order,
+                ];
+
+            })->values(),
+        ];
+
+    })->values();
+
     return [
-        'data' => $groupedTasks,
-        'message' => 'تم جلب المهام بنجاح.'
+        'data' => $data,
+        'message' => 'تم جلب مهام الشهر الحالي بنجاح.'
     ];
 }
-
-
-
-
 
 
 private function createPlan(

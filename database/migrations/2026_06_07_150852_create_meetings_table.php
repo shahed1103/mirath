@@ -15,15 +15,33 @@ return new class extends Migration
 
     $table->id();
 
-    $table->string('title');
-    $table->uuid('room_id')->unique();
-    $table->text('description')->nullable();
-    $table->foreignId('created_by')
-        ->constrained('users')
-        ->cascadeOnDelete();
 
-    $table->timestamp('started_at')->nullable();
-    $table->timestamp('ended_at')->nullable();
+
+
+
+
+
+
+
+     $table->string('title');
+     $table->string('meeting_link');
+     $table->string('room_name');
+     $table->string('type');
+$table->date('scheduled_date')->nullable();
+$table->time('scheduled_time')->nullable();
+    // $table->uuid('room_id')->unique();
+     $table->text('description')->nullable();
+     $table->foreignId('created_by')
+    ->constrained('users')
+    ->cascadeOnDelete();
+
+
+    // $table->foreignId('created_by')
+    //     ->constrained('users')
+    //     ->cascadeOnDelete();
+
+    // $table->timestamp('started_at')->nullable();
+    // $table->timestamp('ended_at')->nullable();
     $table->timestamps();
 });
     }

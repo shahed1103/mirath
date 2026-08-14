@@ -7,12 +7,22 @@ use Illuminate\Database\Eloquent\Model;
 class Meeting extends Model
 {
     protected $fillable = [
-        'title',
-        'room_id',
-        'description',
-        'created_by',
-        'started_at',
-        'ended_at',
+        // 'title',
+        // 'room_id',
+        // 'description',
+        // 'created_by',
+        // 'started_at',
+        // 'ended_at',
+
+        'id',
+'title',
+'description',
+'meeting_link',
+'room_name',
+'type',
+'scheduled_date',
+'scheduled_time',
+'created_by',
     ];
 
     public function creator()

@@ -77,17 +77,11 @@ class StudyPlanController extends Controller
 
 
 
-    public function getTasksByRange(
-    GetStudyTasksRequest $request
-): JsonResponse {
+    public function getTasksByRange(): JsonResponse {
 
     try {
 
-        $result = $this->studyPlanService->getTasksByRange(
-            auth()->id(),
-            $request->from_date,
-            $request->to_date
-        );
+        $result = $this->studyPlanService->getTasksByRange(  );
 
         return Response::Success(
             $result['data'],
