@@ -35,7 +35,7 @@ class RolesPermissionsSeeder extends Seeder
                         'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring' , 'getCompletedBookRedemptions' , 
                         'create_meet','getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
                         'removeBookFromCart' , 'requestBookRedemption' , 'getLastUserExams' , 'getAllUserExams' , 'calculate' , 'createplans' ,
-                        'getTasksByRange' , 'completeTask' , 'getPlanProgress'
+                        'getTasksByRange' , 'completeTask' , 'getPlanProgress' , 'delete_meet'
                     ];
 
         // foreach ($permissions as $permissionName) {
