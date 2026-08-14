@@ -242,10 +242,7 @@ private function attachBooks(
         ->createMany($books);
 }
 
-private function attachStudyDays(
-    StudyPlan $studyPlan,
-    array $studyDays
-): void {
+private function attachStudyDays(StudyPlan $studyPlan, array $studyDays): void {
 
     $days = [];
     $studyDays = array_unique($studyDays);
@@ -267,7 +264,6 @@ private function attachStudyDays(
 
 
 public function completeTask( int $taskId  ): array {
-
         $userId = auth()->id();
         $task = StudyTask::where('id', $taskId)
             ->where('user_id', $userId)
@@ -292,26 +288,28 @@ public function completeTask( int $taskId  ): array {
             ],
             'message' => 'تم إنجاز المهمة بنجاح.',
         ];
-    }
+}
 
 
     // =====================================================
     // Get Plan Progress
     // =====================================================
-
-   public function getPlanProgress(int $studyPlanId): array
-{
+public function getPlanProgress(): array {
     $userId = auth()->id();
 
-    $studyPlan = StudyPlan::where('id', $studyPlanId)
-        ->where('user_id', $userId)
-        ->firstOrFail();
+    $studyPlans = StudyPlan::where('user_id', $userId)
+        ->with('tasks')
+        ->get();
 
-    $totalPages = $studyPlan->tasks()->sum('pages');
+    $totalPages = $studyPlans->sum(function ($studyPlan) {
+        return $studyPlan->tasks->sum('pages');
+    });
 
-    $completedPages = $studyPlan->tasks()
-        ->where('completed', true)
-        ->sum('pages');
+    $completedPages = $studyPlans->sum(function ($studyPlan) {
+        return $studyPlan->tasks
+            ->where('completed', true)
+            ->sum('pages');
+    });
 
     $percentage = $totalPages > 0
         ? round(($completedPages / $totalPages) * 100, 2)
@@ -324,6 +322,5 @@ public function completeTask( int $taskId  ): array {
         'percentage' => $percentage,
     ];
 }
-
 }
 

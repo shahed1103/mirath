@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Responses\response;
 use App\Services\HomeService;
+use App\Services\StudyPlanService;
 use App\Http\Requests\Home\ProgressRequest;
 use App\Http\Requests\Home\FeedbackRequest;
 use Illuminate\Http\JsonResponse;
@@ -13,11 +14,11 @@ use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 
 class HomeController extends Controller
 {
-    private HomeService $homeService;
 
-    public function __construct(HomeService  $homeService){
-        $this->homeService = $homeService;
-    }
+    public function __construct(
+        private HomeService $homeService,
+        private StudyPlanService $studyPlanService
+    ){}
 
     public function getClassifications(): JsonResponse {
         $data = [] ;
@@ -68,6 +69,7 @@ class HomeController extends Controller
             'continue_reading' => $this->homeService->getContinueReading(),
             'classifications' => $this->homeService->getClassifications(),
             'features' => $this->homeService->getFeatures(),
+            'plan' => $this->studyPlanService->getPlanProgress(),
         ];
         return Response::Success($data,  'Home data retrieved successfully');
         }
