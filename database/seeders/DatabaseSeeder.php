@@ -30,7 +30,7 @@ class DatabaseSeeder extends Seeder
             LibraryBookSeeder::class,
             CartItemSeeder::class,
             ExamSeeder::class,
-
+            NotificationSeeder::class,
         ]);
 
     }

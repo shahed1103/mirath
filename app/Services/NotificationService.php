@@ -6,7 +6,7 @@ use App\Models\Notification;
 use App\Models\BroadcastNotification;
 use App\Models\User;
 use Carbon\Carbon;
-
+use Auth;
 class NotificationService
 {
     public function createNotification(array $data): Notification {
@@ -19,10 +19,10 @@ class NotificationService
         ]);
     }
 
-    public function getNotifications(int $userId): array{
-        $user = User::findOrFail($userId);
+    public function getNotifications(): array{
+        $user = Auth::user();
 
-        $personalNotifications = Notification::where('user_id', $userId)
+        $personalNotifications = Notification::where('user_id', $user->id)
             ->get();
 
         $broadcastNotifications = BroadcastNotification::where(
@@ -43,10 +43,12 @@ class NotificationService
         ];
     }
 
-    public function getUnreadCount(int $userId): array{
+    public function getUnreadCount(): array{
+        $user = Auth::user();
+
         return [
             'unread_notifications_count' =>
-                Notification::where('user_id', $userId)
+                Notification::where('user_id', $user->id)
                     ->where('is_read', false)
                     ->count(),
 
@@ -54,8 +56,10 @@ class NotificationService
         ];
     }
 
-    public function markAllAsRead(int $userId): array{
-        Notification::where('user_id', $userId)
+    public function markAllAsRead(): array{
+        $user = Auth::user();
+
+        Notification::where('user_id', $user->id)
             ->where('is_read' , false)
             ->update([
                 'is_read' => true

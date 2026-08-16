@@ -35,7 +35,7 @@ class RolesPermissionsSeeder extends Seeder
                         'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring' , 'getCompletedBookRedemptions' , 
                         'create_meet','getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
                         'removeBookFromCart' , 'requestBookRedemption' , 'getLastUserExams' , 'getAllUserExams' , 'calculate' , 'createplans' ,
-                        'getTasksByRange' , 'completeTask' , 'getPlanProgress' , 'delete_meet'
+                        'getTasksByRange' , 'completeTask' , 'getPlanProgress' , 'delete_meet' , 'getNotifications' , 'getUnreadCount' , 'markAllAsRead'
                     ];
 
         // foreach ($permissions as $permissionName) {
@@ -59,7 +59,7 @@ foreach ($permissions as $permissionName) {
                         'addFeedback' , 'getBooks' , 'getChapters' , 
                         'create_meet','getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
                         'removeBookFromCart' , 'requestBookRedemption' , 'getLastUserExams' , 'getAllUserExams' , 'calculate' , 'createplans' ,
-                        'getTasksByRange' , 'completeTask' , 'getPlanProgress'         
+                        'getTasksByRange' , 'completeTask' , 'getPlanProgress' , 'getNotifications' , 'getUnreadCount' , 'markAllAsRead'    
                         ]);
 
     // 3. Assign permissions
@@ -73,7 +73,8 @@ foreach ($permissions as $permissionName) {
         $followStudentAdminRole->syncPermissions(['getAllUsers' , 'getAllFeedbacks' , 'userStatisticsOverview']);
 
         $libraryAdminRole -> syncPermissions(['storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
-          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks', 'getCompletedBookRedemptions']);
+          'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks', 'getCompletedBookRedemptions'
+          , 'getNotifications' , 'getUnreadCount' , 'markAllAsRead']);
 
         $itAdminRole -> syncPermissions(['getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring']);
 
