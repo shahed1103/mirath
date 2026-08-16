@@ -111,5 +111,26 @@ class NotificationSeeder extends Seeder
                 'is_read' => false,
             ]);
         }
+
+        /*
+        |--------------------------------------------------------------------------
+        | 6. Study Plan Reminder
+        |--------------------------------------------------------------------------
+        */
+
+        foreach ($users as $user) {
+
+            Notification::create([
+                'user_id' => $user->id,
+                'title' => 'وقت الدراسة 📚',
+                'body' => 'حان وقت الدراسة! لديك مهام دراسية مجدولة اليوم.',
+                'type' => 'study_reminder',
+                'data' => [
+                    'screen' => 'study_plan',
+                ],
+                'is_read' => false,
+            ]);
+        }
+        
     }
 }

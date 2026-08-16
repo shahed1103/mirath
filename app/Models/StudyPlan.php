@@ -26,7 +26,7 @@ public const CANCELLED = 'cancelled';
         'start_date',
         'end_date',
         'status',
-       'total_pages',
+        'total_pages',
         'total_books'
     ];
 

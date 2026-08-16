@@ -31,6 +31,7 @@ class DatabaseSeeder extends Seeder
             CartItemSeeder::class,
             ExamSeeder::class,
             NotificationSeeder::class,
+            StudyPlanReminderSeeder::class,
         ]);
 
     }
