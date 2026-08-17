@@ -3,7 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Http\Responses\response;
+use App\Http\Responses\Response;
+
 use App\Services\ContentAdminService;
 use App\Http\Requests\Admin\AddNewClassificationRequest;
 use App\Http\Requests\Admin\AddNewBookRequest;

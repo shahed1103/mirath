@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Http\Responses\response;
+use App\Http\Responses\Response;
 use App\Services\HomeService;
 use App\Services\StudyPlanService;
 use App\Http\Requests\Home\ProgressRequest;

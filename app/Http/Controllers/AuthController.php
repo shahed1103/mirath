@@ -10,7 +10,7 @@ use App\Http\Requests\Auth\CheckCodeRequest;
 use App\Http\Requests\Auth\ResetPasswordRequest;
 use App\Http\Requests\Auth\GoogleSignInRequest;
 use App\Http\Requests\Auth\SetPasswordRequest;
-use App\Http\Responses\response;
+use App\Http\Responses\Response;
 use App\Services\UserService;
 use Illuminate\Http\JsonResponse;
 use Throwable;

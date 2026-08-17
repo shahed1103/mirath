@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Throwable;
 use Illuminate\Http\JsonResponse;
 use App\Http\Requests\StudyPlan\GetStudyTasksRequest;
-use App\Http\Responses\response;
+use App\Http\Responses\Response;
 use App\Services\StudyPlanService;
 use App\Http\Requests\StudyPlan\CalculateStudyPlanRequest;
 use App\Http\Requests\StudyPlan\StudyPlanRequest;

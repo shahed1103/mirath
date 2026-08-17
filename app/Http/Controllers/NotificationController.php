@@ -11,7 +11,7 @@ use App\Services\NotificationService;
 use App\Services\NotificationManager;
 use App\Services\BroadcastNotificationService;
 use App\Services\DeviceService;
-use App\Http\Responses\response;
+use App\Http\Responses\Response;
 use Illuminate\Http\JsonResponse;
 
 class NotificationController extends Controller

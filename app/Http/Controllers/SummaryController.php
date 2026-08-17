@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Http\Responses\response;
+use App\Http\Responses\Response;
 use App\Services\SummaryService;
 use Illuminate\Http\JsonResponse;
 use App\Http\Requests\Summary\CreateSummaryRequest;

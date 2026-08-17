@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Throwable;
 
 use Illuminate\Http\Request;
-use App\Http\Responses\response;
+use App\Http\Responses\Response;
 use Illuminate\Http\JsonResponse;
 use App\Services\ITAdmin\ApiMonitoringService;
 use App\Services\ITAdmin\SystemHealthService;
