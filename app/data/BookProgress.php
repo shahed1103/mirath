@@ -4,6 +4,7 @@ namespace App\Data;
 
 class BookProgress
 {
+    
     /**
      * رقم الفصل الحالي داخل Collection
      */
