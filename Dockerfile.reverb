@@ -23,12 +23,7 @@ RUN COMPOSER_ALLOW_SUPERUSER=1 composer install \
     --no-interaction \
     --prefer-dist \
     --optimize-autoloader \
-    || \
-    COMPOSER_ALLOW_SUPERUSER=1 composer install \
-    --no-dev \
-    --no-interaction \
-    --prefer-source \
-    --optimize-autoloader
+    --no-scripts
 
 EXPOSE 8080
 
