@@ -83,7 +83,7 @@ foreach ($permissions as $permissionName) {
 
     // 4. Create users for each role
 
-        $dataEntryAdmin = User::factory()->create([
+        $dataEntryAdmin = User::create([
             'role_id' => $dataEntryAdminRole->id,
             'nationality_id' => 1,
             'age' => '20',
@@ -100,7 +100,7 @@ foreach ($permissions as $permissionName) {
         $permissions = $dataEntryAdminRole->permissions()->pluck('name')->toArray();
         $dataEntryAdmin->givePermissionTo($permissions);
 
-        $followStudentAdmin = User::factory()->create([
+        $followStudentAdmin = User::create([
             'role_id' => $followStudentAdminRole->id,
             'nationality_id' => 1,
             'age' => '20',
@@ -119,7 +119,7 @@ foreach ($permissions as $permissionName) {
 
 
 
-        $libraryAdmin = User::factory()->create([
+        $libraryAdmin = User::create([
             'role_id' => $libraryAdminRole->id,
             'nationality_id' => 1,
             'age' => '20',
@@ -138,7 +138,7 @@ foreach ($permissions as $permissionName) {
 
 
 
-        $itAdmin = User::factory()->create([
+        $itAdmin = User::create([
             'role_id' => $itAdminRole->id,
             'nationality_id' => 1,
             'age' => '20',
@@ -158,7 +158,7 @@ foreach ($permissions as $permissionName) {
 
 
 
-        $clientUser = User::factory()->create([
+        $clientUser = User::create([
             'role_id' => $clientRole->id,
             'nationality_id' => 1,
             'age' => '20',
