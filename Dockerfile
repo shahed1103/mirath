@@ -14,11 +14,9 @@ COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 
 WORKDIR /app
 
-COPY composer.json composer.lock ./
+COPY . .
 
 RUN composer install --no-dev --optimize-autoloader --no-interaction
-
-COPY . .
 
 RUN php artisan optimize:clear
 
