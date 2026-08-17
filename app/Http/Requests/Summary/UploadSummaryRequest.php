@@ -6,8 +6,7 @@ use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Validation\ValidationException;
 use Illuminate\Support\Facades\Auth;
-use App\Http\Responses\response;
-
+use App\Http\Responses\Response;
 
 
 class UploadSummaryRequest extends FormRequest
