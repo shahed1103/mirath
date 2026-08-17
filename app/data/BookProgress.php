@@ -19,7 +19,6 @@ class BookProgress
      */
     public bool $finished = false;
 
-
     public function finish(): void
 {
     $this->finished = true;
