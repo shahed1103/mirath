@@ -1,6 +1,6 @@
 <?php
 
-namespace app\Data;
+namespace App\Data;
 
 class BookProgress
 {
