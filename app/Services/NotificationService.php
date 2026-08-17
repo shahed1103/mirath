@@ -9,6 +9,7 @@ use Carbon\Carbon;
 use Auth;
 class NotificationService
 {
+    
     public function createNotification(array $data): Notification {
         return Notification::create([
             'user_id' => $data['user_id'],
