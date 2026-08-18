@@ -342,6 +342,9 @@ class ContentAdminService {
 
                 $path = Storage::disk('r2')->putFile($folder, $file);
             }
+            else {
+                $path = $request->url;
+            }
         $content->update([
             // 'type' => $request->type ?? $content->type,
             'url' => $path ?? $content->url,
