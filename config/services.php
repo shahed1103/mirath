@@ -47,4 +47,13 @@ return [
 
     ],
 
+    'jaas' => [
+    'app_id' => env('JAAS_APP_ID'),
+    'api_key_id' => env('JAAS_API_KEY_ID'),
+    'private_key_path' => env(
+    'JAAS_PRIVATE_KEY_PATH',
+    'storage/app/jaas/private.key'
+        ),
+    ],
+
 ];

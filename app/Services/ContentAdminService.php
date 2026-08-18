@@ -343,7 +343,7 @@ class ContentAdminService {
                 $path = Storage::disk('r2')->putFile($folder, $file);
             }
         $content->update([
-            'type' => $request->type ?? $content->type,
+            // 'type' => $request->type ?? $content->type,
             'url' => $path ?? $content->url,
             'total_progress_value' => $request->total_progress_value ?? $content->total_progress_value,
         ]);

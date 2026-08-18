@@ -14,11 +14,11 @@ class ChapterContentSeeder extends Seeder
      */
     public function run(): void
     {
-// $rows = array_map('str_getcsv', file(storage_path('app/import/chapter_contents.csv')));
-$rows = array_map(
-    'str_getcsv',
-    file(database_path('seeders/data/chapter_contents.csv'))
-);
+$rows = array_map('str_getcsv', file(storage_path('app/import/chapter_contents.csv')));
+// $rows = array_map(
+//     'str_getcsv',
+//     file(database_path('seeders/data/chapter_contents.csv'))
+// );
         // حذف أول سطر (العناوين)
         unset($rows[0]);
 

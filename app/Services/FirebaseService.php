@@ -146,19 +146,19 @@ class FirebaseService
     private function getAccessToken(): string{
         return Cache::remember('firebase_access_token', now()->addMinutes(55),
             function () {
-                // $client = new GoogleClient();
-                // $client->setAuthConfig(
-                //     storage_path(
-                //         'app/firebase/mirathapp-b7a10-firebase-adminsdk-fbsvc-1ab495bbb8.json'
-                //     )
-                // );
-                $credentials = json_decode(
-                    base64_decode(env('FIREBASE_CREDENTIALS_BASE64')),
-                    true
-                );
-
                 $client = new GoogleClient();
-                $client->setAuthConfig($credentials);
+                $client->setAuthConfig(
+                    storage_path(
+                        'app/firebase/mirathapp-b7a10-firebase-adminsdk-fbsvc-1ab495bbb8.json'
+                    )
+                );
+                // $credentials = json_decode(
+                //     base64_decode(env('FIREBASE_CREDENTIALS_BASE64')),
+                //     true
+                // );
+
+                // $client = new GoogleClient();
+                // $client->setAuthConfig($credentials);
 
                 $client->addScope(
                     'https://www.googleapis.com/auth/firebase.messaging'

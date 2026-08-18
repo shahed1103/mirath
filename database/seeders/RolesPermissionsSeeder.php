@@ -33,9 +33,9 @@ class RolesPermissionsSeeder extends Seeder
                         'getBooks' , 'getChapters' , 'storeLibraryBook' , 'getAllBookRedemptions' , 'getMostRedeemedBooks',
                         'getMonthlyRedeemedPoints' , 'getBookRedemptionStatistics' , 'confirmBookRedemption' , 'getAllLibraryBooks',
                         'getSystemHealth' , 'getApiMonitoring' , 'getErrorMonitoring' , 'getCompletedBookRedemptions' , 
-                        'create_meet','getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
+                        'create_meet', 'delete_meet' , 'join_meet' , 'getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
                         'removeBookFromCart' , 'requestBookRedemption' , 'getLastUserExams' , 'getAllUserExams' , 'calculate' , 'createplans' ,
-                        'getTasksByRange' , 'completeTask' , 'getPlanProgress' , 'delete_meet' , 'getNotifications' , 'getUnreadCount' , 'markAllAsRead'
+                        'getTasksByRange' , 'completeTask' , 'getPlanProgress' , 'getNotifications' , 'getUnreadCount' , 'markAllAsRead' , 
                     ];
 
         // foreach ($permissions as $permissionName) {
@@ -57,7 +57,7 @@ foreach ($permissions as $permissionName) {
                         'quizResult' , 'getOpenQuestion' , 'addSummary' , 'uploadSummary' , 'editSummary' , 'summaryDetails' , //'getAnswer' ,
                         'deleteSummary' , 'allCreatedSummary' , 'allUploadedSummary' , 'getAllChats' , 'getChatMessages' , 'chat',
                         'addFeedback' , 'getBooks' , 'getChapters' , 
-                        'create_meet','getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
+                        'create_meet', 'delete_meet' , 'join_meet' , 'getStudentStatistics' , 'getAllLibraryBooks' , 'addBookToCart' , 'getMyPoints' , 'getCartItems' ,
                         'removeBookFromCart' , 'requestBookRedemption' , 'getLastUserExams' , 'getAllUserExams' , 'calculate' , 'createplans' ,
                         'getTasksByRange' , 'completeTask' , 'getPlanProgress' , 'getNotifications' , 'getUnreadCount' , 'markAllAsRead'    
                         ]);

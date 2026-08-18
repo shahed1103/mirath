@@ -29,9 +29,11 @@ class EditChapterContentRequest extends FormRequest
     {
         $content = \App\Models\ChapterContent::find($this->route('contentId'));
 
-        $type = $this->filled('type')
-            ? $this->input('type')
-            : $content->type;
+        // $type = $this->filled('type')
+        //     ? $this->input('type')
+        //     : $content->type;
+
+        $type = $content->type;
 
         $urlRules = match ($type) {
             'pdf' => 'nullable|file|mimes:pdf',

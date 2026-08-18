@@ -134,8 +134,9 @@ Route::post('sendBroadcastNotification', [NotificationController::class, 'sendBr
 
 
 
-Route::middleware('auth:sanctum')->post('/delete_meet/{id}', [MeetingController::class, 'delete_meet'])->middleware('can:delete_meet');
+Route::middleware('auth:sanctum')->get('/delete_meet/{id}', [MeetingController::class, 'delete_meet'])->middleware('can:delete_meet');
 Route::middleware('auth:sanctum')->post('/create_meet', [MeetingController::class, 'create_meet'])->middleware('can:create_meet');
+Route::middleware('auth:sanctum')->get('/join_meet/{meetingId}', [MeetingController::class, 'join_meet'])->middleware('can:join_meet');
 
 
 ///////////////profile and study plan
