@@ -17,7 +17,7 @@ class StudyPlanController extends Controller
     ) {
     }
 
-    public function calculatePlan(
+    public function calculate(
         CalculateStudyPlanRequest $request
     ): JsonResponse {
 
@@ -45,7 +45,7 @@ class StudyPlanController extends Controller
 
     }
 
-    public function createPlan(
+    public function createPlans(
         StudyPlanRequest $request
     ): JsonResponse {
 
