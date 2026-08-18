@@ -79,6 +79,7 @@ class ContentAdminService {
             $contents[$content->type] = [
                 'id' => $content->id,
                 'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
+                'total_progress_value' => $content->total_progress_value,
             ];
         }
 
