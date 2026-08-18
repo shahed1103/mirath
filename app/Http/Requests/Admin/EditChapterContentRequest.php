@@ -48,6 +48,7 @@ class EditChapterContentRequest extends FormRequest
         return [
             'type' => 'nullable|string|in:pdf,audio,video',
             'url'  => $urlRules,
+            'total_progress_value' => 'nullable|integer|min:1'
         ];
     }
 

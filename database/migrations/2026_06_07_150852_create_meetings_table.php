@@ -24,7 +24,7 @@ return new class extends Migration
 
 
      $table->string('title');
-     $table->string('meeting_link');
+     $table->string('meeting_link')->nullable();;
      $table->string('room_name');
      $table->string('type');
 $table->date('scheduled_date')->nullable();
