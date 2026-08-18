@@ -14,8 +14,19 @@ class BookDetailsResource extends JsonResource
      */
     public function toArray(Request $request): array
     {
+        $photoUrl = null;
+
+        if (
+            $this->photo_upload_status === 'uploaded' &&
+            !empty($this->photo)
+        ) {
+            $photoUrl = url(Storage::url($this->photo));
+        }
+
         return [
-            'photo' => url(Storage::url($this->photo)),
+            // 'photo' => url(Storage::url($this->photo)),
+            'photo' => $photoUrl,
+            'photo_upload_status' => $this->photo_upload_status,
             'title' => $this->title,
             'author_name' => $this->author_name,
             'total_pages' => $this->total_pages,

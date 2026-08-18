@@ -4,7 +4,6 @@ namespace App\Services;
 
 use App\Models\User;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
-use Illuminate\Support\Facades\DB;
 use App\Http\Resources\BookDetailsResource;
 use Illuminate\Validation\ValidationException;
 use App\Models\Book;
@@ -18,11 +17,14 @@ use App\Models\Feedback;
 use App\Models\Level;
 use Exception;
 use Throwable;
-use Illuminate\Support\Facades\Cache;
-use Storage;
 use App\Services\StorageCleanupService;
 use App\Services\BroadcastNotificationService;
 use Illuminate\Http\Request;
+use App\Jobs\UploadBookPhotoToR2Job;
+use App\Jobs\UploadChapterContentToR2Job;
+use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Storage;
 
 class ContentAdminService {
 
@@ -40,7 +42,7 @@ class ContentAdminService {
     ];
     
     public function getBookDetailsAdmin($bookId): array{
-        $book = Book::select('id','title','author_name','photo','total_pages','bio' , 'level_id')
+        $book = Book::select('id','title','author_name','photo','total_pages','bio' , 'level_id' , 'photo_upload_status')
                      ->withCount('chapters')
                      ->with(['chapters:id,book_id,title,order_number' , 'level:id,level'])
                      ->findOrFail($bookId);
@@ -65,35 +67,90 @@ class ContentAdminService {
         return ['chapters' => $data, 'message' => $message];
     }
 
-    public function getChapterDetailsAdmin($chapterId): array{ 
-        $chapter = Chapter::with('contents')
-            ->findOrFail($chapterId);
+    // public function getChapterDetailsAdmin($chapterId): array{ 
+    //     $chapter = Chapter::with('contents')
+    //         ->findOrFail($chapterId);
 
-            $contents = [
-                'pdf' => null,
-                'audio' => null,
-                'video' => null,
-            ];
+    //         $contents = [
+    //             'pdf' => null,
+    //             'audio' => null,
+    //             'video' => null,
+    //         ];
 
-        foreach ($chapter->contents as $content) {
-            $contents[$content->type] = [
-                'id' => $content->id,
-                'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
-                'total_progress_value' => $content->total_progress_value,
-            ];
+    //     foreach ($chapter->contents as $content) {
+    //         $contents[$content->type] = [
+    //             'id' => $content->id,
+    //             'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
+    //             'total_progress_value' => $content->total_progress_value,
+    //         ];
+    //     }
+
+    //     $data = [
+    //         'chapter_title' => $chapter->title ?? null,
+    //         'pdf'           => $contents['pdf'],
+    //         'audio'         => $contents['audio'],
+    //         'video'         => $contents['video'],
+    //     ];
+
+    //     $message = 'Chapter contents data retrieved successfully';
+    //     return ['contents' => $data , 'message' => $message];
+    // }
+public function getChapterDetailsAdmin($chapterId): array
+{
+    $chapter = Chapter::with('contents')
+        ->findOrFail($chapterId);
+
+    $contents = [
+        'pdf' => null,
+        'audio' => null,
+        'video' => null,
+    ];
+
+    foreach ($chapter->contents as $content) {
+
+        $url = null;
+
+        /*
+        |--------------------------------------------------------------------------
+        | File is ready
+        |--------------------------------------------------------------------------
+        */
+
+        if (
+            $content->upload_status === 'uploaded' &&
+            !empty($content->url)
+        ) {
+
+            $url = ($content->type === 'video')
+                ? $content->url
+                : url(Storage::url($content->url));
         }
 
-        $data = [
-            'chapter_title' => $chapter->title ?? null,
-            'pdf'           => $contents['pdf'],
-            'audio'         => $contents['audio'],
-            'video'         => $contents['video'],
+        $contents[$content->type] = [
+            'id' => $content->id,
+            'url' => $url,
+            'upload_status' => $content->upload_status,
+            'total_progress_value' => $content->total_progress_value,
         ];
-
-        $message = 'Chapter contents data retrieved successfully';
-        return ['contents' => $data , 'message' => $message];
     }
 
+    $data = [
+        'chapter_title' => $chapter->title ?? null,
+
+        'pdf' => $contents['pdf'],
+
+        'audio' => $contents['audio'],
+
+        'video' => $contents['video'],
+    ];
+
+    $message = 'Chapter contents data retrieved successfully';
+
+    return [
+        'contents' => $data,
+        'message' => $message,
+    ];
+}
     public function addNewClassification($request): array{
         return DB::transaction(function () use ($request) {
             $classification = Classification::create([
@@ -198,54 +255,104 @@ class ContentAdminService {
             if ($request->hasFile($urlField)) {
                 $file = $request->file($urlField);
 
+                //Store temporarily on local disk
+                $temporaryPath = $file->store(
+                    'temp/chapter-contents',
+                    'local'
+                );
+                // Create DB record first
+                $chapterContent = ChapterContent::create([
+                    'chapter_id' => $chapterId,
+                    'type' => $type,
+                    'url' => null,
+                    'total_progress_value' =>
+                        $request->$progressField,
+                    'upload_status' => 'pending'
+                ]);
+                //Upload to R2 after DB transaction commits
                 $folder = match ($type) {
                     'audio' => 'audios',
                     'pdf'   => 'chapters',
                     default => 'chapters',
                 };
 
-                $path = Storage::disk('r2')->putFile(
-                    $folder,
-                    $file
-                );
-            }
+                UploadChapterContentToR2Job::dispatch(
+                    $chapterContent->id,
+                    $temporaryPath,
+                    $folder
+                )->afterCommit();
 
-            $chapterContents[$type] = ChapterContent::create([
+                $chapterContents[$type] = $chapterContent;
+
+                continue;
+                // $path = Storage::disk('r2')->putFile(
+                //     $folder,
+                //     $file
+                // );
+            }
+            //Existing URL / no uploaded file
+            $url = $request->$urlField ?? null;
+
+            $chapterContent = ChapterContent::create([
                 'chapter_id' => $chapterId,
                 'type' => $type,
-                'url' => $path ?? $request->$urlField ?? null,
-                'total_progress_value' => $request->$progressField,
+                'url' => $url,
+                'upload_status' => $url ? 'uploaded' : null,
+                'total_progress_value' =>
+                    $request->$progressField,
             ]);
 
-            $path = null;
+            $chapterContents[$type] = $chapterContent;
+
+            // $path = null;
         }
 
         return $chapterContents;
     }
 
     private function createBook($request, int $classificationId): Book {
-        $path = null;
+        // $path = null;
+        $temporaryPath = null;
 
+        //Store photo temporarily
         if ($request->hasFile('photo')) {
              $photo = $request->file('photo');
-            $path = Storage::disk('r2')->putFile(
-                'covers',
-                $photo
+            // $path = Storage::disk('r2')->putFile(
+            //     'covers',
+            //     $photo
+            // );
+            $temporaryPath = $photo->store(
+                'temp/book-covers',
+                'local'
             );
         }
 
+        //Create Book
         $book = Book::create([
             'title' => $request->title,
             'author_name' => $request->author_name,
-            'photo' => $path ?? null,
+            // 'photo' => $path ?? null,
+            'photo' => null,
+            'photo_upload_status' => $temporaryPath
+                ? 'pending'
+                : null,
             'total_pages' => $request->total_pages,
             'bio' => $request->bio,
             'level_id' => $request->level_id,
             'classification_id' => $classificationId,
         ]);
-        ////Notification
+
+        //Queue R2 upload
+        if ($temporaryPath) {
+            UploadBookPhotoToR2Job::dispatch(
+                $book->id,
+                $temporaryPath
+            )->afterCommit();
+        }
+
+        //Notification
         $this->sendBookNotification($book);
-        ////
+
         return $book;
     }
 
@@ -281,28 +388,48 @@ class ContentAdminService {
 
     public function editBook($request , $bookId): array{
         $book = Book::findOrFail($bookId);
-        $photoPath = $book->photo;
+        // $photoPath = $book->photo;
 
-        if ($request->hasFile('photo')) {
-            if ($book->photo && Storage::disk('r2')->exists($book->photo)) {
-                Storage::disk('r2')->delete($book->photo);
-            }
-
-            $photoPath = Storage::disk('r2')->putFile(
-                'covers',
-                $request->file('photo')
-            );
-        }
-
+        //Basic data update
         $book->update([
             'title' => $request->title ?? $book->title,
             'author_name' => $request->author_name ?? $book->author_name,
-            'photo' => $photoPath,
+            // 'photo' => $photoPath,
             'total_pages' => $request->total_pages ?? $book->total_pages,
             'bio' => $request->bio ?? $book->bio,
             'level_id' => $request->level_id ?? $book->level_id,
         ]);
 
+        //New photo
+        if ($request->hasFile('photo')) {
+            // if ($book->photo && Storage::disk('r2')->exists($book->photo)) {
+            //     Storage::disk('r2')->delete($book->photo);
+            // }
+
+            // $photoPath = Storage::disk('r2')->putFile(
+            //     'covers',
+            //     $request->file('photo')
+            // );
+
+            // temporarily store the uploaded photo on local disk
+            $temporaryPath = $request->file('photo')
+                ->store('temp/book-covers', 'local');
+
+            // Keep old path to delete after successful upload
+            $oldPath = $book->photo;
+
+            // Update book record to indicate that the photo upload is pending
+            $book->update([
+                'photo_upload_status' => 'pending',
+            ]);
+
+            UploadBookPhotoToR2Job::dispatch(
+                $book->id,
+                $temporaryPath,
+                $oldPath
+            )->afterCommit();
+        }
+        $book->refresh();
         return [
             'message' => 'Book updated successfully.',
             'data' => $book,
@@ -327,30 +454,60 @@ class ContentAdminService {
     public function editChapterContent($request , $contentId): array{
         $content = ChapterContent::findOrFail($contentId);
             $path = $content->url;
-
+            //New uploaded file
             if ($request->hasFile('url')) {
-                if ($content->url && Storage::disk('r2')->exists($content->url)) {
-                    Storage::disk('r2')->delete($content->url);
-                }
+                // Store temporarily on local disk
+                $temporaryPath = $request->file('url')->store(
+                    'temp/chapter-contents',
+                    'local'
+                );
 
-                $file = $request->file('url');
+                // Keep old path to delete after successful upload
+                $oldPath = $content->url;
 
-                $folder = match ($request->type ?? $content->type) {
+                // if ($content->url && Storage::disk('r2')->exists($content->url)) {
+                //     Storage::disk('r2')->delete($content->url);
+                // }
+
+                // $file = $request->file('url');
+
+                $folder = match ($content->type) {
                     'audio' => 'audios',
                     'pdf'   => 'chapters',
                     default => 'chapters',
                 };
 
-                $path = Storage::disk('r2')->putFile($folder, $file);
+                // $path = Storage::disk('r2')->putFile($folder, $file);
+
+                $content->update([
+                    'upload_status' => 'pending',
+                    'total_progress_value' =>
+                        $request->total_progress_value
+                        ?? $content->total_progress_value,
+                ]);
+
+                UploadChapterContentToR2Job::dispatch(
+                    $content->id,
+                    $temporaryPath,
+                    $folder,
+                    $oldPath
+                )->afterCommit();
             }
             else {
-                $path = $request->url;
+                // $path = $request->url;
+                $content->update([
+                    'url' => $request->url ?? $content->url,
+                    'total_progress_value' =>
+                        $request->total_progress_value
+                        ?? $content->total_progress_value,
+                ]);
             }
-        $content->update([
-            // 'type' => $request->type ?? $content->type,
-            'url' => $path ?? $content->url,
-            'total_progress_value' => $request->total_progress_value ?? $content->total_progress_value,
-        ]);
+        // $content->update([
+        //     // 'type' => $request->type ?? $content->type,
+        //     'url' => $path ?? $content->url,
+        //     'total_progress_value' => $request->total_progress_value ?? $content->total_progress_value,
+        // ]);
+        $content->refresh();
 
         return [
             'message' => 'Chapter content updated successfully.',

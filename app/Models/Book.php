@@ -16,6 +16,7 @@ class Book extends Model
         'author_name',
         'bio',
         'photo',
+        'photo_upload_status',
         'classification_id',
         'level_id',
         'total_pages'

@@ -16,7 +16,12 @@ return new class extends Migration
             $table->string('title');
             $table->string('author_name');
             $table->string('bio');
-            $table->string('photo');
+            $table->string('photo')->nullable();
+            $table->enum('photo_upload_status', [
+                        'pending',
+                        'uploaded',
+                        'failed',
+                    ])->nullable();
             $table->foreignId('classification_id')->constrained('classifications')->onDelete('cascade');
             $table->foreignId('level_id')->constrained('levels')->onDelete('cascade');
             $table->integer('total_pages');

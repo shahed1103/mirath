@@ -12,7 +12,8 @@ class ChapterContent extends Model
         'chapter_id',
         'type',
         'url',
-        'total_progress_value'
+        'total_progress_value',
+        'upload_status'
     ];
 
     public function chapter(): BelongsTo{

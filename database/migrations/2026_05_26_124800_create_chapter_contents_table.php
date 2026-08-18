@@ -15,9 +15,15 @@ return new class extends Migration
             $table->id();
             $table->foreignId('chapter_id')->constrained('chapters')->onDelete('cascade');
             // $table->string('type');
-            $table->string('url');
-            $table->unique(['chapter_id', 'type']);
+            // $table->string('url');
             $table->enum('type', ['pdf', 'video', 'audio']);
+            $table->string('url')->nullable();
+            $table->enum('upload_status', [
+                'pending',
+                'uploaded',
+                'failed',
+            ])->nullable();
+            $table->unique(['chapter_id', 'type']);
             $table->unsignedInteger('total_progress_value');
             // 'type' => 'required|in:pdf,video,audio'
             $table->timestamps();
