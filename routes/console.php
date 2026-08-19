@@ -10,3 +10,6 @@ Artisan::command('inspire', function () {
 
 Schedule::command('study:send-reminders')
     ->everyMinute();
+
+Schedule::command('meetings:send-reminders')
+    ->everyMinute();

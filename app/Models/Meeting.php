@@ -23,6 +23,7 @@ class Meeting extends Model
 'scheduled_date',
 'scheduled_time',
 'created_by',
+'reminder_sent_at'
     ];
 
     public function creator()

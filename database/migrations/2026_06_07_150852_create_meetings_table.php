@@ -34,8 +34,8 @@ $table->time('scheduled_time')->nullable();
      $table->foreignId('created_by')
     ->constrained('users')
     ->cascadeOnDelete();
-
-
+$table->timestamp('reminder_sent_at')
+                ->nullable();
     // $table->foreignId('created_by')
     //     ->constrained('users')
     //     ->cascadeOnDelete();

@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use App\Models\Meeting;
 use Illuminate\Support\Str;
 use App\Services\JaaSService;
+use Carbon\Carbon;
 
 class MeetingController extends Controller
 {
@@ -83,12 +84,10 @@ class MeetingController extends Controller
         ]);
     }
 
-
     /**
      * Join meeting and generate JaaS JWT
      */
-    public function join_meet($meetingId, JaaSService $jaasService)
-    {
+    public function join_meet($meetingId, JaaSService $jaasService){
         $meeting = Meeting::find($meetingId);
 
         if (!$meeting) {
@@ -107,10 +106,48 @@ class MeetingController extends Controller
             ], 401);
         }
 
+        /*
+        * Scheduled meetings:
+        * Allow joining 15 minutes before the scheduled time.
+        * Access expires 1 hour and 10 minutes after the scheduled time.
+        */
+        if ($meeting->type === 'scheduled') {
+
+            $scheduledAt = Carbon::parse(
+                $meeting->scheduled_date . ' ' . $meeting->scheduled_time
+            );
+
+            $joinFrom = $scheduledAt->copy()->subMinutes(15);
+
+            $joinUntil = $scheduledAt->copy()->addHour()->addMinutes(10);
+
+            // Too early
+            if (now()->lt($joinFrom)) {
+                return response()->json([
+                    'status' => 0,
+                    'message' => 'The meeting has not started yet.',
+                    'data' => [
+                        'join_available_from' => $joinFrom->toDateTimeString(),
+                    ],
+                ], 403);
+            }
+
+            // Meeting expired
+            if (now()->gt($joinUntil)) {
+                return response()->json([
+                    'status' => 0,
+                    'message' => 'The meeting has expired.',
+                    'data' => [
+                        'expired_at' => $joinUntil->toDateTimeString(),
+                    ],
+                ], 410);
+            }
+        }
+
         // Meeting creator is moderator
         $isModerator = $meeting->created_by == $user->id;
 
-        // Generate JWT for this user
+        // Generate JWT
         $token = $jaasService->generateToken(
             roomName: $meeting->room_name,
             userId: $user->id,
@@ -125,25 +162,19 @@ class MeetingController extends Controller
             'data' => [
                 'id' => $meeting->id,
                 'title' => $meeting->title,
-
-                // Same room for everyone
                 'room_name' => $meeting->room_name,
 
-                // JaaS room
                 'jitsi_room' => config('services.jaas.app_id')
                     . '/' . $meeting->room_name,
 
-                // Token for current user
                 'jitsi_token' => $token,
 
-                // JaaS server
                 'server_url' => 'https://8x8.vc',
             ],
 
             'message' => 'Meeting joined successfully',
         ]);
     }
-
 
     /**
      * Delete scheduled meeting

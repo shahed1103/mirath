@@ -26,13 +26,18 @@ class NotificationService
         $personalNotifications = Notification::where('user_id', $user->id)
             ->get();
 
-        $broadcastNotifications = BroadcastNotification::where(
-                'created_at',
-                '>=',
-                $user->created_at
-            )
-            ->get();
 
+        $broadcastNotifications = collect();
+
+        if ($user->role === 'user') {
+            $broadcastNotifications = BroadcastNotification::where(
+                    'created_at',
+                    '>=',
+                    $user->created_at
+                )
+                ->get();
+        }
+        
         $notifications = $personalNotifications
             ->concat($broadcastNotifications)
             ->sortByDesc('created_at')
