@@ -20,69 +20,90 @@ class StudyPlanService
         return $this->calculator->calculate($data);
     }
 
-    public function create(int $userId, array $data): array{
-        return DB::transaction(function () use ($userId, $data) {
+public function create(int $userId, array $data): array
+{
+    return DB::transaction(function () use ($userId, $data) {
 
-            /*
-             * 1- حساب عدد الأيام أو الورد
-             */
-            $plan = $this->calculator->calculate($data);
+        /*
+         * 1- حساب عدد الأيام أو الورد
+         */
+        $plan = $this->calculator->calculate($data);
 
-            /*
-             * 2- تحديد أول يوم دراسة
-             */
-            $startDate = $this->generator->resolveStartDate(
-                $data['study_days']
-            );
+        /*
+         * 2- تحديد أول يوم دراسة
+         */
+        $startDate = $this->generator->resolveStartDate(
+            $data['study_days']
+        );
 
-            /*
-             * 3- إنشاء الخطة
-             */
-            $studyPlan = $this->createPlan(
-                $userId,
-                $data,
-                $plan['data'],
-                $startDate
-            );
+        /*
+         * 3- حساب تاريخ نهاية الخطة المتوقع
+         */
+        $expectedEndDate = $this->calculateExpectedEndDate(
+            $startDate,
+            $plan['data']['target_days'],
+            $data['study_days']
+        );
 
-            /*
-             * 4- حفظ الكتب
-             */
-            $this->attachBooks(
-                $studyPlan,
-                $data['book_ids']
-            );
+        /*
+         * 4- التحقق من عدم وجود نفس الكتب
+         *    ضمن خطة أخرى تتداخل معها في الفترة
+         */
+        $this->checkDuplicateBooks(
+            $userId,
+            $data['book_ids'],
+            $startDate,
+            $expectedEndDate
+        );
 
-            /*
-             * 5- حفظ أيام الدراسة
-             */
-            $this->attachStudyDays(
-                $studyPlan,
-                $data['study_days']
-            );
+        /*
+         * 5- إنشاء الخطة
+         */
+        $studyPlan = $this->createPlan(
+            $userId,
+            $data,
+            $plan['data'],
+            $startDate
+        );
 
-            /*
-             * 6- توليد المهام
-             */
-            $endDate = $this->generator->generate($studyPlan);
+        /*
+         * 6- حفظ الكتب
+         */
+        $this->attachBooks(
+            $studyPlan,
+            $data['book_ids']
+        );
 
-            $studyPlan->update([
-                'end_date' => $endDate
-            ]);
+        /*
+         * 7- حفظ أيام الدراسة
+         */
+        $this->attachStudyDays(
+            $studyPlan,
+            $data['study_days']
+        );
 
+        /*
+         * 8- توليد المهام
+         */
+        $endDate = $this->generator->generate($studyPlan);
 
-            return [
+        /*
+         * 9- حفظ تاريخ النهاية الفعلي
+         */
+        $studyPlan->update([
+            'end_date' => $endDate
+        ]);
 
-                'data' => $studyPlan->load([
-        'books.book',
-        'days'
-        ]),
-                        'message' => 'تم إنشاء الخطة بنجاح.'
+        return [
+            'data' => $studyPlan->load([
+                'books.book',
+                'days'
+            ]),
+            'message' => 'تم إنشاء الخطة بنجاح.'
+        ];
+    });
+}
 
-                    ];
-
-                });
-    }
 
     public function getTasksByRange(): array{ 
         $userId = auth()->id();
@@ -297,5 +318,67 @@ class StudyPlanService
             'percentage' => $percentage,
         ];
     }
+
+
+ private function calculateExpectedEndDate(
+    Carbon $startDate,
+    int $targetDays,
+    array $studyDays
+): Carbon {
+
+    $currentDate = $startDate->copy();
+
+    $daysCount = 1;
+
+    while ($daysCount < $targetDays) {
+
+        $currentDate->addDay();
+
+        if (in_array($currentDate->dayOfWeek, $studyDays)) {
+            $daysCount++;
+        }
+    }
+
+    return $currentDate;
 }
 
+private function checkDuplicateBooks(
+    int $userId,
+    array $bookIds,
+    Carbon $startDate,
+    Carbon $endDate
+): void {
+
+    $duplicateBooks = StudyPlan::query()
+        ->where('user_id', $userId)
+        ->where('start_date', '<=', $endDate)
+        ->where('end_date', '>=', $startDate)
+        ->whereHas('books', function ($query) use ($bookIds) {
+            $query->whereIn('book_id', $bookIds);
+        })
+        ->with('books.book:id,title')
+        ->get();
+
+    if ($duplicateBooks->isEmpty()) {
+        return;
+    }
+
+    $duplicateBookNames = $duplicateBooks
+        ->flatMap(function ($plan) use ($bookIds) {
+
+            return $plan->books
+                ->whereIn('book_id', $bookIds)
+                ->map(function ($planBook) {
+                    return $planBook->book?->title;
+                });
+        })
+        ->filter()
+        ->unique()
+        ->values()
+        ->implode('، ');
+
+    throw new \InvalidArgumentException(
+        "الكتاب {$duplicateBookNames} مجدول مسبقًا ضمن خطة دراسية في نفس الفترة."
+    );
+}
+}

@@ -59,6 +59,8 @@ private function calculateBookShares(Collection $books, int $dailyPages): array 
     return $shares;
 }
 
+
+
 public function generate(StudyPlan $studyPlan): Carbon
 {
     $books = $studyPlan
