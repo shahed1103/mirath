@@ -155,8 +155,8 @@ public function requestBookRedemption(
             ->requestBookRedemption($request->validated()['book_ids']);
 return Response::Success(
     [
-        'library_location' => $data['library_location'],
-        'working_hours' => $data['working_hours'],
+        'library_location' => 'برامكة بجاني مشفى التوليد',
+        'working_hours' => 'من الساعة 8 صباحاً حتى الساعة 6 مساء',
     ],
     $data['message']
 );
