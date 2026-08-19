@@ -95,62 +95,62 @@ class ContentAdminService {
     //     $message = 'Chapter contents data retrieved successfully';
     //     return ['contents' => $data , 'message' => $message];
     // }
-public function getChapterDetailsAdmin($chapterId): array
-{
-    $chapter = Chapter::with('contents')
-        ->findOrFail($chapterId);
+    public function getChapterDetailsAdmin($chapterId): array{
+        $chapter = Chapter::with('contents')
+            ->findOrFail($chapterId);
 
-    $contents = [
-        'pdf' => null,
-        'audio' => null,
-        'video' => null,
-    ];
+        $contents = [
+            'pdf' => null,
+            'audio' => null,
+            'video' => null,
+        ];
 
-    foreach ($chapter->contents as $content) {
+        foreach ($chapter->contents as $content) {
 
-        $url = null;
+            $url = null;
 
-        /*
-        |--------------------------------------------------------------------------
-        | File is ready
-        |--------------------------------------------------------------------------
-        */
+            /*
+            |--------------------------------------------------------------------------
+            | File is ready
+            |--------------------------------------------------------------------------
+            */
 
-        if (
-            $content->upload_status === 'uploaded' &&
-            !empty($content->url)
-        ) {
+            if (
+                $content->upload_status === 'uploaded' &&
+                !empty($content->url)
+            ) {
 
-            $url = ($content->type === 'video')
-                ? $content->url
-                : url(Storage::url($content->url));
+                $url = ($content->type === 'video')
+                    ? $content->url
+                    : url(Storage::url($content->url));
+            }
+
+            $contents[$content->type] = [
+                'id' => $content->id,
+                'url' => $url,
+                'upload_status' => $content->upload_status,
+                'total_progress_value' => $content->total_progress_value,
+            ];
         }
 
-        $contents[$content->type] = [
-            'id' => $content->id,
-            'url' => $url,
-            'upload_status' => $content->upload_status,
-            'total_progress_value' => $content->total_progress_value,
+        $data = [
+            'chapter_title' => $chapter->title ?? null,
+
+            'pdf' => $contents['pdf'],
+
+            'audio' => $contents['audio'],
+
+            'video' => $contents['video'],
+        ];
+
+        $message = 'Chapter contents data retrieved successfully';
+
+        return [
+            'contents' => $data,
+            'message' => $message,
         ];
     }
-
-    $data = [
-        'chapter_title' => $chapter->title ?? null,
-
-        'pdf' => $contents['pdf'],
-
-        'audio' => $contents['audio'],
-
-        'video' => $contents['video'],
-    ];
-
-    $message = 'Chapter contents data retrieved successfully';
-
-    return [
-        'contents' => $data,
-        'message' => $message,
-    ];
-}
+    
     public function addNewClassification($request): array{
         return DB::transaction(function () use ($request) {
             $classification = Classification::create([

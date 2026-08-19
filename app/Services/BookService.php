@@ -19,99 +19,373 @@ use Illuminate\Support\Facades\Storage;
 
 class BookService {
 
+    // public function getClassificationDetails($classificationId): array{
+    //     $classification = Classification::select('id','bio')
+    //                         ->with(['books' => fn ($query)
+    //                                         => $query 
+    //                                         ->select('id','classification_id','title','author_name','photo','level_id')
+    //                                         ->orderBy('level_id')
+    //                         ])->findOrFail($classificationId);
+
+    //     $data = [
+    //             'bio' => $classification->bio,
+    //             'books' => BookResource::collection($classification->books),
+    //     ];
+    //     $message = 'Classification details data retrieved successfully';
+    //     return ['books' => $data , 'message' => $message];
+    // }
     public function getClassificationDetails($classificationId): array{
-        $classification = Classification::select('id','bio')
-                            ->with(['books' => fn ($query)
-                                            => $query 
-                                            ->select('id','classification_id','title','author_name','photo','level_id')
-                                            ->orderBy('level_id')
-                            ])->findOrFail($classificationId);
+        $classification = Classification::select(
+            'id',
+            'bio'
+        )
+        ->with([
+            'books' => fn ($query) => $query
+                ->select(
+                    'id',
+                    'classification_id',
+                    'title',
+                    'author_name',
+                    'photo',
+                    'photo_upload_status',
+                    'level_id'
+                )
+                ->orderBy('level_id')
+        ])
+        ->findOrFail($classificationId);
 
         $data = [
-                'bio' => $classification->bio,
-                'books' => BookResource::collection($classification->books),
+            'bio' => $classification->bio,
+            'books' => BookResource::collection(
+                $classification->books
+            ),
         ];
-        $message = 'Classification details data retrieved successfully';
-        return ['books' => $data , 'message' => $message];
-    }
 
+        $message = 'Classification details data retrieved successfully';
+
+        return [
+            'books' => $data,
+            'message' => $message,
+        ];
+    }
+    // public function getBookDetails($bookId): array{
+    //     $userId = auth()->id();
+    //     $book = Book::select('id','title','author_name','photo','total_pages','bio')
+    //                  ->withCount('chapters')
+    //                  ->with(['chapters:id,book_id,title,order_number',
+    //                          'chapters.contents.progresses'=>
+    //                                 function ($query) use ($userId) {
+    //                                     $query->where('user_id', $userId)
+    //                                           ->select('id','content_id','progress');
+    //                                 },
+    //                          'chapters.progress' => 
+    //                                 function ($query) use ($userId) {
+    //                                     $query->where('user_id', $userId)
+    //                                         ->select( 'id', 'chapter_id', 'is_open'); 
+    //                                 }
+    //                         ])->findOrFail($bookId);
+
+    //     $data = [
+    //         'book' => new BookDetailsResource($book),
+    //         'chapters' => ChapterResource::collection($book->chapters),
+    //     ];
+    //     $message = 'Book details data retrieved successfully';
+    //     return ['chapters' => $data , 'message' => $message];
+    // }
     public function getBookDetails($bookId): array{
         $userId = auth()->id();
-        $book = Book::select('id','title','author_name','photo','total_pages','bio')
-                     ->withCount('chapters')
-                     ->with(['chapters:id,book_id,title,order_number',
-                             'chapters.contents.progresses'=>
-                                    function ($query) use ($userId) {
-                                        $query->where('user_id', $userId)
-                                              ->select('id','content_id','progress');
-                                    },
-                             'chapters.progress' => 
-                                    function ($query) use ($userId) {
-                                        $query->where('user_id', $userId)
-                                            ->select( 'id', 'chapter_id', 'is_open'); 
-                                    }
-                            ])->findOrFail($bookId);
+
+        $book = Book::select(
+            'id',
+            'title',
+            'author_name',
+            'photo',
+            'photo_upload_status',
+            'total_pages',
+            'bio'
+        )
+        ->withCount('chapters')
+        ->with([
+            'chapters:id,book_id,title,order_number',
+
+            'chapters.contents' => function ($query) {
+                $query->select(
+                    'id',
+                    'chapter_id',
+                    'type',
+                    'url',
+                    'upload_status',
+                    'total_progress_value'
+                );
+            },
+
+            'chapters.contents.progresses' => function ($query) use ($userId) {
+                $query->where('user_id', $userId)
+                    ->select(
+                        'id',
+                        'content_id',
+                        'progress'
+                    );
+            },
+
+            'chapters.progress' => function ($query) use ($userId) {
+                $query->where('user_id', $userId)
+                    ->select(
+                        'id',
+                        'chapter_id',
+                        'is_open'
+                    );
+            },
+        ])
+        ->findOrFail($bookId);
 
         $data = [
             'book' => new BookDetailsResource($book),
-            'chapters' => ChapterResource::collection($book->chapters),
+            'chapters' => ChapterResource::collection(
+                $book->chapters
+            ),
         ];
+
         $message = 'Book details data retrieved successfully';
-        return ['chapters' => $data , 'message' => $message];
+
+        return [
+            'chapters' => $data,
+            'message' => $message,
+        ];
     }
 
-    public function getChapterDetails($chapterId): array{ 
+    // public function getChapterDetails($chapterId): array{ 
+    //     $userId = auth()->id();
+    //     $chapter = Chapter::with('contents' , 'summaries')
+    //         ->findOrFail($chapterId);
+
+    //     $progresses = ContentProgress::where('user_id', $userId)
+    //         ->whereIn('content_id', $chapter->contents->pluck('id'))
+    //         ->get()
+    //         ->keyBy('content_id');
+
+    //     if($chapter->order_number != 1){
+    //         $isUnlocked = UserChapterProgress::where('user_id' , $userId)
+    //             ->where('chapter_id' , $chapterId)
+    //             ->where('is_open' , true)
+    //             ->exists();
+
+    //         if(!$isUnlocked){
+    //             throw new Exception('Chapter is locked' , 403);
+    //         }
+    //     }
+    //         $contents = [
+    //             'pdf' => null,
+    //             'audio' => null,
+    //             'video' => null,
+    //         ];
+
+    //     foreach ($chapter->contents as $content) {
+
+    //         $progress = $progresses[$content->id]->progress ?? 0;
+
+    //         $contents[$content->type] = [
+    //             'id' => $content->id,
+    //             'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
+    //             'progress' => $progress
+    //         ];
+    //     }
+
+    //     // use the loaded relation to check if the user already has a summary for this chapter
+    //     $summaryChapterAlready = $chapter->summaries->contains(function ($summary) use ($userId) {
+    //         return $summary->user_id == $userId;
+    //     });
+
+    //     $data = [
+    //         'chapter_title' => $chapter->title ?? null,
+    //         'chapter_number' => $chapter->order_number ?? null,
+    //         'have_summary' => $summaryChapterAlready ?? false,
+    //         'pdf'           => $contents['pdf'],
+    //         'audio'         => $contents['audio'],
+    //         'video'         => $contents['video'],
+    //     ];
+
+    //     $message = 'Chapter contents data retrieved successfully';
+    //     return ['contents' => $data , 'message' => $message];
+    // }
+
+    public function getChapterDetails($chapterId): array{
         $userId = auth()->id();
-        $chapter = Chapter::with('contents' , 'summaries')
-            ->findOrFail($chapterId);
+
+        $chapter = Chapter::with([
+            'contents',
+            'summaries',
+        ])->findOrFail($chapterId);
+
+
+        /*
+        |--------------------------------------------------------------------------
+        | Get user progress
+        |--------------------------------------------------------------------------
+        */
 
         $progresses = ContentProgress::where('user_id', $userId)
-            ->whereIn('content_id', $chapter->contents->pluck('id'))
+            ->whereIn(
+                'content_id',
+                $chapter->contents->pluck('id')
+            )
             ->get()
             ->keyBy('content_id');
 
-        if($chapter->order_number != 1){
-            $isUnlocked = UserChapterProgress::where('user_id' , $userId)
-                ->where('chapter_id' , $chapterId)
-                ->where('is_open' , true)
-                ->exists();
 
-            if(!$isUnlocked){
-                throw new Exception('Chapter is locked' , 403);
+        /*
+        |--------------------------------------------------------------------------
+        | Check chapter access
+        |--------------------------------------------------------------------------
+        */
+
+        if ($chapter->order_number != 1) {
+
+            $isUnlocked = UserChapterProgress::where(
+                'user_id',
+                $userId
+            )
+            ->where('chapter_id', $chapterId)
+            ->where('is_open', true)
+            ->exists();
+
+            if (!$isUnlocked) {
+                throw new Exception(
+                    'Chapter is locked',
+                    403
+                );
             }
         }
-            $contents = [
-                'pdf' => null,
-                'audio' => null,
-                'video' => null,
-            ];
+
+
+        /*
+        |--------------------------------------------------------------------------
+        | Prepare contents
+        |--------------------------------------------------------------------------
+        */
+
+        $contents = [
+            'pdf' => null,
+            'audio' => null,
+            'video' => null,
+        ];
+
 
         foreach ($chapter->contents as $content) {
 
             $progress = $progresses[$content->id]->progress ?? 0;
 
+            $url = null;
+
+            /*
+            |--------------------------------------------------------------------------
+            | File URL
+            |--------------------------------------------------------------------------
+            |
+            | If url is null, the file is probably still pending.
+            | Never call Storage::url(null).
+            |
+            */
+
+            if (!empty($content->url)) {
+
+                if ($content->type === 'video') {
+
+                    // Video can be an external URL
+                    $url = $content->url;
+
+                } else {
+
+                    // PDF / Audio stored on R2
+                    $url = url(
+                        Storage::url($content->url)
+                    );
+                }
+            }
+
+
+            /*
+            |--------------------------------------------------------------------------
+            | Upload status
+            |--------------------------------------------------------------------------
+            |
+            | Old records may have upload_status = null
+            | even though the file already exists.
+            |
+            */
+
+            $uploadStatus = $content->upload_status;
+
+            if (
+                empty($uploadStatus) &&
+                !empty($content->url)
+            ) {
+                $uploadStatus = 'uploaded';
+            }
+
+
             $contents[$content->type] = [
                 'id' => $content->id,
-                'url' => ($content->type === 'video') ? $content->url : url(Storage::url($content->url)),
-                'progress' => $progress
+
+                'url' => $url,
+
+                'upload_status' => $uploadStatus,
+
+                'progress' => $progress,
+
+                'total_progress_value' =>
+                    $content->total_progress_value,
             ];
         }
 
-        // use the loaded relation to check if the user already has a summary for this chapter
-        $summaryChapterAlready = $chapter->summaries->contains(function ($summary) use ($userId) {
-            return $summary->user_id == $userId;
-        });
+
+        /*
+        |--------------------------------------------------------------------------
+        | Check if user already has a summary
+        |--------------------------------------------------------------------------
+        */
+
+        $summaryChapterAlready = $chapter->summaries->contains(
+            function ($summary) use ($userId) {
+                return $summary->user_id == $userId;
+            }
+        );
+
+
+        /*
+        |--------------------------------------------------------------------------
+        | Response
+        |--------------------------------------------------------------------------
+        */
 
         $data = [
-            'chapter_title' => $chapter->title ?? null,
-            'chapter_number' => $chapter->order_number ?? null,
-            'have_summary' => $summaryChapterAlready ?? false,
-            'pdf'           => $contents['pdf'],
-            'audio'         => $contents['audio'],
-            'video'         => $contents['video'],
+            'chapter_title' =>
+                $chapter->title ?? null,
+
+            'chapter_number' =>
+                $chapter->order_number ?? null,
+
+            'have_summary' =>
+                $summaryChapterAlready,
+
+            'pdf' =>
+                $contents['pdf'],
+
+            'audio' =>
+                $contents['audio'],
+
+            'video' =>
+                $contents['video'],
         ];
 
-        $message = 'Chapter contents data retrieved successfully';
-        return ['contents' => $data , 'message' => $message];
+
+        $message =
+            'Chapter contents data retrieved successfully';
+
+
+        return [
+            'contents' => $data,
+            'message' => $message,
+        ];
     }
 }
