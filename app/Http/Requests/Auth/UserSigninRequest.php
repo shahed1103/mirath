@@ -5,8 +5,8 @@ namespace App\Http\Requests\Auth;
 use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Validation\ValidationException;
-use Illuminate\Support\Facades\Auth;
 use App\Http\Responses\Response;
+
 class UserSigninRequest extends FormRequest
 {
     /**
@@ -19,22 +19,39 @@ class UserSigninRequest extends FormRequest
 
     /**
      * Get the validation rules that apply to the request.
-     *
-     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array<mixed>|string>
      */
     public function rules(): array
     {
         return [
             'email' => 'required|email|exists:users,email',
-            'password' => 'required'
+            'password' => 'required',
         ];
     }
 
-    protected function failedValidation(Validator $validator){
+    /**
+     * Handle a failed validation attempt.
+     */
+    protected function failedValidation(Validator $validator)
+    {
+        $errors = $validator->errors();
 
-        //Throw a validationexception eith the translated error messages
-        $message = "you have sent invalid data";
+        // إذا الإيميل والباسورد الاثنين غير موجودين
+        if (
+            $this->missing('email') &&
+            $this->missing('password')
+        ) {
+            $message = 'Email and password are required';
+        } else {
+            $message = 'you have sent invalid data';
+        }
 
-        throw new ValidationException($validator, Response::Validation([],$message, $validator->errors()));
+        throw new ValidationException(
+            $validator,
+            Response::Validation(
+                [],
+                $message,
+                $errors
+            )
+        );
     }
 }

@@ -29,7 +29,7 @@ class NotificationService
 
         $broadcastNotifications = collect();
 
-        if ($user->role === 'user') {
+        if ($user->hasRole('Client')) {
             $broadcastNotifications = BroadcastNotification::where(
                     'created_at',
                     '>=',
