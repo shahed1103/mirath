@@ -298,8 +298,8 @@ class QuizService {
                 ->count();
 
             if ($tryCount == 1 && $correctPercentage >= 90) {
-                $pointsEarned = 3;
-                $user->increment('points', 3);
+                $pointsEarned = 100;
+                $user->increment('points', 100);
             }
         }
 

@@ -7,8 +7,8 @@ use App\Models\CartItem;
 use App\Models\LibraryBook;
 use App\Models\User;
 use App\Models\Book;
-
-
+use App\Models\ContentProgress;
+use App\Models\StudyTask;
 use App\Models\BookRedemption;
 use Illuminate\Support\Facades\DB;
 use App\Http\Resources\LibraryBookResource;
@@ -34,14 +34,18 @@ public function getStudentStatistics(): array
     $averagePercentage = $averageCorrectAnswers
         ? round(($averageCorrectAnswers / 25) * 100, 2)
         : 0;
-
+    $hours_study = (int) ContentProgress::where('user_id', auth()->id())->sum('progress');
+    $all_tasks = StudyTask::where('user_id', auth()->id())->count();
+    $tasks_completed = StudyTask::where('user_id', auth()->id())
+        ->where('completed', true)
+        ->count();
     return [
-        'statistics' => [
+        'statistics' => [   
             'successful_exams_count' => $successfulExamsCount,
             'average_percentage' => $averagePercentage,
-            'hours_study' => 20,
-            'tasks_completed' => 2,
-            'all_tasks' => 10,
+            'hours_study' => (int) ($hours_study / 60),
+            'tasks_completed' => (int) $tasks_completed,
+            'all_tasks' => (int) $all_tasks,
             'points' => $points
         ],
         'message' => 'Student statistics retrieved successfully'
