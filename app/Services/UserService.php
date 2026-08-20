@@ -4,6 +4,7 @@
 namespace App\Services;
 
 use App\Models\User;
+use App\Models\UserDevice;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use App\Jobs\SendResetPasswordCodeJob;
 use Illuminate\Support\Facades\Auth;
@@ -74,26 +75,39 @@ class UserService {
      return ['user' => $user , 'message' => $message , 'code' => $code];
     }
 
+    // public function logout(): array{
+    //     $user = Auth::user();
+
+    //     if (!$user) {
+    //         throw new Exception("invalid token.", 404);
+    //     }
+
+    //     UserDevice::where('user_id', $user->id)
+    //         ->where('fcm_token', $data['fcm_token'])
+    //         ->delete();
+
+    //     $user->currentAccessToken()->delete();
+
+    //     return [
+    //         'user' => $user,
+    //         'message' => 'User logged out successfully',
+    //         'code' => 200
+    //     ];
+    // }
+
     public function logout(): array{
-        $user = Auth::user();
-
-        if (!$user) {
-            throw new Exception("invalid token.", 404);
+       $user = Auth::user();
+        if(!is_null(Auth::user())){
+            Auth::user()->currentAccessToken()->delete();
+            $message = 'User logged out successfully';
+            $code = 200; 
         }
-
-        UserDevice::where('user_id', $user->id)
-            ->where('fcm_token', $data['fcm_token'])
-            ->delete();
-
-        $user->currentAccessToken()->delete();
-
-        return [
-            'user' => $user,
-            'message' => 'User logged out successfully',
-            'code' => 200
-        ];
+        else{
+            throw new Exception("invalid token.", 404); 
+            } 
+        return ['user' => $user , 'message' => $message , 'code' => $code];
     }
-
+    
      public function forgotPassword($request): array{
               //Delete all old code user send before
               ResetCodePassword::query()->where('email' , $request['email'])->delete();
