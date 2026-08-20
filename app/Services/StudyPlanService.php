@@ -309,7 +309,7 @@ public function create(int $userId, array $data): array
 
         $percentage = $totalPages > 0
             ? round(($completedPages / $totalPages) * 100, 2)
-            : 0;
+            : 0.0;
 
         return [
             'total_pages' => $totalPages,
