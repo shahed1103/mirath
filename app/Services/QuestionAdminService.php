@@ -22,6 +22,7 @@ class QuestionAdminService {
             return [
                 'id' => $question->id,
                 'question_text' => $question->question_text,
+                'explanation' => $question->explanation,
                 'answers' => $question->choices->map(function ($choice) {
                     return [
                         'id' => $choice->id,
