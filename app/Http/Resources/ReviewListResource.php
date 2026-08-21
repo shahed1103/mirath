@@ -19,6 +19,8 @@ class ReviewListResource extends JsonResource
             'id' => $this->id,
             'classification' => $this->book->classification->classification,
             'book_name' => $this->book->title,
+            'author_name' => $this->book->author_name,
+            'book_id' => $this->book->id,
             'book_photo' => url(Storage::url($this->book->photo)),
             'chapter_name' => $this->title,
         ];
