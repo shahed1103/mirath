@@ -132,7 +132,7 @@ public function create(int $userId, array $data): array
                 $endOfMonth
             ])
             ->get()
-            ->keyBy(function ($meeting) {
+            ->groupBy(function ($meeting) {
                 return Carbon::parse($meeting->scheduled_date)->format('Y-m-d');
             });
 
@@ -152,21 +152,26 @@ public function create(int $userId, array $data): array
 
         $dayTasks = $groupedTasks->get($date, collect());
 
-        $meeting = $meetings->get($date);
+        $meeting = $meetings->get($date, collect());
+
+        // return all meetings for the date (not only the first)
+        $meetingItems = $meeting->map(function($meetingItem) {
+            return [
+                'id' => $meetingItem->id,
+                'title' => $meetingItem->title,
+                'description' => $meetingItem->description,
+                'meeting_link' => $meetingItem->meeting_link,
+                'room_name' => $meetingItem->room_name,
+                'type' => $meetingItem->type,
+                'scheduled_date' => $meetingItem->scheduled_date,
+                'scheduled_time' => $meetingItem->scheduled_time,
+            ];
+        })->values();
 
         return [
             'date' => $date,
 
-            'meeting' => $meeting ? [
-                'id' => $meeting->id,
-                'title' => $meeting->title,
-                'description' => $meeting->description,
-                'meeting_link' => $meeting->meeting_link,
-                'room_name' => $meeting->room_name,
-                'type' => $meeting->type,
-                'scheduled_date' => $meeting->scheduled_date,
-                'scheduled_time' => $meeting->scheduled_time,
-            ] : null,
+            'meeting' => $meetingItems->isNotEmpty() ? $meetingItems : null,
 
         'tasks' => $dayTasks->map(function ($task) {
 

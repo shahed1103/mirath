@@ -29,11 +29,13 @@ public function getStudentStatistics(): array
         ->where('success', true);
 
     $successfulExamsCount = (clone $successfulExams)->count();
-    $averageCorrectAnswers = (clone $successfulExams)->avg('correct_answers');
+    // average over all exams for this user
+    $averageCorrectAnswers = Exam::where('user_id', auth()->id())->avg('correct_answers');
 
     $averagePercentage = $averageCorrectAnswers
-        ? round(($averageCorrectAnswers / 25) * 100, 2)
+        ? round(($averageCorrectAnswers / 20) * 100, 2)
         : 0;
+        
     $hours_study = (int) ContentProgress::where('user_id', auth()->id())->sum('progress');
     $all_tasks = StudyTask::where('user_id', auth()->id())->count();
     $tasks_completed = StudyTask::where('user_id', auth()->id())
@@ -214,7 +216,7 @@ public function getLastUserExams(int $limit = 3): array
             ->get()
             ->map(function ($exam) {
                 $percentage = ($exam->questions_answered > 0)
-                    ? ($exam->correct_answers / $exam->questions_answered) * 100
+                    ? ($exam->correct_answers / 20) * 100
                     : 0;
                 return [
                     'score_percentage' => round($percentage, 2) . '%',
@@ -239,7 +241,7 @@ public function getLastUserExams(int $limit = 3): array
             ->get()
             ->map(function ($exam) {
                 $percentage = ($exam->questions_answered > 0)
-                    ? ($exam->correct_answers / $exam->questions_answered) * 100
+                    ? ($exam->correct_answers / 20) * 100
                     : 0;
                 return [
                     'score_percentage' => round($percentage, 2) . '%',
