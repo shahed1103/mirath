@@ -37,8 +37,8 @@ class UserSigninRequest extends FormRequest
 
         // إذا الإيميل والباسورد الاثنين غير موجودين
         if (
-            $this->missing('email') &&
-            $this->missing('password')
+            $errors->has('email') &&
+            $errors->has('password')
         ) {
             $message = 'Email and password are required';
         } else {
