@@ -99,7 +99,7 @@ class ChatService {
         if (!$response->successful()) {
             return [
                 'data' => [
-                    'answer' => 'حدث خطأ أثناء الاتصال بمحرك الذكاء الاصطناعي.',
+                    'answer' => 'انتهت الأسئلة المخصصة لك لليوم ، عاود زيارتنا غداً في نفس التوقيت لمزيد من الأسئلة.',
                     'sources' => []
                 ],
                 'message' => 'Request failed.'
